@@ -1,0 +1,110 @@
+[
+    {
+        "problem": "B. 0\nC.  −\\frac{6}{5}\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n N=−\\frac{1}{7}9\\frac{1}{2}−8,75:\\frac{2}{7}+0,625:1\\frac{2}{3}N=−\\frac{1}{7}\\frac{19}{2}−\\frac{875}{100}.\\frac{7}{2}+\\frac{625}{1000}:\\frac{5}{3}N=−\\frac{1}{7}\\frac{19}{2}−\\frac{35}{4}.\\frac{7}{2}+\\frac{5}{8}.\\frac{3}{5}N=−\\frac{1}{7}.\\frac{3}{4}.\\frac{7}{2}+\\frac{3}{8}N=−\\frac{3}{8}+\\frac{3}{8}=0\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2:\nĐiền số thích hợp vào ô trống\nThực hiện phép tính sau: 12,3 + 5,67 ta được kết quả là.....",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n12,3 + 5,67 = 17,97"
+    },
+    {
+        "problem": "Câu 3:\nĐiền số thích hợp vào ô trống\nKết quả của phép tính (−12,3) + (−5,67) là ......",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(−12,3) + (−5,67) = −17,97"
+    },
+    {
+        "problem": "Câu 4:\nĐiền số thích hợp vào ô trống\nThực hiện phép tính −5,5 + 90,67 ta được kết quả là:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−5,5+90,67=90,67−5,5=85,17"
+    },
+    {
+        "problem": "Câu 5:\nĐiền số thích hợp vào ô trống\nKết quả của phép trừ 0,008 − 3,9999 là:.....",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n 0,008−3,9999=0,008+(−3,9999)=−(3,9999−0,008)=−3,9919"
+    },
+    {
+        "problem": "Câu 6:\nĐiền số thích hợp vào ô trống\nCho biết một quả chuối nặng 100 g có chứa:\n- Chất béo: 0,3 g\n- Kali: 0,42 g.\nTrong quả chuối đó, khối lượng kali nhiều hơn khối lượng chất béo là .... g",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nKhối lượng kali nhiều hơn khối lượng chất béo là: 0,42 − 0,3 = 0,12 (g)"
+    },
+    {
+        "problem": "Câu 7: Tính một cách hợp lí: 89,45 + (−3,28) + 0,55 + (−6,72) ta được kết quả bằng\nA.80\nB.−80\nC.100\nD.−100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n 89,45+−3,28+0,55+−6,72=89,45+0,55+−3,28+−6,72=89,45+0,55+−3,28+−6,72=90+−10=90−10=80\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8: Bạn Nam cao 1,57 m, bạn Linh cao 1,53 m, bạn Loan cao 1,49 m.hiểu\nTrong ba bạn đó, bạn nào cao nhất? Bạn nào thấp nhất?\nA. Bạn Nam cao nhất, bạn Loan thấp nhất\nB. Bạn Linh cao nhất, bạn Loan thấp nhất\nC. Bạn Nam cao nhất, bạn Linh thấp nhất\nD. Bạn Loan cao nhất, bạn Nam thấp nhất",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa thấy:1,57 > 1,53 > 1,49 \n=> Bạn Nam cao nhất, bạn Loan thấp nhất.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9: Bạn Nam cao 1,57 m, bạn Linh cao 1,53 m, bạn Loan cao 1,49 m.hiểu\nChiều cao của bạn cao nhất hơn bạn thấp nhất là bao nhiêu mét?\nA.0,18m\nB.0,08m\nC.0,04m\nD.0,14m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều cao của bạn cao nhất hơn bạn thấp nhất là: 1,57 - 1,49 = 0,08 (m)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10: Bác Đồng của ba thanh gỗ: thanh thứ nhất dài 1,85 m, thanh thứ hai dài hơn thanh thứ nhất 10 cm. Độ dài thanh gỗ thứ ba ngắn hơn tổng độ dài hai thanh gỗ đầu tiên là 1,35 m. Thanh gỗ thứ ba mà bác Đồng đã cưa dài bao nhiêu mét?\nA.1,95m\nB.3,8m\nC.2,48m\nD. 2,38m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 10cm=0,1m \nChiều dài thanh gỗ thứ hai là: 1,85 + 0,1 = 1,951,8 (m)\nTổng chiều dài hai thanh gỗ đầu tiên là: 1,85 + 1,95 = 3,8 (m)\nChiều dài thanh gỗ thứ ba là: 3,8 − 1,35 = 2,48 (m)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12: Thực hiện phép tính: (−4,5) + 3,6 + 4,5 + (−3,6) ta được kết quả là:\nA.0\nB.1\nC.2\nD.3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n −4,5+3,6+4,5+−3,6=−4,5+4,5+3,6+−3.6=0+0=0\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13: Thực hiện các phép tính sau: (−45,5) . 0,4 ta được kết quả là:\nA.18,2\nB.−18,2\nC.−182\nD. 1,82",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−45,5.0,4=−45,5.0,4=−18,2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 14: Thực hiện các phép tính sau: −0,18 . (−1,5) ta được kết quả là:\nA.−0,27\nB.−2,7\nC.0,27\nD.2,7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n −0,18.(−1,5)=0,18.1,5=0,27\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 15: Thực hiện các phép tính sau: 0,15 . 4,4 ta được kết quả là:\nA.6,6\nB.0,66\nC.6,60\nD.0,066",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n 0,15.4,4=0,66\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 16: Tính diện tích S của một hình tròn có bán kính R = 10cm theo công thức \nS = πR^{2}  với π = 3,142\nA.31,4cm^{2} \nB.314cm^{2} \nC.64,8cm^{2} \nD.314cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích hình tròn là: S=3,14.102=314cm2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 17:\nĐiền số thích hợp vào chỗ trống\nThực hiện phép tính: 3,176 − (2,104 + 1,18) ta được kết quả là.....",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n 3,176−(2,104+1,18)=3,176−3,284=−0,108"
+    },
+    {
+        "problem": "Câu 18:\nĐiền vào chỗ trống\nDiện tích một hình chữ nhật có chiều dài 31,21 cm và chiều rộng 22,52 cm là .... cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích của hình chữ nhật đó là:\n 31,21.22,52=702,8492 (cm^{2} )"
+    },
+    {
+        "problem": "Câu 20: Tính chu vi của một hình tròn có bán kính R = 1,25 m theo công thức\nC = 2πR với π = 3,142.\nA.7,855 m^{2} \nB.7,855 m\nC.7,585 m^{2} \nD.7,558 m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChu vi của hình tròn đó là:\nC = 2πR = 2 . 3,142 . 1,25 = 7,855 (m^{2} )\nĐáp số: 7,855 m^{2} \nĐáp án cần chọn là: A"
+    }
+]

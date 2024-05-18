@@ -1,0 +1,146 @@
+[
+    {
+        "problem": "Chọn câu sai. Với a; b; m Z; b;m ≠ 0 thì\nA.\\frac{a}{b}=\\frac{a.m}{b.m}\nB.\\frac{a}{b}=\\frac{a+m}{b+m}\nC.\\frac{a}{b}=\\frac{−a}{−b}\nD.\\frac{a}{b}=\\frac{a:n}{b:n}với n là ước chung của a; b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDựa vào các tính chất cơ bản của phân số:\n\\frac{a}{b}=\\frac{a.m}{b.m} với m∈Z và m ≠ 0; \\frac{a}{b}=\\frac{a:n}{b:n} với n ƯC(a;b) và ab = −a − b thì các đáp án A, C, D đều đúng.\nĐáp án B sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Tìm số a; b biết \\frac{24}{56}=\\frac{a}{7}=\\frac{−111}{b}\nA. a = 3, b = −259\nB. a = −3, b = −259\nC. a = 3, b = 259\nD. a = −3, b = 259",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n\\frac{24}{56}=\\frac{24:8}{56:8}=\\frac{3}{7}⇒a=3\\frac{3}{7}=\\frac{3.−37}{7.−37}=\\frac{−111}{−259}=\\frac{−111}{b}⇒b=−259\nVậy a = 3; b = - 259\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Tìm x biết \\frac{2323}{3232}=\\frac{x}{32}\nA. 101\nB. 32\nC. – 23\nD. 23",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \\frac{2323}{3232}=\\frac{2323:101}{3232:101}=\\frac{23}{32}=\\frac{x}{32}⇒x=23\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Tìm x biết \\frac{−5}{−14}=\\frac{20}{6−5x}\nA. x = 10 \nB. x = −10 \nC. x = 5 \nD. x = 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{−5}{−14}=\\frac{−5.−4}{−14.−4}=\\frac{20}{56}=\\frac{20}{6−5x}\n⇒ 56 = 6 − 5x\n56 – 6 = −5x\n50 = −5x\nx = 50:(−5)\nx = −10\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Phân số \\frac{−m}{−n};n,m∈Z;n≠0 bằng phân số nào sau đây\nA.\\frac{m}{n}\nB.\\frac{n}{m}\nC.\\frac{−n}{m}\nD.\\frac{m}{−n}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\\frac{−m}{−n}=\\frac{m}{n}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Quy đồng mẫu số hai phân số \\frac{2}{7};\\frac{5}{−8} được hai phân số lần lượt là:\nA.\\frac{16}{56};\\frac{−35}{56}\nB.\\frac{16}{56};\\frac{35}{56}\nC.\\frac{16}{56};\\frac{35}{−56}\nD.\\frac{−16}{56};\\frac{−35}{56}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa quy đồng \\frac{2}{7} và \\frac{−5}{8}(MSC:56)\n\\frac{2}{7}=\\frac{2.8}{7.8}=\\frac{16}{56};\\frac{−5}{8}=\\frac{−5.7}{8.7}=\\frac{−35}{56}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Mẫu số chung của các phân số \\frac{2}{5};\\frac{23}{18};\\frac{5}{75} là:\nA. 180 \nB. 500\nC. 750 \nD. 450",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n5 = 5.1\n18 = 2.3^{2} \n 75 = 3.5^{2} \n⇒ BCNN(5; 18; 75) = 2.3^{2} .5^{2 } = 450\nVậy ta có thể chọn một mẫu chung là 450\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8. Mẫu chung nguyên dương nhỏ nhất của các phân số\\frac{19}{32.7.11};\\frac{23}{33.72.19}\nA. 3^{3} .7^{2} \nB. 3^{3} .7^{3} .11.19\nC. 3^{2} .7^{2} .11.19\nD. 3^{3} .7^{2} .11.19",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBCNN hay mẫu chung nguyên dương nhỏ nhất của hai mẫu đã cho là \n3^{3} .7^{2} .11.19\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9. Rút gọn phân số \\frac{−2.3+6.5}{9.6} về dạng phân số tối giản ta được phân số có tử số là\nA.\\frac{4}{9}\nB. 31\nC. – 1\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n\\frac{−2.3+6.5}{9.6}=\\frac{−6+30}{54}=\\frac{24}{54}=\\frac{24:6}{54:6}=\\frac{4}{9}\nVậy tử số cuả phân số cần tìm là: 4\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Phân số bằng phân số \\frac{301}{403} mà có tử số và mẫu số đều là số dương, có ba chữ số là phân số nào?\nA.\\frac{151}{201}\nB.\\frac{602}{806}\nC.\\frac{301}{403}\nD.\\frac{903}{1209}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+\\frac{301}{403}=\\frac{301.2}{403.2}=\\frac{602}{806}TM\n+\\frac{301}{403}=\\frac{301.3}{403.3}=\\frac{903}{1209}L\nDo đó ở các trường hợp nhân cả tử và mẫu với một số tự nhiên lớn hơn 3 ta cũng đều loại được.\nNgoài ra phân số \\frac{301}{403}tối giản nên không thể rút gọn được.\nVậy phân số cần tìm là \\frac{602}{806}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2.các dạng toán về tính chất cơ bản của phân số \nCâu 1. Phân số nào dưới đây là phân số tối giant?\nA.\\frac{−2}{4}\nB.\\frac{−15}{−96}\nC.\\frac{13}{27}\nD.\\frac{−29}{58}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: ƯCLN(2;4)=2≠1 nên loại.\nĐáp án B: ƯCLN(15;96)=3≠1 nên loại.\nĐáp án C: ƯCLN(13;27)=1 nên C đúng.\nĐáp án D: ƯCLN(29;58)=29≠1 nên D sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Nhân cả tử số và mẫu số của phân số \\frac{14}{23} với số nào để được phân số \\frac{168}{276} ?\nA. 14 \nB. 23\nC. 12\nD. 22",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 168:14 = 12 và 276:23 = 12 nên số cần tìm là 12.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Rút gọn phân số \\frac{600}{800} về dạng phân số tối giản ta được:\nA.\\frac{1}{2}\nB.\\frac{6}{8}\nC.\\frac{3}{4}\nD.\\frac{−3}{4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: ƯCLN(600,800) = 200 nên: \\frac{600}{800}=\\frac{600:200}{800:200}=\\frac{3}{4}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Hãy chọn phân số không bằng phân số \\frac{−8}{9} trong các phân số dưới đây?\nA.\\frac{16}{−18}\nB.\\frac{−72}{81}\nC.\\frac{−24}{−27}\nD.\\frac{−88}{99}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \\frac{16}{−18}=\\frac{−16}{18}=\\frac{−16:2}{18:2}=\\frac{−8}{9} nên A đúng\nĐáp án B: \\frac{−72}{81}=\\frac{−72:9}{81:9}=\\frac{−8}{9} nên B đúng\nĐáp án C:\\frac{−24}{−27}=\\frac{24}{27}=\\frac{24:3}{27:3}=\\frac{8}{9}≠\\frac{−8}{9}nên C sai\nĐáp án D: \\frac{−88}{99}=\\frac{−88:11}{99:11}=\\frac{−8}{9} nên D đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Rút gọn phân số\\frac{4.8}{64.−7} ta được phân số tối giản là:\nA.\\frac{−1}{7}\nB.\\frac{−1}{14}\nC.\\frac{4}{−56}\nD.\\frac{−1}{70}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\\frac{4.8}{64.−7}=\\frac{4.8}{2.4.8.−7}=\\frac{1}{2.−7}=\\frac{−1}{14}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Rút gọn biểu thức A=\\frac{3.−4.60−60}{50.20}\nA.\\frac{−13}{25}\nB.\\frac{−18}{25}\nC.\\frac{−6}{25}\nD.\\frac{−39}{50}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\nA=\\frac{3.−4.60−60}{50.20}=\\frac{3.−4−1.60}{50.20}=\\frac{−13.60}{50.20}=\\frac{−13.3}{50}=\\frac{−39}{50}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Phân số nào sau đây là kết quả của biểu thức \\frac{2.9.52}{22.−72} sau khi rút gọn đến tối giản?\nA.\\frac{−13}{22}\nB.\\frac{13}{22}\nC.\\frac{−13}{18}\nD.\\frac{−117}{198}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{2.9.52}{22.−72}=\\frac{2.32.22.13}{2.11.−23.32}=\\frac{23.32.13}{−24.32.11}=\\frac{13}{−2.11}=\\frac{−13}{22}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Biểu thức \\frac{512.39−510.311}{510.310} sau khi đã rút gọn đến tối giản có mẫu số dương là:\nA. 16\nB. 3\nC.\\frac{16}{5}\nD.\\frac{16}{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{512.39−510.311}{510.310}=\\frac{510.39.52−32}{510.310}=\\frac{510.39.16}{510.310}=\\frac{16}{3}\nVậy mẫu số của phân số đó là 3\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Sau khi rút gọn biểu thức \\frac{511.712+511.711}{512.712+9.511.711} ta được phân số \\frac{a}{b}. Tính tổng a + b.\nA. 26 \nB. 13\nC. 52\nD. 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{511.712+511.711}{512.712+9.511.711}=\\frac{511.7117+1}{511.7115.7+9}=\\frac{8}{44}=\\frac{2}{11}\nDo đó a = 2, b = 11 nên a + b = 13\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Tìm phân số bằng với phân số \\frac{200}{520} mà có tổng của tử và mẫu bằng 306\nA.\\frac{84}{222}\nB.\\frac{200}{520}\nC.\\frac{85}{221}\nD.\\frac{100}{260}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \\frac{200}{520}=\\frac{5}{13} nên có dạng tổng quát là \\frac{5k}{13k}(k∈Z, k ≠ 0)\nDo tổng và tử và mẫu của phân số cần tìm bằng 306 nên:\n5k + 13k = 306\n18k = 306\nk = 306:18\nk = 17\nVậy phân số cần tìm là \\frac{5.17}{13.17}=\\frac{85}{221}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11. Viết dạng tổng quát của các phân số bằng với phân số \\frac{−12}{40}\nA.\\frac{−3k}{10k},k∈Z\nB.\\frac{−3k}{10},k∈Z,k≠0\nC.\\frac{−3k}{10k},k∈Z,k≠0\nD.\\frac{−3}{10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Rút gọn phân số: \\frac{−12}{40}=\\frac{−12:4}{40:4}=\\frac{−3}{10}\n- Dạng tổng quát của phân số đã cho là:\\frac{−3k}{10k},k∈Z,k≠0\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12. Tìm phân số tối giản \\frac{a}{b} biết rằng lấy tử cộng với 6, lấy mẫu cộng với 14 thì ta được phân số bằng \\frac{3}{7} .\nA.\\frac{4}{5}\nB.\\frac{7}{3}\nC.\\frac{3}{7}\nD.\\frac{−3}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{a+6}{b+14}=\\frac{3}{7}\n7.(a + 6) = 3.(b + 14)\n7a + 42 = 3b + 42\n7a = 3\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13. Cho các phân số \\frac{6}{n+8};\\frac{7}{n+9};\\frac{8}{n+10};...;\\frac{35}{n+37} . Tìm số tự nhiên n nhỏ nhất để các phân số trên tối giản.\nA. 35\nB. 34 \nC. 37\nD. 36",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác phân số đã cho đều có dạng\\frac{a}{a+n+2}\nVà tối giản nếu a và n + 2 nguyên tố cùng nhau\nVì: [a + (n + 2)] – a = n + 2\n với a = 6; 7; 8;.....; 34; 35\nDo đó n + 2 nguyên tố cùng nhau với các số 6; 7; 8;.....; 34; 35\nSố tự nhiên n + 2 nhỏ nhất thỏa mãn tính chất này là 37\nTa có n + 2 = 37 nên n = 37 – 2 = 35\nVậy số tự nhiên nhỏ nhất cần tìm là 35\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 14. Rút gọn phân số \\frac{−12a}{24},a∈Z ta được:\nA.\\frac{a}{2}\nB.\\frac{1}{2}\nC.\\frac{−1}{2}\nD.\\frac{−a}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\\frac{−12a}{24}=\\frac{−1.12.a}{12.2}=\\frac{−1.a}{2}=\\frac{−a}{2}\nĐáp án cần chọn là: D"
+    }
+]

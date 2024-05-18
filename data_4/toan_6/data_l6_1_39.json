@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "B.60  \nC.30 \nD.50",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi  \\frac{3}{5}=\\frac{3}{5}:100=\\frac{3}{500}\nSố đó là:  0,3:\\frac{3}{500}=\\frac{3}{10}.\\frac{500}{3}=50\nVậy số cần tìm là 50\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2: Tỉ số giữa học sinh nam và học sinh nữ là 80%. Tìm số học sinh nam, biết lớp 6A có 36 học sinh?\nA.20 học sinh.\nB.17 học sinh.\nC.19 học sinh.\nD.16 học sinh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 80=\\frac{4}{5} tức là số học sinh nam bằng \\frac{4}{5}  số học sinh nữ.\nTổng số phần là:  4 + 5 = 9 (phần)\nLớp 6A có số học sinh nam là: 36 : 9 . 4 = 16 (học sinh)\nVậy lớp có 16 học sinh nam.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3: Hiệu của hai số là 21. Biết 37,5% số lớn bằng 0,6 số nhỏ. Hai số đó là\nA.56; 35\nB.45; 56                     \nC.60; 39\nD.56; 45",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi  37,5=\\frac{3}{8};0,6=\\frac{3}{5}\nTỉ số giữa số lớn và số nhỏ là:  \\frac{3}{5}:\\frac{3}{8}=\\frac{8}{5}\nHiệu số phần bằng nhau là: 8−5=3 (phần)\nSố lớn là: 21 : 3 × 8 = 56 \nSố nhỏ là: 56 – 21 = 35 \nVậy hai số đó là 56; 35 \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4: Một lớp có chưa đến 50 học sinh. Cuối năm có 30% số học sinh xếp loại giỏi;  \\frac{3}{8} số học sinh xếp loại khá, còn lại là trung bình. Tính số học sinh trung bình.\nA.15 học sinh\nB.13 học sinh                     \nC.20 học sinh\nD.99 học sinh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi  30=\\frac{3}{10}\nVì số học sinh phải là số tự nhiên nên phải chia hết cho 10 và 8\nBCNN(10,8) = 40 nên số học sinh của lớp là 40\nPhân số chỉ số học sinh trung bình là: 1−\\frac{3}{10}−\\frac{3}{8}=\\frac{13}{40} (số học sinh)\nSố học sinh trung bình là: 40.\\frac{13}{40}=13  (học sinh)\nVậy lớp có 13 học sinh trung bình.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5: Tỉ số của hai số a và b là 120%. Hiệu của hai số đó là 16. Tìm tổng hai số đó.\nA.96\nB.167\nC.150\nD.176",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi  120=\\frac{120}{100}=\\frac{6}{5}\nHiệu số phần bằng nhau là: 6 – 5 = 1 (phần)\nSố lớn là: 16 : 1.6 = 96 \nSố bé là: 16 : 1.5 = 80 \nTổng hai số là: 96 + 80 = 176 \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6: Một cửa hàng bán một tấm vải trong 4 ngày. Ngày thứ nhất bán  \\frac{1}{6} tấm vải và 5m; ngày thứ hai bán 20% số còn lại và 10m; ngày thứ ba bán 25% số còn lại và 9m; ngày thứ tư bán  \\frac{1}{3} số vải còn lại. Cuối cùng, tấm vải còn lại 13m. Tính chiều dài tấm vải ban đầu.\nA.87m\nB.78m\nC.60\nD.38",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố mét vải của ngày thứ tư khi chưa bán là:  13:1−\\frac{1}{3}=\\frac{39}{2}m\nSố mét vải của ngày thứ ba khi chưa bán là: \\frac{39}{2}+9:1−25=38m\nSố mét vải của ngày thứ hai khi chưa bán là:  38+10:1−20=60m\nSố mét vải của ngày đầu tiên khi chưa bán là: 60+5:1−\\frac{1}{6}=78m\nVậy lúc đầu tấm vải dài số mét là: 78m.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7:\nMột người bỏ ra 160000 đồng tiền vốn mua rau, sau khi bán hết số rau người đó người đó thu về 200000 đồng. Hỏi tiền lãi bằng bao nhiêu phần trăm tiền vốn?\nA. 2%\nB. 20%\nC. 25%\nD. 80%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTiền lãi thu được sau khi bán hết số rau đó là:\n200000 – 160000 = 40000 (đồng)\nTỉ số phần trăm giữa tiền lãi và tiền vốn là:\n40000 : 160000 = 0,25 = 25%\nĐáp số: 25%\nĐáp án cần chọn là : C"
+    },
+    {
+        "problem": "Câu 8:\nMột người bán xe đạp được lãi 16% so với giá bán thì được lãi bao nhiêu phần trăm so với giá vốn?\nA. 18,5%\nB. 19,04%\nC. 20,8%\nD. 22,05%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCoi giá bán là 100% thì tiền lãi sẽ chiếm 16% giá bán.\nTa có:  Giá bán  =  giá vốn  +  lãi.\nGiá vốn chiếm số phần trăm so với giá bán là:\n100% − 16% = 84% \nTiền lãi chiếm số phần trăm so với giá vốn là:\n16:84 = 0,1904 = 19,04% \nĐáp số: 19,04% \nĐáp án cần chọn là : B"
+    },
+    {
+        "problem": "Câu 9:\nTrong các công thức sau, công thức nào đúng?\nA. Giá bán = giá vốn - lãi\nB. Giá bán = giá vốn + lỗ\nC. Giá vốn = giá bán + lãi\nD. Giá bán = giá vốn + lãi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có các công thức :\n+) Giá bán = giá vốn + lãi;\n+) Giá vốn = giá bán – lãi;\n+) Lãi = giá bán – giá vốn;\n+) Giá bán = giá vốn – lỗ.\nVậy công thức đúng là:\nGiá bán = giá vốn + lãi.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10:\nMột cửa hàng bán tạp hóa cả ngày bán được 7440000 đồng. Nếu tiền bán được tăng thêm 400000 đồng thì tiền lãi sẽ là 1640000 đồng. Hỏi tiền lãi thực sự bằng bao nhiêu phần trăm tiền vốn?\nA. 20%\nB. 22,04%\nC. 24,4%\nD. 28%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTiền lãi thực sự cửa hàng thu được là:\n1640000 – 400000 = 1240000 (đồng)\nTiền vốn là:\n7440000 – 1240000 = 6200000 (đồng)\nTỉ số phần trăm của tiền lãi so với tiền vốn là:\n1240000 : 6200000 = 0,2 = 20% \nĐáp số: 20%.\nĐáp án cần chọn là : A"
+    }
+]

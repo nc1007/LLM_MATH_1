@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "Năm 2018, ngành giấy Việt Nam sản xuất được 3,674 triệu tấn. Biết rằng để sản xuất ra 1 tấn giấy phải dùng hết 4,4 tấn gỗ. Em hãy tính xem năm 2018 Việt Nam đã phải dùng bao nhiêu tấn gỗ cho sản xuất giấy?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tấn gỗ bằng số tấn giấy nhân với số tấn gỗ sản xuất 1 tấn giấy\nLời giải chi tiết\nSố tấn gỗ là:\n3,674. 4,4=16,1656 (triệu tấn)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong câu a, nếu viết kết quả làm tròn là 24 thì có đúng không?\nCâu a: Làm tròn số 24,037 tới hàng phần mười.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa số 24,0 về dạng phân số thập phân rồi rút gọn thành phân số tối giản.\nLời giải chi tiết\nViết kết quả làm tròn là 24 thì vẫn đúng vì \\(24,0 = \\dfrac{{240}}{{10}} = \\dfrac{{24}}{1} = 24\\)"
+    },
+    {
+        "problem": "Làm tròn số 3,14159 tới hàng phần nghìn.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Xác định số ở hàng làm tròn.\n+ Để làm tròn một số thập phân dương tới một hàng nào đấy (gọi là hàng làm tròn) ta\nlàm như sau:\n- Đối với chữ số hàng làm tròn:\nGiữ nguyên nếu chữ số ngay bên phải nhỏ hơn 5;\nTăng 1 đơn vị nếu chữ số ngay bên phải lớn hơn hay bằng 5.\n- Đối với các chữ số sau hàng làm tròn:\nBỏ đi nếu ở phần thập phân\nThay bởi các chữ số 0 nếu ở phần số nguyên.\nLời giải chi tiết\nChữ số ở hàng phần nghìn là chữ số 1.\nChữ số bên phải hàng phần nghìn là số 5 nên ta tăng 1 thêm 1 đơn vị ở hàng phần nghìn. Ta có số được làm tròn là 3,142."
+    },
+    {
+        "problem": "Làm tròn số 387,0094 tới hàng:\na) phần mười;\nb) trăm.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Xác định chữ số ở hàng làm tròn.\n+ Để làm tròn một số thập phân dương tới một hàng nào đấy (gọi là hàng làm tròn) ta làm như sau:\n- Đối với chữ số hàng làm tròn:\nGiữ nguyên nếu chữ số ngay bên phải nhỏ hơn 5;\nTăng 1 đơn vị nếu chữ số ngay bên phải lớn hơn hay bằng 5.\n- Đối với các chữ số sau hàng làm tròn:\nBỏ đi nếu ở phần thập phân\nThay bởi các chữ số 0 nếu ở phần số nguyên.\nLời giải chi tiết\na) Chữ số ở hàng làm tròn là số 0.\nChữ số ngay bên phải hàng làm tròn là số 0< 5 nên ta giữ nguyên số 0 ở hàng phần mười. Các chữ số sau hàng làm tròn ở phần thập phân nên ta bỏ đi . Khi đó ta được số làm tròn là: 387,0=387.\nb) Chữ số ở hàng làm tròn là số 4.\nChữ số ngay bên phải hàng làm tròn là số 8 > 5 nên ta tăng chữ số ở hàng trăm thêm 1 đơn vị. Các chữ số sau hàng làm tròn ở phần nguyên thì ta thay bởi các chữ số 0, ở phần thập phân thì ta bỏ đi . Khi đó ta được số làm tròn là: 400"
+    },
+    {
+        "problem": "Trong bốn số sau có một số là kết quả phép tính 256,3 + 892,37 + 45. Bằng cách ước lượng, em hãy cho biết số đó là số nào.\n(A) 1 190,65\n(B) 2 356,67\n(C) 1 193,67\n(D) 128,67.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta làm tròn các số đến hàng đơn vị.\nLời giải chi tiết\nTa có: \\(256,3 + 892,37 + 45 \\approx 256+892+45=1193\\). Vậy đáp án đúng là C."
+    },
+    {
+        "problem": "Chia đều một thanh gỗ dài 6,32 m thành bốn đoạn bằng nhau. Tính độ dài mỗi đoạn gỗ (Làm tròn kết quả tới hàng phần chục).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Tính độ dài mỗi đoạn thanh gỗ.\nBước 2: Làm tròn đến hàng phần chục.\nChú ý: Để làm tròn số thập phân dương tới một hàng nào đó ( gọi là hàng làm tròn) ta làm như sau:\n- Đối với chữ số hàng làm tròn:\n+ Giữ nguyên nếu chữ số ngay bên phải nhỏ hơn 5;\n+Tăng 1 đơn vị nếu chữ số ngay bên phải lớn hơn hoặc bằng 5\n- Đối với chữ số sau hàng làm tròn:\n+ Bỏ đi nếu ở phần thập phân;\n+ Thay bằng các chữ số 0 nếu ở phần số nguyên\nLời giải chi tiết\nĐộ dài thanh gỗ là:\n6,32:4=1,58 (m) \\(\\approx\\) 1,6 (m) (vì chữ số ở hàng ngay bên phải hàng làm tròn là 8>5 nên ta tăng chữ số hàng làm tròn lên 1 đơn vị).\nVậy thanh gỗ gần bằng 1,6m."
+    },
+    {
+        "problem": "Để đo khoảng cách giữa các hành tinh trong hệ Mặt Trời, người ta sử dụng đơn vị thiên văn là AU (1 AU xấp xỉ bằng khoảng cách giữa Trái Đất và Mặt Trời, được tính chính xác là 149 597 870 700 m). Để dễ viết, dễ nhớ, người ta nói 1 AU bằng khoảng 150 triệu kilômét. Nói như vậy nghĩa là ta đã làm tròn số liệu trên tới hàng nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 149 597 870 700 m về đơn vị km\nLàm tròn số 149 597 870,7 km đến hàng triệu\nLời giải chi tiết\n149 597 870 700 m =149 597 870,7 km\nLàm tròn số 149 597 870,7 km thành 150 triệu kilômét nghĩa là ta đã làm tròn số đến hàng triệu hoặc hàng chục triệu vì:\n+) Nếu làm tròn đến hàng triệu: Chữ số ngay sau hàng làm tròn là 5 nên tăng chữ số ở hàng làm tròn thêm 1 đơn vị. Các chữ số sau hàng làm tròn thay bằng chữ số 0.\n+) Nếu làm tròn đến hàng chục triệu: Chữ số ngay sau hàng làm tròn là 9 nên tăng chữ số ở hàng làm tròn thêm 1 đơn vị. Các chữ số sau hàng làm tròn thay bằng chữ số 0."
+    },
+    {
+        "problem": "Mẹ cho An 150 000 đồng để mua đồ dùng học tập. An dự định mua 15 quyển vở, 5 chiếc bút bi và 10 chiếc bút chì. Giá của một quyển vở, một chiếc bút bi, một chiếc bút chì lần lượt là 5 400 đồng, 2 800 đồng, 3 000 đồng. Em hãy ước lượng xem An có đủ tiền để mua đồ dùng học tập theo dự định không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta ước lượng giá của một quyển vở, một chiếc bút bi, một chiếc bút chì lần lượt là 6 000 đồng, 3 000 đồng, 3 000 đồng để ước lượng số tiền An cần dùng để mua.\nLời giải chi tiết\nVì mỗi quyển vở có giá 5 400 đồng nên mỗi quyển vở không quá 6 000 đồng, do đó 15 quyển vở không quá 15. 6 000 = 90 000 đồng.\nVì mỗi chiếc bút bi có giá 2 800 đồng nên mỗi chiếc bút bi không quá 3 000 đồng, do đó 5 chiếc bút bi không quá 5.3 000 = 15 000 đồng.\nVì mỗi chiếc bút chì có giá 3 00 đồng do đó 5 chiếc bút chì không quá 10. 3 000 = 30 000 đồng.\nVậy sẽ hết gần 90 000 + 15 000 + 30 000 = 135 000 đồng.\nVậy với 150 000 đồng, An đủ tiền mua đồ dùng học tập."
+    },
+    {
+        "problem": "Khoai lang là thực phẩm bổ dưỡng, giàu chất xơ và rất tốt cho sức khỏe. Theo Viện Dinh dưỡng Quốc gia, trong 200 gam khoai lang có chứa khoảng 57 gam chất bột đường và 2,6 gam chất xơ. Viết tỉ số khối lượng chất bột đường và khối lượng của khoai lang.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số khối lượng chất bột đường và khối lượng của khoai lang = khối lượng chất bột đường : khối lượng khoai lang.\nLời giải chi tiết\nTỉ số khối lượng chất bột đường và khối lượng của khoai lang là:\n\\(57:200 = \\dfrac{{57}}{{200}}\\)"
+    },
+    {
+        "problem": "Bằng cách tương tự, em hãy viết tỉ số khối lượng chất xơ và khối lượng của khoai lang.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy khối lượng chất xơ chia cho khối lượng khoai lang\nLời giải chi tiết\nTỉ số khối lượng chất xơ và khối lượng của khoai lang:\n\\(2,6:200 = \\dfrac{{13}}{{1000}}\\)"
+    },
+    {
+        "problem": "Viết tỉ số khối lượng chất xơ và khối lượng của khoai lang dưới dạng tỉ số phần trăm.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy tỉ số nhân với 100%.\nLời giải chi tiết\nTỉ số khối lượng chất xơ và khối lượng của khoai lang dưới dạng tỉ số phần trăm:\n\\(\\dfrac{{2,6}}{{200}}.100\\%  = \\dfrac{{2,6.100}}{{200}}\\%  = 1,3\\% \\)"
+    },
+    {
+        "problem": "Trong đại hội chi đội lớp 6 A, bạn Dũng được 36 đội viên (trong tổng số 45 đội viên chi đội) bầu làm Chi đội trưởng. Bạn Dũng đã trúng cử Chi đội trưởng với tỉ số phần trăm phiếu bầu là bao nhiêu?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy số đội viên bầu bạn Dũng chia cho tổng số đội viên trong lớp rồi nhân với 100%.\nLời giải chi tiết\nTỉ số phần trăm phiếu bầu là:\n\\(\\dfrac{{36}}{{45}}.100\\%  = \\dfrac{{36.100}}{{45}}\\%  = 80\\% \\)\nLoigiaihay.com"
+    }
+]

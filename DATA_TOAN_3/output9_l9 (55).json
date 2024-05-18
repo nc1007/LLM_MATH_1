@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Tìm các căn bậc hai của mỗi số sau:\na) 9;        b) \\(\\dfrac{4}{9}\\);        c) 0,25;        d) 2.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Căn bậc hai của một số a không âm là số x sao cho \\({x^{2\\;}} = a.\\)\n+ Số dương a có đúng hai căn bậc hai là hai số đối nhau  là \\(\\sqrt a \\)  và \\( - \\sqrt a \\)\nLời giải chi tiết\n+ Căn bậc hai của số \\(9\\) là \\(3\\) và \\(-3\\) (vì \\(3^2=9\\) và \\((-3)^2=9\\))\n+ Căn bậc hai của số \\(\\dfrac{4}{9}\\) là \\(\\dfrac{2}{3}\\) và \\(-\\dfrac{2}{3}\\) (vì \\({\\left( {\\dfrac{2}{3}} \\right)^2} = \\dfrac{4}{9}\\) và \\({\\left( {-\\dfrac{2}{3}} \\right)^2} = \\dfrac{4}{9}\\))\n+ Căn bậc hai của số \\(0,25\\) là \\(0,5\\) và \\(-0,5\\) ( vì \\(0,5^2=0,25\\) và \\((-0,5)^2=0,25\\))\n+ Căn bậc hai của số \\(2\\) là \\(\\sqrt 2\\) và \\(-\\sqrt 2\\) (vì \\((\\sqrt 2)^2=2\\) và \\((-\\sqrt 2)^2=2\\))\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm căn bậc hai số học của mỗi số sau rồi suy ra căn bậc hai của chúng\n121;   144;   169;   225;  256;  324;   361;   400.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Căn bậc hai số học của \\(a\\) là \\( \\sqrt{a} \\) với \\(a>0\\).\n+) Số dương \\(a\\) có đúng hai căn bậc hai là hai số đối nhau: Số dương kí hiệu là \\( \\sqrt{a}\\) và số âm kí hiệu là \\(- \\sqrt{a}\\).\nLời giải chi tiết\nTa có:\n+ \\(\\sqrt{121}\\) có căn bậc hai số học là \\(11\\) (vì \\(11>0\\) và \\(11^2=121\\) )\n\\(\\Rightarrow 121\\) có hai căn bậc hai là \\(11\\) và \\(-11\\).\n+ \\(\\sqrt{144}\\) có căn bậc hai số học là \\(12\\) (vì \\(12>0\\) và \\(12^2=144\\) )\n\\(\\Rightarrow 144\\) có hai căn bậc hai là \\(12\\) và \\(-12\\).\n+ \\(\\sqrt{169}\\) có căn bậc hai số học là \\(13\\) (vì \\(13>0\\) và \\(13^2=169\\) )\n\\(\\Rightarrow 169\\) có hai căn bậc hai là \\(13\\) và \\(-13\\).\n+ \\(\\sqrt{225}\\) có căn bậc hai số học là \\(15\\) (vì \\(15>0\\) và \\(15^2=225\\) )\n\\(\\Rightarrow 225\\) có hai căn bậc hai là \\(15\\) và \\(-15\\).\n+ \\(\\sqrt{256}\\) có căn bậc hai số học là \\(16\\) (vì \\(16>0\\) và \\(16^2=256\\) )\n\\(\\Rightarrow 256\\) có hai căn bậc hai là \\(16\\) và \\(-16\\).\n+ \\(\\sqrt{324}\\) có căn bậc hai số học là \\(18\\) (vì \\(18>0\\) và \\(18^2=324\\) )\n\\(\\Rightarrow 324 \\) có hai căn bậc hai là \\(18\\) và \\(-18\\).\n+ \\(\\sqrt{361}\\) có căn bậc hai số học là \\(19\\) (vì \\(19>0\\) và \\(19^2=361\\) )\n\\(\\Rightarrow 361\\) có hai căn bậc hai là \\(19\\) và \\(-19\\).\n+ \\(\\sqrt{400}\\) có căn bậc hai số học là \\(20\\) (vì \\(20>0\\) và \\(20^2=400\\) )\n\\(\\Rightarrow 400 \\) có hai căn bậc hai là \\(20\\) và \\(-20\\).\nLoigiaihay.com"
+    }
+]

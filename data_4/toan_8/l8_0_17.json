@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Bài 1: Cho các mệnh đề sau. Chọn câu đúng.\n(I) Nếu một góc nhọn của tam giác vuông này bằng một góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\n(II) Nếu một góc của tam giác vuông này lớn hơn một góc của tam giác vuông kia thì hai tam giác vuông đó đồng dạng\nA. (I) đúng, (II) sai\nB. B. (I) sai, (II) đúng\nC. (I) và (II) đều sai\nD. (I) và (II) đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNếu một góc nhọn của tam giác vuông này bằng một góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\nVậy (I) đúng, (II) sai\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 2: Cho hai tam giác vuông. Điều kiện để hai tam giác vuông đó đồng dạng là:\nA. Có hai cạnh huyền bằng nhau\nB. B. có 1 cặp cạnh góc vuông bằng nhau\nC. Có hai góc nhọn bằng nhau\nD. không cần điều kiện gì",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNếu một góc nhọn của tam giác vuông này bằng một góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\nĐáp án cần chọn là: C"
+    }
+]

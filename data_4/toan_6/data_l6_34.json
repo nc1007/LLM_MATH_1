@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 6. Tính một cách hợp lí: 89,45 + (−3,28) + 0,55 + (−6,72) ta được kết quả bằng\nA. 80\nB. −80\nC. 100\nD. −100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n89,45 + (−3,28) + 0,55 + (−6,72)\n= 89,45 + 0,55 + (−3,28) + (−6,72)\n= (89,45+0,55) + [(−3,28) + (−6,72)]\n = 90 + (−10) = 90 – 10 = 80\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Bạn Nam cao 1,57 m, bạn Linh cao 1,53 m, bạn Loan cao 1,49 m.\nTrong ba bạn đó, bạn nào cao nhất? Bạn nào thấp nhất?\nA. Bạn Nam cao nhất, bạn Loan thấp nhất\nB. Bạn Linh cao nhất, bạn Loan thấp nhất\nC. Bạn Nam cao nhất, bạn Linh thấp nhất\nD. Bạn Loan cao nhất, bạn Nam thấp nhất",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa thấy: 1,57 > 1,53 > 1,49\n=> Bạn Nam cao nhất, bạn Loan thấp nhất.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Nam cao 1,57 m, bạn Linh cao 1,53 m, bạn Loan cao 1,49 m. hiểu\nChiều cao của bạn cao nhất hơn bạn thấp nhất là bao nhiêu mét?\nA. 0,18m\nB. 0,08m\nC. 0,04m\nD. 0,14m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều cao của bạn cao nhất hơn bạn thấp nhất là: 1,57 - 1,49 = 0,08 (m)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Bác Đồng của ba thanh gỗ: thanh thứ nhất dài 1,85 m, thanh thứ hai dài hơn thanh thứ nhất 10 cm. Độ dài thanh gỗ thứ ba ngắn hơn tổng độ dài hai thanh gỗ đầu tiên là 1,35 m. Thanh gỗ thứ ba mà bác Đồng đã cưa dài bao nhiêu mét?\nA. 1,95m\nB. 3,8m\nC. 2,48m\nD. 2,38m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 10cm = 0,1m\nChiều dài thanh gỗ thứ hai là: 1,85 + 0,1 = 1,95 (m)\nTổng chiều dài hai thanh gỗ đầu tiên là: 1,85 + 1,95 = 3,8(m)\nChiều dài thanh gỗ thứ ba là: 3,8 − 1,35 = 2,48 (m)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11. Thực hiện phép tính: (−4,5) + 3,6 + 4,5 + (−3,6) ta được kết quả là:\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(−4,5) + 3,6 + 4,5 + (−3,6) = [(−4,5) + 4,5] + [3,6 + (−3.6)] = 0 + 0 = 0\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12. Thực hiện các phép tính sau: (−45,5).0,4 ta được kết quả là:\nA. 18,2\nB. −18,2\nC. −182\nD. −1,82",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−45,5).0,4 = −(45,5.0,4) = −18,2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 13. Thực hiện các phép tính sau: −0,18.(−1,5) ta được kết quả là:\nA. −0,27\nB. −2,7\nC. 0,27\nD. 2,7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−0,18.(−1,5) = 0,18.1,5 = 0,27\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 14. Thực hiện các phép tính sau: 0,15.4,4 ta được kết quả là:\nA. 6,6\nB. 0,66\nC. 6,60\nD. 0,066",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n0,15.4,4 = 0,66\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15. Tính diện tích S của một hình tròn có bán kính R = 10cm theo công thức \nS = πR^{2}  với π = 3,142\nA. 31,4cm^{2} \nB. 314cm^{2} \nC. 64,8cm^{2} \nD. 314cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích hình tròn là: S = 3,14.10^{2 } = 314cm^{2} \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 19. Tính chu vi của một hình tròn có bán kính R = 1,25 m theo công thức\nC = 2πR với π = 3,14.\nA. 7,855 m^{2} \nB. 7,855 m\nC. 7,585 m^{2} \nD. 7,558 m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChu vi của hình tròn đó là:\nC = 2πR = 2.3,142.1,25 = 7,855 (m^{2} )\nĐáp số: 7,855 m^{2} \nĐáp án cần chọn là: A"
+    }
+]

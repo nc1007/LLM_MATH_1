@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "Câu 2. Tỉ lệ phần trăm của các loại cây ăn quả khác là bao nhiêu?\nA. 27,5%;\nB. 20%;\nC. 17,5%;\nD. 35%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTỉ lệ phần trăm của các loại cây ăn quả khác là: \n100% − (27,5% + 20% + 17,5%) = 35%.\nVậy tỉ lệ phần trăm của các loại cây ăn quả khác là 35%."
+    },
+    {
+        "problem": "Câu 3. Tỉ lệ phần trăm của loại cây nào chiếm nhiều nhất?\nA. Xoài;\nB. Nhãn;\nC. Vải thiều;\nD. Các loại cây ăn quả khác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTỉ lệ phần trăm của các loại cây ăn quả khác là: \n100% − (27,5% + 20% + 17,5%) = 35%.\nTa thấy: 35% > 27,5% > 20% > 17,5%. \nDo đó, số lượng các loại cây trong vườn được sắp xếp từ lớn đến bé như sau: Cây ăn quả khác, vải thiều, nhãn, xoài.\nVậy các loại cây ăn quả khác chiếm nhiều nhất (35%)."
+    },
+    {
+        "problem": "Câu 4. Tỉ lệ phần trăm của loại cây nào chiếm ít nhất?\nA. Xoài;\nB. Nhãn;\nC. Vải thiều;\nD. Các loại cây ăn quả khác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTỉ lệ phần trăm của các loại cây ăn quả khác là: \n100% − (27,5% + 20% + 17,5%) = 35%.\nVậy các loại cây ăn quả khác chiếm 35%.\nTa thấy: 35% > 27,5% > 20% > 17,5%. \nDo đó số lượng các loại cây trong vườn được sắp xếp từ lớn đến bé như sau: Cây ăn quả khác, vải thiều, nhãn, xoài.\nVậy tỉ lệ phần trăm của cây xoài là chiếm ít nhất (17,5%)."
+    },
+    {
+        "problem": "Câu 6. Hãy đọc lần lượt tỉ lệ phần trăm của các môn thể thao: Bóng Rổ, Cầu Lông, Bóng Bàn, Bơi? A. Bóng Rổ, Cầu Lông, Bóng Bàn, Bơi: 11%, 28%, 49%,12%;\nB. Bóng Rổ, Cầu Lông, Bóng Bàn, Bơi: 11%, 28%, 12%, 49%; \nC. Bóng Rổ, Cầu Lông, Bóng Bàn, Bơi: 11%, 12%, 49%, 28%;\nD. Bóng Rổ, Cầu Lông, Bóng Bàn, Bơi: 28%, 12%, 49%, 11%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTỉ lệ phần trăm của các môn thể thao: Bóng Rổ, Cầu Lông, Bóng Bàn, Bơi lần lượt là: 11%, 28%, 12%, 49%."
+    },
+    {
+        "problem": "Câu 7. Môn thể thao được yêu thích nhất là:\nA. Bóng Rổ;\nB. Cầu Lông;\nC. Bóng Bàn;\nD. Bơi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa thấy 11% <12% < 28% < 49%.\nDo đó 49% là lớn nhất.\nVậy môn thể thao được yêu thích nhất là Bơi (49%)."
+    },
+    {
+        "problem": "Câu 8. Môn thể thao ít được yêu thích là? \nA. Bóng Rổ;\nB. Cầu Lông;\nC. Bóng Bàn;\nD. Bơi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa thấy 11% < 12% < 28% < 49%\nDo đó 11% là nhỏ nhất.\nVậy môn thể thao ít được yêu thích nhất là Bóng rổ (11%)."
+    },
+    {
+        "problem": "Câu 9. Tỉ lệ phần trăm của môn Cầu lông là:\nA. 11%;\nB. 28%; \nC. 12%;\nD. 49%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTỉ lệ phần trăm của môn Cầu lông là 28%."
+    },
+    {
+        "problem": "Câu 11. Môn học được yêu thích nhất là?\nA. Tiếng Anh;\nB. Ngữ văn;\nC. Toán;\nD. Âm nhạc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa thấy 30% > 25% > 15% > 12,5% > 10% > 7,5%.\nDo đó 30% là lớn nhất. \nVậy môn học yêu thích nhất là Toán (30%)."
+    },
+    {
+        "problem": "Câu 12. Tỉ lệ phần trăm môn học ít được yêu thích nhất là?\nA. 30%;\nB. 25%;\nC. 10%;\nD. 7,5%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa thấy 30% > 25% > 15% > 12,5% > 10% > 7,5%.\nDo đó 7,5% là bé nhất. \nVậy tỉ lệ phần trăm của môn học ít được yêu thích nhất là Vật lý (7,5%)."
+    },
+    {
+        "problem": "Câu 13. Tổng tỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật bằng với tỉ lệ phần trăm môn nào?\nA. Tiếng Anh;\nB. Ngữ văn;\nC. Toán;\nD. Âm nhạc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật lần lượt là: 15% và 10%.\nTổng tỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật là:\n15% + 10% = 25% \nMà môn Tiếng Anh có tỉ lệ phần trăm bằng 25%.\nVậy tổng tỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật bằng với tỉ lệ phần trăm môn Tiếng Anh."
+    },
+    {
+        "problem": "Câu 14. Tổng tỉ lệ phần trăm của các môn học bằng 50% là:\nA. Tiếng Anh, Mỹ thuật, Âm nhạc;\nB. Vật lý, Ngữ văn, Toán;\nC. Cả hai đáp án trên đều đúng;\nD. Cả hai đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTổng tỉ lệ phần trăm của các môn Tiếng Anh, Mỹ thuật, Âm nhạc là:\n25% + 10% + 15% = 50% \nDo đó, đáp án A đúng. \nTổng tỉ lệ phần trăm của các môn Vật lý, Ngữ văn, Toán là:\n12,5% + 7,5 % + 30% = 50% \nDo đó, đáp án B đúng. \nĐáp án A và B đúng nên đáp án C đúng. \nĐáp án C đúng nên đáp án D sai."
+    },
+    {
+        "problem": "Câu 15. Dựa vào biểu đồ hình quạt tron trên, hãy điền vào ô còn thiếu trong bảng dưới đây:\nMôn học\nToán\nNgữ Văn\nTiếng Anh\nMỹ thuật\nÂm nhạc\nVật Lý\nSố lượng\n30%\n12,5%\n10%\n15%\n7,5%\nA. 30%;\nB. 25%;\nC. 10%;\nD. 15%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nQuan sát biểu đồ ta thấy Tiếng Anh được biểu thị bằng màu xanh lá cây và có tỉ lệ là 25% nên ô còn trống là 25%."
+    }
+]

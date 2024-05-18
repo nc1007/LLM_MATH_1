@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Cho Hình 8.10\na)     Kiểm tra xem hai đường thẳng AB và CD có song song với nhau không. Làm tương tự đối với hai đường thẳng AD và BC.\nb)    Tìm điểm I sao cho ba điểm A,I,C thẳng hàng, ba điểm B,I,D cũng thẳng hàng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Điểm I là giao điểm của AC và BD thì ba điểm A,I,C thẳng hàng, ba điểm B,I,D cũng thẳng hàng.\nLời giải chi tiết\na) 2 đường thẳng AB và CD song song\n2 đường thẳng AD và BC song song\nb) Điểm I là giao điểm của AC và BD"
+    },
+    {
+        "problem": "Cho hai đường thẳng m,n và hai điểm A,B không nằm trên hai đường thẳng đó. Hãy tìm điểm M thuộc đường thẳng m và điểm N thuộc đường thẳng n sao cho bốn điểm M,N,A,B cùng nằm trên một đường thẳng. Khi nào thì không tìm được các điểm M và N như thế?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "4 điểm M,N,A,B cùng nằm trên một đường thẳng nếu M là giao điểm của hai đường thẳng AB và m, N là giao điểm của hai đường thẳng AB và n\nLời giải chi tiết\nKẻ đường thẳng AB\nĐiểm M là giao điểm của hai đường thẳng AB và m, N là giao điểm của hai đường thẳng AB và n thì bốn điểm M,N,A,B cùng nằm trên một đường thẳng.\nKhi AB cắt m và AB cắt n thì tìm được M,N như trên.\nKhi AB // n thì không tìm được điểm N. Khi AB // m thì không tìm được điểm M."
+    }
+]

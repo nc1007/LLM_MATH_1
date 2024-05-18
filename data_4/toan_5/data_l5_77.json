@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Chọn đáp án đúng:\nA.\tMuốn tính diện tích hình tam giác ta lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\nB.\tMuốn tính diện tích hình thang ta lấy tổng độ dài hai đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\nC.\tMuốn tính diện tihcs của hình tròn ta lấy bán kính nhân với bán kính rồi nhân với số 3,14.\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính diện tích hình tam giác ta lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\n-\tMuốn tính diện tích hình thang ta lấy tổng độ dài hai đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\n-\tMuốn tính diện tích của hình tròn ta lấy bán kính nhân với bán kính rồi nhân với số 3,14.\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 2: Chọn đáp án đúng nhất:\nA.\tMuốn tính chu vi hình vuông ta lấy độ dài một cạnh nhân với 4\nB.\tMuốn tính chu vi hình chữ nhật ta lấy độ dài chiều dài và chiều rộng nhân với 2\nC.\tMuốn tính chu vi hình tròn ta lấy đường kính nhân với 3,14\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính chu vi hình vuông ta lấy độ dài một cạnh nhân với 4. \n-\tMuốn tính chu vi hình chữ nhật ta lấy tổng độ dài chiều dài và chiều rộng nhân với 2.\n-\tMuốn tính chu vi hình tròn ta lấy đường kính nhân với số 3,14.\nVậy tất cả các đáp án đã cho đều đúng."
+    },
+    {
+        "problem": "Câu 5: Một hình tròn có diện tích là 200,96dm^{2} . Tính chu vi hình tròn đó.\nA.\t25,12dm\nB.\t50,24dm\nC.\t100,48dm\nD.\t12861,44dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tích của bán kính và bán kính là:\n 200,96 : 3,14 = 64 (dm^{2} )\nVì 8 × 8 = 64 nên bán kính của mặt bán đó là 8dm.\nChu vi mặt bàn đó là:\nS = 8 x 2 x 3,14 = 50,24 (dm)\nĐáp số: 50,24dm."
+    },
+    {
+        "problem": "Câu 7: Một hình tam giác có diện tích bằng diện tích hình bình hành có độ dài đáy là 36cm, chiều cao tương ứng là 15cm. Tính độ dài đáy của hình tam giác, biết chiều cao tương ứng với đáy của hình tam giác bằng  độ dài đáy của hình bình hành đó.\nA.\t25cm\nB.\t11,25cm\nC.\t22,5cm\nD.\t45cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình bình hành là:\n36 x 15 = 540 (cm^{2} ) \nVì hình tam giác có diện tích bằng diện tích hình bình hành nên diện tích hình tam giác là 540cm^{2}  \nChiều cao của hình tam giác là:\n36 : 3 x 2 = 24 (cm) \nĐộ dài đáy của hình tam giác là:\n540 x 2 : 24 = 45 (cm) \nĐáp số: 45cm.\n\n36 x 15 = 540 (cm^{2} ) \nVì hình tam giác có diện tích bằng diện tích hình bình hành nên diện tích hình tam giác là 540cm^{2}  \nChiều cao của hình tam giác là:\n36 : 3 x 2 = 24 (cm) \nĐộ dài đáy của hình tam giác là:\n540 x 2 : 24 = 45 (cm) \nĐáp số: 45cm.\n\nVì hình tam giác có diện tích bằng diện tích hình bình hành nên diện tích hình tam giác là 540cm^{2}  \nChiều cao của hình tam giác là:\n36 : 3 x 2 = 24 (cm) \nĐộ dài đáy của hình tam giác là:\n540 x 2 : 24 = 45 (cm) \nĐáp số: 45cm."
+    }
+]

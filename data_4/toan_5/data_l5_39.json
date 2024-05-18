@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Biết 5% của A là 45. Vậy để tìm A ta cần tính:\nA.\t45 : 5\nB.\t45 : 5 × 100\nC.\t45 × 5\nD.\t45 : 100 × 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm một số khi biết 5% của nó là 45, ta có thể lấy 45 chia cho 5 rồi nhân với 100 hoặc lấy 45 nhân với 100 rồi chia cho 5.\nDo đó, phép tính đúng là 45 : 5 × 100."
+    },
+    {
+        "problem": "Câu 2: Tìm A biết 7,5% của A là 24\nA.\t1,8\nB.\t3,2\nC.\t180\nD.\t320",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "A cần tìm là: 24 : 7,5 × 100 = 320"
+    },
+    {
+        "problem": "Câu 5: Số thứ nhất là 12,25. Như vậy số thứ nhất bằng 12,5% số thứ hai. Vậy số thứ hai là:\nA.\t1,5625\nB.\t0,98\nC.\t98\nD.\t156,25",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thứ hai: 12,25 : 12,5 × 100 = 98"
+    },
+    {
+        "problem": "Câu 6: Tìm C biết 25% của C là trung bình cộng của 33,14 và 16,7. Vậy C là:\nA.\t49,84\nB.\t99,68\nC.\t149,52\nD.\t199,36",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trung bình cộng của hai số 33,14 và 16,7 là:  \n(33,14 + 16,7) : 2 = 24,92\nVậy 25% của C là 24,92.\nSố C cần tìm là:        \n24,92 : 25 × 100 = 99,68"
+    },
+    {
+        "problem": "Câu 8: Vườn nhà Lan có 15% diện tích đất trồng cây ăn quả, 45% diện tích đất trồng rau, diện tích đất còn lại để trồng hoa. Biết tổng diện tích đất trồng cây ăn quả và trồng rau là 228m^{2} . Vậy diện tích đất trồng hoa là:\nA.\t152m^{2}  \nB.\t171m^{2}  \nC.\t306m^{2}  \nD.\t380m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích đất trồng cây ăn quả và diện tích đất trồng rau chiếm số phần trăm diện tích khu vườn là: \n15% + 45% = 60%\nDiện tích khu vườn nhà Lan là:     \n228 : 60 × 100 = 380 (m^{2} )\nDiện tích phần đất trồng hoa là:  \n380 – 228 = 152 (m^{2} )\nĐáp số: 152m^{2} ."
+    },
+    {
+        "problem": "Câu 11: Bác Bình mua 3 cái quạt. Do được giảm giá 15% nên bác phải trả 892500 đồng. hỏi giá mỗi cái quạt khi chưa được giảm giá là bao nhiêu tiền?\nA.\t350000 đồng\nB.\t765000 đồng\nC.\t758625 đồng\nD.\t1050000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của giá mỗi cái quạt sau khi giảm giá và giá ban đầu là: \n100% − 15% = 85%\nSố tiền bác Bình phải trả khi mua 1 cái quạt là: \n892500 : 3 = 297500 (đồng)\nGiá tiền của cái quạt khi chưa được giảm giá là:  \n297500 : 85 × 100 = 350000 (đồng)\nĐáp số: 350000 đồng."
+    },
+    {
+        "problem": "Câu 13: Ba anh em Huy, Cúc, Huệ được mẹ cho tiền mua sách. Huy được 25% số tiền, cúc được 35% số tiền. Số tiền còn lại là của Huệ. Hỏi Cúc được mẹ cho bao nhiêu tiền, biết mẹ cho Huệ nhiều hơn Huy 27000 đồng.\nA.\t45000 đồng\nB.\t63000 đồng\nC.\t72000 đồng\nD.\t180000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền của Huệ chiếm số phần trăm so với tổng số tiền là:\n100% − 25% − 35% = 40%\nSố tiền của Huệ nhiều hơn số tiền của Huy số phần trăm là:\n40% − 25% = 15%\nMẹ cho ba anh em tất cả số tiền là:\n27000 : 15 × 100 = 180000 (đồng)\nMẹ cho Cúc số tiền là:\n180000 : 100 × 35 = 63000 (đồng)\nĐáp số: 63000 đồng."
+    }
+]

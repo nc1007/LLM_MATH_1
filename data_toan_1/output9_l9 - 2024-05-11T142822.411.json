@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên tia số nằm ngang, điểm biểu diễn số nhỏ hơn thì nằm bên trái điểm biểu diễn số lớn hơn\nLời giải chi tiết\nDo 54 902 < 55 699 < 55 789 < 55 806 nên sắp xếp theo các số đã cho theo thứ tự tăng dần là: 54 902; 55 699; 55 789; 55 806.\nDo đó bốn điểm A, B, C và D lần lượt biểu diễn các số: 54 902; 55 699; 55 789 và 55 806\nLời giải hay"
+    },
+    {
+        "problem": "Cho bốn tập hợp: A = {x ∈ N| x chẵn và x < 10}, B = {x ∈ N | x chẵn và x ≤ 10},",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các phần tử của các tập hợp theo yêu cầu đề bài, mỗi phần tử chỉ viết 1 lần và cách nhau bởi dấu chấm phẩy.\nLời giải chi tiết\n+ A = {x ∈ N | x chẵn và x < 10}\nCác số tự nhiên x chẵn và nhỏ hơn 10 là: 0; 2; 4; 6; 8\nVậy A = {0; 2; 4; 6; 8}\n+ B = {x ∈ N | x chẵn và x  ≤ 10}\nCác số tự nhiên x chẵn và nhỏ hơn hoặc bằng 10 là: 0; 2; 4; 6; 8; 10\nVậy B = {0; 2; 4; 6; 8; 10}\n+ C = {x ∈ N* | x chẵn và x < 10}\nCác số tự nhiên x khác 0, chẵn và nhỏ hơn 10 là: 2; 4; 6; 8\nVậy C = {2; 4; 6; 8}\n+ D = {x ∈ N* | x chẵn và x ≤  10}\nCác số tự nhiên x khác 0, chẵn và nhỏ hơn hoặc bằng 10 là: 2; 4; 6; 8; 10\nVậy D = {2; 4; 6; 8; 10}\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tìm các số x thỏa mãn x là số tự nhiên khác 0, nhỏ hơn 5\n+Liệt kê các phần tử của các tập hợp theo yêu cầu đề bài, mỗi phần tử chỉ viết 1 lần và cách nhau bởi dấu chấm phẩy\nLời giải chi tiết\nCác số x là số tự nhiên khác 0, nhỏ hơn 5 là 1; 2; 3; 4\nCác phần tử của P là \\(\\frac{1}{1};\\frac{1}{2};\\frac{1}{3};\\frac{1}{4}\\)\nVậy P={\\(1;\\frac{1}{2};\\frac{1}{3};\\frac{1}{4}\\)}\nLời giải hay"
+    },
+    {
+        "problem": "Áp dụng các tính chất của phép cộng để tính nhanh:\na) 21 + 369 + 79;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán, kết hợp để ghép những số hạng có tổng “đẹp” (thường là số tròn chục, tròn trăm,..) lại với nhau\nLời giải chi tiết\na) 21 + 369 + 79 = (21 + 79) + 369 = 100 + 369 = 469\nb) 154 + 87 + 246 = (154 + 246) + 87 = 400 + 87 = 487\nLời giải hay"
+    },
+    {
+        "problem": "Tính nhẩm bằng cách áp dụng tính chất kết hợp của phép cộng:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Áp dụng tính chất giao hoán, kết hợp của phép cộng\n+ Tách một ( hay nhiều) số hạng ra thành tổng của 2 (hay nhiều) số hạng. Sau đó, ghép những số hạng có tổng “đẹp” (thường là số tròn chục, tròn trăm,..) lại với nhau để dễ tính\nLời giải chi tiết\na)1 597 + 65 = 1 597 + (3 + 62) = 1 597 + 3 + 62 = (1 597 + 3) + 62\n= 1 600 + 62 = 1 662\nb) *Cách 1: 86 + 269 = 86 + (14 + 255) = 86 + 14 + 255 = (86 + 14) + 255 = 100 + 255 = 355\n*Cách 2: 86 + 269 = (55+31) + 269 = 55+ 31 + 269 = 55 + (31+269) = 55+ 300 = 355"
+    },
+    {
+        "problem": "Tính nhẩm bằng cách thêm vào số hạng này và bớt ở số hạng kia cùng một số:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Thêm vào số hạng này và bớt ở số hạng kia cùng 1 số, sao cho số sau khi được thêm( hay bớt) là số “đẹp” (thường là số tròn chục, tròn trăm,..)\n+ Số được thêm(bớt) nên được căn cứ vào số hạng gần tròn chục, tròn trăm,…\nLời giải chi tiết\na) 197 + 2 135 = (197 + 3) + (2 135 – 3) = 200 + 2 132 = 2 332.\nb) 1 989 + 74 = (1 989 + 11) + (74 – 11) = 2 000 + 63 = 2 063.\nLời giải hay"
+    },
+    {
+        "problem": "Tính nhẩm bằng cách thêm (hoặc bớt) vào số bị trừ và số trừ cùng một số:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Cùng thêm (hoặc bớt) vào số bị trừ và số trừ cùng 1 số thì kết quả của biểu thức không đổi\n+ Thêm (hoặc bớt) vào số bị trừ và số trừ cùng 1 số, sao cho số sau khi được thêm( hay bớt) là số “đẹp” (thường là số tròn chục, tròn trăm,..)\n+ Số được thêm(bớt) nên được căn cứ vào số hạng gần tròn chục, tròn trăm,…\nLời giải chi tiết\na) 876 – 197 = (876 + 3) – (197 + 3) = 879 – 200 = 679.\nb) * Cách 1:\n1 997 – 354 = (1997+3) – (354+3) = 2000 – 357 = 1 643\n* Cách 2:\n1 997 – 354 = (1 997 – 54) – (354 – 54) = 1 943 – 300 = 1 643.\nLời giải hay"
+    },
+    {
+        "problem": "Tìm số tự nhiên x biết:\na) x + 257 = 981;\nb) x – 546 = 35;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tìm số hạng, ta lấy tổng trừ đi số hạng đã biết\n+Số bị trừ = hiệu + số trừ\n+ Số trừ = số bị trừ - hiệu\nLời giải chi tiết\na) x + 257 = 981\nx           = 981 – 257\nx           = 724\nVậy x = 724.\nb) x – 546 = 35\nx           = 35 + 546\nx           = 581\nVậy x = 581.\nc) 721 – x = 615\nx = 721 - 615\nx = 106\nVậy x = 106.\nLời giải hay"
+    },
+    {
+        "problem": "Tính tổng:\na) 215 + 217 + 219 + 221 + 223;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Áp dụng tính chất giao hoán, kết hợp để ghép những số hạng có tổng “đẹp” (thường là số tròn chục, tròn trăm,..) lại với nhau\n+ Định nghĩa phép nhân.\nLời giải chi tiết\na) 215 + 217 + 219 + 221 + 223\n= 215 + (217 + 223) + (219 + 221)\n= 215 + 440 + 440\n= 215 + (440 + 440)\n= 215 + 880\n= 1 095\na)      *Cách 1:\nS = 2. 10 + 2. 12 + 2. 14 + … + 2. 20\n= 10 + 10 +12 +12 + 14 + 14 + 16 +16 + 18 +18 +20 + 20\n= (10+20) + (12 + 18 ) + (14 +16) + (16 +14) + (18 +12) + (20 +10)\n= 30 + 30 +30 + 30 +30 +30\n= 30. 6\n= 180\n*Cách 2:\nS = 2. 10 + 2. 12 + 2. 14 + … + 2. 20\n= 2. 10 + 2. 12 + 2. 14 + 2. 16 + 2. 18 + 2. 20\n= 20 + 24 + 28 + 32 + 36 + 40\n= (20 + 40) + (24 + 36) + (28 + 32)\n= 60 + 60 + 60\n= 120 + 60\n= 180"
+    },
+    {
+        "problem": "Không thực hiện tính toán, hãy giải thích vì sao kết quả các phép tính sau đây là sai:\na)      121 + 222 + 323 + 984 + 999 = 2 648;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng cách kiểm tra chữ số tận cùng, hay ước lượng kết quả\nLời giải chi tiết\na) Tổng các chữ số hàng đơn vị là: 1 + 2 + 3 + 4 + 9 = (1 + 2 + 3 + 4) + 9 = 10 + 9 = 19 nên chữ số tận cùng của tổng trên phải là 9, do đó tổng bằng 2 648 là sai\nb) Ta thấy: Tổng gồm 5 số hạng; các số hạng trên đều nhỏ hơn 1 000\nDo đó tổng 5 số hạng trên nhỏ hơn 5 000, mà 5 649 > 5 000 nên tổng bằng 5 649 là sai\nLời giải hay"
+    },
+    {
+        "problem": "Cô công nhân vệ sinh trường em nhà ở huyện Sóc Sơn (Hà Nội). Hằng ngày, cô phải đi xe đạp từ nhà ra bến xe buýt gửi xe và đi hai tuyến xe buýt, sau đó đi bộ thêm một đoạn mới đến được trường. Cô đi xe đạp khoảng 10 phút để tới được bến xe buýt; mất không quá 2 phút để gửi xe; không quá 25 phút cho tuyến xe buýt thứ nhất và không quá 15 phút cho tuyến buýt thứ hai; sau đó đi bộ từ bến xe đến trường khoảng 5 phút.\na) Trong trường hợp thuận lợi nhất (không phải chờ tuyến xe buýt nào) thì thời gian đi từ nhà đến trường của cô là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính cộng, hoặc trừ\nLời giải chi tiết\na) Trong trường hợp thuận lợi nhất (không phải chờ tuyến xe buýt nào) thì tổng thời gian cô công nhân để đi từ nhà đến trường không quá:\n10 + 2 + 25 + 15 + 5 = 57 (phút)\nb) Muốn có mặt ở trường trước 5h30, cô phải ra khỏi nhà muộn nhất lúc:\n5 giờ 30 phút – 57 phút = 4 giờ 90 phút – 57 phút = 4 giờ 33 phút.\nVậy a) Trong trường hợp thuận lợi nhất (không phải chờ tuyến xe buýt nào) thì thời gian đi từ nhà đến trường của cô là 57 phút\nb) Muốn có mặt ở trường trước 5h30, cô phải ra khỏi nhà muộn nhất lúc 4 giờ 33 phút\nLời giải hay"
+    },
+    {
+        "problem": "Tính nhẩm bằng cách áp dụng tính chất kết hợp của phép nhân:\na) 21. 4;\nb) 44. 25\nc) 125. 56",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các thừa số thích hợp\nLời giải chi tiết\na) 21. 4 = 21. (2. 2) = (21.2). 2 = 42. 2 = 84\nb) 44. 25 = (11. 4). 25 = 11. (4. 25) = 11. 100 = 1 100\nc) 125. 56 = 125. (8.7) = (125. 8). 7 = 1 000. 7 = 7 000\nd) 19. 8 = 19. (4. 2) = (19 . 4). 2 = 76. 2 = 152"
+    },
+    {
+        "problem": "Tính nhẩm bằng cách áp dụng tính chất phân phối của phép nhân đối với phép cộng:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối của phép nhân đối với phép cộng: c. (a+b)= a.c +c.b\nLời giải chi tiết\na) 91. 11 = 91. (10 + 1) = 91. 10 + 91. 1 = 910 + 91 = 910 + (90 + 1) = (910 + 90) + 1\n= 1000 + 1 = 1 001\nb) 45. 12 = 45. (10 + 2) = 45. 10 + 45. 2 = 450 + 90 = (440 + 10) + 90 = 440 + (90 + 10) = 440 + 100 = 540.\nLời giải hay"
+    }
+]

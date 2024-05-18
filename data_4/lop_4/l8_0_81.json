@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 2: Tìm A biết  của A là 36.\nA.\tA = 27\nB.\tA = 32\nC.\tA = 42\nD.\tA = 48",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "A cần tìm là:    36:3×4=48.\nVậy đáp án đúng là A=48."
+    },
+    {
+        "problem": "Câu 4: Lớp 4B có 20 học sinh nam. Số học sinh nam bằng  số học sinh cả lớp. Hỏi lớp 4A có bao nhiêu học sinh nữ?\nA.\t13 học sinh\nB.\t14 học sinh\nC.\t15 học sinh\nD.\t16 học sinh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lớp 4B có tất cả số học sinh là:\n            20:4×7=35 (học sinh)\nLớp 4B có số học sinh nữ là:\n            35−20=15 (học sinh)\n                               Đáp số: 15 học sinh."
+    }
+]

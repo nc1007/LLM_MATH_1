@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Hãy nối mỗi ô ở cột trái với một ô ở cột phải để được khẳng định đúng.\n(1) tập hợp các điểm có khoảng cách đến điểm A cố định bằng 2cm\n(4) là đường tròn tâm A bán kính 2cm\n(2) Đường tròn tâm A bán kính 2cm gồm tất cả những điểm\n(5) có khoảng cách đến điểm A nhỏ hơn hoặc bằng 2cm\n(3) Hình tròn tâm A bán kính 2cm gồm tất cả những điểm\n(6) có khoảng cách đến điểm A bằng 2cm\n\n(7) có khoảng cách đến điểm A lớn hơn 2cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức về định nghĩa đường tròn và định nghĩa hình tròn, nối các ô để được khẳng định đúng.\nLời giải chi tiết\nDựa vào định nghĩa đường tròn, ta nối các ô (1) và (4); (2) và (6).\nDựa vào định nghĩa hình tròn, ta nối các ô (3) và (5).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho đường tròn (O , 20cm), hai đường kính AB và CD vuông góc với nhau. Trên bán kính OC, lấy điểm I sao cho \\(OI = 15cm.\\) Tia AI cắt đường tròn (O) ở M. Tính các độ dài MA, MB.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm độ lớn của cạnh \\(AI\\) và góc \\(AMB\\).\n- Chứng minh: \\(\\Delta AOI \\backsim \\Delta AMB\\)\n- Dùng tỉ số đồng dạng tính độ lớn \\(MA;MB.\\)\nLời giải chi tiết\nÁp dụng định lí Pi-ta-go vào tam giác \\(AOI\\) vuông tại \\(O,\\) ta có :\n\\(A{I^2} = A{O^2} + O{I^2} = {20^2} + {15^2}\\)\\( = 400 + 225 = 625\\left( {cm} \\right).\\)\nSuy ra \\(AI = 25cm.\\)\nTam giác \\(AMB\\) có đường trung tuyến \\(MO\\) bằng \\(\\dfrac{1}{2}AB\\) nên \\(\\widehat {AMB} = {90^o}.\\)\nCác tam giác vuông \\(AOI\\) và \\(MAB\\) có chung góc nhọn \\(A\\) nên \\(\\Delta AOI \\backsim AMB\\left( {g.g} \\right)\\)\nSuy ra\n\\(\\dfrac{{OA}}{{MA}} = \\dfrac{{AI}}{{AB}} = \\dfrac{{OI}}{{MB}},\\) tức là \\(\\dfrac{{20}}{{MA}} = \\dfrac{{25}}{{40}} = \\dfrac{{15}}{{MB}}.\\)\nVậy \\(MA = 20:\\dfrac{{25}}{{40}} = 32\\left( {cm} \\right),\\)\\(MB = 15:\\dfrac{{25}}{{40}} = 24\\left( {cm} \\right).\\)\nLoigiaihay.com"
+    }
+]

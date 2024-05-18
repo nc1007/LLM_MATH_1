@@ -1,0 +1,110 @@
+[
+    {
+        "problem": "Theo số liệu từ trang web https://danso.org/, tính đến ngày 09/10/2020, dân số Việt Nam là 97 553 839 và dân số Hoa Kì là 331 523 221 người. Em hãy làm tròn hai số trên đến hàng chục, hàng trăm, hàng nghìn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn làm tròn một số thập phân đến một hàng quy tròn nào đó, ta thực hiện các bước sau:\n- Gạch dưới chữ số thập phân của hàng quy tròn.\n- Nhìn sang chữ số ngay bên phải:\n• Nếu chữ số đó lớn hơn hoặc bằng 5 thì tăng chữ số gạch dưới lên một đơn vị rồi thay tất các chữ số bên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\n• Nếu chữ số đó nhỏ hơn 5 thì giữ nguyên chữ số gạch dưới và thay tất cả các chữ số bên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\nLời giải chi tiết\nHàng chục: 97 553 840; 331 523 220\nHàng trăm: 97 553 800; 331 523 200\nHàng nghìn: 97 554 000; 331 523 000."
+    },
+    {
+        "problem": "Hết học kì I, điểm môn Toán của bạn Cúc như sau:\nHệ số 1: 7, 8, 6, 10\nHệ số 2: 9.\nHệ số 3: 8.\nEm hãy tính điểm trung bình môn Toán học kì I của bạn Cúc (làm tròn đến chữ số thập phần thứ nhất).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Điểm trung bình = (Điểm hệ số 1 + 2.hệ số 2 + 3.hệ số 3) : 9.\nLời giải chi tiết\nĐiểm trung bình môn Toán học kì I của bạn Cúc là:\n(7 + 8 + 6 + 10 + 9.2 + 8. 3) : 9 = 8,11111111\nLàm tròn: 8,1.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một số nguyên sau khi làm tròn đến hàng nghìn cho kết quả là 110 000. Số đó có thể lớn nhất là bao nhiêu, nhỏ nhất là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn làm tròn một số thập phân đến một hàng quy tròn nào đó, ta thực hiện các bước sau:\n- Gạch dưới chữ số thập phân của hàng quy tròn.\n- Nhìn sang chữ số ngay bên phải:\n• Nếu chữ số đó lớn hơn hoặc bằng 5 thì tăng chữ số gạch dưới lên một đơn vị rồi thay\ntất các chữ sổ bên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\n• Nếu chữ số đó nhỏ hơn 5 thì giữ nguyên chữ số gạch dưới và thay tất cả các chữ số\nbên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\nLời giải chi tiết\nSố đó có thể lớn nhất là: 110 499\nSố đó có thể nhỏ nhất là 110 001.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy ước lượng kết quả của các phép tính sau rồi so sánh với kết quả tìm được bằng máy tính cầm tay.\na)\\(\\left( { - 35,1} \\right).\\left( { - 64} \\right):13\\)\nb)\\(\\left( { - 8,8} \\right).\\left( { - 4,1} \\right):{\\rm{ }}2,6\\)\nc) \\(7,9.\\left( { - 73} \\right):\\left( { - 23} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Làm tròn các số thập phân rồi thực hiện phép tính.\nLời giải chi tiết\na)\\(\\left( { - 35,1} \\right).\\left( { - 64} \\right):13 \\approx \\left( { - 35} \\right).\\left( { - 64} \\right):13 \\approx 172\\)\nb)\\(\\left( { - 8,8} \\right).\\left( { - 4,1} \\right):{\\rm{ }}2,6 \\approx ( - 9).( - 4):3 = 12\\)\nc) \\(7,9.\\left( { - 73} \\right):\\left( { - 23} \\right) \\approx 8.( - 73):( - 23) \\approx 25\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Mai và Lan thi nhau giải cùng một bài toán. Mai làm xong trong 45 phút, Lan làm xong trong 30 phút. Hỏi thời gian Mai làm lâu gấp bao nhiêu lần thời gian Lan làm?\nb) Trí và Dũng mỗi em câu được một con cá lóc. Con cá của Trí cân nặng 900g, con cá của Dũng nặng 1,3 kg. Hỏi con cá của Dũng nặng gấp bao nhiêu lần con cá của Trí?\nc) Đoạn thẳng AB dài \\(\\frac{3}{4}\\) m và đoạn thẳng CD dài 50 cm. Hỏi đoạn AB dài gấp bao nhiêu lần đoạn CD?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Lấy thời gian Mai giải xong bài toán : Thời gian Lan giải xong bài toán\nc, d) Đổi về cùng đơn vị và làm tương tự câu a.\nLời giải chi tiết\na) Thời gian Mai làm lâu gấp số lần thời gian Lan làm là: 45 : 30 = \\(\\frac{3}{2}\\) (lần)\nb) Đổi 1,3 kg = 1300 g. Vậy con cá của Dũng nặng gấp số lần con cá của Trí là:\n1300 : 900 = \\(\\frac{{13}}{9}\\) lần\nc) Đổi 50 cm = \\(\\frac{1}{2}\\) m. Đoạn AB dài gấp đoạn CD: \\(\\frac{1}{2}:\\frac{3}{4} = \\frac{2}{3}\\) lần"
+    },
+    {
+        "problem": "Tính tỉ số của hai đại lượng được cho trong các trường hợp sau:\na) \\(\\frac{3}{4}m\\) và \\(25\\,cm\\);     b) \\(30\\) phút và \\(\\frac{2}{3}\\) giờ.\nd) \\(0,4\\,kg\\) và \\(340g\\)   d) \\(\\frac{2}{5}\\,m\\) và \\(\\frac{3}{4}\\,m\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số của hai số a và b là \\(\\frac{a}{b}\\)\nChú ý đổi các đại lượng về cùng đơn vị đo.\nLời giải chi tiết\na) Đổi \\(25\\,cm = \\frac{1}{4}\\,m\\)\nTa có tỉ số của \\(\\frac{3}{4}m\\) và \\(25\\,cm\\) là: \\(\\frac{3}{4}:\\frac{1}{4}=\\frac{3}{4}.\\frac{4}{1} = 3\\)\nb) Đổi \\(30\\) phút = \\(\\frac{1}{2}\\) giờ\nTa có tỉ số của \\(30\\) phút và \\(\\frac{2}{3}\\) giờ là: \\(\\frac{1}{2}:\\frac{2}{3}=\\frac{1}{2}.\\frac{3}{2} = \\frac{3}{4}\\)\nc) Đổi \\(0,4\\,kg = 400\\,g\\)\nTa có tỉ số của \\(0,4\\,kg\\) và \\(340g\\) là: \\(400:340 = \\frac{{400}}{{340}} = \\frac{{20}}{{17}}\\)\nd) Tỉ số của \\(\\frac{2}{5}\\,m\\) và \\(\\frac{3}{4}\\,m\\) là:  \\(\\frac{2}{5}:\\frac{3}{4}=\\frac{2}{5}.\\frac{4}{3} = \\frac{8}{{15}}\\)"
+    },
+    {
+        "problem": "Mẹ của bạn Lan hướng dẫn Lan đong nước và gạo nấu cơm như sau: Đong 2 bát gạo và 2 bát rưỡi nước. Em hãy tính tỉ số giữa thể tích nước và gạo trong cách nấu cơm này.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai bát rưỡi nước tức là \\(\\frac{5}{2}\\) bát nước\nTỉ số = Thể tích nước : lượng gạo\nLời giải chi tiết\nHai bát rưỡi nước tức là \\(\\frac{5}{2}\\) bát nước\nTỉ số giữa thể tích nước và gạo là:\n\\(\\frac{5}{2}:2 = \\frac{5}{4}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính tỉ số thích hợp thay vào [?] để có các cặp tỉ số sau bằng nhau.\n\\(\\frac{2}{5} = \\frac{{{\\rm{[}}?{\\rm{]}}}}{{100}}\\)\n\\( - \\frac{3}{4} =  - \\frac{{\\left[ ? \\right]}}{{100}};\\)\n\\(\\frac{{ - 1,3}}{{10}} = \\frac{{\\left[ ? \\right]}}{{100}}.\\)\nb) Cơ thể người có khoảng \\(\\frac{{70}}{{100}}\\) là nước, Hùng cân nặng 40 kg, em hãy cho biết khối lượng nước có trong cơ thể Hùng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Chia của phân số bên phải cho mẫu của phân số bên trái\n- Nhân tử số của phân số bên trái với số vừa tìm được bên trên.\nb)\nKhối lượng nước có trong cơ thể Hùng = Cân nặng của Hùng . \\(\\frac{{70}}{{100}}\\)\nLời giải chi tiết\na)\n\\(\\frac{2}{5} = \\frac{{40}}{{100}}\\)\n\\( - \\frac{3}{4} =  - \\frac{{75}}{{100}};\\)\n\\(\\frac{{ - 1,3}}{{10}} =  - 13.\\)\nb) Khối lượng nước trong cơ thể Hùng là:\n\\(40.\\frac{{70}}{{100}} = 28\\,\\,(kg)\\)"
+    },
+    {
+        "problem": "Tính tỉ số phần trăm của hai số cho trong mỗi trường hợp sau:\na) 3 và 4;\nb) -2,66 và 200;\nc) \\(\\frac{1}{4}\\) và 0,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tỉnh tỉ số phần trăm của hai số a và b, ta nhân a với 100 rồi chia cho b và viết kí hiệu % vào bên phải kết quả tìm được.\nLời giải chi tiết\na) \\(\\frac{3}{4} = \\left( {\\frac{{3.100}}{4}} \\right)\\%  = 75\\% \\)\nb) \\(\\frac{{ - 2,66}}{{200}} = \\left( {\\frac{{ - 2,66.100}}{{200}}} \\right)\\%  =  - 1,33\\% \\)\nc) \\(\\frac{{\\frac{1}{4}}}{{0,5}} = \\left( {\\frac{{\\frac{1}{4}.100}}{{0,5}}} \\right)\\%  = 50\\% \\)"
+    },
+    {
+        "problem": "Một cửa hàng có doanh thu tháng Tư là 400 triệu đồng, doanh thu tháng Năm là 500 triệu đồng. Tính tỉ số phần trăm của doanh thu tháng Năm So với tháng Tư.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tính tỉ số phần trăm của hai số a và b, ta nhân a với 100 rồi chia cho b và viết kí hiệu % vào bên phải kết quả tìm được.\nLời giải chi tiết\nTỉ số phần trăm của doanh thu tháng Năm So với tháng Tư là:\n\\(\\left( {\\frac{{400.100}}{{500}}} \\right)\\%  = 80\\% \\)"
+    },
+    {
+        "problem": "Sĩ số lớp 6A1 là 32 học sinh, trong đó có số học sinh học bơi là 24. Hãy tính tỉ số giữa số học sinh học bơi và sĩ số lớp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số của 2 số a và b là \\( \\frac{a}{b}\\) hay a : b\nLời giải chi tiết\nTỉ số giữa số học sinh học bơi và sĩ số lớp là: 24 : 32 = \\(\\frac{3}{4}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các số thập phân sau đây dưới dạng tỉ số phần trăm:\n-0,72;     0,4;       -2,23.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết các số thập phân dưới dạng các phân số có mẫu là 100 rồi viết chúng dưới dạng tỉ số phần trăm.\nLời giải chi tiết\n\\( - 0,72 = \\frac{{ - 72}}{{100}} =  - 72\\% \\)\n\\(0,4 = \\frac{{40}}{{100}} = 40\\% \\)\n\\( - 2,23 = \\frac{{ - 223}}{{100}} =  - 223\\% \\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các phân số sau dưới dạng tỉ số phần trăm:\n\\(\\frac{7}{{25}}\\);    \\( - \\frac{{19}}{4}\\);      \\(\\frac{{26}}{{65}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhân cả tử và mẫu của các phân số với 100 và thêm kí hiệu % vào kết quả.\nLời giải chi tiết\n\\(\\frac{7}{{25}} = \\left( {\\frac{{7.100}}{{25}}} \\right)\\%  = 28\\% \\)\n\\( - \\frac{{19}}{4} = \\left( { - \\frac{{19.100}}{4}} \\right)\\%  =  - 475\\% \\)\n\\(\\frac{{26}}{{65}} = \\left( {\\frac{{26.100}}{{65}}} \\right)\\%  = 40\\% \\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các tỉ số phần trăm sau dưới dạng số thập phân:\n\\( - 5\\% \\);         \\( - 35\\% ;\\)              \\(317\\% \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết các tỉ số phần trăm dưới dạng phân số có mẫu là 100 rồi viết chúng dưới dạng số thập phân.\nLời giải chi tiết\n\\( - 5\\%  = \\frac{{ - 5}}{{100}} =  - 0,05\\)\n\\( - 35\\%  = \\frac{{-35}}{{100}} = -0,35\\)\n\\(317\\%  = \\frac{{317}}{{100}} = 3,17\\)."
+    },
+    {
+        "problem": "Lớp 6A3 có tổng số 40 bạn, số học sinh giỏi là 8 bạn, học sinh khá là 20 bạn học sinh trung bình là 10 bạn, còn lại là học sinh yếu kém. Tinh tỉ số phần trăm học sinh giỏi, khá, trung bình, yếu kém của lớp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tính tỉ số phần trăm của hai số a và b, ta nhân a với 100 rồi chia cho b và viết kí hiệu % vào bên phải kết quả tìm được.\nLời giải chi tiết\nTỉ số phần trăm học sinh giỏi của lớp là:\n\\(\\left( {\\frac{{8.100}}{{40}}} \\right)\\%  = 20\\% \\)\nTỉ số phần trăm học sinh khá của lớp là:\n\\(\\left( {\\frac{{20.100}}{{40}}} \\right)\\%  = 50\\% \\)\nTỉ số phần trăm học sinh Trung bình của lớp là:\n\\(\\left( {\\frac{{10.100}}{{40}}} \\right)\\%  = 25\\% \\)\nTỉ số phần trăm học sinh yếu kém của lớp là:\n\\(100\\%  - 20\\%  - 50\\%  - 25\\%  = 5\\% \\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cứ 15 trang viết tay thì sau khi gõ vào máy vi tính đem in được 9 trang. Tính tỉ số phần trăm giữa số trang in và số trang viết tay.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tỉnh tỉ số phần trăm của hai số a và b, ta nhân a với 100 rồi chia cho b và viết kí hiệu % vào bên phải kết quả tìm được.\nLời giải chi tiết\nTỉ số phần trăm giữa số trang in và số trang viết tay là:\n\\(\\left( {\\frac{{9.100}}{{15}}} \\right)\\%  = 60\\% \\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một cửa hàng tháng Một có doanh thu là 500 triệu đồng, doanh thu của tháng Hai là 400 triệu đồng. Tính phần trăm tăng trưởng của tháng Hai so với tháng Một.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tỉnh tỉ số phần trăm của hai số a và b, ta nhân a với 100 rồi chia cho b và viết kí hiệu % vào bên phải kết quả tìm được.\nLời giải chi tiết\nPhần trăm tăng trưởng của tháng Hai so với tháng Một là:\n\\(\\left( {\\frac{{400.100}}{{500}}} \\right)\\%  = 80\\% \\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đường cao tốc Thành phố Hồ Chí Minh – Long Thành – Dầu Giây dài khoảng 56 km, nhưng trên một bản đồ chỉ đo được 2,8 cm. Tìm tỉ lệ của bản đồ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ lệ bản đồ = độ dài trên bản đồ : độ dài thực tế\nLời giải chi tiết\nĐổi \\(56\\,km{\\rm{ }} = \\;\\;5{\\rm{ }}600{\\rm{ }}000{\\rm{ }}cm\\).\nTỉ lệ của bản đồ là:\n\\(\\frac{{2,8}}{{5600000}} = \\frac{1}{{2000000}}\\).\nLoigiaihay.com"
+    }
+]

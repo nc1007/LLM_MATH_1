@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Tính:\na) \\(73 - \\left( {2 - 9} \\right)\\);\nb) \\(\\left( { - 45} \\right) - \\left( {27 - 8} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Sử dụng quy tắc dấu ngoặc.\nCách 2: Tính theo thứ tự thực hiện phép tính: Trong ngoặc trước, ngoài ngoặc sau.\nLời giải chi tiết\na) Cách 1: \\(73 - \\left( {2 - 9} \\right) = 73 - 2 + 9 = 80\\);\nCách 2: \\(73 - \\left( {2 - 9} \\right) = 73 -(-7)=73+7 = 80\\)\nb) Cách 1: \\(\\left( { - 45} \\right) - \\left( {27 - 8} \\right) = \\left( { - 45} \\right) - 27+8 =-72+8=- 64\\)\nCách 2: \\(\\left( { - 45} \\right) - \\left( {27 - 8} \\right) = \\left( { - 45} \\right) - 19 =  - 64\\)"
+    },
+    {
+        "problem": "Tìm hai số nguyên x thỏa mãn:\na) \\({x^2} = 4\\)\nb) \\({x^2} = 81\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\({x^2} = a^2\\) thì x =a hoặc x = -a\nLời giải chi tiết\na) \\({x^2} = 4\\)\n\\(x^2=(\\pm 2)^2\\)\n\\(x=2\\) hoặc \\(x=-2\\)\nVậy \\(x \\in\\) {2;-2}\nb) \\({x^2} = 81\\)\n\\(x^2=(\\pm 9)^2\\)\n\\(x = 9\\) hoặc \\(x =  - 9\\).\nVậy \\(x \\in\\) {9;-9}"
+    },
+    {
+        "problem": "Tính các thương sau:\na) \\(12:6\\)\nb) \\(24:\\left( { - 8} \\right)\\)\nc) \\(\\left( { - 36} \\right):9\\)\nd) \\(\\left( { - 14} \\right):\\left( { - 7} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thương của hai số cùng dấu mang dấu dương, trái dấu mang dấu âm.\nLời giải chi tiết\nCách 1:\na) \\(12:6 = 2\\)\nb) \\(24:\\left( { - 8} \\right)=-(24:8)=-3\\)\nc) \\(\\left( { - 36} \\right):9=-(36:9)=-4\\)\nd) \\(\\left( { - 14} \\right):\\left( { - 7} \\right)=14:7=2\\)\nCách 2:\na) Ta có \\(12 = 6.2\\) nên \\(12:6 = 2\\).\nb) Ta có \\(24 = \\left( { - 8} \\right).\\left( { - 3} \\right)\\)\\( \\Rightarrow 24:\\left( { - 8} \\right) = \\left( { - 3} \\right)\\).\nc) Ta có \\(\\left( { - 36} \\right) = 9.\\left( { - 4} \\right)\\) nên \\(\\left( { - 36} \\right):9 = \\left( { - 4} \\right)\\).\nd) Ta có \\(\\left( { - 14} \\right) = \\left( { - 7} \\right).2\\) nên \\(\\left( { - 14} \\right):\\left( { - 7} \\right) = 2\\).\n"
+    },
+    {
+        "problem": "Đố vui\nTìm số nguyên thích hợp thay cho mỗi dấu? Trong bảng dưới đây sao cho tích của ba số ở ba ô liền nhau đều bằng 60:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thứ 3 là số 3. Số thứ 4 nhân số thứ 5 bằng 20. Số thứ 4 nhân số thứ 5 nhân số thứ 6 bằng 60 nên số thứ 6 là số 3.\nTương tự...\nLời giải chi tiết\na\nb\n3\nc\nd\ne\nf\ng\nh\n-4\ni\n+) Ta có: 3.c.d = 60 nên c.d=20\nMà c.d.e=60 nên 20.e=60 hay e=3\n+) Tương tự, 3.f.g=60 nên f.g=20\nMà f.g.h=60 nên 20.h=60 hay h = 3\n+) Vì h.(-4).i = 60 nên 3.(-4).i = 60 nên i = -5\n+) Vì g.h.(-4) = 60 nên g.3.(-4) = 60 nên g = -5\n+) Vì  f.g=20 nên f.(-5) = 20 hay f = -4\nTa có:\nd.e.f = 60 nên d.3.(-4) = 60 nên d = -5\n3.c.d = 60 nên 3.c.(-5) =60 nên c =-4\na.b.3 = b.3.c nên a = c\nb.3.c = 3.c.d nên b = d\nTa được:\n-4\n-5\n3\n-4\n-5\n3\n-4\n-5\n3\n-4\n-5\n\n\n"
+    },
+    {
+        "problem": "Một công ti có 3 cửa hàng A, B, C, kết quả kinh doanh sau một năm của từng cửa hàng như sau:\nCửa hàng A: lãi 225 triệu đồng.\nCửa hàng B: lỗ 280 triệu đồng.\nCửa hàng C: lãi 655 triệu đồng.\nHỏi bình quân mỗi tháng công ti lãi hay lỗ bao nhiêu tiền từ ba cửa hàng đó?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng số tiền lãi, lỗ của cả công ti trong một năm rồi chia 12.\nLời giải chi tiết\nTổng số tiền lãi lỗ của cả công ti trong 1 năm là: \\(225 + \\left( { - 280} \\right) + 655 = 600\\) triệu đồng.\nBình quân mỗi tháng công ti lãi là: \\(600:12 = 50\\) triệu đồng."
+    }
+]

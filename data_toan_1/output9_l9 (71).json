@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Trong hộp có 10 lá thăm được đánh số từ 0 đến 9. Lấy ra từ hộp 2 lá thăm. Trong các sự kiện sau, sự kiện nào chắc chắn xảy ra, sự kiện nào không thể xảy ra, sự kiện nào có thể xảy ra?\na) Tổng các số ghi trên hai lá thăm bằng 1.\nb) Tích các số ghi trên hai lá thăm bằng 1.\nc) Tích các số ghi trên hai lá thăm bằng 0.\nd) Tổng các số ghi trên hai lá thăm lớn hơn 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào các kết quả có thể xảy ra là: 0, 1, 2, 3, …,9 để suy luận trả lời câu hỏi.\nLời giải chi tiết\na) Tổng các số ghi trên hai lá thăm bằng 1: Có thể xảy ra\nb) Tích các số ghi trên hai lá thăm bằng 1: Có thể xảy ra\nc) Tích các số ghi trên hai lá thăm bằng 0: Có thể xảy ra\nd) Tổng các số ghi trên hai lá thăm lớn hơn 0: Chắc chắn xảy ra.\nLoigiaihay.com"
+    }
+]

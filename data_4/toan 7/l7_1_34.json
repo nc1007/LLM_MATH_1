@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "B. \\frac{a}{b}. x^{m + n} ;\nC. \\frac{a}{b}. x^{m.n} ;\nD. -\\frac{a}{b}. x^{m – n} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVới a ≠ 0, b ≠ 0; m, n ∈ N; m ≥ n, ta có: \n(ax^{m} ) : (bx^{n} ) = \\frac{a}{b}. (x^{m}  : x^{n} ) = \\frac{a}{b}. x^{m – n} \nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 2. Tính (12x^{4} ) : (3x^{2} )\nA. 4x;\nB. 4x^{2} ;\nC. –4x;\nD. –4x^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: (12x^{4} ) : (3x^{2} ) \n= (12 : 3). (x^{4}  : x^{2} ) \n= 4x^{4 – 2}  \n= 4x^{2} .\nVậy (12x^{4} ) : (3x^{2} ) = 4x^{2} ."
+    },
+    {
+        "problem": "Câu 3. Kết quả của phép tính \\frac{-1}{2}xm+23:\\frac{3}{2}xn+21 (với m, n ∈ ℕ) là:\nA. \\frac{-1}{3}.xm-n+2\nB. -3.xm-n+2\nC. \\frac{-4}{3}.xm+n+44\nD. \\frac{-3}{4}.xm+n+44",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: \n\\frac{-1}{2}xm+23:\\frac{3}{2}xn+21\n=\\frac{-1}{2}:\\frac{3}{2}.xm+23:xn+21\n=\\frac{-1}{2}.\\frac{2}{3}.xm+23-n-21\n\\frac{-1}{3}.xm-n+2\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 4. Kết quả của phép tính (18x^{6}  + 6x^{4}  – 3x^{2} ) : (3x^{2} ) là\nA. 6x^{4}  + 2x^{2}  + 1;\nB. 6x^{4}  – 2x^{2}  + 1;\nC. 6x^{4}  + 2x^{2}  – 1;\nD. 6x^{4}  – 2x^{2}  – 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: (18x^{6}  + 6x^{4}  – 3x^{2} ) : (3x^{2} ) \n= (18x^{6} ) : (3x^{2} ) + (6x^{4} ) : (3x^{2} ) – (3x^{2} ) : (3x^{2} )\n= (18 : 3). (x^{6}  : x^{2} ) + (6 : 3). (x^{4}  : x^{2} ) – (3 : 3). (x^{2}  : x^{2} )\n= 6x^{4}  + 2x^{2}  – 1.\nVậy (18x^{6}  + 6x^{4}  – 3x^{2} ) : (3x^{2} ) = 6x^{4}  + 2x^{2}  – 1.\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 5. Kết quả của phép chia 0,5x^{5}  + 3,2x^{3}  – 2x^{2}  cho 0,25x^{n} , với n = 2.\nA. 2x^{3}  + 12,8x + 8;\nB. 2x^{3}  + 12,8x – 8;\nC. 2x^{3}  – 12,8x – 8;\nD. 2x^{3}  – 12,8x – 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nThay n = 2 vào 0,25x^{n}  ta được biểu thức 0,25x^{2} . \nKhi đó\n(0,5x^{5}  + 3,2x^{3}  – 2x^{2} ) : (0,25x^{2} ) \n= (0,5x^{5} ) : (0,25x^{2} ) + (3,2x^{3} ) : (0,25x^{2} ) – (2x^{2} ) : (0,25x^{2} )\n= (0,5 : 0,25). (x^{5}  : x^{2} ) + (3,2 : 0,25). (x^{3}  : x^{2} ) – (2 : 0,25). (x^{2}  : x^{2} ) \n= 2x^{3}  + 12,8x – 8\nVậy (0,5x^{5}  + 3,2x^{3}  – 2x^{2} ) : (0,25x^{n} ) = 2x^{3}  + 12,8x – 8 với n = 2."
+    },
+    {
+        "problem": "Câu 9. Tìm đa thức bị chia biết đa thức chia là (x^{2}  + x + 1), thương là (x + 3), dư là x – 2.\nA. x^{3}  + 4x^{2}  + 5x + 1; \nB. x^{3}  – 4x^{2}  + 5x + 1;\nC. x^{3}  – 4x^{2}  – 5x + 1; \nD. x^{3}  + 4x^{2}  – 5x + 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nĐa thức bị chia cần tìm là:\n(x^{2}  + x + 1)(x + 3) + x – 2\n= x^{2} .x + 3x^{2}  + x.x + 3x + x + 3 + x – 2\n= x^{3}  + 3x^{2}  + x^{2}  + 3x + x + x + 3 – 2\n= x^{3}  + 4x^{2}  + 5x + 1\nVậy đa thức cần tìm là x^{3}  + 4x^{2}  + 5x + 1."
+    }
+]

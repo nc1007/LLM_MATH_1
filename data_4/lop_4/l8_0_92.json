@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 1: Trong các đơn vị đo khối lượng sau, đơn vị nào bé hơn ki-lô-gam?\nA.\tHéc-tô-gam\nB.\tĐề-ca-gam\nC.\tGam\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có các đơn vị đo khối lượng viết theo thứ tự từ lớn đến bé là:\n            tấn;  tạ;  yến;  ki-lô-gam;  héc-tô-gam;  đề-ca-gam;  gam\nCác đơn vị đo khối lượng bé hơn ki-lô-gam là héc-tô-gam; đề-ca-gam; gam.\nVậy tất cả các đáp án A, B, C đều đúng.\nChọn D"
+    },
+    {
+        "problem": "Câu 3: \n6 tấn = ... kg. \nSố thích hợp điền vào chỗ chấm là:\nA.\t60000\nB.\t6000\nC.\t600\nD.\t60",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1 tấn =1000 nên 6 tấn = 1000kg × 6 = 6000kg.\nVậy số thích hợp điền vào chỗ chấm là 6000."
+    },
+    {
+        "problem": "Câu 6: \n3 phút 15 giây = … giây. \nSố thích hợp điền vào chỗ chấm là:\nA.\t315\nB.\t215\nC.\t195\nD.\t45",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 1 phút = 60 giây nên 3 phút = 180 giây.\n3 phút 15 giây = 3 phút + 15 giây = 180 giây + 15 giây = 195 giây.\nVậy số thích hợp điền vào chỗ chấm là 195."
+    },
+    {
+        "problem": "Câu 8: \n7m^{2}  86cm^{2}  = ... cm^{2} . \nSố thích hợp điền vào chỗ chấm là:\nA.\t786\nB.\t7086\nC.\t78600\nD.\t70086",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 1m^{2}  = 10000cm^{2}  nên 7m^{2}  = 70000cm^{2} \n7m^{2}  86cm^{2}  =7m^{2}  + 86cm^{2}  = 70000cm^{2}  + 86cm^{2}  =70086cm^{2} \nVậy 7m^{2}  86cm^{2}  = 70086cm^{2} ."
+    },
+    {
+        "problem": "Câu 12: Một khu rừng hình chữ nhật có chiều dài 6km, chiều rộng là 3500m. Hỏi diện tích khu vườn đó bằng bao nhiêu ki-lô-mét vuông?\nA. 21km^{2} \nB. 210km^{2} \nC. 2100km^{2} \nD. 21000km^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 6km = 6000m \nDiện tích khu rừng hình chữ nhật đó là:\n6000×3500=21000000(m^{2} )\n21000000m^{2}  = 21km^{2} \n                                                Đáp số: 21km^{2} .\nChú ý\nHọc sinh có thể làm sai khi không đổi chiều dài và chiều rộng về cùng một đơn vị đo, từ đó có thể tìm ra đáp án sai là 21000km^{2} .\n\nDiện tích khu rừng hình chữ nhật đó là:\n6000×3500=21000000(m^{2} )\n21000000m^{2}  = 21km^{2} \n                                                Đáp số: 21km^{2} .\nChú ý\nHọc sinh có thể làm sai khi không đổi chiều dài và chiều rộng về cùng một đơn vị đo, từ đó có thể tìm ra đáp án sai là 21000km^{2} ."
+    },
+    {
+        "problem": "Câu 15: Một xe tải bé chở 18 bao gạo, mỗi bao nặng 50kg. Một xe tải lớn chở 40 bao gạo, mỗi bao nặng 75kg. Hỏi xe tải lớn chở nhiều hơn xe tải xe bao nhiêu tạ gạo?\nA.\t2100 tạ\nB.\t3900 tạ\nC.\t21 tạ\nD.\t39 tạ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xe tải bé chở được số ki-lô-gam gạo là:\n             50×18=900(kg) \nXe tải lớn chở được số ki-lô-gam gạo là:\n            75×40=3000(kg) \n Xe tải lớn chở nhiều hơn xe tải xe số gạo là:\n            3000−900=2100(kg) \n             2100kg=21 tạ\n                                     Đáp số: 21 tạ."
+    }
+]

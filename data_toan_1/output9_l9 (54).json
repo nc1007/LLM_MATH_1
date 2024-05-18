@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Tính nhanh các tổng sau:\na) \\(S = \\left( {45 - 3756} \\right) + 3756\\)\nb) \\(S = \\left( { - 2021} \\right) - \\left( {199 - 2021} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng quy tắc dấu ngoặc.\nTrước dấu ngoặc có dấu “+” thì bỏ dấu ngoặc và giữ nguyên dấu của các số hạng.\nTrước dấu ngoặc có dấu “-” thì bỏ dấu ngoặc và đổi dấu tất cả các số hạng trong ngoặc.\nSau đó sử dụng quy tắc cộng trừ hai số nguyên và tính chất của phép cộng.\nLời giải chi tiết\na) \\(S = \\left( {45 - 3756} \\right) + 3756\\)\n\\( = 45 - 3756 + 3756\\)\\( = 45 + \\left( { - 3756} \\right) + 3756 = 45 + 0 = 45\\)\nb) \\(S = \\left( { - 2021} \\right) - \\left( {199 - 2021} \\right)\\)\n\\( = \\left( { - 2021} \\right) - 199 + 2021\\)\\( = \\left[ {\\left( { - 2021} \\right) + 2021} \\right] - 199 = 0 - 199\\)\\( =  - 199\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bỏ dấu ngoặc rồi tính:\na) \\(\\left( {4 + 32 + 6} \\right) + \\left( {10 - 36 - 6} \\right)\\)\nb) \\(\\left( {77 + 22 - 65} \\right) - \\left( {67 + 12 - 75} \\right)\\)\nc) \\( - \\left( { - 21 + 43 + 7} \\right) - \\left( {11 - 53 - 17} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu đằng trước ngoặc là dấu \"+\" ta bỏ ngoăcc và giữ nguyên dấu các số hạng trong ngoặc.\nNếu đằng trước ngoặc là dấu \"-\" ta bỏ ngoặc và đổi dấu các số hạng trong ngoặc.\nLời giải chi tiết\na)\nCách 1.\n\\(\\begin{array}{l}\\left( {4 + 32 + 6} \\right) + \\left( {10 - 36 - 6} \\right)\\\\ = 4 + 32 + 6 + 10 - 36 - 6\\\\ = 52 + \\left( { - 36} \\right) + \\left( { - 6} \\right)\\\\ = 52 + \\left( { - 42} \\right) = 52 - 42 = 10\\end{array}\\)\nCách 2.\n\\(\\begin{array}{l}\\left( {4 + 32 + 6} \\right) + \\left( {10 - 36 - 6} \\right)\\\\ = 4 + 32 + 6 + 10 - 36 - 6\\\\ = 36 + 6 + 10 + \\left( { - 36} \\right) + \\left( { - 6} \\right)\\\\ = 36 + \\left( { - 36} \\right) + 6 + \\left( { - 6} \\right) + 10\\\\ = 0 + 0 + 10 = 10\\end{array}\\)\nb) \\(\\left( {77 + 22 - 65} \\right) - \\left( {67 + 12 - 75} \\right)\\)\n\\(\\begin{array}{l} = 77 + 22 - 65 - 67 - 12 + 75\\\\ = 77 - 67 + 22 - 12 + 75 - 65\\\\ = 10 + 10 + 10 = 30\\end{array}\\)\nc) \\( - \\left( { - 21 + 43 + 7} \\right) - \\left( {11 - 53 - 17} \\right)\\)\n\\(\\begin{array}{l} = 21 - 43 - 7 - 11 + 53 + 17\\\\ = 21 - 11 + 53 - 43 + 17 - 7\\\\ = 10 + 10 + 10 = 30\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Hoàn thành phép tính sau: \\(\\left( { - 4} \\right).3 = \\left( { - 4} \\right) + \\left( { - 4} \\right) + \\left( { - 4} \\right) = ?\\)\nb) Theo cách trên, hãy tính: \\(\\left( { - 5} \\right).2\\);   \\(\\left( { - 6} \\right).3\\)\nc) Em có nhận xét gì về dấu của tích hai số nguyên khác dấu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thực hiện phép tính cộng\nb) Tách thành các phép tính cộng\nc) Quan sát kết quả câu b và nhận xét.\nLời giải chi tiết\na) \\(\\left( { - 4} \\right).3 = \\left( { - 4} \\right) + \\left( { - 4} \\right) + \\left( { - 4} \\right)\\)\\( =  - \\left( {4 + 4 + 4} \\right) =  - 12\\)\nb) \\(\\left( { - 5} \\right).2 = \\left( { - 5} \\right) + \\left( { - 5} \\right) =  - \\left( {5 + 5} \\right) =  - 10\\)\n\\(\\left( { - 6} \\right).3 = \\left( { - 6} \\right) + \\left( { - 6} \\right) + \\left( { - 6} \\right)\\)\\( =  - \\left( {6 + 6 + 6} \\right) =  - 18\\)\nc) Dấu của tích hai số nguyên khác dấu mang dấu âm."
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) \\(\\left( { - 5} \\right).4\\)\nb) \\(6.\\left( { - 7} \\right)\\)\nc) \\(\\left( { - 14} \\right).20\\)\nd) \\(51.\\left( { - 24} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng quy tắc nhân hai số nguyên khác dấu:\n- Khi nhân hai số nguyên khác dấu, ta nhân số dương với số đối của số âm rồi thêm dấu trừ (-) trước kết quả nhận được.\nLời giải chi tiết\na) \\(\\left( { - 5} \\right).4 =  - \\left( {5.4} \\right) =  - 20\\)\nb) \\(6.\\left( { - 7} \\right) =  - \\left( {6.7} \\right) =  - 42\\)\nc) \\(\\left( { - 14} \\right).20 =  - \\left( {14.20} \\right) =  - 280\\)\nd) \\(51.\\left( { - 24} \\right) =  - \\left( {51.24} \\right) =  - 1224\\)"
+    },
+    {
+        "problem": "Một xí nghiệp may gia công có chế độ thưởng và phạt như sau: Một sản phẩm tốt được thưởng 50 000 đồng, một sản phẩm có lỗi bị phạt 40 000 đồng. Chị Mai làm được 20 sản phẩm tốt và 4 sản phẩm bị lỗi. Em hãy thực hiện phép tính sau để biết chị Mai nhận được bao nhiêu tiền.\n20.(+50 000) + 4.( - 40 000) = ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng quy tắc nhân hai số nguyên cùng dấu và khác dấu.\nThực hiện phép nhân trước, phép cộng sau.\nLời giải chi tiết\n20.(+50 000) +4.(-40 000)\n=1 000 000+[-(4.40 000)]\n=1 000 000+(-160 000)\n=1 000 000-160 000=840 000 đồng\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính các tích sau:\n\\(a = \\left( { - 2} \\right).\\left( { - 3} \\right)\\)\n\\(b = \\left( { - 15} \\right).\\left( { - 6} \\right)\\)\n\\(c = \\left( { + 3} \\right).\\left( { + 2} \\right)\\)\n\\(d = \\left( { - 10} \\right).\\left( { - 20} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng quy tắc nhân hai số nguyên cùng dấu.\nLời giải chi tiết\n\\(a = \\left( { - 2} \\right).\\left( { - 3} \\right) = 2.3 = 6\\)\n\\(b = \\left( { - 15} \\right).\\left( { - 6} \\right) = 15.6 = 90\\)\n\\(c = \\left( { + 3} \\right).\\left( { + 2} \\right) = 3.2 = 6\\)\n\\(d = \\left( { - 10} \\right).\\left( { - 20} \\right) = 10.20 = 200\\)."
+    },
+    {
+        "problem": "a) P là tích của 8 số nguyên khác 0 trong đó có đúng 4 số dương. Q là tích của 6 số nguyên khác 0 trong đó có duy nhất một số dương. Hãy cho biết P và Q là số dương hay số âm.\nb) Tích của một số lẻ các số nguyên âm có dấu gì?\nc) Tích của một số chẵn các số nguyên âm có dấu gì?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tich của 2 số âm là một số dương.\nTa nhóm từng cặp số âm với nhau.\nLời giải chi tiết\na) P có 4 số âm ta nhóm được 2 cặp số âm và không thừa số âm nào. Vậy P là số dương.\nQ có duy nhất một số dương nên có 5 số âm, ta ghép được 2 cặp số âm, thừa một số âm. Vậy Q là số âm.\nb) Tích của một số lẻ các số nguyên âm có dấu âm\nc) Tích của một số chẵn các số nguyên âm có dấu dương"
+    },
+    {
+        "problem": "Thực hiện phép tính: \\(\\left( { - 2} \\right).29 + \\left( { - 2} \\right).\\left( { - 99} \\right)\\)\\( + \\left( { - 2} \\right).\\left( { - 30} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối của phép nhân đối với phép cộng và phép trừ.\nLời giải chi tiết\n\\(\\left( { - 2} \\right).29 + \\left( { - 2} \\right).\\left( { - 99} \\right)\\)\\( + \\left( { - 2} \\right).\\left( { - 30} \\right)\\)\\( = \\left( { - 2} \\right)\\left( {29 - 99 - 30} \\right)\\)\\( = \\left( { - 2} \\right).\\left( { - 100} \\right) = 200\\)\nLoigiaihay.com"
+    }
+]

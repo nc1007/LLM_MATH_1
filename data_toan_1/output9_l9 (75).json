@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Tính một cách hợp lí:\na) 250. 1 476. 4;\nb) 189. 509-189. 409.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Giao hoán: Đổi chỗ 4 và 1 476.\n- Kết hợp: nhóm 250 và 4.\n- Nhân kết quả với 1 476.\nb)\n- Phân phối phép nhân với phép trừ: Đặt 189 ra ngoài ngoặc.\n- Tính kết quả trong ngoặc.\n- Nhân kết quả với 189.\nLời giải chi tiết\na) 250. 1 476. 4\n= (250.4).1 476\n= 1 000. 1 476\n= 1 476 000.\nb) 189. 509 - 189. 409\n= 189. (509 - 409)\n= 189. 100\n= 18 900."
+    },
+    {
+        "problem": "Một gia đình nuôi 80 con gà. Biết trung bình một con gà ăn 105 g thức ăn trong một ngày. Gia đình đó cần bao nhiêu ki-lô-gam thức ăn cho đàn gà trong 10 ngày?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính thức ăn 80 con gà ăn trong một ngày bằng thức ăn trong 1 ngày nhân 80.\n- Thức ăn trong 10 ngày bằng thức ăn trong một ngày nhân 10.\nLời giải chi tiết\nThức ăn mà đàn gà (80 con gà) ăn trong 1 ngày là:\n105.80=8 400 (g)\nThức ăn mà đàn gà ăn trong 10 ngày là:\n8 400.10 = 84 000 (g) = 84 (kg)\nVậy đàn gà ăn hết 84 kg trong 10 ngày.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính 2 795 : 215",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính rồi tính\nLời giải chi tiết\n2 795: 215=13."
+    },
+    {
+        "problem": "Thực hiện phép chia 236 cho 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính rồi tính\nLời giải chi tiết\n\\(236:12 = 19\\)(dư 8)."
+    },
+    {
+        "problem": "Tìm các số thích hợp ở\na) \\(a.0 = \\)\nb) \\(a:1 = \\)\nc) \\(0:a = \\)(Với \\(a \\ne 0\\)).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Điền số thích hợp của chỗ trống.\nLời giải chi tiết\na) \\(a.0 = 0\\)\nb) \\(a:1 = a\\)\nc) \\(0:a = 0\\left( {a \\ne 0} \\right)\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí\na) 50. 347. 2;\nb) 36. 97+97. 64;\nc) 157. 289-289. 57.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Giao hoán: Đổi chỗ 347 và 2.\n- Kết hợp: Nhóm 50 với 2.\n- Nhân kết quả với 347.\nb)\n- Giao hoán: Đổi chỗ 36 và 97.\n- Phân phối phép nhân và phép cộng: Đặt 97 ra ngoài ngoặc.\n- Tính trong ngoặc.\n- Nhân kết quả với 97.\nc)\n- Giao hoán: Đổi chỗ 157 và 289.\n- Phân phối phép nhân và phép cộng: Đặt 289 ra ngoài ngoặc.\n- Tính trong ngoặc.\n- Nhân kết quả với 157.\nLời giải chi tiết\na)\n50. 347. 2\n= 50.2. 347\n= (50.2). 347\n= 100. 347\n=34 700\nb)\n36. 97+97. 64\n= 97.36+97.64\n= 97.(36+64)\n= 97. 100\n= 9 700\nc)\n157. 289 - 289. 57\n= 289.157 - 289.57\n= 289. (157-57)\n= 289. 100\n= 28 900"
+    },
+    {
+        "problem": "Một bệnh nhân bị sốt cao, mất nước. Bác sĩ chỉ định uống 2 lít dung dịch Oresol để bù nước. Biết mỗi gói Oresol pha với 200 ml nước. Bệnh nhân đó cần dùng bao nhiêu gói Oresol?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số gói = Số nước cần bù : số nước pha 1 gói\nChú ý đơn vị.\nLời giải chi tiết\nĐổi 2 (lít) = 2000 (ml)\nSố gói: 2000:200=10 (gói)\nVậy bệnh nhân cần dùng 10 gói Oresol.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một đội thanh niên tình nguyện có 130 người cần thuê ô tô để di chuyển. Họ cần thuê ít nhất bao nhiêu xe nếu mỗi xe chở được 45 người?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia 130 cho 45 để suy ra số chuyến xe, nếu phép chia dư thì ta phải thuê thêm 1 xe nữa.\nLời giải chi tiết\nVì 130: 45=2 (dư 40) nên xếp đủ 2 chuyến xe thì còn dư 40 người, và phải dùng thêm 1 chuyến xe nữa để chở hết 40 người đó.\nVậy, cần ít nhất là: 2 + 1 = 3 (xe)"
+    },
+    {
+        "problem": "Lá cây chứa rất nhiều chất diệp lục trong lục lạp làm cho lá có màu xanh. Ở lá thầu dầu, cứ 1mm2 lá có khoảng 500 000 lục lạp.Tính số lục lạp có trên một chiếc là thầu dầu có diện tích khoảng 210cm2.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Đổi 210 \\(c{m^2}\\) ra đơn vị.\n- Số lục lạp = 500 000\\( \\times \\)diện tích.\nLời giải chi tiết\nĐổi \\(210\\left( {c{m^2}} \\right) = 21 000\\left( {m{m^2}} \\right)\\).\nSố lục lạp cần tìm:\n21 000 . 500 000\n= 10 500 000 000 lục lạp.\nVậy có 10 tỉ 500 triệu lục lạp.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Ở Bắc Bộ, quy ước 1 thước = 24 \\({m^2}\\), 1 sào = 15 thước, 1 mẫu = 10 sào. Theo kinh nghiệm nhà nông, để mạ đạt tiêu chuẩn thì 1 sào ruộng cần gieo khoảng 2 kg thóc giống.\na) Để gieo mạ trên 1 mẫu ruộng cần bao nhiêu ki-lô-gam thóc giống?\nb) Để gieo mạ trên 9 ha ruộng cần khoảng bao nhiêu ki-lô-gam thóc giống?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Khối lượng thóc trên 1 mẫu = Khối lượng 1 sào \\( \\times 10\\).\nb)\n- Đổi ha sang sào.\n- Tính khối lượng thóc.\nLời giải chi tiết\na)\nKhối lượng thóc giống cần để gieo mạ trên một mẫu ruộng là:\n2.10=20 (kg).\nb)\n9 ha = 90 000 \\({m^2}\\)= 3750 thước= 250 sào.\nKhối lượng thóc giống cần để gieo mạ trên 9 ha là:\n2.250=500 (kg).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Vi khuẩn E.coli trong điều kiện nuôi cấy thích hợp cứ 20 phút lại phân đôi một lần. Giả sử lúc đầu có 1 vi khuẩn. Sau 120 phút có bao nhiêu vi khuẩn?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có thể tính số vi khuẩn sau mỗi 20 phút\nLời giải chi tiết\nCách 1: Vì cứ sau 20 phút, vi khuẩn lại phân đôi 1 lần nên sau 20 phút đầu, từ 1 vi khuẩn phân đôi thành 1.2 =2 vi khuẩn.\nSau 20 phút tiếp theo (tức là sau 40 phút), từ 2 vi khuẩn phân đôi thành 2 . 2 = 4 vi khuẩn.\nSau 20 phút tiếp theo (tức là sau 60 phút), từ 4 vi khuẩn phân đôi thành 4 . 2 = 8 vi khuẩn.\nSau 20 phút tiếp theo (tức là sau 80 phút), từ 8 vi khuẩn phân đôi thành 8 . 2 = 16 vi khuẩn.\nSau 20 phút tiếp theo (tức là sau 100 phút), từ 16 vi khuẩn phân đôi thành 16 . 2 = 32 vi khuẩn.\nSau 20 phút nữa (tức là sau 120 phút), từ 32 vi khuẩn phân đôi thành 32 . 2 = 64 vi khuẩn.\nVậy sau 120 phút có tất cả 64 vi khuẩn.\nCách 2: Sau 120 phút, vi khuẩn đã phân đôi số lần là:\n120 : 20 = 6 (lần)\nSau 120 phút, có tất cả số vi khuẩn là:\n\\(2^6=64\\) (vi khuẩn)"
+    },
+    {
+        "problem": "Viết và tính các lũy thừa sau:\na) Năm mũ hai;\nb) Hai lũy thừa bảy;\nc) Lũy thừa bậc ba của sáu.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm cơ số a.\n- Tìm số mũ n.\n- Tính tích của n số a.\nLời giải chi tiết\na) Năm mũ hai: \\({5^2} = 5.5 = 25\\)\nb) Hai lũy thừa bảy: \\({2^7} = 2.2.2.2.2.2.2 = 128\\)\nc) Lũy thừa bậc ba của sáu: \\({6^3} = 6.6.6 = 216\\)"
+    },
+    {
+        "problem": "Viết các số sau dưới dạng lũy thừa với cơ số cho trước:\na) 25 cơ số 5;\nb) 64 cơ số 4.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Phân tích 25 thành các số 5 nhân với nhau. Số các số 5 là số mũ của lũy thừa cần tìm.\nb) Phân tích 64 thành các số 4 nhân với nhau. Số các số 4 là số mũ của lũy thừa cần tìm.\nLời giải chi tiết\na) \\(25 = 5.5 = {5^2}\\)\nb) \\(64 = 4.4.4 = {4^3}\\)\nLoigiaihay.com"
+    }
+]

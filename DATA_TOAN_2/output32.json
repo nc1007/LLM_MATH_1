@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Nam rút một chiếc bút từ hộp bút có chứa 3 bút chì, 2 bút bi xanh và 1 bút bi đen.\na)     Liệt kê tất cả các kết quả có thể.\nb)    Sự kiện “Nam rút được bút chì” có luôn xảy ra không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 3 kết quả có thể xảy ra\nLời giải chi tiết\na)     Các kết quả có thể xảy ra là: Nam rút được bút chì; Nam rút được bút bi xanh; Nam rút được bút bi đen\nb)    Sự kiện “Nam rút được bút chì” có thể xảy ra, cũng có thể không xảy ra."
+    },
+    {
+        "problem": "Lớp 6A bầu lớp trưởng, có 4 ứng viên được đưa ra để lấy phiếu bầu của các bạn trong lớp, gồm 4 bạn:\nTổ 1: An và Hòa\nTổ 2: Bình\nTổ 3: Chi\nTrong đó,chỉ có Chi là nữ.\na)     Em có chắc chắn bạn nào sẽ là lớp trưởng không?\nb)    Lớp trưởng có thể thuộc tổ nào?\nc)     Một bạn trong lớp nói rằng “ Lớp trưởng lớp mình chắc chắn là một bạn nam”. Em có nghĩ là bạn đó nói đúng không?\nd)    Hãy liệt kê các kết quả có thể để sự kiện “ Lớp trưởng không phải là An” xảy ra.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các kết quả có thể xảy ra\nLời giải chi tiết\na)     Không thể chắc chắn bạn nào sẽ là lớp trưởng.\nb)    Lớp trưởng có thể thuộc tổ 1, 2 hoặc 3\nc)     Bạn đó nói sai vì có thể lớp trưởng là Chi\nd)    Để sự kiện “ Lớp trưởng không phải là An” xảy ra thì kết quả xảy ra là:\nLớp trưởng là Hòa hoặc Bình hoặc Chi ."
+    },
+    {
+        "problem": "Một hộp bi có 2 viên bi vàng, 3 viên bi xanh và 1 viên bi đỏ (có cùng kích thước). Không nhìn vào hộp, An lấy một viên bi từ hộp.\na) Liệu An có biết chắc chắn viên bi lấy ra có màu gì không?\nb) Hāy đưa ra hai sự kiện liên quan đến viên bi mà An vừa lấy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 3 kết quả có thể xảy ra.\nLời giải chi tiết\na)     An không chắc chắn viên bi lấy ra có màu gì\nb)    Ta có thể chọn 2 sự kiện là: viên bi lấy ra có màu vàng; viên bi lấy ra không có màu xanh.\nChú ý: Ngoài ra, chúng ta có thể đưa ra nhiều sự kiện liên quan đến viên bi mà An vừa lấy. Chẳng hạn: viên bi có màu xanh hoặc đỏ, viên bi có màu đỏ,…"
+    },
+    {
+        "problem": "Gieo một con xúc xắc. Số chấm xuất hiện trên con xúc xắc là bao nhiêu để mỗi sự kiện sau xảy ra:\na) Số chấm xuất hiện là một số nguyên tố.\nb) Số chấm xuất hiện không phải là 3 cũng không phải là 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số chấm xuất hiện trên con xúc xắc có thể là 1,2,3,4,5 hoặc 6.\nLời giải chi tiết\na)     Để số chấm xuất hiện là một số nguyên tố thì số chấm phải là: 2,3 hoặc 5.\nb) Để số chấm xuất hiện không phải là 3 cũng không phải là 5 thì số chấm phải là 1,2,4 hoặc 6."
+    },
+    {
+        "problem": "Cuối năm, ban phụ huynh có 45 gói quà cho 45 bạn trong lớp. Trong số đó có 20 gói là truyện cười, 15 gói là sách hướng dẫn kĩ năng sống và 10 gói là hộp bút. An chọn một gói quà.\na) Liệt kê các món quà mà An có thể nhận được.\nb) Nếu món quà An nhận được là một cuốn sách hướng dẫn kĩ năng sống. Sự kiện “An không nhận được hộp bút” có xảy ra hay không?\nc) Liệt kê các kết quả có thể để sự kiện “Món quà An nhận được không phải là truyện cười” xảy ra.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 3 món quà mà An có thể nhận được\nLời giải chi tiết\na)     An có thể nhận được truyện cười, sách hướng dẫn kĩ năng sống hoặc hộp bút.\nb)    Nếu món quà An nhận được là một cuốn sách hướng dẫn kĩ năng sống. Sự kiện “An không nhận được hộp bút” có xảy ra\nc)     Để sự kiện “Món quà An nhận được không phải là truyện cười” xảy ra thì kết quả có thể là An nhận được sách hướng dẫn kĩ năng sống hoặc An nhận được hộp bút."
+    },
+    {
+        "problem": "Hà có 4 hộp kẹo dẻo với 4 vị khác nhau là: vị dâu, vị cam, vị nho, vị việt quất. Hà lấy hai hộp kẹo cho em trai. Hỏi hai hộp kẹo đó có thể là những hộp kẹo với vị nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai hộp kẹo đó là 2 trong số 4 hộp.\nLời giải chi tiết\nHai hộp kẹo đó có thể là: vị dâu và vị cam; vị dâu và vị nho; vị dâu và vị việt quất; vị cam và vị nho; vị cam và vị việt quất; vị nho và vị việt quất."
+    },
+    {
+        "problem": "Cho 4 điểm A, B, C, D, trong đó không có ba điểm nào thẳng hàng, lấy 2 điểm từ 4 điểm đã cho để vẽ một đoạn thẳng. Hãy liệt kê tất cả các đoạn thẳng có thể vẽ được. Có tất cả bao nhiêu đoạn thẳng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các đường thẳng được viết từ 2 trong số 4 điểm\nLời giải chi tiết\nCác đoạn thẳng có thể vẽ được là: AB; AC; AD; BC; BD; CD.\nCó tất cả 6 đoạn thẳng."
+    },
+    {
+        "problem": "Trong ngày lễ hội tại địa phương, Minh chơi trò chơi ném phi tiêu vào một tấm bìa có ghi các con số như hình sau.\n4\n3\n4\n2\n2\n4\n3\n4\n4\n3\n4\n3\n2\n4\n3\n4\na) Phi tiêu của Minh có thể trúng vào ô ghi số nào?\nb) Có mấy ô mà phi tiêu rơi vào thì sự kiện “Phi tiêu trúng vào ô ghi số 4” không xảy ra?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các số có thể\nLời giải chi tiết\na)     Phi tiêu của Minh có thể trúng vào ô ghi số 2;3 hoặc 4.\nb)    Sự kiện “Phi tiêu trúng vào ô ghi số 4” không xảy ra khi phi tiêu trúng vào ô số 2 hoặc 3. Vậy có 8 ô."
+    }
+]

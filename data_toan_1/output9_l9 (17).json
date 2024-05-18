@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Tính một cách hợp lí:\na) (-2 019) + (-550) + (-451);\nb) (-2) + 5+ (-6) + 9.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán và kết hợp của phép cộng để tính hợp lí\nLời giải chi tiết\na) (-2 019) + (-550) + (-451)  = [(-2 019) + (-451)] + (-550) = (-2 470) + (-550) = -(2 470 + 550) = -3 020\nb) (-2) + 5 + (-6) + 9 = [(-2) + 5 ]+[ (-6) + 9] = 3 + 3 = 6\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nửa tháng đầu một cửa hàng bán lẻ lãi được 5 triệu đồng, nửa tháng sau bị lỗ 2 triệu đồng. Hỏi tháng đó cửa hàng lãi hay lỗ bao nhiêu triệu đồng?\nGiải bài toán trên bằng hai cách:\nCách 1. Tính hiệu giữa số tiền lãi và số tiền lỗ.\nCách 2. Hiểu lỗ 2 triệu là \"lãi” –2 triệu để quy về tính tổng của hai số nguyên.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Giải bài toán theo 2 cách đề bài đưa ra\nLời giải chi tiết\nCách 1: Hiệu giữa số tiền lãi và số tiền lỗ là:   5 - 2 = 3\nVậy cửa hàng đó lãi 3 triệu đồng\nCách 2: Lỗ 2 triệu nghĩa là lãi (-2) triệu\nVậy cửa hàng đó lãi: 5 + (-2) = 3 (triệu đồng)"
+    },
+    {
+        "problem": "Hãy quan sát ba dòng đầu và dự đoán kết quả ở hai dòng cuối:\n3 - 1 = 3 + (-1)\n3 - 2 = 3 + (-2)\n3 - 3 = 3 + (-3)\n3 – 4  = ?\n3 – 5 = ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát ba dòng đầu và dự đoán kết quả ở hai dòng cuối.\nLời giải chi tiết\nDự đoán: 3 - 4 = 3 + (-4)\n3 - 5 = 3 + (-5)."
+    },
+    {
+        "problem": "Tính các hiệu sau: a) 5 - (-3);            b) (-7) – 8.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn trừ số nguyên a cho số nguyên b, ta cộng a với số đối của b:\na – b =  a + (-b).\nLời giải chi tiết\na) 5 - (-3) = 5 + 3 = 8.\nb) (-7)  - 8 = (-7) + (-8) = -(7+8)= -15."
+    },
+    {
+        "problem": "Nhiệt độ bên ngoài của một máy bay ở độ cao 10 000 m là -48oC. Khi hạ cánh, nhiệt độ ở sân bay là 27°C. Hỏi nhiệt độ bên ngoài của máy bay khi ở độ cao 10 000 m và khi hạ cánh chênh lệch bao nhiêu độ C?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhiệt độ chênh lệch = Nhiệt độ ở sân bay khi hạ cánh – Nhiệt độ bên ngoài của máy bay ở độ cao 10 000m\nLời giải chi tiết\nNhiệt độ bên ngoài của máy bay ở độ cao 10 000m và khi hạ cánh chênh lệch nhau:\n27 - (-48) = 27 + 48 = 75 (oC)"
+    },
+    {
+        "problem": "Tính tổng hai số cùng dấu:\na) (-7) + (-2);             b) (-8) + (-5):\nc) (-11) + (-7);           d) (-6) + (-15).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên âm, ta công phần số tự nhiên của chúng với nhau rồi đặt dấu \"-\" trước kết quả.\nLời giải chi tiết\na) (-7) + (-2) = -(7 + 2) = -9\nb) (-8) + (-5) = -(8 + 5) = -13\nc) (-11) + (-7) = -( 11 + 7) = -18\nd) (-6) + (-15) = -(6 + 15) = -21\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính tổng hai số khác dấu:\na) 6 + (-2);                b) 9 + (-3);\nc) (-10) + 4               d) (-1) + 8.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\na) 6 + (-2) = 6 – 2 = 4\nb) 9 + (-3) = 9 – 3 = 6\nc) (-10) + 4 = -(10 – 4) = -6\nd) (-1) + 8 = 8 – 1 = 7."
+    },
+    {
+        "problem": "Thực hiện các phép trừ sau:\na) 9 - (-2);\nb) (-7) - 4\nc) 27 - 30\nd) (-63) - (-15).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn trừ số nguyên a cho số nguyên b, ta cộng a với số đối của b: a - b = a + (-b).\nLời giải chi tiết\na) 9 - (-2) = 9 + 2 = 11\nb) (-7) - 4 = -7+ (-4) = -(7 + 4) = -11\nc) 27 - 30 = 27+ (-30) = -(30 – 27) = -3\nd) (-63) - (-15) = (-63) + 15 = -(63 -15)= - 48."
+    },
+    {
+        "problem": "Hai ca nô cùng xuất phát từ C đi về phía A hoặc B như hình vẽ. Ta quy ước chiều từ C đến B là chiều dương ( nghĩa là vận tốc và quãng đường đi từ C về phía B được biểu thị bằng số dương và theo chiều ngược lại là số âm). Hỏi sau một giờ, hai ca nô cách nhau bao nhiêu kilomet nếu vận tốc của chúng lần lượt là:\na) 11 km/h và 6 km/h\nb) 11 km/h và -6 km/h\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc âm tức là cano đi theo chiều âm\nSố km đi trong 1 giờ chính là vận tốc\nLời giải chi tiết\nQuãng đường ca nô 1 đi được trong 1 giờ là: 11 . 1 = 11 (km)\nQuãng đường ca nô 2 đi được trong 1 giờ là: 6 . 1 = 6 (km)\na) Do 2 ca nô đi cùng chiều nên khoảng cách của 2 ca nô là hiệu quãng đường đi được\nSau một giờ, hai ca nô cách nhau số kilomet là:\n11 - 6 = 5 (km)\nb) Vì 2 vận tốc trái dấu, tức là 2 ca nô đi ngược chiều nên khoảng cách của 2 ca nô là tổng quãng đường đi được\nSau một giờ, hai ca nô cách nhau số kilomet là:\n11 + 6 = 17 (km)\n"
+    },
+    {
+        "problem": "Tính nhẩm:\na) (-3) + (-2)                   b) (-8) - 7:\nc) (-35) + (-15)                d) 12 - (-8).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn cộng hai số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu \"-\" trước kết quả.\n- Muốn trừ số nguyên a cho số nguyên b, ta cộng a với số đối của b: a - b = a + (-b).\nLời giải chi tiết\na) (-3) + (-2) = -(3 + 2) = -5\nb) (-8) - 7 = (-8) + (-7) = -(8 + 7) = -15\nc) (-35) + (-15) = -(35 + 15) = -50\nd) 12 - (-8) = 12 + 8 = 20."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 152 + (-73) - (-18) - 127;\nb) 7 + 8+ (-9) + (-10).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán và phân phối của phép cộng\nLời giải chi tiết\na) 152 + (-73) - (-18) - 127 = 152 – 73 +18 -127\n= (152 + 18) – (127 + 73) = 170 - 200 = -(200 - 170) = -30\nb) 7 + 8 + (-9)  + (-10) = (7 + 8) + [(-9)  + (-10)]\n= 15 + (-19) = -(19 - 15)= -4."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức (-156) - x, khi:\na) x = -26\nb) x  = 76\nc) x = (-28) - (-143)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn cộng hai số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu \"-\" trước kết quả.\n- Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng ( số lớn trừ số bé) rồi đặt trước kết quả tìm được dấu của số có phần số tự nhiên lớn hơn.\n- Muốn trừ số nguyên a cho số nguyên b, ta cộng a với số đối của b: a - b = a + (-b).\nLời giải chi tiết\na) (-156) - x = (-156) - (-26) = (-156) + 26 = -(156 - 26) = -130.\nb) (-156) - x = (-156) - 76 = (-156) + (-76) = - (156 + 76)= -232.\nc) Cách 1:\n(-156) - x =  (-156) - [(-28) - (-143)] = (-156) - [(-28) + 143] = (-156) + 28  - 143 = (-156) + 28 + (-143)= (-128) + (-143) = -(128+143) = -271.\nCách 2:\n(-156) - x =  (-156) - [(-28) - (-143)] = (-156) - [(-28) + 143] = (-156) - 115 = (-156 +115)= -271."
+    },
+    {
+        "problem": "Thay mỗi dấu \"*\" bằng một chữ số thích hợp để có:\na) (\\( - \\overline {6*} \\)) + (-34) =  - 100;\nb) (-789) + \\(\\overline {2**} \\) = -515.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm số hạng ta lấy hiệu trừ đi số hạng còn lại.\nLời giải chi tiết\na) (\\( - \\overline {6*} \\)) + (-34) =  - 100\n(\\( - \\overline {6*} \\)) = -100 – (-34)\n(\\( - \\overline {6*} \\))  = -100 + 34\n(\\( - \\overline {6*} \\)) = -66\nVậy dấu * là chữ số 6.\nb) (-789) + \\(\\overline {2**} \\) = -515.\n\\(\\overline {2**} \\) = -515 - (-789)\n\\(\\overline {2**} \\) = -515 + 789\n\\(\\overline {2**} \\) = 274\nVậy hai dấu * lần lượt là 7 và 4.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết tổng sau dưới dạng không có dấu ngoặc rồi tính giá trị của nó:\n(-23) – 15 - (-23) + 5 + (-10).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Áp dụng quy tắc cộng hoặc trừ số nguyên để viết phép tính dưới dạng không có ngoặc.\n- Thực hiện phép tính\nLời giải chi tiết\n(-23) – 15 - (-23) + 5 + (-10).\n= -23 – 15 + 23 + 5 – 10\n= (-23 + 23) + (-15 + 5 - 10)\n= 0 +(- 20) = -20"
+    },
+    {
+        "problem": "Tính và so sánh kết quả của:\na) 4 + (12 – 15) và 4 + 12 – 15;\nb) 4 - (12 - 15) và 4 - 12 + 15.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính rồi so sánh kết quả\nLời giải chi tiết\na) 4 + (12 - 15) = 4 + (-3) = 1\n4 + 12 - 15 = 16 - 15 = 1\nVậy 4 + (12 - 15) = 4 + 12 - 15\nb) 4 - (12 - 15) = 4 - (-3) = 4 + 3 = 7\n4 - 12 + 15 = (-8) + 15 = 7\nVậy 4 - (12 - 15) = 4 - 12 + 15"
+    },
+    {
+        "problem": "Hãy nhận xét về sự thay đổi dấu của các số hạng trong dấu ngoặc trước và sau khi bỏ dấu ngoặc.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận xét khi:\n+ Trước dấu ngoặc là dấu \"+ \"\n+ Trước dấu ngoặc là dấu \"- \"\nLời giải chi tiết\n+ Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, dấu của các số hạng trong dấu ngoặc trước và sau khi bỏ dấu ngoặc được giữ nguyên.\n+ Khi bỏ dấu ngoặc có dấu \" - \" đằng trước, dấu của các số hạng trong dấu ngoặc trước và sau khi bỏ dấu ngoặc thay đổi: dấu \" + \" đổi thành \" - \" ; dấu \" - \" đổi thành \" + \"."
+    }
+]

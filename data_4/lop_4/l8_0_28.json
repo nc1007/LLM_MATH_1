@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 1 : Hàng nào sau đây không thuộc lớp đơn vị? \nA.\tHàng nghìn\t\nB.\tHàng trăm \t\nC.\tHàng chục\t\nD.\tHàng đơn vị",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lớp đơn vị gồm hàng đơn vị, hàng chục và hàng trăm.\nVậy hàng không thuộc lớp đơn vị trong các đáp án đã cho là hàng nghìn."
+    },
+    {
+        "problem": "Câu 2 : Lớp nghìn gồm có những hàng nào? \nA.\tHàng nghìn\nB.\tHàng chục nghìn\nC.\tHàng trăm nghìn\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lớp nghìn gồm hàng nghìn, hàng chục nghìn, hàng trăm nghìn."
+    },
+    {
+        "problem": "Câu 3 :  Chữ số 7 trong số 170 825  thuộc hàng nào, lớp nào?\nA.\tHàng chục nghìn, lớp đơn vị\nB.\tHàng trăm nghìn, lớp nghìn\nC.\tHàng chục nghìn, lớp nghìn\nD.\tHàng nghìn, lớp nghìn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 7 trong số 170825 nằm ở hàng chục nghìn nên chữ số 7 thuộc lớp nghìn.\nVậy chữ số 7 thuộc hàng chục nghìn, lớp nghìn."
+    },
+    {
+        "problem": "Câu 4 : Điền số thích hợp vào ô trống: \nSố 904 327 có các chữ số lần lượt từ hàng cao tới hàng thấp thuộc lớp đơn vị là",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 904 327 có chữ số 9 thuộc hàng trăm nghìn, chữ số 0 thuộc hàng chục nghìn, \t\nchữ số 4 thuộc hàng nghìn, chữ số 3 thuộc hàng trăm, \t\nchữ số 2 thuộc hàng chục, chữ số 7 thuộc hàng đơn vị.\t\nMà lớp đơn vị gồm hàng đơn vị, hàng chục, hàng trăm.\t\nDo đó, các chữ số lần lượt từ hàng cao tới hàng thấp thuộc lớp đơn vị là: 3;2;7.\t\nVậy đáp án đúng điền vào ô trống theo thứ tự từ trái sang phải là 3;2;7."
+    },
+    {
+        "problem": "Câu 5 : Chọn dấu thích hợp để điền vào chỗ chấm: 56789 ... 100001  \nA.\t<\nB.\t>\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 56789 có 5 chữ số; số 100001 có  6 chữ số.\nVì số 56789 có ít chữ số hơn số 100001 nên 56789<100001."
+    },
+    {
+        "problem": "Câu 6 :  Chọn dấu thích hợp để điền vào chỗ chấm: 854193 ... 852963 \nA.\t=\nB.\t<\nC.\t>",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai số đã cho có số chữ số bằng nhau.\nCác chữ số hàng trăm nghìn đều bằng 8, hàng chục nghìn đều bằng 5, \nđến hàng nghìn ta có 4>2.\nVậy: 854193 > 852963."
+    },
+    {
+        "problem": "Câu 9 : Tìm số lớn nhất trong các số sau: \nA.\t99531\nB.\t901502\nC.\t650567\nD.\t742058",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy số 99531 có 5 chữ số, các số 650567;742058;901502 đều có 6 chữ số.\nXét chữ số hàng trăm nghìn ta có 6<7<9 nên 650567<742058<901502.\nDo đó 99531<650567<742058<901502.\nVậy số lớn nhất trong các số đã cho là 901502."
+    },
+    {
+        "problem": "Câu 10 : Viết số 489236 thành tổng theo mẫu: \n67812 = 60000 + 7000 + 800 + 10 + 2\nA.\t489236 = 40000 + 800000 + 9000 + 200 + 60 + 3\nB.\t489236 = 400000 + 80000 + 900 + 200 + 30 + 6\nC.\t489236 = 40000 + 800000 + 9000 + 200 + 30 + 6\nD.\t489236 = 400000 + 80000 + 9000 + 200 + 30 + 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 489236 gồm 4 trăm nghìn, 8 chục nghìn, 9 nghìn, 2 trăm, 3 chục, 6 đơn vị.\nDo đó 489236=400000+80000+9000+200+30+6."
+    },
+    {
+        "problem": "Câu 11 : Xếp các số sau theo thứ tự từ bé đến lớn:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy số 20483 có 5 chữ số, số 9876 có 4 chữ số, hai số 892673;897125 đều có 6 chữ số. \t\nDo đó ta chỉ cần so sánh hai số 892673; 897125.\t\nHai số 892673;897125 có các chữ số ở hàng trăm nghìn cùng là 8, \t\ncác chữ số ở hàng chục nghìn cùng là 9, \t\nở hàng nghìn có 2<7 nên 892673<897125.\t\nDo đó ta có: 9876 < 20483 < 892673 < 897125\t\nCác số sắp xếp theo thứ tự từ bé đến lớn là 9876; 20483; 892673; 897125."
+    },
+    {
+        "problem": "Câu 12 : Biểu thức nào sau đây có giá trị nhỏ nhất? \nA. 2394 + 15875\nB. 6834×3\nC. 72156 : 4\nD. 34168-12799",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện tính giá trị của các biểu thức đã cho ta có:\n+ Đáp án A: 2394+15875=18269\n+ Đáp án B: 6834×3=20502\n+ Đáp án C: 72156:4=18039\n+ Đáp án D: 34168−12799=21369\nMà 18039<18269<20502<21369.\nVậy biểu thức có giá trị nhỏ nhất là 72156 : 4."
+    }
+]

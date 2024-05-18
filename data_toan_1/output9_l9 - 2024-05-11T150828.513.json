@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Tính:\na)     \\(\\frac{1}{7}\\) của 63;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\frac{a}{b}\\) của c bằng \\(\\frac{a}{b}\\).c\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\frac{1}{7}.63 = 9\\\\b)\\frac{2}{5}.\\frac{{125}}{8} = \\frac{{25}}{4}\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm một số biết:\na)     \\(\\frac{2}{3}\\) của số đó bằng 32",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\frac{a}{b}\\) của số x  bằng c thì x = c : \\(\\frac{a}{b}\\)\nLời giải chi tiết\nSố đó là:\na)     32 : \\(\\frac{2}{3}\\) = 32. \\(\\frac{3}{2}\\) = 48\nb)    25: \\(\\frac{5}{7}\\) = 25. \\(\\frac{7}{5}\\) = 35"
+    },
+    {
+        "problem": "a)     Số học sinh nam bằng bao nhiêu phần số học sinh cả lớp, biết \\(\\frac{4}{7}\\) số học sinh cả lớp là nữ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép trừ và chia phân số.\nLời giải chi tiết\na)     Số học sinh nam chiếm:\n\\(1 - \\frac{4}{7} = \\frac{3}{7}\\) (số học sinh cả lớp)\nb)    Vận tốc xe máy bằng:\n\\(\\frac{1}{4}:\\frac{2}{5} = \\frac{5}{8}\\) (vận tốc ô tô)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Giờ thứ hai bán được \\(\\frac{8}{{19}}\\) tổng số vé bán được trong giờ thứ nhất và giờ thứ ba. Ta coi giờ thứ 2 bán được 8 phần thì tổng số vé bán được trong giờ thứ nhất và giờ thứ ba là 19 phần nên tổng số phần 3 giờ bán được là 8+ 19 = 27 phần. Do đó, giờ thứ 2 bán được \\(\\frac{8}{{27}}\\) tổng số vé\nBước 2: Số vé còn lại sau 2 giờ bán là số vé bán trong giờ thứ 3\nBước 3: So sánh phân số chỉ số vé bán được mỗi giờ so trên tổng số vé. Phân số lớn nhất thì số vé bán được trong giờ đó là nhiều nhất\nLời giải chi tiết\nVì giờ thứ hai bán được \\(\\frac{8}{{19}}\\) tổng số vé bán được trong giờ thứ nhất và giờ thứ ba nên giờ thứ 2 bán được \\(\\frac{8}{{19 + 8}} = \\frac{8}{{27}}\\) tổng số vé\nGiờ thứ ba bán được:\n\\(1 - \\frac{1}{3} - \\frac{8}{{27}} = \\frac{{10}}{{27}}\\)(tổng số vé)\nVì \\(\\frac{8}{{27}} < \\frac{1}{3} < \\frac{{10}}{{27}}\\) nên giờ thứ 2 bán được ít vé nhất, giờ thứ 3 bán được nhiều vé nhất."
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính phân số chỉ số phần tiền trả trong kì thứ tư trên số tiền gốc\nLời giải chi tiết\nSau lần trả thứ 1, người đó còn nợ \\(1 - \\frac{1}{4} = \\frac{3}{4}\\) tiền gốc\nLần trả 2, người đó đã trả: \\(\\frac{1}{3}.\\frac{3}{4} = \\frac{1}{4}\\) tiền gốc\nSau lần trả 2, người đó còn nợ \\(\\frac{3}{4} - \\frac{1}{4} = \\frac{1}{2}\\) tiền gốc\nKì thứ 3, người đó trả \\(\\frac{1}{2}.\\frac{1}{2} = \\frac{1}{4}\\) tiền gốc\nNhư vậy, kì 4, người đó trả: \\(\\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}\\) tiền gốc, tương ứng là 125 triệu đồng\nVậy khoản vay ban đầu là:\n125: \\(\\frac{1}{4}\\) = 500 (triệu đồng)"
+    },
+    {
+        "problem": "Trường phổ thông dân tộc ở một tỉnh miền núi có 300 học sinh gồm ba dân tộc: Thái, Tày, Dao. Số bạn học sinh dân tộc Dao bằng \\(\\frac{1}{{15}}\\) tổng số học sinh toàn trường, số bạn học sinh dân tộc Thái bằng \\(\\frac{2}{3}\\) tổng số học sinh dân tộc Tày và Dao.\na)     Tính số học sinh dân tộc Dao và số học sinh dân tộc Thái trong tường",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số học sinh Dao\nSố học sinh Thái \\(\\frac{2}{3}\\) tổng số học sinh dân tộc Tày và Dao thì số học sinh Thái bằng \\(\\frac{2}{{2 + 3}} = \\frac{2}{5}\\) số học sinh toàn trường\nLời giải chi tiết\na)     Số học sinh Dao là:\n\\(\\frac{1}{{15}}\\) . 300 = 20 (học sinh)\nSố học sinh Thái \\(\\frac{2}{3}\\) tổng số học sinh dân tộc Tày và Dao thì số học sinh Thái bằng \\(\\frac{2}{{2 + 3}} = \\frac{2}{5}\\) số học sinh toàn trường nên số học sinh Thái là:\n\\(\\frac{2}{5}.300 = 120\\) (học sinh)\nb) Số học sinh Tày bằng:\n\\(1 - \\frac{1}{{15}} - \\frac{2}{5} = \\frac{8}{{15}}\\) (số học sinh toàn trường)\n"
+    },
+    {
+        "problem": "Viết số đo thời gian sau đây theo đơn vị giờ, dưới dạng phân số tối giản:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1 giờ  = 60 phút\nViết phân số với tử số là số đo thời gian, mẫu là 60 rồi rút gọn về dạng phân số tối giản\nLời giải chi tiết\nTa có:\n\\(\\frac{{36}}{{60}} = \\frac{{36:12}}{{60:12}} = \\frac{3}{5}\\)\n\\(\\frac{{18}}{{60}} = \\frac{{18:6}}{{60:6}} = \\frac{3}{{10}}\\)\n\\(\\frac{{150}}{{60}} = \\frac{{150:30}}{{60:30}} = \\frac{5}{2}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối giữa phép nhân và phép cộng\nLời giải chi tiết\n\\(\\begin{array}{l}A = \\frac{2}{5}.\\frac{3}{7} - \\frac{{10}}{7} + \\frac{3}{7}.\\frac{3}{5}\\\\ = \\frac{2}{5}.\\frac{3}{7} + \\frac{3}{7}.\\frac{3}{5} - \\frac{{10}}{7}\\\\ = \\frac{3}{7}.(\\frac{2}{5} + \\frac{3}{5}) - \\frac{{10}}{7}\\\\ = \\frac{3}{7}.\\frac{5}{5} - \\frac{{10}}{7}\\\\ = \\frac{3}{7}.1 - \\frac{{10}}{7}\\\\ = \\frac{3}{7} - \\frac{{10}}{7}\\\\ = \\frac{{ - 7}}{7}\\\\ =  - 1\\end{array}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi hỗn số sang phân số\nTìm một số x biết \\(\\frac{a}{b}\\) của nó bằng c. Khi đó, \\(x = c: \\frac{a}{b}\\)\nLời giải chi tiết\nĐổi \\(2\\frac{1}{2} = \\frac{5}{2}\\)\nQuả dưa nặng: \\(\\frac{5}{2}:\\frac{2}{3} =\\frac{5}{2}.\\frac{3}{2}= \\frac{{15}}{4} = 3\\frac{3}{4}\\) (kg)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay các giá trị của a, b vào biểu thức rồi thực hiện phép tính\nLời giải chi tiết\nThay \\(a = \\frac{{10}}{7};b = \\frac{5}{2}\\) vào biểu thức B, ta được\n\\(\\begin{array}{l}B = \\frac{2}{5}.a - \\frac{3}{4}.a + b:2\\\\ = \\frac{2}{5}.\\frac{{10}}{7} - \\frac{3}{4}.\\frac{{10}}{7} + \\frac{5}{2}:2\\\\ = \\frac{4}{7} - \\frac{{15}}{{14}} + \\frac{5}{2}.\\frac{1}{2}\\\\ = \\frac{4}{7} - \\frac{{15}}{{14}} + \\frac{5}{4}\\\\ = \\frac{{16}}{{28}} - \\frac{{30}}{{28}} + \\frac{{35}}{{28}}\\\\ = \\frac{{21}}{{28}}\\\\ = \\frac{3}{4}\\end{array}\\)\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm tỉ số số trang còn lại sau mỗi ngày so với số trang của cuốn sách\nLời giải chi tiết\nSau ngày thứ nhất, Hà còn lại: \\(1 - \\frac{1}{4} = \\frac{3}{4}\\) (số trang sách)\nNgày thứ hai, Hà đọc được: \\(\\frac{2}{5}.\\frac{3}{4} = \\frac{3}{{10}}\\) (số trang sách)\nSau ngày thứ hai, Hà còn lại: \\(1 - \\frac{1}{4} - \\frac{3}{{10}} = \\frac{9}{{20}}\\) (số trang sách) (tương ứng là 90 trang)\nVậy cuốn sách có số trang là:\n\\(90:\\frac{9}{{20}} = 200\\) (trang)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Triệt tiêu các thừa số giống nhau ở tử số và mẫu số\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}A = \\frac{{{2^2}}}{{1.3}}.\\frac{{{3^2}}}{{2.4}}.\\frac{{{4^2}}}{{3.5}}.\\frac{{{5^2}}}{{4.6}}\\\\ = \\frac{{2.2.3.3.4.4.5.5}}{{1.3.2.4.3.5.4.6}}\\\\ = \\frac{{2.5}}{{1.6}}\\\\ = \\frac{5}{3}\\end{array}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm một số x biết \\(\\frac{a}{b}\\) của nó bằng c. Khi đó, x = c: \\(\\frac{a}{b}\\)\nLời giải chi tiết\nHải đã tiết kiệm được số tiền là:\n\\(50000:\\frac{2}{5} = 125000\\) (đồng)\n"
+    },
+    {
+        "problem": "Cả ba vòi cùng chảy vào một cái bể cạn. Nếu hai vòi I và II cùng chảy thì bể đầy sau 60 phút. Nếu hai vòi II và III cùng chảy thì bể đầy sau 75 phút. Nếu hai vòi III và I cùng chảy thì bể đầy sau 50 phút.\na)     Nếu cả ba vòi cùng chảy thì bể đầy sau bao lâu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác định trong 1 phút thì các vòi chảy được bao nhiêu phần của bể\nLời giải chi tiết\nTrong 1 phút:\na)     Vòi I và vòi II chảy được: \\(\\frac{1}{{60}}\\) bể\nVòi II và III chảy được: \\(\\frac{1}{{75}}\\) bể\nVòi III và I chảy được: \\(\\frac{1}{{50}}\\) bể\nDo đó, trong 1 phút, 2 lần vòi I+ 2 lần vòi II + 2 lần vòi III chảy được: \\(\\frac{1}{{60}} + \\frac{1}{{75}} + \\frac{1}{{50}} = \\frac{1}{{20}}\\)bể\nTrong 1 phút, cả 3 vòi cùng chảy thì được: \\(\\frac{1}{{20}}:2 = \\frac{1}{{40}}\\) bể\nVậy nếu cả 3 vòi cùng chảy thì 40 phút đầy bể\nb)    Trong 1 phút, vòi I+ II chảy được \\(\\frac{1}{{60}}\\)bể, cả 3 vòi chảy được \\(\\frac{1}{{40}}\\)bể nên trong 1 phút, vòi III chảy được: \\(\\frac{1}{{40}} - \\frac{1}{{60}} = \\frac{1}{{120}}\\) bể. Do đó, vòi III chảy một mình thì 120 phút đầy bể\nTương tự, trong 1 phút, vòi I chảy được: \\(\\frac{1}{{40}} - \\frac{1}{{75}} = \\frac{7}{{600}}\\) bể. Do đó, vòi I chảy một mình thì \\(1:\\frac{7}{{600}} = \\frac{{600}}{7}\\) phút thì đầy bể\nTrong 1 phút, vòi II chảy được: \\(\\frac{1}{{40}} - \\frac{1}{{50}} = \\frac{1}{{200}}\\) bể. Do đó, vòi II chảy một mình thì 200 phút thì đầy bể."
+    }
+]

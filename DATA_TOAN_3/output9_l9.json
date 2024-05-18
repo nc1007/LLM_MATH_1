@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Với \\(x < 0; y < 0\\) biểu thức \\(x\\sqrt {\\dfrac{x}{{{y^3}}}} \\) được biến đổi thành\n(A) \\(\\dfrac{x}{{{y^3}}}\\sqrt {xy} \\)\n(B) \\(\\dfrac{x}{y}\\sqrt {xy} \\)\n(C) \\(-\\dfrac{x}{{{y^3}}}\\sqrt {xy} \\)\n(D) \\(-\\dfrac{x}{y}\\sqrt {xy} \\)\nHãy chọn đáp án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng:\nVới \\(A \\ge 0;B > 0\\)\n\\(\\sqrt {\\dfrac{A}{B}}  = \\dfrac{{\\sqrt A }}{{\\sqrt B }}\\)\nLời giải chi tiết\nTa có:\n\\(x\\sqrt {\\dfrac{x}{{{y^3}}}}  = x\\sqrt {\\dfrac{{xy}}{{{y^4}}}} \\)\nDo \\(x < 0; y < 0\\) nên \\(xy > 0\\)\n\\(x\\sqrt {\\dfrac{{xy}}{{{y^4}}}}  = x\\dfrac{{\\sqrt {xy} }}{{\\sqrt {{y^4}} }} = \\dfrac{x}{{{y^2}}}\\sqrt {xy} \\)\nVậy chọn đáp án (A).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giá trị của \\(\\dfrac{6}{{\\sqrt 7  - 1}}\\) bằng\n(A) \\(\\sqrt 7  - 1\\)\n(B) \\(1 - \\sqrt 7 \\)\n(C) \\(-\\sqrt 7  - 1\\)\n(D) \\(\\sqrt 7  + 1\\)\nHãy chọn đáp án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng: Với \\(B \\ge 0;\\,B \\ne {C^2},\\) ta có:\n\\(\\dfrac{A}{{\\sqrt B  \\pm C}} = \\dfrac{{A(\\sqrt B  \\mp C)}}{{B - {C^2}}}\\)\nLời giải chi tiết\nTa có:\n\\(\\dfrac{6}{{\\sqrt 7  - 1}} = \\dfrac{{6.(\\sqrt 7  + 1)}}{{{{\\left( {\\sqrt 7 } \\right)}^2} - {1^2}}}\\)\\( = \\dfrac{{6.\\left( {\\sqrt 7  + 1} \\right)}}{6} = \\sqrt 7  + 1\\)\nVậy đáp án (D)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với ba số  \\(a, b, c\\) không âm, chứng minh bất đẳng thức:\n\\(a + b + c \\ge \\sqrt {ab}  + \\sqrt {bc}  + \\sqrt {ca} \\)\nHãy mở rộng kết quả cho trường hợp bốn số, năm số không âm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Áp dụng:\n\\({\\left( {a - b} \\right)^2} = {a^2} - 2ab + {b^2}\\)\n\\({\\left( {a - b} \\right)^2} \\ge 0\\)\nCách 2: Áp dụng bất đẳng thức Cô - si cho hai số \\(a,b\\) không âm \\(\\dfrac{{a + b}}{2} \\ge \\sqrt {ab} \\)\nLời giải chi tiết\nCách 1:\nVì \\(a, b\\) và \\(c\\) không âm nên \\(\\sqrt a;\\sqrt b \\) và \\(\\sqrt c \\) tồn tại.\nTa có: \\({\\left( {\\sqrt a  - \\sqrt b } \\right)^2} \\ge 0\\) suy ra:\n\\(\\eqalign{& a + b - 2\\sqrt {ab} \\ge 0 \\Leftrightarrow a + b \\ge 2\\sqrt {ab} \\cr & \\Leftrightarrow {{a + b} \\over 2} \\ge \\sqrt {ab} \\,\\,(1) \\cr} \\)\n\\({\\left( {\\sqrt b  - \\sqrt c } \\right)^2} \\ge 0\\) suy ra:\n\\(\\eqalign{& b + c - 2\\sqrt {bc} \\ge 0 \\Leftrightarrow b + c \\ge 2\\sqrt {bc} \\cr & \\Leftrightarrow {{b + c} \\over 2} \\ge \\sqrt {bc} \\,\\,(2) \\cr} \\)\n\\({\\left( {\\sqrt c  - \\sqrt a } \\right)^2} \\ge 0\\) suy ra:\n\\(\\eqalign{& c + a - 2\\sqrt {ca} \\ge 0 \\Leftrightarrow c + a \\ge 2\\sqrt {ca} \\cr & \\Leftrightarrow {{c + a} \\over 2} \\ge \\sqrt {ca} \\,\\,(3) \\cr} \\)\nCộng từng vế các bất đẳng thức (1), (2) và (3), ta có:\n\\(\\dfrac{{a + b}}{2} + \\dfrac{{b + c}}{2} + \\dfrac{{c + a}}{2} \\)\\(\\ge \\sqrt {ab}  + \\sqrt {bc}  + \\sqrt {ca} \\)\n\\(\\Leftrightarrow \\dfrac{{2a + 2b+2c}}{2} \\)\\(\\ge \\sqrt {ab}  + \\sqrt {bc}  + \\sqrt {ca} \\)\n\\( \\Leftrightarrow a + b + c \\ge \\sqrt {ab}  + \\sqrt {bc}  + \\sqrt {ca} \\)\nCách 2: Áp dụng bất đẳng thức Cô-si với các số không âm \\(a, b, c\\) ta có:\n\\(\\dfrac{{a + b}}{2} \\ge \\sqrt {ab} \\) (1)\n\\(\\dfrac{{b + c}}{2} \\ge \\sqrt {bc} \\) (2)\n\\(\\dfrac{{a + c}}{2} \\ge \\sqrt {ac} \\) (3)\nCộng (1); (2); (3) theo vế ta có:\n\\(a + b + c \\ge \\sqrt {ab}  + \\sqrt {bc}  + \\sqrt {ac} \\)\nSuy ra, điều phải chứng minh.\n+) Với bốn số \\(a, b, c, d\\) không âm, ta có:\n\\(a + b + c + d \\)\\(\\ge \\sqrt {ab}  + \\sqrt {bc}  + \\sqrt {cd}  + \\sqrt {da} \\)\n+) Với năm số a, b, c, d, e không âm, ta có:\n\\(a + b + c + d + e \\)\\(\\ge \\sqrt {ab}  + \\sqrt {bc}  + \\sqrt {cd}  + \\sqrt {de}  + \\sqrt {ea} \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính (không dùng bảng số hay máy tính bỏ túi):\n\\(\\root 3 \\of { - 343} \\); \\(\\root 3 \\of {0,027} \\); \\(\\root 3 \\of {1,331} \\); \\(\\root 3 \\of { - 0,512} \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Định nghĩa: Căn bậc ba của một số \\(a\\) là số \\(x\\) sao cho \\({x^3} = a\\) ( mỗi \\(a\\) đều có duy nhất một căn bậc ba)\nÁp dụng:\n\\({\\left( {\\sqrt[3]{a}} \\right)^3} = a\\); \\(\\sqrt[3]{{{a^3}}} = a\\)\nLời giải chi tiết\n\\(\\root 3 \\of { - 343}  = \\root 3 \\of {{{\\left( { - 7} \\right)}^3}}  =  - 7\\)\n\\(\\root 3 \\of {0,027}  = \\root 3 \\of {{{\\left( {0,3} \\right)}^3}}  = 0,3\\)\n\\(\\root 3 \\of {1,331}  = \\root 3 \\of {{{\\left( {1,1} \\right)}^3}}  = 1,1\\)\n\\(\\root 3 \\of { - 0,512}  = \\root 3 \\of {{{\\left( { - 0,8} \\right)}^3}}  =  - 0,8\\)\nLoigiaihay.com"
+    }
+]

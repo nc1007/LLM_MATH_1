@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1 : a x (b - c) = a x b - a x c. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số với một hiệu, ta có thể lần lượt nhân số đó với một số bị trừ và số trừ, rồi trừ hai kết quả cho nhau.\n              a×(b−c)=a×b−a×c\nVậy công thức đã cho là đúng."
+    },
+    {
+        "problem": "Câu 4 : 25 × (18 - 6) = 25 × 18 - 6. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số với một hiệu, ta có thể lần lượt nhân số đó với một số bị trừ và số trừ, \nrồi trừ hai kết quả cho nhau.\nDo đó ta có: 25×(18−6)=25×18−25×6\nVậy phép tính đã cho là sai."
+    },
+    {
+        "problem": "Câu 5 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n8 ×(48 − 25)\n= 8 × 48 − 8 × 25\n= 384 − 200\n= 184\nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới, \ntừ trái sang phải là 8; 25; 384; 200; 184"
+    },
+    {
+        "problem": "Câu 6 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n275×18−275×8\n=275×(18−8)\n=275×10\n=2750\nVậy đáp án đúng điền vào ô trống từ trên xuống dưới,\n từ trái sang phải lần lượt là  275; 8; 275; 10; 2750."
+    },
+    {
+        "problem": "Câu 7 : Kết quả phép tính 72 × 35 - 72 × 5 là: \nA.\t216\nB.\t360\nC.\t2060\nD.\t2160",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "72 × 35 − 72 × 5 = 72 × (35 − 5) = 72 × 30 = 2160\nVậy 72 × 35 − 72 × 5 = 2160"
+    },
+    {
+        "problem": "Câu 9 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n168×99=168×(100−1) \n=168×100−168×1 \n=16800−168\n=16632\nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới, \ntừ trái sang phải là  100; 100; 168; 16800; 168; 16632."
+    },
+    {
+        "problem": "Câu 10 : Chọn dấu thích hợp để điền vào chỗ chấm:  \n245×14 - 3245×4 ...425×93 + 425×7 \nA.\t<\nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n 3245×14−3245×4\n=3245×(14−4)\n=3245×10\n=32450\n 425×93+425×7\n=425×(93+7)\n=425×100\n=42500\nMà 32450<42500\nVậy 3245×14−3245×4 < 425×93+425×7."
+    },
+    {
+        "problem": "Câu 11 : Kết quả của biểu thức:  248×36 + 124×65×2 - 248 là: \nA.\t12400\nB.\t16120\nC.\t21600\nD.\t24800",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "248×36+124×65×2−248\n=248×36+(124×2)×65−248×1\n=248×36+248×65−248×1\n=248×(36+65−1)\n=248×100\n=24800"
+    }
+]

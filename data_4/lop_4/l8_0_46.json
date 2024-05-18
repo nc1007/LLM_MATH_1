@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : Tí viết: “ a x b = b x a ”. Bạn Tí viết đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đổi chỗ các thừa số trong một tích thì tích đó không thay đổi.\nNên : “a×b=b×a”.\nVậy Tí viết đúng."
+    },
+    {
+        "problem": "Câu 2 : Sửu viết:  “ 3925 x 8 = 8 x 3925 ”. Sửu viết đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đổi chỗ các thừa số trong một tích thì tích đó không thay đổi.\nNên : “3925×8=8×3925”.\nVậy Sửu viết đúng."
+    },
+    {
+        "problem": "Câu 6 : m x n = n x ... . Đáp án đúng điền vào chỗ chấm là: \nA.\t0\nB.\t1\nC.\tm\nD.\tn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đổi chỗ các thừa số trong một tích thì tích đó không thay đổi.\nDo đó ta có : m×n=n×m\nVậy đáp án đúng điền vào chỗ chấm là m."
+    },
+    {
+        "problem": "Câu 7 : Cho biểu thức: 38756 x 9 . Biểu thức nào sau đây có giá trị bằng biểu thức đã cho? \nA. 9×37856\nB. 9×38765\nC. 9×37865\nD. 9×38756",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đổi chỗ các thừa số trong một tích thì tích đó không thay đổi.\nDo đó ta có: 38756×9=9×38756\nVậy biểu thức có giá trị bằng với biểu thức 38756×9 là 9×38756."
+    },
+    {
+        "problem": "Câu 9 : Cho: 2389 x 8 ... 8 x 2398. Dấu thích hợp điền vào chỗ chấm là: \nA.\t< \nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đổi chỗ các thừa số trong một tích thì tích đó không thay đổi.\nDo đó ta có:   2389×8=8×2389\nLại có 2389<2398 nên 8×2389<8×2398\nVậy 2389×8<8×2398"
+    },
+    {
+        "problem": "Câu 10 : Ghép nối hai biểu thức có giá trị bằng nhau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n(5+2)×11582=7×11582=11582×7\n(2400+51)×5=2451×5=5×2451\n(6+2)×(3000+824)=8×3824=3824×8\nVậy ta có kết quả như sau:"
+    },
+    {
+        "problem": "Câu 12 : 29548×9 = 3 ×… \nĐáp án đúng điền vào chỗ chấm là:\nA. 29548\nB. 29548×9\nC. 29458\nD. 29548×3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đổi chỗ các thừa số trong một tích thì tích đó không thay đổi.\nDo đó ta có:  29548×9=29548×3×3=3×29548×3\nVậy đáp án đúng điền vào chỗ chấm là 29548×3."
+    }
+]

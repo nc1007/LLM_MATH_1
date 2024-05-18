@@ -1,0 +1,134 @@
+[
+    {
+        "problem": "A. 0và 1không là số nguyên tố cũng không phải hợp số.\nB. Cho số a > 1, a có 2 ước thì a là hợp số.\nC. 2 là số nguyên tố chẵn duy nhất.\nD. Số nguyên tố là số tự nhiên lớn hơn 1 mà chỉ có hai ước là 1 và chính nó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) Số a phải là số tự nhiênlớn hơn 1 và có nhiều hơn 2 ước thì aa mới là hợp số nên B sai.\n+) 1 là số tự nhiên chỉ có 1 ước là 1 nên không là số nguyên tố và 0 là số tự nhiên nhỏ hơn 1 nên không là số nguyên tố. Lại có 0 và 1 đều không là hợp số do đó A đúng.\n+) Số nguyên tố là số tự nhiên lớn hơn 1 mà chỉ có hai ước là 1 và chính nó nên D đúng và suy ra 2 là số nguyên tốchẵn duy nhất nên C đúng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Số nào trong các số sau không là số nguyên tố?\nA. 2\nB. 3\nC. 5\nD. 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n9 chia hết cho 3 nên 3 là một ước của 9. Mà 3 khác 1 và khác 9 nên 9 không là số nguyên tố.\nVậy 9 là số cần tìm.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Phân tích số a ra thừa số nguyên tố a=p1m1.p2m2...pkmk . Khẳng định nào sau đây là đúng:\nA. Các số p1;p2;...pk là các số dương\nB. các số p1;p2;...pk∈P (với P là tập hợp các số nguyên tố)\nC. các số p1;p2;...pk∈N\nD. các số p1;p2;...pk tùy ý",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nKhi phân tích một số a=p1m1.p2m2...pkmk ra thừa số nguyên tố thì các số p1;p2;...pk phải là các số nguyên tố.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. Phân tích số 18thành thừa số nguyên tố:\nA. 18 = 18.1\nB. 18 = 10 + 8\nC. 18 = 2.3^{2}  \nD. 18 = 6 + 6 + 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Đáp án A sai vì 1 không phải là số nguyên tố\n- Đáp án B sai vì đây là phép cộng.\n- Đáp án C đúng vì 2và 3là 2số nguyên tố và 2.3^{2 } = 2.9 = 18\n- Đáp án D sai vì đây là phép cộng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Cho số a = 2^{2} .7, hãy viết tập hợp tất cả các ước của a:\nA. Ư(a) = {4; 7}\nB. Ư(a)(a) ={1; 4; 7}\nC. Ư(a) ={1; 2; 4; 7; 28}\nD. Ư(a) ={1; 2; 4; 7; 14; 28}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có a = 2^{2} .7 = 4.7 = 28\n28 = 28.1 = 14.2 = 7.4 = 7.2.2, vậy U(28) = {1; 2; 4; 7; 14; 28}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Khẳng định nào sau đây là đúng:\nA. A = {0; 1} là tập hợp số nguyên tố\nB. A = {3; 5} là tập hợp số nguyên tố \nC. A = {1; 3; 5} là tập hợp các hợp số\nD. A = {7; 8} là tập hợp số hợp số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A:Sai vì 0 và 1 không phải là số nguyên tố.\nĐáp án C: Sai vì 1 không phải là hợp số, 3,5 là các số nguyên tố.\nĐáp án D: Sai vì 7 không phải là hợp số.\nĐáp án B: Đúng vì 3;5 đều là số nguyên tố\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Kết quả của phép tính nào sau đây là số nguyên tố:\nA. 15 – 5 + 3\nB. 7.2 + 1 \nC. 14.6:4 \nD. 6.4 − 12.2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA.15 – 5 + 3 = 13 là số nguyên tố\nB.7.2 + 1 = 14 + 1 = 15, ta thấy 15 có ước 1; 3; 5; 15 nên 15 là hợp số.\nC.14.6:4 = 84:4 = 21, ta thấy 21 có ước 1; 3; 7; 21 nên 21 là hợp số\nD.6.4 − 12.2 = 24 – 24 = 0, ta thấy 0 không là số nguyên tố, không là hợp số.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Thay dấu * để được số nguyên tố 3*¯ :\nA. 7\nB. 4\nC. 6 \nD. 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: Vì 37chỉ chia hết cho 1 và 37 nên 37 là số nguyên tố, do đó chọn A.\nĐáp án B: 34không phải là số nguyên tố (34chia hết cho {2; 4;…}). Do đó loại B.\nĐáp án C: 36không phải là số nguyên tố (36 chia hết cho {1; 2; 3;...; 36}). Do đó loại C.\nĐáp án D: 39không phải là số nguyên tố (39 chia hết cho {1; 3;...; 39}). Do đó loại D.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Thay dấu * để được số nguyên tố *1¯\nA. 2\nB. 8 \nC. 5\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDấu * có thể nhận các giá trị {2; 8; 5; 4}\n+) Ta có 21 có các ước 1; 3; 7; 21 nên 21 là hợp số. Loại A\n+) 81 có các ước 1; 3; 9; 27; 81 nên 81 là hợp số. Loại B\n+) 51 có các ước 1; 3; 17; 51 nên 51 là hợp số. Loại C\n+) 41 chỉ có hai ước là 1;41 nên 41 là số nguyên tố.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Cho các số 21; 77; 71; 101. Chọn câu đúng.\nA. Số 21 là hợp số, các số còn lại là số nguyên tố\nB. Có hai số nguyên tố và hai hợp số trong các số trên.\nC. Chỉ có một số nguyên tốcòn lại là hợp số\nD. Không có số nguyên tố nào trong các số trên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Số 21 có các ước 1; 3; 7; 21 nên 21 là hợp số\n+ Số 77 có các ước 1; 7; 11; 77 nên 77 là hợp số\n+ Số 71 chỉ có hai ước là 1; 71 nên 71 là số nguyên tố.\n+ Số 101 chỉ có hai ước là 1; 101 nên 101 là số nguyên tố.\nNhư vậy có hai số nguyên tố là 71; 101 và hai hợp số là 21; 77.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 11. Cho A = 90.17 + 34.40 + 12.51 và B = 5.7.9 + 2.5.6 . Chọn câu đúng.\nA. A là số nguyên tố, B là hợp số\nB. A là hợp số, B là số nguyên tố\nC. Cả A và B là số nguyên tố\nD. Cả A và B đều là hợp số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) Ta có A = 90.17 + 34.40 + 12.51\nNhận thấy 17⋮17; 34⋮17; 51⋮17nên A = 90.17 + 34.40 + 12.51\nchia hết cho 17 nên ngoài ước là 1 và chính nó thì A còn có ước là 17. Do đó A là hợp số.\n+) Ta có B = 5.7.9 + 2.5.6 = 5.(7.9 + 2.6)⋮5 nên B = 5.7.9 + 2.5.6\nngoài ước là 1 và chính nó thì A còn có ước là 5. Do đó B là hợp số.\nVậy cả A và B đều là hợp số.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về số nguyên tố, hợp số , phân tích một số ra thừa số nguyên tố\nCâu 1. Chọn khẳng định đúng:\nA. Mọi số tự nhiên đều có ước chung với nhau. \nB. Mọi số tự nhiên đều có ước là 0. \nC. Số nguyên tố chỉ có đúng 1 ước là chính nó.\nD. Hai số nguyên tố khác nhau thì không có ước chung.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA. Đáp án này đúng vì mọi số tự nhiên đều có ước chung là 1.\nB. Đáp án này sai, vì 0 không là ước của 1 số nào cả.\nC. Đáp án này sai, vì số nguyên tố có 2 ước là 1 và chính nó.\nD. Đáp án này sai, vì 2 số nguyên tố có ước chung là 1.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Số nguyên tố nhỏ hơn 30 là:\nA. 23\nB. 31\nC. 27\nD. 32",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số nguyên tố nhỏ hơn 30 là:2; 3; 5; 7; 9; 11; 13; 17; 19; 23; 29.\nSố cần tìm là 23.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Một ước nguyên tố của 91 là\nA. 1\nB. 2\nC. 3\nD. 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n91 có tổng các chữ số bằng 10 không chia hết cho 3 nên 3 không là ước nguyên tố của 91\n91 có chữ số tận cùng là 1 nên 91 không chia hết cho 2, do đó 2 không là ước nguyên tố.\nMột ước số nguyên tố của 91 là: 7.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Cho số 150 = 2.3.5^{2} , số lượng ước của 150là bao nhiêu:\nA. 6\nB. 7\nC. 8\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n150 = 2.3.5^{2} , vậy x = 1; y = 1; z = 2\nVậy số lượng ước của số 150là (1+1)(1+1)(2+1) = 2.2.3 = 12\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8. Biết 400 = 2^{4} .5^{2} . Hãy viết 800 thành tích các thừa số nguyên tố\nA. 800 = 2^{2} .5^{2} \nB. 800 = 2^{5} .5^{2} \nC. 800 = 2^{5} .5^{5} \nD. 800 = 400.2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n400 = 2^{4} .5^{2} \n800 = 400.2 = 2.2^{4} .5^{2 } = 2^{5} .5^{2} \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Tổng của 3 số nguyên tố là 578. Tìm ra số nguyên tố nhỏ nhất trong 3 số nguyên tố đó.\nA. 2\nB. 8\nC. 5\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng 3 số nguyên tố là 578 là số chẵn, nên trong 3 số nguyên tố có ít nhất 1 số là số chẵn. Ta đã biết số 2 là số nguyên tố chẵn duy nhất. Vậy số nguyên tố nhỏ nhất trong 3 số nguyên tố có tổng là 578 là số 2.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Có bao nhiêu số nguyên tố x thỏa mãn 50 < x < 60?\nA. 2\nB. 8 \nC. 5\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số x thỏa mãn 50 < x < 60 là 51; 52; 53; 54; 55; 56; 57; 58; 59\nTrong đó các số nguyên tố là 53; 59.\nVậy có hai số nguyên tố thỏa mãn đề bài.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12. Tìm tất cả các số tự nhiên nn để n^{2 } + 12n là số nguyên tố.\nA. n = 11\nB. n = 13 \nC. n = 2\nD. n = 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \nn^{2 } + 12n = n(n + 12); n + 12 > 1 nên để n^{2 } + 12n là số nguyên tố thì n = 1.\nThử lại \nn^{2 } + 12n = 1^{2 } + 12.1 = 13 (nguyên tố)\nVậy với n = 1 thì n^{2 } + 12n là số nguyên tố.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14. Tích của hai số tự nhiên bằng 105. Có bao nhiêu cặp số thỏa mãn?\nA. 4 \nB. 6\nC. 10 \nD. 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi hai số tự nhiên cần tìm là a và b(a; b ∈ N)\nTa có a.b = 105\nPhân tích số 105 ra thừa số nguyên tố ta được 105 = 3.5.7\nCác số a; b là ước của 105 , do đó ta có\nVậy có 8 cặp số thỏa mãn yêu cầu.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 18. Có bao nhiêu số nguyên tố p sao cho p + 4 và p + 8 cũng là số nguyên tố.\nA. 2\nB. 1 \nC. 5\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐặt p = 3a + r (r = 0; 1; 2; a∈N)\nVới r = 1 ta có p + 8 = 3a + r + 8 = (3a + 9)⋮3, (3a + 9) > 3nên p + 8 là hợp số.\n Do đó loại r = 1.\nVới r = 2 ta có p + 4 = 3a + r + 4 = (3a + 6)⋮3, (3a + 6) > 3 nên p + 4 là hợp số.\nDo đó loại r = 2.\nDo đó r = 0; p = 3a là số nguyên tố nên a = 1 ⇒ p = 3.\nTa có p + 4 = 7; p + 8 = 11 là các số nguyên tố.\nVậy p = 3.\nCó một số nguyên tố pp thỏa mãn đề bài.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 19. Cho nguyên tố p chia cho 42 có số dư r là hợp số. Tìm r.\nA. r = 29\nB. r = 15 \nC. r = 27\nD. r = 25",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có p = 42.a + r = 2.3.7.a + r (a, r∈N; 0 < r < 42)\nVì p là số nguyên tố nên r không chia hết cho 2; 3; 7.\nCác hợp số nhỏ hơn 42 không chia hết cho 2 là 9; 15; 21; 25; 27; 33; 35; 39\nLoại bỏ các số chia hết cho 3 và 7 ta còn số 25.\nVậy r = 25.\nĐáp án cần chọn là: D"
+    }
+]

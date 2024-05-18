@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 1: Con hãy chọn đáp án đúng nhất:\nA.\tNếu nhân cả tử số và mẫu số của một phân số với cùng một số tự nhiên khác 0 thì được một phân số bằng phân số đã cho\nB.\tNếu cả tử số và mẫu số của một phân số cùng chia hết cho một số tự nhiên khác 0 thì sau khi chia được một phân số bằng phân số đã cho\nC.\tCả A và B đều đúng\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chất cơ bản của phân số:\n- Nếu nhân cả tử số và mẫu số của một phân số với cùng một số tự nhiên khác 0 thì được một phân số bằng phân số đã cho.\n- Nếu cả tử số và mẫu số của một phân số cùng chia hết cho một số tự nhiên khác 0 thì sau khi chia ta được một phân số bằng phân số đã cho.\nVậy cả A và B đều đúng."
+    }
+]

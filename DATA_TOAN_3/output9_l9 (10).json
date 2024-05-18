@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Cho \\(\\cos \\alpha  = 0,8\\). Hãy tìm \\(\\sin \\alpha ,tg\\alpha ,\\cot g\\alpha \\) (làm tròn đến chữ số thập phân thứ tư).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta sử dụng các kiến thức sau:\n\\({\\sin ^2}\\alpha  + {\\cos ^2}\\beta  = 1\\)\n\\(tg\\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }};{\\mathop{\\rm cotg}\\nolimits} \\alpha  = \\dfrac{{\\cos \\alpha }}{{\\sin \\alpha }}\\)\n\\(tg\\alpha .\\cot g\\alpha  = 1.\\)\nLời giải chi tiết\nTa có: \\({\\sin ^2}\\alpha  + {\\cos ^2}\\alpha  = 1\\)\nSuy ra: \\({\\sin ^2}\\alpha  = 1 - {\\cos ^2}\\alpha  = 1 - {(0,8)^2}\\)\\( = 1 - 0,64 = 0,36\\)\nVì \\(\\sin \\alpha  > 0\\) nên \\(\\sin \\alpha  = \\sqrt {0,36}  = 0,6\\)\nSuy ra: \\(\\tan\\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }} = \\dfrac{{0,6}}{{0,8}} = \\dfrac{3}{4} = 0,75\\)\n\\(\\cot\\alpha  = \\dfrac{1}{{\\tan\\alpha }} = \\dfrac{1}{{0,75}} \\approx 1,3333\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho \\(\\sin \\alpha  = \\dfrac{1}{2}.\\) Hãy tìm \\({\\rm{cos}}\\alpha \\), \\(tg\\alpha \\), \\(cotg\\alpha \\) \\((0^\\circ  < \\alpha  < 90^\\circ) \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta sử dụng các kiến thức sau:\n\\({\\sin ^2}\\alpha  + {\\cos ^2}\\alpha  = 1\\)\n\\(tg\\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }};{\\mathop{\\rm cotg}\\nolimits} \\alpha  = \\dfrac{{\\cos \\alpha }}{{\\sin \\alpha }}\\)\n\\(tg\\alpha .\\cot g\\alpha  = 1.\\)\nLời giải chi tiết\nVì \\({\\sin ^2}\\alpha  + {\\cos ^2}\\alpha  = 1\\) nên \\({\\cos ^2}\\alpha  = 1 - {\\sin ^2}\\alpha  =1-\\dfrac{1}{4}= \\dfrac{3}{4}\\) nên \\(\\cos \\alpha  =  \\dfrac{{\\sqrt 3 }}{2}\\)\n\\(tg\\alpha  =  \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }} =\\dfrac{{\\dfrac{1}{2}}}{{\\dfrac{{\\sqrt 3 }}{2}}} = \\dfrac{1}{{\\sqrt 3 }} = \\dfrac{{\\sqrt 3 }}{3}\\)\nVì \\(tg\\alpha .\\cot g\\alpha  = 1\\) nên \\(\\cot g\\alpha  =  \\dfrac{1}{{tg\\alpha }} = \\sqrt {3.} \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho \\(\\cos \\alpha  = \\dfrac{3}{4}.\\) Hãy tìm \\(\\sin \\alpha ,tg\\alpha ,\\cot \\alpha \\) ( 0º < α < 90º).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta sử dụng các kiến thức sau:\n\\({\\sin ^2}\\alpha  + {\\cos ^2}\\alpha  = 1\\)\n\\(tg\\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }};{\\mathop{\\rm \\cot}\\nolimits} \\alpha  = \\dfrac{{\\cos \\alpha }}{{\\sin \\alpha }}\\)\n\\(tg\\alpha .\\cot \\alpha  = 1.\\)\nLời giải chi tiết\nVì \\({\\sin ^2}\\alpha  + {\\cos ^2}\\alpha  = 1\\) nên \\(\\sin \\alpha  = \\sqrt {1 - {{\\cos }^2}\\alpha }\\)\\(  = \\sqrt {1 - \\dfrac{9}{{16}}}  =  \\dfrac{{\\sqrt 7 }}{4}.\\)\n\\(tg\\alpha  =  \\dfrac{{\\sin \\alpha }}{{{\\rm{cos}}\\alpha }} =\\dfrac{{\\dfrac{{\\sqrt 7 }}{4}}}{{\\dfrac{3}{4}}}=  \\dfrac{{\\sqrt 7 }}{3}\\)\nVì \\(tg\\alpha .\\cot \\alpha  = 1\\) nên \\(\\cot \\alpha  =  \\dfrac{1 }{ {tg\\alpha }} =  \\dfrac{3}{{\\sqrt 7 }} =  \\dfrac{{3\\sqrt 7 }}{7}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy tính:\na)   \\(2\\sin 30^\\circ  - 2c{\\rm{os}}60^\\circ  + tg45^\\circ \\) ;\nb)   \\(\\sin 45^\\circ  - \\cot g60^\\circ .c{\\rm{os30}}^\\circ \\);\nc)   \\(\\cot g44^\\circ .\\cot g45^\\circ .\\cot g46^\\circ \\) ;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu hai góc phụ nhau thì sin góc này bằng côsin góc kia, tang góc này bằng côtang góc kia.\nVới hai góc \\(\\alpha ,\\beta \\) sao cho  \\(\\alpha  + \\beta  = 90^\\circ \\)\nTa có: \\(\\sin \\alpha  = \\cos \\beta ;\\) \\(\\sin \\beta  = \\cos \\alpha ;\\)\\(\\tan \\alpha  = \\cot \\beta ;\\) \\(\\tan \\beta  = \\cot \\alpha. \\)\nLời giải chi tiết\na)  Vì \\({30^0} + {60^0} = {90^0} \\Rightarrow \\cos {60^0}=\\sin {30^0}\\) nên ta có:\n\\(\\begin{array}{l}2\\sin 30^\\circ - 2c{\\rm{os}}60^\\circ + tg45^\\circ \\\\ = 2\\sin 30^\\circ - 2\\sin 30^\\circ + tg45^\\circ \\\\ = tg45^\\circ \\\\ = 1.\\end{array}\\)\nb)  Vì \\({30^0} + {60^0} = {90^0} \\Rightarrow \\cot g{60^0} = tg {30^0}\\) nên ta có:\n\\(\\begin{array}{l}\\sin 45^\\circ + \\cot g60^\\circ .c{\\rm{os30}}^\\circ \\\\ = \\sin 45^\\circ + tg30^\\circ .c{\\rm{os30}}^\\circ \\\\{\\rm{ = sin}}45^\\circ + \\dfrac{{\\sin 30^\\circ }}{{{\\rm{cos30}}^\\circ }}.c{\\rm{os30}}^\\circ \\\\ = \\sin 45^\\circ + \\sin 30^\\circ \\\\ = \\dfrac{{\\sqrt 2 }}{2} + \\dfrac{1}{2}\\\\ = \\dfrac{{\\sqrt 2 + 1}}{2}.\\end{array}\\)\nc) Vì \\({44^0} + {46^0} = {90^0} \\Rightarrow \\cot g{44^0} = tg {46^0}\\) và \\(tg {46^0}.\\cot g{46^0} = 1\\) nên ta có:\n\\(\\begin{array}{l}\\cot g44^\\circ .\\cot g45^\\circ .\\cot g46^\\circ \\\\ = tg46^\\circ .\\cot g46^\\circ .\\cot g45^\\circ \\\\ = \\cot g45^\\circ \\\\ = 1.\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho góc nhọn \\(\\alpha\\)\na)   Chứng minh rằng \\(\\dfrac{{1 - tg\\alpha }}{{1 + tg\\alpha }} = \\dfrac{{\\cos \\alpha  - \\sin \\alpha }}{{\\cos \\alpha  + \\sin \\alpha }}.\\)\nb)   Cho \\(tg\\alpha  = \\dfrac{1}{3}.\\) Tính \\(\\dfrac{{\\cos \\alpha  - \\sin \\alpha }}{ {\\cos \\alpha  + \\sin \\alpha }}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta sử dụng các kiến thức sau:\n\\({\\sin ^2}\\alpha  + {\\cos ^2}\\beta  = 1\\)\n\\(tg\\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }};{\\mathop{\\rm cotg}\\nolimits} \\alpha  = \\dfrac{{\\cos \\alpha }}{{\\sin \\alpha }}\\)\n\\(tg\\alpha .\\cot g\\alpha  = 1.\\)\nLời giải chi tiết\na) \\(\\dfrac{{1 - tg\\alpha }}{ {1 + tg\\alpha }} = \\dfrac{{1 - \\dfrac{{\\sin \\alpha }}{{{\\rm{cos}}\\alpha }}}}{{1 + \\dfrac{{\\sin \\alpha }}{{{\\rm{cos}}\\alpha }}}} \\)\\(= \\dfrac{{{\\rm{cos}}\\alpha  - \\sin \\alpha }}{{{\\rm{cos}}\\alpha  + \\sin \\alpha }}.\\)\nb) \\(\\dfrac{{{\\rm{cos}}\\alpha  - \\sin \\alpha }}{{{\\rm{cos}}\\alpha  + \\sin \\alpha }}\\)\\(= \\dfrac{{\\dfrac{{\\cos \\alpha }}{{\\cos \\alpha }} - \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }}}}{{\\dfrac{{\\cos \\alpha }}{{\\cos \\alpha }} + \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }}}}\\)\\( = \\dfrac{{1 - tg\\alpha }}{{1 + tg\\alpha }} = \\dfrac{{1 - \\dfrac{1}{3}}}{{1 + \\dfrac{1}{3}}} = \\dfrac{1}{2}.\\)\nLoigiaihay.com"
+    }
+]

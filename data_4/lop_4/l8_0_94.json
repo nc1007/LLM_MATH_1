@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Muốn tìm trung bình cộng của các số ta lấy:\nA.\tTổng của các số đó cộng với số các số hạng\nB.\tTổng của các số đó trừ đi số các số hạng\nC.\tTổng của các số đó nhân với số các số hạng\nD.\tTổng của các số đó chia cho số các số hạng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm số trung bình cộng của nhiều số, ta tính tổng của các số đó, rồi chia tổng đó cho số các số hạng."
+    },
+    {
+        "problem": "Câu 3: Trung bình cộng của các số 115; 246 và 374 là:\nA.\t241\nB.\t243\nC.\t245\nD.\t247",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trung bình cộng của các số 115; 246 và 374 là:\n            (115+246+374):3=245 \nĐáp số: 245.\nĐáp án cần chọn là C."
+    },
+    {
+        "problem": "Câu 6: Trung bình cộng của số lớn nhất có 3 chữ số và số lẻ lớn nhất có 4 chữ số khác nhau là:\nA.\t5499\nB.\t5473\nC.\t5432\nD.\t5437",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lớn nhất có 3 chữ số là 999.\nSố lẻ lớn nhất có 4 chữ số khác nhau là 9875.\nTrung bình cộng của số chẵn lớn nhất 3 chữ số và số lẻ lớn nhất có 4 chữ số khác nhau là \n(999+9875):2=5437"
+    },
+    {
+        "problem": "Câu 8: Lớp 4A gồm 4 tổ tham gia trồng cây trong dịp Tết trồng cây. Tổ một có 8 bạn, mỗi bạn trồng được 3 cây, tổ hai trồng được 25 cây, tổ 3 trồng được nhiều hơn tổ hai 4 cây nhưng ít hơn tổ bốn 5 cây. Hỏi trung bình mỗi tổ trồng được bao nhiêu cây?\nA.\t29 cây\nB.\t28 cây\nC.\t27 cây\nD.\t26 cây",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổ một trồng được số cây là:\n           3×8=24 (cây)\nTổ ba trồng được số cây là:\n            25+4=29 (cây)\nTổ bốn trồng được số cây là:\n            29+5=34 (cây)\nCả bốn tổ trồng được số cây là:\n            24+25+29+34=112 (cây)\nTrung bình mỗi tổ trồng được số cây là:\n            112:4=28 (cây)\n                                    Đáp số: 28 cây."
+    },
+    {
+        "problem": "Câu 10: Số trung bình cộng của 2 số là 137, số bé là 125. Vậy số lớn là:\nA.\t149\nB.\t153\nC.\t262\nD.\t274",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng hai số đó là:        137×2=274 \nSố lớn là:                     274−137=149"
+    },
+    {
+        "problem": "Câu 12: Trung bình cộng của dãy các số lẻ từ 111 đến 2015 là:\nA.\t1063\nB.\t1064\nC.\t1065\nD.\t1066",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dãy dãy số lẻ từ 111 đến 2015 là dãy số cách đều, hai số liền nhau hơn hoặc kém nhau 2 đơn vị:\n            111;113;115;117;...;2011;2013;2015\nTrung bình cộng của dãy số lẻ từ 111 đến 2015 là:\n            (111+2015):2=1063"
+    },
+    {
+        "problem": "Câu 14: Tổng số tuổi của bố, mẹ, Khánh và An là 99 tuổi, trung bình cộng số tuổi của bố, mẹ và An là 29 tuổi. Tìm tuổi của mỗi người, biết tuổi Khánh gấp đôi tuổi An, tuổi An bằng 1/6  tuổi mẹ.\nA.\tBố: 54 tuổi; mẹ: 30 tuổi; Khánh: 10 tuổi; An: 5 tuổi\nB.\tBố: 45 tuổi; mẹ: 36 tuổi; Khánh: 12 tuổi; An: 6 tuổi\nC.\tBố: 47 tuổi; mẹ: 42 tuổi; Khánh: 14 tuổi; An: 7 tuổi\nD.\tBố: 48 tuổi; mẹ: 44 tuổi; Khánh: 16 tuổi; An: 8 tuổi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng số tuổi của bố, mẹ và An là:\n              29×3=87 (tuổi)\nSố tuổi của Khánh là:\n              99−87=12 (tuổi)\nSố tuổi của An là:\n              12:2=6 (tuổi)\nSố tuổi của mẹ là:\n              6×6=36 (tuổi)\nSố tuổi của bố là:\n              87−(36+6)=45 (tuổi)\n                                   Đáp số: Bố: 45 tuổi;  mẹ: 36 tuổi;\n                                                Khánh: 12 tuổi;  An: 6 tuổi."
+    }
+]

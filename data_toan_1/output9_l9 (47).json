@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "a) Trong các số 245, 9 087,396, 531, số nào chia hết cho 9?\nb) Hãy đưa ra hai số chia hết cho 9 và hai số không chia hết cho 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chia những số đó mới chia hết cho 9.\nLời giải chi tiết\na) Ta có: 396 \\( \\vdots \\) 9 vì 3+9+6 = 18 \\( \\vdots \\) 9\n531 \\( \\vdots \\) 9 vì 5+3+1 = 9 \\( \\vdots \\) 9\nVậy các số chia hết cho 9 là: 396; 531\nb) Hai số chia hết cho 9 là: 144 và 261\nHai số không chia hết cho 9 là: 391 và 282\nChú ý: Ta có thể chọn các số khác có tổng các chữ số thỏa mãn chia hết cho 9 hoặc không chia hết cho 9"
+    },
+    {
+        "problem": "Viết các số sau dưới dạng tổng các chữ số của nó cộng với một số chia hết cho 3 theo\nmẫu trên: 315;  418.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\begin{array}{l}\\overline {abc}  = a.100 + b.10 + c\\\\ = a(99 + 1) + b.(9 + 1) + c\\\\ = a.99 + b.9 + a + b + c\\\\ = (a + b + c) + 3.(a.3.11 + 3.b)\\end{array}\\)\nLời giải chi tiết\n\\(\\begin{array}{l}315 = 3.100 + 1.10 + 5\\\\ = 3.(99 + 1) + 1.(9 + 1) + 5\\\\ = 3.99 + 1.9 + 3 + 1 + 5\\\\ = (3 + 1 + 5) + (3.3.11 + 1.3).3\\end{array}\\)\n\\(\\begin{array}{l}418 = 4.100 + 1.10 + 8\\\\ = 4.(99 + 1) + 1.(9 + 1) + 8\\\\ = 4.99 + 1.9 + 4 + 1 + 8\\\\ = (4 + 1 + 8) + (4.3.11 + 1.3).3\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho các số: 117; 3447; 5085; 534; 9348; 123.\na) Em hãy viết tập hợp A gồm các số chia hết cho 9 trong các số trên.\nb) Có số nào trong các số trên chỉ chia hết cho 3 mà không chia hết cho 9 không? Nếu có, hãy viết các số đó thành tập hợp B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\n-  Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nLời giải chi tiết\na) Ta có: \\(1+1+7=9; \\\\3+4+4+7=18;\\\\5+0+8+5=18;\\\\ 5+3+4=12; \\\\9+3+4+8=24;\\\\ 1+2+3=6.\\)\nCác số 117; 3447; 5085 chia hết cho 9 (vì có tổng các chữ số chia hết cho 9)\n=> A = {117; 3447; 5085}\nb) Có các số: 534; 9348; 123 chỉ chia hết cho 3 mà không chia hết cho 9.\n=> B = {534; 9348; 123}"
+    },
+    {
+        "problem": "Không thực hiện phép tính, em hãy giải thích các tổng (hiệu) sau có chia hết cho 3 hay không, có chia hết cho 9 hay không.\na) 1 260 +5 306;        b) 436 – 324;\nc) 2.3.4.6 + 27.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\n-  Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\n- Áp dụng tính chất chia hết của một tổng, một hiệu\nLời giải chi tiết\na) 1260 \\( \\vdots \\)3 và 5306\\(\\not{ \\vdots }\\) 3 => (1 260 +5 306) \\(\\not{ \\vdots }\\) 3\n1260 \\( \\vdots \\)9 và 5306 \\(\\not{ \\vdots }\\) 9 => (1 260 +5 306) \\(\\not{ \\vdots }\\) 9\nb) 436 \\(\\not{ \\vdots }\\) 3 và 324\\( \\vdots \\)3 => (436 – 324) \\(\\not{ \\vdots }\\) 3\n436 \\(\\not{ \\vdots }\\) 9 và 324\\( \\vdots \\)9 => (436 – 324) \\(\\not{ \\vdots }\\) 9\nc) 2.3.4.6 \\( \\vdots \\)3 và 27\\( \\vdots \\)3 => (2.3.4.6 + 27) \\( \\vdots \\)3\n2.3.4.6 \\( \\vdots \\)9 và 27\\( \\vdots \\)9 => (2.3.4.6 + 27) \\( \\vdots \\)9\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bạn Tuấn là một người rất thích chơi bi nên bạn ấy thường sưu tầm những viên bi rồi bỏ vào 4 hộp khác nhau, biết số bi trong mỗi hộp lần lượt là 203, 127, 97, 173.\na) Liệu có thể chia số bi trong mỗi hộp thành 3 phần bằng nhau được không? Giải thích.\nb) Nếu Tuấn rủ thêm 2 bạn cùng chơi bi thì có thể chia đều tổng số bi cho mỗi người được không?\nc) Nếu Tuấn rủ thêm 8 bạn cùng chơi bi thì có thể chia đều tổng số bi cho mỗi người được không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Xét xem số bi trong mỗi hộp có chia hết cho 3 không?\nb) Tính số bạn khi Tuấn rủ thêm hai bạn rồi áp dụng câu a\nc) Xét xem số bi của trong mỗi hộp có chia hết cho 9 không?\nLời giải chi tiết\na) Do 203 \\(\\not{ \\vdots }\\) 3 (do 2+0+3=5 \\(\\not{ \\vdots }\\)3) ; 127 \\(\\not{ \\vdots }\\) 3 (do 1+2+7=10 \\(\\not{ \\vdots }\\) 3) ; 97 \\(\\not{ \\vdots }\\) 3 (do 9+7=16 \\(\\not{ \\vdots }\\) 3); 173 \\(\\not{ \\vdots }\\) 3 (do 1+7+3=11 \\(\\not{ \\vdots }\\) 3) nên không thể chia số bi trong mỗi hộp thành 3 phần bằng nhau.\nb) Nếu Tuấn rủ thêm 2 bạn khi đó ta sẽ có 3 bạn chơi\nDo 203; 127; 97 ; 173 không chia hết cho 3 nên ta đi xét tổng:\nTa có tổng số bi là: 203+127+97+173= 600\nTa thấy 600\\( \\vdots \\) 3 (do 6+0+0=6 \\({ \\vdots }\\)3) nên ta có thể chia đều tổng số bi cho mỗi người\nc) Nếu Tuấn rủ thêm 8 bạn khi đó ta sẽ có 9 bạn chơi.\nTa thấy 600 \\(\\not{ \\vdots }\\) 9 (do 6+0+0=6 \\(\\not{ \\vdots }\\) 9) nên không thể chia đều tổng số bi cho mỗi người."
+    },
+    {
+        "problem": "Lớp 6A có 36 học sinh. Trong một tiết mục đồng diễn thể dục nhịp điệu, lớp xếp thành đội hình gồm những hàng đều nhau. Hãy hoàn thành bảng sau vào vở để tìm các cách mà lớp có thể xếp đội hình.\nCách xếp đội hình\nSố hàng\nSố học sinh trong một hàng\nThứ nhất\n1\n36\nThứ hai\n2\n18\n…\n…\n…\nb) Viết số 36 thành tích của hai số bằng các cách khác nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem 36 chia hết cho những số nào\nLời giải chi tiết\nCách xếp đội hình\nSố hàng\nSố học sinh trong một hàng\nThứ nhất\n1\n36\nThứ hai\n2\n18\nThứ ba\n3\n12\nThứ tư\n4\n9\nThứ năm\n6\n6\nThứ sáu\n9\n4\nThứ bảy\n12\n3\nThứ tám\n18\n2\nThứ chín\n36\n1\nb)\n\\(36 = 1.36 = 2.18 = 3.12 = 4.9 = 6.6\\)"
+    },
+    {
+        "problem": "Số 18 có thể chia hết cho những số nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các số 18 chia hết được\nLời giải chi tiết\n18 có thể chia hết cho: 1; 2; 3; 6; 9; 18"
+    },
+    {
+        "problem": "Hãy tìm các tập hợp sau:\na) Ư(17);                     b) Ư(20).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm các ước của số tự nhiên a (a>1), ta có thể lần lượt chia a cho các số tự nhiên, từ 1 đến 2 để xét xem a chia hết cho những số nào, khi đó các số ấy là ước của a.\nLời giải chi tiết\na)\nƯ(17) = {1; 17}\nb)\nƯ(20) = {1; 2; 4; 5; 10; 20}\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy tìm các tập hợp sau:\na) B(4);            b) B(7).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm các bội của số tự nhiên a khác 0, ta có thể nhân a lần lượt với 0; 1; 2; 3\nLời giải chi tiết\nB(4) = {0; 4; 8; 12; 16;…}\nB(7) = {0; 7; 14; 21;…}\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Tìm tập hợp các ước của 30.\nb) Tìm tập hợp các bội của 6 nhỏ hơn 50.\nc) Tìm tập hợp C các số tự nhiên x sao cho x vừa là bội của 18, vừa là ước của 72.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm các bội của số tự nhiên a khác 0, ta có thể nhân a lần lượt với 0; 1; 2; 3\nMuốn tìm các ước của số tự nhiên a (a>1), ta có thể lần lượt chia a cho các số tự nhiên, từ 1 đến 2 để xét xem a chia hết cho những số nào, khi đó các số ấy là ước của a.\nLời giải chi tiết\na) Ư(30) = {1; 2; 3; 5; 6; 10; 15; 30}\nb) B(6) = {0; 6; 12; 18; 24; 30; 36; 42; 48; 54;...}\nDo đó, tập hợp B gồm các bội của 6 nhỏ hơn 50 là: B = {0; 6; 12; 18; 24; 30; 36; 42; 48}\nc) B(18) = {0; 18; 36; 54; 72; …}\nƯ(72) = {1; 2; 3; 4; 6; 8; 9; 12; 18; 24; 36; 72}\n=> C= {18; 36; 72}"
+    },
+    {
+        "problem": "Viết mỗi tập hợp sau bằng cách liệt kê các phần tử.\na) A = {x \\( \\in \\) Ư(40) | x > 6}; b) B = {x \\( \\in \\) B(12) | 24 \\( \\le \\)x \\( \\le \\) 60}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm các bội của số tự nhiên a khác 0, ta có thể nhân a lần lượt với 0; 1; 2; 3;...\nMuốn tìm các ước của số tự nhiên a (a > 1), ta có thể lần lượt chia a cho các số tự nhiên, từ 1 đến a để xét xem a chia hết cho những số nào, khi đó các số ấy là ước của a.\nLời giải chi tiết\na) Ta có: Ư(40) = {1;2;4;5;8;10;20;40}\nDo đó: A = {8; 10; 20; 40}\nb) Ta có: B(12) = {0;12;24;36;48;60;72;...}\nDo đó: B = {24; 36; 48; 60}"
+    }
+]

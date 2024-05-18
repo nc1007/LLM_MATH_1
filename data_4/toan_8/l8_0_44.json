@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Bài 1: Hãy chọn câu đúng. Trục đối xứng của hình thang cân là:\nA. Đường thẳng đi qua trung điểm hai cạnh bên của hình thang cân\nB. Đường chéo của hình thang cân\nC. Đường thẳng vuông góc với hai đáy của hình thang cân\nD. Đường thẳng đi qua trung điểm hai đáy của hình thang cân",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐường thẳng đi qua trung điểm hai đáy của hình thang cân là trục đối xứng của hình thang cân đó.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 2: Hãy chọn câu đúng.\nA. Hình thang cân có trục đối xứng là đường trung trực của hai đáy\nB. Tam giác có trục đối xứng là đường trung tuyến\nC. Tam giác có trục đối xứng là đường cao\nD. Hình thang vuông có đối xứng là đường trung bình của nó",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐường thẳng đi qua trung điểm hai đáy của hình thang cân là trục đối xứng của hình thang cân đó.\nNhư vậy hình thang cân có trục đối xứng là đường trung trực của hai đáy.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Hãy chọn câu đúng?\nA. Tam giác đều có ba trục đối xứng\nB. Tam giác cân có hai trục đối xứng\nC. Hình tam giác có ba trục đối xứng\nD. Hình thang cân có hai trục đối xứng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hình thang cân có trục đối xứng là đường thẳng đi qua trung điểm hai đáy nên hình thang cân có một trục đối xứng. Do đó A sai.\n+ Tam giác cân có một trục đối xứng là đường trung trực hạ từ đỉnh cân nên B sai.\n+ Tam giác thường thì không có trục đối xứng nên C sai.\n+ Tam giác đều có ba trục đối xứng là ba đường trung trực của tam giác nên D đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 6: Hãy chọn câu sai:\nA. Nếu hai góc đối xứng nhau qua một đường thẳng thì chúng bằng nhau\nB. Nếu hai tam giác đối xứng nhau qua một đường thẳng thì chúng bằng nhau\nC. Nếu hai tam giác đối xứng nhau qua một đường thẳng thì chu vi của chúng bằng nhau.\nD. Nếu hai tia đối xứng với nhau qua một đường thẳng thì chúng bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì hai đoạn thẳng (góc, tam giác) đối xứng với nhau qua một đường thẳng thì chúng bằng nhau nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 11: Cho đoạn thẳng AB có độ dài 3cm và đường thẳng d. Đoạn thẳng A’B’ đối xứng với AB qua d. Độ dài đoạn thẳng A’B’ là:\nA. 3cm\nB. 6cm\nD. 9cm\nD. 12cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì đoạn thẳng A’B’ đối xứng với AB qua d nên A’B’ = AB = 3cm.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 12: Cho đoạn thẳng AB có độ dài 6cm và đường thẳng d. Đoạn thẳng A’B’ đối xứng với AB qua d. Độ dài đoạn thẳng A’B’ là:\nA. 3cm\nB. 6cm\nD. 9cm\nD. 12cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì đoạn thẳng A’B’ đối xứng với AB qua d nên A’B’ = AB = 6cm.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 13: Cho ΔABC và ΔA’B’C’ đối xứng nhau qua đường thẳng d biết AB = 4cm, BC = 7cm và chu vi của tam giác ABC = 17cm. Khi đó độ dài cạnh C’A’ của tam giác A’B’C’ là:\nA. 17cm\nB. 6cm\nC. 7cm\nD. 4cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Xét tam giác ABC có chu vi PABC = AB + AC + BC ⇒ PABC = 6cm.\n+ Vì tam giác ABC và tam giác A’B’C’ đối xứng nhau qua đường thẳng d nên AC = A’C’ = 6cm\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 14: Cho ΔABC và ΔA’B’C’ đối xứng nhau qua đường thẳng d biết AB = 8cm, BC = 11cm và chu vi của tam giác ABC = 30 cm. Khi đó độ dài cạnh C’A’ của tam giác A’B’C’ là:\nA. 16cm\nB. 15cm\nC. 8cm\nD. 11cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Xét tam giác ABC có chu vi PABC = AB + AC + BC ⇒ PABC = 11cm.\n+ Vì tam giác ABC và tam giác A’B’C’ đối xứng nhau qua đường thẳng d nên AC = A’C’ = 11cm\nĐáp án cần chọn là: D"
+    }
+]

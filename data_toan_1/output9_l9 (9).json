@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Trong các số sau, số nào chia hết cho 2, số nào chia hết cho 5?\n324; 248; 2020; 2025.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\nLời giải chi tiết\n+ Vì các số 324; 248; 2 020 có chữ số tận cùng lần lượt là 4; 8; 0 nên 324; 248; 2 020 chia hết cho 2\n+ Vì các số 2 020; 2025 có chữ số tận cùng lần lượt là 0 và 5 nên 2 020; 2025 chia hết cho 5"
+    },
+    {
+        "problem": "Trong các số sau, số nào chia hết cho 3, số nào chia hết cho 9?\n450; 123; 2 019; 2 025.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\nCác số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nLời giải chi tiết\n+ Xét số 450 có tổng các chữ số là 4 + 5 + 0 = 9. Do 9 \\(\\vdots\\) 3 và 9 \\(\\vdots\\) 9 nên 450 \\(\\vdots\\) 3 và 450 \\(\\vdots\\) 9.\n+ Xét số 123 có tổng các chữ số là 1 + 2 + 3 = 6. Do 6\\(\\vdots\\) 3 và 6 \\(\\not{\\vdots}\\) 9 nên 123 \\(\\vdots\\) 3 và 123 \\(\\not{\\vdots}\\) 9\n+ Xét số 2 019 có tổng các chữ số là 2 + 0 + 1 + 9 = 12. Do 12 \\(\\vdots\\) 3 và 12 \\(\\not{\\vdots}\\) 9 nên 2 019 \\(\\vdots\\) 3 và 2 019 \\(\\not{\\vdots}\\) 9\n+ Xét số 2 025 có tổng các chữ số là 2 + 0 + 2 + 5 = 9. Do 9\\(\\vdots\\) 3 và 9 \\(\\vdots\\) 9 nên 2 025 \\(\\vdots\\) 3 và 20 25 \\(\\vdots\\) 9\nVậy các số chia hết cho 3 là:  450 ; 123 ; 2 019 ; 2 025\nCác số chia hết cho 9 là:  450 ; 2 025\nChú ý: Các số chia hết cho 9 thì chia hết cho 3.\nCác số chia hết cho 3 chưa chắc đã chia hết cho 9."
+    },
+    {
+        "problem": "Khối lớp 6 của một trường có 290 học sinh đi dã ngoại. Cô phụ trách muốn chia đều số học sinh của khối 6 thành 9 nhóm. Hỏi cô có chia nhóm được như vậy không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét tính chia hết của 290 cho 9 để kết luận.\nLời giải chi tiết\nTổng các chữ số của số 290 là 2+ 9 = 11 \\(\\not{ \\vdots }\\) 9 nên 290 \\(\\not{ \\vdots }\\)  9\nVậy không thể chia đều số học sinh của khối 6 thành 9 nhóm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Có 162 học sinh tham gia chương trình đào tạo bóng đá, được chia thành các đội. Mỗi đội cần có 9 học sinh. Hỏi có đội nào không có đủ 9 học sinh hay không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét tính chia hết của 162 cho 9 để kết luận. Nếu 162 chia hết cho 9 thì các đội đều đủ 9 em\nLời giải chi tiết\nTổng các chữ số của 162 là 9 chia hết cho 9 nên chia 162 em học sinh thành các đội, thì không có đội nào không đủ 9 học sinh.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thay dấu * bởi một chữ số đề số \\(\\overline {345*} \\):\na) Chia hết cho 2              b) Chia hết cho 3;\nc) Chia hết cho 5;             d) Chia hết cho 9.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mớichia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\n• Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\n• Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nLời giải chi tiết\na) Số \\(\\overline {345 * } \\) chia hết cho 2 thì nó phải có tận cùng là chữ số chẵn.\nVậy có thể thay * bằng các chữ số: 0; 2; 4; 6; 8\nb) Số \\(\\overline {345 * } \\) chia hết cho 3 thì tổng các chữ số của nó cũng chia hết cho 3.\nDo đó 3+4+5+* chia hết cho 3 nên 12 + * chia hết cho 3.\nMà 12 chia hết cho 3 nên * cũng chia hết cho 3\nVậy có thể thay * bằng các chữ số: 0; 3; 6; 9\nc) Số \\(\\overline {345 * } \\) chia hết cho 5 thì nó phải có tận cùng là 0 hoặc 5\nVậy có thể thay * bằng các chữ số: 0 ; 5\nd) Số \\(\\overline {345 * } \\) chia hết cho 9 thì tổng các chữ số của nó cũng chia hết cho 9\nDo đó 3+4+5+* chia hết cho 9 nên 12 + * chia hết cho 9\nVậy có thể thay * bằng chữ số 6.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng ba chữ số 3, 0 , 4, hãy viết các số tự nhiên có ba chữ số khác nhau và thoả mãn một trong hai điều kiện:\na) Các số đó chia hết cho 2;\nb) Các số đó chia hết cho 5.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\nLời giải chi tiết\na) Các số phải có tận cùng là 0 hoặc 4\nCác số chia hết cho 2: 304; 340; 430\nb) Các số phải có tận cùng là 0\nCác số chia hết cho 5: 340; 430"
+    },
+    {
+        "problem": "Từ các chữ số 5, 0, 4, 2, viết các số tự nhiên có ba chữ số khác nhau sao cho mỗi số đó chia hết cho 3.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nLời giải chi tiết\nTa nhóm các chữ số sao cho tổng của chúng chia hết cho 3:\n5 + 4 + 0 = 9;     4 + 2 + 0 = 6;\nCác số cần tìm là: 504 ; 540 ; 405 ; 450 ; 420 ; 402 ; 240 ; 204.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy chia các số cho trong bảng 2.1 thành hai nhóm: nhóm A gồm các số chỉ có hai ước, nhóm B gồm các số có nhiều hơn hai ước.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Quan sát bảng 2.1\n- Đếm số ước và chia nhóm\nLời giải chi tiết\nNhóm A\n2, 3, 5, 7, 11\nNhóm B\n4, 6, 8, 9, 10"
+    },
+    {
+        "problem": "Suy nghĩ và trả lời câu hỏi:\na) Số 1 có bao nhiêu ước?\nb) Số 0 có chia hết cho 2, 5, 7, 2017, 2018 không? Em có nhận xét gì về số ước của 0?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm số ước của 0 và 1 rồi trả lời câu hỏi\nLời giải chi tiết\na) Số 1 có 1 ước\nb) Số 0 chia hết cho 2, 5, 7, 2 017, 2 018 vì số 0 chia cho số nào khác 0 cũng được thương là 0\nNhận xét: Số 0 có vô số ước."
+    },
+    {
+        "problem": "Trong các số cho dưới đây, số nào là số nguyên tố, số nào là hợp số? Vì sao?\na) 1 930;\nb) 23.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\nHợp số là số tự nhiên lớn hơn 1, có nhiều hơn hai ước.\nLời giải chi tiết\na) Vì 1 930 có chữ số tận cùng là 0 nên chia hết cho 2 và 5.\nSố 1 930 là hợp số vì nó lớn hơn 1 và có nhiều hơn 2 ước\nb) Số 23 là số nguyên tố vì nó lớn hơn 1 và chỉ có 2 ước là 1 và chính nó."
+    },
+    {
+        "problem": "Bạn Việt phân tích số 60 ra thừa số nguyên tố và cho kết quả 60 = 3. 4. 5. Kết quả của Việt đúng hay sai? Nếu sai, em hãy sửa lại cho đúng.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát xem các số trong tích đã cho có là các số nguyên tố không\nLời giải chi tiết\nKết quả của Việt sai vì 4 không là số nguyên tố\nSửa lại:\n60 = 22.3.5"
+    }
+]

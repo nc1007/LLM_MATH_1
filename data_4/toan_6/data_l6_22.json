@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Câu 1. Diện tích hình bình hành có chiều dài một cạnh 20 cm và chiều cao tương ứng 5 cm là:\nA. 50 cm^{2} \nB. 100 cm^{2} \nC. 10 cm^{2} \nD. 5 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDiện tích hình bình hành là: 20.5 = 100 (cm^{2} ).\nVậy diện tích hình bình hành là 100 cm^{2}  \nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Diện tích của một hình thoi là 100 m^{2}  và một đường chéo dài 20 dm. Độ dài đường chéo còn lại là:\nA. 50 dm\nB. 25 m\nC. 50 m\nD. 5 dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nĐổi 20 dm = 2m.\nĐộ dài đường chéo còn lại là: 100:2:2 = 25m.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Hình chữ nhật có chu vi bằng 28 cm. Tính diện tích của hình chữ nhật đó biết chiều dài hơn chiều rộng 6cm.\nA. 24 cm^{2} \nB. 187 cm^{2} \nC. 66 cm^{2} \nD. 40 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nChiều rộng hình chữ nhật là: (28:2 – 6):2 = 4 (cm).\nChiều dài hình chữ nhật là: 6 + 4 = 10 (cm).\nDiện tích hình chữ nhật là: 4.10 = 40 (cm^{2} ).\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Hình thang cân có độ dài hai cạnh đáy là 5 m và 3,2 m; chiều cao là 4 m. Diện tích của hình thang cân này là:\nA. 8,2 m^{2} \nB. 4,1 m^{2} \nC. 16,4 m^{2} \nD. 14,8 m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDiện tích hình thang cân là: (5 + 3,2).4:2 = 16,4 (m^{2} ) .\nVậy diện tích hình thang cân là 16,4 m^{2} \nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Chu vi hình thoi có cạnh 5dm là:\nA. 20 cm\nB. 200 dm\nC. 25 dm\nD. 200 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Chu vi của hình thoi là: 4.5 = 20 dm = 200 cm.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Một mảnh giấy hình chữ nhật có chiều dài 12cm và diện tích mảnh giấy hình chữ nhật là 96 cm^{2} . Tính chu vi mảnh vườn hình chữ nhật:\nA. 8 cm\nB. 30 cm \nC. 40 cm\nD. 60 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nChiều rộng của mảnh vườn hình chữ nhật là: 96:12 = 8 cm.\nChu vi của mảnh vườn hình chữ nhật là: 2.(8 + 12) = 40 cm.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Một hình thang cân có diện tích 200 m^{2}  và chiều cao là 10m. Tính tổng độ dài hai đáy của hình thang cân:\nA. 40 m\nB. 20 m\nC. 10 m\nD. 2 m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrung bình cộng hai đáy là: 200:10 = 20 m.\nVậy tổng độ dài hai đáy là: 20.2 = 40m.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 8. Bác An muốn làm hàng rào cho khu vườn hình vuông trồng hoa hồng của mình. Biết khu vườn có cạnh 5m, tính độ dài hàng rào?\nA. 25m\nB. 20m\nC. 10m\nD. 5m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nĐộ dài hàng rào chính là chu vi khu vườn.\n Chu vi khu vườn là: 4.5 = 20m.\nVậy độ dài khu vườn của bác An là: 20m.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 9. Cho hình thang cân có tổng hai đáy bằng 18 dm và chu vi hình thang cân 340 cm. Độ dài cạnh bên của hình thang cân là:\nA. 16dm\nB. 8 dm\nC. 16cm\nD. 8cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nĐổi 340 cm = 34 dm.\nTổng độ dài hai cạnh bên là: 34 – 18 = 16 dm.\nVạy độ dài cạnh bên của hình thang cân là: 16:2 = 8 dm.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 10. Hình vuông có diện tích 64 m^{2} . Độ dài cạnh hình vuông là: \nA. 16 m\nB. 36 cm\nC. 8 m\nD. 8 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nGọi cạnh hình vuông là a (m) (a > 0)\nKhi đó diện tích của hình vuông là: a^{2}  = 64(m^{2} ).\nSuy ra a = 8 m.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 8. Thầy giáo ra bài toán: Tính chu vi và diện tích một khu vườn hình chữ nhật có chiều rộng 25 m, chiều dài 300 dm.\nBạn An thực hiện như sau:\nBước 1: (25 + 300).2 = 650\nBước 2: Chu vi khu vườn 650 m.\nBước 3: 25.300 = 7 500\nBước 4: Diện tích khu vườn .\nThầy giáo bảo bạn An đã làm sai. Em hãy chỉ ra bạn An sai chỗ nào. \nA. Bước 1 \nB. Bước 2\nC. Bước 3\nD. Tất cả các bước",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nBạn An sai ở chỗ chưa đổi chiều dài về cùng đơn vị với chiều rộng.\nSửa lại như sau:\nĐổi 300 dm = 30 m.\nChu vi khu vườn hình chữ nhật là:\n(25 + 30).2 = 110 (m).\nDiện tích khu vườn hình chữ nhật là: \n25.30 = 750 (m^{2} )\nVậy diện tích khu vườn 750 m^{2} .\nChu vi khu vườn 110 m.\nDo đó bạn An sai tất cả các bước.\nNhận xét: Qua bài tập này, chúng ta cần chú ý khi tính chu vi và diện tích thì các kích thước phải cùng đơn vị đo.  \nĐáp án: D"
+    }
+]

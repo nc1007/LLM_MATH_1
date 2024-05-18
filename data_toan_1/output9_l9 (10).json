@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Kết quả phân tích các số 120; 102 ra thừa số nguyên tố của bạn Nam như sau:\n120 = 2.3.4.5 ; 102 = 2.51.\nTheo em, kết quả của Nam đúng hay sai? Nếu sai, em hãy sửa lại cho đúng.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát xem các số trong tích đã là các thừa số nguyên tố chưa? Từ đó kết luận\nLời giải chi tiết\nKết quả của Nam là sai vì 4, 51 không phải là số nguyên tố. Sửa lại:\n\\(120 = 2^3.3.5\\)\n\\(102 = 2.3.17\\)"
+    },
+    {
+        "problem": "Các khẳng định sau đúng hay sai? Vì sao?\na) Ước nguyên tố của 30 là 5 và 6;\nb) Tích của hai số nguyên tố bất kì luôn là số lẻ;\nc) Ước nguyên tố nhỏ nhất của số chẵn là 2;\nd) Mọi bội của 3 đều là hợp số;\ne) Mọi số chẵn đều là hợp số.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\nHợp số là số tự nhiên lớn hơn 1, có nhiều hơn hai ước.\nLời giải chi tiết\na) Sai. Vì số 6 là hợp số.\nb) Sai. Vì tích của một số nguyên tố bất kì với số 2 luôn là số chẵn.\nc) Đúng. Vì 2 là số nguyên tố nhỏ nhất và mọi số chẵn đều chia hết cho 2.\nd) Sai. Vì 3 là bội của 3 nhưng nó là số nguyên tố\ne) Sai. Vì 2 là số chẵn nhưng nó là số nguyên tố\nLoigiaihay.com"
+    },
+    {
+        "problem": "Kiểm tra xem các số sau là số nguyên tố hay hợp số bằng cách dùng dấu hiệu chia hết hoặc tra bảng số nguyên tố:\n89; 97; 125; 541; 2013; 2018.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\nHợp số là số tự nhiên lớn hơn 1, có nhiều hơn hai ước.\nLời giải chi tiết\nCác số nguyên tố là: 89 ; 97 ; 541 vì mỗi số này chỉ có 2 ước là 1 và chính nó\nCác hợp số là: 125 ; 2 013; 2 018 vì mỗi số này có nhiều hơn 2 ước ( ngoài 1 và chính nó, 125 còn có ước là 5; 2013 còn có ước là 3; 2018 còn có ước là 2)."
+    },
+    {
+        "problem": "Hãy phân tích A ra thừa số nguyên tố: A = 44.95\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa A về tích các lũy thừa cơ số 2 và 3.\nLời giải chi tiết\nA = 44.95\n= 4.4.4.4.9.9.9.9.9\n= 22. 22. 22. 22.32.32.32.32.32\n= 22+2+2+2.32+2+2+2+2\n= 28.310\n\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một lớp có 30 học sinh. Cô giáo muốn chia lớp thành các nhóm để thực hiện các dự án học tập nhỏ. Biết rằng, các nhóm đều có số người bằng nhau và có nhiều hơn 1 người trong mỗi nhóm. Hỏi mỗi nhóm có thể có bao nhiêu người?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân tích 30 ra thừa số nguyên tố sau đó lập bảng.\nLời giải chi tiết\nPhân tích 30 ra thừa số nguyên tố ta được: 30 = 2.3.5\nTa được các ước lớn hơn 1 của 30 là: 2;3;5;6;10;15;30.\nMà mỗi nhóm có nhiều hơn 1 người nên số nhóm nhỏ hơn 30. Ta có bảng sau:\nSố nhóm\nSố người một nhóm\n2\n15\n3\n10\n5\n6\n6\n5\n10\n3\n15\n2"
+    },
+    {
+        "problem": "Trong nghi lễ thượng cờ lúc 6 giờ sáng và hạ cờ lúc 21 giờ hằng ngày ở Quảng trường Ba Đình, đội tiêu binh có 34 người gồm 1 sĩ quan chỉ huy đứng đầu và 33 chiến sĩ. Hỏi có bao nhiêu cách sắp xếp 33 chiến sĩ thành các hàng sao cho mỗi hàng có số người như nhau?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các ước của 33 để suy ra số cách sắp xếp.\nLời giải chi tiết\nĐế sắp xếp 33 chiến sĩ thành các hàng có số người như nhau thì số hàng phải là ước lớn hơn 1 của 33.\nTa có: 33 = 3.11\nCác cách sắp xếp 33 chiến sĩ là:\n+) 11 hàng mỗi hàng 3 người\n+) 3 hàng mỗi hàng 11 người\nVậy có 2 cách sắp xếp.\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "Từ các số 5, 0, 1, 3, viết các số tự nhiên có ba chữ số khác nhau thỏa mãn điều kiện:\na) Các số đó chia hết cho 5;\nb) Các số đó chia hết cho 3.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Dấu hiệu chia hết cho 5 là số đó có chữ số tận cùng là 0 hoặc 5\n- Dấu hiệu chia hết cho 3 là số đó có tổng các chữ số là 1 số chia hết cho 3\nLời giải chi tiết\na) Gọi số tự nhiên cần tìm có ba chữ số khác nhau là\n\\(\\overline {abc} \\)( \\(a \\ne 0; a,b,c \\in N; a,b,c \\le 9; a,b,c\\) khác nhau)\nVì số đó chia hết cho 5 nên chữ số tận cùng là 0 hoặc 5. Do đó c = 0 hoặc c = 5.\n+) Với c = 0, ta có bảng chữ số a, b khác nhau và khác 0 thỏa mãn là:\na\n1\n5\n3\n5\n1\n3\nb\n5\n1\n5\n3\n3\n1\nDo đó ta thu được các số: 150; 510; 350; 530; 130; 310.\n+) Với c = 5, \\(a \\ne 0\\) nên a = 1 hoặc 3, ta có bảng chữ số a, b khác nhau thỏa mãn là:\na\n1\n3\n1\n3\nb\n0\n0\n3\n1\n\nDo đó ta thu được các số: 105; 305; 135; 315\nVậy các số tự nhiên có ba chữ số khác nhau chia hết cho 5 được viết từ các chữ số đã cho: 130; 135; 105; 150; 310; 315; 350; 305; 510; 530.\nb) Gọi số tự nhiên cần tìm có ba chữ số khác nhau là\n\\(\\overline {abc} \\)( \\(a \\ne 0; a,b,c \\in N; a,b,c \\le 9; a,b,c\\) khác nhau)\nVì số đó chia hết cho 3 nên tổng các chữ số của nó phải chia hết cho 3 hay (a + b + c) chia hết cho 3.\nTa thấy bộ 3 chữ số khác nhau có tổng chia hết cho 3 là: (5, 0, 1); (5, 1, 3) vì (5 + 0 + 1 = 6 chia hết cho 3 và 5 + 1 + 3 = 9 chia hết cho 3)\n+) Khi a,b,c gồm 3 chữ số 5, 0, 1 thì ta có các số cần tìm là: 105; 150; 510; 501\n+) Khi a,b,c gồm 3 chữ số 5, 1, 3 thì ta có các số cần tìm là: 135; 153; 351; 315; 513; 531\nVậy các số tự nhiên có ba chữ số khác nhau chia hết cho 3 được viết từ các chữ số đã cho: 135; 153; 351; 315; 513; 531; 105; 150; 510; 501."
+    },
+    {
+        "problem": "Hãy phân tích các số A, B ra thừa số nguyên tố: A = \\(4^2.6^3\\) B =\\(9^2.15^2\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Theo định nghĩa tách được lũy thừa thành tích các thừa số.\nBước 2: Phân tích thừa số ở trên thành tích các thừa số nguyên tố.\nBước 3: Nhân các lũy thừa có cùng cơ số\nLời giải chi tiết\nA= \\(4^2.6^3= 4.4.6.6.6\\)\n\\(=(2^2).(2^2).(2.3).(2.3).(2.3)\\)\n\\(=2^{2+2+1+1+1}.3^{1+1+1}=2^7.3^3\\)\nB =\\(9^2.15^2\\)\n\\(=9.9.15.15\\)\n\\(=3^2.3^2.3.5.3.5\\)\n\\(=3^{2+2+1+1}.5^{1+1}\\)\n=\\(3^6.5^2\\)"
+    },
+    {
+        "problem": "Tìm số tự nhiên x không vượt quá 22 sao cho:a) 100 - x chia hết cho 4b) 18 + 90 + x chia hết cho 9\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng, hiệu của các số chia hết cho cùng 1 số a thì cũng chia hết cho a\nLời giải chi tiết\na) 100 - x chia hết cho 4. Mà 100 chia hết cho 4 nên x chia hết cho 4\nDo đó x là bội của 4 và x là số tự nhiên\nTa có: B(4) = {0; 4; 8; 12; 16; 20; 24;…}\nVì x không vượt quá 22 nên x ∈ {0; 4; 8; 12; 16; 20}\nVậy x ∈ {0; 4; 8; 12; 16; 20}.\nb) 18 + 90 + x chia hết cho 9. Mà 18 và 90 chia hết cho 9 nên x chia hết cho 9\nDo đó x là bội của 9 và x là số tự nhiên\nTa có: B(9) = {0; 9; 18; 27;…}\nVì x không vượt quá 22 nên x ∈ {0; 9; 18}\nVậy x ∈ {0; 9; 18}."
+    },
+    {
+        "problem": "Lớp 6B có 40 học sinh. Để thực hiện dự án học tập nhỏ, cô giáo muốn chia lớp thành các nhóm có số người như nhau, mỗi nhóm có nhiều hơn 3 người. Hỏi mỗi nhóm có thể có bao nhiêu người?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nhóm là ước của số học sinh\nLời giải chi tiết\nGọi số nhóm là x (nhóm),( x ∈ N; 3 < x < 40)\nVì cô giáo muốn chia lớp có 40 học sinh thành nhiều nhóm có số người như nhau nên\n40 ⁝ x hay X ∈ Ư(40)\nƯ(40) = {1; 2; 4; 5; 8; 10; 20; 40}\nTa có bảng sau:\nSố nhóm\n\\(1\\)\n\\(2\\)\n\\(4\\)\n\\(5\\)\n\\(8\\)\n\\(10\\)\n\\(20\\)\n\\(40\\)\nSố người mỗi nhóm\n\\(40\\)\n\\(20\\)\n\\(10\\)\n\\(8\\)\n\\(5\\)\n\\(4\\)\n\\(2\\)\n\\(1\\)\nVì mỗi nhóm có nhiều hơn 3 người nên mỗi nhóm có thể có 4 người; 5 người; 8 người; 10 người hoặc 20 người.\nVậy mỗi nhóm có thể có 4 người; 5 người; 8 người; 10 người hoặc 20 người."
+    },
+    {
+        "problem": "Hai số nguyên tố được gọi là sinh đôi nếu chúng hơn kém nhau hai đơn vị. Ví dụ 17 và 19 là hai số nguyên tố sinh đôi. Em hãy liệt kê các cặp số nguyên tố sinh đôi nhỏ hơn 40.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào bảng các số nguyên tố\nLời giải chi tiết\nCác cặp số nguyên tố sinh đôi nhỏ hơn 40 là: (3;5);(5;7);(11;13);(17;19);(29;31)."
+    },
+    {
+        "problem": "Tìm các tập hợp Ư(24) và Ư(28).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm các ước của a (a > 1), ta lần lượt chia a cho các số tự nhiên từ 1 đến a để xem a chia hết cho số nào thì số đó là ước của a.\nLời giải chi tiết\nTa thấy: 24 chia hết cho các số: 1; 2; 3; 4; 6; 8; 12; 24 nên Ư(24) = {1; 2; 3; 4; 6; 8; 12; 24}\nTa thấy: 28 chia hết cho các số: 1; 2; 4; 7; 14; 28 nên Ư(28) = {1; 2; 4; 7; 14; 28}"
+    },
+    {
+        "problem": "Gọi ƯC(24, 28) là tập hợp các số vừa là ước của 24, vừa là ước của 28. Hãy viết tập hợp ƯC(24, 28).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các số vừa là ước của 24, vừa là ước của 28.\nLời giải chi tiết\nTa thấy các số vừa thuộc tập hợp Ư(24), vừa thuộc tập hợp Ư(28) là 1,2,4.\nƯC(24, 28) = {1; 2; 4}"
+    },
+    {
+        "problem": "Tìm số lớn nhất trong tập ƯC(24, 28).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm số lớn nhất trong các số vừa tìm được ở hoạt động 2.\nLời giải chi tiết\nSố lớn nhất trong ƯC(24; 28) là 4"
+    },
+    {
+        "problem": "Tìm ƯCLN(90, 10).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm Ư(90) và Ư(10) => ƯC(90, 10)\n- ƯCLN(90, 10) là số lớn nhất trong tập hợp ƯC(90, 10).\nLời giải chi tiết\nƯ(90) = {1; 2; 3; 5; 9; 10; 18; 30; 45; 90}\nƯ(10) = {1; 2; 5; 10}\n=> ƯC(90, 10) = {1; 2; 5; 10}\n=> ƯCLN(90, 10) = 10"
+    }
+]

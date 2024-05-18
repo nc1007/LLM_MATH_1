@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Cho biết hai đại lượng a và b tỉ lệ nghịch với nhau và khi a = 5; b = −3 thì hệ số tỉ lệ là: \nA. \\frac{-3}{5};\nB. - 15;\nC. 15;\nD. \\frac{-5}{3}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì a và b tỉ lệ nghịch với nhau nên ta có:\nk = a . b = 5 . (−3) = 15.\nVậy hệ số tỉ lệ là k = −15.\nChọn đáp án B."
+    },
+    {
+        "problem": "Câu 2. Có 15 công nhân với năng suất như nhau đóng xong một chiếc tàu trong 40 ngày. Hỏi cần bao nhiêu công nhân để đóng xong một con tàu trong 30 ngày?\nA. 20 công nhân;\nB. 10 công nhân;\nC. 25 công nhân;\nD. 5 công nhân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGọi x (công nhân) là số công nhân cần để đóng xong tàu trong 30 ngày (x ∈ ℕ*).\nVì số công nhân và thời gian làm việc tỉ lệ nghịch với nhau nên ta có: \\frac{x}{15} = \\frac{40}{30}\nSuy ra x = \\frac{40}{30}. 15 = 20 (thỏa mãn điều kiện).\nVậy cần 20 công nhân để đóng xong một con tàu trong 30 ngày.\nChọn đáp án A."
+    },
+    {
+        "problem": "Câu 3. Cho x và y là hai đại lượng tỉ lệ nghịch với hệ số tỉ lệ là 4. Khi đó cặp giá trị nào dưới đây là sai?\nA. x = 1; y = 3;\nB. x = 2; y = 2; \nC. x = 4; y =1; \nD. x = -1; y = - 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì x và y là hai đại lượng tỉ lệ nghịch với hệ số tỉ lệ là 4 nên xy = 4.\nTa thấy x . y = 1 . 3 = 3 ≠ 4 nên đáp án A sai.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 4. Một đội sản xuất sử dụng x máy gặt để gặt xong ruộng lúa trong vòng y giờ. Hỏi hai đại lượng x và y có quan hệ như thế nào với nhau?\nA. x tỉ lệ thuận với y theo hệ số xy; \nB. x tỉ lệ nghịch với y theo hệ số \\frac{x}{y};\nC. x tỉ lệ thuận với y theo hệ số \\frac{x}{y};\nD. x tỉ lệ nghịch với y theo hệ số xy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì càng nhiều máy gặt thì thời gian làm càng nhanh nên số máy gặt và thời gian gặt xong là hai đại lượng tỉ lệ nghịch.\nDo đó x và y là hai đại lượng tỉ lệ nghịch theo hệ số tỉ lệ xy.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 5. Một nông trường có 3 máy gặt đã gặt xong một cánh đồng mất 4 giờ. Hỏi 4 máy gặt cắt xong cánh đồng đó mất bao nhiêu giờ?\nA. 12 giờ;\nB. 16 giờ; \nC. 3 giờ; \nD.\\frac{4}{3} giờ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGọi x (giờ) là thời gian để 4 máy gặt cắt xong cánh đồng (x > 0).\nVì số máy gặt và thời gian gặt xong tỉ lệ nghịch với nhau nên ta có: \\frac{3}{4}=\\frac{x}{4}\nSuy ra x = \\frac{3}{4} . 4 = 3 (thoả mãn điều kiện).\nVậy thời gian để 4 máy gặt cắt xong cánh đồng đó mất 3 giờ.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 6. Cho x và y tỉ lệ nghịch theo hệ số a. Hệ thức nào dưới đây là sai?\nA. x . y = a;\nB. x = \\frac{y}{a};\nC. y = \\frac{a}{x};\nD. \\frac{x}{y} = a.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTheo đề bài, x và y là hai đại lượng tỉ lệ nghịch theo hệ số a nên x . y = a.\nSuy ra x=\\frac{a}{y}; x=\\frac{a}{y}\nDo đó hệ thức \\frac{x}{y} = a sai.\nChọn đáp án D sai."
+    },
+    {
+        "problem": "Câu 7: Cho x và y là hai đại lượng tỉ lệ nghịch, biết x = 6; y = −3. Tìm hệ số tỉ lệ a.\nA. a = −2;\nB. a = −18;\nC. a = 2;\nD. a = 18.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì x và y tỉ lệ nghịch nên a = x . y = 6 . (−3) = −18\nVậy hệ số tỉ lệ a = −18.\nChọn đáp án B."
+    },
+    {
+        "problem": "Câu 8: Bạn Giang đi xe đạp với vân tốc 3km/h đến trường mất 10 phút. Hỏi nếu bạn Giang đi xe điện đến trường với vận tốc 5 km/h mất bao nhiêu phút?\nA. 6 phút;\nB. 15 phút;\nC. 5 phút;\nD. 12 phút.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGọi x (giờ) là thời gian bạn Giang đi bằng xe điện (x > 0).\nĐổi 10 phút = \\frac{1}{6} giờ.\nVì vận tốc và thời gian là 2 đại lượng tỉ lệ nghịch nên ta có:\n5.x=3.\\frac{1}{6}=\\frac{1}{2}\nSuy ra: x=\\frac{1}{2}:5=\\frac{1}{10}\nĐổi giờ \\frac{1}{10}= 6 phút.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 9. Một tổ sản xuất tuyển x (công nhân) để hoàn thành 180 sản phẩm, biết mỗi công nhân phải làm y (sản phẩm). Hỏi x có quan hệ như thế nào với y?\nA. x tỉ lệ nghịch với y theo hệ số \\frac{1}{180};\nB. x tỉ lệ thuận với y theo hệ số \\frac{1}{180} ;\nC. x tỉ lệ nghịch với y theo hệ số 180;\nD. x tỉ lệ thuận với y theo hệ số 180.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì số công nhân càng nhiều thì thời gian làm càng ít nên số công nhân và thời gian hoàn thành công việc là hai đại lượng tỉ lệ nghịch.\nSuy ra xy = 180.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 10. Hệ thức nào dưới đây biểu thị cho đại lượng tỉ lệ nghịch?\nA. \\frac{x1}{y1}=\\frac{x2}{y2}=a\nB. \\frac{x1}{x2}=\\frac{y1}{y2}=\\frac{1}{a}\nC. x1 . y2 = x2 . y1;\nD. x1 . y1 = x2 . y2 = a.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nNếu x và y là hai đại lượng tỉ lệ nghịch thì xy = a.\nTheo tính chất của đại lượng tỉ lệ nghịch, ta có:\nx1 . y1 = x2 . y2 = a.\nSuy ra \\frac{x1}{y1}=\\frac{x2}{y2}=a\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 11. Cho x và y là hai đại lượng tỉ lệ nghịch, biết x = −8; y = 6. Tìm hệ số tỉ lệ a.\nA. a = 48;\nB. a = −48;\nC. a = \\frac{-4}{3};\nD. a = \\frac{-3}{4}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì x và y là hai đại lượng tỉ lệ nghịch nên ta có:\na = x . y = 8 . (−6) = −48\nVậy hệ số tỉ lệ là a = −48.\nChọn đáp án B."
+    },
+    {
+        "problem": "Câu 12. Cho x và y tỉ lệ nghịch theo hệ số 3; y và z tỉ lệ nghịch theo hệ số 6. Hỏi x và z là hai đại lượng tỉ lệ thuận hay nghịch và hệ số tỉ lệ là bao nhiêu?\nA. tỉ lệ thuận theo hệ số 2;\nB. tỉ lệ thuận theo hệ số \\frac{1}{2};\nC. tỉ lệ nghịch theo hệ số 2;\nD. tỉ lệ nghịch theo hệ số \\frac{1}{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì x và y tỉ lệ nghịch theo hệ số 3 nên y = \\frac{3}{x}.\nVì y và z tỉ lệ nghịch theo hệ số 6 nên y = \\frac{6}{z}.\nSuy ra \\frac{3}{x}=\\frac{6}{z}\nDo đó \\frac{x}{z}=\\frac{3}{6}=\\frac{1}{2}\nVậy x và z là hai đại lượng tỉ lệ thuận với hệ số tỉ lệ là \\frac{1}{2}.\nChọn đáp án B."
+    },
+    {
+        "problem": "Câu 13. Cho biết x và y là hai đại lượng tỉ lệ nghịch với nhau. Khi x = 5 thì y = - 25. Khi đó hệ số tỉ lệ a và công thức biểu diễn y theo x là:\nA. a = −5; y = −5x;\nB. a = 5; y = 5x;\nC. a = −125; y = \\frac{-125}{x};\nD. a = 125; y = \\frac{125}{x} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì x và y là hai đại lượng tỉ lệ nghịch với nhau nên:\na = x . y = 5 . (−25) = −125.\nSuy ra y=\\frac{−125}{x}.\nVậy hệ số tỉ lệ a= −125 và y=\\frac{−125}{x} .\nChọn đáp án C."
+    },
+    {
+        "problem": "Câu 14. Cho biết x và y là hai đại lượng tỉ lệ nghịch. Khi x = 3 thì y = 14. Tìm y khi x = 7.\nA. y = −6;\nB. y = 4;\nC. y = −4;\nD. y = 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì x và y là hai đại lượng tỉ lệ nghịch nên:\na = x . y = 3 . 14 = 42.\nSuy ra \\frac{42}{x}\nKhi x = 7 thì y=\\frac{42}{7}=6\nVậy khi x = 7 thì y = 6.\nChọn đáp án D."
+    },
+    {
+        "problem": "Câu 15. Biết x và y là hai đại lượng tỉ lệ nghịch. Khi x = 8 thì y = 2. Tìm y khi x = 4.\nA. y = 4;\nB. y = −4;\nC. y = 16;\nD. y = 16.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGọi a là hệ số tỉ lệ của y và x.\nVì x và y tỉ lệ nghịch nên ta có: a = x . y = 8 . 2 = 16.\nKhi x = 4 suy ra y = \\frac{16}{x}=\\frac{16}{4}=4 .\nVậy khi x = 4 thì y = 4.\nChọn đáp án A."
+    }
+]

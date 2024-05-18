@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Số thập phân 37,36 được đọc là:\nA.\tBa bảy phẩy ba sáu\nB.\tBa mươi bảy phẩy ba mươi sáu\nC.\tBa sáu phẩy ba bảy\nD.\tBa mươi sáu phẩy ba mươi bảy",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân 37,36 được đọc là ba mươi bảy phẩy ba mươi sáu."
+    },
+    {
+        "problem": "Câu 5: Bỏ các chữ só 0 ở tận cùng bên phải của số thập phân 4,5000 để có các số thập phân viết dưới dạng gọn hơn.\nA.\t4,500\nB.\t4,50\nC.\t4,5\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân 4,5000 có các chữ số 0 ở tận cùng bên phải phần thập phân nên ta có thể bỏ bỏ chữ số 0 đó đi để được một số thập phân bằng nó và ở dạng gọn hơn: \n4,5000 = 4,500 = 4,50 = 4,5\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 8: Chọn dấu thích hợp để điền vào chỗ chấm:\n9,468 … 9,48\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy hai số thập phân 9,468 và 9,48 có cùng phần nguyên là 9, có cùng hàng phần mười là 4 và có hàng phần trăm 6 < 8 nên 9,468 < 9,48."
+    },
+    {
+        "problem": "Câu 12: Có bao nhiêu số thập phân có thể viết vào chỗ chấm sao cho 1,1 < … < 1,2?\nA.\tKhông có số nào \nB.\t8 số\nC.\t100 số\nD.\tCó vô số số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n1,1 = 1,10 = 1,100 = ...\n1,2 = 1,20 = 1,200 = ...\n...\nDo đó ta có:\n1,1 = 1,10 < 1,11 < 1,12 < 1,13  ... < 1,2;\n1,1 = 1,100 < 1,101 < 1,102  ... < 1,2;\n...\nVậy có vô số thập phân điền vào chỗ chấm sao cho 1,1 < … < 1,2."
+    },
+    {
+        "problem": "Câu 13: Sắp xếp các số theo thứ tự từ lớn đến bé: 23,86; 24,199; 16,12; 24,3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét phần nguyên của các số đã cho ta có: 16 < 23 < 24\nMà hai số 24,199; 24,3 có cùng phần nguyên là 24.\nXét phần mười của hai số ta thấy 1 < 3 nên 24,199 < 24,3\nVậy 24,3 > 24,199 > 23,86 > 16,12\nCác số được viết theo thứ tự từ lớn đến bé là 24,3; 24,199; 23,86; 16,12."
+    }
+]

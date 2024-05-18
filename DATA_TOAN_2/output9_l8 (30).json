@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Cho tam giác \\(ABC\\). Các điểm \\(M,N\\) lần lượt thuộc các cạnh \\(AB\\) và \\(AC\\) thỏa mãn \\(MN//BC\\) và \\(\\frac{AM}{MB}=\\frac{2}{3}\\). Tỉ số \\(\\frac{NC}{AN}\\) bằng\nA. \\(\\frac{2}{3}\\)\nB. \\(\\frac{2}{5}\\)\nC. \\(\\frac{3}{2}\\)\nD.\\(\\frac{3}{5}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đoạn thẳng tỉ lệ: Hai đoạn thẳng \\(AB\\) và \\(CD\\) tỉ lệ với hai đoạn thẳng \\(MN\\) và \\(PQ\\) nếu có tỉ lệ thức \\(\\frac{AB}{CD}=\\frac{MN}{PQ}\\)\nDựa vào định lí Thales: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.\nLời giải chi tiết\n\nDo \\(MN//BC\\) nên theo định lí Thales:\n$ \\frac{AM}{MB}=\\frac{AN}{NC}=\\frac{2}{3} \\\\=>\\frac{NC}{AN}=\\frac{3}{2} \\\\$"
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có \\(E,F\\) lần lượt là trung điểm của \\(BC,AC\\). Các điểm \\(M,P,R,Q\\) lần lượt nằm trên \\(AB,BE,EF,FA\\) sao cho \\(\\frac{{BM}}{{MA}} = \\frac{{QF}}{{QA}} = \\frac{{RF}}{{RE}} = \\frac{{BP}}{{PE}} = 1,8\\) (Hình 50).\nTìm khẳng định sai trong các khẳng định sau:\na)      Hai đoạn thẳng \\(EF\\) và \\(AB\\) đồng dạng phối cảnh, điểm \\(C\\) là tâm đồng dạng phối cảnh.\nb)     Hai đoạn thẳng \\(MP\\) và \\(AE\\) đồng dạng phối cảnh, điểm \\(B\\) là tâm đồng dạng phối cảnh và \\(\\frac{{BM}}{{BA}} = \\frac{{BP}}{{BE}} = \\frac{3}{5}\\).\nc)      Hai đoạn thẳng \\(PR\\) và \\(BF\\) đồng dạng phối cảnh, điểm \\(E\\) là tâm đồng dạng phối cảnh.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bằng cách “phóng to” (nếu tỉ số vị tự \\(k > 1\\)) hay “thu nhỏ” (nếu tỉ số vị tự \\(k < 1\\)) hình \\(H\\), ta sẽ nhận được hình \\(H'\\) đồng dạng phối cảnh (hay vị tự) với hình \\(H\\).\nTa gọi hình \\(H'\\) là hình đồng dạng phối cảnh (hay vị tự) tỉ số \\(k\\) của hình \\(H\\)\nHình đồng dạng phối cảnh tỉ số k của đoạn thẳng \\(AB\\) là một đoạn thẳng \\(A'B'\\) (nằm trên đường thẳng song song hoặc trùng với đường thẳng \\(AB\\)) và \\(A'B' = k.AB\\)\nLời giải chi tiết\nTa có \\(\\frac{{BM}}{{MA}} = \\frac{9}{5} =  > \\frac{{BM}}{{BA}} = \\frac{9}{{14}}\\)\nVậy khẳng định b) sai."
+    },
+    {
+        "problem": "Quan sát Hình 43 và chỉ ra hai cặp tam giác đồng dạng:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ ba: góc – góc\nNếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng.\nLời giải chi tiết\nHai cặp tam giác đồng dạng:\n\\(\\Delta ABC\\backsim \\Delta DEF\\)\nTa có: \\(\\Delta ABC\\) có \\(\\widehat A = 42^\\circ ,\\widehat B = \\widehat C = \\left( {180^\\circ  - 42^\\circ } \\right):2 = 69^\\circ \\)\n\\(\\Delta DEF\\) có \\(\\widehat E = 69^\\circ ,\\widehat F = \\widehat D = 180^\\circ  - 69.2 = 42^\\circ \\)\n\\(\\Delta MNP\\backsim \\Delta HIK\\)\nTa có: \\(\\Delta MNP\\) có \\(\\widehat M = 72^\\circ ,\\widehat N = 63^\\circ ,\\widehat P = 180^\\circ  - \\left( {72^\\circ  + 63^\\circ } \\right) = 45^\\circ \\)\n\\(\\Delta HIK\\) có \\(\\widehat H = 72^\\circ ,\\widehat K = 45^\\circ ,\\widehat I = 180^\\circ  - \\left( {72^\\circ  - 45^\\circ } \\right) = 63^\\circ \\)"
+    },
+    {
+        "problem": "Quan sát Hình 36 và chỉ ra một cặp tam giác đồng dạng:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ hai của tam giác: cạnh – góc – cạnh\nNếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau thì hai tam giác đó đồng dạng.\nLời giải chi tiết\nCặp tam giác đồng dạng: \\(\\Delta ABC\\backsim \\Delta EDF\\).\nTa có \\(\\frac{{AB}}{{BC}} = \\frac{5}{{10}} = \\frac{1}{2};\\frac{{ED}}{{DF}} = \\frac{3}{6} = \\frac{1}{2}\\)\n→    \\(\\frac{{AB}}{{BC}} = \\frac{{ED}}{{DF}}\\)\nXét hai tam giác \\(ABC\\) và \\(EDF\\) có \\(\\frac{{AB}}{{BC}} = \\frac{{ED}}{{DF}}\\) và \\(\\widehat {ABC} = \\widehat {EDF} = 60^\\circ \\).\n→    \\(\\Delta ABC\\backsim \\Delta EDF\\) (c-g-c)"
+    },
+    {
+        "problem": "Tam giác thứ nhất có độ dài các cạnh là: 2,6 cm; 7,1 cm; 8 cm. Tam giác thứ hai có độ dài các cạnh là: 7,8 cm; 21,3 cm; 24 cm. Hỏi hai tam giác đó có đồng dạng không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào trường hợp đồng dạng thứ nhất: cạnh – cạnh – cạnh\nNếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\nTa có: \\(\\frac{{2,6}}{{7,8}} = \\frac{{7,1}}{{21,3}} = \\frac{8}{{24}}\\). Vậy hai tam giác đã cho đồng dạng."
+    },
+    {
+        "problem": "Tìm khẳng định sai:\na)      Nếu \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\Delta ABC\\backsim \\Delta A'B'C'\\).\nb)     Nếu \\(\\Delta A''B''C''\\backsim \\Delta A'B'C'\\) và \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\widehat{A}=\\widehat{A''},\\widehat{B}=\\widehat{B''},\\widehat{C}=\\widehat{C''}\\).\nc)      Nếu \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì chu vi tam giác \\(ABC\\) bằng nửa chu vi tam giác \\(A'B'C'\\).\nd)     Nếu \\(\\Delta ABC\\backsim \\Delta A'B'C'\\) thì \\(\\frac{AB}{A'B'}=\\frac{BC}{B'C'}=\\frac{CA}{C'A'}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào tính chất của tam giác đồng dạng:\n-         Mỗi tam giác đồng dạng với chính nó\nNếu \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\Delta ABC\\backsim \\Delta A'B'C'\\).\nNếu \\(\\Delta A''B''C''\\backsim \\Delta A'B'C'\\) và \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\widehat{A}=\\widehat{A''},\\widehat{B}=\\widehat{B''},\\widehat{C}=\\widehat{C''}\\).\n-         Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh thứ ba thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\nLời giải chi tiết\nKhẳng định sai là c) vì không đủ dữ kiện"
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) vuông tại \\(A\\) có \\(AB = 8\\) cm, \\(AC = 6\\) cm, có hai đường phân giác \\(AD,BE\\) cắt nhau tại \\(O\\). Tính :\na)      Độ dài các đoạn thẳng \\(AE,EC\\);\nb)     Khoảng cách từ \\(O\\) đến đường thẳng \\(AC\\);\nc)      Độ dài đường phân giác \\(AD\\) (theo đơn vị centimet và làm tròn kết quả đến hàng phần mười);\nd)     Diện tích tam giác \\(DOE\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng định lí Pythagore trong tam giác vuông: trong một tam giác vuông, bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông\nTính chất đường phân giác của tam giác: trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề hai đoạn ấy.\nLời giải chi tiết\n\na)      Tam giác vuông \\(ABC\\) vuông tại \\(A\\) nên theo định lí Pythagore, ta có: \\(B{C^2} = A{C^2} + A{B^2} = 100\\), suy ra \\(BC = 10\\) cm.\nVì \\(BE\\) là phân giác nên \\(\\frac{{AE}}{{EC}} = \\frac{{AB}}{{BC}} = \\frac{8}{{10}} = \\frac{4}{5}\\).\nSuy ra \\(\\frac{{AE}}{4} = \\frac{{EC}}{5} = \\frac{{AE + EC}}{{4 + 5}} = \\frac{6}{9} = \\frac{2}{3}\\). Vậy \\(AE = \\frac{8}{3}\\) cm; \\(EC = \\frac{{10}}{3}\\) cm.\nb)     Kẻ \\(OH\\) vuông góc với \\(AC\\) tại \\(H,OH \\bot AC,BA \\bot AC\\) nên \\(OH//AB\\).\nSuy ra \\(\\frac{{OH}}{{AB}} = \\frac{{OE}}{{EB}}\\) (1). Tam giác \\(AEB\\) có \\(AO\\) là phân giác nên \\(\\frac{{EO}}{{OB}} = \\frac{{AE}}{{AB}} = \\frac{1}{3}\\).\nSuy ra \\(\\frac{{EO}}{{EB}} = \\frac{1}{4}\\) (2). Từ (1) và (2) ta có \\(\\frac{{OH}}{{AB}} = \\frac{1}{4}\\), suy ra \\(OH = 2\\) cm.\nc)      Kẻ \\(DK \\bot AC,DI \\bot AB\\). Khi đó, tứ giác \\(AKDI\\) có ba góc vuông và đường chéo \\(AD\\) là đường phân giác của góc \\(KAI\\) nên tứ giác \\(AKDI\\) là hình vuông. Suy ra \\(DK = DI\\). Ta có \\({S_{\\Delta ABC}} = {S_{\\Delta ADC}} + {S_{\\Delta ADB}}\\) nên \\(\\frac{{AC.AB}}{2} = \\frac{{AC.DK}}{2} + \\frac{{AB.DI}}{2}\\) hay \\(AC.AB = AC.DK + AB.DI = \\left( {AB + AC} \\right)\\). \\(DK\\) (do \\(DK = DI\\)). Từ đó, ta có: \\(DK = \\frac{{AB.AC}}{{AB + AC}} = \\frac{{8.6}}{{8 + 6}} = \\frac{{24}}{7}\\). Tứ giác \\(AKDI\\) là hình vuông nên \\(AD = DK\\sqrt 2 \\). Do đó \\(AD = \\frac{{24\\sqrt 2 }}{7} \\approx 4,8\\) (cm).\nd)     Ta có: \\({S_{\\Delta BAC}} = \\frac{1}{2}.6.8 = 24\\left( {c{m^2}} \\right)\\). Suy ra \\(\\frac{{{S_{\\Delta BCE}}}}{{{S_{\\Delta BAC}}}} = \\frac{{EC}}{{AC}} = \\frac{{10}}{3}:6 = \\frac{5}{9}\\).\nDo đó \\({S_{\\Delta BCE}} = \\frac{5}{9}.24 = \\frac{{40}}{3}\\left( {c{m^2}} \\right)\\). Tương tự: \\(\\frac{{{S_{\\Delta DBE}}}}{{{S_{\\Delta BEC}}}} = \\frac{{DB}}{{BC}} = \\frac{4}{7}\\).\nSuy ra \\({S_{\\Delta DBE}} = \\frac{{160}}{{21}}\\left( {c{m^2}} \\right)\\).\nMà \\(\\frac{{{S_{\\Delta DOE}}}}{{{S_{\\Delta DBE}}}} = \\frac{{OE}}{{BE}} = \\frac{1}{4}\\) suy ra \\({S_{\\Delta DOE}} = \\frac{1}{4}.\\frac{{160}}{{21}} = \\frac{{40}}{{21}}\\left( {c{m^2}} \\right)\\)."
+    },
+    {
+        "problem": "Chọn phát biểu đúng trong các phát biểu sau:\na)      Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng một phần ba cạnh đó.\nb)     Trong một tam giác chỉ có một đường trung bình.\nc)      Đường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh tam giác đó.\nd)     Đường trung bình của tam giác là đoạn thẳng nối từ một đỉnh đến trung điểm của cạnh đối diện.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa: Đường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh tam giác đó.\nTính chất: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh đó.\nLời giải chi tiết\nPhát biểu c) đúng\nĐường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh tam giác đó."
+    },
+    {
+        "problem": "Trong công viên có một dẻo đất có dạng hình tam giác \\(MCD\\) được mô tả như Hình 15. Giữa hai điểm \\(A,B\\) là một hồ nước sâu và một con đường đi bộ giữa \\(C\\) và \\(D\\). Bạn An đi từ \\(C\\) đến \\(D\\) với tốc độ 100 m/phút trong thời gian 2 phút 42 giây. Tính độ dài \\(AB\\), biết \\(AB//CD\\) và \\(MB = \\frac{4}{5}BD\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng định lí Thales: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.\nLời giải chi tiết\nDo \\(MB = \\frac{4}{5}BD\\) nên \\(MB = \\frac{4}{9}MD\\).\nDo \\(AB//CD\\) nên theo hệ quả của định lí Thales, ta có:\n\\(\\frac{{AB}}{{CD}} = \\frac{{MB}}{{MD}} = \\frac{4}{9}\\) hay \\(AB = \\frac{4}{9}CD\\).\nMặt khác, \\(CD = 100.\\frac{{27}}{{10}} = 270\\) (m)\nVậy độ dài \\(AB\\) là: \\(\\frac{4}{9}.270 = 120\\) (m)."
+    },
+    {
+        "problem": "Cho các đoạn thẳng \\(AB = 6cm,CD = 4cm,PQ = 8cm,EF = 10cm,MN = 25cm,RS = 15cm\\)\nTìm phát biểu đúng trong các phát biểu sau:\na)      Hai đoạn thẳng \\(AB\\) và \\(PQ\\) tỉ lệ với hai đoạn thẳng \\(EF\\) và \\(RS\\)\nb)     Hai đoạn thẳng \\(AB\\) và \\(RS\\) tỉ lệ với hai đoạn thẳng \\(EF\\) và \\(MN\\)\nc)      Hai đoạn thẳng \\(AB\\) và \\(CD\\) tỉ lệ với hai đoạn thẳng \\(PQ\\) và \\(EF\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đoạn thẳng tỉ lệ: Hai đoạn thẳng \\(AB\\) và \\(CD\\) tỉ lệ với hai đoạn thẳng \\(MN\\) và \\(PQ\\) nếu có tỉ lệ thức \\(\\frac{{AB}}{{CD}} = \\frac{{MN}}{{PQ}}\\).\nLời giải chi tiết\nPhát biểu đúng: b) Hai đoạn thẳng \\(AB\\) và \\(RS\\) tỉ lệ với hai đoạn thẳng \\(EF\\) và \\(MN\\).\nVì \\(\\frac{{AB}}{{RS}} = \\frac{{EF}}{{MN}}\\left( {\\frac{6}{{15}} = \\frac{{10}}{{25}} = \\frac{2}{5}} \\right)\\)"
+    },
+    {
+        "problem": "Cho hai tam giác \\(MNP\\) và \\(M'N'P'\\). Phát biểu nào sau đây là đúng?\nA.        Nếu \\(\\widehat{M}=\\widehat{M'}\\) và \\(\\widehat{N}=\\widehat{P'}\\) thì \\(\\Delta MNP\\backsim \\Delta M'N'P'\\).\nB.        Nếu \\(\\widehat{M}=\\widehat{N'}\\) và \\(\\widehat{N}=\\widehat{P'}\\) thì \\(\\Delta MNP\\backsim \\Delta M'N'P'\\)\nC.        Nếu \\(\\widehat{M}=\\widehat{P'}\\) và \\(\\widehat{N}=\\widehat{M'}\\) thì \\(\\Delta MNP\\backsim \\Delta M'N'P'\\)\nD.        Nếu \\(\\widehat{M}=\\widehat{M'}\\) và \\(\\widehat{P}=\\widehat{P'}\\) thì \\(\\Delta MNP\\backsim \\Delta M'N'P'\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào tính chất của tam giác đồng dạng:\n-         Mỗi tam giác đồng dạng với chính nó\nNếu \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\Delta ABC\\backsim \\Delta A'B'C'\\).\nNếu \\(\\Delta A''B''C''\\backsim \\Delta A'B'C'\\) và \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\widehat{A}=\\widehat{A''},\\widehat{B}=\\widehat{B''},\\widehat{C}=\\widehat{C''}\\).\n-         Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh thứ ba thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\nLời giải chi tiết\nChọn đáp án \\(D\\)\nNếu \\(\\widehat{M}=\\widehat{M'}\\) và \\(\\widehat{P}=\\widehat{P'}\\) thì \\(\\Delta MNP\\backsim \\Delta M'N'P'\\) (g.g)"
+    },
+    {
+        "problem": "Cho điểm \\(O\\) nằm ngoài tam giác \\(MNP\\). Trên các tia \\(OM,ON,OP\\) ta lần lượt lấy các điểm \\(M',N',P'\\) sao cho \\(\\frac{{OM'}}{{OM}} = \\frac{{ON'}}{{ON}} = \\frac{{OP'}}{{OP}} = \\frac{5}{3}\\) (Hình 51).\na)      Tam giác \\(M'N'P'\\) có đồng dạng phối cảnh với tam giác \\(MNP\\) hay không? Nếu có, hãy chỉ ra tâm đồng dạng phối cảnh.\nb)     Hãy chỉ ra đoạn thẳng \\(AB\\) sao cho hai đoạn thẳng \\(AB\\) và \\(MP\\) đồng dạng phối cảnh, điểm \\(O\\) là tâm đồng dạng phối cảnh và \\(\\frac{{OA}}{{OM}} = \\frac{{OB}}{{OP}} = \\frac{1}{4}\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bằng cách “phóng to” (nếu tỉ số vị tự \\(k > 1\\)) hay “thu nhỏ” (nếu tỉ số vị tự \\(k < 1\\)) hình \\(H\\), ta sẽ nhận được hình \\(H'\\) đồng dạng phối cảnh (hay vị tự) với hình \\(H\\).\nTa gọi hình \\(H'\\) là hình đồng dạng phối cảnh (hay vị tự) tỉ số \\(k\\) của hình \\(H\\)\nHình đồng dạng phối cảnh tỉ số k của đoạn thẳng \\(AB\\) là một đoạn thẳng \\(A'B'\\) (nằm trên đường thẳng song song hoặc trùng với đường thẳng \\(AB\\)) và \\(A'B' = k.AB\\)\nHai tam giác \\(A'B'C'\\) và \\(ABC\\) gọi là đồng dạng phối cảnh (hay vị tự) với nhau, điểm \\(O\\) gọi là tâm đồng dạng phối cảnh, tỉ số \\(k = \\frac{{A'B'}}{{AB}}\\) gọi là tỉ số vị tự.\nLời giải chi tiết\na)      Tam giác \\(M'N'P'\\) đồng dạng phối cảnh với tam giác \\(MNP\\) và \\(O\\) là tâm đồng dạng phối cảnh.\nb)     Gọi \\(KH\\) là đường trung bình của tam giác \\(MOP\\left( {K \\in OM,H \\in OP} \\right)\\)\nLấy \\(A,B\\) lần lượt là trung điểm của \\(OK,OH\\).\nKhi đó, hai đoạn thẳng \\(AB\\) và \\(MP\\) đồng dạng phối cảnh, điểm \\(O\\) là tâm đồng dạng phối cảnh và \\(\\frac{{OA}}{{OM}} = \\frac{{OB}}{{OP}} = \\frac{1}{4}\\)"
+    },
+    {
+        "problem": "Cho hình thang \\(ABCD\\) có \\(AB//CD\\), \\(AB = 4\\)cm, \\(DB = 6\\) cm và \\(\\widehat {DAB} = \\widehat {DBC}\\). Tính độ dài \\(CD\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ ba: góc – góc\nNếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng.\nLời giải chi tiết\n\nTa có: \\(\\widehat {DAB} = \\widehat {DBC}\\) (giả thiết), \\(\\widehat {ABD} = \\widehat {BDC}\\) (hai góc so le trong). Suy ra \\(\\Delta ABD\\backsim \\Delta BDC\\).\nDo đó ta có \\(\\frac{{AB}}{{BD}} = \\frac{{BD}}{{DC}}\\), tức là \\(CD = \\frac{{B{D^2}}}{{AB}}\\)\nTừ đó: \\(CD = \\frac{{{6^2}}}{4} = 9\\) (cm)"
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có \\(AB = 12\\)cm, \\(AC = 18\\)cm, \\(BC = 27\\)cm. Điểm \\(D\\) thuộc cạnh \\(BC\\) sao cho \\(CD = 12\\)cm. Tính độ dài \\(AD\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ hai của tam giác: cạnh – góc – cạnh\nNếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau thì hai tam giác đó đồng dạng.\nLời giải chi tiết\n\nDo \\(\\frac{{AC}}{{DC}} = \\frac{{18}}{{12}} = \\frac{3}{2}\\), \\(\\frac{{CB}}{{CA}} = \\frac{{27}}{{18}} = \\frac{3}{2}\\)\n→    \\(\\frac{{AC}}{{DC}} = \\frac{{CB}}{{CA}}\\). Mà \\(\\widehat {ACB} = \\widehat {ACD}\\)\n→    \\(\\Delta ACB\\backsim \\Delta DCA\\).\nDo đó \\(\\frac{{AC}}{{DC}} = \\frac{{AB}}{{AD}}\\) hay \\(\\frac{{18}}{{12}} = \\frac{{12}}{{AD}}\\).\n→    \\(AD = \\frac{{12.12}}{{18}} = 8\\)cm.\nVậy độ dài \\(AD = 8\\)cm."
+    },
+    {
+        "problem": "Tam giác \\(ABC\\) có độ dài các cạnh là \\(AB = 9\\) cm, \\(AC = 7\\) cm, \\(BC = 15\\) cm. Tam giác \\(MNP\\) đồng dạng với tam giác \\(ABC\\). Tính độ dài các cạnh của tam giác \\(MNP\\), biết chu vi của nó là 46,5 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào trường hợp đồng dạng thứ nhất: cạnh – cạnh – cạnh\nNếu ba cạnh của tam giác này tỉ lệ với ba cạnh của tam giác kia thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\nGiả sử tam giác \\(MNP\\) đồng dạng với tam giác \\(ABC\\) theo tỉ số \\(k\\).\nSuy ra: \\(\\frac{{MN}}{9} = \\frac{{MP}}{7} = \\frac{{NP}}{{15}} = k\\).\nMặt khác, chu vi tam giác \\(MNP\\) là 46,5 cm nên ta có: \\(9k + 7k + 15k = 46,5\\).\nTừ đó \\(k = 1,5\\), suy ra: \\(MN = 9.1,5 = 13,5\\) (cm); \\(MP = 7.1,5 = 10,5\\) (cm); \\(NP = 15.1,5 = 22,5\\) (cm). Vậy độ dài các cạnh \\(MN,MP,NP\\) của tam giác \\(MNP\\) lần lượt là: 13,5 cm; 10,5 cm; 22,5 cm."
+    },
+    {
+        "problem": "Cho \\(\\Delta ABC\\backsim \\Delta A'B'C'\\) với tỉ số đồng dạng là 3. Tính các cạnh \\(AB,BC,CA\\) biết \\(\\frac{A'B'}{3}=\\frac{B'C'}{7}=\\frac{A'C'}{5}\\) và \\(A'B'+B'C'+C'A'=30\\) (cm).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tam giác \\(A'B'C'\\) gọi là đồng dạng với tam giác \\(ABC\\) nếu:\n\\(\\widehat{A'}=\\widehat{A},\\widehat{B'}=\\widehat{B},\\widehat{C'}=\\widehat{C}\\) ; \\(\\frac{A'B'}{AB}=\\frac{B'C'}{BC}=\\frac{A'C'}{AC}\\).\nKí hiệu là \\(\\Delta A'B'C'\\backsim \\Delta ABC\\).\nTỉ số các cạnh tương ứng \\(\\frac{A'B'}{AB}=\\frac{B'C'}{BC}=\\frac{C'A'}{CA}=k\\) gọi là tỉ số đồng dạng.\nLời giải chi tiết\nDo \\(\\Delta ABC\\backsim \\Delta A'B'C'\\) với tỉ số đồng dạng là 3 nên \\(\\frac{AB}{A'B'}=\\frac{BC}{B'C'}=\\frac{CA}{C'A'}=3\\)\nHay \\(AB=3A'B',BC=3B'C',CA=3C'A'\\) (1).\nMặt khác: \\(\\frac{A'B'}{3}=\\frac{B'C'}{7}=\\frac{A'C'}{5}=\\frac{A'B'+B'C'+A'C'}{15}=\\frac{30}{15}=2\\)\n→    \\(A'B'=6cm,B'C'=14cm,C'A'=10cm\\) (2).\nTừ (1) và (2), ta có: \\(AB=18\\) cm, \\(BC=42\\) cm, \\(CA=30\\) cm."
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có chu vi bằng 74 cm. Đường phân giác của góc \\(A\\) chia cạnh \\(BC\\) thành hai đoạn \\(BD\\) và \\(DC\\) tỉ lệ với 2 và 3, đường phân giác của góc \\(C\\) chia cạnh \\(AB\\) thành hai đoạn \\(EB\\) và \\(EA\\) tỉ lệ với 4 và 5. Tính độ dài các cạnh của tam giác \\(ABC\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chất đường phân giác của tam giác: trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề hai đoạn ấy.\nLời giải chi tiết\n\nTa có:\n\\(\\frac{{AB}}{{AC}} = \\frac{{BD}}{{DC}} = \\frac{2}{3}\\), suy ra \\(\\frac{{AB}}{2} = \\frac{{AC}}{3}\\) (1)\n\\(\\frac{{BC}}{{AC}} = \\frac{{EB}}{{EA}} = \\frac{4}{5}\\), suy ra \\(\\frac{{BC}}{4} = \\frac{{AC}}{5}\\) (2)\nTừ (1) và (2) suy ra: \\(\\frac{{AB}}{{10}} = \\frac{{BC}}{{12}} = \\frac{{AC}}{{15}}\\).\nDo đó: \\(\\frac{{AB}}{{10}} = \\frac{{BC}}{{12}} = \\frac{{AC}}{{15}} = \\frac{{AB + BC + AC}}{{10 + 12 + 15}} = \\frac{{74}}{{37}} = 2\\).\nVậy: \\(AB = 20cm,BC = 24cm,AC = 30cm\\)."
+    },
+    {
+        "problem": "\nHình 21 cho biết cạnh của tam giác đều \\(ABC\\) bằng 6 cm; \\(M,N\\) lần lượt là trung điểm các cạnh \\(AB,AC\\). Chỉ ra phát biểu sai trong các phát biểu sau:\na)      Tam giác \\(AMN\\) là tam giác đều.\nb)     Hình thang \\(BMNC\\) là hình thang cân.\nc)      Chu vi tứ giác \\(BMNC\\) bằng hai phần ba chu vi tam giác \\(ABC\\).\nd)     Độ dài đường trung bình \\(MN\\) bằng 2 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa: Đường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh tam giác đó.\nTính chất: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh đó.\nLời giải chi tiết\nPhát biểu d) c) sai.\nc) Chu vi tứ giác \\(BMNC\\) bằng năm phần sáu chu vi tam giác \\(ABC\\)\nchu vi tam giác \\(ABC\\) là: \\(3.6 = 18\\) cm.\nchu vi tứ giác \\(BMNC\\) là: \\(3 + 3 + 3 + 6 = 15\\) cm.\n→    Chu vi tứ giác \\(BMNC\\) bằng năm phần sáu chu vi tam giác \\(ABC\\)\nd) Độ dài đường trung bình \\(MN\\) bằng 3 cm."
+    },
+    {
+        "problem": "Ở một nhà máy, người ta dùng một băng chuyền để chuyển nguyên vật liệu. Ba vòng quay \\(A,B,C\\) của băng chuyền đặt cách mặt đất ở các độ cao lần lượt là \\(AH = 5\\) (m), \\(CI = 8\\) (m), \\(BK = x\\) (m) (Hình 16).\nTính \\(x\\), biết \\(AC = \\frac{2}{5}CB\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng định lí Thales: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.\nLời giải chi tiết\n\nDo \\(AC = \\frac{2}{5}CB\\) nên \\(AC = \\frac{2}{7}AB\\). Gọi \\(N\\) là giao điểm của \\(AK\\) và \\(CI\\). Do \\(CN//BK\\) nên theo hệ quả của định lí Thales, ta có: \\(\\frac{{AC}}{{AB}} = \\frac{{CN}}{{BK}}\\) hay \\(\\frac{{CN}}{x} = \\frac{2}{7}\\). Suy ra \\(CN = \\frac{2}{7}x\\) (1). Tương tự, do \\(IN//AH,CN//BK\\) nên \\(\\frac{{IN}}{{AH}} = \\frac{{IK}}{{KH}} = \\frac{{BK}}{{KA}} = \\frac{{CB}}{{BA}} = \\frac{5}{7}\\) hay \\(\\frac{{IN}}{5} = \\frac{5}{7}\\). Suy ra \\(IN = 5.\\frac{5}{7} = \\frac{{25}}{7}\\) (m) (2).\nTừ (1) và (2) ta có: \\(CI = CN + IN = \\frac{2}{7}x + \\frac{{25}}{7}\\).\nLại có \\(CI = 8\\) (m) nên \\(\\frac{2}{7}x + \\frac{{25}}{7} = 8\\). Vậy \\(x = 15,5\\)."
+    },
+    {
+        "problem": "Cho các đoạn thẳng \\(EF = 6cm,GH = 3cm,IK = 5cm,MN = xcm\\). Tìm \\(x\\) để hai đoạn thẳng \\(EF\\) và \\(GH\\) tỉ lệ với hai đoạn thẳng \\(IK\\) và \\(MN\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đoạn thẳng tỉ lệ: Hai đoạn thẳng \\(AB\\) và \\(CD\\) tỉ lệ với hai đoạn thẳng \\(MN\\) và \\(PQ\\) nếu có tỉ lệ thức \\(\\frac{{AB}}{{CD}} = \\frac{{MN}}{{PQ}}\\).\nLời giải chi tiết\nHai đoạn thẳng \\(EF\\) và \\(GH\\) tỉ lệ với hai đoạn thẳng \\(IK\\) và \\(MN\\).\n→    \\(\\begin{array}{l}\\frac{{EF}}{{GH}} = \\frac{{IK}}{{MN}} \\Leftrightarrow \\frac{6}{3} = \\frac{5}{x}\\\\ \\Rightarrow x = \\frac{{3,5}}{6} = 2,5\\end{array}\\)\n→    Vậy \\(x = 2,5\\) cm."
+    }
+]

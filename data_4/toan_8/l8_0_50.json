@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Bài 1: Một tứ giác là hình bình hành nếu nó là:\nA. Tứ giác có các góc kề bằng nhau\nB. Tứ giác có hai cạnh đối song song và bằng nhau\nC. Hình thang có hai đường chéo bằng nhau\nD. Hình thang có hai đường chéo vuông góc",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Đáp án A là hình thang cân\n+ Đáp án C là hình thang cân\n+ Đáp án D chưa đủ điều kiện để là hình bình hành\n+ Dựa vào dấu hiệu nhận biết hình bình hành ta thấy một tứ giác là hình bình hành nếu có hai cạnh đối song song và bằng nhau nên đáp án B đúng\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 2: Hình bình hành có hai đường chéo vuông góc là:\nA. Hình chữ nhật\nB. Hình thoi\nC. Hình vuông\nD. Hình thang",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTheo dấu hiệu nhận biết hình thoi thì hình bình hành có hai đường chéo vuông góc là hình thoi\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 3: Tứ giác có 2 cạnh đối song song và 2 đường chéo bằng nhau là:\nA. Hình thang\nB. Hình thang cân\nC. Hình bình hành\nD. Hình thoi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTứ giác có 2 cạnh đối song song là hình thang. Lại thêm có 2 đường chéo bằng nhau nên tứ giác đó là hình thang cân\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 4: Trong các tứ giác sau, tứ giác nào là hình có 4 trục đối xứng?\nA. HÌnh chữ nhật\nB. Hình vuông\nC. Hình bình hành\nD. Hình thoi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hình vuông là tứ giác có 4 trục đối xứng\n+ HÌnh chữ nhật có 2 trục đối xứng là hai đường trung trực của các cạnh\n+ Hình bình hành không có trục đối xứng\n+ Hình thoi có 2 trục đối xứng là 2 đường chéo\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 7: Một tam giác đều có độ dài cạnh bằng 14cm. Độ dài một đường trung bình của tam giác đó là:\nA. 34cm \nB. 7cm\nC. 6,5cm \nD. 21cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐộ dài một đường trung bình của tam giác là: 14 : 2 = 7cm\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 8: Một hình thang cân có cạnh bên là 2,5cm; đường trung bình là 3cm. Chu vi của hình thang là:\nA. 8cm\nB. 12cm\nC. 11,5cm \nD. 11cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTổng độ dài hai đáy là: 3.2 = 6 (cm)\nChu vi hình thang là: 2,5.2 + 6 = 11 (cm)\nĐáp án cần chọn là: D"
+    }
+]

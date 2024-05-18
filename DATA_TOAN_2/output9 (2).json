@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Hai người cùng chơi một trò chơi mỗi người chơi lần lượt quay một tấm bìa có gắn một mũi tên ở tâm (như hình vẽ bên ).\nNếu mũi tên chỉ vào số chẵn thì người chơi đầu thắng, nếu mũi tên chỉ vào số lẻ thì người chơi sau thắng.\na. Em và bạn quay miếng bìa 20 lần. Ghi lại xem trong 20 lần chơi có bao nhiêu lần em thắng bao nhiêu lần, bạn em thắng bao nhiêu lần;\nb. Tính xác suất thực nghiệm của các sự kiện Em thắng, Bạn em thắng;\nc. Vẽ biểu đồ cột biểu diễn số lần thắng của mỗi người.\n\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a.\n- Em quay cùng bạn của mình (chẳng hạn em là người chơi đầu tiên thì nếu em quay vào số chẵn em sẽ thắng, nếu em quay vào số lẻ thì bạn em thắng).\n- Và ghi lại số lần mình thắng và bạn mình thắng.\n- Mỗi người quay 10 lần.\nb. Tính xác suất thực nghiệm: Số lần thắng : 20\nc. Vẽ biểu đồ cột với 2 cột là em thắng và bạn em thắng.\nTrục thẳng đứng là số lần thắng.\nLời giải chi tiết\na. Trong 20 lần chơi có 15 lần em thắng, 5 lần bạn em thắng;\nb. Xác suất thực nghiệm của sự kiện Em thắng là:\\(\\frac{{15}}{{20}}=\\frac{{3}}{{4}}\\)\nXác suất thực nghiệm của sự kiện Bạn em thắng là: \\(\\frac{{5}}{{20}}=\\frac{{1}}{{4}}\\)\nc. Biểu đồ cột:\n"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Em hãy chọn phát biểu sai:\nA.\tMuốn tính diện tích hình tam giác ta lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\nB.\tMuốn tính diện tích hình thang ta lấy tổng độ dài hai đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\nC.\tMuốn tính diện tích hình tròn ta lấy đường kính nhân với đường kính rồi nhân với số 3,14.\nD.\tMuốn tính chu vi tròn ta lấy đường tròn ta lấy đường kính nhân với số 3,14.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính diện tích hình tam giác ta lấy độ dài đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\n-\tMuốn tính diện tích hình thang ta lấy tổng độ dài hai đáy nhân với chiều cao (cùng đơn vị đo) rồi chia cho 2.\n-\tMuốn tính diện tích hình tròn ta lấy bán kính nhân với bán kính rồi nhân với số 3,14.\n-\tMuốn tính chu vi hình tròn ta lấy đường kính nhân với số 3,14.\nVậy kết luận sai là \"Muốn tính diện tích hình tròn ta lấy đường kính nhân với đường kính rồi nhân với số 3,14\"."
+    },
+    {
+        "problem": "Câu 2: Chọn đáp án đúng nhất:\nA.\tMuốn tính thể tích hình hộp chữ nhật ta lấy chiều dài nhân với chiều rộng rồi nhân với chiều cao (cùng đơn vị đo)\nB.\tMuốn tính thể tích hình lập phương ta lấy cạnh nhân với cạnh rồi nhân với cạnh\nC.\tCả A và B đều sai\nD.\tCả A và B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính thể tích hình hộp chữ nhật ta lấy chiều dài nhân với chiều rộng rồi nhân với chiều cao (cùng đơn vị đo).    \n-\tMuốn tính thể tích hình lập phương ta lấy cạnh nhân với cạnh rồi nhân với cạnh.\nVậy cả A và B đều đúng"
+    },
+    {
+        "problem": "Câu 5: Một hình chữ nhật có chu vi là 32cm và chiều dài là 9cm. Tính chu vi hình tròn tâm O có bán kính bằng chiều rộng của hình chữ nhật.\nA.\t21,98cm\nB.\t43,96cm\nC.\t72,22cm\nD.\t144,44cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nửa chu vi hình chữ nhật là:\n32 : 2 = 16 (cm) \nChiều rộng hình chữ nhật:\n16 - 9 = 7 (cm) \nHình tròn tâm O có bán kính bằng chiều rộng của hình chữ nhật nên kính của hình tròn là 7cm.\nChu vi hình tròn là:\n7 x 2 x 3,14 = 43,96 (cm) \nĐáp số: 43,96cm."
+    },
+    {
+        "problem": "Câu 12: Một cái bể hình hộp chữ nhật có chiều dài là 2,5m; chiều rồng kém chiều dài 1,3m; chiều cao gấp 1,5 lần chiều rồng. Hiện tại, lượng nước trong bể chiếm 45% thể tích của bể. Hỏi cần phải cho thêm vào bể bao nhiêu lít được đầy bể nước?\nA.\t5400 lít\nB.\t2970 lít\nC.\t2700 lít\nD.\t2430 lít",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều rộng của bể nước là:\n 2,5 - 1,3 = 1,2 (m)\nChiều cao của bể nước là:\n 1,2 x 1,5 = 1,8 (m)\nThể tích của bể nước là:\n 2,5 x 1,2 x 1,8 = 5,4 (m^{3} )\nThể tích nước đang có trong bể là:\n 5,4 : 100 x 45 = 2,43 (m^{3} )\nThể tích cần đổ thêm vào bể để bể đầy nước là:\n5,4 - 2,43 = 2,97 (m^{3} )\nĐổi 2,97m^{3}  = 2970dm^{3}  = 2970 lít\nĐáp số: 2970 lít."
+    },
+    {
+        "problem": "Câu 13: Một bể nước dạng hình hộp chữ nhật có các kích thước đo ở trong lòng bể là: chiều dài là 1,5m; chiều rộng 1,2m, chiều cao 2m. Mặt nước cách miệng bể 0,5m. Người ta mở khóa cho nước chảy ra khỏi bể, sau 5 giờ thì bể cạn. Hỏi nước chảy ra khỏi bể mỗi phút được bao nhiêu lít?\nA.\t3 lít\nB.\t6 lít\nC.\t9 lít\nD.\t12 lít",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều cao mực nước trong bể là:\n 2 - 0,5 = 1,5 (m)\nThể tích nước đang có trong bể:\n1,5 x 1,2 x 1,5 = 2,7 (m^{3} ) \nThể tích nước chảy ra trong 1 giờ là:\n2,7 : 5 = 0,54 (m^{3} ) \nĐổi 0,54m^{3}  = 540dm^{3}  = 540; 1 giờ = 60 phút\nMỗi phút nước chảy ra khỏi bể số lít là:\n540 : 60 = 9 (lít)\nĐáp số: 9 lít."
+    }
+]

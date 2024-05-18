@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Bằng cách đo, hãy so sánh số đo các góc trong hình sau với \\(90^\\circ \\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Sử dụng thước đo góc đo góc\n- So sánh các số đo với \\(90^\\circ \\).\nLời giải chi tiết\n\\(\\widehat{aOb} = 50^0 <90^0\\)\n\\(\\widehat{pMq} = 90^0\\)\n\\(\\widehat{mAn} = 110^0 >90^0\\)"
+    },
+    {
+        "problem": "Hãy chỉ ra một số hình ảnh góc nhọn, góc vuông, góc tù, góc bẹt có trong thực tế mà em biết.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Góc kim đồng hồ: Lấy góc tạo bởi kim giờ và kim phút.\nLời giải chi tiết\nGóc nhọn: góc kim đồng hồ chỉ 1 giờ\nGóc vuông : góc tường trong nhà, góc kim đồng hồ chỉ 3 giờ.\nGóc tù: góc kim đồng hồ chỉ 4 giờ\nGóc bẹt: góc kim đồng hồ chỉ 6 giờ"
+    },
+    {
+        "problem": "Hãy sắp xếp các góc sau theo thứ tự số đo từ bé đến lớn: góc vuông, góc nhọn, góc tù và góc bẹt.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Góc nhọn là góc có số đo nhỏ hơn 90 độ.\nGóc vuông là góc có số đo bằng 90 độ.\nGóc tù là góc có số đo lớn hơn 90 độ và nhỏ hơn 180 độ.\nGóc bẹt là góc có số đo bằng 180 độ.\nLời giải chi tiết\nCác góc theo thứ tự số đo từ bé đến lớn là: Góc nhọn ; góc vuông ; góc tù; góc bẹt."
+    },
+    {
+        "problem": "Cho các góc với số đo như dưới đây.\n\\(\\widehat A = 63^\\circ ;\\widehat M = 135^\\circ ;\\)\\(\\widehat B = 91^\\circ ;\\widehat T = 179^\\circ \\)\nTrong các góc đó, kể tên các góc nhọn , góc tù.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Góc nhọn là góc có số đo nhỏ hơn 90 độ.\nGóc vuông là góc có số đo bằng 90 độ.\nGóc tù là góc có số đo lớn hơn 90 độ và nhỏ hơn 180 độ.\nGóc bẹt là góc có số đo bằng 180 độ.\nLời giải chi tiết\nCác góc nhọn là : \\(\\widehat A = 63^\\circ \\) vì \\(63^0<90^0\\)\nCác góc tù là : \\(\\widehat M = 135^\\circ \\);  \\(\\widehat B = 91^\\circ ;\\widehat T = 179^\\circ \\) vì các góc này đều lớn hơn \\(90^\\circ \\) và nhỏ hơn \\(180^\\circ \\)"
+    },
+    {
+        "problem": "Quan sát hình ảnh mặt đồng hồ, em hãy tìm một thời điểm mà góc tạo bởi kim giờ và kim phút là:\na. Góc nhọn\nb. Góc vuông\nc. Góc tù\nd. Góc bẹt.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Góc nhọn là góc có số đo nhỏ hơn 90 độ.\nGóc vuông là góc có số đo bằng 90 độ.\nGóc tù là góc có số đo lớn hơn 90 độ và nhỏ hơn 180 độ.\nGóc bẹt là góc có số đo bằng 180 độ.\nLời giải chi tiết\nThời điểm mà góc tạo bởi kim giờ và kim phút là :\na. Góc nhọn lúc 12 giờ 10 phút\nb. Góc vuông lúc 3 giờ\nc. Góc tù lúc 7 giờ 15 phút\nd. Góc bẹt lúc 6 giờ."
+    }
+]

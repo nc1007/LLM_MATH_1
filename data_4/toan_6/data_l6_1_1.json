@@ -1,0 +1,188 @@
+[
+    {
+        "problem": "A. N \nB. N∗\nC.{N}\nD. Z",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTập hợp số tự nhiên kí hiệu là N.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Số tự nhiên liền sau số 2018 là\nA. 2016 \nB. 2017 \nC. 2019 \nD. 2020",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tự nhiên liền sau số 2018 là số 2018 + 1 = 2019.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Số tự nhiên nhỏ nhất là số\nA. 1 \nB. 0 \nC. 2 \nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTập hợp số tự nhiên N = {0; 1; 2; 3;...}\nNên số tự nhiên nhỏ nhất là số 0.0.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. Số liền trước số 1000 là\nA. 1002 \nB. 990\nC. 1001\nD. 999",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tự nhiên liền trước số 1000 là số 1000 – 1 = 999.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Phát biểu nào sau đây đúng?\nA. Nếu x∈N thì x∉N∗\nB. Nếu x∈N thì x∈N∗\nC. Nếu x∉N∗ thì x∉N\nD. Nếu x∈N∗ thì x∈N",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A sai vì:1 thuộc N và cũng thuộcN∗.\nĐáp án B sai vì: 0 thuộc N nhưng không thuộc N∗\nĐáp án C sai vì: 0 không thuộc N∗ nhưng 0 thuộc N.\nĐáp án D đúng vì: x∈N∗ có nghĩa là x là số tự nhiên khác 0, khi đó x là số tự nhiên, hay x thuộc N.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Cho n là một số tự nhiên lớn hơn 2 và nhỏ hơn 5. Khẳng định nào sau đây đúng?\nA. n nằm bên phải điểm 5 trên tia số\nB. n nằm bên trái điểm 2 trên tia số\nC. n nằm bên phải điểm 2 trên tia số\nD. n nằm bên phải điểm 5 và cách điểm 5 một đơn vị trên tia số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nn là một số tự nhiên lớn hơn 2nên n nằm bên phải điểm 2 => B sai, C đúng\nn là một số tự nhiên nhỏ hơn 5 nên n nằm bên trái điểm 2 =>A,D sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Thay a và b bằng một số tự nhiên phù hợp trong trường hợp sau:\n17, b, a là ba số lẻ liên tiếp tăng dần.\nA. a = 21, b = 19\nB. a = 19, b = 21\nC. a = 13, b = 15\nD. a = 15, b = 13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n17, b, a là ba số lẻ liên tiếp tăng dần nên các số đó lần lượt là 17, 19, 21.\nVậy a = 21, b = 19\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. a001¯a≠0 bằng:\nA.a001¯= a x 1000 + 0 x 100 + 0 x 10 + 1\nB.a001¯= 1000 + 0 x 100 + 0 x 10 + 1\nC.a001¯= a x 1000 + 1 x 100\nD.a001¯= a + 0 + 0 + 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố a là chữ số hàng nghìn nên ta nhân với 1000.\nHai số 0 lần lượt là hàng trăm (nhân với 100) và hàng chục (nhân với 10).\nSố 1 là chữ số hàng đơn vị (nhân với 1).\na001¯=a x 1000 + 0 x 100 + 0 x 10 + 1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Viết số 24 bằng số La Mã\nA. XXIIII\nB. XXIX\nC. XXIV\nD. XIV",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChữ số 4 là IV\nTa thêm XX vào bên trái số IV thì được số 24: XXIV\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Số La Mã XXIV biểu diễn số nào trong hệ thập phân?\nA. 26\nB. 16\nC. 14\nD. 24",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nX có giá trị bằng 10\nIV có giá trị bằng 4 nên số XXIV biểu diễn số 10 + 10 + 4 = 24\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11. Năm 2000 là thế kỉ bao nhiêu?\nA. XX\nB. XIX\nC. XXI\nD. XXX",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNăm cuối cùng của thế kỉ XX là 2000.\nNăm 2000 là thế kỉ XX.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về tập hợp số tự nhiên, ghi\nCâu 1. Cho hai số tự nhiên 99; 100. Hãy tìm số tự nhiên aa để ba số có được tạo thành ba số tự nhiên liên tiếp.\nA. 98\nB. 97\nC. 101\nD. Cả A, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố liền trước số 99 là 98 nên ba số tự nhiên liên tiếp là 98; 99; 100\nSố liền sau số 100 là 101 nên ba số tự nhiên liên tiếp là 99; 100; 101\nVậy cả hai số 98; 101 đều thỏa mãn yêu cầu đề bài.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Tìm các số tự nhiên a,b,ca,b,c sao cho 228 ≤ a < b < c ≤ 230.\nA. a = 228; b = 229; c = 230\nB. a = 227; b = 228; c = 229\nC. a = 229; b = 230; c = 231\nD. Không tồn tại a; b; c thỏa mãn đề bài.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTừ đề bài, ta thấy các số tự nhiên lớn hơn hoặc bằng 228 và nhỏ hơn hoặc bằng 230 là\n228; 229; 230.\nMà a < b < c nên ta có a = 228; b = 229; c = 230.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Thêm chữ số 7 vào đằng trước số tự nhiên có ba chữ số thì ta được số tự nhiên mới\nA. Hơn số tự nhiên cũ 700 đơn vị\nB. Kém số tự nhiên cũ 700 đơn vị\nC. Hơn số tự nhiên cũ 7000 đơn vị\nD. Kém số tự nhiên cũ 7000 đơn vị",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số có ba số ban đầu là abc¯ , viết thêm chữ số 7 vào đằng trước ta được 7abc¯.\nTa có 7abc¯=7000+abc¯ nên số mới hơn số cũ 7000 đơn vị.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Với ba chữ số 0; 1; 3 có thể viết được bao nhiêu số có ba chữ số khác nhau?\nA. 4 \nB. 3 \nC. 5 \nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCó bốn số tự nhiên thỏa mãn đề bài là 310; 301; 103; 130.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Số tự nhiên nhỏ nhất và số tự nhiên lớn nhất có bốn chữ số khác nhaulần lượt là\nA. 1234; 9876\nB. 1000; 9999\nC. 1023; 9876\nD. 1234; 9999",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tự nhiên nhỏ nhất có bốn chữ số khác nhau là 1023\nSố tự nhiên lớn nhất có bốn chữ số khác nhau là 9876\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Cho các chữ số 3; 1; 8; 0 thì số tự nhiên nhỏ nhất có bốn chữ số khác nhau được tạo thành là\nA. 1038 \nB. 1083\nC. 1308\nD. 1380",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTừ các chữ số 3; 1; 8; 0, để lập ra số tự nhiên nhỏ nhất gồm bốn chữ số khác nhau thì\n+ Hàng chục nghìn là chữ số nhỏ nhất và khác 0 nên chữ số hàng chục nghìn là 1.\n+ Chữ số hàng trăm là số nhỏ nhất trong ba số còn lại là 0\n+ Chữ số hàng chục là 3 và chữ số hàng đơn vị là 8.\nVậy số cần tìm là 1038.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Đọc các số La mã sau XI; XXII; XIV; LXXXV ?\nA. 11; 22; 14; 535\n B. 11; 21; 14; 85\nC. 11; 22; 16; 75\nD. 11; 22; 14; 85",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số La Mã XI; XXII; XIV; LXXXV\nlần lượt là 11; 22; 14; 85.\n+ Vì X = 10; I = 1 nên XI = 11\n+ Vì X = 10; I = 1 nên XXII = 10 + 10 + 1 + 1 = 22\n+ Vì X = 10; IV = 5 – 1 = 4 nên XIV = 14\n+ Vì L = 50; X = 10; V = 5 nên LXXXV = 50 + 10 + 10 + 10 + 5 = 85\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8. Viết các số tự nhiên sau bằng số La Mã: 54; 25; 89; 2000\nA. VIV; XXV; LLXXIX; ML\nB. LIV; XXV; LXXXIX; MM\nC. VIV; XXV; LXXXIX; LL\nD. VIV; XXV; LXXXVIIII; MM",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Vì 50 = L; 4 = IVnên 54 = LIV\n+ Vì 10 = X; V = 5 nên 25 = XXV\n+ 89 = 50 + 10 + 10 + 10 + 9 = LXXXIX\n+ 2000 = 1000 + 1000 = MM\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Viết tập hợp sau bằng cách liệt kê các phần tử: A = {a∈N∗| a < 5}\nA. A = {0; 1; 2; 3; 4}\nB. A = {1, 2, 3, 4}\nC. A = {1; 2; 3; 4; 5}\nD. A = {1; 2; 3; 4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số tự nhiên nhỏ hơn 5 là 0; 1; 2; 3; 4\nVì a∈N* nên a khác 0, do đó các phần tử của A là 1; 2; 3; 4\nVậy A = {1; 2; 3; 4}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Cho a là một số tự nhiên thỏa mãn 2 < a < 11. Khẳng định nào sau đây sai?\nA. a < 15\nB. 0 < a\nC. 0 < a < 15\nD. 2 < a < 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \na < 12 và 12 < 15 nên a < 15. A đúng.\na > 2 và 2 > 0 nên a > 0. B đúng\na > 0 và a < 15, ta viết lại là 0 < a < 15. C đúng.\nD sai vì: các số tự nhiên 2 < a < 11 có số 10. Mà 10 không thỏa mãn 2 < a < 10\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11. Theo dõi kết quả bán hàng trong một ngày của một cửa hàng , người ta nhận thấy:\n+) Số tiền thu được vào buổi sáng nhiều hơn vào buổi chiều\n+) Số tiền thu được vào buổi tối ít hơn vào buổi chiều.\nSo sánh số tiền thu được (đều là các số tự nhiên) của cửa hàng vào buổi sáng và buổi tối.\nA. Số tiền thu được vào buổi tối ít hơn vào buổi sáng.\nB. Số tiền thu được vào buổi tối bằng vào buổi sáng\nC. Số tiền thu được vào buổi tối nhiều hơn vào buổi sáng\nD. Không so sánh được",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tiền buổi sáng nhiều hơn buổi chiều.\nMà số tiền thu được vào buổi chiều nhiều hơn vào buổi tối vì số tiền thu được vào buổi tối ít hơn vào buổi chiều.\nDo đó số tiền buổi sáng nhiều hơn số tiền thu được buổi tối.\nVậy số tiền thu được buổi tối ít hơn số tiền thu được buổi sáng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12. Trong các số 3, 5, 8, 9, số nào thuộc tập hợp A = {x∈N| x ≥ 8}, số nào thuộc tập B = {x∈N| x < 5}?\nA. 9 thuộc A; 3 và 5 thuộc B\nB. 9 thuộc A; 3, 5, 8 thuộc B\nC. 8 và 9 thuộc A; 3 và 5 thuộc B\nD. 8 và 9 thuộc A; 3 thuộc B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = {x∈N| x ≥ 8} là tập hợp các số lớn hơn 8 và số 8\n=> A có 2 phần tử là số 8 và số 9\nB = {x∈N| x < 5} = {3}\nVậy 8 và 9 thuộc a; 3 thuộc B.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 13. Tìm chữ số thích hợp ở dấu * sao cho: 3359<33*9¯<3389\nA. Số 6\nB. Số 7\nC. Số 8\nD. Số 6 hoặc số 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDấu \"*\" ở hàng chục.\n3 359 và 33*9¯ và 3 389 đều có chữ số hàng nghìn, hàng trăm và hàng đơn vị bằng nhau nên 5<*<8.\nDấu \"*\" là số 6 hoặc số 7.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14. Viết các số sau theo thứ tự giảm dần:\n50 413 000, 39 502 403, 50 412 999, 39 502 413.\nA. 50 412 999, 50 413 000, 39 502 403, 39 502 413.\nB. 50 413 000, 50 412 999 , 39 502 413 , 39 502 403\nC. 50 413 000, 50 412 999, 39 502 403, 39 502 413\nD. 50 412 999, 50 413 000, 39 502 413, 39 502 403",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số trên đều có 8 chữ số.\nCó hai số có chữ số hàng chục triệu là 5 hai số 50 413 000 và 50 412 999 lớn hơn hai số còn lại.\n+) So sánh hai số 50 413 000 và 50 412 999 :\nSố 50 413 000 và 50 412 999 đều có chữ số hàng triệu đến hàng chục nghìn giống nhau.\nChữ số hàng nghìn của 50 413 000 là 3, chữ số hàng nghìn của 50 412 999 là 2. Số 3>2 nên số 50 413 000 > 50 412 999\n+) So sánh hai số 39 502 403 và39 502 413:\n39 502 403 < 39 502 413 vì chữ số hàng chục của 39 502 403 (Số 0) nhỏ hơn chữ số hàng chục của 39 502 413 (số 1).\nVậy 50 413 000>50 412 999>39 502 413>39 502 403.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15. Trên đồng hồ ghi số La Mã, 3 giờ 25 thì kim phút chỉ vào số mấy?\nA. III\nB. V\nC. VI\nD. VII",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố phút là 25 nên số La Mã chỉ số 5, số La Mã biểu diễn số 5 là V.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 16. Thêm một chữ số 88 vào sau số tự nhiên có ba chữ số thì ta được số tự nhiên mới\nA. tăng 8 đơn vị so với số tự nhiên cũ.\nB. tăng gấp 10 lần và thêm 8 đơnvị so với số tự nhiên cũ.\nC. tăng gấp 10 lần so với số tự nhiên cũ.\nD. giảm 10 lần và 8 đơnvị so với số tự nhiên cũ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nKhi thêm chữ số 8 vào đằng sau số có ba chữ số thì số 8 đứng ở vị trí hàng đơn vị, các chữ số của số đó dịch chuyển lên một hàng cao hơn, ta có abc8¯=abc¯.10+8 nên số đó được tăng gấp 10 lần và thêm 8 đơn vị.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 17. Có bao nhiêu số có ba chữ số mà tổng các chữ số bằng 10, chữ số hàng trăm lớn hơn chữ số hàng chục, chữ số hàng chục lớn hơn chữ số hàng đơn vị?\nA. 6 \nB. 7 \nC. 8 \nD. 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số cần tìm là abc¯ với 0 ≤ c < b < a ≤ 9; a + b + c = 10.\nNhận thấy\n a + b + c = 9 + 1 + 0= 8 + 2 + 0\n= 7 + 3 + 0 = 7 + 2 + 1\n= 6 + 3 + 1 = 6 + 4 + 0\n= 5 + 3 + 2 = 5 + 4 + 1\nNên có tám số thỏa mãn điều kiện bài toán là:\n910; 820; 730; 721; 631; 640; 532; 541.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 18. Có bao nhiêu số tự nhiên nhỏ hơn số 2002?\nA. 2002 \nB. 2001 \nC. 2003 \nD. 2000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số tự nhiênnhỏ hơn số 2002 là 0; 1; 2; 3; 4;...; 2001\nNên có 2001 – 0 + 1 = 2002 số tự nhiên nhỏ hơn 2002.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 19. Có bao nhiêu số chẵn nhỏ hơn 200?\nA. 101 \nB. 200\nC. 100\nD. 99",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số chẵn nhỏ hơn 200 là 0; 2; 4; 6;...; 198.\nVì hai số chẵn liên tiếp hơn kém nhau 2 đơn vị nên có (198 − 0):2 + 1 = 100\n số chẵn thỏa mãn đề bài.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 20. Có bao nhiêu số tự nhiên có ba chữ số?\nA. 901\nB. 899\nC. 900\nD. 999",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số tự nhiên có ba chữ số là 100; 101;...; 998; 999\nNên có 999 – 100 + 1 = 900 số tự nhiên có ba chữ số.\nĐáp án cần chọn là: C"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Số đo của BAC^ trong hình vẽ trên bằng:\nA. 20°;\nB. 40°;\nC. 80°;\nD. 120°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì AH⊥BCnên AHB^=AHC^=90°\nXét ∆ABH và ∆ACH có:\nAHB^=AHC^=90° (chứng minh trên),\nAB = AC (giả thiết),\nAH là cạnh chung\nDo đó ∆ABH = ∆ACH (cạnh huyền – cạnh góc vuông)\nSuy ra BAH^=CAH^ (cặp góc tương ứng)\nMà BAH^=40° nên CAH^=40°\nTa có BAC^=BAH^+CAH^\nSuy ra BAC^=40°+40°=80°\nVậy số đo góc BAC là 80°."
+    },
+    {
+        "problem": "Câu 13. Cho hai tam giác MNP và OHK có MN = OH, NP = HK. Điều kiện để ∆NMP = ∆HOK theo trường hợp cạnh – cạnh – cạnh là:\nA. MP = OH;\nB. MN = KH;\nC. MP = OK;\nD. Không có điều kiện nào thoả mãn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì ∆NMP = ∆HOK theo trường hợp cạnh – cạnh – cạnh mà MN = OH, NP = HK \nNên điều kiện còn thiếu là MP = OK.\nVậy ta chọn phương án C."
+    }
+]

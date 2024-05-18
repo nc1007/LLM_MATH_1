@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1. Khẳng định nào sau đây là sai?\nA. Tam giác đều có ba góc bằng nhau và bằng 60°;\nB. Tam giác đều có ba cạnh bằng nhau;\nC. Tam giác cân là tam giác đều;\nD. Tam giác đều là tam giác cân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTam giác đều là tam giác có ba cạnh bằng nhau. Vậy đáp án B đúng\nTam giác đều có mỗi góc bằng nhau và bằng 60°. Vậy đáp án A đúng\nTam giác đều cũng là tam giác cân nhưng tam giác cân chưa chắc là tam giác đều vì nó chỉ có hai cạnh bên bằng nhau.\nVậy đáp án D đúng, C sai."
+    },
+    {
+        "problem": "Câu 2. Cho tam giác ABC cân tại B. Chọn kết luận đúng nhất.\nA. Tam giác ABC có AB = AC;\nB. Tam giác ABC đều;\nC. Tam giác ABC có A^=C^ ;\nD. Tam giác ABC có AC = BC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có tam giác ABC cân tại B nên AB = BC. Do đó đáp án A và D sai.\nTam giác ABC chưa thể kết luận là tam giác đều vì thiếu điều kiện. Vậy đáp án B sai.\nTam giác ABC cân tại B có A^=C^ (hai góc ở đáy). Vậy đáp án C đúng."
+    },
+    {
+        "problem": "Câu 3. Tam giác cân là tam giác:\nA. có hai đường cao bằng nhau;\nB. có hai đường trung tuyến bằng nhau;\nC. có hai cạnh bên bằng nhau;\nD. có hai tia phân giác trong bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTam giác cân là tam giác có hai cạnh bên bằng nhau và hai góc ở đáy bằng nhau.\nVậy đáp án C đúng."
+    },
+    {
+        "problem": "Câu 4. Cho tam giác ABC cân tại A, biết góc B = 50°. Tính số đo các góc còn lại của tam giác đó.\nA. A^ = 50°, C^ = 80°;\nB. A^ = 80°, C^ = 50°;\nC. A^ = 40°, C^ = 90°;\nD. A^ = 90°, C^ = 40°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có tam giác ABC cân tại A suy ra B^=C^ = 50°.\nXét tam giác ABC có:\n A^+B^+C^ = 180° (tổng ba góc trong một tam giác).\nSuy ra = 180° − (B^+C^) \n= 180° − (50° + 50°) \n= 180° – 100° = 80°.\nVậy A^ = 80°; B^=50o;C^=50o."
+    },
+    {
+        "problem": "Câu 6. Cho tam giác ABC có B^=C^ = 45°. Khi đó tam giác ABC là tam giác gì? Chọn kết luận đúng nhất.\nA. Tam giác cân;\nB. Tam giác vuông;\nC. Tam giác đều;\nD. Tam giác vuông cân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nXét tam giác ABC có:\n A^+B^+C^ = 180° (tổng ba góc trong một tam giác).\nSuy ra A^ = 180° − (B^+C^) \n= 180° − (45° + 45°) = 180° – 90° = 90°.\nTam giác ABC có A^ = 90°; B^=C^ = 45° nên tam giác ABC là tam giác vuông cân."
+    },
+    {
+        "problem": "Câu 8. Một tam giác cân có góc ở đáy bằng 70° thì số đo góc ở đỉnh là:\nA. 54°;\nB. 63°;\nC. 70°;\nD. 40°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTổng số đo hai góc ở đáy bằng: 70°.2 = 140°.\nVì tổng ba góc trong tam giác bằng 180° nên số đo góc ở đỉnh tam giác cân này là:\n180° − 140° = 40°."
+    },
+    {
+        "problem": "Câu 9. Một tam giác cân có góc ở đáy bằng 52° thì số đo góc ở đỉnh là:\nA. 46°;\nB. 64°;\nC. 67°;\nD. 76°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTổng số đo hai góc ở đáy bằng: 52°.2 = 104°.\nVì tổng ba góc trong tam giác bằng 180° nên số đo góc ở đỉnh tam giác cân này là:\n180° − 104° = 76°."
+    },
+    {
+        "problem": "Câu 13. Cho tam giác ABC có A^ = 90°, AB = AC. Chọn khẳng định đúng nhất.\nA. ∆ABC là tam giác vuông;\nB. ∆ABC là tam giác vuông cân;\nC. ∆ABC là tam giác cân;\nD. ∆ABC là tam giác đều.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nXét tam giác ABC có: A^ = 90°; AB = AC.\nVậy tam giác ABC là tam giác vuông cân tại A."
+    },
+    {
+        "problem": "Câu 15. Một tam giác cân có góc ở đáy bằng 40° thì số đo góc ở đỉnh là:\nA. 100°;\nB. 40°;\nC. 140°;\nD. 50°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGiả sử tam giác ABC cân tại A ta có: B^=C^ = 40°.\nXét tam giác ABC có:\n A^+B^+C^ = 180° (tổng ba góc trong một tam giác).\nDo đó A^ = 180° − B^ − C^ = 180° − 40° − 40° = 100°.\nVậy số đo góc ở đỉnh là 100°."
+    }
+]

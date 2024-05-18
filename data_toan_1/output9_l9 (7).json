@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Lần lượt chia 12 cho các số từ 1 đến 12, em hãy viết tập hợp tất cả các ước của 12.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia 12 cho các số tự nhiên từ 1 đến 12.\nSố tự nhiên a mà 12 chia hết cho a thì a là 1 phần tử của tập hợp.\nViết tập hợp bằng cách liệt kê.\nLời giải chi tiết\nChia 12 cho các số tự nhiên từ 1 đến 12, ta được:\n12:1 = 12 ; 12:2 = 6; 12:3 = 4 ; 12:4 = 3 ; 12: 5 = 2(dư 2); 12:6 = 2; 12:7 =1(dư 5); 12:8 = 1 (dư 4) ; 12:9 = 1(dư 3) ; 12:10 = 1 (dư 2) ; 12:11  =1 (dư 1) ; 12:12 = 1.\nVì 12 chia hết cho 1,2,3,4,6,12 nên các ước của 12 là: 1;2;3;4;6;12.\nTập hợp các ước của 12 là A = {1; 2; 3; 4; 6; 12}"
+    },
+    {
+        "problem": "Bằng cách nhân 8 với 0, 1, 2,... em hãy viết các bội của 8 nhỏ hơn 80.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Nhân 8 với 0, 1, 2,...\n+Viết tập hợp bằng cách liệt kê.\nLời giải chi tiết\nTập hợp các bội của 8 nhỏ hơn 80 là B = {0; 8; 16; 24; 32; 40; 48; 56; 64; 72}"
+    },
+    {
+        "problem": "a) Hãy tìm tất cả các ước của 20;\nb) Hãy tìm tất cả các bội nhỏ hơn 50 của 4.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a chia hết cho b, ta nói b là ước của a và a là bội của b.\nLời giải chi tiết\n+ Lần lượt chia 20 cho các số tự nhiên từ 1 đến 20, ta thấy 20 chia hết cho 1; 2; 4; 5; 10; 20\nTa được: Tất cả các ước của 20 là: 1; 2; 4; 5; 10; 20\n+ Lần lượt nhân 4 với 0; 1; 2; 3; … ta được các bội của 4 là: 0; 4; 8; 12; 16; 20; 24; 28; 32; 36; 40; 44; 48; 52;…\nTa được: Tất cả các bội nhỏ hơn 50 của 4 là: 0; 4; 8; 12; 16; 20 ;24; 28; 32; 36; 40; 44; 48."
+    },
+    {
+        "problem": "Hãy tìm ba ước khác nhau của 12 sao cho tổng của chúng bằng 12.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm tất cả các ước của 12 sau đó chọn ra ba ước có tổng là 12\nLời giải chi tiết\n+ Lần lượt chia 12 cho các số tự nhiên từ 1 đến 12, ta thấy 12 chia hết cho 1; 2; 3; 4; 6; 12\nVậy các ước của 12 là: 1; 2; 3; 4; 6; 12\n+ Ta thấy: 12 = 2 + 4 + 6.\nBa ước khác nhau của 12 có tổng là 12: 2; 4; 6"
+    },
+    {
+        "problem": "Viết hai số chia hết cho 5. Tổng của chúng có chia hết cho 5 không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm hai bội của 5 rồi tính tổng và xét xem chúng có chia hết cho 5 không?\nLời giải chi tiết\nHai số chia hết cho 5 là: 15 và 20.\nTổng của chúng là:15 + 20 = 35 chia hết cho 5."
+    },
+    {
+        "problem": "Viết ba số chia hết cho 7. Tổng của chúng có chia hết cho 7 không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm ba số chia hết cho 7 rồi tính tổng và xét xem nó có chia hết cho 7 hay không\nLời giải chi tiết\nChọn ba số chia hết cho 7 là: 7 ; 21; 70.\nTổng của chúng là: 7 + 21 + 70 = 98 chia hết cho 7."
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy cho biết:\na) 24 + 48 có chia hết cho 4 không? Vì sao?\nb) 48 + 12 – 36 có chia hết cho 6 không? Vì sao?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu tất cả các số hạng của một tổng đều chia hết cho cùng một số thì tổng chia hết cho số đó.\n• Nếu a\\( \\vdots \\)m và b\\( \\vdots \\)m thì (a + b) \\( \\vdots \\)m.\n• Nếu a\\( \\vdots \\)m, b\\( \\vdots \\)m và c\\( \\vdots \\)m thì (a + b + c) \\( \\vdots \\)m.\nLời giải chi tiết\na) 24 + 48\\( \\vdots \\) 4 vì 24\\( \\vdots \\) 4 và 48 \\( \\vdots \\) 4\nb) 48 + 12 - 36 \\( \\vdots \\) 6 vì 48 c\\( \\vdots \\) 6; 12 \\( \\vdots \\) 6 và 36 \\( \\vdots \\) 6"
+    },
+    {
+        "problem": "Hãy tìm x thuộc tập {1; 14; 16; 22; 28}, biết tổng 21 + x chia hết cho 7.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)m và b\\( \\vdots \\)m thì (a + b) \\( \\vdots \\)m.\nLời giải chi tiết\nTổng (21 + x) \\( \\vdots \\) 7. Mà 21 \\( \\vdots \\) 7 nên x cũng \\( \\vdots \\) 7.\nMà x \\( \\in \\) {1; 14; 16; 22; 28} nên x = 14 hoặc x = 28."
+    },
+    {
+        "problem": "Hãy viết hai số, trong đó một số chia hết cho 5 và số còn lại không chia hết cho 5.\nTổng của chúng có chia hết cho 5 không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết 1 số chia hết cho 5 và 1 số không chia hết cho 5\nTính tổng của 2 số đó, xét xem kết quả có chia hết cho 5 hay không.\nChú ý: Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5.\nLời giải chi tiết\nChọn 15 \\( \\vdots \\) 5; 8 \\(\\not{ \\vdots }\\) 5\nTổng 15 + 8 = 23 \\(\\not{ \\vdots }\\) 5"
+    },
+    {
+        "problem": "Hãy viết ba số, trong đó hai số chia hết cho 4 và số còn lại không chia hết cho 4. Tổng của chúng có chia hết cho 4 không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết 2 số chia hết cho 4 và 1 số không chia hết cho 4\nTính tổng của 3 số đó, xét xem kết quả có chia hết cho 4 hay không.\nLời giải chi tiết\n3 số em chọn là: 12; 20; 5.\nVì 12 \\( \\vdots \\) 4; 20 \\( \\vdots \\) 4; 5 \\(\\not{ \\vdots }\\) 4\nNên tổng 12 + 20 + 5 = 37 \\(\\not{ \\vdots }\\) 4\nChú ý: Ta có thể chọn 3 số khác, trong đó có 2 số chia hết cho 4 và 1 số không chia hết cho 4."
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy cho biết:\na) 20 + 81 có chia hết cho 5 không? Vì sao?\nb) 34 + 28 – 12 có chia hết cho 4 không? Vì sao?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)m và b \\(\\not{\\vdots}\\) m thì (a + b) \\(\\not{\\vdots}\\) m.\nNếu a\\( \\vdots \\)m, b\\( \\vdots \\)m và c \\(\\not{\\vdots}\\) m thì (a + b + c) \\(\\not{\\vdots}\\) m.\nLời giải chi tiết\na) (20 + 81) \\(\\not{\\vdots}\\) 5 vì 20 \\( \\vdots \\) 5 nhưng 81 \\(\\not{\\vdots}\\) 5\nb) (34 + 28 - 12) \\(\\not{\\vdots}\\) 4 vì 28 \\( \\vdots \\) 4, 12 \\( \\vdots \\) 4 nhưng 34 \\(\\not{\\vdots}\\) 4."
+    },
+    {
+        "problem": "Tìm x thuộc tập (5; 25; 39; 54} sao cho tổng 20 + 45 + x không chia hết cho 5.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)m, b\\( \\vdots \\)m và c \\(\\not{ \\vdots }\\) m thì (a + b + c) \\(\\not{ \\vdots }\\) m.\nLời giải chi tiết\nTổng (20 + 45 + x) \\(\\not{ \\vdots }\\) 5. Mà 20 \\( \\vdots \\) 5; 45 \\( \\vdots \\) 5 nên x \\(\\not{ \\vdots }\\) 5.\nMặt khác: x \\( \\in \\) {5; 25; 39; 54}\nDo đó: x = 39 hoặc x = 54."
+    },
+    {
+        "problem": "Hãy tìm các ước của mỗi số sau: 30; 35; 17.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm các ước của a (a > 1), ta lần lượt chia a cho các số tự nhiên từ 1 đến a để xem a chia hết cho số nào thì số đó là ước của a.\nLời giải chi tiết\nƯ(30) = {1; 2; 3; 5; 6; 10; 15; 30}\nƯ(35) = {1; 5; 7; 35}\nƯ(17) = {1; 17}"
+    },
+    {
+        "problem": "Trong các số sau, số nào là bội của 4?\n16; 24; 35.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để kiểm tra 1 số có phải là bội của 4 hay không, ta chia số đó cho 4\n+ Nếu phép chia hết thì số đó là bội của 4\n+ Nếu phép chia có dư thì số đó không là bội của 4\nLời giải chi tiết\nTa có: 16 : 4 = 4; 24 : 4 = 6; 35 : 4 = 8 dư 3\n=> Các số là bội của 4 trong 3 số trên là: 16; 24"
+    },
+    {
+        "problem": "Tìm các số tự nhiên x, y sao cho\na) x \\( \\in \\) B(7) và x < 70;\nb) y \\( \\in \\) Ư(50) và y > 5.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn tìm các ước của a (a > 1), ta lần lượt chia a cho các số tự nhiên từ 1 đến a để xem a chia hết cho số nào thì số đó là ước của a.\n- Ta có thể tìm các bội của một số khác bằng cách nhân số đó lần lượt với 0, 1, 2, 3,...\nLời giải chi tiết\na) Nhân 7 với 0; 1; 2; 3; 4; 5; … ta được các bội của 7 là: 0; 7; 14; 21; 28; 35; 42; 49; 56; 63; 70;…\nTa được B(7) = {0; 7; 14; 21; 28; 35; 42; 49; 56; 63; 70;…}. Mà x ∈ B(7) và x < 70\nVậy x ∈ {0; 7; 14; 21; 28; 35; 42; 49; 56; 63}.\nb) Chia 50 cho các số từ 1 đến 50, ta thấy 50 chia hết cho 1; 2; 5; 10; 25; 50 nên\nƯ(50) = {1; 2; 5; 10; 25; 50}. Mà y ∈ Ư(50) và y > 5\nVậy y ∈ {10; 25; 50}."
+    }
+]

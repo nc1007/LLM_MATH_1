@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "B. \\frac{x}{3}=\\frac{y}{5}=\\frac{z}{4};\nC. \\frac{x}{4}=\\frac{y}{3}=\\frac{z}{5};\nD. \\frac{x}{4}=\\frac{y}{5}=\\frac{z}{3}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nDãy tỉ số bằng nhau thể hiện ba số x, y, z lần lượt tỉ lệ với các số 3; 5; 4 là:\n\\frac{x}{3}=\\frac{y}{5}=\\frac{z}{4};"
+    },
+    {
+        "problem": "Câu 2. Cho xy = zt và x, y, z, t ≠ 0. Chọn câu đúng.\nA. \\frac{x}{z}=\\frac{t}{y};\\frac{x}{t}=\\frac{z}{y};\\frac{y}{z}=\\frac{t}{x};\\frac{y}{t}=\\frac{z}{x};\nB. \\frac{x}{z}=\\frac{t}{y};\\frac{x}{t}=\\frac{z}{y};\\frac{y}{z}=\\frac{t}{x};\\frac{t}{y}=\\frac{z}{x};\nC. \\frac{x}{z}=\\frac{t}{y};\\frac{x}{t}=\\frac{z}{y};\\frac{t}{x}=\\frac{z}{y};\\frac{y}{t}=\\frac{z}{x};\nD. \\frac{x}{z}=\\frac{t}{y};\\frac{x}{t}=\\frac{z}{y};\\frac{y}{z}=\\frac{t}{x};\\frac{t}{y}=\\frac{z}{x}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là A.\nTừ đẳng thức xy = zt ta suy ra: \\frac{x}{z}=\\frac{t}{y};\\frac{x}{t}=\\frac{z}{y};\\frac{y}{z}=\\frac{t}{x};\\frac{y}{t}=\\frac{z}{x}.\nDo đó phương án A đúng."
+    },
+    {
+        "problem": "Câu 3. Chọn câu đúng. Với các điều kiện các phân thức có nghĩa thì:\nA. \\frac{x}{a}=\\frac{y}{b}=\\frac{x+y}{a-b};\nB. \\frac{x}{a}=\\frac{y}{b}=\\frac{x-y}{a+b};\nC. \\frac{x}{a}=\\frac{y}{b}=\\frac{x+y}{a+b};\nD. \\frac{x}{a}=\\frac{y}{b}=\\frac{x+b}{a+y}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ tỉ lệ thức \\frac{x}{a}=\\frac{y}{b} áp dụng tính chất dãy tỉ số bằng nhau ta có: \\frac{x}{a}=\\frac{y}{b}=\\frac{x+y}{a+b}.\nVậy \\frac{x}{a}=\\frac{y}{b}=\\frac{x+y}{a+b}."
+    },
+    {
+        "problem": "Câu 4. Hai số x, y thoả mãn \\frac{x}{2}=\\frac{y}{-3} và x + y = 9 là:\nA. x = –1 và y = 10;\nB. x = −9 và y = 18;\nC. x = 18 và y = −27;\nD. x = −18 và y = 27.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTừ tỉ lệ thức \\frac{x}{2}=\\frac{y}{-3} và x + y = 9, áp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{2}=\\frac{y}{−3}=\\frac{x+y}{2+−3}=\\frac{9}{−1}=−9\nSuy ra:\n+) \\frac{x}{2}=−9 do đó x = (–9).2 = –18;\n+) \\frac{y}{-3}=-9 do đó y = (–9).(–3) = 27.\nVậy x = –18 và y = 27."
+    },
+    {
+        "problem": "Câu 5. Cho \\frac{x}{3}=\\frac{y}{5} và x + y = 24. Giá trị của 3x + 5y là:\nA. 132;\nB. 80; \nC. 102;\nD. 78.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ tỉ lệ thức \\frac{x}{3}=\\frac{y}{5} và x + y = 24 áp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{3}=\\frac{y}{5}=\\frac{x+y}{3+5}=\\frac{24}{8}=3.\nSuy ra: \n+) \\frac{x}{3}=3 do đó x = 3.3 = 9;\n+) \\frac{y}{5}=3 do đó y = 3.5 = 15.\nKhi đó 3x + 5y = 3.9 + 5.15 = 102.\nVậy 3x + 5y = 102."
+    },
+    {
+        "problem": "Câu 6. Cho 5x = 4y và y – x = −3. Giá trị của x và y là:\nA. x = 12 và y = −15;\nB. x = −12 và y = 15;\nC. x = −12 và y = −15;\nD. x = 12 và y = 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ đẳng thức 5x = 4y ta có \\frac{x}{4}=\\frac{y}{5}.\nTừ tỉ lệ thức \\frac{x}{4}=\\frac{y}{5} và y – x = −3, áp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{4}=\\frac{y}{5}=\\frac{y−x}{5−4}=\\frac{−3}{1}=−3.\nSuy ra:\n+) \\frac{x}{4}=−3 do đó x = (−3).4 = −12.\n+) \\frac{y}{5}=−3 do đó y = (−3).5 = −15.\nVậy x = −12 và y = −15."
+    },
+    {
+        "problem": "Câu 7. Biết \\frac{x}{y}=\\frac{9}{11} và x + y = 60. Giá trị x và y là:\nA. x = 27; y = 33;\nB. x = 33; y = 27;\nC. x = 27; y = 44;\nD. x = 27; y = 34.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTừ tỉ lệ thức \\frac{x}{y}=\\frac{9}{11} ta có \\frac{x}{9}=\\frac{y}{11}.\nÁp dụng tính chất dãy tỉ số bằng nhau ta có: \\frac{x}{9}=\\frac{y}{11}=\\frac{x+y}{9+11}=\\frac{60}{20}=3.\nSuy ra:\n+) \\frac{x}{9}=3 do đó x = 3.9 = 27;\n+) \\frac{y}{11}=3 do đó y = 3.11 = 33.\nVậy x = 27; y = 33."
+    },
+    {
+        "problem": "Câu 8. Khẳng định nào sau đây là đúng?\nA. \\frac{x}{3}=\\frac{y}{5}=\\frac{2x+3y}{15}; \nB. \\frac{x}{4}=\\frac{y}{5}=\\frac{2x+4y}{28};\nC. \\frac{x}{3}=\\frac{y}{7}=\\frac{x+3y}{25}; \nD. \\frac{x}{5}=\\frac{y}{6}=\\frac{2x+y}{15}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n+) \\frac{x}{3}=\\frac{y}{5}=\\frac{2x}{6}=\\frac{3y}{15}=\\frac{2x+3y}{6+15}=\\frac{2x+3y}{21}. Do đó phương án A là sai.\n+) \\frac{x}{4}=\\frac{y}{5}=\\frac{2x}{8}=\\frac{4y}{20}=\\frac{2x+4y}{8+20}=\\frac{2x+4y}{28}. Do đó phương án B là đúng.\n+) \\frac{x}{3}=\\frac{y}{7}=\\frac{3y}{21}=\\frac{x+3y}{3+21}=\\frac{x+3y}{24}. Do đó phương án C là sai.\n+) \\frac{x}{5}=\\frac{y}{6}=\\frac{2x}{10}=\\frac{2x+y}{10+6}=\\frac{2x+y}{16}. Do đó phương án D là sai."
+    },
+    {
+        "problem": "Câu 9. Chọn câu đúng. \nTìm x, y, z biết \\frac{x}{2}=\\frac{y}{3};\\frac{y}{4}=\\frac{z}{5} và x + y – z = 20.\nA. x = 32; y = 48; z = 50;\nB. x = 32; y = 48; z = 60;\nC. x = 32; y = 44; z = 50;\nD. x = 30; y = 48; z = 50;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTừ tỉ lệ thức \\frac{x}{2}=\\frac{y}{3} suy ra \\frac{x}{8}=\\frac{y}{12};\nTừ tỉ lệ thức \\frac{y}{4}=\\frac{z}{5} suy ra \\frac{y}{12}=\\frac{z}{15} \nDo đó \\frac{x}{8}=\\frac{y}{12}=\\frac{z}{15}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{8}=\\frac{y}{12}=\\frac{z}{15}=\\frac{x+y−z}{8+12−15}=\\frac{20}{5}=4.\nSuy ra:\n+) \\frac{x}{8}=4 do đó x = 4.8 = 32;\n+) \\frac{y}{12}=4 do đó y = 4.12 = 48;\n+) \\frac{z}{15}=4 do đó z = 4.15 = 60.\nVậy x = 32; y = 48; z = 60."
+    },
+    {
+        "problem": "Câu 10. Chia số 96 thành bốn phần tỉ lệ với các số 3; 5; 7; 9. Các số đó theo thứ tự tăng dần là:\nA. 12; 24; 28; 36;\nB. 36; 28; 20; 12;\nC. 12; 28; 20; 36;\nD. 12; 20; 28; 36.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nGiả sử bốn số cần tìm theo thứ tự tăng dần là x, y, z, t.\nBốn số này lần lượt tỉ lệ với các số 3; 5; 7; 9 nên ta có \\frac{x}{3}=\\frac{y}{5}=\\frac{z}{7}=\\frac{t}{9}.\nVà bốn số này được chia từ số 96 nên x + y + z + t = 96.\nÁp dụng tính chất dãy tỉ số bằng nhau ta có: \n\\frac{x}{3}=\\frac{y}{5}=\\frac{z}{7}=\\frac{t}{9}=\\frac{x+y+z+t}{3+5+7+9}=\\frac{96}{24}=4\nSuy ra:\n+) \\frac{x}{3}=4 do đó x = 3.4 = 12;\n+) \\frac{y}{5}=4 do đó y = 4.5 = 20;\n+) \\frac{z}{7}=4 do đó z = 4.7 = 28;\n+) \\frac{t}{9}=4 do đó t = 4.9 = 36.\nVậy x = 12; y = 20; z = 28; t = 36."
+    },
+    {
+        "problem": "Câu 11. Một hình chữ nhật có chu vi 50 cm, tỉ số giữa hai cạnh bằng \\frac{3}{2} thì diện tích của hình chữ nhật là:\nA. 150 cm^{2} ;\nB. 200 cm^{2} ;\nC. 250 cm^{2} ;\nD. 300 cm^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nGọi chiều dài và chiều rộng của hình chữ nhật lần lượt là x, y (cm) (x, y > 0)\nTỉ số giữa hai cạnh bằng \\frac{3}{2} nên ta có \\frac{x}{y}=\\frac{3}{2} suy ra \\frac{x}{3}=\\frac{y}{2}\nNửa chu vi của hình chữ nhật là 50 : 2 = 25 (cm).\nKhi đó x + y = 25.\nÁp dụng tính chất dãy tỉ số bằng nhau ta có \\frac{x}{3}=\\frac{y}{2}=\\frac{x+y}{3+2}=\\frac{25}{5}=5\nSuy ra:\n+) \\frac{x}{3}=5 do đó x = 3.5 = 15;\n+) \\frac{y}{2}=5 do đó y = 5.2 = 10.\nVậy hình chữ nhật có chiều dài là 15 cm, chiều rộng là 10 cm.\nDiện tích của hình chữ nhật là: 15 . 10 = 150 cm^{2} .\nVậy diện tích của hình chữ nhật là 150 cm^{2} ."
+    },
+    {
+        "problem": "Câu 12. Có bao nhiêu bộ số x, y thỏa mãn \\frac{x}{5}=\\frac{y}{4}và x^{2}  – y^{2}  = 9?\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTừ tỉ lệ thức \\frac{x}{5}=\\frac{y}{4}ta có \\frac{x}{5}2=\\frac{y}{4}2hay \\frac{x2}{25}=\\frac{y2}{16}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x2}{25}=\\frac{y2}{16}=\\frac{x2−y2}{25−16}=\\frac{9}{9}=1\nSuy ra:\n+) \\frac{x2}{25}=9 do đó x^{2}  = 9.25 = 225 = 15^{2}  = (−15)^{2}  nên x = 15 hoặc x = −15.\n+) \\frac{y2}{16}=9 do đó y^{2}  = 9.16 = 144 = 12^{2}  = (−12)^{2}  nên y = 12 hoặc y = −12.\nVậy có hai bộ số thoả mãn yêu cầu đề bài là (x;y) = (15;12); (x;y) = (−15;−12)."
+    },
+    {
+        "problem": "Câu 13. Cho \\frac{x}{5}=\\frac{y}{4} và xy = 180. Giá trị x và y là: (x;y) = ?\nA. (15;12);\nB. (−15;−12);\nC. (15;12); (−15;−12);\nD. (−15;12); (15;−12).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ tỉ lệ thức \\frac{x}{5}=\\frac{y}{4} ta có \\frac{x}{5}2=\\frac{y}{4}2=\\frac{x}{5}.\\frac{y}{4}\nHay \\frac{x2}{25}=\\frac{y2}{16}=\\frac{xy}{20}=\\frac{180}{20}=9\nSuy ra:\n+) \\frac{x2}{25}=9 do đó x^{2}  = 9.25 = 225 = 15^{2}  = (−15)^{2}  nên x = 15 hoặc x = −15.\n+) \\frac{y2}{16}=9 do đó y^{2}  = 9.16 = 144 = 12^{2}  = (−12)^{2}  nên y = 12 hoặc y = −12.\nVậy giá trị x và y thoả mãn yêu cầu đề bài là (x;y) = (15;12); (x;y) = (−15;−12)."
+    },
+    {
+        "problem": "Câu 14. Các số x, y, z thoả mãn \\frac{x}{3}=\\frac{y}{5}=\\frac{z}{7} và 2x – y + 3z = 110 là:\nA. x = −15; y = −25; z = −35;\nB. x = −15; y = 25; z = 35;\nC. x = 15; y = −25; z = 35; \nD. x = 15; y = 25; z = 35.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTừ dãy tỉ số bằng nhau \\frac{x}{3}=\\frac{y}{5}=\\frac{z}{7} và 2x – y + 3z = 110, áp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{3}=\\frac{y}{5}=\\frac{z}{7}=\\frac{2x}{6}=\\frac{y}{5}=\\frac{3z}{21}=\\frac{2x−y+3z}{6−5+21}=\\frac{110}{22}=5\nSuy ra:\n+) \\frac{x}{3}=5 do đó x = 5.3 = 15;\n+) \\frac{y}{5}=5 do đó y = 5.5 = 25;\n+) \\frac{z}{7}=5 do đó z = 5.7 = 35.\nVậy x = 15; y = 25; z = 35."
+    },
+    {
+        "problem": "Câu 15. Tìm các số x, y, z biết \\frac{x−1}{2}=\\frac{y−2}{3}=\\frac{z−3}{4} và x – y + z = −4.\nA. x = 3; y = −4; z = −5;\nB. x = −3; y = −4; z = −5;\nC. x = 3; y = 4; z = −5;\nD. x = −3; y = −4; z = 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTừ dãy tỉ số bằng nhau \\frac{x−1}{2}=\\frac{y−2}{3}=\\frac{z−3}{4}, áp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x−1}{2}=\\frac{y−2}{3}=\\frac{z−3}{4}=\\frac{x−1−y−2+z−3}{2−3+4}=\\frac{x−1−y+2+z−3}{2−3+4}\n=\\frac{x−y+z−2}{3}=\\frac{−4−2}{3}=\\frac{−6}{3}=−2.\nSuy ra:\n+) \\frac{x-1}{2}=-2 do đó x – 1 = −2.2 \nSuy ra x – 1 = −4 \nx = −4 + 1 \nx = −3.\n+) \\frac{y−2}{3}=−2 do đó y – 2 = −2.3\nSuy ra y – 2 = −6\ny = −6 + 2\ny = −4.\n+) \\frac{z−3}{4}=−2 do đó z – 3 = −2.4\nSuy ra z – 3 = −8\nz = −8 + 3\nz = −5.\nVậy x = −3; y = −4; z = −5."
+    }
+]

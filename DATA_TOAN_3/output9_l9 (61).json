@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Biết \\(\\sqrt {9,119}  \\approx 3,019\\). Hãy tính:\n\\(\\sqrt {911,9} \\);            \\(\\sqrt {91190}\\);\n\\(\\sqrt {0,09119} \\);           \\(\\sqrt {0,0009119} \\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức  \\(\\sqrt{ab}=\\sqrt{a}.\\sqrt{b}\\),   với \\(a,\\ b \\ge 0\\) để biến đổi sao cho xuất hiện \\(\\sqrt {9,119}\\) để sử dụng dữ kiện đề bài.\nLời giải chi tiết\nTa có:\n+ \\(\\sqrt {911,9} =\\sqrt {9,119.100}=\\sqrt{9,119}.\\sqrt{100}\\)\n\\(=\\sqrt{9,119}.\\sqrt{10^2}=\\sqrt{9,119}.10 \\)\n\\(\\approx 3,019.10=30,19.\\)\n+ \\(\\sqrt {91190} =\\sqrt {9,1190.10000}=\\sqrt{9,119}.\\sqrt{10000}\\)\n\\(=\\sqrt{9,119}.\\sqrt{100^2}=\\sqrt{9,119}.100 \\)\n\\(\\approx 3,019.100=301,9.\\)\n(vì \\(9,1190=9,119\\))\n+\\(\\sqrt {0,09119} =\\sqrt {9,119.0,01}=\\sqrt{9,119}.\\sqrt{0,01}\\)\n\\(=\\sqrt{9,119}.\\sqrt{0,1^2}=\\sqrt{9,119}.0,1 \\)\n\\(\\approx 3,019.0,1=0,3019.\\)\n+ \\(\\sqrt {0,0009119} =\\sqrt {9,119.0,0001}=\\sqrt{9,119}.\\sqrt{0,0001}\\)\n\\(=\\sqrt{9,119}.\\sqrt{0,01^2}=\\sqrt{9,119}.0,01 \\)\n\\(\\approx 3,019.0,01=0,03019.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với \\(a \\ge 0;\\,\\,b \\ge 0\\) , chứng tỏ \\(\\sqrt {\\left( {{a^2}b} \\right)}  = a\\sqrt b \\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức khai phương một tích: \\(\\sqrt {A.B}=\\sqrt {A}.\\sqrt {B}\\) với \\(A,B \\ge 0\\)\nSử dụng hằng đẳng thức \\( \\sqrt {A^2}=A\\) với \\(A\\ge 0 .\\)\nLời giải chi tiết\n\\(\\sqrt {\\left( {{a^2}b} \\right)}  = \\sqrt {{{a^2}}}. \\sqrt b  =|a|\\sqrt b= a\\sqrt b \\,\\,\\left( {do\\,\\,a \\ge 0,\\,\\,b \\ge 0} \\right)\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đưa thừa số vào trong dấu căn:\n\\(3\\sqrt{5};\\,\\,-5\\sqrt{2};\\,\\, -\\dfrac{2}{3}\\sqrt{xy}\\)  với  \\(xy\\geq 0;\\,\\, x\\sqrt{\\dfrac{2}{x}}\\) với \\(x > 0.\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng quy tắc đưa thừa số vào trong dấu căn:\n\\(A\\sqrt{B}=\\sqrt{A^2.B}\\),  nếu \\(A \\ge 0,\\ B \\ge 0\\).\n\\(A\\sqrt{B}=-\\sqrt{A^2.B}\\),  nếu \\(A < 0,\\ B\\ge 0\\).\nLời giải chi tiết\nTa có:\n+)  \\(3\\sqrt{5}=\\sqrt{3^2.5}=\\sqrt{9.5}=\\sqrt{45}.\\)\n+)  \\(-5\\sqrt{2}=-\\sqrt{5^2.2}=-\\sqrt{25.2}=-\\sqrt{50}.\\)\n+) Với \\(xy \\ge 0\\) thì \\(\\sqrt{xy}\\) có nghĩa nên ta có:\n\\(-\\dfrac{2}{3}\\sqrt{xy}= - \\sqrt {{{\\left( {\\dfrac{2}{3}} \\right)}^2}.xy}=- \\sqrt {\\dfrac{4}{9}xy}.\\)\n+) Với \\(x>0\\) thì \\(\\sqrt {\\dfrac{2}{x}}\\) có nghĩa nên ta có:\n\\(x\\sqrt {\\dfrac{2}{x}}  = \\sqrt {{x^2}.\\dfrac{2}{x}} = \\sqrt {\\dfrac{x^2.2}{x}}\\)\\(  = \\sqrt {\\dfrac{2x.x}{x}}  = \\sqrt {2x}.\\)"
+    }
+]

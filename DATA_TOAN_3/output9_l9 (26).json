@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Cho hàm số \\(y = f\\left( x \\right) = a{x^2},a \\ne 0.\\) Vì sao với hai giá trị đối nhau của \\(x\\) thì hai giá trị tương ứng của hàm số lại bằng nhau\\(?\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức:\n+) Giá trị đối của \\(x\\) là \\(-x\\).\n+)  \\((-a)^2=a^2.\\)\nLời giải chi tiết\nHàm số \\(y = f\\left( x \\right) = a{x^2}(a \\ne 0)\\)\nTa có giá trị đối của \\(x\\) là \\(–x\\)\nNên \\( f\\left( x \\right) =ax^2; f\\left( { - x} \\right)=a(-x)^2=ax^2\\)\n\\(\\Rightarrow f\\left( x \\right) = f\\left( { - x} \\right)\\)\nVậy với hai giá trị đối nhau của \\(x\\) thì giá trị tương ứng của hàm số bằng nhau.\nLoigiaihay.com"
+    }
+]

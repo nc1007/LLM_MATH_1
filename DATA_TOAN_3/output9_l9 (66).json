@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Cho hàm số \\(\\displaystyle y = {1 \\over 2}x + 5\\)\nTính f(0);    f(1);    f(2);   f(3);     f(-2);     f(-10)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay từng giá trị của  x vào hàm số \\(\\displaystyle y = {1 \\over 2}x + 5\\) rồi tính toán.\nLời giải chi tiết\n\\(\\eqalign{& f\\left( 0 \\right) = {1 \\over 2}.0 + 5 = 5  \\cr & f\\left( 2 \\right) = {1 \\over 2}.2 + 5 = 6  \\cr & f\\left( 3 \\right) = {1 \\over 2}.3 + 5 = {{13} \\over 2}  \\cr & f\\left( { - 2} \\right) = {1 \\over 2}.\\left( { - 2} \\right) + 5 = 4  \\cr & f\\left( { - 10} \\right) = {1 \\over 2}.\\left( { - 10} \\right) + 5 = 0 \\cr} \\)\n\\(\\displaystyle f(1)={1 \\over 2}.1 + 5=\\dfrac{11}{2}\\)\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "a) Cho hàm số \\(y = f(x) = \\dfrac{2}{3} x\\).\nTính: \\(f(-2);\\)    \\(f(-1);\\)       \\( f(0); \\)     \\(f(\\frac{1}{2});\\)    \\( f(1);\\)   \\( f(2); \\)       \\(f(3)\\).\nb) Cho hàm số \\(y = g(x) = \\dfrac{2}{3} x + 3\\).\nTính: \\(g(-2);\\)     \\( g(-1);\\)   \\( g(0);\\)     \\( g(\\dfrac{1}{2});\\)   \\( g(1);\\)      \\( g(2);\\)    \\( g(3)\\).\nc) Có nhận xét gì về giá trị của hai hàm số đã cho ở trên khi biến \\(x\\) lấy cùng một giá trị ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Giá trị của hàm số \\(f(x)\\) tại \\(x=a\\) là \\(f(a)\\).\nTức là thay \\(x=a\\) vào biểu thức của hàm số \\(f(x)\\) ta tính được \\(f(a)\\).\n+) Giá trị của hàm số \\(y=ax+b\\) lớn hơn giá trị của hàm số \\(y=ax\\) là \\(b\\) đơn vị khi \\(x\\) lấy cùng một giá trị.\nLời giải chi tiết\na) Thay các giá trị vào hàm số \\(y = f(x) = \\dfrac{2}{3} x\\). Ta có\n\\(f(-2) = \\dfrac{2}{3}.(-2)=\\dfrac{2.(-2)}{3}=\\dfrac{-4}{3}\\).\n\\(f(-1) = \\dfrac{2}{3}.(-1)= \\dfrac{2.(-1)}{3}=\\dfrac{-2}{3}\\).\n\\(f(0) = \\dfrac{2}{3}.0=0\\).\n\\(f\\left (\\dfrac{1}{2}\\right ) =\\dfrac{2}{3}.\\dfrac{1}{2}=\\dfrac{1}{3}\\).\n\\(f(1) = \\dfrac{2}{3}.1=\\dfrac{2}{3}\\).\n\\(f(2) = \\dfrac{2}{3}.2=\\dfrac{4}{3}\\).\n\\(f(3) = \\dfrac{2}{3}.3=2\\).\nb) Thay các giá trị vào hàm số \\(y = g(x) = \\dfrac{2}{3} x + 3\\). Ta có\n\\(g(-2) = \\dfrac{2}{3}.(-2)+3= \\dfrac{2.(-2)}{3}+3\\\\=\\dfrac{-4}{3}+\\dfrac{9}{3}=\\dfrac{5}{3}.\\)\n\\(g(-1) = \\dfrac{2}{3}.(-1)+3 = \\dfrac{2.(-1)}{3}+3\\\\= \\dfrac{-2}{3}+\\dfrac{9}{3}=\\dfrac{7}{3}.\\)\n\\(g(0) = \\dfrac{2}{3}.0+3= \\dfrac{2.0}{3}+3=0+3=3.\\)\n\\(g\\left ( \\dfrac{1}{2} \\right ) = \\dfrac{2}{3}. \\dfrac{1}{2} +3\\\\=\\dfrac{1}{3}+3=\\dfrac{1}{3}+\\dfrac{9}{3}=\\dfrac{10}{3}.\\)\n\\(g(1) = \\dfrac{2}{3}.1+3=\\dfrac{2}{3}+3\\\\=\\dfrac{2}{3}+\\dfrac{9}{3}=\\dfrac{11}{3}.\\)\n\\(g(2) = \\dfrac{2}{3}.2+3=\\dfrac{2.2}{3}+3=\\dfrac{4}{3}+3\\\\=\\dfrac{4}{3}+\\dfrac{9}{3}=\\dfrac{13}{3}\\)\n\\(g(3) = \\dfrac{2}{3}.3+3=2+3=5.\\)\nc)\nTừ kết quả câu a và câu b ta thấy:\nKhi \\(x\\) lấy cùng một giá trị thì giá trị của \\(g(x)\\) lớn hơn giá trị của \\(f(x)\\) là \\(3\\) đơn vị.\n(Chú ý: Hai hàm số \\(y=\\dfrac{2}{3} x\\) và \\(y = \\dfrac{2}{3} x + 3\\) đều là hàm số đồng biến vì khi \\(x\\) tăng thì \\(y\\) cũng nhận được các giá trị tương ứng tăng lên).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy điền vào chỗ trống (…) cho đúng\nSau 1 giờ, ô tô đi được: …\nSau t giờ, ô tô đi được: …\nSau t giờ, ô tô cách trung tâm Hà Nội là: s = …\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức \\(S=v.t\\) với \\(S\\) là quãng đường đi được, \\(v\\) là vận tốc và \\(t\\) là thời gian.\nLời giải chi tiết\nSau 1 giờ, ô tô đi được: 50 (km)\nSau t giờ, ô tô đi được: 50.t (km)\nSau t giờ, ô tô cách trung tâm Hà Nội là: s = 50.t + 8 (km)\n\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = f(x) = 3x\\).\nCho \\(x\\) hai giá trị bất kì \\( x_{1},\\ x_{2} \\) sao cho \\(x_{1}  < x_{2} \\) .\nHãy chứng minh \\(f(x_{1} ) < f(x_{2} )\\) rồi rút ra kết luận hàm số đã cho đồng biến trên \\(\\mathbb{R}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Định nghĩa hàm số đồng biến:   Với \\({x_1},{x_2} \\in \\mathbb{R}\\):\nNếu \\( x_1  < x_2\\)  và   \\(f(x_1) < f(x_2)\\)  thì hàm số \\(y=f(x)\\) đồng biến trên \\(\\mathbb{R}\\).\n+) Tính chất của bất đẳng thức: Với \\(c > 0\\) thì: \\(a < b \\Leftrightarrow a.c < b.c\\)\nLời giải chi tiết\nCách 1:\nTa có:\n\\(f\\left( {{x_1}} \\right) = 3{x_1}\\)\n\\(f\\left( {{x_2}} \\right) = 3{x_2}\\)\nTheo giả thiết, ta có:\n\\(x_{1} < x_{2} \\Leftrightarrow 3.x_{1} < 3.x_{2}\\) ( nhân cả 2 vế của bất đẳng thức với \\( 3 > 0 \\) nên chiều bất đẳng thức không đổi)\n\\( \\Leftrightarrow f(x_1) < f(x_2)\\) (vì \\(f\\left( {{x_1}} \\right) = 3{x_1};\\)\\(f\\left( {{x_2}} \\right) = 3{x_2})\\)\nVậy với \\(x_{1} < x_{2}\\) ta được \\(f(x_1) < f(x_2)\\) nên hàm số \\(y = 3x\\) đồng biến trên \\(\\mathbb{R}\\).\nCách 2:\nVì \\(x_{1}  < x_{2} \\) nên \\(x_{1}  - x_{2}<0\\)\nTừ đó: \\(f(x_1)-f(x_2)=3x_1-3x_2=3(x_1-x_2)<0\\)\nHay \\(f(x_1)<f(x_2)\\)\nVậy với \\(x_{1} < x_{2}\\) ta được \\(f(x_1) < f(x_2)\\) nên hàm số \\(y = 3x\\) đồng biến trên \\(\\mathbb{R}\\).\nLoigiaihay.com"
+    }
+]

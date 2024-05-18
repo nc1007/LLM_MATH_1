@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Chọn đáp án đúng nhất?\nA.\tMuốn chia một số thập phân cho 10, 100, 1000,… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.\nB.\tMuốn chia một số thập phân cho 0,1; 0,01; 0,001;… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba,… chữ số.\nC.\tMuốn chia một số tự nhiên cho 0,1; 0,01; 0,001;… ta chỉ việc thêm vào bên phải của số tự nhiên đó một, hai, ba,… chữ số 0.\nD.\tCả A, B, C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn chia một số thập phân cho 10, 100, 1000,... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba, … chữ số. \n- Muốn chia một số thập phân cho 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba, … chữ số.  \n- Muốn chia một số tự nhiên cho 0,1; 0,01; 0,001;... ta chỉ việc thêm vào bên phải của số tự nhiên đó một, hai, ba, … chữ số 0.\nVậy cả A, B, C  đều đúng."
+    },
+    {
+        "problem": "Câu 4: Tính nhẩm:\n22,7 : 0,01\nA.\t0,227\nB.\t2,27\nC.\t227\nD.\t2270",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn chia một số thập phân cho 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba,… chữ số.\nDo đó ta có: 22,7 : 0,01 = 2270."
+    },
+    {
+        "problem": "Câu 7: Tìm x, biết 100 : x = 16 : 0,1\nA.\tx = 0,525\nB.\tx = 0,575\nC.\tx = 0,625\nD.\tx = 0,675",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \n100 : x = 16 : 0,1\n100 : x = 160\n x = 100 : 160\n x = 0,625\nVậy x = 0,625"
+    },
+    {
+        "problem": "Câu 10: Tính: \n(108,48 – 34,8) : 2,4 – 5,6 × 2,5\nA.\t16,7\nB.\t58,23\nC.\t68,75\nD.\t79,98",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n(108,48 – 34,8) : 2,4 – 5,6 × 2,5\n= 73,68 : 2,4 - 5,6 x 2,5\n= 30,7 -14\n= 16,7 \nVậy giá trị của biểu thức đã cho là 16,7."
+    },
+    {
+        "problem": "Câu 12: Một thanh sắt dài 1,2m nặng 18kg. Hỏi thanh sắt nặng 56,25kg dài bao nhiêu mét?\nA.\t3,15m\nB.\t3,25m\nC.\t3,5m\nD.\t3,75m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thanh sắt dài 1m nặng số ki-lô-gam là:    \n18 : 1,2 = 15 (kg)\nThanh sắt nặng 56,25kg dài số mét là: \n56,25 : 15 = 3,75 (m)\nĐáp số: 3,75m."
+    }
+]

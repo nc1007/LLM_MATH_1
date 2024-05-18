@@ -1,0 +1,260 @@
+[
+    {
+        "problem": "A.Muốn nhân hai phân số, ta lấy tử số nhân với tử số, mẫu số nhân với mẫu số. \nB.Phân số nào nhân với 11 cũng bằng chính nó. \nC.Phân số nào nhân với 00 cũng bằng 00\nD.Cả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMuốn nhân  hai phân số, ta lấy tử số nhân với tử số, mẫu số nhân với mẫu số. \nPhân số nào nhân với 11 cũng bằng chính nó.\nPhân số nào nhân với 00 cũng bằng 00 \nVậy cả A, B, C đều đúng.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2: Phép nhân phân số có những tính chất nào?\nA.Tính chất giao hoán\nB.Tính chất kết hợp \nC.Tính chất nhân phân phối \nD.Tất cả các tính chất trên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhép nhân phân số cũng có các tính chất tương tự phép nhân số tự nhiên như tính chất giao hoán, tính chất kết hợp, tính chất nhân phân phối.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3: Tính \\frac{1}{12}⋅\\frac{8}{−9}\nA.\\frac{−2}{27}\nB.\\frac{−4}{9}\nC.\\frac{−1}{18}\nD.\\frac{−3}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{1}{12}⋅\\frac{8}{−9}=\\frac{1.8}{12.−9}=\\frac{1.2.4}{4.3.−9}=\\frac{2}{−27}=\\frac{−2}{27}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4: Kết quả của phép tính −2.\\frac{3}{8} là\nA.\\frac{−16}{8}\nB.\\frac{−13}{8}\nC.\\frac{−6}{16}\nD.−\\frac{3}{4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n −2.\\frac{3}{8}=\\frac{−2.3}{8}=\\frac{−6}{8}=\\frac{−3}{4}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5: Chọn câu sai.\nA.\\frac{2}{7}.\\frac{14}{6}=\\frac{2}{3}\nB.25.\\frac{−4}{15}=\\frac{−20}{3}\nC.\\frac{2}{−3}2.\\frac{9}{4}=1\nD.\\frac{−16}{25}.\\frac{25}{−24}=−\\frac{2}{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \\frac{2}{7}.\\frac{14}{6}=\\frac{2.14}{7.6}=\\frac{28}{42}=\\frac{2}{3} nên A đúng.\nĐáp án B:  25.\\frac{−4}{15}=\\frac{25.−4}{15}=\\frac{−100}{15}=\\frac{−20}{3} nên B đúng.\nĐáp án C: \\frac{2}{−3}2.\\frac{9}{4}=\\frac{22}{−32}.\\frac{9}{4}=\\frac{4}{9}.\\frac{9}{4}=1nên C đúng.\nĐáp án D: \\frac{−16}{25}.\\frac{25}{−24}=\\frac{−16}{25}.\\frac{25}{−24}=\\frac{−2}{−3}=\\frac{2}{3}≠−\\frac{2}{3} nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6: Tính \\frac{9}{14}⋅\\frac{−5}{8}⋅\\frac{14}{9}\nA.\\frac{−15}{28}\nB.\\frac{−9}{28}\nC.\\frac{−5}{8}\nD.\\frac{−7}{8}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{9}{14}⋅\\frac{−5}{8}⋅\\frac{14}{9}=\\frac{9}{14}⋅\\frac{14}{9}⋅\\frac{−5}{8}=1.\\frac{−5}{8}=\\frac{−5}{8}.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7: Tìm x biếtx:−\\frac{2}{5}=\\frac{3}{54}\nA.x=\\frac{−1}{27}\nB.x=\\frac{−1}{18}\nC.x=\\frac{−1}{45}\nD.x=\\frac{−1}{9}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n x:−\\frac{2}{5}=\\frac{3}{54}x=\\frac{3}{54}.−\\frac{2}{5}x=\\frac{1}{18}.\\frac{−2}{5}x=\\frac{−1}{45}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8: Giá trị nào dưới đây của x thỏa mãnx:\\frac{5}{8}=\\frac{−14}{35}⋅\\frac{15}{−42}\nA.\\frac{5}{56}\nB.\\frac{−5}{56}\nC.\\frac{5}{28}\nD.\\frac{−5}{28}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n x:\\frac{5}{8}=\\frac{−14}{35}⋅\\frac{15}{−42}x:\\frac{5}{8}=\\frac{−2}{5}.\\frac{5}{−14}x:\\frac{5}{8}=\\frac{1}{7}x=\\frac{1}{7}.\\frac{5}{8}x=\\frac{5}{56}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9:\nĐiền số thích hợp vào ô trống\nĐộ cao của đáy vịnh Cam Ranh là -32 m. Độ cao của đáy sông Sài Gòn bằng \\frac{5}{8} ở độ cao của đáy vịnh Cam Ranh. Vậy độ cao của đáy sông Sài Gòn là ..... mét",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐộ cao của đáy sông Sài Gòn là:\n−32.\\frac{5}{8}=\\frac{−32.5}{8}=−20 (mét)"
+    },
+    {
+        "problem": "Câu 10: Tính giá trị biểu thức sau theo cách hợp lí\n\\frac{20}{7}.\\frac{−4}{−5}+\\frac{20}{7}.\\frac{3}{−5}\nA. \\frac{4}{7}\nB.\\frac{−4}{7}\nC. -4\nD.\\frac{11}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{20}{7}.\\frac{−4}{−5}+\\frac{20}{7}.\\frac{3}{−5}=\\frac{20}{7}.\\frac{−4}{−5}+\\frac{3}{−5}=\\frac{20}{7}.\\frac{−1}{−5}=\\frac{20}{7}.\\frac{1}{5}=\\frac{20}{35}=\\frac{4}{7}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11: Để làm bánh caramen, Linh cần \\frac{4}{5} cốc đường để làm được 10 cái bánh. Vậy muốn làm 15 cái bánh thì Linh cần bao nhiêu cốc đường?\nA. \\frac{4}{5} cốc đường\nB.1 cốc đường\nC. \\frac{7}{5} cốc đường\nD. \\frac{6}{5} cốc đường",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐể làm một cái bánh thì cần lượng đường là:\\frac{4}{5}.\\frac{1}{10}=\\frac{4}{50} (cốc đường)\nĐể làm 15 cái bánh thì cần số cốc đường là: \\frac{4}{50}.15=\\frac{60}{50}=\\frac{6}{5} (cốc đường)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12: Phân số nghịch đảo của phân số \\frac{5}{6}là\nA.−\\frac{5}{6}\nB.\\frac{6}{5}\nC.−\\frac{6}{5}\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhân số nghịch đảo của phân số \\frac{5}{6}là \\frac{6}{5}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 13: Tính \\frac{2}{3}:\\frac{1}{2} bằng\nA. 3\nB. 1\nC.\\frac{1}{3}\nD.\\frac{4}{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{2}{3}:\\frac{1}{2}=\\frac{2}{3}.\\frac{2}{1}=\\frac{4}{3}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14: Tìm x biết\\frac{13}{25}:x=\\frac{5}{26}\nA.\\frac{2}{5}\nB.\\frac{338}{125}\nC.\\frac{5}{2}\nD.\\frac{125}{338}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{13}{25}:x=\\frac{5}{26}x=\\frac{13}{25}:\\frac{5}{26}x=\\frac{13}{25}.\\frac{26}{5}x=\\frac{338}{125}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15: Tính\\frac{2}{3}:\\frac{7}{12}:\\frac{4}{18}\nA.\\frac{7}{18}\nB.\\frac{9}{14}\nC.\\frac{36}{7}\nD.\\frac{18}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{2}{3}:\\frac{7}{12}:\\frac{4}{18}=\\frac{2}{3}:\\frac{7}{12}:\\frac{4}{18}=\\frac{2}{3}.\\frac{12}{7}:\\frac{4}{18}=\\frac{8}{7}:\\frac{4}{18}=\\frac{8}{7}.\\frac{18}{4}=\\frac{36}{7}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 16: Cho :\nP=\\frac{7}{20}+\\frac{11}{15}−\\frac{15}{12}:\\frac{11}{20}−\\frac{26}{45}Q=\\frac{5−\\frac{5}{3}+\\frac{5}{9}−\\frac{5}{27}}{8−\\frac{8}{3}+\\frac{8}{9}−\\frac{8}{27}}:\\frac{15−\\frac{15}{11}+\\frac{15}{121}}{16−\\frac{16}{11}+\\frac{16}{121}}\nChọn kết luận đúng:\nA. P > Q\nB. P < Q\nC. P < -Q\nD. P = Q",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nP=\\frac{7}{20}+\\frac{11}{15}−\\frac{15}{12}:\\frac{11}{20}−\\frac{26}{45}P=\\frac{21}{60}+\\frac{44}{60}−\\frac{75}{60}:\\frac{99}{180}−\\frac{104}{180}P=\\frac{−10}{60}:\\frac{−5}{180}=\\frac{−10}{60}.\\frac{180}{−5}=6\nQ=\\frac{5−\\frac{5}{3}+\\frac{5}{9}−\\frac{5}{27}}{8−\\frac{8}{3}+\\frac{8}{9}−\\frac{8}{27}}:\\frac{15−\\frac{15}{11}+\\frac{15}{121}}{16−\\frac{16}{11}+\\frac{16}{121}}Q=\\frac{51−\\frac{1}{3}+\\frac{1}{9}−\\frac{1}{27}}{81−\\frac{1}{3}+\\frac{1}{9}−\\frac{1}{27}}:\\frac{151−\\frac{1}{11}+\\frac{1}{121}}{161−\\frac{1}{11}+\\frac{1}{121}}Q=\\frac{5}{8}:\\frac{15}{16}=\\frac{5}{8}.\\frac{16}{15}=\\frac{2}{3}\nVì 6>\\frac{2}{3} nên P > Q\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 17: Một hình chữ nhật có diện tích là \\frac{8}{15}  (cm^{2} ), chiều dài là\\frac{4}{3} (cm). Tính chu vi hình chữ nhật đó.\nA.\\frac{52}{5}cm\nB.\\frac{26}{15}cm\nC.\\frac{52}{15}cm\nD.\\frac{52}{15}cm2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều rộng hình chữ nhất là:\\frac{8}{15}:\\frac{4}{3}=\\frac{2}{5}cm\nCho vi hình chữ nhật là: \\frac{4}{3}+\\frac{2}{5}.2=\\frac{52}{15}cmĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 18:\nĐiền số thích hợp vào ô trống\nBạn Hoà đã đọc hết một cuốn truyện dày 80 trang trong ba ngày. Biết ngày thứ nhất bạn Hoà đọc được \\frac{3}{8}số trang cuốn truyện, ngày thứ hai đọc được \\frac{2}{5} số trang cuốn truyện. Số trang bạn Hoà đã đọc được trong ngày thứ ba là ..... trang",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố trang bạn Hòa đọc được trong ngày thứ nhất là: 80.\\frac{3}{8}=30(trang)\nSố trang bạn Hòa đọc được trong ngày thứ hai là: 80.\\frac{2}{5}=32(trang)\nSố trang bạn Hòa đọc được trong ngày thứ ba là: 80 - 32 - 30 = 18 trang"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về phép nhân và phép chia phân số\nCâu 1: Tính\\frac{5}{8}⋅\\frac{−3}{4}\nA.\\frac{−1}{16}\nB.  -2\nC.\\frac{−15}{32}\nD.\\frac{−5}{32}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{5}{8}⋅\\frac{−3}{4}=\\frac{5.−3}{8.4}=\\frac{−15}{32}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2: Chọn câu đúng\nA. \\frac{−7}{6}2=\\frac{−49}{36}\nB.\\frac{2}{3}3=\\frac{8}{9}\nC.\\frac{2}{−3}3=\\frac{8}{−27}\nD.\\frac{−2}{3}4=\\frac{−16}{81}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A:  \\frac{−7}{6}2=\\frac{−72}{62}=\\frac{49}{36}≠\\frac{−49}{36} nên A sai.\nĐáp án B: \\frac{2}{3}3=\\frac{23}{33}=\\frac{8}{27}≠\\frac{8}{9} nên B sai.\nĐáp án C: \\frac{2}{−3}3=\\frac{23}{−33}=\\frac{8}{−27} nên C đúng.\nĐáp án D: \\frac{−2}{3}4=\\frac{−24}{34}=\\frac{16}{81}≠\\frac{−16}{81} nên D sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3: Tìm số nguyên x biết\\frac{−5}{6}.\\frac{120}{25}<x<\\frac{−7}{15}.\\frac{9}{14}\nA.x∈−3;−2;−1\nB.x∈−4;−3;−2;−1\nC.x∈−3;−2\nD.x∈−3;−2;−1;0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{−5}{6}.\\frac{120}{25}<x<\\frac{−7}{15}.\\frac{9}{14}\\frac{−5}{6}.\\frac{24}{5}<x<\\frac{−1}{5}.\\frac{3}{2}−4<x<\\frac{−3}{10}x∈{−3;−2;−1}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4: Có bao nhiêu giá trị nguyên dương của x thỏa mãn \\frac{−5}{3}3<x<\\frac{−24}{35}.\\frac{−5}{6} ?\nA.1 \nB.0\nC.2\nD.3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì x nguyên dương nên x > 0\nmà  \\frac{−5}{3}3=\\frac{−125}{27}<0 nên\\frac{−5}{3}3<0<x<\\frac{−24}{35}.\\frac{−5}{6}\nKhi đó:0<x<\\frac{−24}{35}.\\frac{−5}{6}\n0<x<\\frac{4}{7}\nVì \\frac{4}{7}<1 nên 0 < x < 1 nên không có số nguyên dương nào thỏa mãn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5: Có bao nhiêu giá trị của x thỏa mãn \\frac{7}{6}+x:\\frac{16}{25}=\\frac{−5}{4} ?\nA.\\frac{17}{30}\nB.\\frac{−11}{30}\nC.\\frac{−59}{30}\nD.\\frac{59}{30}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{7}{6}+x:\\frac{16}{25}=\\frac{−5}{4}\\frac{7}{6}+x=\\frac{−5}{4}.\\frac{16}{25}\\frac{7}{6}+x=\\frac{−1}{1}.\\frac{4}{5}\\frac{7}{6}+x=\\frac{−4}{5}x=\\frac{−4}{5}−\\frac{7}{6}x=\\frac{−59}{30}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6: Cho M=\\frac{17}{5}.\\frac{−31}{125}.\\frac{1}{2}.\\frac{10}{17}.\\frac{−1}{2}3 và\nN=\\frac{17}{28}+\\frac{28}{29}−\\frac{19}{30}−\\frac{20}{31}.\\frac{−5}{12}+\\frac{1}{4}+\\frac{1}{6} . Khi đó tổng M + N bằng\nA.\\frac{−62}{125}\nB.\\frac{31}{1000}\nC.\\frac{−31}{100}\nD.\\frac{31}{100}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nM=\\frac{17}{5}.\\frac{−31}{125}.\\frac{1}{2}.\\frac{10}{17}.\\frac{−1}{2}3M=\\frac{17.−31.1.10.−13}{5.125.2.17.23}M=\\frac{−31.−1}{125.23}M=\\frac{31}{1000}\nN=\\frac{17}{28}+\\frac{28}{29}−\\frac{19}{30}−\\frac{20}{31}.\\frac{−5}{12}+\\frac{1}{4}+\\frac{1}{6}N=\\frac{17}{28}+\\frac{28}{29}−\\frac{19}{30}−\\frac{20}{31}.\\frac{−5}{12}+\\frac{3}{12}+\\frac{2}{12}N=\\frac{17}{28}+\\frac{28}{29}−\\frac{19}{30}−\\frac{20}{31}.0\nN = 0\nVậyM+N=\\frac{31}{1000}+0=\\frac{31}{1000}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7: Tính B=\\frac{22}{3}⋅\\frac{32}{8}⋅\\frac{42}{15}⋅\\frac{52}{24}⋅\\frac{62}{35}⋅\\frac{72}{48}⋅\\frac{82}{63}⋅\\frac{92}{80} ta được\nA.\\frac{9}{5}\nB.\\frac{3}{5}\nC. 3\nD.\\frac{6}{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nB=\\frac{22}{3}⋅\\frac{32}{8}⋅\\frac{42}{15}⋅\\frac{52}{24}⋅\\frac{62}{35}⋅\\frac{72}{48}⋅\\frac{82}{63}⋅\\frac{92}{80}=\\frac{2.2}{1.3}⋅\\frac{3.3}{2.4}⋅\\frac{4.4}{3.5}⋅\\frac{5.5}{4.6}⋅\\frac{6.6}{5.7}⋅\\frac{7.7}{6.8}⋅\\frac{8.8}{7.9}⋅\\frac{9.9}{8.10}=\\frac{2.3.4.5.6.7.8.9}{1.2.3.4.5.6.7.8.}⋅\\frac{2.3.4.5.6.7.8.9}{3.4.5.6.7.8.9.10}=\\frac{9}{1}⋅\\frac{2}{10}=\\frac{9.2}{1.10}=\\frac{9}{5}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8: Tính giá trị biểu thứcA=\\frac{11}{4}.\\frac{−5}{9}−\\frac{4}{9}.\\frac{11}{4}.\\frac{8}{33}\nA.A=−\\frac{2}{3}\nB. A=\\frac{2}{3}\nC.A=−\\frac{3}{2}\nD.A=\\frac{3}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:A=\\frac{11}{4}.\\frac{−5}{9}−\\frac{4}{9}.\\frac{11}{4}.\\frac{8}{33}=\\frac{11}{4}.\\frac{−5}{9}−\\frac{4}{9}.\\frac{8}{33}=\\frac{11}{4}.\\frac{−9}{9}.\\frac{8}{33}=\\frac{−11}{4}.\\frac{8}{33}=\\frac{−2}{3}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9: Tìm số tự nhiên x biết\\frac{1}{3}+\\frac{1}{6}+\\frac{1}{10}+...+\\frac{1}{xx+1:2}=\\frac{2019}{2021}\nA.\\frac{2019}{2021}\nB.2021 \nC.2020 \nD.2019",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{1}{3}+\\frac{1}{6}+\\frac{1}{10}+...+\\frac{1}{xx+1:2}=\\frac{2019}{2021}2\\frac{1}{2.3}+\\frac{1}{3.4}+...+\\frac{1}{xx+1}=\\frac{2019}{2021}2.\\frac{1}{2}−\\frac{1}{3}+\\frac{1}{3}−\\frac{1}{4}+...+\\frac{1}{x}−\\frac{1}{x+1}=\\frac{2019}{2021}2\\frac{1}{2}−\\frac{1}{x+1}=\\frac{2019}{2021}1−\\frac{2}{x+2}=\\frac{2019}{2021}\\frac{2}{x+1}=1−\\frac{2019}{2021}\\frac{2}{x+1}=\\frac{2}{2021}x+1=2021x=2020\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10: TìmM=1+\\frac{1}{2}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{299}+\\frac{1}{2100}\nA.\\frac{1}{299}\nB.\\frac{2101−2}{2100}\nC.\\frac{2101+1}{2100}\nD.\\frac{2101−1}{2100}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n M=1+\\frac{1}{2}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{299}+\\frac{1}{2100}2M=2.1+\\frac{1}{2}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{299}+\\frac{1}{2100}=2+1+\\frac{1}{2}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{299}\nTa có:\nM=2M−M=(2+1+\\frac{1}{2}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{298}+\\frac{1}{299})−(1+\\frac{1}{2}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{299}+\\frac{1}{2100})\n=2−\\frac{1}{2100}=\\frac{2101−1}{2100}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11: Tính diện tích một hình tam giác biết hai cạnh góc vuông của tam giác đó lần lượt là \\frac{5}{3} cm và \\frac{7}{4} cm?\nA.\\frac{33}{24}cm2\nB.\\frac{35}{12}cm2\nC.\\frac{35}{24}cm2\nD.\\frac{33}{12}cm2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích hình tam giác đó là: S=\\frac{1}{2}.\\frac{5}{3}.\\frac{7}{4}=\\frac{1.5.7}{2.3.4}=\\frac{35}{24}cm2\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12: Một hình chữ nhật có diện tích \\frac{48}{35}m^{2}  và có chiều dài là\\frac{6}{5} m. Tính chiều rộng của hình chữ nhật đó.\nA.\\frac{8}{7}(m)\nB.\\frac{7}{8}(m)\nC.\\frac{36}{7}m\nD.\\frac{18}{7}m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều rộng của hình chữ nhật là:\n \\frac{48}{35}:\\frac{6}{5}=\\frac{48}{35}.\\frac{5}{6}=\\frac{6.8}{7.5}.\\frac{5}{6}=\\frac{8}{7}(m)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 15: Tính\\frac{28}{15}.\\frac{1}{42}.3+\\frac{8}{15}−\\frac{69}{60}.\\frac{5}{23}:\\frac{51}{54}\nA.\\frac{1}{3}\nB.\\frac{20}{13}\nC. 3\nD.\\frac{13}{20}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{28}{15}.\\frac{1}{42}.3+\\frac{8}{15}−\\frac{69}{60}.\\frac{5}{23}:\\frac{51}{54}=\\frac{28.1.3}{15.42}+\\frac{8}{15}−\\frac{23.3}{4.3.5}.\\frac{5}{23}.\\frac{54}{51}=\\frac{7.4.1.3}{3.5.4.4}+\\frac{8}{15}−\\frac{1}{4}.\\frac{54}{51}=\\frac{7}{20}+\\frac{32}{60}−\\frac{15}{60}.\\frac{54}{51}=\\frac{7}{20}+\\frac{17}{60}.\\frac{54}{51}=\\frac{7}{20}+\\frac{17}{6.10}.\\frac{6.3.3}{17.3}=\\frac{7}{20}+\\frac{3}{10}=\\frac{7}{20}+\\frac{6}{20}=\\frac{13}{20}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 16: Phân số nghịch đảo của số −3 là\nA.1 \nB.3\nC.\\frac{1}{−3}\nD.\\frac{1}{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhân số nghịch đảo của số −3 là\\frac{1}{−3}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 17: Kết quả của phép tính \\frac{−7}{6}:−\\frac{14}{3} là phân số có tử số  là\nA.\\frac{1}{4}\nB.\\frac{1}{2}\nC.−\\frac{1}{2}\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{−7}{6}:−\\frac{14}{3}=\\frac{−7}{6}.\\frac{−3}{14}=\\frac{1.1}{2.2}=\\frac{1}{4}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 18: Giá trị nào dưới đây của x thỏa mãn−\\frac{3}{5}.x=\\frac{4}{15}\nA.−\\frac{1}{10}\nB.−\\frac{4}{9}\nC.−\\frac{4}{3}\nD. -4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n −\\frac{3}{5}.x=\\frac{4}{15}x=\\frac{4}{15}:\\frac{−3}{5}x=\\frac{4}{15}.\\frac{5}{−3}x=−\\frac{4}{9}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 19: Giá trị biểu thức M=\\frac{5}{6}:\\frac{5}{2}2+\\frac{7}{15} là phân số tối giản có dạng \\frac{a}{b} với a > 0. Tính b + a.\nA. 8\nB.\\frac{9}{5}\nC.\\frac{3}{5}\nD. 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nM=\\frac{5}{6}:\\frac{5}{2}2+\\frac{7}{15}M=\\frac{5}{6}:\\frac{25}{4}+\\frac{7}{15}M=\\frac{5}{6}.\\frac{4}{25}+\\frac{7}{15}M=\\frac{1.2}{3.5}+\\frac{7}{15}M=\\frac{2}{15}+\\frac{7}{15}M=\\frac{9}{15}=\\frac{3}{5}\nKhi đó a = 3, b = 5 nên a + b = 8\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 20: Rút gọn N=\\frac{\\frac{4}{17}−\\frac{4}{49}−\\frac{4}{131}}{\\frac{3}{17}−\\frac{3}{49}−\\frac{3}{131}} ta được\nA.\\frac{4}{3}\nB. 1\nC. 0\nD.−\\frac{4}{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nN=\\frac{\\frac{4}{17}−\\frac{4}{49}−\\frac{4}{131}}{\\frac{3}{17}−\\frac{3}{49}−\\frac{3}{131}}=\\frac{4.\\frac{1}{17}−4.\\frac{1}{49}−4.\\frac{1}{131}}{3.\\frac{1}{17}−3.\\frac{1}{49}−3.\\frac{1}{131}}=\\frac{4.\\frac{1}{17}−\\frac{1}{49}−\\frac{1}{131}}{3.\\frac{1}{17}−\\frac{1}{49}−\\frac{1}{131}}=\\frac{4}{3}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 21: Tìm x biếtx+\\frac{1}{4}−\\frac{1}{3}:2+\\frac{1}{6}−\\frac{1}{4}=\\frac{7}{46}\nA.\\frac{9}{64}\nB.\\frac{9}{16}\nC.\\frac{5}{24}\nD.\\frac{3}{8}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx+\\frac{1}{4}−\\frac{1}{3}:2+\\frac{1}{6}−\\frac{1}{4}=\\frac{7}{46}x+\\frac{1}{4}−\\frac{1}{3}:\\frac{23}{12}=\\frac{7}{46}x+\\frac{1}{4}−\\frac{1}{3}=\\frac{7}{46}.\\frac{23}{12}x+\\frac{1}{4}−\\frac{1}{3}=\\frac{7}{24}x=\\frac{7}{24}−\\frac{1}{4}+\\frac{1}{3}x=\\frac{3}{8}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 22: Giá trị của x thỏa mãn \\frac{13}{15}−\\frac{13}{21}+x.\\frac{7}{12}=\\frac{7}{10} ?\nA.−\\frac{1}{3}\nB.\\frac{6}{5}\nC.−\\frac{3}{7}\nD.\\frac{3}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{13}{15}−\\frac{13}{21}+x.\\frac{7}{12}=\\frac{7}{10}\\frac{13}{21}+x.\\frac{7}{12}=\\frac{13}{15}−\\frac{7}{10}\\frac{13}{21}+x.\\frac{7}{12}=\\frac{1}{6}\\frac{13}{21}+x=\\frac{1}{6}:\\frac{7}{12}\\frac{13}{21}+x=\\frac{2}{7}x=\\frac{2}{7}−\\frac{13}{21}x=−\\frac{1}{3}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 23: Số các số nguyên x để \\frac{5x}{3}:\\frac{10x2+5x}{21} có giá trị là số nguyên là\nA.1 \nB.4\nC.2 \nD.3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{5x}{3}:\\frac{10x2+5x}{21}=\\frac{5x}{3}.\\frac{21}{10x2+5x}=\\frac{5x.21}{3.5x.2x+1}=\\frac{7}{2x+1}\nĐể biểu thức đã cho có giá trị là số nguyên thì \\frac{7}{2x+1} nguyên\nDo đó 2x + 1 ∈ Ư(7) = {±1; ±7} \nTa có bảng:\nVậy x ∈ {0; −1; 3; −4} suy ra có 4 giá trị thỏa mãn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 24: Một người đi xe máy, đi đoạn đường AB với vận tốc 40km/h hết \\frac{5}{4}giờ. Lúc về, người đó đi với vận tốc 45km/h. Tính thời gian người đó đi từ B về A?\nA. \\frac{10}{9}\nB.\\frac{9}{10}\nC.\\frac{11}{9}\nD. 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nQuãng đường AB là: 40.\\frac{5}{4}=50 (km)\nThời gian người đó đi từ B về A là: \\frac{50}{45}=\\frac{10}{9} (giờ)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 25: Phân số là phân số lớn nhất mà khi chia mỗi phân số \\frac{12}{35};\\frac{18}{49} cho \\frac{a}{b}ta được kết quả là một số nguyên. Tính a + b.\nA.245\nB.251\nC.158 \nD.496",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi phân số lớn nhất cần tìm là: \\frac{a}{b}(a;b là nguyên tố cùng nhau)\nTa có: \\frac{12}{35}:\\frac{a}{b}=\\frac{12b}{35} là số nguyên, mà 12; 35 là nguyên tố cùng nhau\nNên 12 ⋮ a; b ⋮ 3 \nTa lại có: \\frac{18}{49}:\\frac{a}{b}=\\frac{18b}{49}là số nguyên, mà 18 và 49 nguyên tố cùng nhau\nNên 18 ⋮ a; b ⋮ 49\nĐể \\frac{a}{b} lớn nhất ta có a = UCLN(12; 18) = 6a  và b = BCNN(35; 49)=  245b \nVậy tổng a + b = 6 + 245 = 251 \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 26:\nĐiền số thích hợp vào ô trống:\nMột ô tô chạy hết \\frac{3}{4}giờ trên một đoạn đường với vận tốc trung bình 40km/h.\nNgười lái xe muốn thời gian chạy hết đoạn đường đó chỉ \\frac{1}{2}giờ thì ô tô phải chạy với vận tốc trung bình là: ..... km/h",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nQuãng đường ô tô đi được là:S=vtb.t=40.\\frac{3}{4}=30(km)\nNgười lái xe muốn thời gian chạy hết đoạn đường đó chỉ \\frac{1}{2} giờ thì ô tô phải chạy với vận tốc trung bình là: vtb=s:t=30:\\frac{1}{2}=60km/h"
+    },
+    {
+        "problem": "Câu 27: Tính giá trị biểu thức:\n\\frac{−2}{−5}:\\frac{3}{−4}.\\frac{4}{5}\nA.\\frac{75}{32}\nB.\\frac{32}{75}\nC.\\frac{−32}{75}\nD.\\frac{−75}{32}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{−2}{−5}:\\frac{3}{−4}.\\frac{4}{5}=\\frac{2}{5}.\\frac{−4}{3}.\\frac{4}{5}=\\frac{−8}{15}.\\frac{4}{5}=\\frac{−32}{75}\nĐáp án cần chọn là: C"
+    }
+]

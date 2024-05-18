@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Xét số n = \\(\\overline {23*} \\) (* là chữ số tận cùng của n). Ta viết n = 230 + *\nSố 230 có chia hết cho 2 và chia hết cho 5 không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia và kết luận\nLời giải chi tiết\nTa có: 230 : 2 = 115; 230 : 5 = 46\nSố 230 chia hết cho 2 và cho 5"
+    },
+    {
+        "problem": "Xét số n = \\(\\overline {23*} \\) (* là chữ số tận cùng của n).\nTa viết n = 230 + *\nVận dụng tính chất chia hết của một tổng, hãy cho biết:\na) Thay dấu * bởi chữ số nào thì n chia hết cho 2?\nb) Thay dấu * bởi chữ số nào thì n chia hết cho 5?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a\\( \\vdots \\)m; b\\( \\vdots \\)m => (a+b) \\( \\vdots \\)m\nLời giải chi tiết\nn = 230 + * (* ∈ N; 0 ≤ * ≤ 9)\na) Để n ⁝ 2 thì (230+*) \\( \\vdots \\) 2\nVì 230 \\( \\vdots \\) 2 nên * \\( \\vdots \\) 2\nMà 0 ≤ * ≤ 9\nDo đó * ∈ { 0;2;4;6;8}\nb) Để n ⁝ 5 thì (230+*) \\( \\vdots \\) 5\nVì 230 \\( \\vdots \\) 5 nên * \\( \\vdots \\) 5\nMà 0 ≤ * ≤ 9\nDo đó * ∈ {0;5}."
+    },
+    {
+        "problem": "1. Không thực hiện phép tính, em hãy cho biết tổng (hiệu) sau có chia hết cho 2 không.\na) 1954 + 1 975;                     b) 2 020 – 938.\n2. Không thực hiện phép tính, em hãy cho biết tổng (hiệu) sau có chia hết cho 5 không.\na) 1 945 + 2 020 ;                   b) 1954 - 1930.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\n+ a\\( \\vdots \\)m; b\\( \\vdots \\)m => (a+b) \\( \\vdots \\)m ; (a – b) \\( \\vdots \\)m\nLời giải chi tiết\n1.\na) (1 954 + 1 975 )\\(\\not{ \\vdots }\\)2\nVì 1 954 có chữ số tận cùng là 4 chia hết cho 2 và 1 975 có chữ số tận cùng là 5 không chia hết cho 2\nb) (2 020 – 938) \\( \\vdots \\) 2\nVì 2 020 và 938 có chữ số tận cùng là 0 và 8 nên đều chia hết cho 2.\n2.\na) (1 945 + 2 020)\\( \\vdots \\)5\nVì 1 945 và 2 020 có chữ số tận cùng là 5 và 0 nên đều chia hết cho 5\nb) (1 954 – 1930) \\(\\not{ \\vdots }\\)5\nVì 1 954 có chữ số tận cùng là 4 không chia hết cho 5 và 1 930 có chữ số tận cùng là 0 chia hết cho 5."
+    },
+    {
+        "problem": "Cho các số: 27, 82, 195, 234.\nHãy sắp xếp các số trên thành hai nhóm: Nhóm các số chia hết cho 9 và nhóm các số không chia hết cho 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia và sắp xếp.\nLời giải chi tiết\nTa có: 27: 9 = 3; 82 : 9 = 9 (dư 1); 195 : 9 = 21 (dư 6); 234 : 9 = 26\n+ Nhóm các số chia hết cho 9:  27 ; 234\n+ Nhóm các số không chia hết cho 9:  82 ; 195"
+    },
+    {
+        "problem": "Cho các số 27; 82; 195; 234.\nTính tổng các chữ số của mỗi số và xét tính chia hết cho 9 của các tổng đó trong mỗi nhóm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng các chữ số của số đó.\nLời giải chi tiết\n* Nhóm các số chia hết cho 9:\nTổng các chữ số của số 27 là 2+7=9 chia hết cho 9\nTổng các chữ số của số 2+3+4=9 chia hết cho 9\n* Nhóm các số không chia hết cho 9:\nTổng các chữ số của số 82 là 8+2 = 10 không chia hết cho 9\nTổng các chữ số của số 195 là 1+9+5=15 không chia hết cho 9"
+    },
+    {
+        "problem": "Thay dấu * bởi một chữ số để được số \\(\\overline {12*} \\) chia hết cho 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\nLời giải chi tiết\nSố \\(\\overline {12*} \\) chia hết cho 9 thì tổng các chữ số của nó cũng chia hết cho 9\nHay (1 + 2 + *) chia hết cho 9 hay (3 + *) chia hết cho 9\nVì 0 ≤ * ≤ 9 nên *  = 6."
+    },
+    {
+        "problem": "Thay dấu * bằng một chữ số đề số \\(\\overline {12*5} \\) chia hết cho 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Một số chia hết cho 3 nếu tổng các chữ số của nó cũng chia hết cho 3\nLời giải chi tiết\nSố \\(\\overline {12*5} \\) chia hết cho 3 khi tổng các chữ số của nó cũng chia hết cho 3\nNên (1 + 2 + * + 5) chia hết cho 3 hay (8 + *) chia hết cho 3\nVì 0 ≤ * ≤ 9 nên * ∈ {1; 4; 7}"
+    },
+    {
+        "problem": "Trên một bờ đất dài 108 m, một bác nông dân có kế hoạch trồng một số cây dừa thành một hàng sao cho hai cây cách đều nhau là 9 m và luôn có cây ở vị trí đầu và cuối của bờ đất. Hỏi bác nông dân có trồng được như vậy không? Nếu được, bác cần bao nhiêu cây dừa để trồng?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét tính chia hết của 108 cho 9. Nếu chia hết thì bác trồng được như kế hoạch\nSố cây trồng được = độ dài bờ đất : khoảng cách giữa 2 cây liên tiếp + 1\nLời giải chi tiết\nVì 108 có tổng các chữ số là 1+0+8= 9 chia hết cho 9 nên 108 chia hết cho 9 nên bác nông dân có thể trồng được như thế.\nSố cây dừa bác cần để trồng là:\n108 : 9 + 1 = 13 (cây)"
+    },
+    {
+        "problem": "Cho các số 42, 80, 191, 234.\nHãy sắp xếp các số trên thành hai nhóm: Nhóm các số chia hết cho 3 và nhóm các số không chia hết cho 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia rồi chia các số thành 2 nhóm\nLời giải chi tiết\nTa có: 42 : 3 = 14; 80 : 3 = 26 (dư 2); 191 : 3 = 63 (dư 2); 234 : 3 = 78\n+ Nhóm các số chia hết cho 3: 42 ; 234\n+ Nhóm các số không chia hết cho 3: 80 ; 191"
+    },
+    {
+        "problem": "Tính tổng các chữ số của mỗi số và xét tính chia hết cho 3 của các tổng đó trong mỗi nhóm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính tổng các chữ số của mỗi số\n- Xét tính chia hết cho 3 của các tổng đó trong mỗi nhóm\nLời giải chi tiết\n* Nhóm các số chia hết cho 3:\nTổng các chữ số của số 42 là 4+2=6 chia hết cho 3\nTổng các chữ số của số 234 là 2+3+4=9 chia hết cho 3\n* Nhóm các số không chia hết cho 3:\nTổng các chữ số của số 80 là 8+0=8 không chia hết cho 3\nTổng các chữ số của số 191 là 1+9+1=11 không chia hết cho 3"
+    },
+    {
+        "problem": "Bạn Hà cần tìm đường đến siêu thị. Biết rằng Hà chỉ có thể đi qua ô có chứa số chia hết cho 2 hoặc chia hết cho 3 và mỗi ô chỉ đi qua một lần. Em hãy giúp Hà đến được siêu thị nhé.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hà chỉ có thể đi qua ô có chứa số chia hết cho 2 hoặc chia hết cho 3\nLời giải chi tiết\nVì Hà chỉ có thể đi qua ô có chứa số chia hết cho 2 hoặc chia hết cho 3 nên Hà không thể đi qua ô 5; 17; 19; 65; 77.\nBạn Hà có thể đi bằng 2 đường sau để đến siêu thị:\n12 => 6 => 21 => 15 => 2020 => 72 => 123 => 136 => 1245.\n21 => 15 => 2020 => 72 => 123 => 136 => 1245."
+    },
+    {
+        "problem": "Trong các số sau, số nào chia hết cho 2, số nào chia hết cho 5?\n324; 248; 2020; 2025.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\nLời giải chi tiết\n+ Vì các số 324; 248; 2 020 có chữ số tận cùng lần lượt là 4; 8; 0 nên 324; 248; 2 020 chia hết cho 2\n+ Vì các số 2 020; 2025 có chữ số tận cùng lần lượt là 0 và 5 nên 2 020; 2025 chia hết cho 5"
+    },
+    {
+        "problem": "Trong các số sau, số nào chia hết cho 3, số nào chia hết cho 9?\n450; 123; 2 019; 2 025.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\nCác số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nLời giải chi tiết\n+ Xét số 450 có tổng các chữ số là 4 + 5 + 0 = 9. Do 9 \\(\\vdots\\) 3 và 9 \\(\\vdots\\) 9 nên 450 \\(\\vdots\\) 3 và 450 \\(\\vdots\\) 9.\n+ Xét số 123 có tổng các chữ số là 1 + 2 + 3 = 6. Do 6\\(\\vdots\\) 3 và 6 \\(\\not{\\vdots}\\) 9 nên 123 \\(\\vdots\\) 3 và 123 \\(\\not{\\vdots}\\) 9\n+ Xét số 2 019 có tổng các chữ số là 2 + 0 + 1 + 9 = 12. Do 12 \\(\\vdots\\) 3 và 12 \\(\\not{\\vdots}\\) 9 nên 2 019 \\(\\vdots\\) 3 và 2 019 \\(\\not{\\vdots}\\) 9\n+ Xét số 2 025 có tổng các chữ số là 2 + 0 + 2 + 5 = 9. Do 9\\(\\vdots\\) 3 và 9 \\(\\vdots\\) 9 nên 2 025 \\(\\vdots\\) 3 và 20 25 \\(\\vdots\\) 9\nVậy các số chia hết cho 3 là:  450 ; 123 ; 2 019 ; 2 025\nCác số chia hết cho 9 là:  450 ; 2 025\nChú ý: Các số chia hết cho 9 thì chia hết cho 3.\nCác số chia hết cho 3 chưa chắc đã chia hết cho 9."
+    },
+    {
+        "problem": "Khối lớp 6 của một trường có 290 học sinh đi dã ngoại. Cô phụ trách muốn chia đều số học sinh của khối 6 thành 9 nhóm. Hỏi cô có chia nhóm được như vậy không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét tính chia hết của 290 cho 9 để kết luận.\nLời giải chi tiết\nTổng các chữ số của số 290 là 2+ 9 = 11 \\(\\not{ \\vdots }\\) 9 nên 290 \\(\\not{ \\vdots }\\)  9\nVậy không thể chia đều số học sinh của khối 6 thành 9 nhóm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Có 162 học sinh tham gia chương trình đào tạo bóng đá, được chia thành các đội. Mỗi đội cần có 9 học sinh. Hỏi có đội nào không có đủ 9 học sinh hay không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét tính chia hết của 162 cho 9 để kết luận. Nếu 162 chia hết cho 9 thì các đội đều đủ 9 em\nLời giải chi tiết\nTổng các chữ số của 162 là 9 chia hết cho 9 nên chia 162 em học sinh thành các đội, thì không có đội nào không đủ 9 học sinh.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thay dấu * bởi một chữ số đề số \\(\\overline {345*} \\):\na) Chia hết cho 2              b) Chia hết cho 3;\nc) Chia hết cho 5;             d) Chia hết cho 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mớichia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\n• Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\n• Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nLời giải chi tiết\na) Số \\(\\overline {345 * } \\) chia hết cho 2 thì nó phải có tận cùng là chữ số chẵn.\nVậy có thể thay * bằng các chữ số: 0; 2; 4; 6; 8\nb) Số \\(\\overline {345 * } \\) chia hết cho 3 thì tổng các chữ số của nó cũng chia hết cho 3.\nDo đó 3+4+5+* chia hết cho 3 nên 12 + * chia hết cho 3.\nMà 12 chia hết cho 3 nên * cũng chia hết cho 3\nVậy có thể thay * bằng các chữ số: 0; 3; 6; 9\nc) Số \\(\\overline {345 * } \\) chia hết cho 5 thì nó phải có tận cùng là 0 hoặc 5\nVậy có thể thay * bằng các chữ số: 0 ; 5\nd) Số \\(\\overline {345 * } \\) chia hết cho 9 thì tổng các chữ số của nó cũng chia hết cho 9\nDo đó 3+4+5+* chia hết cho 9 nên 12 + * chia hết cho 9\nVậy có thể thay * bằng chữ số 6.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng ba chữ số 3, 0 , 4, hãy viết các số tự nhiên có ba chữ số khác nhau và thoả mãn một trong hai điều kiện:\na) Các số đó chia hết cho 2;\nb) Các số đó chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\nLời giải chi tiết\na) Các số phải có tận cùng là 0 hoặc 4\nCác số chia hết cho 2: 304; 340; 430\nb) Các số phải có tận cùng là 0\nCác số chia hết cho 5: 340; 430"
+    }
+]

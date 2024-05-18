@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1: Ki-lô-mét vuông được kí hiệu là:\nA.cm^{2} \nB.dm^{2} \nC.m^{2} \nD.km^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ki-lô-mét vuông được kí hiệu là km^{2}"
+    },
+    {
+        "problem": "Câu 3: 1km^{2}  bằng bao nhiêu m^{2} \nA.\t1000\nB.\t10000\nC.\t100000\nD.\t1000000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1km^{2} =1000000m^{2} \nVậy đáp án đúng là 1000000."
+    },
+    {
+        "problem": "Câu 4: 1508km^{2}  đọc là:\nA.\tMột nghìn năm trăm tám mươi ki-lô-mét vuông\nB.\tMột nghìn năm trăm tám ki-lô-mét vuông\nC.\tMột nghìn năm trăm linh tám ki-lô-mét vuông\nD.\tMột nghìn năm trăm không tám ki-lô-mét vuông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1508km^{2}  đọc là một nghìn năm trăm linh tám ki-lô-mét vuông."
+    },
+    {
+        "problem": "Câu 8: 7km^{2}  825m^{2} = ... m^{2} .\nSố thích hợp điền vào chỗ chấm là:\n\nA.\t7000825\nB.\t700825\nC.\t78250\nD.\t7825",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 7km^{2}  825m^{2} =7km^{2} +825m^{2} =7000000m^{2} +825m^{2} =7000825m^{2} \nVậy: 7km^{2}  825m^{2} =7000825m^{2}"
+    },
+    {
+        "problem": "Câu 9: Chọn dấu thích hợp để điền vào chỗ chấm: \n123m^{2} ...1km^{2}  23m^{2} \nA.\t=\nB.\t>\nC.\t<",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:1km23m^{2} =km^{2} +23m^{2} =1000000m^{2} +23m^{2} =1000023m^{2} \nMà 1023m^{2} <1000023m^{2} \nDo đó 123m^{2} <1km^{2} 23m^{2} ."
+    },
+    {
+        "problem": "Câu 10: Một khu rừng hình chữ nhật có chiều dài 5km, chiều rộng là 2400m. Hỏi diện\ntích khu vườn đó bằng bao nhiêu ki-lô-mét vuông?\nA. 12km^{2} \nB. 120km^{2} \nC. 1200km^{2} \nD. 12000km^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 5km=5000m.\nDiện tích khu rừng hình chữ nhật đó là:\n5000×2400=12000000(m^{2} )\n12000000m^{2} =12km^{2} \n                                            Đáp số: 12km^{2} .\nChú ý\nHọc sinh có thể làm sai khi không đổi chiều dài và chiều rộng về cùng một đơn vị đo, từ đó có thể tìm ra đáp án sai là 12000km^{2} ."
+    },
+    {
+        "problem": "Câu 12: : Hồ Tây có diện tích khoảng 5km^{2}  và hồ Gươm có diện tích khoảng\n120000m^{2} . Hỏi hồ nào có diện tích lớn hơn và lớn hơn bao nhiêu mét vuông?\nA. Hồ Gươm; 115000m^{2} \nB. Hồ Tây; 4880000m^{2} \nC. Hồ Gươm; 70000m^{2} \nD. Hồ Tây; 380000m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 5km^{2} =5000000m^{2} \nTa có: 5000000m^{2}  > 120000m^{2} .\nVậy hồ Tây có diện tích lớn hơn hồ Gươm và lớn hơn số mét vuông là:\n           5000000−120000=4880000(m^{2} )\nĐáp số: Hồ Tây; 4880000m^{2} ."
+    },
+    {
+        "problem": "Câu 15: Vườn nhãn nhà bác Hùng có diện tích 1km^{2} . Trong đợt bón phân vừa rồi bác\nHùng tính cứ mỗi gốc nhãn bón hết 200g phân lân. Hỏi vườn nhãn nhà bác Hùng bón\nhết bao nhiêu tấn phân lân? Biết cứ 10m^2 thì trồng được 1 gốc nhãn.\nA.\t2 tấn\nB.\t20 tấn\nC.\t200 tấn\nD.\t2000 tấn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 1km^{2} =1000000m^{2} \nVườn nhãn nhà bác Hùng có số cây là:\n            1000000:10=100000 (cây)\nSố phân lân nhà bác Hùng đã dùng là:\n            100000×200=20000000(g)\nĐổi: 20000000g=20000kg=20 (tấn)    \n                                            Đáp số: 20 tấn."
+    }
+]

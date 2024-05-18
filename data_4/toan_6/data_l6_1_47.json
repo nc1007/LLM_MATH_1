@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "B.Trùng nhau\nC.Cắt nhau\nD.Cả ba đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHai đường thẳng a, b bất kì có thể trùng nhau, song song hoặc cắt nhau.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2: Chọn câu đúng.\nA.Qua hai điểm phân biệt có vô số đường thẳng\nB.Có vô số điểm cùng thuộc một đường thẳng\nC.Hai đường thẳng phân biệt thì song song\nD.Trong ba điểm thẳng hàng thì có hai điểm nằm giữa",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: Qua hai điểm phân biệt có một và chỉ một đường thẳng nên A sai.\nĐáp án B: Có vô số điểm cùng thuộc một đường thẳng nên B đúng.\nĐáp án C: Hai đường thẳng phân biệt thì có thể song song hoặc cắt nhau nên C sai.\nĐáp án D: Trong ba điểm thẳng hàng chỉ có một điểm nằm giữa hai điểm còn lại nên D sai.\nĐáp án cần chọn là: B"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 1 :  Số 4679 được đọc là:\nA.\tBốn nghìn sáu trăm bảy chín\nB.\tBốn nghìn sáu trăm bảy mươi chín\nC.\tBốn nghìn bảy trăm sáu mươi chín\nD.\tBốn nghìn chín trăm sáu mươi bảy",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 4679 được đọc là bốn nghìn sáu trăm bảy mươi chín."
+    },
+    {
+        "problem": "Câu 2 : Số mười ba nghìn sáu trăm linh năm được viết là: \nA.\t13506\nB.\t13605\nC.\t15603\nD.\t10653",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số mười ba nghìn sáu trăm linh năm được viết là 13605."
+    },
+    {
+        "problem": "Câu 4 :  Chữ số 9 trong số 56931 thuộc hàng nào?\nA.\tHàng chục nghìn\nB.\tHàng nghìn \nC.\tHàng trăm\nD.\tHàng chục",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 56931 gồm 5 chục nghìn, 6 nghìn, 9 trăm, 3 chục, 1 đơn vị.\nVậy chữ số 9 trong số 56931 thuộc hàng trăm."
+    },
+    {
+        "problem": "Câu 5 : Giá trị của chữ số 5 trong số 85246 là:\nA.\t50\nB.\t500\nC.\t5000\nD.\t50000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 5 trong số 85246 thuộc hàng nghìn nên giá trị của chữ số 5 trong số 85246 là 5000."
+    },
+    {
+        "problem": "Câu 7 : Viết số 4936 thành tổng (theo mẫu) \nMẫu: 8946 = 8000 + 900 + 40 + 6 \nA.\t4936 = 4000 + 9000 + 30 + 6\nB.\t4936 = 4000 + 90 + 300 + 6\nC.\t4936 = 400 + 9000 + 30 + 6\nD.\t4936 = 4000 + 900 + 30 + 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 4936 gồm 4 nghìn, 9 trăm, 3 chục, 6 đơn vị.\nDo đó 4936=4000+900+30+6"
+    },
+    {
+        "problem": "Câu 9 : Số tròn chục liền trước số một trăm nghìn viết là: \nA.\t99999\nB.\t99990\nC.\t99900\nD.\t100010",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số một trăm nghìn viết là 100000.\nCác số tròn chục hơn hoặc kém nhau 10 đơn vị.\nTa có: 100000−10=99990.\nVậy số tròn chục liền trước số 100000 là 99990."
+    }
+]

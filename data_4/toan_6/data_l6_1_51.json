@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "B.Góc có số đo lớn hơnvà nhỏ hơnlà góc nhọn\nC.Góc tù là góc có số đo lớn hơnvà nhỏ hơn\nD.Góc có số đo nhỏ hơnlà góc tù",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có góc vuông là góc có số đo bằng ; Góc có số đo lớn hơnvà nhỏ hơn là góc nhọn\nvà góc tù là góc có số đo lớn hơn và nhỏ hơnnên A, B, C đều đúng.\nGóc có số đo nhỏ hơnlà góc tù là sai vì góc nhọn, góc vuông đều có số đo nhỏ hơn \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2: Chọn phát biểu đúng.\nA.Góc có số đolà góc vuông\nB.Góc có số đolà góc tù\nC.Góc có số đolà góc nhọn\nD.Góc có số đo là góc tù",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Vì 90∘<120∘<180∘ nên góc có số đo 120∘ là góc tù, do đó A sai\n+ Vì 0∘<80∘<90∘ nên góc có số đo 80∘ là gócnhọn, do đó B sai\n+ Vì 90∘<100∘<180∘ nên góc có số đo 100∘ là góc tù, do đó C sai\n+ Vì 90∘<150∘<180∘ nên góc có số đo 150∘ là góc tù, do đó D đúng\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4: Cho xOm^=45o và góc xOm^bằng góc yAn^ . Khi đó số đo góc yAn^bằng\nA.50∘\nB. 40∘\nC. 45∘\nD. 30∘",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì xOm^=yAn^mà xOm^=45∘ nên yAn^=45∘.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5: Cho các góc sau A^=30o;B^=60o;C^=110o;D^=90oChọn câu sai.\nA. B^<D^\nB. C^<D^\nC. A^<B^\nD. B^<C^",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có\n+) 60∘<90∘ nênB^<D^ suy ra A đúng.\n+) 110∘>90∘ nênC^>D^ suy ra B sai\n+)30∘<60∘nên A^<B^suy ra C đúng.\n+) 60∘<110∘ nên B^<C^suy ra D đúng.\nĐáp án cần chọn là: B"
+    }
+]

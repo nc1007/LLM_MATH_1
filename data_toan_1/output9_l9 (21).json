@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Quan sát hình con bướm ở hình bên. Em thấy điều gì khi hai cánh của con bướm gập lại?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình khi hai cánh con bướm gập lại và trả lời câu hỏi.\nLời giải chi tiết\nKhi hai cánh của con bướm gập lại, thì hai cánh của nó chồng khít nên nhau."
+    },
+    {
+        "problem": "Vẽ một đường tròn trên giấy rồi cắt theo nét vẽ ta được một hình tròn. Gấp đôi hình tròn đó theo một đường thẳng đi qua tâm (h.5.1). Hãy nhận xét về hai nửa hình tròn sau khi gấp.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình và nhận xét về hai nửa hình tròn sau khi gấp.\nLời giải chi tiết\nKhi gấp hai nửa đường tròn thì chúng sẽ chồng khít lên nhau."
+    },
+    {
+        "problem": "Gấp đôi một tờ giấy (h.5.2a), dùng kéo cắt một đường như hình 5.2b rồi mở ra, ta được một hình. Hình đó có đặc điểm gì giống những hình trên?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình và nhận xét.\nLời giải chi tiết\nHình được cắt có hai phần giống hệt nhau."
+    },
+    {
+        "problem": "Dựa vào HĐ2, em hãy cho biết trục đối xứng của hình tròn là đường thằng nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trục đối xứng là đường thẳng mà khi chia hình thành hai phần mà nếu gấp\" hình theo đường thẳng d thì hai phần đó “chồng khít” lên nhau.\nLời giải chi tiết\nTrục đối xứng của hình tròn là đường thẳng đi qua tâm của hình tròn đó."
+    },
+    {
+        "problem": "Cắt một hình thoi bằng giấy. Hãy tìm trục đối xứng của nó bằng cách gấp giấy. Trục đối xứng của nó là đường thẳng nào? Em tìm được mấy trục đối xứng?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trục đối xứng là đường thẳng d chia hình thành hai phần mà nếu gấp hình theo đường thẳng d thì hai phần đó “chồng khít” lên nhau.\nLời giải chi tiết\nTrục đối xứng của hình thoi là đường thẳng đi qua đường chéo của nó vì gấp hình thoi theo đường chéo thì được 2 tam giác chồng khít lên nhau.\nHình thoi có 2 trục đối xứng"
+    },
+    {
+        "problem": "Bằng cách tương tự, hãy cắt chữ E, T.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm trục đối xứng của các chữ\n- Gấp đôi tờ giấy theo trục đối xứng ấy để cắt. Khi đó ta chỉ phải cắt một nửa con chữ và nhận được cả con chữ khi mở giấy ra.\nLời giải chi tiết\nHS thực hiện theo video hướng dẫn"
+    }
+]

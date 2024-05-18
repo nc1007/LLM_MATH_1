@@ -1,0 +1,230 @@
+[
+    {
+        "problem": "A.\\frac{a}{m}+\\frac{b}{m}=\\frac{a−b}{m}\nB.\\frac{a}{m}+\\frac{b}{m}=\\frac{a.b}{m}\nC.\\frac{a}{m}+\\frac{b}{m}=\\frac{a+b}{m}\nD.\\frac{a}{m}+\\frac{b}{m}=\\frac{a+b}{m+m}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMuốn cộng hai phân số cùng mẫu, ta cộng các tử và giữ nguyên mẫu.\n\\frac{a}{m}+\\frac{b}{m}=\\frac{a+b}{m}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2: Phép cộng phân số có tính chất nào dưới đây?\nA.Tính chất giao hoán \nB.Tính chất kết hợp \nC.Tính chất cộng với 0\nD.Cả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhép cộng phân số có các tính chất:\n+) Tính chất giao hoán: khi đổi chỗ các phân số trong một tổng thì tổng không đổi.\n+) Tính chất kết hợp: Muốn cộng một tổng hai phân số với phân số thứ ba, ta có thể cộng phân số thứ nhất với tổng hai phân số còn lại.\n+) Tính chất cộng với 0: tổng của một phân số với 0 bằng chính phân số đó.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3: Tổng \\frac{4}{6}+\\frac{27}{81} có kết quả là\nA.\\frac{1}{3}\nB.\\frac{4}{3}\nC.\\frac{3}{4}\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{4}{6}+\\frac{27}{81}=\\frac{2}{3}+\\frac{1}{3}=\\frac{3}{3}=1\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4: Tính tổng hai phân số \\frac{35}{36} và\\frac{−125}{36}\nA.\\frac{−5}{2}\nB.−\\frac{29}{5}\nC.\\frac{−40}{9}\nD.\\frac{40}{9}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{35}{36}+\\frac{−125}{36}=\\frac{35+−125}{36}=\\frac{−90}{36}=\\frac{−5}{2}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5: Chọn câu sai\nA.\\frac{3}{2}+\\frac{2}{3}>1\nB.\\frac{3}{2}+\\frac{2}{3}=\\frac{13}{6}\nC.\\frac{3}{4}+\\frac{−4}{17}=\\frac{35}{68}\nD.\\frac{4}{12}+\\frac{21}{36}=1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \\frac{3}{2}+\\frac{2}{3}=\\frac{9}{6}+\\frac{4}{6}=\\frac{13}{6}>1 nên A đúng\nĐáp án B: \\frac{3}{2}+\\frac{2}{3}=\\frac{9}{6}+\\frac{4}{6}=\\frac{13}{6} nên B đúng.\nĐáp án C:\\frac{3}{4}+\\frac{−4}{17}=\\frac{51}{68}+\\frac{−16}{68}=\\frac{35}{68} nên C đúng.\nĐáp án D:\\frac{4}{12}+\\frac{21}{36}=\\frac{4}{12}+\\frac{7}{12}=\\frac{11}{12}<1nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6: Tìm x biếtx−\\frac{1}{5}=2+\\frac{−3}{4}\nA.x=\\frac{21}{20}\nB.x=\\frac{29}{20}\nC.x=\\frac{−3}{10}\nD.x=\\frac{−9}{10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n x−\\frac{1}{5}=2+\\frac{−3}{4}\n x−\\frac{1}{5}=\\frac{5}{4}\n x=\\frac{5}{4}+\\frac{1}{5}\n x=\\frac{29}{20}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7: Tìm  x ∈ Zbiết \\frac{5}{6}+\\frac{−7}{8}≤\\frac{x}{24}≤\\frac{−5}{12}+\\frac{5}{8} .\nA. x ∈ {0; 1; 2; 3; 4}\nB. x ∈ {−1; 0; 1; 2; 3; 4; 5}\nC. x ∈ {−1; 0; 1; 2; 3; 4}\nD. x ∈ {0; 1; 2; 3; 4; 5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{5}{6}+\\frac{−7}{8}≤\\frac{x}{24}≤\\frac{−5}{12}+\\frac{5}{8}\\frac{−1}{24}≤\\frac{x}{24}≤\\frac{5}{24}−1≤x≤5x∈{−1;0;1;2;3;4;5}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8: Cho ba vòi nước cùng chảy vào một bể cạn. Vòi Achảy một mình thì sau 6 giờ sẽ đầy bể, vòi Bchảy một mình thì mất 3 giờ đầy bể, vòi Cthì mất 2 giờ đầy bể. Hỏi nếu cả ba vòi cùng chảy một lúc thì trong bao lâu sẽ đầy bể?\nA.4 giờ\nB.3 giờ\nC.1 giờ\nD.2 giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMột giờ vòi A chảy được là: 1:6=\\frac{1}{6} (bể)\nMột giờ vòi B chảy được là: 1:3=\\frac{1}{3} (bể)\nMột giờ vòi C chảy được là:1:2=\\frac{1}{2} (bể)\nMột giờ cả ba vòi chảy được là: \\frac{1}{6}+\\frac{1}{3}+\\frac{1}{2}=\\frac{6}{6}=1 (bể)\nVậy trong 1 giờ cả ba vòi chảy được đầy bể.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9: Số đối của phân số \\frac{13}{7} là:\nA. \\frac{−13}{7}\nB. \\frac{13}{−7}\nC. −\\frac{13}{7}\nD.Tất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố đối của phân số \\frac{13}{7} là \\frac{−13}{7} hoặc −\\frac{13}{7} hoặc\\frac{13}{−7}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10: Cặp phân số nào sau đây là hai số đối nhau?\nA.\\frac{−2}{3};\\frac{3}{2}\nB.\\frac{−12}{13};\\frac{13}{−12}\nC.\\frac{1}{2};−\\frac{1}{2}\nD.\\frac{3}{4};\\frac{−4}{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: Số đối của \\frac{−2}{3} là \\frac{2}{3} chứ không phải \\frac{3}{2} nên A sai.\nĐáp án B: Số đối của \\frac{−12}{13} là \\frac{12}{13} chứ không phải \\frac{13}{−12} nên B sai.\nĐáp án C: Số đối của \\frac{1}{2} là −\\frac{1}{2} nên C đúng.\nĐáp án D: Số đối của \\frac{3}{4} là \\frac{−3}{4} hoặc \\frac{3}{−4}hoặc −\\frac{3}{4} chứ không phải \\frac{−4}{3} nên D sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11: Số đối của −−\\frac{2}{27} là\nA.\\frac{27}{2}\nB. −−\\frac{2}{27}\nC. \\frac{2}{27}\nD. −\\frac{2}{27}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: −−\\frac{2}{27}=\\frac{2}{27} nên số đối của \\frac{2}{27}là−\\frac{2}{27}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12: Tính\\frac{−1}{6}−\\frac{−4}{9}\nA.\\frac{5}{18}\nB.\\frac{5}{36}\nC.\\frac{−11}{18}\nD.\\frac{−13}{36}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{−1}{6}−\\frac{−4}{9}=\\frac{−1}{6}+\\frac{4}{9}=\\frac{−3}{18}+\\frac{8}{18}=\\frac{5}{18}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13: Tìm x biếtx+\\frac{1}{14}=\\frac{5}{7}\nA.\\frac{9}{14}\nB.\\frac{1}{14}\nC.\\frac{11}{14}\nD.\\frac{1}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n x+\\frac{1}{14}=\\frac{5}{7}x=\\frac{5}{7}−\\frac{1}{14}x=\\frac{9}{14}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 14: Điền số thích hợp vào chỗ chấm \\frac{1}{3}+\\frac{...}{24}=\\frac{3}{8}\nA.2 \nB.1\nC.−1\nD.5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐặt số cần điền vào chỗ chấm là x ta có:\n \\frac{1}{3}+\\frac{x}{24}=\\frac{3}{8}\\frac{x}{24}=\\frac{3}{8}−\\frac{1}{3}\\frac{x}{24}=\\frac{1}{24}x=1\nVậy số cần điền vào chỗ trống là 1\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15: Chọn câu đúng\nA.\\frac{4}{13}−\\frac{1}{2}=\\frac{5}{26}\nB.\\frac{1}{2}−\\frac{1}{3}=\\frac{5}{6}\nC.\\frac{17}{20}−\\frac{1}{5}=\\frac{13}{20}\nD.\\frac{5}{15}−\\frac{1}{3}=\\frac{1}{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \\frac{4}{13}−\\frac{1}{2}=\\frac{8}{26}−\\frac{13}{26}=\\frac{−5}{26}≠\\frac{5}{26} nên A sai.\nĐáp án B: \\frac{1}{2}−\\frac{1}{3}=\\frac{3}{6}−\\frac{2}{6}=\\frac{1}{6}≠\\frac{5}{6} nên B sai.\nĐáp án C: \\frac{17}{20}−\\frac{1}{5}=\\frac{17}{20}−\\frac{4}{20}=\\frac{13}{20} nên C đúng.\nĐáp án D: nên D sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 16: Phép tính \\frac{9}{7}−\\frac{5}{12} là\nA.\\frac{73}{84}\nB.\\frac{−13}{84}\nC.\\frac{83}{84}\nD.\\frac{143}{84}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n\\frac{9}{7}−\\frac{5}{12}=\\frac{9}{7}+(\\frac{−5}{12})=\\frac{108}{84}+(\\frac{−35}{84})=\\frac{108+(−35)}{84}=\\frac{73}{84}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về phép cộng và phép trừ phân số \nCâu 1: Thực hiện phép tính \\frac{65}{91}+\\frac{−44}{55} ta được kết quả là:\nA.\\frac{−53}{35}\nB.\\frac{51}{35}\nC.\\frac{−3}{35}\nD.\\frac{3}{35}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{65}{91}+\\frac{−44}{55}=\\frac{5}{7}+\\frac{−4}{5}=\\frac{25}{35}+\\frac{−28}{35}=\\frac{−3}{35}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2: Chọn câu đúng\nA.\\frac{−4}{11}+\\frac{7}{−11}>1\nB.\\frac{−4}{11}+\\frac{7}{−11}<0\nC.\\frac{8}{11}+\\frac{7}{−11}>1\nD.\\frac{−4}{11}+\\frac{−7}{11}>−1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \\frac{−4}{11}+\\frac{7}{−11}=\\frac{−4}{11}+\\frac{−7}{11}=\\frac{−11}{11}=−1<1 nên A sai\nĐáp án B: \\frac{−4}{11}+\\frac{7}{−11}=\\frac{−4}{11}+\\frac{−7}{11}=\\frac{−11}{11}=−1<0 nên B đúng.\nĐáp án C: \\frac{8}{11}+\\frac{7}{−11}=\\frac{8}{11}+\\frac{−7}{11}=\\frac{1}{11}<1nên C sai.\nĐáp án D: \\frac{−4}{11}+\\frac{−7}{11}=\\frac{−11}{11}=−1 nên D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3: Tìm x biếtx=\\frac{3}{13}+\\frac{9}{20}\nA.\\frac{12}{33}\nB.\\frac{177}{260}\nC.\\frac{187}{260}\nD.\\frac{177}{26}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{3}{13}+\\frac{9}{20}=\\frac{60}{260}+\\frac{117}{260}=\\frac{177}{260}\nVậy  x=\\frac{177}{260}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4: Tính hợp lý biểu thức \\frac{−9}{7}+\\frac{13}{4}+\\frac{−1}{5}+\\frac{−5}{7}+\\frac{3}{4}ta được kết quả là\nA.=\\frac{−9}{7}+\\frac{−5}{7}+\\frac{13}{4}+\\frac{3}{4}+\\frac{−1}{5}\\frac{9}{5}\nB.\\frac{11}{5}\nC.\\frac{−11}{5}\nD. \\frac{−1}{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{−9}{7}+\\frac{13}{4}+\\frac{−1}{5}+\\frac{−5}{7}+\\frac{3}{4}\n =\\frac{−9}{7}+\\frac{−5}{7}+\\frac{13}{4}+\\frac{3}{4}+\\frac{−1}{5}\n =\\frac{−14}{7}+\\frac{16}{4}+\\frac{−1}{5}\n =−2+4+\\frac{−1}{5}\n =2+\\frac{−1}{5}\n =\\frac{10}{5}+\\frac{−1}{5}\n =\\frac{9}{5}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5: ChoA=\\frac{1}{4}+\\frac{−5}{13}+\\frac{2}{11}+\\frac{−8}{13}+\\frac{3}{4}. Chọn câu đúng.\nA. A > 1\nB.A=\\frac{2}{11}\nC. A = 1\nD. A = 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n A=\\frac{1}{4}+\\frac{−5}{13}+\\frac{2}{11}+\\frac{−8}{13}+\\frac{3}{4}\n A=\\frac{1}{4}+\\frac{−5}{13}+\\frac{2}{11}+\\frac{−8}{13}+\\frac{3}{4}\n A=\\frac{1}{4}+\\frac{3}{4}+\\frac{−5}{13}+\\frac{−8}{13}+\\frac{2}{11}\n A=1+−1+\\frac{2}{11}\n A=\\frac{2}{11}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6: Cho M=\\frac{21}{31}+\\frac{−16}{7}+\\frac{44}{53}+\\frac{10}{31}+\\frac{9}{53} và\nN=\\frac{1}{2}+\\frac{−1}{5}+\\frac{−5}{7}+\\frac{1}{6}+\\frac{−3}{35}+\\frac{1}{3}+\\frac{1}{41}.\nChọn câu đúng.\nA.M=\\frac{2}{7};N=\\frac{1}{41}\nB.M=0;N=\\frac{1}{41}\nC.M=\\frac{−16}{7};N=\\frac{83}{41}\nD.M=−\\frac{2}{7};N=\\frac{1}{41}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n M=\\frac{21}{31}+\\frac{−16}{7}+\\frac{44}{53}+\\frac{10}{31}+\\frac{9}{53}M=\\frac{21}{31}+\\frac{−16}{7}+\\frac{44}{53}+\\frac{10}{31}+\\frac{9}{53}M=\\frac{21}{31}+\\frac{10}{31}+\\frac{44}{53}+\\frac{9}{53}+\\frac{−16}{7}M=1+1+\\frac{−16}{7}M=2+\\frac{−16}{7}M=\\frac{−2}{7}\nN=\\frac{1}{2}+\\frac{−1}{5}+\\frac{−5}{7}+\\frac{1}{6}+\\frac{−3}{35}+\\frac{1}{3}+\\frac{1}{41}N=\\frac{1}{2}+\\frac{1}{6}+\\frac{1}{3}+\\frac{−1}{5}+\\frac{−5}{7}+\\frac{−3}{35}+\\frac{1}{41}N=\\frac{3+1+2}{6}+\\frac{−7+−25+−3}{35}+\\frac{1}{41}N=1+−1+\\frac{1}{41}N=\\frac{1}{41}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7: Tìm x∈Ζ biết\\frac{5}{6}+\\frac{−7}{8}≤\\frac{x}{24}≤\\frac{−5}{12}+\\frac{5}{8}\nA.x∈0;1;2;3;4\nB.x∈−1;0;1;2;3;4;5\nC.x∈−1;0;1;2;3;4\nD.x∈0;1;2;3;4;5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{5}{6}+\\frac{−7}{8}≤\\frac{x}{24}≤\\frac{−5}{12}+\\frac{5}{8}\\frac{−1}{24}≤\\frac{x}{24}≤\\frac{5}{24}−1≤x≤5x∈−1;0;1;2;3;4;5\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8: Tìm tập hợp các số nguyên n để \\frac{n−8}{n+1}+\\frac{n+3}{n+1} là một số nguyên\nA.n∈1;−1;7;−7\nB.n∈0;6\nC.n∈0;−2;6;−8\nD.n∈−2;6;−8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n\\frac{n−8}{n+1}+\\frac{n+3}{n+1}=\\frac{n−8+n+3}{n+1}=\\frac{2n−5}{n+1}=\\frac{2n+2−7}{n+1}=\\frac{2n+1−7}{n+1}=\\frac{2n+1}{n+1}−\\frac{7}{n+1}=2−\\frac{7}{n+1}\nYêu cầu bài toán thỏa mãn nếu \\frac{7}{n+1}∈Z hayn + 1 ∈ Ư(7) = {±1; ±7}\nTa có bảng:\nVậy n ∈ {0; −2; 6; −8}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9: Có bao nhiêu số nguyên x thỏa mãn\\frac{15}{41}+\\frac{−138}{41}≤x<\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{6}\nA.6 \nB.3\nC.5\nD.4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{15}{41}+\\frac{−138}{41}≤x<\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{6}\n−3 ≤ x < 1 \nx ∈ {− 3; −2; −1;0}\nVậy có tất cả 4 giá trị của x\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10: Tính tổng A=\\frac{1}{2}+\\frac{1}{6}+\\frac{1}{12}+…+\\frac{1}{99.100} ta được\nA.S>\\frac{3}{5}\nB.S<\\frac{4}{5}\nC.S>\\frac{4}{5}\nD.Cả A, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n A=\\frac{1}{2}+\\frac{1}{6}+\\frac{1}{12}+…+\\frac{1}{99.100}\n A=\\frac{1}{1.2}+\\frac{1}{2.3}+\\frac{1}{3.4}+...+\\frac{1}{99.100}\n A=1−\\frac{1}{2}+\\frac{1}{2}−\\frac{1}{3}+\\frac{1}{3}−\\frac{1}{4}+...+\\frac{1}{99}−\\frac{1}{100}\n A=1−\\frac{1}{100}=\\frac{99}{100}\nSo sánh A với \\frac{3}{5} và\\frac{4}{5}\nTa có:  \\frac{3}{5}=\\frac{60}{100};\\frac{4}{5}=\\frac{80}{100}\n ⇒\\frac{60}{100}<\\frac{80}{100}<\\frac{99}{100}⇒A>\\frac{4}{5}>\\frac{3}{5}Đáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11: Cho S=\\frac{1}{21}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{35} . Chọn câu đúng.\nA.S>\\frac{1}{2}\nB. S < 0\nC. S = 2\nD. S=\\frac{1}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n S=\\frac{1}{21}+\\frac{1}{22}+\\frac{1}{23}+...+\\frac{1}{35}S=\\frac{1}{21}+...+\\frac{1}{25}+\\frac{1}{26}+...+\\frac{1}{30}+\\frac{1}{31}+...+\\frac{1}{35}S>\\frac{1}{25}+...+\\frac{1}{25}+\\frac{1}{30}+...+\\frac{1}{30}+\\frac{1}{35}+...+\\frac{1}{35}S>\\frac{1}{5}+\\frac{1}{6}+\\frac{1}{7}=\\frac{107}{210}>\\frac{1}{2}\nVậy  S>\\frac{1}{2}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13: Kết quả của phép tính \\frac{3}{4}−\\frac{7}{20} là:\nA.\\frac{1}{10}\nB.\\frac{4}{5}\nC.\\frac{2}{5}\nD.\\frac{−1}{10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{3}{4}−\\frac{7}{20}=\\frac{15}{20}−\\frac{7}{20}=\\frac{8}{20}=\\frac{2}{5}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 14: Giá trị của x thỏa mãn\\frac{15}{20}−x=\\frac{7}{16}\nA. −\\frac{5}{16}\nB. \\frac{5}{16}\nC. \\frac{19}{16}\nD.−\\frac{19}{16}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{15}{20}−x=\\frac{7}{16}\n −x=\\frac{7}{16}−\\frac{15}{20}−x=−\\frac{5}{16}x=\\frac{5}{16}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15: Tính \\frac{4}{15}−\\frac{2}{65}−\\frac{4}{39} ta được\nA.\\frac{1}{39}\nB.\\frac{2}{15}\nC.\\frac{−2}{65}\nD.\\frac{1}{15}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{4}{15}−\\frac{2}{65}−\\frac{4}{39}=\\frac{52}{195}−\\frac{6}{195}−\\frac{20}{195}=\\frac{52−6−20}{195}=\\frac{26}{195}=\\frac{2}{15}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 16: Tính hợp lý B=\\frac{31}{23}−\\frac{7}{30}+\\frac{8}{23} ta được\nA.\\frac{23}{30}\nB.\\frac{7}{30}\nC.−\\frac{7}{30}\nD.−\\frac{23}{30}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n B=\\frac{31}{23}−\\frac{7}{30}+\\frac{8}{23}B=\\frac{31}{23}−\\frac{7}{30}−\\frac{8}{23}B=\\frac{31}{23}−\\frac{8}{23}−\\frac{7}{30}B=1−\\frac{7}{30}B=\\frac{23}{30}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 17: Cho M=\\frac{1}{3}+\\frac{12}{67}+\\frac{13}{41}−\\frac{79}{67}−\\frac{28}{41} và N=\\frac{38}{45}−\\frac{8}{45}−\\frac{17}{51}−\\frac{3}{11} . Chọn câu đúng.\nA. M = N\nB. N < 1 < M\nC. 1 < M < N\nD. M < 1 < N",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n M=\\frac{1}{3}+\\frac{12}{67}+\\frac{13}{41}−\\frac{79}{67}−\\frac{28}{41}\nM=\\frac{1}{3}+\\frac{12}{67}+\\frac{13}{41}−\\frac{79}{67}+\\frac{28}{41}M=\\frac{1}{3}+\\frac{12}{67}−\\frac{79}{67}+\\frac{13}{41}+\\frac{28}{41}M=\\frac{1}{3}+−1+1=\\frac{1}{3}\nN=\\frac{38}{45}−\\frac{8}{45}−\\frac{17}{51}−\\frac{3}{11}N=\\frac{38}{45}−\\frac{8}{45}+\\frac{17}{51}+\\frac{3}{11}N=\\frac{38}{45}−\\frac{8}{45}+\\frac{17}{51}+\\frac{3}{11}N=\\frac{2}{3}+\\frac{1}{3}+\\frac{3}{11}N=1+\\frac{3}{11}N=\\frac{14}{11}\nVìnên M < 1 < N\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 18: Tìm x sao chox−\\frac{−7}{12}=\\frac{17}{18}−\\frac{1}{9}\nA.−\\frac{1}{4}\nB.\\frac{17}{12}\nC.\\frac{1}{4}\nD.−\\frac{17}{12}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n x−\\frac{−7}{12}=\\frac{17}{18}−\\frac{1}{9}x−\\frac{−7}{12}=\\frac{5}{6}x=\\frac{5}{6}+\\frac{−7}{12}x=\\frac{1}{4}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 19: Giá trị nào của x dưới đây thỏa mãn \\frac{29}{30}−\\frac{13}{23}+x=\\frac{7}{69} ?\nA.\\frac{3}{10}\nB.\\frac{13}{23}\nC.\\frac{2}{5}\nD.−\\frac{3}{10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{29}{30}−\\frac{13}{23}+x=\\frac{7}{69}\\frac{13}{23}+x=\\frac{29}{30}−\\frac{7}{69}\\frac{13}{23}+x=\\frac{199}{230}x=\\frac{199}{230}−\\frac{13}{23}x=\\frac{3}{10}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 20: Có bao nhiêu số nguyên xx thỏa mãn \\frac{−5}{14}−\\frac{37}{14}≤x≤\\frac{31}{73}−\\frac{313131}{737373} ?\nA.3 \nB.5\nC.4\nD.1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{−5}{14}−\\frac{37}{14}≤x≤\\frac{31}{73}−\\frac{313131}{737373}\\frac{−5}{14}+\\frac{−37}{14}≤x≤\\frac{31}{73}−\\frac{313131:10101}{737373:10101}\\frac{−42}{14}≤x≤\\frac{31}{73}−\\frac{31}{73}−3≤x≤0x∈−3;−2;−1;0\nVậy có 4 giá trị của x thỏa mãn bài toán.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 21: Hai vòi nước cùng chảy vào một bể cạn. Vòi thứ nhất chảy riêng trong 10 giờ đầy bể, vòi thứ hai chảy riêng trong 8 giờ đầy bể. Vòi thứ ba tháo nước ra sau 5 giờ thì bể cạn. Nếu bể đang cạn, ta mở cả ba vòi thì sau 1 giờ chảy được bao nhiêu phần bể?\nA.\\frac{17}{40}\nB.\\frac{1}{40}C.\\frac{1}{13}\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong 1 giờ, vòi thứ nhất chảy được là:1:10=\\frac{1}{10}(bể)\nTrong 1 giờ, vòi thứ hai chảy được là: 1:8=\\frac{1}{8} (bể)\nTrong 1 giờ, vòi thứ ba tháo được là:1:5=\\frac{1}{5}(bể)\nSau 11 giờ, lượng nước trong bể có là:\n\\frac{1}{10}+\\frac{1}{8}−\\frac{1}{5}=\\frac{1}{40} (bể)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 22: Cho x là số thỏa mãn x+\\frac{4}{5.9}+\\frac{4}{9.13}+\\frac{4}{13.17}+...+\\frac{4}{41.45}=\\frac{−37}{45} . Chọn kết luận đúng:\nA.x nguyên âm \nB.x = 0 \nC.x nguyên dương\nD.x là phân số dương",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx+\\frac{4}{5.9}+\\frac{4}{9.13}+\\frac{4}{13.17}+...+\\frac{4}{41.45}=\\frac{−37}{45}x+\\frac{1}{5}−\\frac{1}{9}+\\frac{1}{9}−\\frac{1}{13}+...+\\frac{1}{41}−\\frac{1}{45}=−\\frac{37}{45}x+\\frac{1}{5}−\\frac{1}{45}=−\\frac{37}{45}x+\\frac{8}{45}=−\\frac{37}{45}x=−\\frac{37}{45}−\\frac{8}{45}x=−1\nVì -1 là số nguyên âm nên đáp án A đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 23: Cho P=\\frac{1}{22}+\\frac{1}{32}+...+\\frac{1}{20022}+\\frac{1}{20032}. Chọn câu đúng\nA. P > 1\nB. P > 2\nC. P < 1\nD. P < 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nP=\\frac{1}{22}+\\frac{1}{32}+...+\\frac{1}{20022}+\\frac{1}{20032}<\\frac{1}{1.2}+\\frac{1}{2.3}+...+\\frac{1}{2001.2002}+\\frac{1}{2002.2003}=\\frac{1}{1}−\\frac{1}{2}+\\frac{1}{2}−\\frac{1}{3}+...+\\frac{1}{2001}−\\frac{1}{2002}+\\frac{1}{2002}−\\frac{1}{2003}=1−\\frac{1}{2003}=\\frac{2002}{2003}<1\nVậy P < 1\nĐáp án cần chọn là: C"
+    }
+]

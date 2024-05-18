@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Khai phương tích \\(12.30.40\\) được:\n\\((A) 1200\\);         \\((B) 120\\);           \\((C) 12\\);           \\((D) 240\\)\nHãy chọn kết quả đúng.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các công thức sau:\n+) \\(\\sqrt{a.b}=\\sqrt{a}.\\sqrt{b}\\) ,   với \\(a ,\\ b \\ge 0\\).\n+) Nếu \\(a \\ge 0 \\) thì \\(\\sqrt{a^2}=a\\).\n+) Nếu \\(a < 0 \\) thì \\(\\sqrt{a^2}=-a\\).\n+) Với mọi \\(a,\\ b,\\ c\\)   ta có: \\(a.b.c=(a.b).c=a.(b.c)=b.(a.c)\\).\nLời giải chi tiết\nTa có:\n\\(\\sqrt{12.30.40}=\\sqrt{(3.4).(3.10).(4.10)}\\)\n\\(=\\sqrt{(3.3).(4.4).(10.10)}\\)\n\\(=\\sqrt{3^2.4^2.10^2}\\)\n\\(=\\sqrt{3^2}.\\sqrt{4^2}.\\sqrt{10^2}\\)\n\\(=3.4.10=120\\).\nVậy đáp án đúng là \\((B). 120\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Biến đổi các biểu thức dưới dấu căn thành dạng tích rồi tính:\na) \\( \\sqrt{13^{2}- 12^{2}}\\);                    b) \\( \\sqrt{17^{2}- 8^{2}}\\);\nc) \\( \\sqrt{117^{2} - 108^{2}}\\);                 d) \\( \\sqrt{313^{2} - 312^{2}}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các công thức sau:\n+) \\(a^2-b^2=(a+b)(a-b)\\).\n+) \\(\\sqrt{a.b}=\\sqrt{a}.\\sqrt{b}\\),   với \\(a ,\\ b \\ge 0\\).\n+) \\(\\sqrt{a^2}=|a|\\).\n+) Nếu \\(a \\ge 0\\)  thì \\(|a|=a\\)\nNếu \\(a <0\\)  thì \\(|a|=-a.\\)\nLời giải chi tiết\nCâu a: Ta có:\n\\(\\sqrt{13^{2}- 12^{2}}=\\sqrt{(13+12)(13-12)}\\)\n\\(=\\sqrt{25.1}=\\sqrt{25}\\)\n\\(=\\sqrt{5^2}=|5|=5\\).\nCâu b: Ta có:\n\\(\\sqrt{17^{2}- 8^{2}}=\\sqrt{(17+8)(17-8)}\\)\n\\(=\\sqrt{25.9}=\\sqrt{25}.\\sqrt{9}\\)\n\\(=\\sqrt{5^2}.\\sqrt{3^2}=|5|.|3|\\).\n\\(=5.3=15\\).\nCâu c: Ta có:\n\\(\\sqrt{117^{2} - 108^{2}} =\\sqrt{(117-108)(117+108)}\\)\n\\(=\\sqrt{9.225}\\) \\(=\\sqrt{9}.\\sqrt{225}\\)\n\\(=\\sqrt{3^2}.\\sqrt{15^2}=|3|.|15|\\)\n\\(=3.15=45\\).\nCâu d: Ta có:\n\\(\\sqrt{313^{2} - 312^{2}}=\\sqrt{(313-312)(313+312)}\\)\n\\(=\\sqrt{1.625}=\\sqrt{625}\\)\n\\(=\\sqrt{25^2}=|25|=25\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chứng minh.\na) \\((2 - \\sqrt{3})(2 + \\sqrt{3}) = 1\\);\nb) \\((\\sqrt{2006} - \\sqrt{2005})\\) và \\((\\sqrt{2006} + \\sqrt{2005})\\) là hai số nghịch đảo của nhau.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các công thức sau:\n+) \\(a^2-b^2=(a-b)(a+b)\\).\n+) \\((\\sqrt{a})^2=a\\),   với \\(a \\ge 0\\).\n+) Muốn chứng minh hai số là nghịch đảo của nhau ta chứng minh tích của chúng bằng \\(1\\).\nLời giải chi tiết\nCâu a: Ta có:\n\\((2 - \\sqrt{3})(2 + \\sqrt{3})=2^2-(\\sqrt{3})^2=4-3=1\\)\nCâu b:\nTa tìm tích của hai số \\((\\sqrt{2006} - \\sqrt{2005})\\) và \\((\\sqrt{2006} + \\sqrt{2005})\\)\nTa có:\n\\((\\sqrt{2006} + \\sqrt{2005}).(\\sqrt{2006} - \\sqrt{2005})\\)\n= \\((\\sqrt{2006})^2-(\\sqrt{2005})^2\\)\n\\(=2006-2005=1\\)\nDo đó  \\( (\\sqrt{2006} + \\sqrt{2005}).(\\sqrt{2006} - \\sqrt{2005})=1\\)\n\\(\\Leftrightarrow \\sqrt{2006}-\\sqrt{2005}=\\dfrac{1}{\\sqrt{2006}+\\sqrt{2005}}\\)\nVậy hai số trên là nghịch đảo của nhau."
+    },
+    {
+        "problem": "Tính và so sánh: \\(\\displaystyle \\sqrt {{{16} \\over {25}}} \\) và \\(\\displaystyle {{\\sqrt {16} } \\over {\\sqrt {25} }}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính từng biểu thức rồi so sánh.\nLời giải chi tiết\nTa có:\n+) \\(\\displaystyle \\sqrt {{{16} \\over {25}}}  = \\sqrt {{{\\left( {{4 \\over 5}} \\right)}^2}}  = {4 \\over 5}\\)\n+) \\(\\displaystyle {{\\sqrt {16} } \\over {\\sqrt {25} }} = {4 \\over 5}\\)\n\\( \\displaystyle \\Rightarrow \\sqrt {{{16} \\over {25}}}  = {{\\sqrt {16} } \\over {\\sqrt {25} }}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm \\(x\\) biết:\na) \\( \\sqrt{16x}= 8\\);                        b) \\( \\sqrt{4x} = \\sqrt{5}\\);\nc) \\( \\sqrt{9(x - 1)} = 21\\);             d) \\( \\sqrt{4(1 - x)^{2}}- 6 = 0\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Đặt điều kiện để biểu thức có nghĩa: \\(\\sqrt A \\) có nghĩa khi và chỉ khi \\(A \\ge 0\\)\n- Bình phương hai vế rồi giải bài toán tìm x.\n- Ta sử dụng các cách làm sau:\n\\(\\sqrt A  = B\\left( {B \\ge 0} \\right) \\Leftrightarrow A = {B^2}\\)\n\\(\\sqrt A  = \\sqrt B \\left( {A \\ge 0;B \\ge 0} \\right) \\Leftrightarrow A = B\\)\nLời giải chi tiết\na) Điều kiện: \\(x \\ge 0\\)\n\\(\\sqrt {16x}  = 8\\)\\( \\Leftrightarrow {\\left( {\\sqrt {16x} } \\right)^2} = {8^2}\\) \\( \\Leftrightarrow 16x = 64\\) \\( \\Leftrightarrow x = \\dfrac{{64}}{{16}} \\Leftrightarrow x = 4\\) (thỏa mãn điều kiện)\nVậy \\(x=4\\).\nCách khác:\n\\(\\begin{array}{l}\\sqrt {16x} = 8 \\Leftrightarrow \\sqrt {16} .\\sqrt x = 8\\\\ \\Leftrightarrow 4\\sqrt x = 8 \\Leftrightarrow \\sqrt x = 2\\\\ \\Leftrightarrow x = {2^2} \\Leftrightarrow x = 4\\end{array}\\)\nb) Điều kiện: \\(4x \\ge 0 \\Leftrightarrow x \\ge 0\\)\n\\(\\sqrt {4x}  = \\sqrt 5 \\) \\( \\Leftrightarrow {\\left( {\\sqrt {4x} } \\right)^2} = {\\left( {\\sqrt 5 } \\right)^2} \\Leftrightarrow 4x = 5 \\Leftrightarrow x = \\dfrac{5}{4}\\) (thỏa mãn điều kiện)\nVậy \\(x=\\dfrac{5}{4}\\).\nc) Điều kiện: \\(9\\left( {x - 1} \\right) \\ge 0 \\Leftrightarrow x - 1 \\ge 0 \\Leftrightarrow x \\ge 1\\)\n\\(\\sqrt {9\\left( {x - 1} \\right)}  = 21\\)\\( \\Leftrightarrow 3\\sqrt {x - 1}  = 21\\)\\( \\Leftrightarrow \\sqrt {x - 1}  = 7\\) \\( \\Leftrightarrow x - 1 = 49 \\Leftrightarrow x = 50\\) (thỏa mãn điều kiện)\nVậy \\(x=50\\).\nCách khác:\n\\(\\begin{array}{l}\\sqrt {9\\left( {x - 1} \\right)} = 21 \\Leftrightarrow 9\\left( {x - 1} \\right) = {21^2}\\\\ \\Leftrightarrow 9\\left( {x - 1} \\right) = 441 \\Leftrightarrow x - 1 = 49\\\\ \\Leftrightarrow x = 50\\end{array}\\)\nd) Điều kiện: \\(x \\in R\\) (vì \\(4.(1-x)^2\\ge 0\\) với mọi \\(x)\\)\n\\(\\sqrt {4{{\\left( {1 - x} \\right)}^2}}  - 6 = 0\\)\\( \\Leftrightarrow 2\\sqrt {{{\\left( {1 - x} \\right)}^2}}  = 6\\) \\( \\Leftrightarrow \\left| {1 - x} \\right| = 3\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l}1 - x = 3\\\\1 - x =  - 3\\end{array} \\right.\\) \\( \\Leftrightarrow \\left[ \\begin{array}{l}x =  - 2\\\\x = 4\\end{array} \\right.\\)\nVậy \\(x=-2;x=4.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) So sánh \\( \\sqrt{25 + 9}\\) và \\( \\sqrt{25} + \\sqrt{9}\\);\nb) Với \\(a > 0\\) và \\(b > 0\\), chứng minh \\( \\sqrt{a + b} < \\sqrt{a}+\\sqrt{b}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng định lí so sánh hai căn bậc hai:\n\\(a < b \\Leftrightarrow \\sqrt{a} < \\sqrt{b}\\),   với \\(a,\\ b \\ge 0\\).\n+) Sử dụng các công thức: với \\(a ,\\ b \\ge 0\\) , ta có:\n\\((\\sqrt{a})^2=a\\).\n\\(\\sqrt{a}.\\sqrt{b}=\\sqrt{ab}\\).\nLời giải chi tiết\na) Ta có:\n\\(+)  \\sqrt{25 + 9}=\\sqrt{34}\\).\n\\(+)  \\sqrt{25} + \\sqrt{9}=\\sqrt{5^2}+\\sqrt{3^2}=5+3\\)\n\\(=8=\\sqrt{8^2}=\\sqrt{64}\\).\nVì \\(34<64\\) nên \\(\\sqrt{34}<\\sqrt{64}\\)\nVậy \\(\\sqrt{25 + 9}<\\sqrt{25} + \\sqrt{9}\\)\nb) Với \\(a>0,b>0\\), ta có\n\\(+)\\, (\\sqrt{a + b})^{2} = a + b\\).\n\\(+) \\,(\\sqrt{a} + \\sqrt{b})^{2}= (\\sqrt{a})^2+ 2\\sqrt a .\\sqrt b +(\\sqrt{b})^2\\)\n\\( = a +2\\sqrt{ab}  + b\\)\n\\(=(a+b) +2\\sqrt{ab}\\).\nVì \\(a > 0,\\ b > 0\\) nên \\(\\sqrt{ab} > 0 \\Leftrightarrow 2\\sqrt{ab} >0\\)\n\\(\\Leftrightarrow (a+b) +2\\sqrt{ab} > a+b\\)\n\\(\\Leftrightarrow (\\sqrt{a}+\\sqrt{ b})^2 > (\\sqrt{a+b})^2\\)\n\\(\\Leftrightarrow \\sqrt{a}+\\sqrt{b}>\\sqrt{a+b}\\) (đpcm)\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh\na) \\(4\\) và \\(2\\sqrt{3}\\);           b) \\(-\\sqrt{5}\\) và \\(-2\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng các công thức sau:  \\((\\sqrt a)^2=a\\),   với \\(a \\ge 0\\).\n+) Sử dụng định lí so sánh hai căn bậc hai số học:\n\\(a< b \\Leftrightarrow \\sqrt a < \\sqrt b\\),  với \\(a,\\ b \\ge 0\\).\n+) Sử dụng tính chất của bất đẳng thức:\n\\(a< b \\Leftrightarrow a.c > b.c\\),   với \\( c<0\\).\nLời giải chi tiết\na)  Ta có:\n\\(\\begin{array}{l}4 > 3 \\Leftrightarrow \\sqrt 4 > \\sqrt 3 \\\\ \\Leftrightarrow 2 > \\sqrt 3 \\\\ \\Leftrightarrow 2.2 > 2.\\sqrt 3 \\\\ \\Leftrightarrow 4 > 2\\sqrt 3 \\end{array}\\)\nCách khác:\nTa có:\n\\(\\left\\{ \\matrix{ {4^2} = 16 \\hfill \\cr  {\\left( {2\\sqrt 3 } \\right)^2} = {2^2}.{\\left( {\\sqrt 3 } \\right)^2} = 4.3 = 12 \\hfill \\cr} \\right.\\)\nVì \\(16> 12 \\Leftrightarrow \\sqrt {16} > \\sqrt 12 \\)\nHay \\(4 > 2\\sqrt 3\\).\nb) Vì \\(5>4 \\Leftrightarrow \\sqrt 5 > \\sqrt 4 \\)\n\\(\\Leftrightarrow \\sqrt 5 > 2\\)\n\\(\\Leftrightarrow -\\sqrt 5 < -2\\) (Nhân cả hai vế bất phương trình trên với \\(-1\\))\nVậy \\(-\\sqrt{5} < -2\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính\na) \\(\\displaystyle \\sqrt {{{225} \\over {256}}} \\)\nb) \\(\\sqrt {0,0196} \\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức khai phương 1 thương:\nVới \\(a\\ge 0;b>0\\) ta có \\(\\sqrt {\\dfrac{a}{b}}  = \\dfrac{{\\sqrt a }}{{\\sqrt b }}\\)\nLời giải chi tiết\na)\\(\\displaystyle \\sqrt {{{225} \\over {256}}}  = {{\\sqrt {225} } \\over {\\sqrt {256} }} = {{15} \\over {16}}\\)\nb) \\(\\displaystyle \\sqrt {0,0196}  = \\sqrt {{{196} \\over {10000}}}  \\)\\(\\displaystyle = {{\\sqrt {196} } \\over {\\sqrt {10000} }} = {{14} \\over {100}} = 0,14\\)\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "Tính: a) \\(\\displaystyle {{\\sqrt {999} } \\over {\\sqrt {111} }}\\)                     b) \\(\\displaystyle {{\\sqrt {52} } \\over {\\sqrt {117} }}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức:\nVới \\(a\\ge 0;b>0\\) ta có \\( \\dfrac{{\\sqrt a }}{{\\sqrt b }}=\\sqrt {\\dfrac{a}{b}} \\)\nLời giải chi tiết\na) \\(\\displaystyle {{\\sqrt {999} } \\over {\\sqrt {111} }} = \\sqrt {{{999} \\over {111}}}  = \\sqrt 9  = 3\\)\nb) \\(\\displaystyle {{\\sqrt {52} } \\over {\\sqrt {117} }} \\)\\(\\displaystyle = \\sqrt {{{52} \\over {117}}}  = \\sqrt {{4 \\over 9}}  = \\dfrac{2}{3}\\)\nLoigiaihay.com"
+    }
+]

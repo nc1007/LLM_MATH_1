@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Viết tổng sau dưới dạng không có dấu ngoặc rồi tính giá trị của nó:\n(-23) – 15 - (-23) + 5 + (-10).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Áp dụng quy tắc cộng hoặc trừ số nguyên để viết phép tính dưới dạng không có ngoặc.\n- Thực hiện phép tính\nLời giải chi tiết\n(-23) – 15 - (-23) + 5 + (-10).\n= -23 – 15 + 23 + 5 – 10\n= (-23 + 23) + (-15 + 5 - 10)\n= 0 +(- 20) = -20"
+    },
+    {
+        "problem": "Tính và so sánh kết quả của:\na) 4 + (12 – 15) và 4 + 12 – 15;\nb) 4 - (12 - 15) và 4 - 12 + 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính rồi so sánh kết quả\nLời giải chi tiết\na) 4 + (12 - 15) = 4 + (-3) = 1\n4 + 12 - 15 = 16 - 15 = 1\nVậy 4 + (12 - 15) = 4 + 12 - 15\nb) 4 - (12 - 15) = 4 - (-3) = 4 + 3 = 7\n4 - 12 + 15 = (-8) + 15 = 7\nVậy 4 - (12 - 15) = 4 - 12 + 15"
+    },
+    {
+        "problem": "Hãy nhận xét về sự thay đổi dấu của các số hạng trong dấu ngoặc trước và sau khi bỏ dấu ngoặc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận xét khi:\n+ Trước dấu ngoặc là dấu \"+ \"\n+ Trước dấu ngoặc là dấu \"- \"\nLời giải chi tiết\n+ Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, dấu của các số hạng trong dấu ngoặc trước và sau khi bỏ dấu ngoặc được giữ nguyên.\n+ Khi bỏ dấu ngoặc có dấu \" - \" đằng trước, dấu của các số hạng trong dấu ngoặc trước và sau khi bỏ dấu ngoặc thay đổi: dấu \" + \" đổi thành \" - \" ; dấu \" - \" đổi thành \" + \"."
+    },
+    {
+        "problem": "Bỏ dấu ngoặc rồi tính các tổng sau:\na) (-385 + 210) + (385 - 217);\nb) (72 - 1 956) - (-1956 + 28).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \"\nLời giải chi tiết\na) (-385 + 210) + (385 - 217)\n= -385 + 210 + 385 - 217\n= (-385 + 385) + (210 – 217)\n= 0 + (-7) = -7\nb) (72 - 1 956) - (-1 956 + 28)\n= 72 - 1 956 + 1956 - 28\n= ( 1956 – 1956) + ( 72 – 28)\n= 0 + 44 = 44."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 12 +13 + 14 - 15 - 16 - 17;\nb) (35-17) - (25 - 7 + 22).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Áp dụng tính chất giao hoán và kết hợp của phép cộng.\n- Áp dụng quy tắc dấu ngoặc.\nKhi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \"\nLời giải chi tiết\na) 12 + 13 + 14 - 15 - 16 - 17\n= (12 - 15) + (13 - 16) + (14 - 17)\n= (-3) + (-3) + (-3) = -9\nb) (35 - 17) - (25 - 7 + 22)\n= 35 - 17 - 25 + 7 - 22\n= (35 - 25) - (17 - 7) - 22\n= 10 - 10 - 22 = -22"
+    },
+    {
+        "problem": "Cho bảng 3 x 3 ô vuông như hình 3.17.\n\na) Biết rằng tổng các số trong mỗi hàng, mỗi cột, mỗi đường chéo đều bằng 0. Tính tổng các số trong bảng đó.\nb) Hãy thay các chữ trong bảng bởi số thích hợp sao cho tổng các số trong mỗi hàng, mỗi cột, mỗi đường chéo đều bằng 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tổng các số trong bảng = Tổng các hàng.\nb) Dựa vào gợi ý tổng các số trong mỗi hàng, mỗi cột, mỗi đường chéo đều bằng 0 để tìm các số trong bảng.\nLời giải chi tiết\na) Tổng các số trong bảng = Tổng các hàng\nMà tổng các hàng bằng 0 nên tổng các số trong bảng đó bằng 0.\nb) Xét hàng số 1 ta có:\na + (-2) + (-1) = 0 => a + (-3) = 0 => a = 3\nXét cột số 1 ta có:\n3 + (-4) + d = 0 => (-1) + d = 0 => d = 1.\nXét đường chéo chứa b và d có:\n(-1) + b + d = 0 => (-1) + b +1 = 0 => b = 0.\nXét cột số 2 ta có:\n(-2) + 0 + e = 0 => e = 2\nXét dòng số 2 có:\n-4 + b + c = 0 => -4 + 0 + c = 0 => c =4\nXét dòng số 3 có:\nd + e + g = 0 => 1 + 2 + g = 0 => g = -3\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bỏ dấu ngoặc và tính các tổng sau:\na) -321 + (-29) - 142-(-72);\nb) 214-(-36) + (-305).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) -321  + (-29) - 142  - (-72)\n= [-321  +(-29)]+ [(-142)  + 72]\n= [-(321 + 29)] + [- (142 - 72)]\n= (-350) + (-70)\n= -(350 + 70)\n= -420\nb) 214 - (-36) + (-305)\n= 214 + 36 - 305\n= 250 - 305\n= -(305 - 250)\n= -55."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 21 - 22 + 23 - 24\nb) 125 - (115 - 99).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bỏ ngoặc và nhóm các số hạng có tổng \"đẹp\"\nLời giải chi tiết\na) 21 - 22 + 23 - 24\n= (21 - 22) + (23 - 24)\n= (-1) + (-1)  = -2\nb) 125 - (115 - 99)\n= 125 - 115 + 99\n= (125 - 115) + 99\n= 10 + 99 = 109.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bỏ dấu ngoặc rồi tính:\na) (56 - 27) - (11 + 28 -16);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\n+ Khi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) (56 - 27) - (11 + 28 - 16)\n= 56 - 27 - 11 - 28 + 16\n= 56 – ( 27 + 11 + 28) + 16\n= 56 – 66 + 16\n= -10 + 16\n= 6\nb) 28 + (19 - 28) - (32 - 57)\n= 28 + 19 – 28 – 32 + 57\n= (28 – 28) + 19 - 32 + 57\n= 0 + (-13) + 57\n= 44"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 232 - (581 + 132 - 331);\nb) [12 + (-57)) – [-57- (-12)].",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) 232 - (581 + 132 - 331)\n= 232 - 581 - 132 + 331\n= (232 - 132) - (581 - 331)\n= 100 - 250\n= -(250 - 100)\n= -150\nb) [12 + (-57)] - [-57 - (-12)]\n= 12 - 57 + 57 - 12\n= (12 - 12) + (57 - 57)\n= 0 + 0\n= 0"
+    },
+    {
+        "problem": "Tính giá trị của các biểu thức sau:\na) (23 + x) - (56 – x) với x = 7;\nb) 25 – x - (29 + y - 8) với x = 13, y = 11.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) Cách 1: Thay x = 7, ta có:\n(23 + x) - (56 - x)\n= (23 + 7) - (56 - 7)\n= 30 - 49\n= -19\nCách 2:\nThay x = 7, ta có:\n(23 + x) - (56 - x)\n= (23 + 7) - (56 - 7)\n= 23 + 7 - 56 + 7\n= 30 - 56 + 7\n= (-26) + 7\n=-19.\nb)  Cách 1: Thay x = 13, y = 11, ta có:\n25 - x - (29 + y - 8)\n= 25 - 13 - (29 + 11 - 8)\n= 12 - 32\n= -20.\nCách 2: Thay x = 13, y = 11, ta có:\n25 - x - (29 + y - 8)\n= 25 - 13 - (29 + 11 - 8)\n= 25 - 13 - 29 - 11 + 8\n= 12 - 29 - 11 + 8\n= (-17) - 11 + 8\n= (-28) + 8\n=-20."
+    }
+]

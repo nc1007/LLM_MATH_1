@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Dùng số âm để diễn tả các thông tin sau:\na) Ở nơi lạnh nhất thế giới, nhiệt độ có thể xuống đến 60oC dưới 0°C.\nb) Do dịch bệnh, một công ty trong một tháng đã bị lỗ 2 triệu đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhiệt độ dưới 0oC và số tiền lỗ được biểu thị bằng số âm\nLời giải chi tiết\na) Ở nơi lạnh nhất thế giới, nhiệt độ có thể xuống tới -60oC.\nb) Do dịch bệnh, một công ty trong một tháng đã thu về - 2 triệu đồng\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các số a, b, c, d, số nào dương, số nào âm nếu:\na > 0;            b < 0;          c \\( \\ge \\)1:                d\\( \\le \\)- 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh với số 0\n+Các số lớn hơn 0 là số dương\n+Các số nhỏ hơn 0 là số âm\nLời giải chi tiết\nTa có: +) a > 0 nên a là số dương\n+) b < 0 nên b là số âm\n+) c ≥ 1 > 0 nên c là số dương\n+) d ≤ -2 < 0 nên d là số âm.\nVậy: Các số dương là : a, c\nCác số âm là: b, d"
+    },
+    {
+        "problem": "Liệt kê các phần tử của tập hợp sau rồi tính tổng của chúng\na) S = \\({\\rm{\\{ }}x \\in \\mathbb{Z}| - 5 < x \\le 5\\} ;\\)\nb) T = \\({\\rm{\\{ }}x \\in \\mathbb{Z}| - 7 \\le x < 1\\} .\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Liệt kê các số lớn hơn âm 5 và nhỏ hơn hoặc bằng 5. Sau đó tính tổng\nb) Liệt kê các số lớn hơn hoặc bằng âm 7 và nhỏ hơn 1.\nLời giải chi tiết\na) S = {-4; -3; -2; -1; 0; 1; 2; 3; 4; 5}\nTổng các phần tử trong S:\n(-4) + (-3) + (-2) + (-1) + 0+ 1 + 2 + 3 + 4 + 5\n= [(-4)+4] + [(-3) + 3] + [(-2) + 2] + [(-1) +1] + 0 + 5\n= 0+0+0+0+0+5\n= 5\nb) T = {-7; -6; -5; -4; -3; -2; -1; 0}\nTổng các phần tử trong T:\n(-7) + (-6) + (-5) + (-4) + (-3) + (-2) + (-1) + 0 = -28"
+    },
+    {
+        "problem": "a) 15.(-236) + 15.235;\nb) 237. (-28) + 28. 137;\nc) 38. (27 - 44) - 27.(38 - 44).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất: a.(b + c) = ab + ac\nLời giải chi tiết\na) 15.(-236) + 15.235\n= 15.(-236 + 235)\n= 15.(-1)\n= -15\nb) 237.(-28) + 28.137\n= 237.(-28) - (-28).137\n= (-28).(237 - 137)\n= (-28).100\n= -2800\nc) 38.(27 - 44) - 27.(38 - 44)\n= 38.27 - 38.44 - 27.38 + 27.44\n= (38.27 - 27.38) + (-38). 44 + 27 . 44\n= 0 + 44.[(-38)+27]\n= 44.(-11)\n= -484"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức P = (-35). x - (-15) - 37 trong mỗi trường hợp sau:\na) x = 15;         b) x = -37.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay giá trị của x vào biểu thức P rồi tính.\nLời giải chi tiết\na) Thay x = 15 ta được:\nP = (-35).x - (-15).37 = (-35).15 - (-15).37\n= (-35).15 + 15.37 = 15.[(-35) +37] = 15.2 = 30.\nb) Thay x = -37 ta được:\nP = (-35).(-37) - (-15).37 = 35.37 + 15.37\n= 37.(15 + 35) = 37.50 = 1850."
+    },
+    {
+        "problem": "Có hay không hai số nguyên a và b mà hiệu a - b:\na) lớn hơn cả a và b;\nb) lớn hơn a nhưng nhỏ hơn b?\nTrong mỗi trường hợp, hãy cho ví dụ minh hoạ bằng số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chọn b < 0  và a >2b\nb) Chọn b < 0 và a < 2b\nLời giải chi tiết\na) Ví dụ a = 3 và b = - 6 thì hiệu a - b = 3 – (-6) = 9 lớn hơn cả a và b.\nb) Ví dụ a = -7 và b = -1 thì hiệu a - b = -7 – (-1) = -6 lớn hơn a nhưng nhỏ hơn b.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho 15 số có tính chất tích của 5 số bất kì trong chúng đều âm. Hỏi tích của 15 số đó mang dấu gì?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia 15 số thành ba nhóm mỗi nhóm 5 số.\nLời giải chi tiết\nTa chia 15 số thành 3 nhóm mỗi nhóm 5 số => Tích mỗi nhóm mang dấu âm\nDo đó tích của cả 15 số mang dấu âm."
+    },
+]

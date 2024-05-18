@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Điểm cao nhất thuộc về bạn nào, môn nào?\nA. Bạn Nam môn Tiếng Anh\nB. Bạn Nam môn Toán\nC. Bạn Khải môn Toán\nD. Bạn Khải môn Ngữ văn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCột cao nhất là cột màu xanh, môn Toán.\nVậy điểm cao nhất thuộc về bạn Khải môn Toán.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Số lượng học sinh học lực trung bình ít hơn số lượng học sinh học lực khá là\nA. 88 học sinh\nB. 90 học sinh\nC. 102 học sinh\nD. 140 học sinh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố học sinh khá là 140 và số học sinh trung bình là 52.\nSố học sinh học lực trung bình ít hơn số lượng học sinh học lực khá là\n140 - 52=88 (học sinh).\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Điểm Toán của Lan cao hơn Hải là bao nhiêu điểm?\nA. 8 điểm\nB. 0 điểm\nC. 1 điểm\nD. 2 điểm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐiểm toán của Lan là 8 và của Hải là 7.\nĐiểm toán của Lan cao hơn của Hải là 8-7=1 điểm.\nĐáp án cần chọn là: C"
+    }
+]

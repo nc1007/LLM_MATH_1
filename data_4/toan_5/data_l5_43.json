@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 10: Một thửa ruộng hình thang có đáy bé bằng  đáy lớn, chiều cao bằng  đáy lớn. Biết đáy lớn hình thang là 260m. Để làm sạch cỏ trên thửa ruộng, bác Hùng cần 0,75 giờ cho mỗi 100m^{2}  đất. Hỏi bác Hùng cần dùng bao nhiêu giờ để làm sạch cỏ trên cả thửa ruộng ấy?\nA.\t76,05 giờ\nB.\t101,4 giờ\nC.\t180 giờ\nD.\t202,8 giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài đáy bé của thửa ruộng đó là:   \n260 × 35 = 156 (m)\nChiều cao của thửa ruộng đó là:\n260 × 14 = 65 (m)\nDiện tích của thửa ruộng đó là:    \n(156 + 260) × 652 = 13520 (m^{2} )\n13520m^{2}  gấp 100m^{2}  số lần là:\n13520:  100 = 135,2 (lần)\nBác Hùng cần dùng số giờ để làm sạch cỏ trên cả thửa ruộng đó là:  \n0,75 × 135,2 = 101,4 (giờ)\nĐáp số: 101,4 giờ."
+    }
+]

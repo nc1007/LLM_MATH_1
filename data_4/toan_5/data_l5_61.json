@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1: Muốn tính quãng đường ta lấy vận tốc chia cho thời gian. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính quãng đường ta lấy vận tốc nhân với thời gian.\nVậy phát biểu đã cho là sai."
+    },
+    {
+        "problem": "Câu 2: Gọi vận tốc là v, quãng đường là s, thời gian là t. Công thức tính quãng đường là:\nA.\ts = v + t\nB.\ts = v – t \nC.\ts = v × t\nD.\ts = v : t",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính quãng đường ta lấy vận tốc nhân với thời gian.\nGọi vận tốc là v, quãng đường là s, thời gian là t, ta có: s = v × t"
+    },
+    {
+        "problem": "Câu 3: Chọn số thích hợp điền vào chỗ chấm:\nA.\t220\nB.\t225\nC.\t230\nD.\t235",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quãng đường cần tìm là:\n45 × 5 = 225 (m)\nVậy đáp án đúng điền vào chỗ chấm là 225."
+    },
+    {
+        "problem": "Câu 4: Chọn số thích hợp điền vào chỗ chấm:\nA.\t96\nB.\t97\nC.\t98\nD.\t99",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quãng đường cần tìm là:\n28 × 3,5 = 98 (km)\nVậy đáp án đúng điền vào chỗ chấm là 98."
+    },
+    {
+        "problem": "Câu 5: Chọn số thích hợp điền vào chỗ chấm:\nA.\t26,25m\nB.\t262,5m\nC.\t157,5m\nD.\t1575m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 1,75 phút = 105 giây\nQuãng đường cần tìm là:\n15 × 105 = 1575 (m)\nĐáp số: 1575m."
+    },
+    {
+        "problem": "Câu 7: Một con thỏ chạy với vận tốc 4 m/giây. Tính quãng đường con thỏ chạy được trong 2,25 phút.\nA.\t9m\nB.\t90m\nC.\t540m\nD.\t900m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 2,25 phút = 135 giây\nQuãng đường con thỏ chạy được là:\n4 × 135 = 540 (m)\nĐáp số: 540m."
+    },
+    {
+        "problem": "Câu 9: Một ô tô đi từ A đến B với vận tốc 48 km/giờ. Ô tô khởi hành lúc 8 giờ và đến B lúc 10 giờ 30 phút. Tính quãng đường AB, biết dọc đường ô tô nghỉ 15 phút.\nA.\t108km\nB.\t120km\nC.\t128km\nD.\t132km",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu không tính thời gian nghỉ, ô tô đi từ A đến B hết số thời gian là:\n10 giờ 30 phút − 8 giờ − 15 phút = 2 giờ 15 phút\nĐổi: 2 giờ 15 phút = 2,25 giờ\nQuãng đường AB dài số ki-lô-mét là:\n48 × 2,25 = 108 (km)\nĐáp số: 108km."
+    },
+    {
+        "problem": "Câu 13: Một vận động viên đạp xe đạp trên một đường đua là một đường tròn với vận tốc 25,12 km/giờ. Anh ta đi trong 15 phút thì được một vòng tròn. Tính bán kính đường đua.\nA.\t0,25km\nB.\t0,5km\nC.\t1km\nD.\t2km",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 15 phút = 0,25 giờ\nQuãng đường vận động viên đi được khi đạp 1 vòng đường đua là:\n25,12 × 0,25 = 6,28 (km)\nVậy chu vi đường đua là 6,28km.\nBán kính đường đua là:\n6,28 : 3,14 : 2 = 1 (km)\nĐáp số: 1km."
+    }
+]

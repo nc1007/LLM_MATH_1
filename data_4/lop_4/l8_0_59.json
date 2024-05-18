@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : Hãy so sánh 2 biểu thức P và Q, biết:  \nP = (98 × 45) ∶  9;\n\tQ = (56 × 74) ∶ 7\nA.\tP = Q\nB.\tP > Q\nC.\tP < Q",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nP=(98×45):9=98×(45:9)=98×5=490\nQ=(56×74):7=(56:7)×74=8×74=592 \nMà 490 < 592.\nDo đó: (98×45):9 < (56×74):7 \nHay P < Q"
+    },
+    {
+        "problem": "Câu 4 : Biểu thức nào dưới đây có dạng một tích chia cho một số: \nA. (45 + 15) ∶ 5\nB. (45 - 15) ∶ 5\nC. (45 × 15) ∶ 5\nD. (45 ∶ 15) ∶ 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải:\n(45+15):5 có dạng một tổng chia cho một số.\n(45−15):5 có dạng một hiệu chia cho một số.\n(45×15):5 có dạng một tích chia cho một số.\n(45:15)×5 có dạng một thương chia cho một số.\nVậy biểu thức có dạng một tích chia cho một số là (45×15):5."
+    },
+    {
+        "problem": "Câu 5 : Khi chia một tích hai thừa số cho một số, ta có thể lấy một thừa số chia cho số đó (nếu chia hết), \nrồi nhân kết quả với thừa số kia. Đúng hay sai? \nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi chia một tích hai thừa số cho một số, ta có thể lấy một thừa số chia cho số đó (nếu chia hết), \nrồi nhân kết quả với thừa số kia.\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 6 : (18 × 21) ∶ 3 = ....  \nBiểu thức thích hợp điền vào chỗ chấm là:\nA. (18∶3)×21\nB. 18×(21∶3)\nC. Cả A và B đều sai\nD. Cả A và B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy biểu thức (18×21):3 có dạng cho một tích chia cho một số.\nKhi chia một tích hai thừa số cho một số, ta có thể lấy một thừa số chia cho số đó (nếu chia hết),\nrồi nhân kết quả với thừa số kia.\nMà 18 và 21 đều chia hết cho 3.\nDo đó ta có: (18×21):3=(18:3)×21=18×(21:3) \nVậy cả hai đáp án A, B đều đúng."
+    },
+    {
+        "problem": "Câu 7 : Cho biểu thức:  \n(35 × 8) ∶ 7 = (35 ∶ 7) ...  8  \nDấu thích hợp điền vào chỗ chấm là\nA. +\nB. –\nC. ×\nD. :",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy biểu thức (35×8):7 có dạng một tích chia cho một số.\nKhi chia một tích hai thừa số cho một số, ta có thể lấy một thừa số chia cho số đó (nếu chia hết), \nrồi nhân kết quả với thừa số kia.\nMà 35 chia hết cho 7.\nDo đó ta có: (35×8):7=(35:7)×8.\nVậy dấu thích hợp điền vào chỗ chấm là dấu nhân (dấu ×)."
+    },
+    {
+        "problem": "Câu 11 : Tích của 45 và 54 chia cho 5 được kết quả là: \nA.\t446\nB.\t448\nC.\t468\nD.\t486",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tích của 45 và 54 là 45×54.\nTheo đề bài ta có biểu thức: (45×54):5.\nKhi chia một tích hai thừa số cho một số, ta có thể lấy một thừa số chia cho số đó (nếu chia hết), \nrồi nhân kết quả với thừa số kia.\nDo đó ta có: (45×54):5=(45:5)×54=9×54=486.\nVậy tích của 45 và 54 chia cho 5 được kết quả là 486."
+    },
+    {
+        "problem": "Câu 12 : Chọn dấu thích hợp để điền vào chỗ chấm:    \n(68 × 40) ∶  8 ...345 \nA.\t<\nB.\t>\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi chia một tích hai thừa số cho một số, ta có thể lấy một thừa số chia cho số đó \n(nếu chia hết), rồi nhân kết quả với thừa số kia.\nDo đó ta có: (68×40):8=68×(40:8)=68×5=340 \nMà: 340 < 345.\nVậy: (68×40):8 < 345."
+    }
+]

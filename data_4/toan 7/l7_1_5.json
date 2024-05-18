@@ -1,0 +1,164 @@
+[
+    {
+        "problem": "B.\\frac{3}{5}; \nC. ± 3,5;\nD. − 3,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nSố đối của số hữu tỉ a, kí hiệu là − a.\nDo đó số đối của – 3,5 là – (‒3,5) = 3.5.\nVậy số đối của ‒3,5 là 3,5."
+    },
+    {
+        "problem": "Câu 3. Hãy sắp xếp các số hữu tỉ sau đây theo thứ tự tăng dần: \\frac{1}{5},\\frac{−}{5},\\frac{3}{7},\\frac{−}{3},0.\nA. \\frac{−}{5}\\frac{−}{3}\\frac{1}{5}\\frac{3}{7};\nB. \\frac{−}{5}\\frac{−}{3}\\frac{3}{7}\\frac{1}{5}; \nC. \\frac{−}{3}\\frac{−}{5}\\frac{1}{5}\\frac{3}{7}; \nD. \\frac{−}{3}\\frac{−}{5}\\frac{3}{7}\\frac{1}{5}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có \\frac{−}{3}\\frac{−}{15}\\frac{−}{5}\\frac{−}{15} \nDo \\frac{−}{15}\\frac{−}{15}\\frac{−}{3}\\frac{−}{5}.\n\\frac{3}{7}\\frac{15}{35},\\frac{1}{5}\\frac{7}{35}; \nDo \\frac{15}{35}\\frac{7}{35}\\frac{3}{7}\\frac{1}{5}>0.\nVậy thứ tự tăng dần của dãy số là: \\frac{3}{7}\\frac{1}{5}\\frac{−}{3}\\frac{−}{5}. \nDo đó \\frac{−}{5}\\frac{−}{3}\\frac{1}{5}\\frac{3}{7}. \nVậy sắp xếp các số theo thứ tự tăng dần là: \\frac{−}{5}\\frac{−}{3}\\frac{1}{5}\\frac{3}{7} ."
+    },
+    {
+        "problem": "Câu 4. Lan muốn mua một chiếc áo nhưng không biết chiều dài của áo tương ứng với các size S, M, L. Người bán hàng cho biết chiều dài áo tương ứng với các size S, M, L lần lượt là 48,5 cm; 50,2 cm; 52,4 cm. Chiếc áo Lan mua phải dài hơn \\frac{1}{3} chiều cao của Lan, biết Lan cao 155 cm. Lan nên mua chiếc áo có size gì?\nA. Size S;\nB. Size M;\nC. Size L;\nD. Size M và L đều được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nChiếc áo Lan mua cần dài hơn \\frac{155}{3} cm;\nTa có: 48,5\\frac{485}{10};\\frac{502}{10};\\frac{524}{10}; \nMà \\frac{155}{3}\\frac{1550}{30};\\frac{485}{10}\\frac{1455}{30}; \n\\frac{502}{10}\\frac{1506}{30};\\frac{524}{10}\\frac{1572}{30};\nVà 1572 > 1550 > 1506 > 1455;\nSuy ra \\frac{1572}{30}\\frac{1550}{30}\\frac{1506}{30}\\frac{1455}{30}; \nHay 52,4 > \\frac{155}{3} > 50,2 > 48,5.\nVậy Lan nên mua chiếc áo size L."
+    },
+    {
+        "problem": "Câu 5. Cho số hữu tỉ x\\frac{m−}{2021} , với giá trị nào của m thì x là số không dương không âm.\nA. m = 2021;\nB. m = 2020;\nC. m = 2019;\nD. m = 2022.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDo x là số hữu tỉ không dương và không âm nên x = 0;\nSuy ra \\frac{m−2022}{2021} \nm – 2022 = 0;\nm = 2022.\nVậy m = 2022 thì x là số không dương và không âm."
+    },
+    {
+        "problem": "Câu 6. Kết luận nào đúng về giá trị của biểu thức \\frac{1}{5}−\\frac{−}{3}−\\frac{1}{3}\\frac{5}{6}?\nA. A < 2 \nB. A > 2 \nC. A < 1 \nD. A < 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: A\\frac{1}{5}−\\frac{−}{3}−\\frac{1}{3}\\frac{5}{6} \n=\\frac{1}{5}−\\frac{−}{3}−\\frac{2}{6}\\frac{5}{6}\n=\\frac{1}{5}−\\frac{−}{3}−\\frac{7}{6}\n=\\frac{1}{5}−\\frac{−}{6}−\\frac{7}{6}\n=\\frac{1}{5}−\\frac{−}{6}\n=\\frac{6}{30}−\\frac{−}{30}\n=\\frac{6−−}{30}\n=\\frac{61}{30}.\nDo A=\\frac{61}{30}>\\frac{60}{30}=2nên A > 2."
+    },
+    {
+        "problem": "Câu 7. Số nghịch đảo của số − 0,8 là:\nA.  0,8;\nB. \\frac{−}{10}; \nC. \\frac{5}{4}; \nD. \\frac{−}{4}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nDo số nghịch đảo của số hữu tỉ a khác 0 là \\frac{1}{} nên số nghịch đảo của − 0,8 là: \\frac{1}{−}\\frac{−}{8}\\frac{−}{4}."
+    },
+    {
+        "problem": "Câu 8. Một ô tô đi từ A đến B với vận tốc 50,5 km/giờ mất 1 giờ 30 phút. Một chiếc xe máy đi với vận tốc bằng \\frac{5}{6} vận tốc của ô tô thì sau bao lâu sẽ đi hết quãng đường AB?\nA. \\frac{9}{5} giờ;\nB. \\frac{3}{2} giờ;\nC. \\frac{4}{3} giờ;\nD. 2 giờ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nĐổi: 1 giờ 30 phút = 1 \\frac{1}{2} giờ = \\frac{3}{2} giờ;\nQuãng đường AB dài số km là:\n 50,5\\frac{3}{2}\\frac{101}{2}\\frac{3}{2}\\frac{303}{4} (km);\nVận tốc của xe máy là:\n 50,5\\frac{5}{6}\\frac{101}{2}\\frac{5}{6}\\frac{505}{12} (km/ giờ);\nThời gian xe máy đi hết quãng đường AB là:\n \\frac{303}{4}\\frac{505}{12}\\frac{303}{4}\\frac{12}{505}\\frac{3.101}{4}\\frac{3.4}{5.101}\\frac{9}{5} (giờ)."
+    },
+    {
+        "problem": "Câu 9. Trong bộ số liệu chuẩn, trên thực tế diện tích bề mặt hồ Tây tại Hà Nội là 5,3 km^{2} . Minh thiết kế một bản vẽ có tỉ lệ \\frac{1}{150000} , xác định diện tích bề mặt của hồ là 0,000004 km^{2} . Số liệu của Minh chênh lệch như thế nào với số liệu chuẩn?\nA. Số liệu của Minh nhỏ hơn số liệu chuẩn;\nB. Số liệu của Minh lớn hơn số liệu chuẩn;\nC. Số liệu của Minh không chênh lệch so với số liệu chuẩn;\nD. Không xác định được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVới số liệu của Minh thì thực tế diện tích bề mặt hồ là:\n0,000004\\frac{4}{1000000}\\frac{4}{100}.15=\\frac{60}{100}\nVậy số liệu của Minh nhỏ hơn số liệu chuẩn."
+    },
+    {
+        "problem": "Câu 10. Cho hai biểu thức sau, khẳng định nào sau đây đúng?\n A\\frac{11}{2}\\frac{−}{100}; B\\frac{12}{−}\\frac{8}{45}\\frac{9}{10}. \nA. A > B;\nB. A = B;\nC. A < B;\nD. A ≥ B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có: A\\frac{11}{2}\\frac{−}{100} \n=\\frac{11}{2}\\frac{62}{100}\\frac{}{−3}\n=\\frac{11}{2}\\frac{31}{50}\\frac{−100}{3}\n=\\frac{341}{100}\\frac{−}{3}\\frac{−}{3};\nB\\frac{12}{−}\\frac{8}{45}\\frac{9}{10}\n=\\frac{12}{−}\\frac{45}{8}\\frac{9}{10}\n=\\frac{3}{}\\frac{−9}{2}\\frac{9}{10}\n=\\frac{−}{2}\\frac{9}{10}\\frac{−}{20}.\nMà \\frac{−}{3}\\frac{−}{3}− \n−\\frac{−}{20}\\frac{−}{20}. \nSuy ra \\frac{−}{3}\\frac{−}{20}.\nVậychọn đáp án C."
+    },
+    {
+        "problem": "Câu 11. Chọn khẳng định đúng về quy tắc chuyển vế đối với số hữu tỉ:\nA. Khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức thì ta giữ nguyên dấu của số hạng đó;\nB. Khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức thì ta đổi dấu số hạng còn lại;\nC. Khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức thì ta đổi dấu của tất cả các số hạng trong phép tính;\nD. Khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức thì ta phải đổi dấu số hạng đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nQuy tắc chuyển vế đối với số hữu tỉ tương tự đối với số nguyên: khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức, ta phải đổi dấu số hạng đó."
+    },
+    {
+        "problem": "Câu 12. Giá trị của x^{1}  bằng bao nhiêu?\nA. 1;\nB. 0;\nC. x;\nD. 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có: x^{n}  là tích của n thừa số x nên quy ước x^{1 } = x."
+    },
+    {
+        "problem": "Câu 13. 64 là lũy thừa của số tự nhiên nào và có số mũ bằng bao nhiêu?\nA. Lũy thừa của cơ số 3 và số mũ bằng 5;\nB. Lũy thừa của cơ số 2 và số mũ bằng 6; \nC. Lũy thừa của cơ số 3 và số mũ bằng 4;\nD. Lũy thừa của cơ số 2 và số mũ bằng 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có: \nLũy thừa của cơ số 3 và số mũ bằng 5 là:\n3^{5}  = 3 . 3 . 3 . 3 . 3 = 243;\nLũy thừa của 2 và số mũ bằng 6 là:\n2^{6}  = 2 . 2 . 2 . 2 . 2 . 2 = 64;\nLũy thừa của 3 và số mũ bằng 4 là:\n3^{4}  = 3 . 3 . 3 . 3 = 81;\nLũy thừa của 2 và số mũ bằng 5 là:\n2^{5}  = 2 . 2 . 2 . 2 . 2 = 32.\nVậy 64 là lũy thừa của cơ số là 2 và số mũ bằng 6."
+    },
+    {
+        "problem": "Câu 14. Chọn đáp án sai.\nA. 2022^{0}  = 1; \nB. (− 7)^{3}  . (− 7)^{3}  = (− 7)^{6} ; \nC. 3^{7}  : 3^{5}  = 9; \nD. (9^{3} )^{3}  = 9^{6} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTa có: 2022^{0}  = 1, suy ra đáp án A đúng;\n(− 7)^{3}  . (− 7)^{3}  = (− 7)^{3 + 3}  = (− 7)^{6} , suy ra đáp án B đúng;\n3^{7}  : 3^{5}  = 3^{7 – 5}  = 3^{2}  = 9, suy ra đáp án C đúng;\n(9^{3} )^{3}  = 9^{3 . 3}  = 9^{9} , suy ra đáp án D sai."
+    },
+    {
+        "problem": "Câu 15. So sánh hai lũy thừa: 12^{2}  và 2^{12} .\nA. 12^{2}  < 2^{12} ;\nB. 12^{2}  > 2^{12} ;\nC. 12^{2}  = 2^{12} ; \nD. 12^{2}  ≥ 2^{12} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTa có: 12^{2}  = 12 . 12 = 144; \n2^{12}  = 2^{6 + 6}  = 2^{6}  . 2^{6}  = 64 . 64 = 4096. \nDo 144 < 4096 nên 12^{2}  < 2^{12} ."
+    },
+    {
+        "problem": "Câu 16. Chọn đáp án sai.\nA. 3 . 4^{3}  là tích của 3 với lập phương của 4;\nB. 34^{3}  là lũy thừa với cơ số là 34;\nC. (3 . 4)^{3}  là lũy thừa với cơ số là 3;\nD. (3 . 4)^{3}  là lũy thừa với cơ số là 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\n3 . 4^{3}  là tích của 3 với lập phương của 4 (Đúng).\n34^{3}  là lũy thừa với cơ số là 34 (Đúng).\n(3 . 4)^{3}  là lũy thừa với cơ số là 3 (Sai);\nCơ số của (3 . 4)^{3}  được xác định bởi phép tính trong dấu ngoặc, tức là 3 . 4 = 12.\n(3 . 4)^{3}  là lũy thừa với cơ số là 12 (Đúng)."
+    },
+    {
+        "problem": "Câu 17. Một chiếc mâm đồng có bán kính r = 19,5 cm và một chiếc đĩa đồng có bán kính R = 6,5 cm. Hỏi diện tích của chiếc mâm gấp bao nhiêu lần diện tích chiếc đĩa?\nA. 3 lần;\nB. 9 lần;\nC. 5 lần;\nD. 8 lần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nCông thức tính diện tích hình tròn có bán kính R là: S = π . R^{2} .\nDiện tích bề mặt chiếc mâm là:\nπ . r^{2}  = π . 19,5^{2}  = π . \\frac{39}{2}2 = π . \\frac{1521}{4} (cm^{2} );\nDiện tích bề mặt chiếc đĩa là:\n π . R^{2}  = π . 6,5^{2}  = π . \\frac{13}{2}2 = π . \\frac{169}{4} (cm^{2} );\nDiện tích của chiếc mâm gấp diện tích chiếc đĩa số lần là:\n \\frac{π\\frac{1521}{4}}{π\\frac{169}{4}}\\frac{1521}{4}\\frac{4}{169}\\frac{1521}{169} (lần).\nVậy diện tích chiếc mâm gấp 9 lần diện tích chiếc đĩa."
+    },
+    {
+        "problem": "Câu 18. Trong chân không, vận tốc ánh sáng là 299 792 458 m/s; với các tính toán không cần độ chính xác cao ta có thể coi vận tốc ánh sáng là 3.10^{8}  m/s. Trong một nghiên cứu, ánh sáng từ một ngôi sao đến Trái Đất mất 10 phút 20 giây. Khoảng cách giữa ngôi sao đó đến Trái Đất xấp xỉ bằng bao nhiêu ki-lô-mét?\nA. 1939 . 10^{5 } km;\nB. 1939 . 10^{6}  km;\nC. 1839 . 10^{6}  km;\nD. 1839 . 10^{5}  km.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nĐổi 10 phút 13 giây = 613 giây;\nKhoảng cách giữa ngôi sao và Trái Đất là:\n613 . 3 . 10^{8}  = 1839 . 10^{8}  (m) = 1839 . 10^{5}  (km)\nVậy khoảng cách giữa ngôi sao đó đến Trái Đất xấp xỉ bằng 1839 . 10^{5}  km."
+    },
+    {
+        "problem": "Câu 19. Trong các phép tính của số hữu tỉ, thứ tự thực hiện phép tính đối với biểu thức không có dấu ngoặc là:\nA. Cộng và trừ → Nhân và chia → Lũy thừa;\nB. Lũy thừa → Nhân và chia → Cộng và trừ;\nC. Nhân và chia → Cộng và trừ → Lũy thừa;\nD. Lũy thừa → Cộng và trừ → Nhân và chia.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nThứ tự thực hiện các phép tính đối với số hữu tỉ tương tự thứ tự thực hiện các phép tính đối với số tự nhiên, số nguyên, phân số, số thập phân trong trường hợp biểu thức không có dấu ngoặc: Lũy thừa → Nhân và chia → Cộng và trừ."
+    },
+    {
+        "problem": "Câu 20. Tìm x, biết: 2x−\\frac{2}{3}2\\frac{5}{9}. \nA. x = 0,5;\nB. x\\frac{1}{3}; \nC. x\\frac{2}{3}; \nD. x = 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTa có: 2x−\\frac{2}{3}2\\frac{5}{9} \n 2x−\\frac{4}{9}\\frac{5}{9}\n2x\\frac{5}{9}\\frac{4}{9}\n2x=\\frac{9}{9}\n2x = 1\nx\\frac{1}{2}\nx = 0,5.\nVậy x = 0,5."
+    },
+    {
+        "problem": "Câu 21. Khi bỏ dấu ngoặc trong biểu thức − (− a + b − 5 − c) ta được kết quả là:\nA. − a + b − 5 − c;\nB. a + b − 5 − c;\nC. a − b + 5 + c;\nD. − a − b + 5 + c.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nKhi bỏ dấu ngoặc có dấu “−” đằng trước, ta đổi dấu của các số hạng trong dấu ngoặc: dấu “+” đổi thành dấu “−” và dấu “−” đổi thành dấu “+”.\nVậy − (− a + b − 5 − c) = a – b + 5 + c."
+    },
+    {
+        "problem": "Câu 22. Tìm x, biết: x + (− x + 3) – (x − 7) = 9.\nA. x = 1;\nB. x = 2;\nC. x = 3;\nD. x = 7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTa có: x + (− x +3) – (x −7) = 9\nx − x +3 – x + 7 = 9\n(3 + 7) + (x – x – x) = 9\n10 + (‒ x) = 9\n10 – x = 9\nx = 10 – 9\nx = 1.\nVậy x = 1."
+    },
+    {
+        "problem": "Câu 23. Lan mang một số tiền dự định mua 4 quyển vở về viết. Do có đợt giảm giác nên với cùng số tiền đó Lan đã mua được 5 quyển vở với giá đã giảm là 12 000 đồng mỗi quyển. Giá tiền ban đầu khi chưa giảm giá của mỗi quyển vở là:\nA. 14 000 đồng;\nB. 15 000 đồng;\nC. 16 000 đồng;\nD. 17 000 đồng;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nLan mang theo số tiền dự định mua vở là:\n12 000 . 5 = 60 000 (đồng)\nGiá tiền ban đầu khi chưa giảm giá của một quyển vở là:\n60 000 : 4 = 15 000 (đồng)"
+    },
+    {
+        "problem": "Câu 24. Trong đợt tri ân khách hàng của một cửa hàng điện máy xanh, cửa hàng giảm 20% giá niêm yết cho mỗi một sản phẩm tivi LG. Cửa hàng vẫn lãi 10% của giá nhập về đối với mỗi chiếc tivi bán ra. Giá niêm yết của một chiếc tivi là bao nhiêu, biết rằng mỗi sản phẩm tivi bán ra thì cửa hàng lãi được 800 000 đồng.\nA. 9 triệu đồng;\nB. 12 triệu đồng;\nC. 11 triệu đồng;\nD. 15 triệu đồng;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nSau khi bán với giá khuyến mãi thì cửa hàng lãi 10% được 800 000 đồng giá nhập của mỗi chiếc ti vi là: 800 000 : \\frac{10}{100} = 800 000 . \\frac{100}{10}= 800 000 . 10 = 8 000 000 (đồng)\nKhi đó giá bán khuyến mãi của mỗi chiếc tivi là: 8 000 000 + 800 000 = 8 800 000 (đồng)\nVì cửa hàng giảm giá 20% so với giá niêm yết nên giá sản phẩm được bán ra bằng 80% giá niêm yết, do đó giá niêm yết của mỗi chiếc ti vi là:\n \\frac{80}{100} = 8800\\frac{100}{80} (đồng)\nVậy giá niêm yết của mỗi chiếc tivi là 11 triệu đồng."
+    },
+    {
+        "problem": "Câu 25. Anh Minh kinh doanh hoa quả nhập khẩu. Trong lần nhập hàng vừa qua anh đã bỏ ra 90 000 000 đồng để nhập lô hàng mới. Nhưng do quá trình vận chuyển không được đảm bảo nên \\frac{1}{3} số hàng nhập về không đảm bảo chất lượng. Anh Minh đã bán số hàng còn lại cao hơn 10% so với giá nhập vào và số hàng không đảm bảo chất lượng thấp hơn 15% so với giá nhập vào. Hỏi doanh thu lô hàng mới của anh Minh là bao nhiêu?\nA. 90 000 000 đồng;\nB. 91 500 000 đồng;\nC. 88 500 000 đồng;\nD. 86 500 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nSố tiền nhập hàng không đảm bảo chất lượng là:\n \\frac{1}{3}.90000=000 (đồng)\nSố tiền nhập hàng đảm bảo chất lượng là: 90 000 000 – 30 000 000 = 60 000 000 (đồng)\nSố tiền anh Minh thu được khi bán hàng đảm bảo chất lượng là:\n60 000 000 . (100% + 10%) = 60000.\\frac{110}{100}=66000000 (đồng)\nSố tiền anh Minh thu được khi bán hàng không đảm bảo chất lượng là:\n30 000 000. (100% ‒ 15%) = 30000000.\\frac{85}{100}=25500000 (đồng)\nVậy doanh thu lô hàng mới của anh Minh là:\n66 000 000 + 25 500 000 = 91 500 000 đồng. \nVậy doanh thu lô hàng mới của anh Minh là 91 500 000 đồng."
+    },
+    {
+        "problem": "Câu 26. Dạng viết gọn của 0,2333… là:\nA. 0,(23);\nB. 0,(233);\nC. 0,(2333);\nD. 0,2(3).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa thấy trong hàng thập phân của số 0,2333… có chữ số 3 xuất hiện liên tiếp mãi bắt đầu từ hàng trăm nên số 3 là chu kì của số thập phân vô hạn tuần hoàn 0,2333… và số thập phân đó được viết gọn là 0,2(3).\nVậy 0,2333 = 0,2(3)."
+    },
+    {
+        "problem": "Câu 27. Số thập phân 0,005 biểu diễn dưới dạng phân số tối giản nào?\nA. \\frac{1}{100}; \nB. \\frac{3}{200}; \nC. \\frac{1}{200}; \nD. \\frac{3}{100}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 0,005\\frac{5}{1000}\\frac{1}{200}. \nVậy số thập phân 0,005 biểu diễn dưới dạng phân số tối giản là \\frac{1}{200}."
+    },
+    {
+        "problem": "Câu 28. Biết m là một số thập phân vô hạn tuần hoàn và 2,347923 < m < 2,4452347. Tìm m?\nA. m = 2,(3);\nB. m = 2,(34);\nC. m = 2,(4);\nD. m = 2,(445).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có: 2(3) = 2,333… < 2,347923 do đó m = 2,(3) là sai.\n2,(34) = 2,343434… < 2,347923 do đó m = 2,(34) là sai.\n2,347923 < 2,444… < 2,4452347 do đó m = 2,(4) là đúng.\n2,445445445… > 2,4452347 do đó m = 2,(445) là sai.\nVậy m = 2,(4)."
+    }
+]

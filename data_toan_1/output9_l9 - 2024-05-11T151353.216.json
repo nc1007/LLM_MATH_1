@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Diện tích đất trồng trọt của một xã là khoảng 81,5 ha. Vụ hè thu năm nay, xã này dự định dùng \\(\\frac{5}{7}\\) diện tích này để trồng lúa. Tính diện tích trồng lúa vụ hè thu của xã (sử dụng máy tính cầm tay rồi làm tròn kết quả đến chữ số thập phân thứ ba).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính diện tích trồng lúa rồi làm tròn kết quả\nLời giải chi tiết\nDiện tích trồng lúa vụ hè thu của xã là:\n81,5. \\(\\frac{5}{7}\\) \\( \\approx \\) 58,214 (ha)"
+    },
+    {
+        "problem": "Dịch Covid-19 đã làm ảnh hưởng tiêu cực đến hoạt động xuất, nhập khẩu của Việt Nam. Tổng kim ngạch xuất, nhập khẩu hàng hoá 8 tháng đầu năm 2020 ước tính đạt 336,32 tỉ USD và bằng khoảng \\(\\frac{{997}}{{1000}}\\) cùng kì năm trước. Em hãy tính xem trong 8 tháng đầu năm 2019, tổng kim ngạch xuất, nhập khẩu của nước ta là bao nhiêu tỉ USD (sử dụng máy tính cầm tay rồi làm tròn kết quả đến hàng đơn vị).(Theo Tổng cục Thống kê)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng kim ngạch xuất, nhập khẩu của nước ta trong 8 tháng đầu năm 2019\nLời giải chi tiết\nTổng kim ngạch xuất, nhập khẩu của nước ta trong 8 tháng đầu năm 2019 là:\n336,32 : \\(\\frac{{997}}{{1000}}\\) = 337,331 996 (tỉ USD)\nLàm tròn đến hàng đơn vị ta được 337 tỉ USD"
+    },
+    {
+        "problem": "Năm 2018, tổng diện tích đất trồng lúa của nước ta đạt 7 570,9 (nghìn ha); giảm \\(\\frac{{17}}{{1000}}\\) so với năm trước. Em hãy tính diện tích đất trồng lúa của Việt Nam năm 2017 là bao nhiêu hécta (sử dụng máy tính cầm tay rồi làm tròn kết quả đến hàng đơn vị).\n(Theo Tổng cục Thống kê)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tỉ số diện tích trồng lúa năm 2018 so với năm 2017\nTính diện tích đất trồng lúa của Việt Nam năm 2017\nLời giải chi tiết\nDiện tích trồng lúa năm 2018 bằng \\(1 - \\frac{{17}}{{1000}} = \\frac{{983}}{{1000}}\\) diện tích trồng lúa năm 2017\nDiện tích trồng lúa năm 2017 là:\n7570,9 : \\(\\frac{{983}}{{1000}}\\) = 7 701,831 129 (nghìn ha) = 7 701 831, 129 (ha)\nLàm tròn đến hàng đơn vị, ta được 7 701 831 ha"
+    },
+    {
+        "problem": "Tính:\na)     45% của 300\nb)    15% của 25,9\nc)     2,8% của -50",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a% của b bằng \\(\\frac{{a.b}}{{100}}\\)\nLời giải chi tiết\na)    45% của 300 là \\(\\frac{45.300}{100} = 135\\)\nb)    15% của 25,9 là \\(\\frac{15. 25,9}{100} = 3,885\\)\nc)     2,8% của -50 là \\(\\frac{2,8 . (-50)}{100} = -1,4\\)"
+    },
+    {
+        "problem": "Viết mỗi tỉ số sau dưới dạng tỉ số phần trăm.\n\\(\\begin{array}{l}a)\\frac{5}{4};\\\\b)\\frac{{17}}{{20}};\\\\c)\\frac{{15,9}}{{1,2}}\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa tỉ số về dạng \\(\\frac{a}{{100}}\\)= a%\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\frac{5}{4} = \\frac{{5.25}}{{4.25}} = \\frac{{125}}{{100}} = 125\\% \\\\b)\\frac{{17}}{{20}} = \\frac{{17.5}}{{20.5}} = \\frac{{85}}{{100}} = 85\\% \\\\c)\\frac{{15,9}}{{1,2}} = \\frac{{159}}{{12}} = \\frac{{53}}{4} = \\frac{{53.25}}{{4.25}} = \\frac{{1325}}{{100}} = 1325\\% \\end{array}\\)"
+    },
+    {
+        "problem": "Giá niêm yết (chưa bao gồm thuế) của một chiếc tủ lạnh tại 1 cửa hàng điện máy là 6,999 triệu đồng. Bác An phải trả bao nhiêu tiền khi mua chiếc tủ lạnh này, biết khi thanh toán bác phải trả thêm thuế VAT, được tính bằng 10% giá niêm yết?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền thuế bác An phải trả thêm\nTính tổng số tiền bác An phải trả\nLời giải chi tiết\nTổng số tiền bác An phải trả là:\n6,999 + 6,999.10% = 7,6989 (triệu đồng) = 7 698 900 đồng"
+    },
+    {
+        "problem": "Nhân dịp lễ Giáng sinh, một cửa hàng giảm giá một đôi giày từ 380 000 đồng còn 228 000 đồng. Em hãy tính xem khi mua đôi giày này, người mua đã được giảm giá bao nhiêu phần trăm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền giảm giá của đôi giày\nTính tỉ số phần trăm giảm giá\nLời giải chi tiết\nSố tiền giảm giá của đôi giày là:\n380 000 – 228 000 = 152 000 (đồng)\nTỉ số phần trăm giảm giá là:\n\\(\\frac{{152}}{{380}}.100\\%  = 40\\% \\)\n"
+    },
+    {
+        "problem": "Một chiếc máy xay sinh tố có giá niêm yết là 525 nghìn đồng. Trong đợt khuyến mại, mặt hàng này được giảm giá 10%. Em hãy tính giá mới của chiếc máy xay sinh tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền giảm\nTính giá mới của máy\nLời giải chi tiết\nSố tiền cửa hàng đã giảm là:\n525. 10% = 52,5 (nghìn đồng)\nGiá mới của chiếc máy xay sinh tố là:\n525 – 52,5 = 472,5 (nghìn đồng)"
+    },
+    {
+        "problem": "Biển Chết (Dead Sea) là tên gọi của một hồ nước mặn ở Israel. Nước hồ này có độ mặn rất cao, trong mỗi lít nước có chứa tới 350 gam muối. Mặn như thế nên cá hay các loài thủy sinh vật lớn không thể sống trong nước Biển Chết (đó chính là lí do hồ có tên gọi là “ Dead Sea”). Cũng chính bởi độ mặn mà con người có thể nổi bồng bềnh trong nước Biển Chết.\nEm hãy tính nồng độ phần trăm muối trong nước hồ Biển Chết.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi lít nước sang gam nước\nTính nồng độ phần trăm muối trong nước hồ Biển Chết\nLời giải chi tiết\nĐổi 1 lít nước = 1000 ml nước = 1000 g nước\nNồng độ phần trăm muối trong nước hồ Biển Chết là:\n\\(\\frac{{350}}{{1000}}.100\\%  = 35\\% \\)"
+    },
+    {
+        "problem": "Sau khi đóng băng, thể tích nước đá tăng 9%. Như vậy đóng băng 275 cm3 nước thành nước đá thì khối nước đá có thể tích là bao nhiêu xentimet khối?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính thể tích tăng thêm =  thể tích ban đầu . 9%\nTính thể tích sau khi đóng băng =  thể tích ban đầu + thể tích tăng thêm\nLời giải chi tiết\nThể tích tăng thêm là:\n275. 9% = 24,75 (cm3)\nThể tích sau khi đóng băng là:\n275 + 24,75 = 299, 75 (cm3)"
+    },
+    {
+        "problem": "Một tảng thịt khi lấy từ ngăn đá ra có cân nặng 2,5 kg. Sau khi rã đông, khối lượng của tảng thịt giảm 7%. Tính khối lượng tảng thịt sau khi rã đông?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính khối lượng giảm\nTính khối lượng tảng thịt sau khi rã đông\nLời giải chi tiết\nKhối lượng của tảng thịt giảm:\n2,5 . 7% = 0,175 (kg)\nKhối lượng tảng thịt sau khi rã đông là:\n2,5 – 0,175 = 2,325(kg)\n"
+    },
+    {
+        "problem": "Một thanh đồng dài 4,6 m. Khi đem thanh đồng này nung nóng thì đồng giãn nở và chiều dài thanh tăng 1,2%. Tính chiều dài thanh đồng sau khi được nung nóng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chiều dài thanh đồng tăng thêm\nTính chiều dài thanh đồng sau khi được nung nóng.\nLời giải chi tiết\nChiều dài thanh đồng tăng thêm là:\n4,6 . 1,2% = 0,0552 (m)\nChiều dài thanh đồng sau khi được nung nóng là:\n4,6 + 0,0552 = 4,6552 (m)"
+    },
+    {
+        "problem": "Khi mua một chiếc điện thoại di động với giá 3 290 000 đồng, người mua có thể thanh toán toàn bộ số tiền 3 290 000 đồng hoặc trả trước 36% giá bán chiếc điện thoại và trả góp trong 6 tháng, mỗi tháng 360 000 đồng. Theo em, trả theo cách nào người mua phải trả nhiều tiền hơn?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền phải trả khi trả góp rồi so sánh với giá 3 290 000 đồng\nLời giải chi tiết\nSố tiền phải trả khi trả góp là:\n3 290 000 . 36% + 6. 360 000 = 3 344 400 (đồng)\nVì 3 344 400 > 3 290 000 nên khi trả góp người mua phải trả nhiều tiền hơn"
+    },
+    {
+        "problem": "Nồng độ phần trăm của nước muối là tỉ số phần trăm của số gam muối ăn và số gam nước muối. Nếu thêm 50 g muối ăn vào 350 g nước muối có nồng độ 10% thì thu được nước muối có nồng độ là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tính khối lượng muối trong 350 g nước muối ban đầu\n+Tính khối lượng muối sau khi thêm 50 g muối\n+Tính khối lượng nước muối sau khi thêm 50 g muối\n+Nồng độ dung dịch = khối lượng muối : khối lượng dung dịch . 100%\nLời giải chi tiết\nKhối lượng muối trong vào 350 g nước muối có nồng độ 10% là:\n350 . 10% = 35 (g)\nKhối lượng muối sau khi thêm 50 g muối là:\n35 + 50 = 85 (g)\nKhối lượng dung dịch sau khi thêm 50 g muối là:\n350 + 50 = 400 (g)\nNồng độ phần trăm nước muối sau khi thêm 50 g muối là:\n\\(\\frac{{85}}{{400}}.100\\%  = 21,25\\% \\)\n"
+    },
+    {
+        "problem": "a)     So sánh hai số: a = 0,29 và b = 0,3\nb)    Tìm một số thập phân x thỏa mãn điều kiện a < x < b\nc)     Có hay không 9 số thập phân x thỏa mãn điều kiện a < x < b?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+So sánh 2 số thập phân dương: đi từ trái qua phải, so sánh các chữ số ở cùng 1 hàng, ở hàng đầu tiên mà các chữ số khác nhau, số có chữ số lớn hơn là số lớn hơn\nCó vô số số thập phân nằm giữa 2 số thập phân\nLời giải chi tiết\na)     Ta có: 0,3 = 0,30.\nVì 2 < 3 nên 0,29 < 0,3\nb)    1 số thập phân thỏa mãn là: 0,292\nc)     Ta có thể tìm được 9 số thập phân x thỏa mãn điều kiện a < x < b. Chẳng hạn: 0,291; 0,292; 0,293; 0,294; 0,295; 0,296; 0,297; 0,298; 0,299.\nChú ý: Có vô số số thập phân nằm giữa 2 số thập phân. Ngoài 9 số ta chọn ở trên, ta cố thể chọn vô số các số thập phân khác. Ví dụ: 0,2911; 0,2912;…."
+    },
+    {
+        "problem": "Tính nhẩm (theo mẫu)\n7,98 + 2,48 = (7,98 + 0,02) + (2,48 – 0,02) = 8 + 2,46 = 10,46\na)     51,99 + 21,55\nb)    17,31 – 1,96\nc)     16,78 – 12,99\nd)    -15,95 – 31,72",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thêm, bớt vào các số sao cho thu được 1 số “đẹp” (Thường ta chọn số thêm, bớt phụ thuộc vào số “gần đẹp” )\nLời giải chi tiết\na)     51,99 + 21,55 = (51,99 + 0,01) + ( 21,55 – 0,01) = 52 + 21,54 = 73,54\nb)    17,31 – 1,96 = (17,31 + 0,04 ) – (1,96 + 0,04) = 17,35 – 2 = 15,35\nc)     16,78 – 12,99 = (16,78 + 0,01) – (12,99 + 0,01) = 16,79 – 13 = 3,79\nd)    -15,95 – 31,72 = - (15,95 + 31,72) = - [(15,95+ 0,05) + (31,72 – 0,05)]\n= -(16 + 31,67) = - 47,67"
+    },
+    {
+        "problem": "Tính giá trị của các biểu thức sau:\na)     0,62 . 351 + (-35,1) : 4\nb)    5,25 . 4,1 + (-2,05) . 16,4 + 2,625 . 8,2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa về áp dụng tính chất phân phối của phép nhân và phép cộng\nLời giải chi tiết\na)     0,62 . 351 + (-35,1) : 4\n= 0,62 . 351 – 351 : 40\n= 0,62 . 351 – 351. 0,025\n= 351. (0,62 – 0,025)\n= 351 . 0,595\n= 208,845\nb)    5,25 . 4,1 + (-2,05) . 16,4 + 2,625 . 8,2\n= 5,25 . 4,1 +(-2,05) . 4 . 4,1 + 2,625 . 2. 4,1\n= 4,1. [5,25 + (-2,05). 4 + 2,625 . 2]\n=4,1 . (5,25 – 8,2 + 5,25)\n= 4,1. 2,3\n= 9,43"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Khẳng định nào sau đây là đúng?\nA. ∆ABC = ∆DEF;\nB. ∆ABC = ∆DFE;\nC. ∆ABC = ∆EDF;\nD. ∆ABC = ∆FDE.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nXét tam giác FDE có F^+D^+E^=180°(định lí tổng ba góc trong một tam giác)\nSuy ra F^=180°-E^-D^\nHay F^=180°-85°-20°=75°\nXét tam giác BCA ta cũng có: A^+B^+C^=180° (định lí tổng ba góc trong một tam giác)\nSuy ra C^=180°-B^-A^\nHay C^=180°-85°-20°=75°\nXét tam giác FDE và tam giác BCA có: \n+) AB = DE, AC = DF, BC = EF\n+) A^=D^(=20°),B^=E^(=85°),C^=F^(=75°)\nDo đó ∆ABC = ∆DEF. \nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 2. Cho hai tam giác ABC và NPM có: AB = MN, AC = MP, BC = PN, A^=M^, B^=N^,C^=P^. Cách viết nào dưới đây là đúng?\nA. ∆ABC = ∆NPM;\nB. ∆ABC = ∆NMP;\nC. ∆ABC = ∆MNP;\nD. ∆ABC = ∆PNM.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nXét ∆ABC và ∆MNP có:\n+) AB = MN, AC = MP, BC = NP;\n+) A^=M^, B^=N^, C^=P^.\nDo đó tam giác ABC và tam giác MNP bằng nhau và kí hiệu bằng nhau của hai tam giác đó là: ∆ABC = ∆MNP.\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 3. Cho biết ∆ABC = ∆XYZ, AB = 4 cm, AC = 3 cm, BC = 6 cm. Độ dài cạnh XY là:\nA. 3 cm;\nB. 4 cm;\nC. 5 cm;\nD. 6 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì ∆ABC = ∆XYZ nên ta có:\nAB = XY (hai cạnh tương ứng) \nMà AB = 4 cm nên XY = 4cm\nVậy độ dài cạnh XY là 4 cm."
+    },
+    {
+        "problem": "Câu 4. Cho ∆KQR = ∆MNP biết M^=68°,N^=52°. Số đo góc R là:\nA. 68°;\nB. 52°;\nC. 60°;\nD. 50°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nXét tam giác MNP có M^+N^+P^=180° (tổng ba góc trong một tam giác)\nSuy ra P^=180°-M^-N^\nHay P^=180°-68°-52°=60°\nVì ∆KQR = ∆MNP nên ta có R^=P^ (hai góc tương ứng)\nDo đó R^=60°\nVậy số đo góc R bằng 60°."
+    },
+    {
+        "problem": "Câu 5. Cho ∆ABC = ∆HIK. Khẳng định nào sau đây là đúng?\nA. ABC^=IHK^\nB. BCA^=HKI^\nC. AB = HK;\nD. BC = HK.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì ∆ABC = ∆HIK nên ta có:\n+) ABC^=HIK^ (hai góc tương ứng). Do đó A là sai.\n+) BCA^=IKH^ (hai góc tương ứng). \nHay BCA^=HKI^. Do đó B là đúng.\n+) AB = HI, BC = IK (các cặp cạnh tương ứng). Do đó C và D là sai.\nVậy ta chọn phương án B."
+    },
+    {
+        "problem": "Câu 8. Cho ∆ABC = ∆DEF có AC = 6,2 cm, BC = 8,7 cm, DE = 12,5cm. Chu vi tam giác DEF là:\nA. 28,4 cm;\nB. 28,7 cm; \nC. 24,8cm;\nD. 27,4 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì ∆ABC = ∆DEF nên AC = DF, BC = EF (các cặp cạnh tương ứng)\nDo đó DF = 6,2 cm, EF = 8,7 cm.\nKhi đó chu vi của tam giác DEF là: \nDE + DF + EF = 12,5 + 6,2 + 8,7 = 27,4 (cm)\nVậy chu vi của tam giác DEF bằng 27,4 cm."
+    },
+    {
+        "problem": "Câu 10. Cho ∆ABC = ∆DEG biết A^+E^=100°. Số đo góc G là:\nA. 50°;\nB. 60°;\nC. 70°;\nD. 80°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì ∆ABC = ∆DEG nên ta có:\nA^=D^,B^=E^ (các cặp góc tương ứng)\nMà A^+E^=100° nên D^+E^=100°\nXét tam giác DEG ta có: D^+E^+G^=180°(định lí tổng ba góc trong một tam giác)\nSuy ra G^=180°-(D^+E^)\nHay G^=180°-100°=80°\nVậy số đo góc G bằng 80°."
+    },
+    {
+        "problem": "Câu 11. Cho ∆ABC = ∆HIK. Biết A^+B^=150°,H^=65°. Khẳng định nào sau đây là đúng?\nA. A^>B^>C^\nB. A^>C^>B^\nC. B^>A^>C^\nD. C^>B^>A^",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nXét tam giác ABC có A^+B^+C^=180° (tổng ba góc trong một tam giác)\nSuy ra C^=180°-(A^+B^)\nHay C^=180°-150°=30°\nVì ∆ABC = ∆HIK nên ta có A^=H^ (hai góc tương ứng)\nDo đó A^=65°\nMà A^+B^=150° nên B^=150°-A^=150°-65°=85°\nVì 85° > 65° > 30°\nDo đó B^>A^>C^\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 12. Cho tam giác DEG (không có hai góc nào bằng nhau, không có hai cạnh nào bằng nhau) bằng tam giác có ba đỉnh I, H, K. Biết D^=K^,G^=I^. Kí hiệu về sự bằng nhau của hai tam giác là:\nA. ∆DEG = ∆IHK;\nB. ∆DEG = ∆HIK;\nC. ∆DEG = ∆KIH;\nD. ∆DEG = ∆KHI.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì tam giác DEG và tam giác có ba đỉnh I, H, K bằng nhau, lại có D^=K^,G^=I^.\nDo đó, nếu hai tam giác đó bằng nhau thì:\n+ Đỉnh D của tam giác DEG tương ứng với đỉnh K của tam giác IHK;\n+ Đỉnh G của tam giác DEG tương ứng với đỉnh I của tam giác IHK.\nKhi đó đỉnh E của tam giác ABC tương ứng với đỉnh H của tam giác IHK.\nVậy kí hiệu bằng nhau của hai tam giác này là: ∆DEG = ∆KHI."
+    },
+    {
+        "problem": "Câu 13. Cho ∆ABC = ∆PQR, biết BC = 4 cm. Cạnh nào của tam giác PQR có độ dài bằng 4 cm?\nA. QP;\nB. QR;\nC. PR;\nD. Không có cạnh nào.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì ∆ABC = ∆PQR nên BC = QR (hai cạnh tương ứng)\nDo đó BC = QR= 4 cm.\nVậy cạnh QR của tam giác PQR có độ dài bằng 4 cm."
+    }
+]

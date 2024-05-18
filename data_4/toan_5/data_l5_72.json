@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 2: Phép cộng các số tự nhiên, phân số, số thập phân đều có các tính chất nào dưới đây?\nA.\tTính chất giao hoán\nB.\tTính chất kết hợp\nC.\tCộng với 0\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép cộng các số tự nhiên, phân số, số thập phân đều có các tính chất sau:\n-\tTính chất giao hoán: a + b = b + a\n-\tTính chất kết hợp: (a + b + c) = a + (b + c)\t\n-\tCộng với 0: a + 0 = 0 + a = a \nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 7: Tính giá trị của biểu thức 8,425 + a + b với a = 9,91; b = 24,6.\nA.\t42,935\nB.\t43,925\nC.\t41,915\nD.\t40,835",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay a = 9,91; b = 24,6 vào biểu thức 8,425 + a + b ta được: \n8,425 + 9,91 + 24,6\n= 18,335 + 24,6\n= 42,935\t \nVậy giá trị của biểu thức 8,425 + a + b với a = 9,91; b = 24,6 là 42,935."
+    },
+    {
+        "problem": "Câu 9: Tìm x biết : x - 16 = 17,98 + 145,2.\nA.\tx = 147\nB.\tx = 147,18\nC.\tx = 179\nD.\tx = 179,18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nx - 16 = 17,98 + 145,2\nx - 16 = 168,18\nx = 168,18 + 16\nx = 179,18\nVậy x = 179,18."
+    },
+    {
+        "problem": "Câu 10: Chọn dấu thích hợp để điền vào chỗ chấm: \n23,24 + 18 + 54,3 … 37,8 + 57,74\nA.\t= \nB.\t>\nC.\t<",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+)23,24 + 18 + 54,3\n= 41,24 + 54,3\n= 95,54\n+)37,8 + 57,74\n= 95,54\nMà 95,54 = 95,54\nVậy 23,24 + 18 + 54,3 = 37,8 + 57,74"
+    }
+]

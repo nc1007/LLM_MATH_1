@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 4. Chọn câu đúng trong các câu sau.\nA. Hai đường thẳng song song có các góc đồng vị không bằng nhau;\nB. Hai đường thẳng song song có 1 điểm chung;\nC. Hai đường thẳng cắt nhau thì song song;\nD. Cả A, B, C đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nHai đường thẳng song song là hai đường thẳng không có điểm chung và các góc\nđồng vị bằng nhau.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 6. Điền vào chỗ chấm: Nếu đường thẳng c cắt hai đường thẳng a, b và trong các góc tạo thành có một cặp góc so le trong … thì a // b.\nA. bù nhau;\nB. kề bù;\nC. phụ nhau;\nD. bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nNếu đường thẳng c cắt hai đường thẳng a, b và trong các góc tạo thành có một cặp góc so le trong bằng nhau thì a // b."
+    },
+    {
+        "problem": "Câu 8. Trong các khẳng định sau đây, khẳng định nào là đúng?\nA. Qua điểm B nằm ngoài đường thẳng n, có vô số đường thẳng song song với n;\nB. Qua điểm B nằm ngoài đường thẳng n, có duy nhất một đường thẳng song song với n;\nC. Qua điểm B nằm ngoài đường thẳng n, có hai đường thẳng phân biệt cùng song song với n;\nD. Nếu hai đường thẳng MN và PQ cùng song song với đường thẳng a thì hai đường thẳng MN và PQ song song với nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTiên đề Ơ-clit: “Qua một điểm nằm ngoài một đường thẳng, chỉ có một đường thẳng song song song với đường thẳng đó.”\nDo đó, qua điểm B nằm ngoài đường thẳng n, có duy nhất một đường thẳng song song với n.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 9. Trong các khẳng định sau đây, khẳng định nào là đúng?\nNếu một đường thẳng cắt nhau hai đường thẳng song song thì:\nA. Hai góc đồng vị bằng nhau;\nB. Hai góc so le trong bằng nhau;\nC. Hai góc trong cùng phía bù nhau;\nD. A, B, C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nNếu hai đường thẳng song song bị cắt bởi một đường thẳng thứ ba thì:\n+ Hai góc so le trong bằng nhau;\n+ Hai góc đồng vị bằng nhau;\n+ Hai góc trong cùng phía bù nhau;\nDo đó cả A, B, C đều đúng.\nVậy chọn đáp án D."
+    }
+]

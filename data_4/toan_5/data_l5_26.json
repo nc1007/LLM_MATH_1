@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 5: Tính:\n38,75 × 8 : 5\nA.\t61\nB.\t62\nC.\t63\nD.\t64",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 38,75 × 8 : 5 = 310 : 5 = 62 \nVậy đáp án đúng là 62."
+    },
+    {
+        "problem": "Câu 6: Tìm y, biết y : 9 = 222 : 6 – 19,85\nA.\ty = 15,435\nB.\ty = 16,935\nC.\ty = 154,35\nD.\ty = 169,65",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\ny : 9 = 222 : 6 - 19,85\ny : 9 = 37 -19,85\ny : 9 = 17,15\ny = 17,15 x 9\ny = 154,35\nVậy y = 154,35."
+    },
+    {
+        "problem": "Câu 7: Chọn đáp án đúng nhất:\n316 – 15,74 × 8 … 18,45 × 7 + 60,93\nA. =\t\nB. >\t \nC. <",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+)316 - 15,74 x 8 = 316 - 125,92 = 190,08\n+)18,45 × 7 + 60,93 = 192,15 + 60,93 = 190,08\nMà 190,08 = 190,08\nVậy 316 – 15,74 × 8 = 18,45 × 7 + 60,93"
+    },
+    {
+        "problem": "Câu 10: Tính giá trị của biểu thức \n38,24 + 18,76 × a với a = 4.\nA.\t102,68\nB.\t113,28\nC.\t153,88\nD.\t228",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay a = 4 vào biểu thức 38,24 + 18,76 × a ta có:\n 38,24 + 18,76 x 4\n = 38,24 + 75,04\n = 113,28"
+    },
+    {
+        "problem": "Câu 13: Một cửa hàng có một số đường. Biết cửa hàng đã bán được 6,3 tạ đường, số đường còn lại được chia đều vào 16 bao, mỗi bao 0,45 tạ đường. Hỏi trước khi bán cửa hàng có bao nhiêu ki-lô-gam đường?\nA.\t13,5kg\nB.\t135kg\nC.\t1350kg\nD.\t13500kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sau khi bán, cửa hàng còn lại số tạ đường là:\n0,45 x 16 = 7,2 (tạ)\t \nTrước khi bán cửa hàng có số tạ đường là:\n6,3 + 7,2 = 13,5 (tạ)\n13,5 tạ = 1350kg\nĐáp số: 1350kg."
+    }
+]

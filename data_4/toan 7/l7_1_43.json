@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Độ dài đoạn thẳng nào ngắn nhất?\nA. AB; \nB. AD; \nC. AE; \nD. AC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nĐoạn thẳng AB là đường vuông góc kẻ từ O đến đường thẳng BC.\nCác đoạn thẳng AD, AE, AC là đường xiên kẻ từ A đến đường thẳng BC.\nDo đó đoạn AB ngắn nhất.\nVậy ta chọn đáp án A"
+    }
+]

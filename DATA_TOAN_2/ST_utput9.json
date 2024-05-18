@@ -1,0 +1,45 @@
+[
+    {
+        "problem": "Tính giá trị của các biểu thức sau:\na) \\(25. 2^3 - 3^2 + 125              b) 2.3^2 + 5.(2 + 3).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu chỉ có phép cộng, trừ hoặc chỉ có phép nhân, chia, ta thực hiện các phép tính từ trái sang phải.\n- Nếu biểu thức có các dấu ngoặc tròn ( ) ta thực hiện phép tính trong ngoặc tròn trước.\nLời giải chi tiết\na) 25.23 − 32 + 125 = 25.8 – 9 + 125 = 316.\nb) 2.32 + 5.(2 + 3) = 2.9+5.5 = 43."
+    },
+    {
+        "problem": "Một người đi xe đạp trong 5 giờ. Trong 3 giờ đầu, người đó đi với vận tốc 14 km/h; 2 giờ sau, người đó đi với vận tốc 9 km/h.\na) Lập các biểu thức tính quãng đường người đó đi được trong 3 giờ đầu; trong 2 giờ sau; trong 5 giờ.\nb) Tính quãng đường người đó đi được trong 5 giờ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tính quãng đường người đó đi được trong 3 giờ đầu.\n=> Quãng đường người đó đi được trong 2 giờ sau.\nb) Quãng đường người đó đi được trong 5 giờ = Quãng đường người đó đi được trong 3 giờ đầu + Quãng đường người đó đi được trong 2 giờ sau.\nLời giải chi tiết\na) Quãng đường người đó đi được trong 3 giờ đầu là:\n3 . 14 = 42 (km)\nQuãng đường người đó đi được trong 2 giờ sau là:\n2 . 9 = 18 (km)\nb) Quãng đường người đó đi được trong 5 giờ là:\n42 + 18 = 60 (km)\nĐáp án: a) 3 giờ đầu: 42 km\n2 giờ sau: 18 km\nb) 60 km"
+    },
+    {
+        "problem": "a) Lập biểu thức tính diện tích của hình chữ nhật \n\nb) Tính diện tích của hình chữ nhật đó khi a = 3 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tính chiều dài của hình chữ nhật.\n=> Diện tích hình chữ nhật.\nb) Thay a = 3 vào biểu thức tính diện tích\nLời giải chi tiết\na) Chiều dài của hình chữ nhật là:\na + a + 1 = 2.a + 1 (đơn vị độ dài)\nDiện tích hình chữ nhật là:\na . (2.a + 1) (đơn vị diện tích)\nb) Khi a = 3cm thì diện tích hình chữ nhật là:\n3. (2.3 + 1) = 21 (cm2)\nChú ý: Đơn vị độ dài ở câu a có thể là \\(mm, cm, dm, m,...\\).Đơn vị diện tích tương ứng là \\(mm^2, cm^2, dm^2, m^2,...\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) 235 + 78 - 142;\nb) 14 + 2.82;\nc) {23 + (1 + (3 – 1)2]}: 13.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu chỉ có phép cộng, trừ hoặc chỉ có phép nhân, chia, ta thực hiện các phép tính từ trái sang phải.\n- Nếu biểu thức có các dấu ngoặc tròn ( ), dấu ngoặc vuông [], dấu ngoặc nhọn {} thi ta thực hiện phép tính trong các dấu ngoặc tròn trước, rồi thực hiện phép tính trong các dấu ngoặc vuông, cuối cùng thực hiện phép tính trong dấu ngoặc nhọn.\nLời giải chi tiết\na) 235 + 78 - 142 = 171\nb) 14 + 2 . 82 = 14 + 2 . 64 = 142\nc) {23 + [1 + (3 − 1)2]}:13 =[8 + (1 +22 )] : 13= [8 + (1 + 4)] : 13 = 13 : 13 = 1"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\n1+ 2(a + b) – 43 khi a = 25; b = 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay a = 25 và b =9 vào biểu thức rồi thực hiện phép tính.\nLời giải chi tiết\nKhi a = 25; b = 9. Giá trị của biểu thức là:\n\\(1 + 2(a + b)−4^3 = 1 + 2(25 + 9) - 64\\\\= 1 + 2. 34 - 64 = 1 + 68 - 64 = 5\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong 8 tháng đầu năm, một cửa hàng bán được 1 264 chiếc ti vi. Trong 4 tháng cuối năm, trung bình mỗi tháng cửa hàng bán được 164 ti vi. Hỏi trong cả năm, trung bình mỗi tháng cửa hàng đó bán được bao nhiêu ti vi? Viết biểu thức tính kết quả.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số ti vi 4 tháng cuối năm cửa hàng đó bán được.\nTính tổng số ti vi cả năm cửa hàng đó bán được.\n=> Số ti vi trung bình mỗi tháng cửa hàng đó bán được.\nLời giải chi tiết\nSố ti vi 4 tháng cuối năm cửa hàng đó bán được là:\n164 . 4 = 656 (chiếc)\nTổng số ti vi cả năm cửa hàng đó bán được là:\n656 + 1 264 = 1920 (chiếc)\nVậy trong cả năm, trung bình mỗi tháng cửa hàng bán được số ti vi là:\n1920 : 12 = 160 (chiếc)\nBiểu thức tính số ti vi trung bình mỗi tháng cửa hàng bán được là: (164 . 4 + 1264) : 12"
+    },
+    {
+        "problem": "Căn hộ nhà bác Cường diện tích 105 m2. Trừ bếp và nhà vệ sinh diện tích 30 m2, toàn bộ diện tích sàn còn lại được lát gỗ như sau: 18 m2 được lát bằng gỗ loại 1 giá 350 nghìn đồng/m2; phần còn lại dùng gỗ loại 2 có giá 170 nghìn đồng/m2, công lát là 30 nghìn đồng/m2. Viết biểu thức tính tổng chi phí bác Cường cần trả gỗ lát sàn căn hộ như trên. Tính giá trị của biểu thức đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính diện tích sàn được lát gỗ.\n- Tính diện tích sàn lát gỗ loại 2\n- Tính chi phí mua gỗ loại 1.\n- Tính chi phí mua gỗ loại 2.\n- Tính chi phí trả công lát gạch.\n=> Tổng chi phí bác Cường cần trả để lát sàn.\nLời giải chi tiết\nDiện tích sàn được lát gỗ là: 105 - 30 = 75 (m2)\nDiện tích sàn lát gỗ loại 2 là: 105 - 30 - 18 = 57 (m2)\nChi phí mua gỗ loại 1 là: 18 . 350 000 (đồng)\nChi phí mua gỗ loại 2 là: 57 . 170 000 (đồng)\nChi phí trả công lát gạch là: 75 . 30 000 (đồng)\nVậy biểu thức tính tổng chi phí bác Cường cần trả gỗ lát sàn căn hộ như trên là: 18 . 350 000 + 57 . 170 000 + 75 . 30 000\nTổng chi phí bác Cường cần trả để lát sàn là:\n18 . 350 000 + 57 . 170 000 + 75 . 30 000 = 18 240 000 (đồng)"
+    },
+  
+]

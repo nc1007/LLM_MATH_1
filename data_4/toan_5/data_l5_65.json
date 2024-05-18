@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Vận tốc xuôi dòng của ca nô bằng vận tốc thực của ca nô trừ đi vận tốc dòng nước. Phát biểu đó đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc xuôi dòng của ca nô bằng vận tốc thực của ca nô cộng với vận tốc dòng nước.\nVậy phát biểu đã cho là sai."
+    },
+    {
+        "problem": "Câu 2: Trong các công thức sau, công thức nào đúng?\nA.\tVận tốc xuôi dòng = vận tốc thực của vật + vận tốc dòng nước \nB.\tVận tốc ngược dòng = vận tốc thực của vật – vận tốc dòng nước \nC.\tVận tốc thực của vật = (vận tốc xuôi dòng + vận tốc ngược dòng) : 2\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n-\tVận tốc xuôi dòng = vận tốc thực của vật + vận tốc dòng nước. \n-\tVận tốc ngược dòng = vận tốc thực của vật − vận tốc dòng nước. \n-\tVận tốc thực của vật = (vận tốc xuôi dòng + vận tốc ngược dòng) : 2.\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 3: Vận tốc ca nô khi nước lặng là 15 km/giờ. Vận tốc dòng nước là 2 km/giờ. Vận tốc của ca nô khi đi xuôi dòng là:\nA.\t19 km/giờ\nB.\t8,5 km/giờ\nC.\t13 km/giờ\nD.\t17 km/giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc của ca nô khi đi xuôi dòng là:\n15 + 2 = 17 (km/giờ)\nĐáp số: 17 km/giờ."
+    },
+    {
+        "problem": "Câu 6: Vận tốc của thuyền khi nước lặng là 18 km/giờ. Vận tốc dòng nước là 2 km/giờ. Quãng đường sông từ A đến B dài 15km. Hỏi thuyền đi xuôi dòng từ A đến B hết bao nhiêu thời gian?\nA.\t40 phút\nB.\t45 phút\nC.\t50 phút\nD.\t56, 25 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc của thuyền khi đi xuôi dòng là:\n18 + 2 = 20 (km/giờ)\nThuyền đi xuôi dòng từ A đến B hết số thời gian là:\n15 : 20 = 0,75 (giờ)\nĐổi 0,75 giờ = 45 phút\nĐáp số: 45 phút"
+    },
+    {
+        "problem": "Câu 9: Hai bến sông A và B cách nhau 40km. Lúc 7 giờ 20 phút, một ca nô đi xuôi dòng từ A đến B. Biết vận tốc của ca nô khi đi ngược dòng là 28 km/giờ và vận tốc dòng nước là 2 km/giờ. Hỏi ca nô đến B lúc mấy giờ?\nA.\t8 giờ 15 phút\nB.\t8 giờ 35 phút\nC.\t8 giờ 40 phút\nD.\t8 giờ 50 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc của ca nô khi nước lặng là:\n28 + 2 = 30 (km/giờ)\nVận tốc của ca nô khi đi xuôi dòng là:\n30 + 2 = 32 (km/giờ)\nCa nô đi xuôi dòng từ A đến B hết số thời gian là:\n40 : 32 = 1,25 (giờ)\nĐổi 1,25 giờ = 1 giờ 15 phút\nCa nô đến B lúc:\n7 giờ 20 phút + 1 giờ 15 phút = 8 giờ 35 phút\nĐáp số: 8 giờ 35 phút."
+    },
+    {
+        "problem": "Câu 10: Một ca nô đi xuôi dòng một khúc sông từ bến A đến bến B hết 2 giờ 45 phút. Biết vận tốc thực của ca nô là 27,5 km/giờ, vận tốc dòng nước là 2,5 km/giờ. Hỏi ca nô đi ngược dòng khúc sông từ bến B đến bến A hết bao nhiêu thời gian?\nA.\t3 giờ\nB.\t3 giờ 20 phút\nC.\t3 giờ 45 phút\nD.\t3 giờ 18 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 2 giờ 45 phút = 2,75 giờ\nVận tốc của ca nô khi đi xuôi dòng là:\n27,5 + 2,5 = 30 (km/giờ)\nVận tốc của ca nô khi đi ngược dòng là:\n27,5 − 2,5 = 25 (km/giờ)\nĐộ dài từ bến A đến bến B là:\n30 × 2,75 = 82,5 (km)\nCa nô đi ngược dòng khúc sông từ bến B đến bến A hết số thời gian là:\n82,5 : 25 = 3,3 (giờ)\nĐổi 3,3 giờ = 3 giờ 18 phút\nĐáp số: 3 giờ 18 phút."
+    },
+    {
+        "problem": "Câu 11: Hai bến sông A và B cách nhau 32km. Cùng một lúc ca nô thứ nhất đi xuôi dòng từ A đến B và ca nô thứ hai đi ngược dòng từ B đến A. Hỏi sau bao lâu hai ca nô sẽ gặp nhau, biết vận tốc của hai ca nô khi nước lặng đều bằng 20 km/giờ và vận tốc dòng nước là 2 km/giờ.\nA.\t48 phút\nB.\t45 phút\nC.\t40 phút\nD.\t36 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc của ca nô thứ nhất là:\n20 + 2 = 22 (km/giờ)\nVận tốc của ca nô thứ hai là:\n20 − 2 = 18 (km/giờ)\nHai ca nô gặp nhau sau khi đi số thời gian là:\n32 : (22 + 18) = 0,8 (giờ)\n0,8 giờ = 48 phút\nĐáp số: 48 phút."
+    }
+]

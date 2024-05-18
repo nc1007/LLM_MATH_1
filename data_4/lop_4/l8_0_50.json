@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : Đề-xi-mét vuông được kí hiệu là: \nA. cm^{2} \nB. dm^{2} \nC. m^{2} \nD. mm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đề-xi-mét vuông được kí hiệu là dm^{2} ."
+    },
+    {
+        "problem": "Câu 2 : Mét vuông được kí hiệu là m^{2} .Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mét vuông được kí hiệu là m^{2} .\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 6 : 1890m^{2}  được đọc là: \nA.\tMột nghìn tám trăm chín chục mét vuông\nB.\tMột nghìn tám chín mươi mét vuông\nC.\tMột nghìn tám trăm chín không mét vuông\nD.\tMột nghìn tám trăm chín mươi mét vuông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1890m^{2}  đọc là một nghìn tám trăm chín mươi mét vuông."
+    },
+    {
+        "problem": "Câu 8 : 7m^{2}  4^{2}  = ... dm^{2} .  \nSố thích hợp điền vào chỗ chấm là:\nA.\t74\nB.\t704\nC.\t740\nD.\t7004",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 1m^{2}  = 100dm^{2}  nên 7m^{2}  = 700dm^{2} .\n7m^{2} 4dm^{2} =7m^{2} +4dm^{2} =700dm^{2} +4dm^{2} =704dm^{2} \nVậy: 7m^{2} 4dm^{2} =704dm^{2}"
+    },
+    {
+        "problem": "Câu 10 : Cho hình vuông ABCD có AB = 6m. Hỏi diện tích hình vuông ABCD bằng bao nhiêu đề-xi-mét vuông? \nA. 36dm^{2} \nB. 360dm^{2} \nC. 3600dm^{2} \nD. 36000dm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 6m=60dm\nDiện tích hình vuông ABCD là:\n           60×60=3600(dm^{2} )\n                 Đáp số: 3600dm^{2} ."
+    },
+    {
+        "problem": "Câu 11 : Cho hình chữ nhật có kích thước như hình vẽ dưới đây:  \nDiện tích hình chữ nhật đó là:\nA. 306dm^{2} \nB. 316dm^{2} \nD. 306m^{2} \nC. 316m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 3m 4dm=34dm\nDiện tích hình chữ nhật trên là:\n       34×9=306(dm^{2} )\n             Đáp số: 306dm^{2} ."
+    },
+    {
+        "problem": "Câu 14 : Người ta trồng ngô trên một thửa ruộng hình chữ nhật có chiều rộng bằng 40m, \nchiều dài gấp đôi chiều rộng. Trung bình cứ 100m^{2}  thu được 50kg ngô. \nHỏi trên cả thửa ruộng đó người ta thu hoạch được bao nhiêu tạ ngô? \nA.\t16\nB.\t160\nC.\t1600\nD.\t16000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều dài thửa ruộng đó là:\n       40×2=80(m)\nDiện tích thửa ruộng đó là:\n           80×40=3200(m^{2} )\n2400m^{2}  gấp 100m^{2}  số lần là:\n       3200:100=32 (lần)\nTrên cả thửa ruộng đó người ta thu hoạch được số ki-lô-gam ngô là:\n          50×32=1600(kg)\n         1600kg=16tạ\n                Đáp số: 16 tạ."
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Biết AM = 3 cm. Độ dài đoạn thẳng GM là:\nA. 1 cm;\nB. 2 cm;\nC. 3 cm;\nD. 4,5 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTrên hình vẽ, hai đường trung tuyến BN và CP cắt nhau tại G \nNên G là trọng tâm tam giác ABC\nDo đó AG=\\frac{2}{3}AM (tính chất trọng tâm)\nSuy ra GM=\\frac{1}{3}AM\nMà AM = 3 cm\nNên GM = 1 cm.\nVậy ta chọn phương án A."
+    }
+]

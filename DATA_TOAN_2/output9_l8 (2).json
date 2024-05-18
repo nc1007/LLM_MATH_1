@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Dữ liệu nào sau đây là dữ liệu liên tục?\nA. Dữ liệu về danh sách các bạn học sinh tham dự hội khỏe Phù Đổng của thành phố.\nB. Dữ liệu về đánh giá hiệu quả của chuyến đi dã ngoại cho học sinh khối 8.\nC. Dữ liệu về chiều cao của học sinh lớp 8A.\nD. Dữ liệu về danh sách học sinh đến trường bằng xe buýt.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về dữ liệu liên tục để chọn đáp án đúng: Dữ liệu liên tục là dữ liệu có thể nhận mọi giá trị trong một khoảng nào đó. Ví dụ: Chiều dài, khối lượng, thu thập, thời gian, …\nLời giải chi tiết\nDữ liệu liên tục là: Dữ liệu về chiều cao của học sinh lớp 8A.\nChọn C"
+    },
+    {
+        "problem": "Lượng gạo nhập khẩu gạo từ Việt Nam của năm quốc gia nhiều nhất trong năm tháng đầu năm 2021 được biểu diễn dưới dạng biểu đồ sau:\n\n(Nguồn: vioit.org.vn)\na) Hãy chuyển dữ liệu từ biểu đồ trên thành dạng bảng thống kê theo mẫu sau.\nQuốc gia\nPhilippines\nTrung Quốc\nMalaysia\nGhana\nBờ Biển Ngà\nLượng gạo nhập khẩu từ Việt Nam (nghìn tấn)\n?\n\n?\n?\n?\n?\nb) Tính tỉ số phần trăm lượng gạo nhập khẩu từ Việt Nam của mỗi quốc gia.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng kiến thức về chuyển đổi dữ liệu giữa các dạng: Một tập dữ liệu có thể biểu diễn dưới các dạng khác nhau. Chuyển đổi dữ liệu giữa các dạng giúp công việc thuận lợi và đạt hiệu quả hơn.\nb) Để tính tính tỉ số phần trăm lượng gạo nhập khẩu từ Việt Nam của mỗi quốc gia, ta lấy lượng gạo xuất khẩu của mỗi quốc gia chia cho tổng lượng gạo của 5 quốc gia rồi nhân 100%.\nLời giải chi tiết\na) Bảng thống kê tương ứng biểu diễn biểu đồ:\nQuốc gia\nPhilippines\nTrung Quốc\nMalaysia\nGhana\nBờ Biển Ngà\nLượng gạo nhập khẩu từ Việt Nam (nghìn tấn)\n\n944,008\n\n482,848\n136,56\n270,068\n199,376\nb) Tổng số lượng gạo nhập khẩu từ Việt Nam của năm quốc gia trong năm tháng đầu năm 2021 là: \\[944,008 + 482,848 + 136,56 + 270,068 + 199,376 = 2\\;032,86\\] (nghìn tấn)\nTỉ số phần trăm lượng gạo nhập khẩu từ Việt Nam của Philippines là:\n\\(\\frac{{944,008}}{{2\\;032,86}}.100\\%  \\approx 46,44\\% \\)\nTỉ số phần trăm lượng gạo nhập khẩu từ Việt Nam của Trung Quốc là:\n\\(\\frac{{482,848}}{{2\\;032,86}}.100\\%  \\approx 23,75\\% \\)\nTỉ số phần trăm lượng gạo nhập khẩu từ Việt Nam của Malaysia là:\n\\(\\frac{{136,56}}{{2\\;032,86}}.100\\%  \\approx 6,72\\% \\)\nTỉ số phần trăm lượng gạo nhập khẩu từ Việt Nam của Ghana là:\n\\(\\frac{{270,068}}{{2\\;032,86}}.100\\%  \\approx 13,28\\% \\)\nTỉ số phần trăm lượng gạo nhập khẩu từ Việt Nam của Bờ Biển Ngà là:\n\\(\\frac{{199,376}}{{2\\;032,86}}.100\\%  \\approx 9,81\\% \\)"
+    },
+    {
+        "problem": "Hãy đề xuất phương án thu thập dữ liệu cho các vấn đề sau:\na) Số lần gieo được hai mặt có tổng số chấm bằng 12 khi gieo hai con xúc xắc 20 lần.\nb) So sánh số lần ghi bàn của Lionel Messi và Kylian Mbappé Lottin trong World Cup 2022.\nc) Ý kiến của cha mẹ học sinh trường Trung học cơ sở Thống Nhất về hoạt động trải nghiệm của nhà trường.\nd) Diện tích các tỉnh khu vực Tây Nam Bộ của Việt Nam.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về thu thập dữ liệu để đề xuất phương án: Có nhiều cách để thu thập dữ liệu, chẳng hạn như:\n+ Quan sát trực tiếp, làm thí nghiệm, …\n+ Phỏng vấn, lập phiếu thăm dò, …\n+ Thu thập từ các nguồn có sẵn như sách, báo, Internet, …\nLời giải chi tiết\n"
+    },
+    {
+        "problem": "Phương án nào là phù hợp để thống kê dữ liệu về số học sinh biết bơi của lớp 8?\nA. Quan sát.\nB. Phỏng vấn, lập phiếu thăm dò.\nC. Tìm kiếm trên Internet.\nD. Làm thực nghiệm tại hồ bơi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phương án nào là phù hợp để thống kê dữ liệu về số học sinh biết bơi của lớp 8?\nA. Quan sát.\nB. Phỏng vấn, lập phiếu thăm dò.\nC. Tìm kiếm trên Internet.\nD. Làm thực nghiệm tại hồ bơi.\nLời giải chi tiết\nĐể thống kê dữ liệu về số học sinh biết bơi của lớp 8, ta dùng phương pháp phỏng vấn, lập phiếu thăm dò.\nChọn B."
+    },
+    {
+        "problem": "Biểu đồ thống kê sau cho biết tỉ lệ phần trăm đóng góp của Việt Nam vào tổng thu nhập của thế giới qua các năm.\n\n(Nguồn: worldbank.org)\na) Chuyển đổi dữ liệu từ biểu đồ trên thành bảng thống kê.\nb) Chuyển đổi dữ liệu từ biểu đồ trên thành biểu đồ đoạn thẳng.\nc) Cho biết xu thế về tỉ lệ đóng góp của Việt Nam vào tổng thu nhập của thế giới.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng cách vẽ biểu đồ đoạn thẳng để vẽ:\nBước 1: Vẽ 2 trục ngang và dọc vuông góc với nhau: trục ngang ghi mốc thời gian, trục dọc: Chọn khoảng chia thích hợp với dữ liệu và ghi ở các vạch chia.\nBước 2: Tại mỗi mốc thời gian trên trục ngang, đánh dấu một điểm cách mốc thời gian theo chiều thẳng đứng một khoảng chính bằng số liệu của thời gian đó (tương ứng với khoảng chia trên trục dọc), tương tự như vậy với các mốc thời gian còn lại. Vẽ các đoạn thẳng nối các điểm tương ứng, ta được một đường gấp khúc biểu diễn sự thay đổi của số liệu theo thời gian.\nBước 3: Hoàn thiện biểu đồ: Ghi tên biểu đồ, ghi tên các trục và số liệu tương ứng trên mỗi cột (nếu cần).\n+ Sử dụng kiến thức về phân tích dữ liệu hỗ trợ cách giải quyết vấn đề: Phân tích dữ liệu của biểu đồ thống kê giúp nắm bắt các thông tin, hỗ trợ đề xuất các quyết định hợp lí, hiệu quả và thuyết phục.\nLời giải chi tiết\na) Chuyển đổi dữ liệu từ biểu đồ trên thành bảng thống kê:\nNăm\nTỉ lệ phần trăm\n2012\n0,26\n2013\n0,28\n2014\n0,3\n2015\n0,32\n2016\n0,34\n2017\n0,35\n2018\n0,36\nb) Chuyển đổi dữ liệu từ biểu đồ trên thành biểu đồ đoạn thẳng:\n\nc) Xu thế về tỉ lệ đóng góp của Việt Nam vào tổng thu nhập của thế giới là tăng dần theo từng năm."
+    },
+    {
+        "problem": "Bảng thống kê sau cho biết số giờ luyện tập cầu lông các ngày trong tuần của bạn Hùng để chuẩn bị tham dự hội thao cấp trường.\nNgày\nThứ Hai\nThứ Ba\nThứ Tư\nThứ Năm\nThứ Sáu\nThứ Bảy\nChủ Nhật\nSố giờ\n1\n2\n1\n2\n1\n3\n5\nHãy biểu diễn dữ liệu trong bảng trên với hai dạng biểu đồ sau:\na) Biểu đồ cột;\nb) Biểu đồ đoạn thẳng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng cách vẽ biểu đồ cột để vẽ:\nBước 1: Vẽ 2 trục ngang và dọc vuông góc với nhau: trục ngang ghi danh sách đối tượng, trục dọc: Chọn khoảng chia thích hợp với dữ liệu và ghi ở các vạch chia.\nBước 2: Tại vị trí các đối tượng trên trục ngang, vẽ các cột hình chữ nhật: Cách đều nhau, có cùng chiều rộng và có chiều cao thể hiện số liệu của các đối tượng, tương ứng với khoảng chia trên trục dọc.\nBước 3: Hoàn thiện biểu đồ: Ghi tên biểu đồ, ghi tên các trục và số liệu tương ứng trên mỗi cột (nếu cần).\nb) Sử dụng cách vẽ biểu đồ đoạn thẳng để vẽ:\nBước 1: Vẽ 2 trục ngang và dọc vuông góc với nhau: trục ngang ghi mốc thời gian, trục dọc: Chọn khoảng chia thích hợp với dữ liệu và ghi ở các vạch chia.\nBước 2: Tại mỗi mốc thời gian trên trục ngang, đánh dấu một điểm cách mốc thời gian theo chiều thẳng đứng một khoảng chính bằng số liệu của thời gian đó (tương ứng với khoảng chia trên trục dọc), tương tự như vậy với các mốc thời gian còn lại. Vẽ các đoạn thẳng nối các điểm tương ứng, ta được một đường gấp khúc biểu diễn sự thay đổi của số liệu theo thời gian.\nBước 3: Hoàn thiện biểu đồ: Ghi tên biểu đồ, ghi tên các trục và số liệu tương ứng trên mỗi cột (nếu cần).\nLời giải chi tiết\na) Biểu đồ cột:\n\nb) Biểu đồ đoạn thẳng:\n"
+    },
+    {
+        "problem": "Thông tin về bốn học sinh trong đội thi Hùng biện tiếng Anh của trường Trung học cơ sở Nguyễn Du được cho bởi bảng thống kê sau:\nHọ và tên\nTuổi\nKhối\nĐiểm trung bình môn tiếng Anh\nKĩ năng giao tiếp\nLê Kinh Luân\n14\n9\n9,2\nTốt\nTrần Đăng Khoa\n13\n8\n9,4\nKhá\nNguyễn Trọng Luận\n14\n9\n8,8\nTốt\nHồ Liên Biện\n12\n7\n9,8\nTốt\na) Phân loại dữ liệu trong bảng thống kê trên dựa theo tiêu chí định tính và định lượng.\nb) Trong số các dữ liệu định tính tìm được, dữ liệu nào là định danh, dữ liệu nào là biểu thị thứ bậc?\nc) Trong số các dữ liệu định lượng tìm được, dữ liệu nào là liên tục, dữ liệu nào là rời rạc?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về phân loại dữ liệu theo các tiêu chí để phân loại:\n- Dữ liệu định tính được chia thành hai loại:\n+ Dữ liệu định danh là dữ liệu thể hiện cách gọi tên. Ví dụ: Giới tính, màu sắc, nơi ở, …\n+ Dữ liệu biểu thị thứ bậc là dữ liệu thể hiện sự hơn kém. Ví dụ: mức độ hài lòng, trình độ tay nghề, khối lớp, …\nDữ liệu định lượng nhận giá trị thực và được chia thành hai loại:\n+ Loại rời rạc là dữ liệu chỉ nhận hữu hạn giá trị hoặc biểu thị số đếm. Ví dụ: Cỡ giày, số học sinh, số ngày công, số vật nuôi, …\n+ Loại liên tục là dữ liệu có thể nhận mọi giá trị trong một khoảng nào đó. Ví dụ: Chiều dài, khối lượng, thu nhập, thời gian, …\nLời giải chi tiết\na) Dữ liệu định tính: Họ và tên, kĩ năng giao tiếp\nDữ liệu định lượng: Tuổi, khối, điểm trung bình môn Tiếng Anh\nb) Trong số các dữ liệu định tính tìm được, dữ liệu định danh là: họ và tên, dữ liệu là biểu thị thứ bậc: Kĩ năng giao tiếp.\nc) Trong số các dữ liệu định lượng tìm được, dữ liệu liên tục là: điểm trung bình môn Tiếng Anh, dữ liệu rời rạc là: tuổi, khối"
+    },
+    {
+        "problem": "Loại biểu đồ nào biểu diễn tỉ lệ phần trăm của từng loại số liệu so với toàn thể?\nA. Biểu đồ cột.\nB. Biểu đồ cột kép.\nC. Biểu đồ hình quạt tròn.\nD. Biểu đồ đoạn thẳng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về lựa chọn dạng biểu đồ để biểu diễn dữ liệu: Biểu đồ cho chúng ta hình ảnh cụ thể về số liệu. Việc chọn loại biểu đồ phù hợp sẽ giúp ta thể hiện số liệu thống kê một cách rõ ràng, trực quan và dễ hiểu.\n+ Ta thường chọn biểu đồ tranh khi số liệu ở dạng đơn giản và muốn tạo sự lôi cuốn, thu hút bằng hình ảnh\n+ Với những số liệu phức tạp hơn, số liệu lớn, sự sai khác giữa các số liệu cũng lớn và để thuận tiện cho việc so sánh thì ta thường chọn biểu đồ cột.\n+ Nếu muốn so sánh một cách trực quan từng cặp số liệu của hai bộ dữ liệu cùng loại, người ta ghép hai biểu đồ cột thành một biểu đồ cột kép.\n+ Để biểu thị tỉ lệ phần trăm của từng loại số liệu so với toàn thể, người ta thường sử dụng biểu đồ hình quạt tròn.\n+ Khi biểu diễn sự thay đổi của từng loại số liệu của một đối tượng theo thời gian, người ta thường dùng biểu đồ đoạn thẳng.\nLời giải chi tiết\nLoại biểu đồ biểu diễn tỉ lệ phần trăm của từng loại số liệu so với toàn thể là biểu đồ hình quạt tròn.\nChọn C"
+    },
+    {
+        "problem": "Tỉ lệ diện tích đất rừng trên tổng diện tích đất của Việt Nam từ năm 2013 đến 2016 được biểu diễn trong biểu đồ sau:\n\n(Nguồn: Tổng cục thống kê)\na) Lập bảng thống kê tương ứng với biểu đồ trên theo mẫu sau:\nNăm\nViệt Nam\n2013\n?\n2014\n?\n2015\n?\n2016\n?\nb) Cho biết diện tích của Việt Nam là 33 134,4 nghìn ha. Tính diện tích đất rừng của Việt Nam năm 2015.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tính diện tích đất rừng năm 2015, lấy 33 134,4 nghìn ha nhân với số phần trăm diện tích đất rừng năm 2015.\nLời giải chi tiết\na) Lập bảng thống kê tương ứng với biểu đồ trên theo mẫu sau:\nNăm\nViệt Nam\n2013\n42,13%\n2014\n41,65%\n2015\n42,45%\n2016\n43,41%\nb) Diện tích đất rừng của Việt Nam năm 2015 là: \\(42,45\\% .33\\;134,4 \\approx 14\\;065,6\\) nghìn ha"
+    },
+    {
+        "problem": "Tốc độ tăng năng suất lúa của Việt Nam qua một số năm tính từ năm 1990 được cho trong bảng thống kê sau:\nNăm\nNăng suất lúa (%)\n1990\n100,0\n1993\n126,9\n1995\n116,0\n1997\n120,9\n1999\n129,0\n2002\n144,3\n2003\n145,9\n2005\n153,7\n(Nguồn: https://infographics.vn/)\nHãy tìm biểu đồ thích hợp để biểu diễn dữ liệu trong bảng thống kê trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về lựa chọn dạng biểu đồ để biểu diễn dữ liệu: Biểu đồ cho chúng ta hình ảnh cụ thể về số liệu. Việc chọn loại biểu đồ phù hợp sẽ giúp ta thể hiện số liệu thống kê một cách rõ ràng, trực quan và dễ hiểu.\n+ Ta thường chọn biểu đồ tranh khi số liệu ở dạng đơn giản và muốn tạo sự lôi cuốn, thu hút bằng hình ảnh\n+ Với những số liệu phức tạp hơn, số liệu lớn, sự sai khác giữa các số liệu cũng lớn và để thuận tiện cho việc so sánh thì ta thường chọn biểu đồ cột\n+ Nếu muốn so sánh một cách trực quan từng cặp số liệu của hai bộ dữ liệu cùng loại, người ta ghép hai biểu đồ cột thành một biểu đồ cột kép.\n+ Để biểu thị tỉ lệ phần trăm của từng loại số liệu so với toàn thể, người ta thường sử dụng biểu đồ hình quạt tròn.\n+ Khi biểu diễn sự thay đổi của từng loại số liệu của một đối tượng theo thời gian, người ta thường dùng biểu đồ đoạn thẳng.\nLời giải chi tiết\nHai dạng biểu đồ thích hợp để biểu diễn dữ liệu trong bảng thống kê là biểu đồ cột và biểu đồ đoạn thẳng:\nBiểu đồ cột:\n\nBiểu đồ đoạn thẳng:\n"
+    },
+    {
+        "problem": "Xét tính hợp lí của dữ liệu trong bảng thống kê sau:\nThống kê số học sinh có sử dụng mạng xã hội của bốn lớp khối 8\nLớp\nSố học sinh\n8A1\n12\n8A2\n6\n8A3\nCả lớp\n8A4\n80",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính hợp lí của dữ liệu để xét tính hợp lí: Có thể kiểm tra định dạng của dữ liệu hoặc mối liên hệ toán học đơn giản giữa các số liệu thống kê để nhận biết tính hợp lí của dữ liệu và các kết luận dựa trên các dữ liệu thống kê đó.\nLời giải chi tiết\nDữ liệu Cả lớp không hợp lí vì không đúng định dạng (dữ liệu phải là số)\nDữ liệu 80 không hợp lí vì vượt quá phạm vi sĩ số của một lớp trong trường trung học cơ sở."
+    },
+    {
+        "problem": "Loại biểu đồ nào biểu diễn sự thay đổi số liệu của một đối tượng theo thời gian?\nA. Biểu đồ cột.\nB. Biểu đồ cột kép.\nC. Biểu đồ hình quạt tròn.\nD. Biểu đồ đoạn thẳng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về lựa chọn dạng biểu đồ để biểu diễn dữ liệu: Biểu đồ cho chúng ta hình ảnh cụ thể về số liệu. Việc chọn loại biểu đồ phù hợp sẽ giúp ta thể hiện số liệu thống kê một cách rõ ràng, trực quan và dễ hiểu.\n+ Ta thường chọn biểu đồ tranh khi số liệu ở dạng đơn giản và muốn tạo sự lôi cuốn, thu hút bằng hình ảnh\n+ Với những số liệu phức tạp hơn, số liệu lớn, sự sai khác giữa các số liệu cũng lớn và để thuận tiện cho việc so sánh thì ta thường chọn biểu đồ cột\n+ Nếu muốn so sánh một cách trực quan từng cặp số liệu của hai bộ dữ liệu cùng loại, người ta ghép hai biểu đồ cột thành một biểu đồ cột kép.\n+ Để biểu thị tỉ lệ phần trăm của từng loại số liệu so với toàn thể, người ta thường sử dụng biểu đồ hình quạt tròn.\n+ Khi biểu diễn sự thay đổi của từng loại số liệu của một đối tượng theo thời gian, người ta thường dùng biểu đồ đoạn thẳng.\nLời giải chi tiết\nLoại biểu đồ biểu diễn sự thay đổi số liệu của một đối tượng theo thời gian là biểu đồ đoạn thẳng.\nChọn D"
+    },
+    {
+        "problem": "Tỉ lệ phần trăm kết quả phỏng vấn 1 000 khách hàng về sự lựa chọn món ăn của một cửa hàng được thể hiện trong biểu đồ sau:\n\nNếu một người muốn kinh doanh ẩm thực thì người đó nên ưu tiên chọn món ăn nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về phân tích dữ liệu hỗ trợ cách giải quyết vấn đề: Phân tích dữ liệu của biểu đồ thống kê giúp nắm bắt các thông tin, hỗ trợ đề xuất các quyết định hợp lí, hiệu quả và thuyết phục.\nLời giải chi tiết\nVì \\(45\\%  > 25\\%  > 18\\%  > 12\\% \\), do đó ta thấy món phở được chọn là nhiều nhất ở cửa hàng.\nVậy nếu một người muốn kinh doanh ẩm thực thì người đó nên ưu tiên chọn món phở."
+    },
+    {
+        "problem": "Bảng thống kê sau cho biết tỉ lệ phần trăm các yếu tố ảnh hưởng đến sự phát triển chiều cao của trẻ em.\nYếu tố\nTỉ lệ phần trăm\nVận động\n22%\nDi truyền\n23%\nDinh dưỡng\n32%\nYếu tố khác (môi trường sống, …)\n23%\n(Nguồn: https://soyte.hanoi.gov.vn/)\nHãy biểu diễn dữ liệu trong bảng trên vào hai dạng biểu đồ sau:\na) Biểu đồ cột;\nb) Biểu đồ hình quạt tròn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng cách vẽ biểu đồ cột để vẽ:\nBước 1: Vẽ 2 trục ngang và dọc vuông góc với nhau: trục ngang ghi danh sách đối tượng, trục dọc: Chọn khoảng chia thích hợp với dữ liệu và ghi ở các vạch chia.\nBước 2: Tại vị trí các đối tượng trên trục ngang, vẽ các cột hình chữ nhật: Cách đều nhau, có cùng chiều rộng và có chiều cao thể hiện số liệu của các đối tượng, tương ứng với khoảng chia trên trục dọc.\nBước 3: Hoàn thiện biểu đồ: Ghi tên biểu đồ, ghi tên các trục và số liệu tương ứng trên mỗi cột (nếu cần)\nb) Sử dụng cách vẽ biểu đồ hình quạt tròn để vẽ:\n+ Vẽ một đường tròn.\n+ Tính số đo góc của hình quạt biểu diễn từng đối tượng, 1% ứng với 3,6 độ.\n+ Đo góc và chia hình tròn thành các hình quạt có số đo tương ứng.\n+ Điền số phần trăm tương ứng vào từng hình quạt, tô màu và viết chú thích, đặt tên cho biểu đồ.\nLời giải chi tiết\na) Biểu đồ cột:\n\nb) Biểu đồ hình quạt tròn:\n"
+    },
+    {
+        "problem": "Bảng thống kê sau cho biết sự lựa chọn của 100 khách hàng về bốn nhãn hiệu sữa hộp A, B, C, D (mỗi khách hàng chỉ chọn một nhãn hiệu)\nNhãn hiệu sữa hộp\nSố người chọn\nA\n35\nB\n38\nC\n14\nD\n13\nXét tính hợp lí của các quảng cáo sau đây đối với nhãn hiệu sữa hộp A:\na) Là sự lựa chọn của đa số khách hàng.\nb) Là sự lựa chọn hàng đầu của khách hàng.\nc) Là một trong các nhãn hiệu đứng đầu được lựa chọn cao.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính hợp lí của dữ liệu để xét tính hợp lí: Có thể kiểm tra định dạng của dữ liệu hoặc mối liên hệ toán học đơn giản giữa các số liệu thống kê để nhận biết tính hợp lí của dữ liệu và các kết luận dựa trên các dữ liệu thống kê đó.\nLời giải chi tiết\na) Quảng cáo không hợp lí so với số liệu thống kê vì còn 65 khách hàng không chọn nhãn hiệu A.\nb) Quảng cáo không hợp lí so với số liệu thống kê vì nhãn hiệu B được lựa chọn nhiều hơn nhãn hiệu A.\nc) Quảng cáo hợp lí vì phản ánh đúng dữ liệu của bảng thống kê."
+    },
+    {
+        "problem": "Loại biểu đồ nào so sánh từng thành phần của hai bộ dữ liệu cùng loại?\nA. Biểu đồ cột.\nB. Biểu đồ cột kép.\nC. Biểu đồ hình quạt tròn.\nD. Biểu đồ đoạn thẳng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về lựa chọn dạng biểu đồ để biểu diễn dữ liệu: Biểu đồ cho chúng ta hình ảnh cụ thể về số liệu. Việc chọn loại biểu đồ phù hợp sẽ giúp ta thể hiện số liệu thống kê một cách rõ ràng, trực quan và dễ hiểu.\n+ Ta thường chọn biểu đồ tranh khi số liệu ở dạng đơn giản và muốn tạo sự lôi cuốn, thu hút bằng hình ảnh\n+ Với những số liệu phức tạp hơn, số liệu lớn, sự sai khác giữa các số liệu cũng lớn và để thuận tiện cho việc so sánh thì ta thường chọn biểu đồ cột\n+ Nếu muốn so sánh một cách trực quan từng cặp số liệu của hai bộ dữ liệu cùng loại, người ta ghép hai biểu đồ cột thành một biểu đồ cột kép.\n+ Để biểu thị tỉ lệ phần trăm của từng loại số liệu so với toàn thể, người ta thường sử dụng biểu đồ hình quạt tròn.\n+ Khi biểu diễn sự thay đổi của từng loại số liệu của một đối tượng theo thời gian, người ta thường dùng biểu đồ đoạn thẳng.\nLời giải chi tiết\nLoại biểu đồ để so sánh từng thành phần của hai bộ dữ liệu cùng loại là biểu đồ cột kép.\nChọn B"
+    },
+    {
+        "problem": "Nhiệt độ trung bình các tháng trong năm 2021 của thành phố Đà Lạt được biểu diễn qua biểu đồ thống kê sau:\n\n(Nguồn: Niên giám thống kê năm 2021)\nHãy biểu diễn dữ liệu trong biểu đồ trên dưới dạng:\na) Bảng thống kê;\nb) Biểu đồ đoạn thẳng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng cách vẽ biểu đồ đoạn thẳng để vẽ:\nBước 1: Vẽ 2 trục ngang và dọc vuông góc với nhau: trục ngang ghi mốc thời gian, trục dọc: Chọn khoảng chia thích hợp với dữ liệu và ghi ở các vạch chia.\nBước 2: Tại mỗi mốc thời gian trên trục ngang, đánh dấu một điểm cách mốc thời gian theo chiều thẳng đứng một khoảng chính bằng số liệu của thời gian đó (tương ứng với khoảng chia trên trục dọc), tương tự như vậy với các mốc thời gian còn lại. Vẽ các đoạn thẳng nối các điểm tương ứng, ta được một đường gấp khúc biểu diễn sự thay đổi của số liệu theo thời gian.\nBước 3: Hoàn thiện biểu đồ: Ghi tên biểu đồ, ghi tên các trục và số liệu tương ứng trên mỗi cột (nếu cần).\nLời giải chi tiết\na) Bảng thống kê:\nNhiệt độ trung bình các tháng trong năm 2021 của thành phố Đà Lạt\nTháng\nNhiệt độ trung bình (oC)\n1\n15,8\n2\n16,6\n3\n18,3\n4\n19\n5\n20\n6\n19,6\n7\n19\n8\n19,5\n9\n18,8\n10\n18,5\n11\n18,2\n12\n16,1\nb) Biểu đồ đoạn thẳng:\n"
+    },
+    {
+        "problem": "Bảng thống kê sau cho biết tỉ số phần trăm thị phần của bốn nhãn hiệu kem đánh răng M, N, P, Q trên thị trường.\nNhãn hiệu kem đánh răng\nThị phần\nM\n8%\nN\n12%\nP\n29%\nQ\n51%\nXét tính hợp lí của các quảng cáo sau đây đối với nhãn hiệu kem đánh răng Q:\na) Là sự lựa chọn của mọi người.\nb) Là sự lựa chọn hàng đầu của người tiêu dùng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính hợp lí của dữ liệu để xét tính hợp lí: Có thể kiểm tra định dạng của dữ liệu hoặc mối liên hệ toán học đơn giản giữa các số liệu thống kê để nhận biết tính hợp lí của dữ liệu và các kết luận dựa trên các dữ liệu thống kê đó.\nLời giải chi tiết\na) Quảng cáo không hợp lí so với số liệu thống kê vì còn 49% khách hàng không chọn nhãn hiệu Q.\nb) Quảng cáo hợp lí vì phản ánh đúng dữ liệu của bảng thống kê."
+    },
+    {
+        "problem": "Số học sinh của ba trường trung học cơ sở trên địa bàn đăng kí tham dự giải chạy việt dã do quận tổ chức được cho trong bảng sau:\nTrường\nSao Mai\nKim Đồng\nKết Đoàn\nĐức Trí\nSố lượng học sinh đăng kí\n24\n41\n15\n33\nBiểu đồ nào là thích hợp để biểu diễn số liệu của bảng thống kê trên:\nA. Biểu đồ tranh.\nB. Biểu đồ hình quạt.\nC. Biểu đồ cột.\nD. Biểu đồ đoạn thẳng.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về lựa chọn dạng biểu đồ để biểu diễn dữ liệu: Biểu đồ cho chúng ta hình ảnh cụ thể về số liệu. Việc chọn loại biểu đồ phù hợp sẽ giúp ta thể hiện số liệu thống kê một cách rõ ràng, trực quan và dễ hiểu.\n+ Ta thường chọn biểu đồ tranh khi số liệu ở dạng đơn giản và muốn tạo sự lôi cuốn, thu hút bằng hình ảnh\n+ Với những số liệu phức tạp hơn, số liệu lớn, sự sai khác giữa các số liệu cũng lớn và để thuận tiện cho việc so sánh thì ta thường chọn biểu đồ cột\n+ Nếu muốn so sánh một cách trực quan từng cặp số liệu của hai bộ dữ liệu cùng loại, người ta ghép hai biểu đồ cột thành một biểu đồ cột kép.\n+ Để biểu thị tỉ lệ phần trăm của từng loại số liệu so với toàn thể, người ta thường sử dụng biểu đồ hình quạt tròn.\n+ Khi biểu diễn sự thay đổi của từng loại số liệu của một đối tượng theo thời gian, người ta thường dùng biểu đồ đoạn thẳng.\nLời giải chi tiết\nBiểu đồ thích hợp để biểu diễn số liệu của bảng thống kê trên là biểu đồ cột.\nChọn C"
+    },
+    {
+        "problem": "Bảng thống kê sau cho biết tỉ số phần trăm sự lựa chọn của số học sinh đối với bốn nhãn hiệu bút bi trong số 100 học sinh được phỏng vấn.\nNhãn hiệu bút bi\nTỉ số phần trăm\nE\n39%\nF\n41%\nG\n12%\nH\n8%\nXét tính hợp lí của các quảng cáo sau đây đối với nhãn hiệu bút bi E.\na) E là nhãn hiệu được đa số học sinh lựa chọn.\nb) E là nhãn hiệu được lựa chọn cao nhất.\nc) E là một trong các nhãn hiệu có tỉ lệ được chọn cao nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính hợp lí của dữ liệu để xét tính hợp lí: Có thể kiểm tra định dạng của dữ liệu hoặc mối liên hệ toán học đơn giản giữa các số liệu thống kê để nhận biết tính hợp lí của dữ liệu và các kết luận dựa trên các dữ liệu thống kê đó.\nLời giải chi tiết\na) Quảng cáo không hợp lí so với số liệu thống kê vì số học sinh lựa chọn nhãn hiệu bút bi E ít hơn 50%\nb) Quảng cáo không hợp lí so với số liệu thống kê vì số học sinh lựa chọn nhãn hiệu bút bi F nhiều hơn E.\nc) Quảng cáo đúng vì phản ánh đúng dữ liệu trong bảng thống kê."
+    }
+]

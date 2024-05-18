@@ -1,0 +1,164 @@
+[
+    {
+        "problem": "A.am.an=am+n\nB.am:an=am−n với m≥n và a≠0\nC.a0=1\nD.a1=0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có với a,m,n∈N\n+ am.an=am+n nên A đúng\n+ am:an=am−n với m≥n và a≠0 nên B đúng\n+ a0=1 nên C đúng\n+ a1=a nên D sai\nĐáp án cần chọn là: Dzzz"
+    },
+    {
+        "problem": "Câu 2. Tích 10.10.10.100 được viết dưới dạng lũy thừa gọn nhất là\nA. 10^{5}  \nB. 10^{4}  \nC. 100^{2}  \nD. 20^{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 10.10.10.100 = 10.10.10.10.10 = 10^{5} \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Tính giá trị của lũy thừa 2^{6} , ta được\nA. 32 \nB. 64 \nC. 16 \nD. 128",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 2^{6  } = 2.2.2.2.2.2 = 4.4. 4= 16.4=64\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. Cơ số và số mũ của 2019^{2020}  lần lượt là:\nA. 2019 và 2020\nB. 2020 và 2019\nC. 2019 và 2019^{2020} \nD. 2019^{2020}  và 2019",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n2019^{2020}  có cơ số là 2019 và số mũ là 2020.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Viết tích a4.a6 dưới dạng một lũy thừa ta được\nA. a^{8} \nB. a^{9} \nC. a^{10} \nD. a^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có  a4.a6=a4+6=a10\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Lũy thừa nào dưới đây biểu diễn thương 178:173\nA. 5^{17} \nB. 17^{5} \nC. 17^{11} \nD.17^{6}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 178:173=178−3=175\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Chọn câu đúng\nA. 52.53.54=510\nB. 52.53:54=5\nC. 53:5=5\nD. 51=1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Ta có: 52.53.54=52+3+4=59 nên A sai\n+ 52.53:54=52+3+4=51=5 nên B đúng\n+ 53:5=53−1=52;51=5 nên C, D sai\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Chọn câu sai\nA.5^{3}  < 3^{5} \nB. 3^{4}  > 2^{5} \nC. 4^{3}  = 2^{6} \nD. 4^{3}  > 8^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n+ 5^{3}  = 5.5.5 = 125; 3^{5}  = 3.3.3.3.3 = 243 nên 5^{3}  < 3^{5 (A đúng} \n+ 3^{4}  = 3.3.3.3 = 81 và 2^{5}  = 2.2.2.2.2 = 32 nên 3^{4}  > 2^{5}  (B đúng)\n+ 4^{3}  = 4.4.4 = 64 và 2^{6}  = 2.2.2.2.2.2 = 64  nên 4^{3}  = 2^{6}  nên 4^{3}  = 2^{6}  (C đúng)\n+ 4^{3}  = 64; 8^{2}  = 64 nên 4^{3}  = 8^{2}  (D sai\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9. Tính 2^{4}  + 16 ta được kết quả dưới dạng lũy thừa là\nA. 2^{20}  \nB. 2^{4}  \nC. 2^{5}  \nD. 210",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 2^{4}  + 16 = 2.2.2.2 + 16 \n= 16 + 16  =32 =2.2.2.2.2\n= 2^{5} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Tìm số tự nhiên n biết 3n = 81.\nA. n = 2 \nB. n = 4 \nC. n = 5 \nD. n = 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có  3n = 81 mà 81 = 3^{4}  nên 3n = 3^{4} \n suy ra n = 4.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về lũy thừa với số mũ tự nhiên\nCâu 1. Viết tích a^{4} .a^{6}  dưới dạng một lũy thừa ta được\nA. a^{8}   \nB. a^{9}         \nC. a^{10}      \nD. a^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có a^{4} .a^{6}  = a^{4+6}  = a^{10} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Lũy thừa nào dưới đây biểu diễn thương  17^{8}  : 17^{3} \nA.  5^{17} \nB. 17^{5} \nC. 17^{11} \nD. 17^{6}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 17^{8}  : 17^{3}  = 17^{8-3}  = 17^{5} \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Chọn câu đúng\nA.52.53.54=510\nB.52.53:54=5\nC.53:5=5\nD.51=1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Ta có:52.53.54=52+3+4=59 nên A sai\n+ 52.53:54=52+3+4=51=5 nên B đúng\n+ 53:5=53−1=52;51=5 nên C, D sai\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. Chọn câu sai\nA.5^{3}  < 3^{5} \nB. 3^{4}  > 2^{5} \nC. 4^{3}  = 2^{6} \nD. 4^{3}  > 8^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n+ 5^{3}  = 5.5.5 = 125; 3^{5}  = 3.3.3.3.3 = 243 nên 5^{3}  < 3^{5 (A đúng} \n+ 3^{4}  = 3.3.3.3 = 81 và 2^{5}  = 2.2.2.2.2 = 32 nên 3^{4}  > 2^{5}  (B đúng)\n+ 4^{3}  = 4.4.4 = 64 và 2^{6}  = 2.2.2.2.2.2 = 64  nên 4^{3}  = 2^{6}  nên 4^{3}  = 2^{6}  (C đúng)\n+ 4^{3}  = 64; 8^{2}  = 64 nên 4^{3}  = 8^{2}  (D sai\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Tính 2^{4}  + 16 ta được kết quả dưới dạng lũy thừa là\nA. 2^{20}    \nB. 2^{4}          \nC. 2^{5}        \nD. 210",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 2^{4}  + 16 = 2.2.2.2 + 16 \n= 16 + 16  =32 =2.2.2.2.2\n= 2^{5} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. 7^{2} .7^{4} :7^{3}  bằng\nA. 7^{1} \nB. 7^{2} \nC. 7^{3} \nD. 7^{9}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n7^{2} .7^{4}  = 7^{2+4}  = 7^{6} \n7^{2} .7^{4} :7^{3}  = 7^{6}  : 7^{3}  = 7^{6-3}  = 7^{3}"
+    },
+    {
+        "problem": "Câu 7. Số tự nhiên x nào dưới đây thỏa mãn 4^{x } = 4^{3} .4^{5} ?\nA. x = 32        \nB. x = 16          \nC. x = 4      \nD. x = 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 4^{x } = 4^{3} .4^{5} \n4^{x } = 4^{3+5} \n4^{x}  = 4^{8} \nx = 8\nVậy x = 8.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8.  Số tự nhiên  nào dưới đây thỏa mãn 20^{2018  } < 20^{m  } < 20^{2020} ?\nA. m = 2020   \nB. m = 2018  \nC. m = 2019      \nD. m = 20",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 20^{2018  } < 20^{m  } < 20^{2020} \nsuy ra 2018 < m < 2020  nên m = 2019\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Có bao nhiêu số tự nhiên nn thỏa mãn 5^{n } < 90?\nA. 2   \nB. 3          \nC. 4      \nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì 5^{2 } < 90 < 5^{3}  nên từ 5^{n  } < 90 suy ra n ≤ 2. Tức là n = 0; 1; 2.\nVậy có ba giá trị thỏa mãn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10.  Số tự nhiên x thỏa mãn (2x + 1)^{3 } = 125 là\nA. x = 2   \nB. x = 3          \nC. x = 5          \nD. x = 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có\n(2x + 1)^{3 } = 125 \n(2x + 1)^{3 } = 5^{3} \n2x + 1 = 5\n2x = 5 − 1\n2x = 4\nx = 4:2\nx = 2.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Gọi x là số tự nhiên thỏa mãn 2^{x } – 15 = 17. Chọn câu đúng.\nA. x < 6   \nB. x > 7          \nC. x < 5      \nD. x < 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n2^{x  } – 15 = 17\n2^{x  } = 17 + 15\n2^{x  } = 32\n2^{x  } = 2^{5} \nx = 5.\nVậy x = 5 < 6.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12. Có bao nhiêu số tự nhiên x thỏa mãn (7x − 11)^{3 } = 2^{5} .5^{2 } + 200?\nA. 1   \nB. 2          \nC. 0      \nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có\n(7x − 11)^{3 } = 2^{5} .5^{2 } + 200\n (7x −11)^{3 } = 32.25 + 200\n (7x −11)^{3 } = 1000\n (7x −11)^{3 } = 10^{3} \n7x – 11 = 10\n7x = 11 + 10\n7x = 21\nx = 21:7\nx = 3.\nVậy có 1 số tự nhiên x thỏa mãn đề bài là x = 3."
+    },
+    {
+        "problem": "Câu 13. Tổng các số tự nhiên thỏa mãn  (x − 4)^{5 } = (x − 4)^{3}  là\nA. 8   \nB. 4          \nC. 5      \nD. 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrường hợp 1: x – 4 = 0 suy ra x = 4 suy ra x = 4.\nTrường hợp 2: x – 4 = 1 suy ra x = 1 + 4 hay x = 5.\nVậy tổng các số tự nhiên thỏa mãn là 4 + 5 = 9.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14. So sánh 16^{19}  và 8^{25} \nA. 16^{19}  < 8^{25} \nB. 16^{19}  > 8^{25} \nC. 16^{19}  =  8^{25} \nD. Không đủ điều kiện so sánh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 16^{19}  = (2^{4} )^{19}  = 2^{4.19}  = 2^{76} \nVà 8^{25}  = (2^{3} )^{25}  = 2^{75} \nMà 76 > 75 nên 2^{76}  > 2^{75}  hay 16^{19}  > 8^{25} \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15. Tính giá trị của biểu thức A=\\frac{11.322.37−915}{2.3132}\nA. A = 18\nB. A = 9\nC. A = 54\nD. A = 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\nA=\\frac{11.322.37−915}{2.3132}=\\frac{11.322+7−3215}{22.3132}=\\frac{11.329−32.15}{22.313.2}=\\frac{11.329−330}{22.326}=\\frac{11.329−329.3}{22.326}=\\frac{32911−3}{22.326}=\\frac{329.8}{4.326}=2.329−26=2.33=54\nVậy A  = 54\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 16. Truyền thuyết Ấn Độ kể rằng, người phát minh ra bàn cờ vua chọn phần thưởng là số thóc rải trên 64 ô của bàn cờ vua như sau: ô thứ nhất để 1 hạt thóc, ô thứ hai để 2 hạt thóc, ô thứ ba để 4 hạt thóc, ô thứ tư để 8 hạt thóc,… cứ như thế, số hạt ở ô sau gấp đôi số hạt ở ô trước. Em hãy tìm số hạt thóc ở ô thứ 8?\nA. 2^{9} \nB. 2^{7} \nC. 2^{6} \nD. 2^{8}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVậy số hạt thóc ở ô thứ 8 là 2^{7} .\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 17. Cho A=3+32+33+...+3100. Tìm số tự nhiên n biết rằng 2A+3=3n\nA. n = 99\nB. n = 100\nC. n = 101\nD. n = 102",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: A=3+32+33+...+3100 (1)\nNên 3A=32+33+34+...+3100+3101 (2)\nLấy (2) trừ (1) ta được 2A=3101−3 do đó 2A+3=3101\nMà theo đề bài 2A+3=3n\nSuy ra 3n=3101 nên n = 101\nĐáp án cần chọn là: C"
+    }
+]

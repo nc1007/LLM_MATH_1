@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Ta đã biết \\(\\frac{3}{5}\\) là một phân số. Vậy \\(\\frac{-3}{5}\\) có phải là phân số không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kết quả của phép chia số nguyên a cho số nguyên b khác 0 có thể viết dưới dạng \\(\\frac{a}{b}\\), ta gọi \\(\\frac{a}{b}\\) là phân số\nLời giải chi tiết\n\\(\\frac{-3}{5}\\) là phân số."
+    },
+    {
+        "problem": "Một tòa nhà chung cư có ba tầng hầm được kí hiệu theo thứ tự từ trên xuống là B1, B2, B3. Độ cao của ba tầng hầm là bằng nhau. Biết rằng độ cao của mặt sàn tầng hầm B3 so với mặt đất là -10 m. Tính độ cao của mặt sàn tầng hầm B1 so với mặt đất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ cao của mặt sàn tầng hầm B1 so với mặt đất= độ cao của mặt sàn tầng hầm B3 so với mặt đất : 3\nLời giải chi tiết\nĐộ cao của mặt sàn tầng hầm B1 so với mặt đất là:\n-10:3 = \\(\\frac{-10}{3}\\) (m)\nLời giải hay"
+    },
+    {
+        "problem": "Viết kết quả của phép chia a:b trong mỗi trường hợp sau theo mẫu:\nMẫu 3:5=\\(\\frac{3}{5}\\)\na\n22\n-8\n3\n-5\n0\nb\n5\n11\n-8\n-7\n-10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết kết quả của phép chia a:b=\\(\\frac{a}{b}\\)\nLời giải chi tiết\n22:5 =\\(\\frac{22}{5}\\);\n-8:11=\\(\\frac{-8}{11}\\);\n3: (-8) =\\(\\frac{3}{-8}\\);\n(-5) : (-7) =\\(\\frac{-5}{-7}\\);\n0: (-10) =\\(\\frac{0}{-10}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Viết và đọc phân số trong mỗi trường hợp sau:\na)Tử số là -6, mẫu số là 17\nb)Tử số là -12, mẫu số là -37.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số \\(\\frac{a}{b}\\) đọc là a phần b. Tử số là a, mẫu số là b\nLời giải chi tiết\na) \\(\\frac{-6}{17}\\) đọc là âm sáu phần mười bảy\nb) \\(\\frac{-12}{-37}\\) đọc là âm mười hai phần âm ba mươi bảy\nLời giải hay"
+    },
+    {
+        "problem": "Cách viết nào sau đây cho ta phân số:\na) \\(\\frac{4}{-9}\\);  b)\\(\\frac{0,25}{9}\\);  c)\\(\\frac{-9}{0}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số là những số có dạng \\(\\frac{a}{b}\\)(a, b nguyên; b khác 0)\nLời giải chi tiết\nCách viết a cho ta phân số\nCách viết b không cho ta phân số vì 0,25 không là số nguyên\nCách viết c không cho ta phân số vì mẫu số phải khác 0\nLời giải hay"
+    },
+    {
+        "problem": "Xét 2 phân số bằng nhau \\(\\frac{1}{4}\\) và \\(\\frac{2}{8}\\)\nSo sánh tích của tử ở phân số thứ nhất và mẫu của phân số thứ hai với tích của mẫu ở phân số thứ nhất và tử ở phân số thứ hai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Tính tích của tử ở phân số thứ nhất và mẫu của phân số thứ hai\n* Tính tích của mẫu ở phân số thứ nhất và tử ở phân số thứ hai\nLời giải chi tiết\nTa có phân số thứ 1 có tử là 1; mẫu là 4\nPhân số thứ 2 có tử là 2; mẫu là 8\nTa có: 1.8=8\n2.4=8\nVậy tích của tử ở phân số thứ nhất và mẫu của phân số thứ hai bằng tích của mẫu ở phân số thứ nhất và tử ở phân số thứ hai\nLời giải hay"
+    },
+    {
+        "problem": "Các cặp phân số sau có bằng nhau không? Vì sao?\na)     \\(\\frac{4}{8}\\) và \\(\\frac{-1}{-2}\\)\nb)    \\(\\frac{1}{-6}\\) và \\(\\frac{-3}{-18}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh tích của tử ở phân số thứ nhất và mẫu của phân số thứ hai với tích của mẫu ở phân số thứ nhất và tử ở phân số thứ hai. Nếu 2 tích này bằng nhau thì 2 phân số bằng nhau\nLời giải chi tiết\na)Ta có:\n4.(-2)=-8\n8.(-1)=-8\nVậy tích của tử ở phân số thứ nhất và mẫu của phân số thứ hai bằng tích của mẫu ở phân số thứ nhất và tử ở phân số thứ hai. Vậy \\(\\frac{4}{8}\\)= \\(\\frac{-1}{-2}\\)\nb) a)Ta có:\n1.(-18)= -18\n(-6).(-3)= 18\nVậy tích của tử ở phân số thứ nhất và mẫu của phân số thứ hai khác tích của mẫu ở phân số thứ nhất và tử ở phân số thứ hai. Vậy \\(\\frac{1}{-6}\\)không bằng  \\(\\frac{-3}{-18}\\)\nLời giải hay"
+    },
+    {
+        "problem": "a) Tìm số nguyên thích hợp ở ?: \\(\\dfrac{1}{5}=\\dfrac{2}{10}=\\dfrac{1.?}{5.?}\\)\nb) Tìm số nguyên thích hợp ở ?: \\(\\dfrac{4}{24}=\\dfrac{-1}{6}=\\dfrac{4:?}{24:?}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm thừa số biết tích và thừa số đã biết\nb) Tìm số chia biết thương và số bị chia\nLời giải chi tiết\na) \\(\\frac{1}{5}= \\frac{2}{10}= \\frac{1.2}{5.2}\\)\nb) \\(\\frac{4}{24}= \\frac{-1}{-6}= \\frac{4: (-4)}{24 : (-4)}\\)"
+    },
+    {
+        "problem": "Viết phân số sau thành phân số bằng nó và có mẫu là số dương:\n\\(\\frac{a}{-b}( a \\in Z, b \\in N^*)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhân cả tử và mẫu của phân số với cùng một số thì được phân số mới bằng phân số ban đầu\nLời giải chi tiết\nTa có: \\(\\dfrac{a}{-b}= \\dfrac{a. (-1)}{(-b) .(-1)}=\\dfrac{-a}{b}\\)"
+    },
+    {
+        "problem": "Quy đồng mẫu những phân số sau:\n\\(\\frac{-3}{8}; \\frac{2}{-3}; \\frac{3}{72}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để quy đồng nhiều phân số, ta thường làm như sau:\nBước 1: Viết các phân số đã cho dưới dạng phân số có mẫu dương. Tìm BCNN của các mẫu dương đó để làm mẫu số chung\nBước 2: Tìm thừa số phụ của mỗi mẫu, bằng cách chia mẫu chung cho từng mẫu\nBước 3: Nhân tử và mẫu của mỗi phân số ở Bước 1 với thừa số phụ tương ứng\nLời giải chi tiết\nTa có: \\(\\frac{2}{-3}=\\frac{-2}{3}\\)\nBCNN(8,3,72)=72\n* Thừa số phụ: 72: 8= 9; 72: 3= 24; 72: 72= 1\nVậy \\(\\frac{-3}{8}= \\frac{(-3).9}{8.9}=\\frac{-27}{72}\\)\n\\(\\frac{2}{-3}= \\frac{-2}{3}= \\frac{(-2).24}{3.24}=\\frac{-48}{72}\\)\n\\(\\frac{3}{72}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Viết và đọc phân số trong mỗi trường hợp sau:\na) Tử số là -43, mẫu số là 19;                              b) Tử số là -123, mẫu là -63",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số \\(\\frac{a}{b}\\) đọc là a phần b. Tử số là a, mẫu số là b\nLời giải chi tiết\na)Phân số \\(\\frac{-43}{19}\\) đọc là âm bốn mươi ba phần mười chín\nb)Phân số \\(\\frac{-123}{-63}\\) đọc là âm một trăm hai mươi ba phần âm sáu mươi ba\nLời giải hay"
+    },
+    {
+        "problem": "Các cặp phân số sau có bằng nhau không?Vì sao?\na\\(\\frac{2}{-9}\\) và \\(\\frac{6}{-27}\\)\nb\\(\\frac{-1}{-5}\\) và \\(\\frac{4}{25}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\dfrac{a}{b}=\\dfrac{c}{d}\\) nếu a.d = b.c\nLời giải chi tiết\na) Vì 2.(-27)=(-9). 6 (cùng = -54)\nVậy \\(\\frac{2}{-9}\\)= \\(\\frac{6}{-27}\\)\nb) Vì (-1). 25 \\(\\ne\\) (-5).4 ( do -25 \\(\\ne\\) -20)\nVậy \\(\\frac{-1}{-5}\\) không bằng  \\(\\frac{4}{25}\\)"
+    },
+    {
+        "problem": "Tìm số nguyên x biết:\na)\\(\\frac{-28}{35}= \\frac{16}{x}\\)\nb)\\(\\frac{x+7}{15}= \\frac{-24}{36}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(\\dfrac{a}{b}=\\dfrac{c}{d}\\) thì a.d= b.c\nLời giải chi tiết\na) Ta có: (-28).x = 35. 16\nx=\\(\\frac{35.16}{-28}= -20\\)\nVậy x= -20\nb) Ta có: (x+7). 36 = 15. (-24)\nx+7 = \\(\\frac{15. (-24)}{36}= -10\\)\nx= (-10) – 7\nx= -17\nVậy x= -17\nChú ý: Ta có thể rút gọn phân số rồi áp dụng tính chất trên"
+    },
+    {
+        "problem": "Rút gọn mỗi phân số sau về phân số tối giản:\n\\(\\frac{14}{21}\\); \\(\\frac{-36}{48}\\); \\(\\frac{28}{-52}\\); \\(\\frac{-54}{-90}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Tìm ƯCLN của tử và mẫu sau khi đã bỏ dấu – (nếu có)\nBước 2: Chia cả tử và mẫu cho ước chung lớn nhất vừa tìm được, ta có phân số tối giản cần tìm\nLời giải chi tiết\na) Ta có: ƯCLN(14, 21) = 7\n\\(\\frac{14}{21}=\\frac{14:7}{21:7} = \\frac{2}{3}\\)\nb) Ta có: ƯCLN(36, 48) = 12\n\\(\\frac{-36}{48}=\\frac{(-36) :12}{48:12} = \\frac{-3}{4}\\)\nc) Ta có: ƯCLN(28, 52) = 4\n\\(\\frac{28}{-52}=\\frac{28:4}{(-52) :4} = \\frac{7}{-13}=\\frac{-7}{13}\\)\nd) Ta có: ƯCLN(54, 90) = 18\n\\(\\frac{-54}{-90}=\\frac{( -54): 18}{(-90) : 18} = \\frac{-3}{-5}= \\frac{3}{5}\\)"
+    },
+    {
+        "problem": "a)Rút gọn phân số \\( \\frac{-21}{39}\\) về phân số tối giản\nb)Viết các phân số bằng \\( \\frac{-21}{39}\\) mà mẫu là số tự nhiên có hai chữ số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Rút gọn phân số\nBước 1: Tìm ƯCLN của tử và mẫu sau khi đã bỏ dấu – (nếu có)\nBước 2: Chia cả tử và mẫu cho ước chung lớn nhất vừa tìm được, ta có phân số tối giản cần tìm\n*Nhân cả tử và mẫu của phân số đã rút gọn với các số nguyên sao cho mẫu của phân số thu được là số tự nhiên có hai chữ số\nLời giải chi tiết\na) Ta có: ƯCLN(21, 39)= 3\n\\( \\frac{-21}{39}= \\frac{(-21):3}{39:3}= \\frac{-7}{13}\\)\nb) Ta có:\n\\(\\frac{-7}{13}=\\frac{-14}{26}=\\frac{-21}{39}=\\frac{-28}{52}=\\frac{-35}{65}= \\frac{-42}{78}= \\frac{-49}{91}\\)"
+    }
+]

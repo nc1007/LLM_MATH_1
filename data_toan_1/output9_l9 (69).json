@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Oxi có nhiệt độ sôi –182,95 °C. Nitơ có nhiệt độ sôi -195,79 °C. Hỏi nhiệt độ sôi của oxi cao hơn nhiệt độ sôi của nitơ bao nhiêu độ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy nhiệt độ sôi của oxi trừ đi nhiệt độ sôi của nito.\nLời giải chi tiết\nNhiệt độ sôi của oxi cao hơn nhiệt độ sôi của nito là:\n-182,95 - ( -195,79) = -182,95 + 195,79 = 12,84 ( độ)\nĐáp số: 12,84  độ.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một công tỉ có 30 nhân viên nam và 24 nhân viên nữ. Số nhân viên nữ chiếm bao nhiêu phần trăm trong tổng số nhân viên công ti?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính tổng số nhân viên công ti\n=> Phần trăm số nhân viên nữ chiếm = số nhân viên nữ : tổng số nhân viên. 100%\nLời giải chi tiết\nTổng số nhân viên công ti là:\n30 + 24 = 54 ( người)\nSố nhân viên nữ chiếm số phần trăm là:\n\\(\\frac{{24}}{{54}}\\).100% = 44,44%\nĐáp số: 44,44%"
+    },
+    {
+        "problem": "Mẹ bạn Mai may được 25 chiếc áo và 35 chiếc quần trong một tháng. Vậy số lượng áo chiếm bao nhiêu phần trăm trong tổng số hàng đã may được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính tổng số hàng đã may được\n=> Số lượng áo chiếm bao nhiêu phần trăm trong tổng số hàng may được?\nLời giải chi tiết\nTổng số hàng đã may được là:\n25 + 35 = 60 ( chiếc)\nSố lượng áo chiếm số phần trăm trong tổng số hàng may được là:\n\\(\\frac{{25}}{{60}}\\).100% = 41,67 %\nĐáp số:  41,67 %\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một công ti đã đặt ra mục tiêu doanh thu cho năm 2020 là 150 tỉ đồng. Tuy nhiên, đến cuối năm 2020 thì tổng mức doanh thu của công ti đạt được là 159 tỉ đồng.\na) Vậy công ti đã hoàn thành bao nhiêu phần trăm so với mục tiêu ban đầu?\nb) Công ti đã hoàn thành vượt mức đề ra là bao nhiêu phần trăm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) (Lấy doanh thu cuối năm : Doanh thu mục tiêu).100 (%)\nb) Số phần trăm doanh thu công ti đã hoàn thành vượt mức đề ra = số phần trăm công ty đã hoàn thành so với mục tiêu ban đầu – 100%.\nLời giải chi tiết\na) Công ti đã hoàn thành so với mục tiêu ban đầu số phần trăm là:\n\\(\\left( {\\frac{{159}}{{150}}.100} \\right)\\)% = 106 %\nb) Công ti đã hoàn thành vượt mức đề ra: 106% - 100% = 6%"
+    },
+    {
+        "problem": "Một người mua một món hàng và phải trả tổng cộng 2 915 000 đồng kể cả thuế giá trị gia tăng (VAT) là 10%. Hỏi nếu không tính thuế VAT thì người đó phải trả bao nhiêu tiền cho món hàng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy 2 915 000 là 110% giá trị của món hàng\n=> Giá tiền của món hàng\nLời giải chi tiết\nNếu không tính thuế VAT thì người đó phải trả số tiền cho món hàng là:\n\\(2915000: \\dfrac{110}{100}=2915000.\\dfrac{100}{110}\\) = 2 650 000 (đồng)\nĐáp số: 2 650 000 đồng."
+    }
+]

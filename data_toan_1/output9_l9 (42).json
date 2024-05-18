@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "a) Cho tập hợp E = {0; 2; 4; 6; 8}. Hãy chỉ ra tính chất đặc trưng cho các phần tử của tập hợp E và viết tập hợp E theo cách này.\nb) Cho tập hợp P = {x| x là số tự nhiên và 10 < x < 20}. Hãy viết tập hợp P theo cách liệt kê tất cả các phần tử.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Nhận xét tính chất chung của các phần tử của tập hợp E rồi viết tập hợp E  bằng cách chỉ ra tính chất đặc trưng cho các phần tử của tập hợp.\nb) Các phần tử của một tập hợp viết trong hai dấu ngoặc nhọn {}, cách nhau bởi dấu chấm phẩy “;” . Mỗi phần tử được liệt kê một lần, thứ tự liệt kê tùy ý.\nLời giải chi tiết\na) Các phần tử của tập hợp E đều là các số tự nhiên chẵn nhỏ hơn 10\nTa có tập hợp E = {x| x là số tự nhiên chẵn, x < 10}\nb) Ta có tập hợp P = {11; 12; 13; 14; 15; 16; 17; 18; 19}\nLời giải hay"
+    },
+    {
+        "problem": "Cho tập hợp A gồm các số tự nhiên vừa lớn hơn 7 vừa nhỏ hơn 15.\na) Hãy viết tập hợp A theo cách liệt kê các phần tử.\nb) Kiểm tra xem trong những số 10; 13; 16; 19, số nào là phần tử thuộc tập hợp A, số nào không thuộc tập hợp A?\nc) Gọi B là tập hợp các số chẵn thuộc tập hợp A. Hãy viết tập hợp B theo hai cách.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Các phần tử của một tập hợp viết trong hai dấu ngoặc nhọn {}, cách nhau bởi dấu phẩy “,” hoặc dấu chấm phẩy “;” (đối với trường hợp các phần tử là số). Mỗi phần tử được liệt kê một lần, thứ tự liệt kê tùy ý.\nb) Phần tử x thuộc tập hợp A được kí hiệu \\(x \\in A\\), đọc là “ x thuộc A”. Phần tử y không thuộc tập hợp A được kí hiệu là \\(y \\notin A\\), đọc là “y không thuộc A”.\nc) Có 2 cách viết tập hợp:\n- Liệt kê các phần tử của tập hợp.\n- Chỉ ra tính chất đặc trưng cho các phần tử của tập hợp.\nLời giải chi tiết\na) Ta có tập hợp A = {8; 9; 10; 11; 12; 13; 14}\nb) Ta có: \\(10 \\in A;\\,\\,13 \\in A;\\,\\,16 \\notin A;\\,\\,19 \\notin A\\)\nc) Cách 1: B = {8; 10; 12; 14}\nCách 2: B = {x| x là số tự nhiên chẵn, 7<x<15}"
+    },
+    {
+        "problem": "Cho B là tập hợp các số tự nhiên lẻ và lớn hơn 30. Trong các khẳng định sau, khẳng định nào là đúng, khẳng định nào là sai:\na)\\(31\\in B\\); b) \\(32\\in B\\); c) \\(2 002\\notin B\\); d) \\(2 003\\notin B\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Viết tập hợp B bằng cách liệt kê các phần tử\n- Rút ra nhận xét về tính đúng sai của các khẳng định\nLời giải chi tiết\nTa có tập hợp B = {31; 33; 35;….}\n+) Vì 31 là số tự nhiên lẻ và thỏa mãn lớn hơn 30 nên 31 thuộc A.\n+) Vì 32 là một số chẵn nên 32 không thuộc B.\n+) 2 002 là một số chẵn nên 2 002 không thuộc B.\n+) 2 003 là số tự nhiên lẻ và thỏa mãn lớn hơn 30 nên 2003 thuộc B.\nVậy: Các khẳng định đúng là: a, c\nCác khẳng định sai là: b, d."
+    },
+    {
+        "problem": "Hoàn thành bảng dưới đây vào vở (theo mẫu).\nTập hợp cho bởi cách liệt kê các phần tử\nTập hợp cho bởi tính chất đặc trưng\nH = {2; 4; 6; 8; 10}\nH là tập hợp các số tự nhiên chẵn khác 0 và nhỏ hơn 11\n\nM là tập hợp các số tự nhiên nhỏ hơn 15.\nP = {11; 13; 15;17; 19; 21}\n\n\nX là tập hợp các nước ở khu vực Đông Nam Á",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Các phần tử của một tập hợp viết trong hai dấu ngoặc nhọn {}, cách nhau bởi dấu phẩy “,” hoặc dấu chấm phẩy “;” (đối với trường hợp các phần tử là số). Mỗi phần tử được liệt kê một lần, thứ tự liệt kê tùy ý.\n- Nhận xét tính chất chung của các phần tử của tập hợp E rồi viết tập hợp E  bằng cách chỉ ra tính chất đặc trưng cho các phần tử của tập hợp.\nLời giải chi tiết\nTập hợp cho bởi cách liệt kê các phần tử\nTập hợp cho bởi tính chất đặc trưng\nH = {2; 4; 6; 8; 10}\nH là tập hợp các số tự nhiên chẵn khác 0 và nhỏ hơn 11\nM = {0; 1; 2; 3; ….13; 14}\nM là tập hợp các số tự nhiên nhỏ hơn 15.\nP = {11; 13; 15; 17; 19; 21}\nP là tập hợp các số tự nhiên lẻ lớn hơn 10 nhỏ hơn 22\nX = { Việt Nam; Lào; Campuchia; Myanmar; Brunei; Đông Timor; Indonesia; Malaysia; Philipines; Singapore; Thái Lan}\nX là tập hợp các nước ở khu vực Đông Nam Á"
+    },
+    {
+        "problem": "Viết tập hợp T gồm tên các tháng dương lịch trong quý IV. Trong tập hợp T, những phần tử nào có số ngày là 31?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào một năm có 12 tháng được chia làm 4 quý\nQuý 4 gồm Tháng 10; tháng 11; tháng 12\nLời giải chi tiết\nTập hợp T = {tháng 10; tháng 11; tháng 12}\nTrong các tháng đó, các tháng có 31 ngày là: tháng 10 và tháng 12\nVậy trong tập hợp T, phần tử tháng 10 và tháng 12 có số ngày là 31."
+    },
+    {
+        "problem": "Thay mỗi chữ cái dưới đây bằng một số tự nhiên phù hợp trong những trường hợp sau:\na) 17, a, b là ba số lẻ liên tiếp tăng dần;\nb) m, 101, n, p là bốn số tự nhiên liên tiếp giảm dần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Các số lẻ liên tiếp cách nhau 2 đơn vị\nb) Các số tự nhiên liên tiếp cách nhau 1 đơn vị\nLời giải chi tiết\na) 17, 19, 21 là ba số lẻ liên tiếp tăng dần.\nb) 102, 101, 100, 99 là bốn số tự nhiên liên tiếp giảm dần."
+    },
+    {
+        "problem": "Cho tập hợp A gồm các số tự nhiên có chữ số tận cùng là 0 hoặc 5 và nhỏ hơn 36. Liệt kê các phần tử của A theo thứ tự giảm dần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các số tự nhiên có chữ số tận cùng là 0 hoặc 5 và nhỏ hơn 36 rồi viết tập hợp A các số đó theo thứ tự giảm dần.\nLời giải chi tiết\nCác số tự nhiên có chữ số tận cùng là 0 hoặc 5 và nhỏ hơn 36 là: 0; 5; 10; 15; 20; 25; 30; 35\n=> A = {0; 5; 10; 15; 20; 25; 30; 35}\nCác phần tử của A theo thứ tự giảm dần là: 35; 30; 25; 20; 15; 10; 5; 0.\nLoigiaihay.com"
+    }
+]

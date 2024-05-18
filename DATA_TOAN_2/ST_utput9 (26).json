@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) $\\dfrac{2}{3}$ của $8,7$ là: $8,7.\\dfrac{2}{3} = \\left( {8,7:3} \\right).2 = 2,9.2 = 5,8$.\nb) $\\dfrac{2}{3}$ của $\\dfrac{{ - 15}}{2}$ là: $\\dfrac{2}{3}.\\dfrac{{ - 15}}{2} = - 5$.\nMuốn tìm một số khi biết giá trị $\\dfrac{m}{n}$ của nó bằng $a$, ta tính $a:\\dfrac{m}{n}$ $\\left( {m,n \\in {\\mathbb{N}^*}} \\right)$.\nVí dụ:\nTìm một số biết $\\dfrac{2}{3}$ của nó bằng $7,2$\nSố cần tìm là: $7,2:\\dfrac{2}{3} = 7,2.\\dfrac{3}{2} = 10,8.$"
+    },
+    {
+        "problem": "a) Tính \\(\\dfrac{3}{{100}}\\) của 200.\nb)\\(\\dfrac{3}{4}\\) giờ là bao nhiêu phút.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm \\(\\dfrac{m}{n}\\) của một số a cho trước ta tính \\(a.\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\n1 giờ = 60 phút.\nLời giải chi tiết\n\\(\\dfrac{3}{{100}}\\) của 200 là \\(200.\\dfrac{3}{{100}} = 6\\).\n\\(\\dfrac{3}{4}\\) giờ là \\(\\dfrac{3}{4}\\) của 60 phút, tức là: \\(\\dfrac{3}{4}.60 = 45\\) phút.\nLời giải hay"
+    },
+    {
+        "problem": "Tìm một số, biết \\( - 115\\) là \\(\\dfrac{1}{4}\\) của số đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm một số biết \\(\\dfrac{m}{n}\\) của nó bằng a, ta tính: \\(a:\\dfrac{m}{n}\\left( {m,n \\in \\mathbb{N}*} \\right)\\).\nLời giải chi tiết\nSố cần tìm là: \\( - 115:\\dfrac{1}{4} =  - 115.4 =  - 460\\)"
+    },
+    {
+        "problem": "Trong ngày Black Friday, \\(\\dfrac{3}{4}\\) số mặt hàng trong một siêu thị được giảm giá. Tính ra có khoảng 6 000 mặt hàng được giảm trong ngày này. Hãy cho biết siêu thị có khoảng bao nhiêu mặt hàng.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm một số \\(a\\) biết \\(\\dfrac{m}{n}\\) của nó bằng \\(b\\):\n\\(a = b : \\dfrac{m}{n}\\)\nLời giải chi tiết\n\\(\\dfrac{3}{4}\\) số mặt hàng là 6 000 mặt hàng. Do đó siêu thị có số mặt hàng là:\n\\(6000:\\dfrac{3}{4} = 6000.\\dfrac{4}{3} = 8000\\)(mặt hàng)."
+    },
+    {
+        "problem": "Tính:\na) \\(\\frac{4}{5}\\) của 100;\nb) \\(\\frac{1}{4}\\) của -8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận dạng bài toán là tìm giá trị phân số của một số.\nMuốn tìm \\(\\dfrac{m}{n}\\) của một số a cho trước ta tính \\(a.\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\nLời giải chi tiết\na) \\(\\frac{4}{5}\\) của 100 là: \\(\\frac{4}{5}.100=80\\)\nb) \\(\\frac{1}{4}\\) của -8 là: \\(\\frac{1}{4}.(-8)=-2\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Câu a\n\\(\\dfrac{2}{5}\\) của 30m là bao nhiêu?\nPhương pháp giải:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\dfrac{2}{5}\\) của 30m là: \\(30.\\dfrac{2}{5} = 12\\) m\nCâu b\n\\(\\dfrac{3}{4}\\)ha là bao nhiêu mét vuông?\nPhương pháp giải:\nMuốn tìm \\(\\dfrac{m}{n}\\) của một số a cho trước ta tính \\(a.\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\nLời giải chi tiết:\n1 ha = 10 000 \\(\\left( {{m^2}} \\right)\\). Nên \\(\\dfrac{3}{4}\\)ha là \\(\\dfrac{3}{4}\\)của 10 000 \\(\\left( {{m^2}} \\right)\\), tức là:\n\\(10000.\\dfrac{3}{4} = 7500\\)\\(\\left( {{m^2}} \\right)\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm một số biết:\nCâu a\n\\(\\dfrac{2}{7}\\) của số đó là 145.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải chi tiết:\nSố cần tìm là: \\(145:\\dfrac{2}{7} = 145.\\dfrac{7}{2} = \\dfrac{{1015}}{2}\\)\nCâu b\n\\( - 36\\) là \\(\\dfrac{3}{8}\\) của số đó.\nPhương pháp giải:\nMuốn tìm một số biết \\(\\dfrac{m}{n}\\) của nó bằng a, ta tính: \\(a:\\dfrac{m}{n}\\left( {m,n \\in \\mathbb{N}^*} \\right)\\).\nLời giải chi tiết:\nSố cần tìm là: \\( - 36:\\dfrac{3}{8} =  - 36.\\dfrac{8}{3} =  - 96\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tàu ngầm lớp Kilo 636 trang bị cho Hải quân Việt Nam có thể lặn tối đa tới 300m. Sau 15 phút, tàu có thể lặn được tới độ sâu bằng \\(\\dfrac{2}{5}\\) độ sâu tối đa. Em hãy tính xem lúc đó tàu cách mực nước biển bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận dạng bài toán là tìm giá trị phân số của một số.\nMuốn tìm \\(\\dfrac{m}{n}\\) của một số a cho trước ta tính \\(a.\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\nLời giải chi tiết\nĐộ sâu bằng \\(\\dfrac{2}{5}\\) độ sâu tối đa là: \\(300.\\dfrac{2}{5} = 120\\left( m \\right)\\).\nVậy lúc đó, tàu cách mực nước biển độ sâu 120 mét."
+    }
+]

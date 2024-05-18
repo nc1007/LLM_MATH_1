@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Bài 1: Hãy chọn câu sai.\nA. Tứ giác lồi là tứ giác luôn nằm trong một nửa mặt phẳng có bờ là đường thẳng chứa bất kỳ cạnh nào của tứ giác.\nB. Tổng các góc của một tứ giác bằng 180^{0} .\nC. Tổng các góc của một tứ giác bằng 360^{0} .\nD. Tứ giác ABCD là hình gồm đoạn thẳng AB, BC, CD, DA, trong đó bất kì hai đoạn thẳng nào cũng không nằm trên một đường thẳng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐịnh lý: Tổng các góc của một tứ giác bằng 360^{0}  nên C đúng, B sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 2: Các góc của tứ giác có thể là:\nA. 4 góc nhọn\nB. 4 góc tù     \nC. 4 góc vuông\nD. 1 góc vuông, 3 góc nhọn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTổng các góc trong 1 tứ giác bằng 360^{0} .\nCác góc của tứ giác có thể là 4 góc vuông vì khi đó tổng các góc của tứ giác này bằng 360^{0} .\nCác trường hợp còn lại không thỏa mãn định lí tổng các góc trong tam giác.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 4: Chọn câu đúng nhất trong các câu sau khi định nghĩa tứ giác ABCD:\nA. Tứ giác ABCD là hình gồm 4 đoạn thẳng AB, BC, CD, DA\nB. Tứ giacs ABCD là hình gồm 4 đoạn thẳng AB, BC, CD, DA, trong đó bất kì hai đoạn thẳng nào cũng không cùng nằm trên một đường thẳng\nC. Tứ giác ABCD là hình gồm 4 đoạn thẳng AB, BC, CD, DA trong đó hai đoạn thẳng kề một đỉnh song song với nhau\nD.Tứ giác ABCD là hình gồm 4 đoạn thẳng AB, BC, CD, DA và 4 góc tại đỉnh bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTứ giác ABCD là hình gồm 4 đoạn thẳng AB, BC, CD, DA, trong đó bất kì hai đoạn thẳng nào cũng không cùng nằm trên một đường thẳng\nĐáp án cần chọn là: B"
+    }
+]

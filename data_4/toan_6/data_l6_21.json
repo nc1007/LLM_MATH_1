@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 4. Có bao nhiêu tính chất dưới đây là tính chất của hình thang cân?\na) Trong hình thang cân có hai đường chéo bằng nhau và cắt nhau tại trung điểm mỗi đường.\nb) Trong hình thang cân có hai đường chéo bằng nhau.\nc) Trong hình thang cân có hai góc kề một đáy bằng nhau.\nd) Trong hình thang cân có hai cặp cạnh đối song song với nhau.\nA. 1\nB. 2\nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrong hình thang cân:\n- Hai cạnh bên bằng nhau.\n- Hai đường chéo bằng nhau.\n- Hai góc kề một đáy bằng nhau.\n- Hai cạnh đáy song song với nhau.\nDo đó a), d) sai còn b) và c) đúng.\nVậy có hai tính chất đúng.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Cho hình chữ nhật MNPQ, ta có:\nA. MN = NP.\nB. MP = MN.\nC. PQ = NP.\nD. MP = NQ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nHình chữ nhật MNPQ có các cạnh đối bằng nhau, hai đường chéo bằng nhau nên MN = PQ, MP = NQ.\nĐo đó D đúng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Phát biểu nào dưới đây là đúng về hình thoi?\nA. Hình thoi có bốn góc bằng nhau.\nB. Hình thoi có hai đường chéo bằng nhau.\nC. Hình thoi có hai góc kề một cạnh bằng nhau.\nD. Hình thoi có hai đường chéo vuông góc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nHình thoi là hình:\n- Có bốn cạnh bằng nhau.\n- Hai đường chéo vuông góc với nhau.\n- Các cạnh đối song song với nhau.\n- Các góc đối bằng nhau.\nDo đó D đúng; A, B và C sai.\nĐáp án: D"
+    },
+    {
+        "problem": "II. Thông hiểu \nCâu 1. Phát biểu nào sau đây là đúng?\nA. Hình bình hành là hình thang cân.\nB. Hình chữ nhật là hình thang cân.\nC. Hình thoi là hình thang cân.\nD. Cả A, B và C đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrong hình bình hành không có hai đường chéo bằng nhau nên hình bình hành không phải hình thang cân. Do đó A sai, D sai.\nTrong hình chữ nhật có hai cạnh đáy song song với nhau, có hai góc kề một đáy bằng nhau, hai cạnh bên bằng nhau và hai đường chéo bằng nhau nên hình chữ nhật là hình thang cân. Do đó B đúng.\nTrong hình thoi không có hai đường chéo bằng nhau nên hình thoi không phải hình thang cân. Do đó C sai.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Các bước vẽ hình bình hành DEFG có DE = 4cm; EF = 3cm như sau:\nBước 1. Vẽ đoạn DE = 3cm.\nBước 2. Vẽ đường thẳng đi qua E. Trên đường thẳng này lấy điểm F sao cho EF = 3cm.\nBước 3. Vẽ đường thẳng đi qua D và song song với EF. Trên đường thẳng này lấy điểm G sao cho DG = EF = 3cm.\nBước 4. Nối điểm G với điểm F lại ta được hình bình hành DEFG.\nTrong các bước vẽ trên có bao nhiêu bước làm đúng?\nA. 1   \nB. 0\nC. 2\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác bước vẽ hình bình hành DEFG có DE = 4cm; EF = 3cm như sau:\nBước 1. Vẽ đoạn DE = 5cm.\nBước 2. Vẽ đường thẳng đi qua E. Trên đường thẳng này lấy điểm F sao cho EF = 3cm.\nBước 3. Vẽ đường thẳng đi qua D và song song với EF. Trên đường thẳng này lấy điểm G sao cho DG = EF = 3cm.\nBước 4. Nối điểm G với điểm F lại ta được hình bình hành DEFG.\nCó bước 1 sai vì đoạn DE = 5cm.\nĐáp án: A"
+    }
+]

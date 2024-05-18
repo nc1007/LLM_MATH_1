@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Khi nhân hai lũy thừa cùng cơ số, ta thực hiện:\nA. x^{m} .x^{n}  = x^{m+n} ;\nB. x^{m} .x^{n}  = x^{m−n } ;\nC. x^{m} .x^{n}  = x^{m:n } ;\nD. x^{m} .x^{n}  = x^{m.n}  .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nKhi nhân hai lũy thừa cùng cơ số, ta giữ nguyên cơ số và cộng hai số mũ với nhau: x^{m} .x^{n}  = x^{m+n}"
+    },
+    {
+        "problem": "Câu 2. Kết quả phép tính: -\\frac{1}{3}:-\\frac{1}{3} là: \nA. \\frac{1}{81} ;\nB. \\frac{4}{81} ;\nC. \\frac{−1}{81} ;\nD. \\frac{−4}{81} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: −\\frac{1}{3}4:−\\frac{1}{3}0=−\\frac{1}{3}4:1\n =−\\frac{1}{3}4=\\frac{(−1)4}{34}=\\frac{1}{81}"
+    },
+    {
+        "problem": "Câu 3. Số  x^{12}   không phải là kết quả của biểu thức nào sau đây ?\nA.  x^{18}  : x^{6}  (x ≠ 0); \nB. x^{4}  . x^{8 } ;\nC. x^{2}  . x^{6} ; \nD. x34",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có : \nx^{18}  : x^{6 } = x^{18} ^{–} ^{6}  = x^{12}   (x ≠ 0)                                    \nx^{4}  . x^{8 } = x^{4} ^{+} ^{8}  = x^{12}        \nx^{2}  . x^{6}  = x^{2 + 6}  = x^{8} \n x34 = x^{3} ^{.} ^{4}  = x^{12}"
+    },
+    {
+        "problem": "Câu 4. Giá trị a thỏa mãn a : \\frac{1}{3}2=\\frac{1}{3}3 là:\nA. \\frac{1}{3} ;\nB. \\frac{1}{3}5;\nC. \\frac{1}{3}6;\nD. \\frac{1}{18} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có: \na : \\frac{1}{3}2=\\frac{1}{3}3 \na = \\frac{1}{3}2.\\frac{1}{3}3\na=\\frac{1}{3}5"
+    },
+    {
+        "problem": "Câu 5.  Giá trị x thỏa mãn 2x=222 là: \nA. 5;\nB. 4;\nC. 2^{6 } ;\nD. 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:  2x=222\n2^{x}  = 2^{2 . 2} \n2^{x}  = 2^{4} \nx = 4\nVậy x = 4."
+    },
+    {
+        "problem": "Câu 6. Kết quả phép tính: (0,125)^{4}  . 8^{4 }  =?\nA. 1000;\nB. 100;\nC. 10;\nD. 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: (0,125)^{4}  . 8^{4 }  = (0,125 . 8)^{4}  = 1^{4 } = 1."
+    },
+    {
+        "problem": "Câu 7. Công thức tínmh luỹ thừa của luỹ thừa là:\nA. xmn=xm.n ;\nB. x^{m} .x^{n}  = x^{m+n} ;\nC. x^{m} .x^{n}  = x^{m−n}  (x ≠ 0, m≥n );\nD. (x.y)^{n}  = x^{n} .y^{n} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nKhi tính lũy thừa của một lũy thừa, ta giữ nguyên cơ số và nhân hai số mũ với nhau: xmn=xm.n ."
+    },
+    {
+        "problem": "Câu 8. Số 2^{24}  viết dưới dạng lũy thừa có số mũ 8 là: \nA. 8^{8} ;\nB. 9^{8} ;\nC. 6^{8} ;\nD.  Một đáp số khác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: 224=238=88"
+    },
+    {
+        "problem": "Câu 9.  Cho A = 1 + 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  . Kết quả biểu thức A là:\nA. 1;\nB. 3^{2021}  – 1;\nC. \\frac{32021–1}{2};\nD. 3^{0 + 1 + 2 + 3 + … + 2020} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có : \n3A = 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  + 3^{2021} \nA = 1 + 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  \n⇒ 3A – A = (3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  + 3^{2021} ) – (1 + 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020} )\n⇒ 2A = 3^{2021} – 1 \n⇒ A = \\frac{32021–1}{2}."
+    },
+    {
+        "problem": "Câu 10.  Kết quả phép tính: \\frac{−2}{5}+\\frac{1}{2}2=?\nA. \\frac{1}{4} ;\nB. \\frac{−1}{100} ;\nC. \\frac{1}{100};\nD. \\frac{81}{100}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \\frac{−2}{5}+\\frac{1}{2}2=\\frac{−4}{10}+\\frac{5}{10}2=\\frac{1}{10}2=\\frac{1}{100}"
+    },
+    {
+        "problem": "Câu 11. Khi chia hai lũy thừa cùng cơ số, ta thực hiện theo công thức:\nA. x^{m } : x^{n}  = x^{m−n} (x ≠ 0, m ≥ n);\nB. x^{m } : x^{n}  = x^{m−n} ;\nC. x^{m} .x^{n}  = x^{m+n} ;\nD. xmn=xm.n.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nKhi chia hai lũy thừa cùng cơ số, ta thực hiện theo công thức xm:xn=xm−n (x ≠ 0, m≥n)."
+    },
+    {
+        "problem": "Câu 12. Kết quả rút gọn phân số \\frac{210.310−210.39}{29.310}  là:\nA. \\frac{−5}{4} ;\nB. \\frac{3}{4} ;\nC. \\frac{4}{3} ;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có : \\frac{210.310−210.39}{29.310}=\\frac{210.39.(3−1)}{29.310}\n=\\frac{29.2.39.2}{29.39.3}=\\frac{4}{3}"
+    },
+    {
+        "problem": "Câu 13.  Kết quả của phép tính 2022^{2022} : 2022^{2021}  là: \nA. 1;\nB. 2021;\nC. 2022;\nD. 2022^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 2022^{2022} : 2022^{2021} \n= 2022^{2022 – 2021}  = 2022^{1 } = 2022."
+    },
+    {
+        "problem": "Câu 14.  Kết quả phép tính a^{4} . a^{ 4} .a bằng:\nA. a^{8} ;\nB. a^{16} ;\nC. a^{9} ;\nD. a^{17} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: a^{4} . a^{ 4} . a = a^{4 + 4 + 1 } = a^{9} ."
+    },
+    {
+        "problem": "Câu 15. Kết quả thực hiện phép tính 5. 5^{19}  có giá trị là:\nA. 5^{20} ;\nB.5^{12} ;\nC.25^{10} ;\nD. Đáp án A và C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nKết quả thực hiện phép tính:\n5. 5^{19}  = 5^{1} ^{+} ^{19 } = 5^{20} = 5210  = 25^{10} \nVậy chọn đáp án D."
+    }
+]

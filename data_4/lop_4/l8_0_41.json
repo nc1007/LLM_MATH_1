@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : (a + b) + c = a + (b + c) . Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi cộng một tổng hai số với số thứ ba, ta có thể cộng số thứ nhất với tổng của số thứ hai và số thứ ba.\nDo đó ta có: (a+b)+c=a+(b+c)\nVậy khẳng định đã cho là đúng"
+    },
+    {
+        "problem": "Câu 2 : 49 + 178) + 22 = 49 + (178 + 22). Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi cộng một tổng hai số với số thứ ba, ta có thể cộng số thứ nhất với tổng của số thứ hai và số thứ ba.\nDo đó ta có: (49+178)+22=49+(178+22)\nVậy phép tính đã cho là đúng."
+    },
+    {
+        "problem": "Câu 5 : Điền số thích hợp vào ô trống:  \nTính bằng cách thuận tiện:\n4250 + 279 + 121",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n4250+279+121\n=4250+(279+121)\n=4250+400\n=4650\n\tVậy đáp án đúng điền vào ô trống theo thứ tự là 4250; 121; 4250; 400; 4650."
+    },
+    {
+        "problem": "Câu 6 : Điền số thích hợp vào ô trống để tính bằng cách thuận tiện: \n2593 + 6742 + 1407 + 3258",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n2593+6742+1407+3258\n= (2593+1407)+(6742+3258)\n= 4000+10000\n= 14000\n\tVậy đáp án đúng điền vào ô trống theo thứ tự từ trên xuống dưới \ntừ trái sang phải là 2593; 3258; 4000; 10000; 14000."
+    },
+    {
+        "problem": "Câu 8 : Chọn dấu thích hợp để điền vào chỗ chấm:  \n1675 + 2468 + 325 ... 321 + 2178 + 1822\nA.\t= \nB.\t< \nC.\t>",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n\t1675+2468+325=(1675+325)+2468=2000+2468=4468\n321+2178+1822=321+(2178+1822)=321+4000=4321\nMà 4468 > 4321.\nVậy 1675+2468+325 > 321+2178+1822.\n\n1675+2468+325=(1675+325)+2468=2000+2468=4468\n321+2178+1822=321+(2178+1822)=321+4000=4321\nMà 4468 > 4321.\nVậy 1675+2468+325 > 321+2178+1822."
+    },
+    {
+        "problem": "Câu 9 : Số dân của một huyện năm 2005 là 15625 người. \nNăm 2006 số dân tăng thêm 972 người. Năm 2007 số dân lại tăng thêm 1375 người. \nVậy năm 2007 số dân của huyện đó là: \nA.\t16972 người\nB.\t17862 người\nC.\t16862 người\nD.\t17972 người",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Năm 2007 số dân của huyện đó là:\n    15625+972+1375=17972 (người)\n                Đáp số: 17972 người."
+    },
+    {
+        "problem": "Câu 11 : Tìm x biết: 45 + (1234 + x) = 1234 + (45 + 120) \nA.\tx = 120\nB.\tx = 125\nC.\tx = 145\nD.\tx = 165",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 45+(1234+x)=45+1234+x=1234+(45+x)\nTheo đề bài ta có: 45+(1234+x)=1234+(45+120)\nNên: 1234+(45+x)=1234+(45+120)\nTừ đó suy ra x = 120."
+    }
+]

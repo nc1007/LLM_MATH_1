@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Tính giá trị của biểu thức: \\(4^3:8.3^2- 5^2+9\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi biểu thức có các phép tính cộng, trừ, nhân, chia, nâng lên lũy thừa, ta thưc hiện phép tính nâng lên lũy thừa trước, rồi đến nhân và chia, cuối cùng đến cộng và trừ.\nLời giải chi tiết\nTa có: \\(4^3:8.3^2- 5^2+9\\)\n= 64 : 8 . 9 – 25 + 9\n= 8 . 9 – 25 + 9\n= 72 – 25 + 9\n= 47 + 9\n= 56."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức: \\(15 + \\left( {39:3 - 8} \\right).4\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính \\(\\left( {39:3 - 8} \\right)\\) bằng cách: Lấy 39 chia cho 3 trước rồi trừ cho 8.\n- Lấy kết quả trong ngoặc nhân với 4. (Kết quả trong ngoặc ra một số thì bỏ ngoặc luôn).\n- Lấy 15 cộng với kết quả vừa nhận được.\nLời giải chi tiết\n\\(\\begin{array}{l}15 + \\left( {39:3 - 8} \\right).4\\\\ = 15 + \\left( {13 - 8} \\right).4\\\\ = 15 + 5.4\\\\ = 15 + 20\\\\ = 35\\end{array}\\)"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na) \\(2370 - 179 + 21\\);\nb) \\(100:5.4\\);\nc) \\(396:18:2\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Tính \\(2370 - 179\\) trước.\n- Lấy kết quả nhận được cộng với 21.\nb)\n- Tính \\(100:5\\).\n- Lấy kết quả nhận được  nhân với 4.\nc)\n- Tính \\(396:18\\).\n- Lấy kết quả nhận được  chia cho 2.\nLời giải chi tiết\na)\n\\(2370 - 179 + 21\\)\n\\( = 2191 + 21 = 2212\\).\nb)\n\\(100:5.4\\)\n\\( = 20.4 = 80\\).\nc)\n\\(396:18:2\\)\n\\( = 22:2 = 11\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na) \\(143 - 12.5\\);\nb) \\(27.8 - 6:3\\);\nc) \\(36 - 12:4.3 + 17\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Tính 12.5 trước.\n- Lấy 143 trừ cho kết quả vừa nhận được.\nb)\n- Tính 27.8 và 6:3 trước.\n- Lấy kết quả của 27.8 trừ đi kết quả của 6:3.\nc)\n- Tính 12:4.3 trước: Tính 12:4 rồi nhân 3.\n- Thực hiện các phép cộng trừ từ trái sang phải với kết quả vừa nhận được.\nLời giải chi tiết\na)\n\\(143 - 12.5\\)\n\\(\\begin{array}{l} = 143 - 60\\\\ = 83\\end{array}\\)\nb)\n\\(27.8 - 6:3\\)\n\\(\\begin{array}{l} = 216 - 2\\\\ = 214\\end{array}\\)\nc)\n\\(36 - 12:4.3 + 17\\).\n\\(\\begin{array}{l} = 36 - 3.3 + 17\\\\ = 36 - 9 + 17\\\\ = 27 + 17\\\\ = 44\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na) \\({3^2}{.5^3} + {9^2}\\);\nb) \\({8^3}:{4^2} - {5^2}\\);\nc) \\({3^3}{.9^2} - {5^2}.9 + 18:6\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Tính các lũy thừa: \\({3^2};{5^3};{9^2}\\).\n- Tính \\({3^2}{.5^3}\\) sau khi đã tính lũy thừa.\n- Lấy kết quả nhận được cộng với \\({9^2}\\).\nb)\n- Tính các lũy thừa: \\({8^3};{4^2};{5^2}\\).\n- Tính \\({8^3}:{4^2}\\) sau khi đã tính lũy thừa.\n- Lấy kết quả nhận được trừ cho \\({5^2}\\).\nc)\n- Tính các lũy thừa: \\({3^3};{9^2};{5^2}\\).\n- Tính lần lượt các phép tính: \\({3^3}{.9^2}\\); \\({5^2}.9\\) và \\(18:6\\).\n- Lấy \\({3^3}{.9^2}\\) trừ \\({5^2}.9\\) rồi cộng với \\(18:6\\).\nLời giải chi tiết\na)\n\\({3^2}{.5^3} + {9^2}\\)\n\\(\\begin{array}{l} = 9.125 + 81\\\\ = 1125 + 81\\\\ = 1206\\end{array}\\)\nb)\n\\({8^3}:{4^2} - {5^2}\\)\n\\(\\begin{array}{l} = 512:16 - 25\\\\ = 32 - 25\\\\ = 7\\end{array}\\)\nc)\n\\({3^3}{.9^2} - {5^2}.9 + 18:6\\)\n\\(\\begin{array}{l} = 27.81 - 25.9 + 3\\\\ = 2187 - 225 + 3\\\\ = 1962 + 3\\\\ = 1965\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na) \\(32 - 6.\\left( {8 - {2^3}} \\right) + 18\\);\nb) \\({\\left( {3.5 - 9} \\right)^3}.{\\left( {1 + 2.3} \\right)^2} + {4^2}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Tính trong ngoặc : \\(\\left( {8 - {2^3}} \\right)\\)\n- Tính \\(6.\\left( {8 - {2^3}} \\right)\\): Lấy kết quả trong ngoặc nhân với 6.\n- Lấy 32 trừ cho \\(6.\\left( {8 - {2^3}} \\right)\\) rồi cộng với 18.\nb)\n- Tính 3.5 và 2.3.\n- Tính \\(\\left( {3.5 + 9} \\right)\\) và \\(\\left( {1 + 2.3} \\right)\\).\n- Tính \\({\\left( {3.5 + 9} \\right)^3}\\); \\({\\left( {1 + 2.3} \\right)^2}\\) và \\({4^2}\\)\n- Lấy \\({\\left( {3.5 + 9} \\right)^3}\\) nhân với \\({\\left( {1 + 2.3} \\right)^2}\\) rồi cộng với \\({4^2}\\).\nLời giải chi tiết\na)\n\\(32 - 6.\\left( {8 - {2^3}} \\right) + 18\\)\n\\(\\begin{array}{l} = 32 - 6.\\left( {8 - 8} \\right) + 18\\\\ = 32 - 6.0 + 18\\\\ = 32 + 18\\\\ = 50\\end{array}\\)\nb)\n\\({\\left( {3.5 - 9} \\right)^3}.{\\left( {1 + 2.3} \\right)^2} + {4^2}\\).\n\\(\\begin{array}{l} = {\\left( {15 - 9} \\right)^3}.{\\left( {1 + 6} \\right)^2} + {4^2}\\\\ = {6^3}{.7^2} + {4^2}\\\\ = 216.49 + 16\\\\ = 10584 + 16\\\\ = 10600\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na) \\(9234:\\left[ {3.3.\\left( {1 + {8^3}} \\right)} \\right]\\);\nb) \\(76 - \\left\\{ {2.\\left[ {{{2.5}^2} - \\left( {31 - 2.3} \\right)} \\right]} \\right\\} + 3.25\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Tính \\({8^3}\\).\n- Tính \\(\\left( {1 + {8^3}} \\right)\\).\n- Tính \\(\\left[ {3.3.\\left( {1 + {8^3}} \\right)} \\right]\\).\n- Lấy 9234 chia cho kết quả vừa nhận được.\nb)\n- Tính \\((31 - 2 \\cdot 3)\\).\n- Tính \\(\\left[ {2 \\cdot {5^2} - (31 - 2 \\cdot 3)} \\right]\\).\n- Tính \\(\\left\\{ {2 \\cdot \\left[ {2 \\cdot {5^2} - (31 - 2 \\cdot 3)} \\right]} \\right\\}\\) và 3.25.\n- Lấy 76 trừ \\(\\left\\{ {2 \\cdot \\left[ {2 \\cdot {5^2} - (31 - 2 \\cdot 3)} \\right]} \\right\\}\\) rồi cộng với 3.25.\nLời giải chi tiết\na) \\(9234:\\left[ {3.3 \\cdot \\left( {1 + {8^3}} \\right)} \\right]\\)\n\\( = 9234:[3.3.(1 + 512)]\\)\n\\( = 9234:\\left[ {3.3.513} \\right]\\)\n\\( = 9234:4617\\)\n\\( = 2\\)\nb) \\(76 - \\left\\{ {2 \\cdot \\left[ {2 \\cdot {5^2} - (31 - 2 \\cdot 3)} \\right]} \\right\\} + 3 \\cdot 25\\)\n\\( = 76 - \\{ 2 \\cdot [2 \\cdot {5^2} - (31 - 6)]\\}  + 3.25\\)\n\\( = 76 - \\{ 2 \\cdot [2 \\cdot {5^2} - 25]\\}  + 3.25\\)\n\\( = 76 - \\{ 2 \\cdot [2 \\cdot 25 - 25]\\}  + 3.25\\)\n\\( = 76 - \\{ 2 \\cdot [50 - 25]\\}  + 3.25\\)\n\\( = 76 - \\{ 2 \\cdot 25\\}  + 3.25\\)\n\\( = 76 - 50 + 75\\)\n\\( = 101\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trên 1 \\(c{m^2}\\) mặt lá có khoảng 30 000 lỗ khí. Tính tổng số lỗ khí trên hai chiếc lá có diện tích lần lượt là 7 \\(c{m^2}\\) và 15 \\(c{m^2}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lỗ khí =  Diện tích (\\(c{m^2}\\))\\( \\times \\)30 000.\nLời giải chi tiết\nCách 1: Số lỗ khí trên chiếc lá có diện tích \\(7c{m^2}\\) là :\n\\(7.30000 = 210000\\) (lỗ khí)\nSố lỗ khí trên chiếc lá có diện tích \\(15c{m^2}\\) là:\n\\(15.30000 = 450000\\) (lỗ khí)\nTổng số lỗ khí trên 2 chiếc lá là:\n\\(210 000+450 000=660 000\\) (lỗ khí)\nCách 2: Tổng diện tích của 2 chiếc lá 7 \\(c{m^2}\\) và 15 \\(c{m^2}\\) là:\n\\(7+15=22(cm^2)\\)\nTổng số lỗ khí trên 2 chiếc lá là:\n\\(22. 30 000 =660 000\\) (lỗ khí)"
+    },
+    {
+        "problem": "Anh Sơn vào siêu thị mua 2 chiếc áo phông giá 125 000 đồng/chiếc; 3 chiếc quần soóc giá 95 000 đồng/chiếc; 5 chiếc khăn mặt giá 17 000 đồng/chiếc. Anh đã trả bằng hai phiếu mua hàng, mỗi phiếu trị giá 100 000 đồng. Anh Sơn còn phải trả thêm bao nhiêu tiền?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính tổng số tiền anh Sơn phải trả:\nTổng tiền = Tiền 2 chiếc áo+tiền 3 chiếc quần+tiền 5 chiếc khăn mặt.\n- Tính số tiền anh Sơn phải trả thêm = Tổng tiền - tiền đã trả.\nLời giải chi tiết\nTổng số tiền anh Sơn phải trả là:\n\\(2.125000 + 3.95000 + 5.17000\\)\\( = 620000\\) (đồng)\nSố tiền anh Sơn phải trả thêm là:\n\\(620000 - 2.100000 = 420000\\) (đồng)\nLoigaihay.com"
+    },
+    {
+        "problem": "Cô Hạnh mua 30 quyển vở, 30 chiếc bút bi, hai hộp bút chì mỗi hộp có 12 chiếc. Tổng số tiền cô phải thanh toán là 396 000 đồng. Cô chỉ nhớ giá của một quyển vở là 7 500 đồng, giá của một chiếc bút bi là 2 500 đồng. Hãy tính giúp cô Hạnh xem một chiếc bút chì giá bao nhiêu tiền.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính tiền mua 30 quyển vở và 30 chiếc bút bi.\n- Tính tiền mua 2 hộp bút chì (có tất cả 2.12 chiếc).\n- Tính giá của 1 chiếc bút chì.\nLời giải chi tiết\nSố tiền phải trả để mua 30 quyển vở và 30 chiếc bút bi là:\n\\(30.7500 + 30.2500 = 300000\\) (đồng)\nSố tiền phải trả để mua 2 hộp bút chì là:\n\\(396000 - 300000 = \\)\\(96000\\) (đồng)\nGiá tiền của một chiếc bút chì là:\n\\(96000:(2.12) = 4000\\) (đồng)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một trường trung học cơ sở tổ chức cho lớp 6D gồm 40 học sinh đi tham quan học tập ngoại khóa. Toàn bộ chi phí chuyến đi sẽ chia đều cho mỗi học sinh. Đến ngày đi, 4 học sinh của lớp 6D không tham gia được. Vì vậy, mỗi bạn tham gia còn lại phải đóng thêm 25 000 đồng so với dự kiến chi phí ban đầu. Tổng chi phí cho chuyến đi là bao nhiêu?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính số học sinh đi du lịch.\n- Tính tổng số tiền học sinh phải trả thêm.\n- Tính tổng chi phí cho chuyến đi.\nLời giải chi tiết\nSố học sinh đi du lịch là:\n\\(40 - 4 = 36\\) (học sinh)\nTổng số tiền các bạn phải trả thêm là:\n\\(36.25000 = 900000\\) (đồng)\nTổng chi phí cho chuyến đi là:\n\\(900000:4 \\times 40 = 9000000\\) (đồng)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Lớp 6A có 6 tổ học sinh. Để tổ chức liên hoan cho lớp, cô Ngân đã mua 42 chiếc bánh ngọt và 45 quả quýt.\nCô Ngân có thể chia đều số bánh ngọt cho 6 tổ được không?\nCô Ngân có thể chia đều số quả quýt cho 6 tổ được không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để biết cô Ngân có chia đều số bánh ngọt và số quả quýt cho 6 tổ hay không thì ta thực hiện phép chia. Nếu phép chia là chia hết thì chia đều, chia có dư thì không chia đều\nLời giải chi tiết\nTa có: 42 : 6 = 7 ; 45 : 6 = 7 (dư 3).\nNhư vậy, 42 chia hết cho 6 và 45 không chia hết cho 6\nVậy cô Ngân có thể chia đều số bánh ngọt cho 6 tổ và không thể chia đều số quả quýt cho 6 tổ."
+    },
+    {
+        "problem": "a) Thực hiện các phép tính 42:6 và 45:6.\nb) Trong hai phép chia trên, phép chia nào là phép chia hết, phép chia nào là phép chia có dư?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện các phép chia\nLời giải chi tiết\na)\n42:6=7\n45:6=7 (dư 3).\nb)\n42:6  là phép chia hết.\n45:6 là phép chia có dư."
+    },
+    {
+        "problem": "Viết ngày và tháng sinh của em dưới dạng ngày a tháng b. Chỉ ra một ước của a và hai bội của b.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Ngày sinh là a, tháng sinh là b.\n- a chia hết cho số nào thì số đó là ước của a.\n- Tìm 2 số chia hết cho b.\nLời giải chi tiết\nVí dụ: ngày 15 tháng 7\nMột ước của 15 là 3\nHai bội của 7 là 14 và 28"
+    },
+    {
+        "problem": "a) Thực hiện các phép tính: 9 . 0; 9 . 1; 9 . 2; 9 . 3; 9 . 4; 9 . 5; 9 . 6\nb) Hảy chỉ ra bảy bội của 9.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện các phép nhân\nLời giải chi tiết\na)  9 . 0 = 0; 9 . 1 = 9; 9 . 2 = 18; 9 . 3 = 27; 9 . 4 = 36; 9 . 5 = 45; 9 . 6 = 54\nb) Bảy bội của 9 là: 0; 9; 18; 27; 36; 45; 54."
+    }
+]

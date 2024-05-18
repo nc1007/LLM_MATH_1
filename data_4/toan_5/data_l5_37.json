@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Số thập phân 0,525 được viết thành tỉ số phần trăm là:\nA.\t0,525%\nB.\t5,25%\nC.\t52,5%\nD.\t525%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 0,525 × 100 = 52,5.\nDo đó: 0,525 = 52,5%."
+    },
+    {
+        "problem": "Câu 3: Tỉ số phần trăm của 3 và 5 là:\nA.\t60%\nB.\t15%\nC.\t0,6%\nD.\t0,15%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của 3 và 5 là:\n3 : 5 = 0,6 = 60%"
+    },
+    {
+        "problem": "Câu 4: Tỉ số phần trăm của 14kg và 5 yến là:\nA.\t0,28%\nB.\t2,8%\nC.\t28%\nD.\t280%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 5 yến = 50kg.\nKhi đó, tỉ số phần trăm của 14kg và 5 yến là:\n14 : 50 = 0,28 = 28%"
+    },
+    {
+        "problem": "Câu 6: Trong vườn có 12 cây cam và 28 cây chanh. Tìm tỉ số phần trăm của số cây cam so với tổng số cây trong vườn?\nA.\t42,85%\nB.\t30%\nC.\t70%\nD.\t233,33%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong vườn có tổng số cây là:\n12 + 28 = 40 (cây)\nTỉ số phần trăm của cây cam so với tổng số cây trong vườn là:  \n12 : 40 = 0,3 = 30%\nĐáp số: 30%."
+    },
+    {
+        "problem": "Câu 8: Mẹ đi chợ về mua 10 lít nước mắm, trong đó có 4 lít nước mắm loại một, còn lại là nước mắm loại hai. Tỉ số phần trăm giữa nước mắm loại một và nước mắm loại hai là:\nA.\t40%\nB.\t45%\nC.\t60%\nD.\t66,66%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mẹ mua số lít nước mắm loại hai là: \n10 – 4 = 6 (lít)\nTỉ số phần trăm giữa nước mắm loại một và nước mắm loại hai là”   \n4 : 6 = 0,6666 = 66,66%\nĐáp số: 66,66%."
+    },
+    {
+        "problem": "Câu 10: Tháng trước giá 1 lít xăng là 20000 đồng, tháng này giá 1 lít xăng là 20500 đồng. Hỏi giá xăng tháng này đã bao nhiêu phần trăm so với giá xăng tháng trước?\nA.\t2,5%\nB.\t25%\nC.\t102,5%\nD.\t125%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Giá 1 lít xăng tháng này tăng so với tháng trước số tiền là: \n20500 – 20000 = 500 (đồng)\nGiá xăng tháng này đã tăng số phần trăm số so với giá xăng tháng trước là:  \n500 : 20000 = 0,025 = 2,5%\nĐáp số: 2,5%"
+    },
+    {
+        "problem": "Câu 12: Một trại chăn nuôi có 1575 con gà. Số con gà mái nhiều hơn số con gà trống là 277 con. Vậy tỉ số phần trăm của số gà trống và số gà mái là:\nA.\t17,58%\nB.\t41,2%\nC.\t70,08%\nD.\t142,68%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trang trại đó có số con gà mái là:  \n(1575 + 277) : 2 = 926 (con)\nTrang trại đó có số con gà trống là: \n1575 – 926 = 649 (con)\nTỉ số phần trăm của số con gà trống và số con gà mái là: \n649 : 926 = 0,7008 = 70,08%\nĐáp số: 70,08%."
+    }
+]

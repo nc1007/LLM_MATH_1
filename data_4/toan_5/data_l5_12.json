@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 3: Chọn đáp án đúng nhất: \n3 tấn = 30 tạ. Đúng hay sai?\nA. Đúng\nB. Sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy hai đơn vị tấn và tạ là hai đơn vị đo khối lượng liền nhau.\nTa có 1 tấn = 10 tạ nên 3 tấn = 30 tạ (vì 3 x 10 = 30)\nVậy 3 tấn = 30 tạ là đúng."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Câu 1. Phát biểu nào dưới đây là đúng:\nA. Thực hiện nhân chia trước, cộng trừ sau rồi đến lũy thừa.\nB. Khi thực hiện các phép tính có dấu ngoặc ưu tiên ngoặc vuông trước.\nC. Nếu chỉ có phép cộng, trừ thì ta thực hiện cộng trước trừ sau.\nD. Với các biểu thức có dấu ngoặc: trong ngoặc trước, ngoài ngoặc sau: () → [] → {}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVới các biểu thức không có dấu ngoặc: Lũy thừa → Nhân và chia → Cộng và trừ.\nVới các biểu thức có dấu ngoặc: trong ngoặc trước, ngoài ngoặc sau: () → [] → {}.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2. Cho phép tính 12 + 8.3. Bạn Nam thực hiện như sau:\n12 + 8.3\n= (12 + 8).3 (Bước 1)\n= 20.3           (Bước 2)\n= 60.            (Bước 3)\nBạn Nam sai từ bước nào?\nA. Bước 1.\nB. Bước 2.\nC. Bước 3.\nD. Không sai bước nào.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nBạn Nam sai ngay từ bước 1, vì theo thứ tự thực hiện phép tính phải thực hiện nhân chia trước, cộng trừ sau. \nSửa lại: 12 + 8.3\n= 12 + 24\n= 36.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Thứ tự thực hiện phép tính nào sau đây là đúng đối với biểu thức không có dấu ngoặc?\nA. Cộng và trừ → Nhân và chia → Lũy thừa.\nB. Nhân và chia → Lũy thừa → Cộng và trừ.\nC. Lũy thừa → Nhân và chia → Cộng và trừ.\nD. Cả 3 đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nĐối với biểu thức không có dấu ngoặc, thứ tự thực hiện phép tính là: Lũy thừa → Nhân và chia → Cộng và trừ.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Thứ tự thực hiện phép tính nào sau đây là đúng đối với biểu thức có dấu ngoặc?\nA. [ ] → ( ) → { }.\nB. ( ) → [ ] → { }.\nC. { } → [ ] → ( ).\nD. [ ] → { } → ( ).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nĐối với biểu thức có dấu ngoặc, thứ tự thực hiện phép tính: ( ) → [ ] → { }.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 5. Hãy chọn biểu thức sử dụng đúng thứ tự các dấu ngoặc:\nA. 100:{2.[30 − (12 + 7)]}.\nB. 100:[2.(30 − {12 + 7})].\nC. 100:(2.{30 − [12 + 7]}).\nD. 100:(2.[30 − {12 + 7}]).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Biểu thức sử dụng đúng dấu ngoặc là: 100:{2.[30 − (12 + 7)]}.\nĐáp án: A"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Tính 14 + 2.8^{2} .\nA. 142;\nB. 143;\nC. 144;\nD. 145",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải 14 + 2.8^{2}  = 14 + 2.64 = 14 + 128 = 142.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. 21 là kết quả của phép tính nào dưới đây.\nA. 60 – [120 – (42 – 33)^{2} ].\nB. 60 – [90 – (42 – 33)^{2} ].\nC. 25.2^{2}  – 89.\nD. 8 + 36:3.2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n+) 60 – [120 – (42 – 33)^{2} ]\n= 60 – [120 – 9^{2} ]\n= 60 – [120 – 81]\n= 60 – 39\n= 21. Do đó A đúng.\n+) 60 – [90 – (42 – 33)^{2} ]\n= 60 – [90 – 9^{2} ]\n= 60 – [90 – 81]\n= 60 – 9 \n= 51.\n+) 25.2^{2}  – 89\n= 25.4 – 89 \n= 100 – 89 \n= 11.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Tính giá trị của biểu thức 8.(a^{2}  + b^{2} ) + 100 tại a = 3, b = 4.\nA. 200.\nB. 300.\nC. 400.\nD. 500.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nThay a = 3 và b = 4 vào biểu thức 8.(a^{2}  + b^{2} ) + 100 , ta được:\n8.(3^{2}  + 4^{2} ) + 100 \n= 8.(9 + 16) + 100\n= 8.25 + 100\n= 200 + 100\n= 300.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Tìm giá trị của x thỏa mãn: {2^{3}  + [1 + (3 – 1)^{2} ]} : x = 13.\nA. x = 1;\nB. x = 2;\nC. x = 3;\nD. x = 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n{2^{3}  + [1 + (3 – 1)^{2} ]} : x = 13\n{8 + [1 + 2^{2} ]} : x = 13\n{8 + [1 + 4]} : x = 13\n{8 + 5} : x = 13\n13 : x = 13\nx = 13 : 13\nx = 1.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 6. Có bao nhiêu số tự nhiên n thỏa mãn 32 < 2^{n}   512.\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 32 < 2^{n}  ≤ 512\nMà 32 = 2.2.2.2.2 = 2^{5} ; 512 = 2.2.2.2.2.2.2.2.2 = 2^{9} .\nNghĩa là 2^{5}  < 2^{n}   2^{9} .\nKhi đó: 5 < n ≤ 9, mà n là số tự nhiên nên n ∈ .\nVậy có tất cả 4 giá trị của n.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Tính giá trị của biểu thức: 120 + [55 – (11 – 3.2)^{2} ] + 2^{3} .\nA. 155\nB. 148\nC. 138\nD. 158.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n120 + [55 – (11 – 3.2)^{2} ] + 2^{3} \n= 120 + [55 – (11 – 6)^{2} ] + 8\n= 120 + [55 – 5^{2} ] + 8\n= 120 + [55 – 25] + 8\n= 120 + 30 + 8 \n= 150 + 8 \n= 158.\nĐáp án: D"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Một người đi xe đạp trong 5 giờ. Trong 3 giờ đầu, người đó đi với vận tốc 14km/h; 2 giờ sau, người đó đi với vận tốc 9km/h. Tính quãng đường người đó đi được trong 5 giờ.\nA. 42 km;\nB. 18 km;\nC. 60 km;\nD. 23 km.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nQuãng đường người đó đi được trong 3 giờ đầu là:         \n             14. 3 = 42 (km)\nQuãng đường người đó đi được trong 2 giờ sau là:         \n             9. 2 = 18 (km)\nQuãng đường người đó đi được trong 5 giờ là:         \n             42 + 18 = 60 (km)\nVậy quãng đường người đó đi được trong 5 giờ là 60km.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Trong 8 tháng đầu năm, một cửa hàng bán được 1 264 chiếc ti vi. Trong 4 tháng cuối năm, trung bình mỗi tháng cửa hàng bán được 164 chiếc ti vi. Hỏi trong cả năm, trung bình mỗi tháng cửa hàng đó bán được bao nhiêu ti vi? Viết biểu thức tính kết quả.\nA. 656 chiếc.\nB. 164 chiếc.\nC. 1 920 chiếc.\nD. 160 chiếc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố ti vi 4 tháng cuối năm cửa hàng đó bán được là:\n   164 . 4 = 656 (chiếc)\nTổng số ti vi cả năm cửa hàng đó bán được là:\n   656 + 1 264 = 1 920 (chiếc) Vì cả năm có 12 tháng\nTrong cả năm, trung bình mỗi tháng cửa hàng bán được số ti vi là:\n   1 920 : 12 = 160 (chiếc)\nVậy trong cả năm, trung bình mỗi tháng cửa hàng bán được 160 chiếc ti vi.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Căn hộ nhà bác Cường diện tích 105 . Ngoại trừ bếp và nhà vệ sinh diện tích 30 , toàn bộ diện tích sàn còn lại được lát gỗ như sau: 18 được lát bằng gỗ loại 1 giá 350 nghìn đồng/ m^{2} , phần còn lại dùng bằng gỗ loại 2 có giá 170 nghìn đồng/m^{2} . Công lát là 30 nghìn đồng/m^{2} \nViết biểu thức tính tổng chi phí bác Cường cần trả để lát sàn căn hộ như trên. Tính giá trị của biểu thức đó.\nA. 15 990 000 đồng.\nB. 2 250 000 đồng.\nC. 18 240 000 đồng.\nD. 9 690 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDiện tích sàn được lát gỗ là: 105 – 30 = 75 (m^{2} )\nDiện tích sàn lát gỗ loại 2 là: 75 – 18 = 57 (m^{2} )\nChi phí mua gỗ loại 1 là:  350 000. 18 = 6 300 000 (đồng)\nChi phí mua gỗ loại 2 là: 170 000. 57 = 9 690 000 (đồng)\nChi phí trả công lát gạch là: 30 000. 75 = 2 250 000 (đồng)\nBiểu thức tính tổng chi phí bác Cường cần trả để lát sàn là:\n6 300 000 + 9 690 000 + 2 250 000\n= 15 990 000 + 2 250 000\n= 18 240 000 (đồng)\nVậy tổng chi phí bác Cường cần trả để lát sàn căn hộ trên là 18 240 000 đồng.\nĐáp án: C"
+    }
+]

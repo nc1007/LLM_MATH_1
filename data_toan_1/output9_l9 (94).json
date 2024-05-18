@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Quy đồng mẫu những phân số sau:\na) \\(\\dfrac{-5}{14}\\) và \\(\\dfrac{1}{-21}\\)\nb) \\(\\dfrac{17}{60}\\) ; \\(\\dfrac{-5}{18}\\) và \\(\\dfrac{-64}{90}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để quy đồng nhiều phân số, ta thường làm như sau:\nBước 1: Viết các phân số đã cho dưới dạng phân số có mẫu dương. Tìm BCNN của các mẫu dương đó để làm mẫu số chung\nBước 2: Tìm thừa số phụ của mỗi mẫu, bằng cách chia mẫu chung cho từng mẫu\nBước 3: Nhân tử và mẫu của mỗi phân số ở Bước 1 với thừa số phụ tương ứng\nLời giải chi tiết\na)Ta có: \\(\\dfrac{1}{-21}=\\dfrac{-1}{21}\\)\nBCNN(14,21)=42\n42:14=3; 42:21=2\nVậy \\(\\dfrac{-5}{14}= \\dfrac{(-5).3}{14.3}= \\dfrac{-15}{42}\\)\n\\(\\dfrac{1}{-21}=\\dfrac{-1}{21}=\\dfrac{(-1).2}{21.2}= \\dfrac{-2}{42}\\)\nb)Ta có:\nBCNN(60, 18, 90)=180\n180:60=3; 180:18=10; 180:90=2\nVậy \\(\\dfrac{17}{60}= \\dfrac{17.3}{60.3}=\\dfrac{51}{180}\\)\n\\(\\dfrac{-5}{18}= \\dfrac{(-5).10}{18.10}=\\dfrac{-50}{180}\\)\n\\(\\dfrac{-64}{90}= \\dfrac{(-64).2}{90.2}=\\dfrac{-128}{180}\\)"
+    },
+    {
+        "problem": "Trong các phân số sau, tìm các phân số không bằng phân số nào trong các phân số còn lại?\n\\(\\frac{6}{25}\\) ; \\(\\frac{-4}{50}\\) ; \\(\\frac{-27}{54}\\); \\(\\frac{-18}{-75}\\) ; \\(\\frac{28}{-56}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Rút gọn các phân số về dạng tối giản rồi tìm các cặp phân số bằng nhau\nLời giải chi tiết\nTa có: \\(\\frac{6}{25}=\\frac{6}{25}\\)\n\\(\\frac{-4}{50}\\)= \\(\\frac{(-4): 2}{50:2}= \\frac{-2}{25}\\)\n\\(\\frac{-27}{54}\\)= \\(\\frac{(-27): 27}{54:27}\\)= \\(\\frac{-1}{2}\\)\n\\(\\frac{-18}{-75}\\)=\\(\\frac{(-18):3}{(-75):3}\\)=\\(\\frac{-6}{-25}\\)= \\(\\frac{6}{25}\\)\n\\(\\frac{28}{-56}\\)=\\(\\frac{28:28}{(-56):28}\\)=\\(\\frac{1}{-2}\\)=\\(\\frac{-1}{2}\\)\nNên \\(\\frac{6}{25}\\)=\\(\\frac{-18}{-75}\\); \\(\\frac{-27}{54}\\)=\\(\\frac{28}{-56}\\).\nVậy phân số không bằng phân số nào trong các phân số còn lại là: \\(\\frac{-4}{50}\\)"
+    },
+    {
+        "problem": "So sánh: a) -3 và 2;                     b) -8 và -5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Nếu a<c; c\n*Nếu a< b với a, b dương thì –a> -b\nLời giải chi tiết\na)Vì -3 < 0, mà 0< 2 nên -3 < 2\nb)Vì 8 > 5 nên -8 < -5\nLời giải hay"
+    },
+    {
+        "problem": "So sánh\na)\\(\\frac{7}{-11}\\) và \\(\\frac{8}{-11}\\)\nb)\\(\\frac{-5}{3}\\) và \\(\\frac{5}{-4}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Đưa hai phân số về mẫu số dương rồi so sánh.\nb) Để so sánh 2 phân số không cùng mẫu, ta quy đồng 2 phân số đó về cùng một mẫu số dương rồi so sánh các tử số với nhau. Phân số nào có tử lớn hơn thì lớn hơn.\nLời giải chi tiết\na)\\(\\frac{7}{-11}\\) và \\(\\frac{8}{-11}\\)\nTa có: \\(\\frac{7}{-11}= \\frac{-7}{11}\\)\n\\(\\frac{8}{-11}= \\frac{-8}{11}\\)\nVì  7 < 8 nên -7 > -8. Do đó \\(\\frac{-7}{11} >\\frac{-8}{11}\\)\nVậy \\(\\frac{7}{-11}> \\frac{8}{-11}\\)\nb)\\(\\frac{-5}{3}\\) và \\(\\frac{5}{-4}\\)\nTa có: \\(\\frac{5}{-4}= \\frac{-5}{4}= \\frac{(-5).3}{4.3}=\\frac{-15}{12}\\)\n\\(\\frac{-5}{3}= \\frac{(-5).4}{3.4}=\\frac{-20}{12}\\)\nVì 15< 20 nên -15 > -20 . Do đó \\(\\frac{-15}{12}> \\frac{-20}{12}\\)\nVậy \\(\\frac{-5}{3}\\) < \\(\\frac{5}{-4}\\)\nLời giải hay"
+    },
+    {
+        "problem": "a)Tìm thương và số dư trong phép chia 7 cho 4\nb)Viết phân số \\(\\frac{7}{4}\\) dưới dạng tổng của một số nguyên dương và một phân số bé hơn 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia 7 : 4 = a dư b thì \\(\\frac{7}{4}= a + \\frac{b}{4}\\)\nLời giải chi tiết\na)Ta có: 7: 4 = 1 ( dư 3)\nNhư vậy thương và số dư của phép chia 7 cho 4 lần lượt là 1 và 3\nb) \\(\\frac{7}{4}= \\frac{4.1+3}{4}= 1 + \\frac{3}{4}\\)\nLời giải hay"
+    },
+    {
+        "problem": "a)Viết mỗi phân số sau thành hỗn số:\n\\(\\frac{14}{3}; \\frac{22}{7}\\)\nb)Viết mỗi hỗn số sau thành phân số:\n\\(2\\frac{3}{4}; 5\\frac{1}{6}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Phân số \\(\\frac{a}{b}\\) muốn đổi sang hỗn số thì ta thực hiện phép chia a:b được thương là c và q thì \\(\\frac{a}{b}= c\\frac{q}{b}\\)\nb)Hỗn số \\(a\\frac{b}{c}\\)(với \\(a,b,c \\in N^*\\) ) muốn đổi sang phân số thì \\(a\\frac{b}{c}= \\frac{a.c+b}{c}\\)\nLời giải chi tiết\nCách 1: a)                       \\(\\frac{14}{3}=\\frac{3.4+2}{3}=\\frac{3.4}{3}+\\frac{2}{3}=4+\\frac{2}{3}= 4\\frac{2}{3}\\)\n\\(\\frac{22}{7}=\\frac{7.3+1}{7}=\\frac{7.3}{7}+\\frac{1}{7}=3+\\frac{1}{7}= 3\\frac{1}{7}\\)\nb)                      \\(2\\frac{3}{4}=2+\\frac{3}{4}=\\frac{2.4}{4}+\\frac{3}{4}= \\frac{8+3}{4}=\\frac{11}{4}\\)\n\\(5\\frac{1}{6}=5+\\frac{1}{6}=\\frac{5.6}{6}+\\frac{1}{6}= \\frac{30+1}{6}=\\frac{31}{6}\\)\nCách 2: a) 14:3=4 dư 2 nên \\(\\frac{14}{3}=4\\frac{2}{3}\\)\n22:7=3 dư 1 nên \\(\\frac{22}{7}=3\\frac{1}{7}\\)\nb) \\(2\\frac{3}{4}= \\frac{2.4+3}{4}=\\frac{11}{4}\\)\n\\(5\\frac{1}{6}=\\frac{5.6+1}{6}=\\frac{31}{6}\\)"
+    },
+    {
+        "problem": "So sánh:\na)     \\(\\frac{-9}{4}\\) và \\(\\frac{1}{3}\\)\nb)    \\(\\frac{-8}{3}\\) và \\(\\frac{4}{-7}\\)\nc)     \\(\\frac{9}{-5}\\) và \\(\\frac{7}{-10}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Nếu a < c; c < b thì a < b\n* Để so sánh 2 phân số không cùng mẫu, ta quy đồng 2 phân số đó về cùng một mẫu số dương rồi so sánh các tử số với nhau. Phân số nào có tử lớn hơn thì lớn hơn.\nLời giải chi tiết\na) Vì \\(\\frac{-9}{4}<0\\), mà 0 < \\(\\frac{1}{3}\\)\nVậy \\(\\frac{-9}{4}< \\frac{1}{3}\\)\nb) *Cách 1:\nTa có: \\(\\frac{4}{-7}\\)=\\(\\frac{-4}{7}\\)= \\(\\frac{(-4).3}{7.1}\\)= \\(\\frac{-12}{21}\\)\n\\(\\frac{-8}{3}\\)= \\(\\frac{(-8).7}{3.7}\\)= \\(\\frac{-56}{21}\\)\nVì 12 < 56 nên -12 > -56. Do đó \\(\\frac{-12}{21}\\) > \\(\\frac{-56}{21}\\)\nVậy \\(\\frac{-8}{3}\\)< \\(\\frac{4}{-7}\\)\n*Cách 2:\nVì \\(\\frac{4}{-7}\\)> -1, mà \\(\\frac{-8}{3}\\)<-1.\nVậy \\(\\frac{-8}{3}\\)< \\(\\frac{4}{-7}\\)\nc) *Cách 1:\nTa có: \\(\\frac{9}{-5}\\)=\\(\\frac{-9}{5}\\)= \\(\\frac{(-9).2}{5.2}\\)= \\(\\frac{-18}{10}\\)\n\\(\\frac{7}{-10}\\)= \\(\\frac{-7}{10}\\)\nVì 7< 18 nên -7 > -18. Do đó \\(\\frac{-7}{10}\\) > \\(\\frac{-18}{10}\\)\nVậy \\(\\frac{9}{-5}\\) < \\(\\frac{7}{-10}\\)\n*Cách 2:\nVì \\(\\frac{9}{-5}\\) < -1, mà \\(\\frac{7}{-10}\\)> -1.\nVậy \\(\\frac{9}{-5}\\) < \\(\\frac{7}{-10}\\)"
+    },
+    {
+        "problem": "Viết các phân số sau theo thứ tự tăng dần\na)     \\(\\frac{2}{5}; \\frac{-1}{2}; \\frac{2}{7}\\);\nb)    \\(\\frac{12}{5}; \\frac{-7}{3}; \\frac{-11}{4}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng để đưa về các phân số có cùng mẫu số rồi so sánh\nLời giải chi tiết\na)Ta có:\n\\(\\frac{2}{5}=\\frac{2.14}{5.14}=\\frac{28}{70}\\)\n\\(\\frac{-1}{2}=\\frac{(-1).35}{2.35}=\\frac{-35}{70}\\)\n\\(\\frac{2}{7}=\\frac{2.10}{7.10}=\\frac{20}{70}\\)\nVì -35< 20< 28 nên \\(\\frac{-35}{70} < \\frac{20}{70}< \\frac{28}{70}\\) hay \\(\\frac{-1}{2}< \\frac{2}{7}< \\frac{2}{5}\\)\nVậy các phân số sắp xếp theo thứ tự tăng dần là:\n\\(\\frac{-1}{2}; \\frac{2}{7}; \\frac{2}{5}\\)\nb)Ta có:\n\\(\\frac{12}{5}=\\frac{12.12}{5.12}=\\frac{144}{60}\\)\n\\(\\frac{-7}{3}=\\frac{(-7).20}{3.20}=\\frac{-140}{60}\\)\n\\(\\frac{-11}{4}=\\frac{(-11).15}{4.15}=\\frac{-165}{60}\\)\nVì -165< -140< 144 nên \\(\\frac{-165}{60} < \\frac{-140}{60}< \\frac{144}{60}\\) hay \\(\\frac{-11}{4}<  \\frac{-7}{3}<  \\frac{12}{5}\\)\nVậy các phân số sắp xếp theo thứ tự tăng dần là:\n\\(\\frac{-11}{4};  \\frac{-7}{3};  \\frac{12}{5}\\)"
+    },
+    {
+        "problem": "a)     Viết các số đo thời gian dưới dạng hỗn số với đơn vị là giờ:\n2 giờ 15 phút;                              10 giờ 20 phút\nb)Viết các số đo diện tích sau dưới dạng hỗn số với đơn vị là héc – ta (biết 1 ha= 100a):\n1 ha 7 a;                                        3 ha 50 a.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1 phút = \\(\\frac{1}{60}\\) giờ\n1 a = \\(\\frac{1}{100}\\) ha\nLời giải chi tiết\na)     2 giờ 15 phút = 2 giờ \\(\\frac{15}{60}\\) giờ = \\(2\\frac{1}{4}\\) giờ\n10 giờ 20 phút = 10 giờ \\(\\frac{20}{60}\\) giờ = \\(10\\frac{1}{3}\\) giờ\nb)    1 ha 7 a = 1 ha \\(\\frac{7}{100}\\) ha= \\(1\\frac{7}{100}\\) ha\n3 ha 50 a= 3 ha \\(\\frac{50}{100}\\) ha= \\(3\\frac{1}{2}\\) ha"
+    },
+    {
+        "problem": "Thái Bình Dương bao phủ khoảng \\(\\frac{1}{3}\\) bề mặt Trái Đất, Đại Tây Dương bao phủ khoảng \\(\\frac{1}{5}\\) bề mặt Trái Đất.\nThái Bình Dương và Đại Tây Dương bao phủ khoảng bao nhiêu phần bề mặt Trái Đất? Thái Bình Dương bao phủ nhiều hơn Đại Tây Dương bao nhiêu phần bề mặt Trái Đất?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng, trừ các phân số\nLời giải chi tiết\nThái Bình Dương và Đại Tây Dương bao phủ khoảng số phần bề mặt Trái Đất là:\n\\(\\frac{1}{3}\\)+\\(\\frac{1}{5}\\)= \\(\\frac{5}{15}\\)+\\(\\frac{3}{15}\\)=\\(\\frac{8}{15}\\)\nThái Bình Dương bao phủ nhiều hơn Đại Tây Dương số phần bề mặt Trái Đất là:\n\\(\\frac{1}{3}\\)- \\(\\frac{1}{5}\\)=\\(\\frac{5}{15}\\)- \\(\\frac{3}{15}\\) =\\(\\frac{2}{15}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tính:\na)     \\(\\frac{-3}{7}\\)+\\(\\frac{2}{7}\\)\nb)    \\(\\frac{-4}{9}\\)+\\(\\frac{2}{-3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng 2 phân số có cùng mẫu số, ta cộng tử với tử, giữ nguyên mẫu\nMuốn cộng 2 phân số không cùng mẫu số, ta quy đồng mẫu những phân số đó rồi cộng các tử và giữ nguyên mẫu\nLời giải chi tiết\na)     \\(\\frac{-3}{7}\\)+\\(\\frac{2}{7}\\)= \\(\\frac{(-3)+2}{7}\\)= \\(\\frac{-1}{7}\\)\nb)    \\(\\frac{-4}{9}\\)+\\(\\frac{2}{-3}\\)=\\(\\frac{-4}{9}\\)+\\(\\frac{-2}{3}\\)= \\(\\frac{-4}{9}\\)+\\(\\frac{-6}{9}\\)=\\(\\frac{(-4)+(-6)}{9}\\)=\\(\\frac{-10}{9}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na)     \\(\\frac{-5}{9}+\\frac{4}{11}+\\frac{7}{11}\\)\nb)    \\(\\frac{-2}{5}+\\frac{3}{8}+ \\frac{-3}{5}+\\frac{13}{8}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các số hạng có cùng mẫu số\nLời giải chi tiết\na)     \\(\\frac{-5}{9}+\\frac{4}{11}+\\frac{7}{11}\\)=\\(\\frac{-5}{9}+(\\frac{4}{11}+\\frac{7}{11}\\))=\\(\\frac{-5}{9}+\\frac{11}{11}=\\frac{-5}{9}+1=\\frac{-5}{9}+\\frac{9}{9}=\\frac{4}{9}\\)\nb)    \\(\\frac{-2}{5}+\\frac{3}{8}+ \\frac{-3}{5}+\\frac{13}{8}\\)= (\\(\\frac{-2}{5}+\\frac{-3}{5})+ (\\frac{3}{8}+\\frac{13}{8})\\)=\n\\(\\frac{-5}{5}+\\frac{16}{8}\\)= -1 +2 =1"
+    },
+    {
+        "problem": "Tính: \\(\\frac{7}{-10}-\\frac{9}{10}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa 2 phân số về dạng có cùng mẫu số rồi thực hiện phép trừ 2 phân số có cùng mẫu số\nLời giải chi tiết\nTa có:\n\\(\\frac{7}{-10}-\\frac{9}{10}\\)= \\(\\frac{-7}{10}-\\frac{9}{10}\\)= \\(\\frac{-7-9}{10}\\)= \\(\\frac{-16}{10}\\)= \\(\\frac{-8}{5}\\)"
+    },
+    {
+        "problem": "a)Phân số \\(\\frac{2}{5}\\) có phải là số đối của phân số \\(\\frac{-2}{5}\\) không?\nb)Tính và so sánh các kết quả sau: \\(\\frac{-3}{7}\\)- \\(\\frac{2}{-5}\\) và \\(\\frac{-3}{7}\\)+ \\(\\frac{2}{5}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số đối của nhau có tổng là 0\nQuy đồng và cộng, trừ phân số\nLời giải chi tiết\na)       Phân số \\(\\frac{2}{5}\\) là số đối của phân số \\(\\frac{-2}{5}\\) vì \\(\\frac{2}{5}\\)+ \\(\\frac{-2}{5}\\)=0\nb)      Ta có:\n*\\(\\frac{-3}{7}\\)- \\(\\frac{2}{-5}\\)= \\(\\frac{-3}{7}\\)- \\(\\frac{-2}{5}\\)= \\(\\frac{-15}{35}\\)- \\(\\frac{-14}{35}\\)= \\(\\frac{-1}{35}\\)\n* \\(\\frac{-3}{7}\\)+ \\(\\frac{2}{5}\\)= \\(\\frac{-15}{35}\\)+ \\(\\frac{14}{35}\\)=\\(\\frac{-1}{35}\\)\nNhư vậy, \\(\\frac{-3}{7}\\)- \\(\\frac{2}{-5}\\) = \\(\\frac{-3}{7}\\)+ \\(\\frac{2}{5}\\)\n"
+    },
+    {
+        "problem": "Tính:\n\\(\\frac{7}{12}\\)- \\(\\frac{-9}{20}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng về 2 phân số có cùng mẫu\nLời giải chi tiết\n\\(\\frac{7}{12}\\)- \\(\\frac{-9}{20}\\)\n= \\(\\frac{7}{12}\\)+ \\(\\frac{9}{20}\\)\n=\\(\\frac{35}{60}\\)+ \\(\\frac{27}{60}\\)\n=\\(\\frac{35+27}{60}\\)\n=\\(\\frac{62}{60}\\)\n=\\(\\frac{31}{30}\\)"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\n\\(\\frac{-2}{49} – (\\frac{47}{49} + \\frac{5}{-3})\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phá ngoặc, nhóm các phân số có cùng mẫu số\nLời giải chi tiết\nTa có: \\(\\frac{-2}{49} – (\\frac{47}{49} + \\frac{5}{-3})\\)\n= \\(\\frac{-2}{49} – \\frac{47}{49}- \\frac{5}{-3}\\)\n= \\(\\frac{(-2)- 47}{49} + \\frac{5}{3}\\)\n=\\(\\frac{-49}{49} + \\frac{5}{3}\\)\n= \\(-1 + \\frac{5}{3}\\)\n=\\(\\frac{-3}{3} + \\frac{5}{3}\\)\n=\\(\\frac{2}{3}\\)\nLời giải hay"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "Rút gọn các phân số sau :\n\\(\\dfrac{{ - 12}}{{ - 4}}\\);\\(\\dfrac{7}{{ - 35}}\\); \\(\\dfrac{{ - 9}}{{27}}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy cả tử và mẫu của các phân số chia cho ước chung lớn nhất của chúng.\nLời giải chi tiết\n\\(\\dfrac{{ - 12}}{{ - 4}} = \\dfrac{{ - 12:\\left( { - 4} \\right)}}{{\\left( { - 4} \\right):\\left( { - 4} \\right)}} = 3\\)\n\\(\\dfrac{7}{{ - 35}} = \\dfrac{{7:\\left( { - 7} \\right)}}{{ - 35:\\left( { - 7} \\right)}} = \\dfrac{{ - 1}}{5}\\)\n\\(\\dfrac{{ - 9}}{{27}} = \\dfrac{{ - 9:9}}{{27:9}} = \\dfrac{{ - 1}}{3}\\)"
+    },
+    {
+        "problem": "Viết các số đo thời gian sau đây theo đơn vị giờ , dưới dạng phân số tối giản:\n15 phút ; 90 phút\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số phút : 60 = số giờ.\nChia cả tử và mẫu của phân số tìm được cho ước chung lớn nhất của chúng, ta được phân số tối giản.\nLời giải chi tiết\n15 phút = \\(\\dfrac{{15}}{{60}}\\) giờ = \\(\\dfrac{{15:15}}{{60:15}}\\) giờ = \\(\\dfrac{1}{4}\\) giờ\n90 phút =\\(\\dfrac{{90}}{{60}}\\) giờ = \\(\\dfrac{{90:30}}{{60:30}}\\) giờ = \\(\\dfrac{3}{2}\\) giờ."
+    },
+    {
+        "problem": "Một vòi nước chảy vào một bể không có nước, sau 40 phút thì đầy bể. Hỏi sau 10 phút, lượng nước đã chảy chiếm bao nhiêu phần bể ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy 10 chia cho 40\nLời giải chi tiết\nSau 10 phút lượng nước trong bể chiếm số phần là :\n\\(10:40=\\dfrac{{10}}{{40}} = \\dfrac{1}{4}\\) (bể)\nĐáp số : \\(\\dfrac{1}{4}\\) bể."
+    },
+    {
+        "problem": "Hà Linh tham gia một cuộc thi sáng tác và nhận được phần thưởng là số tiền 200.000 đồng. Bạn mua một món quà để tặng sinh nhật mẹ hết 80.000 đồng. Hỏi Hà Linh đã tiêu hết bao nhiêu phần số tiền mình được thưởng ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy 80.000 chia cho 200.000.\nLời giải chi tiết\nHà Linh tiêu hết số phần số tiền mình được thưởng là :\n80000:200000= \\( \\frac {2}{5}\\) (số tiền)\nHà Linh đã tiêu hết \\( \\frac {2}{5}\\) số tiền mình được thưởng."
+    },
+    {
+        "problem": "Em thực hiện các yêu cầu sau để quy đồng mẫu hai phân số \\(\\dfrac{5}{6}\\) và \\(\\dfrac{7}{4}\\).\n+ Tìm bội chung nhỏ nhất của hai mẫu số.\n+ Viết hai phân số mới bằng hai phân số đã cho và có mẫu là số vừa tìm được.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tìm bội chung nhỏ nhất của 6 và 4.\n+ Lấy BCNN vừa tìm được chia cho 6. Lấy cả tử và mẫu của \\(\\dfrac{5}{6}\\) nhân với số đó.\n+ Lấy BCNN vừa tìm được chia cho 4. Lấy cả tử và mẫu của \\(\\dfrac{7}{4}\\) nhân với số đó.\nLời giải chi tiết\n\\(BCNN\\left( {6,4} \\right) = 12\\)\nTa có:\n\\(\\begin{array}{l}12:6 = 2; 12:4 = 3.\\\\\\dfrac{5}{6} = \\dfrac{{5.2}}{{6.2}} = \\dfrac{{10}}{{12}}\\\\\\dfrac{7}{4} = \\dfrac{{7.3}}{{4.3}} = \\dfrac{{21}}{{12}}\\end{array}\\)"
+    },
+    {
+        "problem": "Tương tự HĐ1, em hãy quy đồng mẫu hai phân số \\(\\dfrac{{ - 3}}{5}\\) và \\(\\dfrac{{ - 1}}{2}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tìm bội chung nhỏ nhất của 5 và 2.\n+ Lấy BCNN vừa tìm được chia cho 5 ta được thừa số phụ ứng với phân số thứ nhất. Lấy cả tử và mẫu của \\(\\dfrac{{ - 3}}{5}\\) nhân với thừa số phụ.\n+ Lấy BCNN vừa tìm được chia cho 2 ta được thừa số phụ ứng với phân số thứ hai. Lấy cả tử và mẫu của \\(\\dfrac{{ - 1}}{2}\\) nhân với thừa số phụ.\nLời giải chi tiết\n\\(BCNN\\left( {5,2} \\right) = 10\\)\n\\(\\begin{array}{l}\\dfrac{{ - 3}}{5} = \\dfrac{{ - 3.2}}{{5.2}} = \\dfrac{{ - 6}}{{10}}\\\\\\dfrac{{ - 1}}{2} = \\dfrac{{ - 1.5}}{{2.5}} = \\dfrac{{ - 5}}{{10}}\\end{array}\\)"
+    },
+    {
+        "problem": "Quy đồng mẫu các phân số: \\(\\dfrac{{ - 3}}{4};\\dfrac{5}{9};\\dfrac{2}{3}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để quy đồng mẫu hai hay nhiều phân số có mẫu dương, ta làm như sau:\n+ Tìm một bội chung (thường là BCNN) của các mẫu để làm mẫu chung.\n+ Tìm thừa số phụ của mỗi mẫu bằng cách chia mẫu chung cho từng mẫu.\n+ Nhân tử và mẫu của mỗi phân số với thừa số phụ tương ứng.\nLời giải chi tiết\n\\(BCNN\\left( {4,9,3} \\right) = 36\\)\nThừa số phụ: \\(36:4 = 9;36:9 = 4;36:3 = 12\\)\nTa có :\n\\(\\begin{array}{l}\\dfrac{{ - 3}}{4} = \\dfrac{{ - 3.9}}{{4.9}} = \\dfrac{{ - 27}}{{36}}\\\\\\dfrac{5}{9} = \\dfrac{{5.4}}{{9.4}} = \\dfrac{{20}}{{36}}\\\\\\dfrac{2}{3} = \\dfrac{{2.12}}{{3.12}} = \\dfrac{{24}}{{36}}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Em hãy nhắc lại quy tắc so sánh hai phân số có cùng mẫu (tử và mẫu đều dương), rồi so sánh hai phân số \\(\\dfrac{7}{{11}}\\) và \\(\\dfrac{9}{{11}}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhắc lại quy tắc so sánh hai phân số có cùng mẫu  được học ở cấp 1\n- So sánh tử của 2 phân số rồi kết luận.\nLời giải chi tiết\nQuy tắc:\nTrong hai phân số có cùng mẫu, phân số nào có tử lớn hơn thì lớn hơn.\nSo sánh:\nTa có 7 < 9 nên \\(\\dfrac{7}{{11}} < \\dfrac{9}{{11}}\\)."
+    },
+    {
+        "problem": "So sánh các phân số sau:\na) \\(\\dfrac{7}{{10}}\\) và \\(\\dfrac{{11}}{{15}}\\)\nb) \\(\\dfrac{{ - 1}}{8}\\) và \\(\\dfrac{{ - 5}}{{24}}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn so sánh hai phân số không cùng mẫu, ta viết chúng dưới dạng hai phân số có cùng một mẫu dương rồi so sánh các tử với nhau: Phân số nào có tử lớn hơn thì phân số đó lớn hơn.\nLời giải chi tiết\na)\nTa có: \\(BCNN\\left( {10,15} \\right) = 30\\) nên\n\\(\\begin{array}{l}\\dfrac{7}{{10}} = \\dfrac{{7.3}}{{10.3}} = \\dfrac{{21}}{{30}}\\\\\\dfrac{{11}}{{15}} = \\dfrac{{11.2}}{{15.2}} = \\dfrac{{22}}{{30}}\\end{array}\\)\nVì \\(21 < 22\\) nên \\(\\dfrac{{21}}{{30}} < \\dfrac{{22}}{{30}}\\) do đó \\(\\dfrac{7}{{10}} < \\dfrac{{11}}{{15}}\\).\nb)\nTa có: \\(BCNN\\left( {8,24} \\right) = 24\\) nên\n\\(\\dfrac{{ - 1}}{8} = \\dfrac{{ - 1.3}}{{8.3}} = \\dfrac{{ - 3}}{{24}}\\)\nVì \\( - 3 >  - 5\\) nên \\(\\dfrac{{ - 3}}{{24}} > \\dfrac{{ - 5}}{{24}}\\) do đó \\(\\dfrac{{ - 1}}{8} > \\dfrac{{ - 5}}{{24}}\\)."
+    },
+    {
+        "problem": "Tròn nói mỗi bạn được 1 cái bánh và \\(\\dfrac{1}{2}\\) cái bánh. Em có đồng ý với Tròn không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm cách chia để kiểm tra ý kiến của Tròn.\nLời giải chi tiết\nChia đều 3 cái bánh cho 2 bạn ta chia như sau: 2 cái bánh đầu ta phân cho mỗi bạn 1 cái.\nCòn thừa 1 cái bánh ta chia đôi, mỗi bạn thêm \\(\\dfrac{1}{2}\\) cái bánh. Vậy bạn Tròn đúng."
+    },
+    {
+        "problem": "\\(2\\dfrac{5}{4}\\) có là một hỗn số không? Vì sao?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phần phân số của hỗn số luôn nhỏ hơn 1.\nLời giải chi tiết\nPhần phân số là \\(\\dfrac{5}{4} > \\dfrac{4}{4} = 1\\) nên \\(2\\dfrac{5}{4}\\) không là một hỗn số."
+    },
+    {
+        "problem": "a) Viết phân số \\(\\dfrac{{24}}{7}\\) dưới dạng hỗn số.\nb) Viết hỗn số \\(5\\dfrac{2}{3}\\) dưới dạng phân số.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chia 24 cho 7.\nPhần nguyên của hỗn số là thương của phép chia.\nPhần phân số của hỗn số có tử là phần dư và mẫu là 7.\nb) \\(a \\dfrac{b}{c} = \\dfrac{a.c+b}{c}\\)\nLời giải chi tiết\na) Ta có: 24 chia cho 7 được thương là 3 và dư là 3.\nNhư vậy, \\(\\dfrac{{24}}{7} = 3 + \\dfrac{3}{7} = 3\\dfrac{3}{7}\\)\nb) \\(5\\dfrac{2}{3} = \\dfrac{{5.3 + 2}}{3} = \\dfrac{{17}}{3}\\)"
+    }
+]

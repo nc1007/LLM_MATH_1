@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Apple là thương hiệu toàn cầu đứng đầu thế giới liên tục từ năm 2013 đến năm 2019. Giá trị thương hiệu của Apple năm 2013 là 96,316 tỉ USD, sau 6 năm, đến năm 2019 giá trị thương hiệu Apple được định giá tới 234,241 tỉ USD.\na)     Tính xem giá trị thương hiệu Apple năm 2019 bằng bao nhiêu phần trăm giá trị thương hiệu Apple năm 2013 (sử dụng máy tính cầm tay rồi làm tròn kết quả đến chữ số thập phân thứ nhất)\nb)    Biết giá trị thương hiệu Apple năm 2019 tăng 9% so với năm 2018. Giá trị thương hiệu Apple năm 2018 là bao nhiêu tỉ USD?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)     Tính tỉ số phần trăm giá trị thương hiệu Apple năm 2019 so với giá trị thương hiệu Apple năm 2013.\nb)    + Tính tỉ số phần trăm của trị thương hiệu Apple năm 2019 so với năm 2018.\n+ Tính giá trị thương hiệu Apple năm 2018\nLời giải chi tiết\na)     Tỉ số phần trăm giá trị thương hiệu Apple năm 2019 so với giá trị thương hiệu Apple năm 2013 là:\n\\(\\frac{{234,241}}{{96,316}}.100\\%  = 243,2005\\)%\nLàm tròn đến chữ số thập phân thứ nhất, ta được: 243,2%\nb)    Giá trị thương hiệu Apple năm 2019 bằng 109% năm 2018\nGiá trị thương hiệu Apple năm 2018 là:\n234,241 : \\(\\frac{{109}}{{100}}\\) = 214,9 (tỉ USD)"
+    },
+    {
+        "problem": "Tổng sản lượng gạo xuất khẩu của Việt Nam trong các năm 2017, 2018, 2019 lần lượt là khoảng 5,82 triệu tấn; 6,12 triệu tấn và 6,37 triệu tấn. Em hãy cho biết tổng sản lượng gạo xuất khẩu của Việt Nam trong năm 2019 tăng bao nhiêu phần trăm so với năm 2018 và so với năm 2017 (làm tròn kết quả đến hàng phần mười)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tỉ số phần trăm sản lượng gạo xuất khẩu của Việt Nam trong năm 2019 so với năm 2018 và 2017\nLời giải chi tiết\nTỉ số phần trăm sản lượng gạo xuất khẩu của Việt Nam trong năm 2019 so với năm 2018 là:\n\\(\\frac{{6,37}}{{6,12}}.100\\%  = 104,1\\% \\)\nNên tổng sản lượng gạo xuất khẩu của Việt Nam trong năm 2019 tăng 4,1% so với năm 2018\nTỉ số phần trăm sản lượng gạo xuất khẩu của Việt Nam trong năm 2019 so với năm 2017 là:\n\\(\\frac{{6,37}}{{5,82}}.100\\%  = 109,5\\)%\nNên tổng sản lượng gạo xuất khẩu của Việt Nam trong năm 2019 tăng 9,5% so với năm 2017\n"
+    },
+    {
+        "problem": "Thay mỗi chữ cái bằng chữ số thích hợp để nhận được phép trừ đúng.\n\\(\\overline {d5,2c}  - \\overline {8a,ba}  = \\overline {c2,5d} \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa phép tính về dạng tổng của 2 số tự nhiên, nhận xét về giá trị có thể được ở mỗi hàng\nLời giải chi tiết\nVì số chữ số ở phần thập phân là như nhau nên ta có thể bỏ đi dấu phẩy và đưa bài toán trở thành:\n\\(\\overline {d52c}  - \\overline {8aba}  = \\overline {c25d} \\) hay \\(\\overline {c25d}  + \\overline {8aba}  = \\overline {d52c} \\)(\\(a,b,c,d \\in N;0 < c,d \\le 9;0 \\le a,b \\le 9\\))\nVế phải phải nhỏ hơn 10000 nên c < 2\nTa được c = 1\nSuy ra d = 9\nTa có: \\(\\overline {1259}  + \\overline {8aba}  = 9521\\)\nVì 9 + a có tận cùng là 1 nên a = 2\nTa được 5 + b( nhớ 1) có tận cùng là 2 nên b =7\nVậy phép trừ đúng là: 95,21 – 82,62 = 12,59.\n"
+    }
+]

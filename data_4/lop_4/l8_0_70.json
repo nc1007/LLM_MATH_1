@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Thương của phép chia số tự nhiên cho số tự nhiên (khác 0) có thể viết thành một phân số, tử số là …, mẫu số là … \nCác cụm từ còn thiếu điền vào chỗ chấm từ trái sang phải lần lượt là:\nA.\tSố chia; số bị chia\nB.\tSố bị chia; số chia\nC.\tSố chia; thương\nD.\tSố bị chia; thương",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thương của phép chia số tự nhiên cho số tự nhiên (khác 0) có thể viết thành một phân số, tử số là số bị chia, mẫu số là số chia.\nVậy cụm từ còn thiếu điền vào ô trống lần lượt là số bị chia; số chia."
+    },
+    {
+        "problem": "Câu 2: Con hãy chọn đáp án đúng nhất:\nA.\tPhân số có tử số lớn hơn mẫu số thì phân số đó lớn hơn 1\nB.\tPhân số có tử số bằng mẫu số thì phân số đó bằng 1\nC.\tPhân số có tử số bé hơn mẫu số thì phân số đó bé hơn 1\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phân số có tử số lớn hơn mẫu số thì phân số đó lớn hơn 1.\n- Phân số có tử số bằng mẫu số thì phân số đó bằng 1.\n- Phân số có tử số bé hơn mẫu số thì phân số đó bé hơn 1.\nVậy tất cả các đáp án A, B, C đều đúng."
+    }
+]

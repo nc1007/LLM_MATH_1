@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "B. Tia nằm phía ngoài góc và tạo với hai cạnh của góc đó hai góc bằng nhau; \nC. Tia nằm trong góc và tạo với hai cạnh của góc đó hai góc không bằng nhau; \nD. Tia nằm phía ngoài góc và tạo với hai cạnh của góc đó hai góc không bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTia phân giác của một góc là tia nằm trong góc và tạo với hai cạnh của góc đó hai góc bằng nhau."
+    },
+    {
+        "problem": "Câu 2. Chọn phát biểu sai trong các phát biểu sau:\nA. Nếu tia Ot là tia phân giác của xOy^ thì tia Ot nằm giữa hai tia Ox, Oy; \nB.Nếu tia Ot là tia phân giác của xOy^ thì xOt^=yOt^=\\frac{xOy^}{2};\nC.Nếu xOt^=yOt^ thì tia Ot là tia phân giác của xOy^; \nD. Nếu xOt^=yOt^ và tia Ot nằm giữa hai tia Ox, Oy thì tia Ot là tia phân giác của xOy^.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTia phân giác của một góc là tia nằm trong góc và tạo với hai cạnh của góc đó hai góc bằng nhau."
+    },
+    {
+        "problem": "Câu 5. Thế nào là tia phân giác của một góc?\nA. Tia phân giác của một góc là tia nằm trong góc và tạo với hai cạnh của góc đó hai góc bằng nhau; \nB. Tia phân giác của một góc là tia nằm trong góc và tạo với hai cạnh của góc đó hai góc không bằng nhau; \nC. Tia phân giác của một góc là tia nằm ngoài góc và tạo với hai cạnh của góc đó hai góc bằng nhau; \nD. Tia phân giác của một góc là tia nằm ngoài góc và tạo với hai cạnh của góc đó hai góc không bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTia phân giác của một góc là tia nằm trong góc và tạo với hai cạnh của góc đó hai góc bằng nhau."
+    },
+    {
+        "problem": "Câu 6. Cho HOK^=90° và vẽ tia OI sao cho tia OK là tia phân giác của góc HOI. Khi đó góc HOI là:\nA. góc vuông; \nB. góc nhọn; \nC. góc tù; \nD. góc bẹt.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: OK là tia phân giác của góc HOI ⇒HOK^=KOI^=90°\n⇒HOI^=HOK^+KOI^=90°+90°=180°\nVậy góc HOI là góc bẹt."
+    },
+    {
+        "problem": "Câu 7. Cho xOy^=120°, tia Ot là tia phân giác của góc xOy. Số đo góc xOt là:\nA.120°;\nB. 80°; \nC. 60°; \nD.150°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có Ot là tia phân giác góc xOy ⇒xOt^=yOt^=\\frac{xOy^}{2}=\\frac{120°}{2}=60°."
+    },
+    {
+        "problem": "Câu 8. Cho tia Oz nằm trong góc xOy, xOz^=yOz^ thì \nA. Oz là tia phân giác của góc xOy; \nB. Oz là tia nằm phía trong của góc xOy; \nC. Oz là tia nằm phía ngoài của góc xOy; \nD. Oz là tia nằm giữa hai cạnh Ox và Oy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTia phân giác của một góc là tia nằm trong góc và tạo với hai cạnh của góc đó hai góc bằng nhau."
+    },
+    {
+        "problem": "Câu 11. Điền nội dung thích hợp vào chỗ trống.\n“Đường thẳng chứa tia phân giác của một góc là ….”\nA. đường đi qua góc đó; \nB. trục đối xứng của góc đó; \nC. đường nằm trong góc đó; \nD. trục cố định của góc đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐường thẳng chứa tia phân giác của một góc là trục đối xứng của góc đó."
+    },
+    {
+        "problem": "Câu 14. Cho aOb^=80°, Ot là tia phân giác góc aOb. Số đo góc aOt là:\nA. 44°; \nB. 40°; \nC. 60°; \nD. 64°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: Ot là tia phân giác góc aOb nên ⇒aOt^=bOt^=\\frac{aOb^}{2}=\\frac{80°}{2}=40°.\nVậy số đo của góc aOt là 40°."
+    },
+    {
+        "problem": "Câu 15. Cho tia At là tia phân giác của góc xAy thì ta có:\nA. xAt^=yAt^; \nB. xAt^+yAt^=180°; \nC. xAt^−yAt^=180°; \nD. xAt^≠yAt^.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTia phân giác của một góc là tia nằm trong góc và tạo với hai cạnh của góc đó hai góc bằng nhau.\nDo đó tia At là tia phân giác của góc xAy thì ta có: xAt^=yAt^."
+    }
+]

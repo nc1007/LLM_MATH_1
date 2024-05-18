@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Tính một cách hợp lí:\na) 51 + (- 97) + 49\nb) 65 + (- 42) + (-65).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các tính chất của phép cộng các số nguyên:\nGiao hoán: a+b=b+a\nKết hợp: (a+b)+c=a+(b+c)\nCộng với số 0: a+0=0+a=a\nCộng với số đối: a+(-a)=(-a)+a=0.\nLời giải chi tiết\na) 51 + (- 97) + 49 = (51 + 49) +(-97) = 100 + (-97) = 100 - 97 = 3\nb) 65 + (- 42) + (-65) = [65 + (-65)] + (- 42)\n= - 42+0 = -  42\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) (- 48) + (- 67);\nb) (- 79) + (- 45).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng hai số nguyên âm:\nBước 1. Bỏ dấu “ – ” trước mỗi số.\nBước 2. Tính tổng của hai số nguyên dương nhận được ở Bước 1.\nBước 3. Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tổng cần tìm.\nLời giải chi tiết\na) (- 48) + (- 67) = - (48 + 67) = - 115\nb) (- 79) + (- 45) = - (79 + 45) = - 124\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các phát biểu sau đây, phát biểu nào đúng, phát biểu nào sai? Giải thích.\na) Tổng của hai số nguyên dương là số nguyên dương;\nb) Tổng của hai số nguyên âm là số nguyên âm;\nc) Tổng của hai số nguyên cùng dấu là số nguyên dương.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc và xác định tính đúng sai trong các phát biểu, nếu sai hãy giải thích tại sao.\nLời giải chi tiết\na) Đúng\nb) Đúng\nc) Sai. Vì tổng của hai số nguyên âm là số nguyên âm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) (- 2018) + 2018;\nb) 57 + (- 93);\nc) (- 38) + 46.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng hai số nguyên khác dấu:\nBước 1. Bỏ dấu “ – ” trước số nguyên âm, số còn lại giữ nguyên.\nBước 2. Trong hai số nguyên dương nhận được ở Bước 1, ta lấy số lớn hơn trừ đi số nhỏ hơn.\nBước 3. Cho hiệu vừa nhận được dấu ban đầu của số lớn hơn ở Bước 2, ta có tổng cần tìm.\nLời giải chi tiết\na) (- 2018) + 2018 = - (2018 – 2018) = 0\nb) 57 + (- 93) = -(93 – 57) = -36\nc) (- 38) + 46 = 46 – 38 = 8."
+    },
+    {
+        "problem": "Cho ví dụ về phép cộng của hai số nguyên khác dấu sao cho:\na) Tổng của chúng là số nguyên dương;\nb) Tổng của chúng là số nguyên âm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số nguyên âm sau khi bỏ đi dấu trừ nhỏ hơn số nguyên dương.\nb) Số nguyên âm sau khi bỏ đi dấu trừ lớn hơn số nguyên dương.\nLời giải chi tiết\na) Ví dụ:\n(-5) + 6 = 1\n4 + (- 2) = 2\nb) Ví dụ:\n(- 8) + 3 = (-5)\n(- 22) + 15 =(- 7).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 48 + (- 66) + (- 34);\nb) 2896 + (- 2021) + (- 2896).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Kết hợp tính (- 66) + (- 34).\n- Lấy 48 cộng với kết quả nhận được.\nb)\n- Giao hoán: Đổi vị trí của 2896 và (-2021).\n- Cộng hai số đối nhau: 2896 + (- 2896).\n- Lấy (- 2021) cộng với kết quả nhận được.\nLời giải chi tiết\na) 48 + (- 66) + (- 34) = 48 + [(- 66) + (- 34)]\n= 48+[ – (66 + 34) ]\n= 48 +(– 100)\n= - (100-48)\n= - 52.\nb) 2896 + (- 2021) + (- 2896)\n= (- 2021) + [2896 + (- 2896)]\n= (- 2021) + (2896 – 2896)\n= (- 2021) + 0\n= - 2021\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nhiệt độ ở thủ đô Ôt-ta-oa, Ca-na-đa (Ottawa, Canada) lúc 7 giờ là \\( - 4^\\circ C\\), đến 10 giờ tăng thêm \\(6^\\circ C\\). Nhiệt độ ở Ôt-ta-oa lúc 10 giờ là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhiệt độ tăng thêm là phép cộng.\n- Nhiệt độ 10h = ( Nhiệt độ lúc 7h ) + \\(6^\\circ C\\).\n- Sử dụng phương pháp cộng hai số nguyên khác dấu.\nLời giải chi tiết\nNhiệt độ ở Ôt-ta-oa lúc 10 giờ là:\n\\(\\left( { - 4} \\right) + 6 = 6 - 4 = 2\\left( {^\\circ C} \\right)\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một cửa hàng kinh doanh có lợi nhuận như sau: tháng đầu tiên là – 10 000 000 đồng; tháng thứ 2 là 30 000 000 đồng. Tính lợi nhuận của cửa hàng sau hai tháng đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Lợi nhuận 2 tháng = tháng 1+ tháng 2.\n- Sử dụng phương pháp cộng hai số nguyên khác dấu.\nLời giải chi tiết\nLợi nhuận của cửa hàng sau hai tháng là:\n(– 10 000 000) + 30 000 000 = 20 000 000 đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính và so sánh kết quả: \\(7 - 2\\) và \\(7 + \\left( { - 2} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện các phép tính và so sánh các kết quả.\nLời giải chi tiết\n7 – 2 = 5\n7 + ( - 2) = 7-2=5\nVậy: 7 – 2 = 7 + (- 2)"
+    },
+    {
+        "problem": "Nhiệt độ lúc 17 giờ là \\(5^\\circ C\\), đến 21 giờ nhiệt độ giảm đi \\(6^\\circ C\\). Viết phép tính và tính nhiệt độ lúc 21 giờ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhiệt độ giảm: Phép trừ.\n- Quy tắc phép trừ: \\(a - b = a + \\left( { - b} \\right)\\).\nLời giải chi tiết\nNhiệt độ lúc 21 giờ giảm đi \\(6^\\circ C\\) nên còn: \\(5 - 6 = 5 + \\left( { - 6} \\right) =  - \\left( {6 - 5} \\right) =  - 1\\left( {^\\circ C} \\right)\\).\nVậy nhiệt độ lúc 21 giờ là \\( - 1^\\circ C\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính và so sánh kết quả trong mỗi trường hợp sau:\na) 5 + (8 + 3) và 5 + 8 + 3.\nb) 8 + (10 – 5) và 8 + 10 – 5.\nc) 12 – (2 + 16) và 12 – 2 + 16.\nd) 18 – (5 – 15) và 18 – 5 + 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính và so sánh kết quả\nLời giải chi tiết\na) 5 + (8 + 3) = 5 + 11 = 16.\n5 + 8 + 3 = 13 + 3 = 16.\nVậy 5 + (8 + 3) = 5 + 8 + 3.\nb) 8 + (10 – 5) = 8 + 5 = 13.\n8 + 10 – 5 = 18 – 5 = 13.\nVậy 8 + (10 – 5) = 8 + 10 – 5.\nc) 12 – (2 + 16) = 12 – 18 = – (18 – 12)= – 6.\n12 – 2 + 16 = 10 + 16 = 26.\nVậy 12 – (2 + 16) ≠ 12 – 2 + 16.\nd) 18 – (5 – 15) = 18 - 5 + 15 = 18 + 10 = 28.\n18 – 5 + 15 = 13 + 15 = 28.\nVậy 18 – (5 – 15) = 18 – 5 + 15.\n"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) (- 215) + 63 + 37\nb) (- 147) – (13 - 47).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Tính tổng 63 + 37 trước.\n- Sử dụng quy tắc cộng hai số nguyên trái dấu.\nb)\n– Bỏ dấu ngoặc: Trước dấu ngoặc có dấu “–” , ta đổi dấu của số hạng trong ngoặc: dấu “+” thành dấu “– ” và ngược lại.\n– Trừ số nguyên: \\(a + b = a + \\left( { - b} \\right)\\)\nLời giải chi tiết\na) (– 215) + 63 + 37\n= (– 215) + (63 + 37)\n= (– 215) + 100\n= – (215–100)\n= – 115.\nb) (– 147) – (13 – 47)\n= (– 147) – 13 + 47\n= [(– 147) + 47] – 13\n= – (147 – 47) – 13\n= – 100 – 13\n= – (100 + 13)\n= – 113\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\(\\left( { - 10} \\right) - 21 - 18\\)\nb) \\(24 - \\left( { - 16} \\right) + \\left( { - 15} \\right)\\)\nc) \\(49 - \\left[ {15 + \\left( { - 6} \\right)} \\right]\\)\nd) \\(\\left( { - 44} \\right) - \\left[ {\\left( { - 14} \\right) - 30} \\right]\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "– Bỏ dấu ngoặc: Trước dấu ngoặc có dấu “–” , ta đổi dấu của số hạng trong ngoặc: dấu “+” thành dấu “– ” và ngược lại.\n– Trừ số nguyên: \\(a + b = a + \\left( { - b} \\right)\\)\nLời giải chi tiết\na) \\(\\left( { - 10} \\right) - 21 - 18\\)\n\\(\\begin{array}{l} = \\left( { - 10} \\right) + \\left( { - 21} \\right) - 18\\\\ =  - \\left( {10 + 21} \\right) +(-18)\\\\ = \\left( { - 31} \\right) +(-18)\\\\ =  - \\left( {31 + 18} \\right)\\\\ =  - 49\\end{array}\\)\nb) \\(24 - \\left( { - 16} \\right) + \\left( { - 15} \\right)\\)\n\\(\\begin{array}{l} = 24 + 16 + \\left( { - 15} \\right)\\\\ = \\left( {24 + 16} \\right) + \\left( { - 15} \\right)\\\\ = 40 + \\left( { - 15} \\right)\\\\ = 40 - 15\\\\ = 25\\end{array}\\)\nc) \\(49 - \\left[ {15 + \\left( { - 6} \\right)} \\right]\\)\n\\(\\begin{array}{l} = 49 - \\left[ {15 - 6} \\right]\\\\ = 49 - 9\\\\ = 40\\end{array}\\)\nd) \\(\\left( { - 44} \\right) - \\left[ {\\left( { - 14} \\right) - 30} \\right]\\)\n\\(\\begin{array}{l} = \\left( { - 44} \\right) + 14 + 30\\\\ =  - \\left( {44 - 14} \\right) + 30\\\\ =  - 30 + 30\\\\ = 0\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) \\(10 - 12 - 8\\).\nb) \\(4 - \\left( { - 15} \\right) - 5 + 6\\).\nc) \\(2 - 12 - 4 - 6\\).\nd)\\( - 45 - 5 - \\left( { - 12} \\right) + 8\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Đưa 12 và 8 vào trong ngoặc rồi đặt dấu “ – ” trước dấu ngoặc.\n- Tính tổng trong ngoặc.\n- Lấy 10 trừ đi kết quả trong ngoặc.\nb)\n- Nhóm 4 và 6, số \\( - \\left( { - 15} \\right)\\) và \\( - 5\\) có dấu “ – ”  ngoài cùng nên ta đặt dấu “ – ”  ra ngoài và đổi dấu của \\( - \\left( { - 15} \\right)\\) và \\( - 5\\) thành \\( + \\left( { - 15} \\right)\\) và \\( + 5\\).\n- Lưu ý: \\( + \\left( { - 15} \\right) = \\left( { - 15} \\right)\\).\n- Trừ cho một số nguyên là cộng với số đối của số nguyên đó.\nc)\n- Nhóm 2 và \\( - 12\\) vào trong ngoặc, số \\( - 4\\) và \\( - 6\\) có dấu “ – ”  ngoài cùng nên ta đặt dấu “ – ”  ra ngoài và đổi dấu của  \\( - 4\\) và \\( - 6\\) thành \\(4\\) và \\( + 6\\).\n- Trừ cho một số nguyên là cộng với số đối của số nguyên đó.\nd)\n- Nhóm \\( - 45\\) và \\( - 5\\)\n- Đổi dấu: \\( - \\left( { - 12} \\right) =  + 12\\).\n- Nhóm \\(12 + 8\\).\n- Sử dụng quy tắc cộng hai số nguyên khác dấu.\nLời giải chi tiết\na) \\(10 - 12 - 8\\)\n\\(\\begin{array}{l} = 10 - \\left( {12 + 8} \\right)\\\\ = 10 - 20\\\\ =  - \\left( {20 - 10} \\right)\\\\ =  - 10\\end{array}\\)\nb) \\(4 - \\left( { - 15} \\right) - 5 + 6\\)\n\\(= 4 + 15 -5 + 6\\\\ = (4+6) + (15 - 5)\\\\=10+10 = 20\\)\nc) \\(2 - 12 - 4 - 6\\)\n\\(\\begin{array}{l} = \\left( {2 - 12} \\right) - \\left( {4 + 6} \\right)\\\\ =  - 10 - 10\\\\  =  - \\left( {10 + 10} \\right)\\\\ =  - 20\\end{array}\\)\nd)\\( - 45 - 5 - \\left( { - 12} \\right) + 8\\)\n\\(\\begin{array}{l} =  - \\left( {45 + 5} \\right) + 12 + 8\\\\ =  - 50 + \\left( {12 + 8} \\right)\\\\ =  - 50 + 20\\\\ =  - \\left( {50 - 20} \\right)\\\\ =  - 30\\end{array}\\)"
+    }
+]

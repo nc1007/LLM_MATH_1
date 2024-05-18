@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Bài 4: Phương trình - |x – 2| + 3 = 0 có nghiệm là:\nA. x = -1, x = -5\nB. x = 1, x = -5\nC. x = -1, x = 5\nD. x = 1, x = 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTH1: x – 2 ≥ 0 ⇔ x ≥ 2, khi đó |x – 2| = x – 2, phương trình trở thành:\n- (x – 2) + 3 = 0 ⇔ -x + 5 = 0 ⇔ x = 5 (TM)\nTH2: x – 2 < 0 ⇔ x < 2 thì |x – 2| = -(x – 2), phương trình trở thành:\n-[-(x – 2)] + 3 = 0 ⇔ x – 2 + 3 = 0\n⇔ x + 1  = 0 ⇔ x = -1 (TM)\nVậy phương trình đã cho có 2 nghiệm phân biệt x = -1, x = 5\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 8: Số nghiệm của phương trình 2|x – 3| + x = 3 là:\nA. 1\nB. 2\nC. 0\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTH1: |x – 3| = x – 3 khi x – 3 ≥ 0 ⇔ x ≥ 3\nPhương trình đã cho trở thành 2(x – 3) + x = 3\n⇔ 2x – 6 + x – 3 = 0\n⇔ 3x – 9 = 0  ⇔ x = 3 (TM)\nTH2: |x – 3| = -(x – 3) khi x – 3< 0 ⇔ x < 3\nPhương trình đã cho trở thành -2(x – 3) + x = 3\n⇔-x = -3 ⇔ x = 3 (TM)\nVậy phương trình có một nghiệm x = 3\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 9: Phương trình nào sau đây vô nghiệm?\nA. |x – 1| = 1\nB. |x| = -9\nC. |x + 3| = 0\nD. |2x| = 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+) Xét |x – 1| = 1\nTH1: |x – 1| = x – 1 khi x ≥ 1, nên ta có phương trình x – 1 = 1 ⇔ x = 2 (TM)\nTH2: |x – 1| = 1 – x khi x < 1 nên ta có phương trình 1 – x = 1 ⇔ x = 0 (TM)\nVậy S = {0; 2}\n+) Xét |x + 3| = 0 ⇔ x + 3 = 0 ⇒ x = -3 nên S = {-3}\n+) Xét |2x| = 10\nTH1: |2x| = 2x khi x ≥ 0 nên ta có phương trình 2x = 10 ⇒ x = 5 (TM)\nTH2: |2x| = -2x khi x < 0 nên ta có phương trình -2x = 10 ⇔ x = -5 (TM)\nVậy S = {5; -5}\n+) Xét |x| = -9\nThấy rằng |x| ≥ 0; Ɐx mà -9 < 0 nên |x| > -9 với mọi x. Hay phương trình |x| = -9 vô nghiệm.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 10: Phương trình nào sau đây vô nghiệm?\nA. -|x + 1| = 1\nB. |x| = 9\nC. 3|x – 1| = 0\nD. || = 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐáp án A: -|x + 1| = 1 ⇔ |x + 1| = -1\nVì -1 < 0 và |x + 1| ≥ 0 nên phương trình -|x + 1| = 1 vô nghiệm.\nNgoài ra, có thể kết luận được các phương trình còn lại đều có nghiệm.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 11: Cho các khẳng định sau:\n(1) |x – 3| = 1 chỉ có một nghiệm là x = 2\n(2) x = 4 là nghiệm của phương trình |x – 3| = 1\n(3) |x – 3| = 1 có hai nghiệm là x = 2 và x = 4\nCác khẳng định đúng là:\nA. (1); (3)\nB. (2); (3)\nC. Chỉ (3)\nD. Chỉ (2)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét phương trình |x – 3| = 1\nTH1: |x – 3| = x – 3 khi x – 3 ≥ 0 ⇔ x ≥ 3\nPhương trình đã cho trở thành x – 3 = 1 ⇔ x = 4 (TM)\nTH2: |x – 3| = 3 – x khi x – 3 < 0 ⇔ x < 3\nPhương trình đã cho trở thanh 3 – x = 1 ⇔ x = 2 (TM)\nVậy phương trình |x – 3| = 1 có hai nghiệm x = 2 và x = 4\nNên x = 4 là nghiệm của phương trình |x – 3| = 1\nKhẳng định đúng là (2) và (3)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 12: Cho các khẳng định sau:\n(1) Phương trình |x – 3| = 1 chỉ có một nghiệm là x = 2\n(2) Phương trình |x – 1| = 0 có 2 nghiệm phân biệt\n(3) Phương trình |x – 3| = 1 có hai nghiệm phân biệt là x = 2 và x = 4\nSố khẳng định đúng là:\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét phương trình |x – 3| = 1\nTH1: |x – 3| = x – 3 khi x – 3 ≥ 0 ⇔ x ≥ 3\nPhương trình đã cho trở thành x – 3 = 1 ⇔ x = 4 (TM)\nTH2: |x – 3| = 3 – x khi x – 3 < 0 ⇔ x < 3\nPhương trình đã cho trở thanh 3 – x = 1 ⇔ x = 2 (TM)\nVậy phương trình |x – 3| = 1 có hai nghiệm x = 2 và x = 4 hay (1) sai và (3) đúng\n|x – 1| = 0 ⇔ x – 1 = 0  ⇔ x = 1 nên phương trình |x – 1| = 0 có nghiệm duy nhất hay (2) sai.\nVậy có 1 khẳng định đúng\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 18: Nghiệm lớn nhất của phương trình 5 - |2x| = -3x là:\nA. -5\nB. -1\nC. 0\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTH1: |2x| = 2x khi 2x ≥ 0 ⇔ x ≥ 0\nPhương trình đã cho trở thành 5 – 2x = -3x ⇔ 5 = -3x + 2x\n⇔ x = -5 (KTM)\nTH2: |2x| = -2x khi 2x < 0 ⇔ x < 0\nPhương trình đã cho trở thành 5 + 2x = -3x ⇔ 5 = -5x ⇔ x = -1 (TM)\nVậy phương trình có nghiệm duy nhất x = -1\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 23: Tập nghiệm của bất phương trình |1 – x| ≥ 3 là:\nA. x ≥ 4, x ≤ -2\nB. -2 ≤ x ≤ 4\nC. x ≤ -2, x ≤ 4\nD. x ≤ 4, x ≥ -2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTH1: |1 – x| = 1 – x với 1 – x ≥ 0 ⇔ x ≤ 1\nBất phương trình đã cho trở thành\n1 – x ≥ 3 ⇔ x ≤ -2, kết hợp điều kiện x ≤ 1 ta có x ≤ -2\nTH2: |1 – x| = x – 1 với 1 – x < 0 ⇔ x > 1\nBất phương trình đã cho trở thành\nx – 1 ≥ 3 ⇔ x ≥ 4, kết hợp điều kiện x > 1 ta có x ≥ 4\nVậy bất phương trình có nghiệm x ≥ 4, x ≤ -2\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 26: Số nguyên dương nhỏ nhất thỏa mãn bất phương trình |-x + 2| + 5 ≥ x – 2 là\nA.  x = 1\nB. x = 5\nC. x = 6\nD. Không có",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTH1: -x + 2 ≥ 0 ⇔ x ≤ 2 thì |-x + 2| = -x + 2. Khi đó:\n(-x + 2) + 5 ≥ x – 2 ⇔ -x + 7 – x + 2 ≥ 2\n⇔ -2x + 9 ≥ 0 ⇔ x ≤  \nKết hợp với x ≤ 2 ta được x ≤ 2\nTH2: -x + 2 < 0 ⇔ x > 2 thì |-x + 2| = x – 2. Khi đó\nx – 2 + 5 ≥ x – 2 ⇔ 5 > 0 (luôn đúng)\nDo đó x > 2 luôn là nghiệm của bất phương trình\nVậy từ hai trường hợp ta thấy bất phương trình nghiệm đúng với mọi x Є R\nNghiệm nguyên dương nhỏ nhất thỏa mãn bất phương trình là x = 1\nĐáp án cần chọn là: A"
+    }
+]

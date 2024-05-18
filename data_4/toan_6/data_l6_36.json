@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Câu 1. Chọn câu sai. Viết dưới dạng tỉ số của hai số tự nhiên.\nA.\\frac{2\\frac{11}{12}}{6\\frac{1}{8}}=\\frac{10}{21}\nB.66\\frac{2}{3}%=\\frac{11}{25}\nC.0,72:2,7=\\frac{4}{15}\nD.0,075:5%=\\frac{3}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \\frac{2\\frac{11}{12}}{6\\frac{1}{8}}=2\\frac{11}{12}:6\\frac{1}{8}=\\frac{35}{12}:\\frac{49}{8}=\\frac{35}{12}.\\frac{8}{49}=\\frac{10}{21} nên A đúng.\nĐáp án B: 66\\frac{2}{3}%=\\frac{200}{3}:100=\\frac{200}{3}.\\frac{1}{100}=\\frac{2}{3} nên B sai.\nĐáp án C: 0,72:2,7=\\frac{72}{100}:\\frac{27}{10}=\\frac{18}{25}.\\frac{10}{27}=\\frac{4}{15} nên C đúng\nĐáp án D: 0,075:5%=\\frac{75}{1000}:\\frac{5}{100}=\\frac{75}{1000}.\\frac{100}{5}=\\frac{3}{2} nên D đúng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Tìm một số biết \\frac{3}{5}% của nó bằng 00,3.\nA. 100 \nB. 60  \nC. 30 \nD. 50",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi \\frac{3}{5}%=\\frac{3}{5}:100=\\frac{3}{500}\nSố đó là: 0,3:\\frac{3}{500}=\\frac{3}{10}.\\frac{500}{3}=50\nVậy số cần tìm là 50\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Tỉ số giữa học sinh nam và học sinh nữ là 80%. Tìm số học sinh nam, biết lớp 6A có 36 học sinh?\nA. 20 học sinh.\nB. 17 học sinh.\nC. 19 học sinh.\nD. 16 học sinh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 80%=\\frac{4}{5}, tức là số học sinh nam bằng \\frac{4}{5} số học sinh nữ.\nTổng số phần là:  4 + 5 = 9 (phần)\nLớp 6A có số học sinh nam là: \n36 : 9.4 = 16 (học sinh)\nVậy lớp có 16 học sinh nam.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Hiệu của hai số là 21. Biết 37,5% số lớn bằng 0,6 số nhỏ. Hai số đó là\nA. 56; 35\nB. 45; 56                     \nC. 60; 39\nD. 56; 45",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 37,5%=\\frac{3}{8};0,6=\\frac{3}{5}\nTỉ số giữa số lớn và số nhỏ là: \\frac{3}{5}:\\frac{3}{8}=\\frac{8}{5}\nHiệu số phần bằng nhau là: \n8 – 5 = 3 (phần)\nSố lớn là: 21:3 × 8 = 56\nSố nhỏ là: 56 – 21 = 35\nVậy hai số đó là 56; 35\nĐáp án cần chọn là:"
+    },
+    {
+        "problem": "Câu 5. Sắp xếp theo thứ tự tăng dần 23%;\\frac{12}{100};−1\\frac{1}{12};−\\frac{31}{24};5\\frac{1}{2} ta được:\nA.−\\frac{31}{24}<−1\\frac{1}{12}<\\frac{12}{100}<5\\frac{1}{2}<23%\nB.−\\frac{31}{24}<−1\\frac{1}{12}<23%<\\frac{12}{100}<5\\frac{1}{2}\nC.−\\frac{31}{24}<−1\\frac{1}{12}<\\frac{12}{100}<23%<5\\frac{1}{2}\nD.−1\\frac{1}{12}<−\\frac{31}{24}<\\frac{12}{100}<23%<5\\frac{1}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:23%=\\frac{23}{100};−1\\frac{1}{12}=−\\frac{13}{12};5\\frac{1}{2}=\\frac{11}{2}\nTa chia thành hai nhóm phân số là: \\frac{23}{100};\\frac{12}{100};\\frac{11}{2} và −\\frac{13}{12};−\\frac{31}{24}\nNhóm 1: \\frac{12}{100}<\\frac{23}{100}<1<\\frac{11}{2} nên \\frac{12}{100}<\\frac{23}{100}<\\frac{11}{2}\nNhóm 2: −\\frac{13}{12};−\\frac{31}{24}\n−\\frac{13}{12}=\\frac{−26}{24}>\\frac{−31}{24} nên −\\frac{13}{12}>−\\frac{31}{24}\nVậy −\\frac{31}{24}<−\\frac{13}{12}<\\frac{12}{100}<\\frac{23}{100}<\\frac{11}{2} hay −\\frac{31}{24}<−1\\frac{1}{12}<\\frac{12}{100}<23%<5\\frac{1}{2}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Tìm x biết \\frac{1,16−x.5,25}{10\\frac{5}{9}−7\\frac{1}{4}.2\\frac{2}{17}}=75%\nA. 0\nB. \\frac{6}{5}\nC. \\frac{4}{25}\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{1,16−x.5,25}{10\\frac{5}{9}−7\\frac{1}{4}.2\\frac{2}{17}}=75%\\frac{\\frac{116}{100}−x.\\frac{525}{100}}{\\frac{95}{9}−\\frac{29}{4}.\\frac{36}{17}}=\\frac{75}{100}\\frac{\\frac{29}{25}−x.\\frac{21}{4}}{\\frac{119}{36}.\\frac{36}{17}}=\\frac{3}{4}\\frac{\\frac{29}{25}−x.\\frac{21}{4}}{7}=\\frac{3}{4}\\frac{29}{25}−x.\\frac{21}{4}.4=7.3\\frac{29}{25}−x.21=21\\frac{29}{25}−x=21:21\\frac{29}{25}−x=1x=\\frac{29}{25}−1=\\frac{4}{25}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Tìm y biết 2y + 30%y = −2,3\nA. 1\nB. 2\nC. −1\nD. −2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n2y+30%y=−2,32y+\\frac{3}{10}y=−\\frac{23}{10}\\frac{23}{10}y=−\\frac{23}{10}y=−\\frac{23}{10}:\\frac{23}{10}=-1\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về tỉ số và tỉ số phần trăm\nCâu 1. Tỉ số và tỉ số phần trăm của số 2700m và 6km lần lượt là\nA.\\frac{9}{20};45%\nB.\\frac{9}{20};4,5%\nC.450;45000%\nD.\\frac{9}{200};4,5%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 6000m\n+ Tỉ số của 2700m và 6000m là 2700:6000 = 920\n+ Tỉ số phần trăm của 2700m so với 6000m là \\frac{2700.100}{6000}%=45%\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Minh đọc quyển sách trong 4 ngày. Ngày thứ nhất Minh đọc được \\frac{2}{5} số trang sách. Ngày thứ hai Minh đọc được \\frac{3}{5} số trang sách còn lại. Ngày thứ ba đọc được 80% số trang sách còn lại sau ngày thứ hai và ngày thứ tư đọc 30 trang cuối cùng. Hỏi cuốn sách đó có bao nhiêu trang?\nA. 375 trang\nB. 625 trang\nC. 500 trang\nD. 650 trang",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố phần trang sách còn lại sau ngày thứ nhất là: 1−\\frac{2}{5}=\\frac{3}{5} (quyển sách)\nSố phần trang sách đọc được của ngày thứ hai là: \\frac{3}{5}.\\frac{3}{5}=\\frac{9}{25} (quyển sách)\nSố phần trang sách còn lại sau ngày thứ hai là: 1−\\frac{2}{5}−\\frac{9}{25}=\\frac{6}{25} (quyển sách)\nSố phần trang sách đọc được ngày thứ ba là: \\frac{6}{25}.80%=\\frac{24}{125} (quyển sách)\nSố phần trang sách ứng với 30 trang cuối của ngày thứ tư là: \n1−\\frac{2}{5}−\\frac{9}{25}−\\frac{24}{125}=\\frac{6}{125} (quyển sách)\nSố trang sách của quyển sách là: 30:\\frac{6}{125}=625 (trang sách)\nVậy quyển sách có 625 trang\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Một lớp có chưa đến 50 học sinh. Cuối năm có 30% số học sinh xếp loại giỏi; \\frac{3}{8} số học sinh xếp loại khá, còn lại là trung bình. Tính số học sinh trung bình.\nA. 15 học sinh\nB. 13 học sinh                     \nC. 20 học sinh\nD. 9 học sinh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 30%=\\frac{3}{10}\nVì số học sinh phải là số tự nhiên nên phải chia hết cho 10 và 8\nBCNN(10,8) = 40 nên số học sinh của lớp là 40\nPhân số chỉ số học sinh trung bình là: 1−\\frac{3}{10}=\\frac{3}{8}=\\frac{13}{40} (số học sinh)\nSố học sinh trung bình là: 40.\\frac{13}{40}=13 (học sinh)\nVậy lớp có 13 học sinh trung bình.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. Tỉ số của hai số aa và bb là 120%. Hiệu của hai số đó là 16. Tìm tổng hai số đó.\nA. 96\nB. 167\nC. 150\nD. 176",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 120%=\\frac{120}{100}=\\frac{6}{5}\nHiệu số phần bằng nhau là: \n6 – 5 = 1 (phần)\nSố lớn là: 16:1.6 = 96\nSố bé là: 16:1.5 = 80\nTổng hai số là: 96 + 80 = 176\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Trong một khu vườn có trồng ba loại cây mít, hồng và táo. Số cây táo chiếm 30% tổng số cây, số cây hồng chiếm 50%  tổng số cây, số cây mít là 40 cây. Hỏi tổng số cây trong vườn là bao nhiêu?\nA. 20 cây\nB. 200 cây\nC. 100 cây\nD. 240 cây",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n40 cây mít ứng với: \n100% − 30% − 50% = 20% (tổng số cây)\nTổng số cây trong vườn là: 40:20%=40:\\frac{20}{100}=200 (cây)\nVậy có 200 cây trong vườn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Một cửa hàng bán một tấm vải trong 4 ngày. Ngày thứ nhất bán \\frac{1}{6} tấm vải và 5m; ngày thứ hai bán 20% số còn lại và 10m; ngày thứ ba bán 25% số còn lại và 9m; ngày thứ tư bán \\frac{1}{3} số vải còn lại. Cuối cùng, tấm vải còn lại 13m.13m. Tính chiều dài tấm vải ban đầu.\nA. 87m\nB. 78m\nC. 60\nD. 38",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố mét vải của ngày thứ tư khi chưa bán là: 13:1−\\frac{1}{3}=\\frac{39}{2}m\nSố mét vải của ngày thứ ba khi chưa bán là: \\frac{39}{2}+9:1−25%=38m\nSố mét vải của ngày thứ hai khi chưa bán là: (38+10):(1−20%)=60(m)\nSố mét vải của ngày đầu tiên khi chưa bán là: 60+5:1−\\frac{1}{6}=78m\nVậy lúc đầu tấm vải dài số mét là: 78m.\nĐáp án cần chọn là: B"
+    }
+]

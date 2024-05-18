@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Quay miếng bìa 20 lần và thống kê kết quả theo mẫu sau:\n\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Em chuẩn bị miếng bìa và mũi tên như hình.\n- Quay miếng bìa và ghi lại kết quả của mình vào bảng.\n- Tính tỉ số \\(\\left( {\\dfrac{k}{{20}}} \\right)\\)(điền các ô trống ở hàng tỉ số) ở ô Đỏ bằng số lần quay được màu đỏ chia cho 20.\n- Tương tự với tỉ số ở ô Xanh và Vàng.\nLời giải chi tiết\nVí dụ: Em quay được 6 lần ô đỏ, 9 lần ô xanh và 5 lần ô vàng. Ta điền số lần vào hàng “Số lần (k)” với các ô tương ứng.\nTỉ số ở ô Đỏ: thay k = 6 vào \\(\\dfrac{k}{{20}} = \\dfrac{6}{{20}} = \\dfrac{3}{{10}}\\)\nTỉ số ở ô Xanh: thay k = 9 vào \\(\\dfrac{k}{{20}} = \\dfrac{9}{{20}}\\)\nTỉ số ở ô Vàng: thay k = 5 vào \\(\\dfrac{k}{{20}} = \\dfrac{5}{{20}} = \\dfrac{1}{4}\\)\n"
+    },
+    {
+        "problem": "Cho biết xác suất thực nghiệm của sự kiện “Mũi tên chỉ vào ô màu xanh” và sự kiện “Mũi tên chỉ vào ô màu đỏ” trong HĐ 2.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm của sự kiện “Mũi tên chỉ vào ô màu xanh”  là tỉ số:\n\nXác suất thực nghiệm của sự kiện “Mũi tên chỉ vào ô màu vàng”  là tỉ số:\n\nLời giải chi tiết\nSử dụng kết quả của ví dụ  HĐ 2.\nXác suất thực nghiệm của sự kiện “Mũi tên chỉ vào ô màu xanh”  là: \\(\\dfrac{9}{{20}}\\)\nXác suất thực nghiệm của sự kiện “Mũi tên chỉ vào ô màu vàng”  là: \\(\\dfrac{1}{4}\\)"
+    },
+    {
+        "problem": "An gieo hai con xúc xắc cùng lúc 80 lần. Ở mỗi lần gieo, An cộng số chấm xuất hiện ở hai xúc xắc và ghi lại kết quả như bảng sau:\n\n\nNếu tổng số chấm xuất hiện ở hai con xúc xắc lớn hơn 6 thì An thắng. Tính xác suất thực nghiệm của sự kiện “An thắng”.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số lần An thắng là số lần gieo An được tổng số chấm từ 7 trở lên.\n- Xác xuất thực nghiệm của sự kiện “An thắng” là\n\nLời giải chi tiết\nTa có 14 lần gieo được 7 chấm, 12 lần gieo được 8 chấm, 9 lần gieo được 9 chấm, 6 lần gieo được 10 chấm, 4 lần gieo được 11 chấm và 3 lần gieo được 12 chấm.\nSố lần gieo được 7 chấm trở lên là 14+12+9+6+4+3=48 lần.\nDo đó số lần An thắng là 48 lần.\nXác xuất thực nghiệm của sự kiện “An thắng” là:\\(\\dfrac{{48}}{{80}} = \\dfrac{3}{5} = \\dfrac{3}{5}.100\\%  = 60\\% \\)"
+    },
+    {
+        "problem": "Vuông gieo một đồng xu 50 lần và thấy có 30 lần xuất hiện mặt sấp. Tròn lấy đồng xu đó gieo 100 lần và thấy có 55 lần xuất hiện mặt sấp.\n\nBạn nào nói đúng nhỉ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tình huống thực nghiệm khác nhau thì có thể thu được xác suất thực nghiệm khác nhau.\nLời giải chi tiết\nCả hai bạn đều đúng. Vì mỗi tình huống thực nghiệm sẽ cho một xác suất thực nghiệm (có thể không giống nhau)"
+    },
+    {
+        "problem": "Minh gieo một con xúc xắc 100 lần và ghi lại số chấm xuất hiện ở mỗi lần gieo được kết quả như sau:\n\nTính xác suất thực nghiệm của các sự kiện sau:\na. Số chấm xuất hiện là số chẵn;\nb. Số chấm xuất hiện lớn hơn 2.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a. Xác suất thực nghiệm của sự kiện “Số chấm xuất hiện là số chẵn” là:\n\nb. Xác suất thực nghiệm của sự kiện “Số chấm xuất hiện lớn hơn 2” là:\n\nLời giải chi tiết\na.\nCác số chẵn là 2;4;6\nSố lần được 2 là 20, số lần được 4 là 22, số lần được 6 là 15.\nSố lần được số chẵn là: 20+22+15=57\nXác suất thực nghiệm của sự kiện “Số chấm xuất hiện là số chẵn” là:\\(\\frac{{57}}{{100}} = 57\\% \\)\nb.\nCác số lớn hơn 2 là 3;4;5;6\nSố lần được 3 là 18, số lần được 4 là 22, số lần được 5 là 10, số lần được 6 là 15.\nSố lần được số lớn hơn 2 là: 18+22+10+15=65\nXác suất thực nghiệm của sự kiện “Số chấm xuất hiện lớn hơn 2” là:\\(\\frac{{65}}{{100}} = 65\\% \\)"
+    },
+    {
+        "problem": "An quay tấm bìa như hình bên một số lần và ghi kết quả dưới dạng bảng như sau (Mỗi gạch tương ứng 1 lần ):\n\na. An đã quay tấm bìa bao nhiêu lần?\nb. Có bao nhiêu lần mũi tên chỉ vào ô màu xanh, bao nhiêu lần mũi tên chỉ vào ô màu vàng?\nc. Tính xác suất thực nghiệm của sự kiện “Mũi tên chỉ vào ô màu xanh”.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a. Số lần An quay bằng số gạch xanh cộng với số gạch vàng.\nb.\n- Số lần mũi tên chỉ vào ô màu xanh là số gạch ở cột “Xanh”.\n- Số lần mũi tên chỉ vào ô màu vàng là số ô gạch ở cột “Vàng”\nc.\nXác suất thực nghiệm của sự kiện “Mũi tên chỉ vào ô màu xanh”:\n\nLời giải chi tiết\na. An đã quay tấm bìa: 24 lần.\nb. Có 7 lần mũi tên chỉ vào ô màu vàng, 17 lần mũi tên chỉ vào ô màu xanh.\nc. Xác suất thực nghiệm của sự kiện Mũi tên chỉ vào ô màu xanh là: \\(\\frac{{17}}{{24}}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong túi có một số viên bi màu đen và một số viên bi màu đỏ. Thực hiện lấy ngẫu nhiên một viên bi từ túi, xem viên bi màu gì rồi trả lại viên bi vào túi. Khoa thực hiện thí nghiệm 30 lần. Số lần lấy được viên bi màu đỏ là 13. Hãy tính xác suất thực nghiệm của sự kiện Khoa lấy được viên bi màu đỏ.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Công thức tính xác suất thực nghiệm: Số lần lấy được bi đỏ : Tổng số lần thực nghiệm.\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện Khoa lấy được viên bi màu đỏ là:\\(\\dfrac{13}{30}\\)."
+    },
+    {
+        "problem": "Một chiếc thùng kín có một số quả bóng xanh, đỏ tím vàng. Trong một trò chơi, người chơi lấy ngẫu nhiên một quả bóng, ghi lại màu rồi trả lại bóng vào thùng. Bình thực hiện trò chơi 100 lần và được kết quả như bảng sau:\nTính xác suất thực nghiệm của các sự kiện sau:\na) Bình lấy được quả bóng màu xanh;\nb) Quả bóng được lấy ra không là màu đỏ.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Xác suất lấy được bóng màu xanh = Số lần lấy màu xanh : Tổng số lần lấy bóng\nb) Tính số lần không lấy được màu đỏ.\nXác suất không lấy được bóng màu đỏ = Số lần không lấy được bóng màu đỏ : Tổng số lần lấy bóng\nLời giải chi tiết\na) Xác suất Bình lấy được quả bóng màu xanh:\n\\(\\frac{43}{100}.100\\%=43\\%\\)\nb) Số lần lấy được bóng màu đỏ là 22 lần.\nSố lần không lấy được màu đỏ là 100-22=78 lần.\nXác suất Bình không lấy được quả bóng màu đỏ:\n\\(\\frac{78}{100}.100\\%=78\\%\\)"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Phép cộng số thập phân có những tính chất nào dưới đây?\nA.\tTính chất giao hoán\nB.\tTính chất kết hợp\nC.\tTính chất cộng với 0\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép cộng số thập phân có các tính chất:\n+\tTính chất giao hoán: Khi đổi chỗ hai số hạng trongg một tổng thì tổng không thay đổi.\n+\tTính chất kết hợp: Khi cộng một tổng hai số với số thứ ba thì ta có thể cộng số thứ nhất với tổng của hai số còn lại.\n+\tCộng với số 0: Số thập phân nào cộng với 0 cũng bằng chính số thập phân đó.\nVậy cả A, B, C đều đúng.\n\n+\tTính chất giao hoán: Khi đổi chỗ hai số hạng trongg một tổng thì tổng không thay đổi.\n+\tTính chất kết hợp: Khi cộng một tổng hai số với số thứ ba thì ta có thể cộng số thứ nhất với tổng của hai số còn lại.\n+\tCộng với số 0: Số thập phân nào cộng với 0 cũng bằng chính số thập phân đó.\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 6: Tìm x biết x - 4,5 = 7,89 \nA. x\t= 52,98\nB. x\t= 84,3\nC. x\t= 8,43\nD. x\t= 12,48",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nx - 4,5 = 7.98\nx = 7,98 + 4,5\nx = 12,48\nVậy x = 12,48."
+    }
+]

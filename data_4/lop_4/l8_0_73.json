@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Trong hai phân số có cùng mẫu số thì:\nA.\tPhân số nào có tử số lớn hơn thì phân số đó lớn hơn.\nB.\tPhân số nào có tử số bé hơn thì phân số đó bé hơn.\nC.\tNếu tử số bằng nhau thì 2 phân số đó bằng nhau\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hai phân số có cùng mẫu số:\n+) Phân số nào có tử số bé hơn thì phân số đó bé hơn.\n+) Phân số nào có tử số lớn hơn thì phân số đó lớn hơn.\n+) Nếu tử số bằng nhau thì hai phân số đó bằng nhau.\nVậy cả ba phát biểu A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 2: Lan nói: “trong hai phân số (khác 0) có tử số bằng nhau, phân số nào có mẫu số bé hơn thì phân số đó lớn hơn”. Theo em, Lan nói đúng hay sai ?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hai phân số có cùng tử số:\n+) Phân số nào có mẫu số bé hơn thì phân số đó lớn hơn.\n+) Phân số nào có mẫu số lớn hơn thì phân số đó bé hơn.\n+) Nếu mẫu số bằng nhau thì hai phân số đó bằng nhau.\nVậy Lan nói đúng.\nChú ý\nHọc sinh có thể nhớ nhầm quy tắc so sánh hai phân số có cùng tử số nên chọn đáp án sai là B."
+    }
+]

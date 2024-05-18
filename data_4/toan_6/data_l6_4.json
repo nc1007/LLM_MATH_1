@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Cho phép chia 125: 25 = 5. Trong phép tính này thì 5 là:\nA. Số bị chia;\nB. Số chia;\nC. Thương;\nD. Số dư.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrong phép tính 125:25 = 5, \n125 là số bị chia, 25 là số chia và 5 là thương.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Phép nhân có tính chất:\nA. Giao hoán\nB. Kết hợp\nC. Phân phối giữa phép nhân và phép cộng\nD. Cả A, B và C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nPhép nhân có tính chất:\n+ Giáo hoán\n+ Kết hợp \n+ Phân phối giữa phép nhân và phép cộng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Với hai số tự nhiên a và b ( b khác 0) Tồn tại số tự nhiên q sao cho a = b.q. Khi đó phát biểu nào sau đây là đúng:\nA. a chia hết cho b.\nB. b chia hết cho a.\nC. a chia cho b dư r.\nD. b chia cho a dư r.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Nếu tồn tại số tự nhiên q thỏa mãn a = b.q thì a chia hết cho b.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Với hai số tự nhiên a và b (b khác 0) ta luôn tìm được hai số q, r sao cho a = b.q + r, điều kiện của r là:\nA. r < b;\nB. 0 < r < b;\nC. 0 ≤ r < b;\nD. r ≥ 0;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Điều kiện của số dư là 0 ≤ r < b.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Phát biểu nào sau đây là sai?\nA. a.1 = 1.a = a;\nB. a.0 = 0.a = a;\nC. (ab)c = a(bc) = abc;\nD. a(b + c) = ab + ac.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có a.0 = 0.a = 0 nên B sai.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Tính nhẩm 125.100\nA. 12 500;\nB. 1 250;\nC. 12 000;\nD. 12 050.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải 125.100 = 12 500.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 7. Tích a.b bằng:\nA. a + a + … + a (a số hạng).\nB. a + a + … + a (b số hạng).\nC. a.a… a (b thừa số a).\nD. a.a…a (a thừa số a).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có: a.b = a + a + … + a (b số hạng).\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Thực hiện phép tính 129.89 + 129.11.\nA. 12 900;\nB. 1 290;\nC. 11 610;\nD. 12 090.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n129.89 + 129.11\n= 129.(89 + 11) \n= 129.100\n= 12 900.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Cần ít nhất bao nhiêu xe 35 chỗ ngồi để chở hết 420 cổ động viên của đội bóng?\nA. 10 xe;\nB. 11 xe;\nC. 12 xe;\nD. 13 xe.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 420 : 35 = 12. \nVậy cần vừa đủ 12 xe 35 chỗ ngồi để chở hết 420 cổ động viên.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 6. Một trường học có 35 lớp học mỗi lớp có 20 bộ bàn ghế. Hỏi trường học đó có bao nhiêu bàn ghế.\nA. 70 bộ.\nB. 600 bộ.\nC. 700 bộ.\nD. 500 bộ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trường học đó có số bộ bàn ghế là: 35. 20 = 700 (bộ).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Tính nhẩm: 125. 8 723.8\nA. 872 300\nB. 8 723 000\nC. 87 230 000\nD. 8 723.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n125. 8 723.8\n= (125.8).8 723\n= 1000.8 723\n= 8 723 000.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. Giá tiền in một trang giấy A4 là 250 đồng. Hỏi bác Thiệp phải trả bao nhiêu tiền nếu in một tập tài liệu khổ A4 dày 86 trang.\nA. 2 150 (đồng).\nB. 215 000 (đồng).\nC. 21 500 (đồng).\nD. 11 500 (đồng).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Bác thiệp phải trả số tiền là: 250.86 = 21 500 (đồng).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Mẹ Lan mua một túi gạo 15kg gạo loại ngon hết 480 000 đồng. Hỏi một ki – lô – gam gạo giá bao nhiêu tiền?\nA. 22 000 đồng.\nB. 30 000 đồng.\nC. 32 000 đồng.\nD. 20 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Giá một ki – lô – gam gạo là: 480 000:15 = 32 000 (đồng).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 10. Kết quả của phép tính 120.87 + 120.12 + 120\nA. 120.\nB. 1 200.\nC. 12 000.\nD. 1 080.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n120.87 + 120.12 + 120\n= 120.(87 + 12 + 1) \n= 120.100\n=12 000.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Một trường Trung học cơ sở có 45 phòng học, mỗi phòng có 12 bộ bàn ghế, mỗi bộ bàn ghế có thể xếp cho 4 học sinh ngồi. Trường có thể nhận nhiều nhất bao nhiêu học sinh?\nA. 540 học sinh.\nB. 180 học sinh.\nC. 2 060 học sinh.\nD. 2 160 học sinh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTổng số học sinh nhiều nhất mà trường có thể nhận được là:\n45.12.4 = 2 160 (học sinh).\nĐáp án: D"
+    }
+]

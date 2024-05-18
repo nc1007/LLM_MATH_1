@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Quãng đường từ Hà Nội đến Huế dài khoảng 658 km. Quãng đường từ Huế đến TP. Hồ Chí Minh dài hơn quãng đường từ Hà Nội đến Huế khoảng 394 km. Quãng đường từ Hà Nội đến TP. Hồ Chí Minh dài khoảng bao nhiêu ki-lô-mét?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính quãng đường từ Huế tới TP. Hồ Chí Minh\n- Tính quãng đường từ Hà Nội đến TP. Hồ Chí Minh\nLời giải chi tiết\nQuãng đường từ Huế đến TP. Hồ Chí Minh dài hơn quãng đường từ Hà Nội đến Huế khoảng 394 km nên quãng đường từ Huế tới TP. Hồ Chí Minh là:\n658 + 394 = 1 052 (km)\nQuãng đường từ Hà Nội đến TP. Hồ Chí Minh dài số ki-lô-mét là:\n658 + 1 052 = 1 710 (km)\nVậy quãng đường từ Hà Nội đến TP. Hồ Chí Minh dài khoảng 1 710 km."
+    },
+    {
+        "problem": "Hãy nêu các tính chất của phép cộng các số tự nhiên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nêu các tính chất của phép cộng các số tự nhiên.\nLời giải chi tiết\nTính chất giao hoán: Khi đổi chỗ các số hạng trong một tổng thì tổng không thay đổi.\nTính chất kết hợp: Muốn cộng một tổng hai số với số thứ ba, ta có thể cộng số thứ nhất với tổng của số thứ hai và số thứ ba.\nCộng với số 0: Bất kì số nào cộng với số 0 cũng bằng chính nó.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mẹ An mua cho An một bộ đồng phục học sinh gồm áo sơ mi giá 125 000 đồng, áo khoác giá 140 000 đồng, quần âu giá 160 000 đồng. Tính số tiền mẹ An đã mua đồng phục cho An.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số tiền mẹ An đã mua đồng phục cho An bằng tổng số tiền áo sơ mi, áo khoác và quần âu.\n- Sử dụng tính chất kết hợp cho 2.\nLời giải chi tiết\nSố tiền mẹ An đã mua đồng phục cho An:\n125 000+140 000+160 000\n=125 000+(140 000+160 000)\n=125 000+300 000=425 000 (đồng).\nVậy mẹ An đã mua đồng phục cho An hết 425 000 đồng\n"
+    },
+    {
+        "problem": "Tìm số tự nhiên x, biết: 124+(118-x)=217\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Nếu a+b=c thì b=c-a.\n+) a=124; b=(118-x); c=217\n+) Tính 118-x.\n+) Tính x.\nLời giải chi tiết\n124+(118-x)=217\n(118-x)=217-124\n118-x=93\nx=118-93\nx=25\nVậy x=25.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính\na) 127+39+73\nb) 417-17-299;\nc) 135+360+65+40;\nd) 981-781+29\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Sử dụng tính chất giao hoán.\n- Sử dụng tính chất kết hợp.\nLời giải chi tiết\na)\n127+39+73\n=127+73+39\n=(127+73)+39\n=200+39\n=239\nb)\n417-17-299\n=(417-17)-299\n=400-299\n=101\nc)\n135+360+65+40\n=(135+65)+(360+40)\n=200+400\n=600\nd)\n981-781+29\n=(981-781)+29\n=200+29\n=229"
+    },
+    {
+        "problem": "Có thể tính nhẩm tổng bằng cách tách một số hạng thành tổng của hai số hạng khác.\nHãy tính nhẩm:\na) 79+65\nb) 996+45\nc) 37+198\nd) 3 492+319.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tách số bé hơn thành hai số sao cho số lớn hơn cộng với một trong hai số đó bằng một số tròn chục, tròn trăm, tròn nghìn.\n- Cộng thêm số còn lại sau khi tách.\nLời giải chi tiết\na) 79+65 = 79+ (21+44) = (79+21)+44 = 100+44 = 144\nb) 996+45 = 996 +(4+41) = (996+4)+41 = 1000+41 = 1041\nc) 37+198 = (35+2)+198 = 35+(2+198) = 35+200 = 235\nd) 3492+319 = 3492+ (8+311) = (3492+8)+311 = 3500+311 =3811\nLoigiaihay.com"
+    },
+    {
+        "problem": "Có thể tính nhẩm hiệu bằng cách thêm vào số bị trừ và số trừ cùng một số thích hợp.\nHãy tính nhẩm:\na) 321 - 96\nb) 1 454 - 997\nc) 561 - 195\nd) 2 572 - 994.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Thêm vào số bị trừ và số trừ cùng một số sao cho số trừ mới là số tròn chục, tròn trăm, tròn nghìn.\n- Lấy Số bị trừ mới trừ đi số trừ mới.\nLời giải chi tiết\na) 321 - 96=(321+4)-(96+4)= 325 - 100=225\nb) 1 454 - 997 = (1 454+3)-(997+3) = 1 457 - 1 000=457\nc) 561 - 195 = (561+5)-(195+5) = 566 - 200 = 366\nd) 2 572 - 994 = (2 572+6)-(994+6) = 2 578 - 1 000 = 1 578"
+    },
+    {
+        "problem": "Một cơ thể trưởng thành khỏe mạnh cần nhiều nước. Lượng nước mà cơ thể một người trưởng thành mất đi mỗi ngày khoảng 450ml qua da (mồ hôi), 550 ml qua hít thở, 150 ml qua đại tiện, 350 ml qua trao đổi chất, 1 500 ml qua tiểu tiện.\n(Nguồn: Mathe live 6, Bộ Văn hóa Niedersachsen, 2012)\na) Lượng nước mà cơ thể một người trưởng thành mất đi trong một ngày khoảng bao nhiêu?\nb) Qua việc ăn uống, mỗi ngày cơ thể hấp thụ được khoảng 1 000 ml nước. Một người trưởng thành cần phải uống thêm khoảng bao nhiêu nước đẻ cân bằng lượng nước đã mất trong ngày?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Lượng nước mà cơ thể một người trưởng thành mất đi trong một ngày bằng tổng lượng nước bị mất qua da, qua hít thở, qua đại tiện, qua trao đổi chất, qua tiểu tiện.\nb) Lượng nước cần uống thêm bằng lượng nước đã mất trừ lượng nước hấp thụ được.\nLời giải chi tiết\na) Lượng nước mà cơ thể một người trưởng thành mất đi trong một ngày khoảng:\n450 + 550 + 150 + 350 + 1 500= 3 000 (ml)\nb) Lượng nước cần phải uống thêm là:\n3 000 - 1 000=2 000 (ml)"
+    },
+    {
+        "problem": "Một thửa ruộng có dạng hình chữ nhật với chiều rộng là 150m và chiều dài là 250m. Người ta chia thửa ruộng đó thành bốn phần bằng nhau để gieo trồng những giống lúa khác nhau. Diện tích mỗi phần là bao nhiêu mét vuông?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Diện tích của thửa ruộng hình chữ nhật\n- Tính diện tích 1 phần\nLời giải chi tiết\nDiện tích của thửa ruộng hình chữ nhật là:\n150 x 250 = 37 500 \\(m^2\\)\nVì người ta chia thửa ruộng đó thành 4 phần bằng nhau nên diện tích mỗi phần của thửa ruộng là:\n37 500 : 4 = 9 375 \\(m^2\\)\nVậy diện tích mỗi phần của thửa ruộng là 9 375 \\(m^2\\)"
+    },
+    {
+        "problem": "Hãy nêu các tính chất của phép nhân các số tự nhiên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nêu các tính chất của phép nhân các số tự nhiên tương tự phép cộng.\nLời giải chi tiết\nGiao hoán: \\(a.b = b.a\\)\nKết hợp \\(\\left( {a.b} \\right).c = a.\\left( {b.c} \\right)\\)\nNhân với số 1: \\(a.1 = 1.a = a\\)\nPhân phối đối với phép cộng và phép trừ:\n\\(\\begin{array}{l}a\\left( {b + c} \\right) = a.b + a.c\\\\a\\left( {b - c} \\right) = a.b - a.c\\end{array}\\)"
+    }
+]

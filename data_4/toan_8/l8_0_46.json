@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Bài 1: Hãy chọn câu sai:\nA. Điểm đối xứng với điểm M qua M cũng chính là điểm M\nB. Hai điểm A và B gọi là đói xứng với nhau qua điểm O kkhi O là trung điểm của đoạn thẳng AB\nC. Hình bình hành có một tâm đối xứng\nD. Đoạn thẳng có hai tâm đối xứng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Theo định nghĩa hai điểm đói xứng nhau qua một điểm: Hai điểm A, B gọi là đối xứng với nhau qua điểm O nếu O là trung điểm của đoạn thẳng nối hai điểm đó nên B đúng.\n+ Trung điểm của đoạn thẳng là tâm đối xứng duy nhất của đoạn thẳng đó nên D sai.\n+ Hình bình hành có một tâm đối xứng là giao hai đường chéo nên C đúng.\nĐiểm đối xứng của một điểm M qua chính M chính là M nên A đúng.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 2: Điền từ thích hợp vào chỗ trống. Hai điểm M, N gọi là đối xứng nhau qua điểm I nếu …\nA. I là trung điểm của đoạn MN\nB. I là điểm nằm ngoài đoạn MN\nC. I là điểm cách M một khoảng bằng ½\nD. I là điểm chia đoạn MN thành tỉ số 2:3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Theo định nghĩa hai điểm đối xứng qua một điểm: Ha điểm M, N gọi là đối xứng với nhau qua điểm I nếu I là trung điểm của đoạn thẳng MN nên A đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Hãy chọn câu sai:\nA. Hình bình hành có tâm đối xứng là giao điểm của hai đường chéo\nB. Đường tròn có tâm đối xứng chính là tâm của đường tròn\nC. Hình thang có tâm đối xứng là giao điểm của hai đường chéo\nD. Hình vuông có tâm đối xứng là giao điểm hai đường chéo",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Giao điểm hai đường chéo của hình bình hành là tâm đối xứng của hình bình hành đó nên A đúng\n+ Đường tròn là hình có hình có tâm đối xứng là tâm của đường tròn nên B đúng.\n+ Giao điểm hai đường chéo của hình vuông là tâm đối xứng của hình vuông đó nên D đúng.\n+ Hình thang không có tâm đối xứng nên C sai\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 4: Hình bình hành ABCD có tâm đối xứng là:\nA. Điểm A\nB. Điểm B\nC. Giao điểm hai đường chéo\nD. Hình bình hành ABCD không có tâm đối xứng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Giao điểm hai đường chéo của hình bình hành là tâm đối xứng của hình bình hành đó nên C đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 7: Tam giác ABC đối xứng với tam giác A’B’C’ qua O. Biết chu vi của tam giác A’B’C’ là 32cm. Chu vi của tam giác ABC là:\nA. 32dm\nB. 64cm\nC. 16cm\nD. 32cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì tam giác ABC đối xứng với tam giác A’B’C’ qua O nên ΔABC = ΔA’B’C’\n⇒ AB = A’B’; AC = A’C’; BC = B’C’\nNên AB + AC + BC = A’B’ + A’C’ + B’C’\n⇒ PABC = PA’B’C’\nDo đó chu vi tam giác ABC là PABC = 32cm\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 8: Tam giác ABC đối xứng với tam giác A’B’C’ qua O. Biết chu vi của tam giác A’B’C’ là 40cm. Chu vi của tam giác ABC là:\nA. 32dm\nB. 40cm\nC. 20dm\nD. 80dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì tam giác ABC đối xứng với tam giác A’B’C’ qua O nên ΔABC = ΔA’B’C’\n⇒ AB = A’B’; AC = A’C’; BC = B’C’\nNên AB + AC + BC = A’B’ + A’C’ + B’C’\n⇒ PABC = PA’B’C’\nDo đó chu vi tam giác ABC là PABC = 40cm\nĐáp án cần chọn là: B"
+    }
+]

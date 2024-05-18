@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Cho tam giác ABC vuông tại A có \\(AB = 6cm;AC = 15cm\\). Tính \\(\\widehat B - \\widehat C\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng hệ thức lượng giác trong tam giác vuông để tính.\nLời giải chi tiết\n\\(\\begin{array}{l}\\tan \\widehat B = \\dfrac{{AC}}{{AB}} = \\dfrac{{15}}{6} \\Rightarrow \\widehat B \\approx {68^o}12'\\\\ \\Rightarrow \\widehat C = {90^o} - \\widehat B \\approx {90^o} - {68^o}12' \\approx {21^o}48'\\\\ \\Rightarrow \\widehat B - \\widehat C \\approx {68^o}12' - {21^o}48' = {46^o}24'\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính các góc của tam giác ABC biết AB = 6 cm, AC = 4,5 cm, BC = 7,5 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng định lý Pythagore đảo và hệ thức lượng giác trong tam giác vuông để tính.\nLời giải chi tiết\nTa có \\(A{B^2} + A{C^2} = {6^2} + 4,{5^2} = {7.5^2} = B{C^2}\\)\n\\( \\Rightarrow \\) Tam giác ABC vuông tại A (định lý Pythagore đảo)\n\\(\\begin{array}{l} \\Rightarrow \\widehat A = {90^o}\\\\\\sin \\widehat B = \\dfrac{{AC}}{{BC}} = \\dfrac{3}{5} \\Rightarrow \\widehat B \\approx {36^o}52'\\\\ \\Rightarrow \\widehat C = {90^o} - \\widehat B \\approx {90^o} - {36^o}52' = {53^o}8'\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính hai góc nhọn của một tam giác vuông khi biết tỉ số hai cạnh góc vuông là \\(\\dfrac{{19}}{{28}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng hệ thức lượng giác trong tam giác vuông để tính.\nLời giải chi tiết\nGiả sử tam giác ABC vuông tại A có \\(\\dfrac{{AB}}{{AC}} = \\dfrac{{19}}{{28}}\\)\n\\(\\begin{array}{l}\\tan \\widehat C = \\dfrac{{AB}}{{AC}} = \\dfrac{{19}}{{28}} \\Rightarrow \\widehat C \\approx {34^o}10'\\\\ \\Rightarrow \\widehat B = {90^o} - \\widehat C \\approx {90^o} - {34^o}10' \\approx {55^o}50'\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính hai góc nhọn của một tam giác vuông khi biết độ dài hình chiếu của hai cạnh góc vuông trên cạnh huyền là 2 cm và 18 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng hệ thức lượng và hệ thức lượng giác trong tam giác vuông để tính.\nLời giải chi tiết\nGiả sử tam giác ABC vuông tại A đường cao AH, HB = 2 cm, HC = 18 cm.\nÁp dụng hệ thức lượng trong tam giác ABC vuông tại A, đường cao AH ta có:\n\\(A{H^2} = HB.HC \\)\n\\(\\Rightarrow AH = \\sqrt {HB.HC}  = \\sqrt {2.18}  = 6\\,\\,(cm)\\)\nXét tam giác AHB vuông tại H: \\(\\tan \\widehat B = \\dfrac{{AH}}{{HB}} = \\dfrac{6}{2} = 3 \\Rightarrow \\widehat B \\approx {71^o}34'\\)\n\\( \\Rightarrow \\widehat C = {90^o} - \\widehat B \\approx {90^o} - {71^o}34' = {18^o}26'\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giải tam giác ABC vuông tại A khi biết độ dài hình chiếu của hai cạnh góc vuông trên cạnh huyền là 1 cm và 16 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng hệ thức lượng và hệ thức lượng giác trong tam giác vuông để tính.\nLời giải chi tiết\nGiả sử tam giác ABC vuông tại A đường cao AH, HB = 1 cm, HC = 16 cm.\n\\( \\Rightarrow BC = HB + HC = 17\\,cm\\)\nÁp dụng hệ thức lượng trong tam giác ABC vuông tại A, đường cao AH ta có:\n\\(A{H^2} = HB.HC \\) \\(\\Rightarrow AH = \\sqrt {HB.HC}  = \\sqrt {1.16}  = 4\\,\\,(cm)\\)\n\\(A{B^2} = HB.BC \\) \\(\\Rightarrow AB = \\sqrt {HB.BC}  = \\sqrt {1.17}  = \\sqrt {17} \\,\\,(cm)\\)\n\\(A{C^2} = HC.BC \\) \\(\\Rightarrow AC = \\sqrt {HC.BC}  = \\sqrt {16.17}  = 4\\sqrt {17} \\,\\,(cm)\\)\nXét tam giác AHB vuông tại H: \\(\\tan \\widehat B = \\dfrac{{AH}}{{HB}} = \\dfrac{4}{1} = 4 \\Rightarrow \\widehat B \\approx {75^o}58'\\)\n\\( \\Rightarrow \\widehat C = {90^o} - \\widehat B \\approx {90^o} - {75^o}58' = {14^o}2'\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính chiều cao của một cái tháp, cho biết khi các tia nắng mặt trời tạo với mặt đất một góc \\({42^o}\\) thì bóng của tháp trên mặt đất có chiều dài 78 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hệ thức về cạnh và góc trong tam giác vuông để tính.\nLời giải chi tiết\nGọi tháp là AB (A là đỉnh tháp, B là chân tháp), BC là bóng của tháp trên mặt đất\n\\( \\Rightarrow \\) Góc tạo bởi các tia nắng mặt trời với mặt đất là \\(\\widehat {ACB} = {42^o}\\)\nXét tam giác ABC vuông tại B: \\(AB = BC.\\tan \\widehat {ACB} = 78.\\tan {42^o} \\approx 70,23\\) (cm)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho tứ giác lồi ABCD có \\(AC = 16cm,\\widehat {CBA} = \\widehat {CAD} = {90^o},\\) \\(\\widehat {BCA} = \\widehat {ACD} = {60^o}\\). Tính các cạnh và góc của tứ giác ABCD.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hệ thức về cạnh và góc trong tam giác vuông để tính.\nLời giải chi tiết\nTa có: \\(\\widehat {BCD} = \\widehat {BCA} + \\widehat {ACD} = {60^o} + {60^o} = {120^o}\\)\nCó tam giác ABC vuông tại B\\( \\Rightarrow \\widehat {BAC} = {90^o} - \\widehat {BCA} = {90^o} - {60^o} = {30^o}\\)\n\\( \\Rightarrow \\widehat {BAD} = \\widehat {BAC} + \\widehat {CAD} = {30^o} + {90^o} = {120^o}\\)\nCó tam giác ADC vuông tại A \\( \\Rightarrow \\widehat {ADC} = {90^o} - \\widehat {ACD} = {90^o} - {60^o} = {30^o}\\)\nXét tam giác ABC vuông tại B: \\(AB = AC.\\sin \\widehat {BCA} = 16.\\sin {60^o} \\approx 13,86\\) (cm)\n\\(BC = AC.\\cos \\widehat {BCA} = 16.\\cos {60^o} = 8\\) (cm)\nXét tam giác ADC vuông tại A: \\(AD = AC.\\tan \\widehat {ACD} = 16.\\tan {60^o} \\approx 27,71\\) (cm)\n\\(AC = CD.\\cos \\widehat {ACD}\\)\n\\(\\Rightarrow CD = \\dfrac{{AC}}{{\\cos \\widehat {ACD}}} = \\dfrac{{16}}{{\\cos {{60}^o}}} = 32\\)(cm)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm kích thước của một hình chữ nhật có đường chéo dài 2 m và góc giữa hai đường chéo là \\({60^o}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất hình chữ nhật, tam giác đều và hệ thức về cạnh và góc trong tam giác vuông để tính.\nLời giải chi tiết\nGiả sử hình chữ nhật ABCD; \\(AC \\cap BD = \\left\\{ I \\right\\}\\); \\(\\widehat {AIB} = {60^o}\\)\n\\( \\Rightarrow IA = IB = IC = ID = \\dfrac{1}{2}AC = \\dfrac{1}{2}BD = 1\\,\\,m\\)\n\\( \\Rightarrow \\) Tam giác IAB cân tại I mà \\(\\widehat {AIB} = {60^o}\\)\\( \\Rightarrow \\) Tam giác IAB đều\n\\( \\Rightarrow \\widehat {ABD} = {60^o}\\) ; \\(IA = IB = AB = 1\\,\\,m\\)\nXét tam giác ABD vuông tại A: \\(AD = AB.\\tan \\widehat {ABD} = 1.\\tan {60^o} \\approx 1,73\\) (m)\nVậy kích thước của một hình chữ nhật đó là \\(1,73 \\times 1\\) (m)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hình thang vuông ABCD có hai đáy AB = 12 cm, DC =16 cm, cạnh xiên AD = 8 cm. Tính các góc và cạnh góc vuông của hình thang.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kẻ AH vuông góc với CD tại H.\nSử dụng tính chất hình thang vuông, hình chữ nhật; định lý Pythagore và hệ thức lượng giác trong tam giác vuông để tính.\nLời giải chi tiết\nKẻ AH vuông góc với CD tại H.\nCó hình thang vuông ABCD cạnh xiên AD \\( \\Rightarrow \\widehat {ABC} = \\widehat {BCD} = {90^o}\\)\nDễ thấy ABCH là hình chữ nhật (có 3 góc vuông) \\( \\Rightarrow HC = AB = 12\\,cm\\)\n\\( \\Rightarrow HD = DC - HC = 16 - 12 = 4\\,\\,(cm)\\)\nÁp dụng định lý Pythagore cho tam giác AHD vuông tại H ta có:\n\\(A{H^2} = A{D^2} - H{D^2} \\)\n\\(\\Rightarrow AH = \\sqrt {A{D^2} - H{D^2}}  = \\sqrt {{8^2} - {4^2}}  = 4\\sqrt 3 \\,\\,(cm)\\)\n\\( \\Rightarrow BC = AH \\approx 6,93\\,\\,cm\\)\nXét tam giác AHD vuông tại H: \\(\\cos \\widehat D = \\dfrac{{HD}}{{AD}} = \\dfrac{1}{2} \\Rightarrow \\widehat D = {60^o}\\)\n\\( \\Rightarrow \\widehat {DAH} = {90^o} - \\widehat D = {30^o}\\)\n\\( \\Rightarrow \\widehat {BAD} = \\widehat {BAH} + \\widehat {DAH} = {90^o} + {30^o} = {120^o}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một hình thoi có cạnh dài 10 cm và một góc bằng \\({150^o}\\). Tính độ dài hai đường chéo.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất hình thoi và các hệ thức về cạnh và góc trong tam giác vuông để tính.\nLời giải chi tiết\nGiả sử hình thoi ABCD; \\(AC \\cap BD = \\left\\{ I \\right\\}\\); \\(AB = BC = CD = DA = 10\\,\\,cm\\); \\(\\widehat {ABC} = {150^o}\\)\n\\( \\Rightarrow \\widehat {ABI} = \\widehat {CBI} = \\dfrac{1}{2}\\widehat {ABC} = {75^o}\\)\nXét tam giác ABI vuông tại I:\n\\(AI = AB.\\sin \\widehat {ABI} = 10.\\sin {75^o} \\)\n\\(\\Rightarrow AC = 2.AI = 2.10.\\sin {75^o} \\approx 19,32\\) (cm)\n\\(BI = AB.\\cos \\widehat {ABI} = 10.\\cos {75^o}\\)\n\\(\\Rightarrow BD = 2.BI = 2.10.\\cos {75^o} \\approx 5,18\\) (cm)\nLoigiaihay.com"
+    }
+]

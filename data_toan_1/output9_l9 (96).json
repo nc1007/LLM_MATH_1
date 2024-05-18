@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Tính tổng: \\(\\left( { - 16,5} \\right) + 1,5.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn cộng hai số thập phân khác dấu không đối nhau ta tìm hiệu hai giá trị tuyệt đối của chúng (số lớn trừ số nhỏ) và đặt trước kết quả tìm được dấu của số có giá trị tuyệt đối lớn hơn.\nLời giải chi tiết\n\\(\\left( { - 16,5} \\right) + 1,5 =  - \\left( {16,5 - 1,5} \\right) =  - 15\\)\nLời giải hay"
+    },
+    {
+        "problem": "Nêu tính chất của phép cộng số nguyên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nêu tính chất của phép cộng số nguyên đã học.\nLời giải chi tiết\n- Tính chất giao hoán: Với mọi a,b thuộc \\(\\mathbb{Z}\\): a + b = b + a.\n- Tính chất kết hợp: Với mọi a,b,c thuộc \\(\\mathbb{Z}\\): (a + b) + c = a + (b + c).\n- Cộng với số 0: Với mọi a thuộc \\(\\mathbb{Z}\\): a + 0 = a.\n- Cộng với số đối (Số đối của số nguyên a được kí hiệu là (-a)): a + (-a) = 0.\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\n\\(89,45 + \\left( { - 3,28} \\right) + 0,55 + \\left( { - 6,72} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng:\n- Tính chất giao hoán: Với mọi a,b thuộc \\(\\mathbb{Z}\\): a + b = b + a.\n- Tính chất kết hợp: Với mọi a,b,c thuộc \\(\\mathbb{Z}\\): (a + b) + c = a + (b + c).\nLời giải chi tiết\n\\(\\begin{array}{l}89,45 + \\left( { - 3,28} \\right) + 0,55 + \\left( { - 6,72} \\right)\\\\ = 89,45 + 0,55 + \\left( { - 3,28} \\right) + \\left( { - 6,72} \\right)\\\\ = \\left( {89,45 + 0,55} \\right) + \\left[ {\\left( { - 3,28} \\right) + \\left( { - 6,72} \\right)} \\right]\\\\ = 90 + \\left( { - 10} \\right)\\\\ = 90 - 10\\\\ = 80\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy nêu quy tắc dấu ngoặc đối với số nguyên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nêu quy tắc dấu ngoặc đối với số nguyên đã học\nLời giải chi tiết\nKhi bỏ dấu ngoặc có dấu\"-\" đứng trước, ta phải đối dấu tất cả các số hạng trong dấu ngoặc dấu \" \" thành dấu \"+\" và dấu \"+\" thành dấu\"-\". Khi bỏ dấu ngoặc có dấu \"+\" đứng trước thì dấu các số hạng trong ngoặc vẫn giữ nguyên.\nLời giải hay"
+    },
+    {
+        "problem": "Tính hiệu: (-14,25) - (-9,2)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a- (-b)= a+b\nLời giải chi tiết\nTa có: (-14,25) - (-9,2)= (-14,25) +9,2= -(14,25 - 9,2)= -5,05\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\n\\(19,32 + 10,68 - 8,63 - 11,37.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng quy tắc dấu ngoặc.\nLời giải chi tiết\n\\(\\begin{array}{l}19,32 + 10,68 - 8,63 - 11,37\\\\ = \\left( {19,32 + 10,68} \\right) - \\left( {8,63 + 11,37} \\right)\\\\ = 30 - 20\\\\ = 10\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\(324,82 + 312,25;\\)\nc) \\(\\left( { - 41,29} \\right) - 15,34;\\)\nb) \\(\\left( { - {\\rm{ }}12,07} \\right) + \\left( { - 5,79} \\right);\\)\nd) \\(\\left( { - {\\rm{ }}22,65} \\right) - \\left( { - 1,12} \\right).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn cộng hai số thập phân khác dấu không đối nhau ta tìm hiệu hai giá trị tuyệt đối của chúng (số lớn trừ số nhỏ) và đặt trước kết quả tìm được dấu của số có giá trị tuyệt đối lớn hơn.\n- Muốn trừ hai số thập phân ta cộng số bị trừ với số đối của số trừ.\nLời giải chi tiết\n\\(\\begin{array}{*{20}{l}}{a){\\rm{ }}324,82 + 312,25 = 637,07}\\\\{b){\\rm{ }}\\left( { - {\\rm{ }}12,07} \\right) + \\left( { - {\\rm{ }}5,79} \\right) =  - \\left( {{\\rm{ }}12,07 + 5,79} \\right) =  - 17,86}\\\\\\begin{array}{l}c){\\rm{ }}\\left( { - {\\rm{ }}41,29} \\right) - 15,34{\\rm{ }} = \\left( { - {\\rm{ }}41,29} \\right) + \\left( { - 15,34} \\right)\\\\ =  - \\left( {{\\rm{ }}41,29 + 15,34} \\right) =  - 56,63\\end{array}\\\\{d){\\rm{ }}\\left( { - {\\rm{ }}22,65} \\right) - \\left( { - {\\rm{ }}1,12} \\right) = \\left( { - {\\rm{ }}22,65} \\right) + {\\rm{ }}1,12 =  - 21,53\\;}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) \\(29,42 + 20,58-34,23 + \\left( { - {\\rm{ }}25,77} \\right);\\)\nb) \\(\\left( { - 212,49} \\right) - \\left( {87,51 - 99,9} \\right).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính chất giao hoán: Với mọi a,b thuộc \\(\\mathbb{Z}\\): a + b = b + a.\n- Tính chất kết hợp: Với mọi a,b,c thuộc \\(\\mathbb{Z}\\): (a + b) + c = a + (b + c).\nLời giải chi tiết\n\\(\\begin{array}{l}a){\\rm{ }}29,42 + 20,58 - 34,23 + \\left( { - {\\rm{ }}25,77} \\right)\\\\ = \\left( {29,42 + 20,58{\\rm{ }}} \\right) - \\left( {34,23 + 25,77} \\right)\\\\ = 50 - 60\\\\ =  - 10\\end{array}\\)\n\\(\\begin{array}{l}b){\\rm{ }}\\left( { - {\\rm{ }}212,49} \\right) - \\left( {87,51 - 99,9} \\right)\\\\ = \\left( { - {\\rm{ }}212,49} \\right) - 87,51{\\rm{ + }}99,9\\\\ = {\\rm{ }}\\left( { - {\\rm{ }}212,49 - 87,51} \\right) + 99,9\\\\ =  - {\\rm{ }}300 + 99,9\\\\ =  - 200,1.\\end{array}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bạn Nam cao 1,57 m, bạn Linh cao 1,53 m, bạn Loan cao 1,49 m.\na) Trong ba bạn đó, bạn nào cao nhất? Bạn nào thấp nhất?\nb) Chiều cao của bạn cao nhất hơn bạn thấp nhất là bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh các số thập phân rồi suy ra bạn nào cao nhất? Bạn nào thấp nhất?\nb)  Tính hiệu chiều cao của bạn cao nhất và thấp nhất.\nLời giải chi tiết\na) Ta thấy: \\(1,57 > 1,53 > 1,49\\)\n=> Bạn Nam cao nhất, bạn Loan thấp nhất\nb) Chiều cao của bạn cao nhất hơn bạn thấp nhất là: 1,57 - 1,49 = 0,08 (m)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bác Đồng của ba thanh gỗ: thanh thứ nhất dài 1,85 m, thanh thứ hai dài hơn thanh thứ nhất 10 cm. Độ dài thanh gỗ thứ ba ngắn hơn tổng độ dài hai thanh gỗ đầu tiên là 1,35 m. Thanh gỗ thứ ba mà bác Đồng đã cưa dài bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính chiều dài thanh gỗ thứ hai.\n- Tính tổng chiều dài hai thanh gỗ đầu tiên.\n=>  Tính chiều dài thanh gỗ thứ ba\nLời giải chi tiết\nĐổi 10 cm = 0,1 m\nChiều dài thanh gỗ thứ hai là: \\(1,85 + 0,1 = 1,95\\) (m)\nTổng chiều dài hai thanh gỗ đầu tiên là: \\(1,85 + 1,95 = 3,8\\)(m)\nChiều dài thanh gỗ thứ ba là: \\(3,8 - 1,35 = 2,45\\) (m)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Inch( đọc là in-sơ, kí hiệu là in) là tên của một đơn vị đo độ dài: 1 in= 2,54 cm. Một chiếc ti vi màn hình phẳng có độ dài đường chéo là 52 in.\nĐộ dài đường chéo của màn hình ti vi là bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép nhân.\nChú ý đơn vị\nLời giải chi tiết\nĐộ dài đường chéo của màn hình ti vi là:\n2,54. 52= 132,08(cm)= 1,3208 m\nLời giải hay"
+    },
+    {
+        "problem": "Nêu quy tắc nhân hai số nguyên cùng dấu; khác dấu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nêu quy tắc nhân hai số nguyên cùng dấu; khác dấu đã học.\nLời giải chi tiết\n- Muốn nhân hai số nguyên khác dấu, ta nhân hai giá trị tuyệt đối của chúng rồi đặt dấu \"-\" trước kết quả nhận được.\n- Muốn nhân hai số nguyên cùng dấu, ta nhân hai giá trị tuyệt đối của chúng rồi đặt dấu “+” trước kết quả của chúng.\nLời giải hay"
+    },
+    {
+        "problem": "Tính tích:\na) \\(8,15.\\left( { - 4,26} \\right);\\)\nb) \\(19,427.1,8\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn nhân hai số nguyên khác dấu, ta nhân hai phần số tự nhiên của chúng rồi đặt dấu \"-\" trước kết quả nhận được.\n- Muốn nhân hai số nguyên cùng dấu, ta nhân hai phần số tự nhiên của chúng rồi đặt dấu “+” trước kết quả của chúng.\nLời giải chi tiết\na) 8,15 . (- 4,26) = - ( 4,26 . 8,15 ) = - 34,719\nb) 19,427 . 1,8 = 34, 9686."
+    },
+    {
+        "problem": "Hãy nêu các tính chất của phép nhân số nguyên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nêu các tính chất của phép nhân số nguyên đã học.\nLời giải chi tiết\n1) Tính chất giao hoán: a.b = b.a\n2) Tính chất kết hợp: (a.b).c = a.(b.c)\n3) Nhân với số 1: a.1 = 1.a = a\n4) Tính chất phân phối của phép nhân đối với phép cộng: a.(b + c) = a.b + a.c.\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 0,25.12;\nb) 0,125.14.36.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chất kết hợp: (a.b).c = a.(b.c)\nLời giải chi tiết\na) 0,25 . 12 = 0,25 . 4 . 3 = 1 . 3 = 3\nb) 0,125 . 14 . 36 = 0,125 . 2 . 7 . 4 . 9\n= 0,125 . (2 . 4) . ( 7 . 9 )\n=  0,125  . 8 . 63 = 1. 63 = 63.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nêu quy tắc chia hai số nguyên cùng dấu; khác dấu trong trường hợp phép chia hết.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nêu quy tắc chia hai số nguyên cùng dấu; khác dấu trong trường hợp phép chia hết đã được học.\nLời giải chi tiết\nThương hai số nguyên cùng dấu mang dấu âm\nThương hai số nguyên khác dấu mang dấu âm.\nLời giải hay"
+    },
+    {
+        "problem": "Tính thương:\na) \\(( - 17,01):( - 12,15);\\)\nb) \\(( - 15,175):12,14.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Khi nhân hoặc chia hai số thập phân cùng âm, ta nhân hoặc chia hai số đối của chúng.\n+) Khi nhân hoặc chia hai số thập phân khác dấu, ta chỉ thực hiện phép nhân hoặc chia giữa số dương và số đối của số âm rồi thêm dấu trừ (-) trước kết quả nhận được.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}( - 17,01):( - 12,15)\\\\ = 17,01:12,15\\\\ = 1,4\\end{array}\\)\nb)\n\\(\\begin{array}{l}( - 15,175):12,14\\\\ =  - (15,175:12,14)\\\\ =  - 1,25\\end{array}\\)."
+    }
+]

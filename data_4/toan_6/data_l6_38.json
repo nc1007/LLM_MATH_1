@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1. Dùng kí hiệu để ghi lại cách diễn đạt sau:\n“ Đường thẳng aa chứa điểm M và không chứa điểm P . Điểm O thuộc đường thẳng a và không thuộc đường thẳng b.”\nA. M∈a; P∉a; O∈a; O∉b \nB. M∈a; P∉a; O∉a; O∉b \nC. M∉a; P∈a; O∈a; O∉b \nD. M∉a; P∉a; O∈a; O∈b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nKí hiệu cho cách diễn đạt “ Đường thẳng aa chứa điểm M và không chứa điểm P . Điểm O thuộc đường thẳng aa và không thuộc đường thẳng b” là:\nM∈a, P∉a, O∈a, O∉b\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 18. Chọn câu đúng.\nA. Nếu ba điểm cùng thuộc một đường thẳng thì ba điểm đó không thẳng hàng\nB. Nếu ba điểm không cùng thuộc một đường thẳng thì ba điểm đó thẳng hàng\nC. Nếu ba điểm cùng thuộc một đường thẳng thì ba điểm đó thẳng hàng\nD. Cả ba đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTừ định nghĩa ba điểm thẳng hàng ta thấy đáp án C đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 25. Cho hai đường thẳng a; b. Khi đó a; b có thể\nA. Song song\nB. Trùng nhau\nC. Cắt nhau\nD. Cả ba đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHai đường thẳng a,ba,b bất kì có thể trùng nhau, song song hoặc cắt nhau.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 26. Chọn câu đúng.\nA. Qua hai điểm phân biệt có vô số đường thẳng\nB. Có vô số điểm cùng thuộc một đường thẳng\nC. Hai đường thẳng phân biệt thì song song\nD. Trong ba điểm thẳng hàng thì có hai điểm nằm giữa",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: Qua hai điểm phân biệt có một và chỉ một đường thẳng nên A sai.\nĐáp án B: Có vô số điểm cùng thuộc một đường thẳng nên B đúng.\nĐáp án C: Hai đường thẳng phân biệt thì có thể song song hoặc cắt nhau nên C sai.\nĐáp án D: Trong ba điểm thẳng hàng chỉ có một điểm nằm giữa hai điểm còn lại nên D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 28. Cho 5 điểm A, B, C, D, E trong đó không có ba điểm nào thẳng hàng. Vẽ đường thẳng đi qua các cặp điểm. Hỏi vẽ được bao nhiêu đường thẳng?\nA. 25 \nB. 10\nC. 20 \nD. 16",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác đường thẳng là:\nAB, AC, AD, AE, BC, BD, BE, CD, CE, DE\nVậy có tất cả 10 đường thẳng cần tìm.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 29. Cho 3 đường thẳng a, b, c phân biệt. Trong trường hợp nào thì ba đường thẳng đó đôi một không có giao điểm?\nA. ba đường thẳng đôi một cắt nhau \nB. a cắt b và aa song song c\nC. ba đường thẳng đôi một song song\nD. a song song b và a cắt c",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBa đường thẳng đôi một không có giao điểm nghĩa là:\n+ a, b không có giao điểm hay a song song b\n+ b, c không có giao điểm hay b song song c\n+ a, c không có giao điểm hay a song song c\nVậy ba đường thẳng đôi một song song.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 30. Cho 100 điểm trong đó không có 33 điểm nào thẳng hàng. Hỏi vẽ được bao nhiêu đường thẳng đi qua các cặp điểm.\nA. 4950 đường thẳng\nB. 4590 đường thẳng\nC. 9900 đường thẳng\nD. 100 đường thẳng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi các điểm đó có tên lần lượt là A1,...,A100\n+ Qua điểm A1 và 99 điểm còn lại ta vẽ được 99 đường thẳng.\n + Qua điểm A2 và 99 điểm còn lại ta vẽ được 99 đường thẳng.\n…\n+ Qua điểm A100 và 99 điểm còn lại ta vẽ được 99 đường thẳng.\nDo đó có 100.99 = 9900 đường thẳng.\nTuy nhiên mỗi đường thẳng lại được tính hai lần nên số đường thẳng được tạo thành là: 9900:2 = 4950 (đường thẳng)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 31. Cho trước một số điểm trong đó không có ba điểm nào thẳng hàng. Vẽ đường thẳng đi qua các cặp điểm. Biết tổng số đường thẳng vẽ được là 21. Hỏi có bao nhiêu điểm cho trước?\nA. 6\nB. 10\nC. 12 \nD. 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số điểm cần tìm là n điểm (n∈N∗)\nTa gọi tên các điểm là A1, A2,..., An\n+ Qua điểm A1 và n − 1 điểm còn lại ta vẽ được n − 1 đường thẳng.\n + Qua điểm A2 và n − 1 điểm còn lại ta vẽ được n − 1 đường thẳng.\n…\n+ Qua điểm An và n − 1 điểm còn lại ta vẽ được n − 1 đường thẳng.\nDo đó có n.(n − 1) đường thẳng.\nTuy nhiên, mỗi đường thẳng được tính 2 lần nên số đường thẳng được tạo thành là: n(n − 1):2 (đường thẳng)\nTheo bài ra:\nn(n − 1):2 = 21\nn(n − 1) = 21.2\nn(n − 1) = 42 = 7.6\nVậy n = 7\nĐáp án cần chọn là: D"
+    }
+]

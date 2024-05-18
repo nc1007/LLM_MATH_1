@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 6: Đội tuyển học sinh giỏi có 18 học sinh nam và 22 học sinh nữ. Tính tỉ số phần trăm của số học sinh nữ và số học sinh cả đội tuyển.Đội tuyển học sinh giỏi có 18 học sinh nam và 22 học sinh nữ. Tính tỉ số phần trăm của số học sinh nữ và số học sinh cả đội tuyển.\nA.\t55%\nB.\t45%\nC.\t81%\nD.\t122%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đội tuyển học sinh giỏi có tất cả số học sinh là:\n18 + 22 = 40 (bạn)\nTỉ số phần trăm của số học sinh nữ và số học sinh cả đội tuyển là:\n22 : 40 = 0,55\n0,55 = 55% \nĐáp số: 55%"
+    },
+    {
+        "problem": "Câu 9: Một ca nô đi xuôi dòng một khúc sông từ bến A đến bến B hết 2 giờ 30 phút. Biết vận tốc thực của ca nô là 27,5 km/giờ, vận tốc dòng nước là 2,5 km/giờ. Hỏi ca nô đi ngược dòng khúc sống từ bến B đến bến A hết bao nhiêu thời gian? \nA.\t3 giờ\nB.\t3 giờ 15 phút\nC.\t2 giờ 45 phút\nD.\t3 giờ 30 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 2 giờ 30 phút = 2,5 giờ\nVận tốc của ca nô khi đi xuôi dòng là:\n27,5 + 2,5 = 30 (km/giờ)\nVận tốc của ca nô khi đi ngược dòng là:\n27,5 - 2,5 = 25 (km/giờ)\nĐộ dài từ bến A đến bến B là:\n30 x 2,5 = 75 (km) \nCa nô đi ngược dòng khúc sống từ bến B đến bến A hết số thời gian là:\n75 : 25 = 3 (giờ)\nĐáp số: 3 giờ."
+    },
+    {
+        "problem": "Câu 10: Một bếp ăn dữ trữ khối lượng gạo đủ cho 16 người trong 15 ngày. Vì số người thực tế đông hơn dự kiến nên số gạo đó chỉ đủ ăn trong 12 ngày. Tính số người đến thêm, biết rằng khẩu phần gạo của mỗi người trong một ngày đều như nhau.\nA.\t4 người\nB.\t8 người\nC.\t10 người\nD.\t20 người",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(phương pháp rút về đơn vị) \n1 người ăn hết số gạo đó trong số ngày là:\n15 x 16 = 240 (ngày)\nĐể ăn hết số gạo đó trong 12 ngày thì cần số người là:\n240 : 12 = 20 (người)\nSố người đến thêm là :\n20 – 16 = 4 (người)\nĐáp số: 4 người."
+    },
+    {
+        "problem": "Câu 13: Một thửa ruộng hình thang có trung bình cộng hai đáy là 44m, đáy lớn hơn đáy bé 8m, chiều cao bằng  đáy lớn.\nDiện tích thửa ruộng đó là:\nA.\t396m^{2}  \nB.\t2816m^{2} \nC.\t1584m^{2}  \nD.\t3168m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng độ dài hai đáy là:\n 44 x 2 = 88 (m)\nĐộ dài đáy lớn của thửa ruộng đó là:\n (88 + 8) : 2 = 48 (m)\nĐộ dài đáy bé của thửa ruộng đó là:\n 88 - 48 = 40 (m)\nChiều cao của thửa ruộng đó là:\n 48 : 4 x 3 = 36 (m)\nDiện tích thửa ruộng đó là:\n (48 + 40) x 36 : 2 = 1584 (m^{2} )\nĐáp số: 1584m^{2} ."
+    }
+]

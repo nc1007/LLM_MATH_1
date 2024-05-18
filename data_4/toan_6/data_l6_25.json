@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 2. Tâm đối xứng của hình tròn là:\nA. Tâm của đường tròn\nB. Một điểm bất kì nằm bên trong đường tròn\nC. Một điểm bất kì nằm trên đường tròn\nD. Một điểm bất kì nằm bên ngoài đường tròn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tâm đối xứng của hình tròn là tâm của đường tròn.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Hình nào dưới đây không có tâm đối xứng\nA. Hình bình hành\nB. Hình thoi\nC. Hình chữ nhật\nD. Hình thang cân",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hình thang cân là hình không có tâm đối xứng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Phát biểu nào dưới đây là đúng?\nA. Hình thoi có tâm đối xứng nhưng không có trục đối xứng.\nB. Hình thang cân có trục đối xứng, nhưng không có tâm đối xứng.\nC. Hình bình hành vừa có tâm đối xứng, vừa có trục đối xứng.\nD. Hình chữ nhật có trục đối xứng nhưng không có tâm đối xứng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n- Hình thoi có hai trục đối xứng là hai đường chéo, và tâm đối xứng là giao điểm của hai đường chéo nên A sai.\n- Hình thang cân có trục đối xứng, nhưng không có tâm đối xứng nên B đúng.\n- Hình bình hành có tâm đối xứng nhưng không có trục đối xứng nên C sai.\n- Hình chữ nhật vừa có trục đối xứng, vừa có tâm đối xứng nên D sai.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Trong các hình: Hình bình hành, hình chữ nhật, hình vuông, hình lục giác đều, hình thoi thì có bao nhiêu hình không có tâm đối xứng?\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTất cả các hình trên đều có tâm đối xứng.\nDo đó không có hình nào không có tâm đối xứng.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 7. Khẳng định nào dưới đây là sai về tam giác đều?\nA. Tam giác đều có ba trục đối xứng\nB. Tam giác đều có tâm đối xứng là giao điểm của ba trục đối xứng\nC. Tam giác đều không có tâm đối xứng\nD. Tam giác đều có ba cạnh bằng nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTam giác đều có ba cạnh bằng nhau nên D đúng.\nTam giác đều có ba trục đối xứng nối đỉnh với trung điểm cạnh đối diện. Do đó A đúng.\nTam giác đều không có tâm đối xứng nên C đúng, B sai.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 9. Trong các số dưới đây, số nào có tâm đối xứng\nA. 4\nB. 0\nC. 6\nD. 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số có tâm đối xứng là số 0.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 10. Hình nào dưới đây không có tâm đối xứng\nA. Lục giác đều\nB. Tam giác đều\nC. Hình bình hành\nD. Hình thoi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tam giác đều là hình không có tâm đối xứng.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Các phát biểu sau đúng hay sai? Có bao nhiêu phát biểu sai?\na) Tam giác đều ABC là hình đối xứng tâm.\nb) Hình thang cân là hình có tâm đối xứng và giao điểm của hai đường chéo là tâm đối xứng.\nc) Hình thoi ABCD có tâm đối xứng là điểm O (O là giao điểm của hai đường chéo AC và BD).\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTam giác đều ABC là hình không có tâm đối xứng. Do đó phát biểu a) sai.\nHình thang cân là hình không có tâm đối xứng nên phát biểu b sai.\nHình thoi là hình có tâm đối xứng là giao điểm của hai đường chéo nên phát biểu c) đúng.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Cho đoạn thẳng MN dài 18cm. Biết O là tâm đối xứng của MN. Tính ON\nA. 9cm\nB. 8cm\nC. 18cm\nD. 6cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Do O là tâm đối xứng của đoạn thẳng MN nên độ dài đoạn OM bằng độ dài ON bằng độ dài MN chia 2 bằng: 18:2 = 9 cm.\nĐáp án: A"
+    }
+]

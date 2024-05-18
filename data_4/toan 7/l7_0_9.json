@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Làm tròn số 5 đến hàng phần nghìn được số:\nA. 2,23;\nB. 2,2361;\nC. 2,236;\nD. 2,237.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có 5 = 2,23606…\nChữ số hàng phần nghìn của số 2,23606… là chữ số 6.\nTa thấy chữ số bên phải chữ số 6 là 0 mà 0 < 5 nên ta giữ nguyên chữ số hàng phần nghìn là 6 đồng thời bỏ tất cả các chữ số hàng phần chục nghìn trở đi.\nDo đó, làm tròn số 5 đến hàng phần nghìn được số 2,236.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 2. Làm tròn số \\frac{−19}{3}  đến hàng phần trăm được số:\nA. − 6,34;\nB. − 6,33;\nC. − 6,4;\nD. − 6,3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có \\frac{−19}{3} = 6,3333…\nChữ số hàng phần trăm của số 6,3333… là chữ số 3.\nTa thấy chữ số bên phải của chữ số 3 là chữ số 3 mà 3 < 5 nên ta giữ nguyên chữ số hàng phần trăm là 3 đồng thời bỏ tất cả các chữ số hàng phần nghìn trở đi. \nDo đó, làm tròn số \\frac{−19}{3}  đến hàng phần trăm được số − 6,33.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 3. Làm tròn số π đến hàng phần mười được số:\nA. 3,14;\nB. 3,15;\nC. 3,2;\nD. 3,1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có π = 3,14159…\nChữ số hàng phần mười của số 3,14159… là chữ số 1.\nTa thấy chữ số bên phải của chữ số 1 là chữ số 4 mà 4 < 5 nên ta giữ nguyên chữ số hàng phần mười là 1 đồng thời bỏ tất cả các chữ số hàng phần trăm trở đi. \nDo đó, làm tròn số π đến hàng phần mười được số 3,1.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 4. Làm tròn số 183,(1) đến hàng đơn vị được số:\nA. 183,1;\nB. 183,11;\nC. 183;\nD. 184.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có 183,(1) = 183,111…\nChữ số hàng đơn vị của số 183,111… là chữ số 3.\nTa thấy chữ số bên phải của chữ số 3 là chữ số 1 mà 1 < 5 nên giữ nguyên chữ số hàng đơn vị và bỏ các chữ số từ hàng phần mười trở đi.\nDo đó, làm tròn số 183,(1) đến hàng đơn vị được số 183.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 5. Làm tròn số 5 000π đến hàng trăm được số:\nA. 15 707;\nB. 15 708;\nC. 15 800;\nD. 15 700.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: 5 000π = 15 707,96…\nHàng trăm của số 5 000π là chữ số 7\nTa thấy chữ số bên phải của chữ số 7 là chữ số 0 mà 0 < 5 \nDo đó, làm tròn số 5 000p đến hàng trăm được số 15 700.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 6. Một hình chữ nhật có chiều dài 20,3 cm, chiều rộng 14,52 cm. Diện tích hình chữ nhật và làm tròn kết quả đến hàng phần mười là:\nA. 294,756 cm^{2} ; \nB. 294,8 cm^{2} ;\nC. 294,76  cm^{2} ;\nD. 294,7 cm^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nDiện tích hình chữ nhật đó là:\n20,3 . 14,52 = 294,756 (cm^{2} )\nChữ số hàng phần mười của số 294,756 là chữ số 7.\nTa thấy chữ số bên phải của chữ số 7 là chữ số 5 nên chữ số hàng phần chục tăng thêm một đơn vị là 8 và bỏ các chữ số từ hàng phần trăm trở đi.\nDo đó, làm tròn 294,756 đến hàng phần mười ta được 294,8.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 7. Diện tích của một sân chơi hình vuông có cạnh 4,25 m và làm tròn kết quả đến hàng phần mười là:\nA. 18,06 cm^{2} ;\nB. 18,1 cm^{2} ;\nC. 18,0625 cm^{2} ;\nD. 18,063 cm^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nDiện tích sân chơi đó là: 4,25 . 4,25 = 18,0625 (cm^{2} )\nChữ số hàng phần mười của số 18,0625 là chữ số 0.\nTa thấy bên phải chữ số 0 là chữ số 6 mà 6 > 5 nên chữ số hàng phần mười tăng thêm một đơn vị là 8 và bỏ các chữ số từ hàng phần trăm trở đi.\nDo đó, làm tròn số 18,0625 đến hàng phần mười được số 18,1.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 8. Làm tròn số −4,5682 với độ chính xác d = 0,008 được số:\nA. 4,57\nB. −4,568\nC. −4,56\nD. −4,57",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDo độ chính xác đến hàng phần nghìn nên ta làm tròn số −4,5682 đến hàng phần trăm\nChữ số hàng phần trăm của số −4,5682 là chữ số 6.\nTa thấy chữ số bên phải chữ số 6 là 8 mà 8 > 5 nên chữ số hàng phần trăm tăng thêm một đơn vị là 7 và bỏ các chữ số từ hàng phần nghìn trở đi.\nDo đó, làm tròn số −4,5682 đến hàng phần trăm ta được −4,57.\nSuy ra làm tròn số −4,5682 với độ chính xác d = 0,008 ta được kết quả −4,57.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 9. Làm tròn số 15 907 103 với độ chính xác d = 900 000 được số:\nA. 15 900 000;\nB. 15 910 000;\nC. 16 000 000;\nD. 16.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDo độ chính xác đến hàng trăm nghìn nên ta làm tròn số 15 907 103 đến hàng triệu\nChữ số hàng triệu của số 15 907 103 là chữ số 5.\nTa thấy chữ số bên phải của chữ số 5 là chữ số 9 mà 9 > 5 nên chữ số hàng triệu tăng thêm một đơn vị là 1 và các chữ số từ hàng trăm nghìn trở đi thay bằng các chữ số 0.\nDo đó, làm tròn số 15 907 103 đến hàng triệu được số 16 000 000.\nSuy ra làm tròn số 15 907 103 với độ chính xác là 900 000 được số 16 000 000.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 10. Diện tích của đất nước Việt Nam là 331 690 km^{2} . Làm tròn số này với độ chính xác d = 500 được số:\nA. 331 600 km^{2} ;\nB. 332 000 km^{2} ;\nC. 331 700 km^{2} ;\nD. 331 000 km^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nDo độ chính xác đến hàng trăm nên ta làm tròn số 331 690 đến hàng nghìn.\nChữ số hàng nghìn của số 331 690 là chữ số 1.\nTa thấy chữ số bên phải của chữ số 1 là chữ số 6 mà 6 > 5 nên chữ số hàng nghìn tăng thêm một đơn vị là 2 và các chữ số từ hàng trăm trở đi thay bằng các chữ số 0.\nDo đó, làm tròn số 331 690 đến hàng nghìn được số: 332 000.\nSuy ra làm tròn số 331 690 với độ chính xác d = 500 được số 332 000 km^{2} .\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 11. Một chiếc máy tính có đường chéo dài 16 inch. Độ dài đường chéo của máy tính này theo đơn vị cm với độ chính xác d = 0,04 (cho biết 1 inch ≈ 2,54 cm) là:\nA. 40 cm;\nB. 40,7 cm;\nC. 40,65 cm;\nD. 40,6 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nĐộ dài đường chéo của máy tính đó là:\n2,54 . 16 = 40,64 (cm)\nDo độ chính xác đến hàng phần trăm nên ta làm tròn số 40,64 đến hàng phần mười.\nChữ số hàng phần mười của số 40,64 là chữ số 6.\nTa thấy chữ số bên phải chữ số 6 là chữ số 4 mà 4 < 5 nên giữ nguyên chữ số hàng phần mười và bỏ đi chữ số từ hàng phần trăm.\nDo đó, làm tròn số 40,64 đến hàng phần mười được số 40,6.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 12. Ước lượng kết quả của phép tính 2 133 . 496 được:\nA. 1 050 000;\nB. 1 500 000;\nC. 1 000 000;\nD. 1 100 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có 2133 ≈ 2000; 496 ≈ 500\nSuy ra 2 133 . 496 ≈ 2 000 . 500 = 1 000 000.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 13. Dân số thế giới năm 2021 là 7 934 731 751 người. Quy tròn số dân này với độ chính xác d = 600 000 được số:\nA. 7 934 000 000;\nB. 7 934 700 000;\nC. 7 935 000 000;\nD. 7 930 000 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDo độ chính xác đến hàng trăm nghìn nên quy tròn số 7 934 731 751 với độ chính xác d = 600 000 nên ta làm tròn số 7 934 731 751 đến hàng triệu.\nChữ số hàng triệu của số 7 934 731 751 là chữ số 4.\nTa thấy chữ số bên phải của chữ số 4 là chữ số 7 mà 7 > 5 nên chữ số hàng triệu tăng thêm một đơn vị là 5 và các chữ số từ hàng trăm nghìn trở đi thay bằng các chữ số 0.\nDo đó, quy tròn số 7 934 731 751 đến hàng triệu được số 7 935 000 000.\nSuy ra quy tròn số 7 934 731 751 với độ chính xác d = 600 000 được số 7 935 000 000.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 14. Làm tròn số 13 với độ chính xác d = 0,007 được số:\nA. 3,601;\nB. 3,61;\nC. 3,606;\nD. 3,6066.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có 13 = 3,60555…\nDo độ chính xác đến hàng phần nghìn nên làm tròn số 13  đến hàng phần trăm \nChữ số hàng phần trăm của số 3,60555…là chữ số 0.\nTa thấy chữ số bên phải của chữ số 0 là chữ số 5 nên chữ số hàng phần trăm tăng thêm một đơn vị là 1 và bỏ các chữ số từ hàng phần nghìn trở đi.\nDo đó, làm tròn số 13  đến hàng phần trăm được số 3,61.\nSuy ra làm tròn số 13  với độ chính xác d = 0,007 được số 3,61.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 15. Làm tròn số -\\frac{369}{35}  với độ chính xác d = 0,5 được số:\nA. 10;\nB. −10,5;\nC. −11;\nD. 10,6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDo độ chính xác đến hàng phần mười nên làm tròn số -\\frac{369}{35}  đến hàng đơn vị\nTa có  -\\frac{369}{35} = 10,542…\nChữ số hàng đơn vị của số 10,542…là chữ số 0.\nTa thấy chữ số bên phải của chữ số 0 là chữ số 5 nên chữ số hàng đơn vị tăng thêm một đơn vị là 1 và bỏ các chữ số từ hàng phần mười trở đi.\nDo đó, làm tròn số -\\frac{369}{35}  đến hàng đơn vị được số − 11.\nSuy ra, làm tròn số -\\frac{369}{35}  với độ chính xác d = 0,5 được số − 11.\nVậy chọn đáp án C."
+    }
+]

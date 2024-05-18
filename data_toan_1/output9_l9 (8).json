@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Không thực hiện phép tính, hãy cho biết tổng nào sau đây chia hết cho 5?\na) 15 + 1 975 + 2019;\nb) 20 + 90 + 2025 + 2 050.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)m, b\\( \\vdots \\)m và c\\(\\not{ \\vdots }\\)m thì (a + b + c) \\(\\not{ \\vdots }\\)m.\nLời giải chi tiết\na) Tổng (15 + 1 975 + 2 019) \\(\\not{ \\vdots }\\) 5 vì 15 \\( \\vdots \\) 5 và 1 975 \\( \\vdots \\) 5 nhưng 2 019 \\(\\not{ \\vdots }\\) 5\nb) Tổng (20 + 90 + 2 025 + 2 050) \\( \\vdots \\) 5 vì mỗi số hạng của tổng đều chia hết cho 5.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy cho biết hiệu nào sau đây chia hết cho 8?\na) 100 – 40 ;\nb) 80 – 16;\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)m và b\\(\\not{ \\vdots }\\)m thì (a - b) \\(\\not{ \\vdots }\\)m.\nNếu a\\( \\vdots \\)m và b\\( \\vdots \\) m thì (a - b) \\( \\vdots \\)m.\nLời giải chi tiết\na) Hiệu (100 - 40)\\(\\not{ \\vdots }\\) 8 vì 100 \\(\\not{ \\vdots }\\) 8 và 40 \\( \\vdots \\) 8\nb) Hiệu (80 - 16) \\( \\vdots \\) 8 vì 80 \\( \\vdots \\) 8 và 16 \\( \\vdots \\) 8.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Khẳng định nào sau đây là đúng?\na) 219 .7 + 8 chia hết cho 7;\nb) 8 . 12 + 9 chia hết cho 3.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)m và b\\(\\not{ \\vdots }\\)m thì (a + b) \\(\\not{ \\vdots }\\)m.\nNếu a\\( \\vdots \\)m và b\\( \\vdots \\) m thì (a + b) \\( \\vdots \\)m.\nLời giải chi tiết\na) Ta thấy 7 \\( \\vdots \\) 7 nên (219 . 7) \\( \\vdots \\) 7. Mà 8 \\(\\not{ \\vdots }\\) 7.\nDo đó (219.7 + 8) \\(\\not{ \\vdots }\\) 7\nVậy khẳng định 219.7 + 8 chia hết cho 7 là sai\nb) Ta thấy 12 \\( \\vdots \\) 3 nên (8. 12) \\( \\vdots \\) 3. Mà 9 \\( \\vdots \\) 3\nDo đó (8.12 + 9) \\( \\vdots \\) 3\nVậy khẳng định 8.12 + 9 chia hết cho 3 là đúng"
+    },
+    {
+        "problem": "a) Tìm x thuộc tập {23; 24; 25; 26}, biết 56 – x chia hết cho 8;\nb) Tìm x thuộc tập {22; 24; 45; 48}, biết 60 + x không chia hết cho 6.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) (56 – x) \\({ \\vdots }\\) 8 mà 56 \\( \\vdots \\) 8 nên x \\( \\vdots \\) 8.\nb) (60 + x) \\(\\not{ \\vdots }\\) 6 mà 60 \\( \\vdots \\) 6 nên x\\(\\not{ \\vdots }\\) 6.\nLời giải chi tiết\na) (56 – x) \\({ \\vdots }\\) 8 mà 56 \\( \\vdots \\) 8 nên x \\( \\vdots \\) 8\nMặt khác: x \\( \\in \\) {23; 24; 25; 26} nên x = 24\nb)\n(60 + x) \\(\\not{ \\vdots }\\) 6 mà 60 \\( \\vdots \\) 6 nên x\\(\\not{ \\vdots }\\) 6\nMặt khác: x \\( \\in \\) {22; 24; 45; 48} nên x = 22 hoặc x = 45."
+    },
+    {
+        "problem": "Xét số n = \\(\\overline {23*} \\) (* là chữ số tận cùng của n). Ta viết n = 230 + *\nSố 230 có chia hết cho 2 và chia hết cho 5 không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia và kết luận\nLời giải chi tiết\nTa có: 230 : 2 = 115; 230 : 5 = 46\nSố 230 chia hết cho 2 và cho 5"
+    },
+    {
+        "problem": "Xét số n = \\(\\overline {23*} \\) (* là chữ số tận cùng của n).\nTa viết n = 230 + *\nVận dụng tính chất chia hết của một tổng, hãy cho biết:\na) Thay dấu * bởi chữ số nào thì n chia hết cho 2?\nb) Thay dấu * bởi chữ số nào thì n chia hết cho 5?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a\\( \\vdots \\)m; b\\( \\vdots \\)m => (a+b) \\( \\vdots \\)m\nLời giải chi tiết\nn = 230 + * (* ∈ N; 0 ≤ * ≤ 9)\na) Để n ⁝ 2 thì (230+*) \\( \\vdots \\) 2\nVì 230 \\( \\vdots \\) 2 nên * \\( \\vdots \\) 2\nMà 0 ≤ * ≤ 9\nDo đó * ∈ { 0;2;4;6;8}\nb) Để n ⁝ 5 thì (230+*) \\( \\vdots \\) 5\nVì 230 \\( \\vdots \\) 5 nên * \\( \\vdots \\) 5\nMà 0 ≤ * ≤ 9\nDo đó * ∈ {0;5}."
+    },
+    {
+        "problem": "1. Không thực hiện phép tính, em hãy cho biết tổng (hiệu) sau có chia hết cho 2 không.\na) 1954 + 1 975;                     b) 2 020 – 938.\n2. Không thực hiện phép tính, em hãy cho biết tổng (hiệu) sau có chia hết cho 5 không.\na) 1 945 + 2 020 ;                   b) 1954 - 1930.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "• Các số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n• Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\n+ a\\( \\vdots \\)m; b\\( \\vdots \\)m => (a+b) \\( \\vdots \\)m ; (a – b) \\( \\vdots \\)m\nLời giải chi tiết\n1.\na) (1 954 + 1 975 )\\(\\not{ \\vdots }\\)2\nVì 1 954 có chữ số tận cùng là 4 chia hết cho 2 và 1 975 có chữ số tận cùng là 5 không chia hết cho 2\nb) (2 020 – 938) \\( \\vdots \\) 2\nVì 2 020 và 938 có chữ số tận cùng là 0 và 8 nên đều chia hết cho 2.\n2.\na) (1 945 + 2 020)\\( \\vdots \\)5\nVì 1 945 và 2 020 có chữ số tận cùng là 5 và 0 nên đều chia hết cho 5\nb) (1 954 – 1930) \\(\\not{ \\vdots }\\)5\nVì 1 954 có chữ số tận cùng là 4 không chia hết cho 5 và 1 930 có chữ số tận cùng là 0 chia hết cho 5."
+    },
+    {
+        "problem": "Cho các số: 27, 82, 195, 234.\nHãy sắp xếp các số trên thành hai nhóm: Nhóm các số chia hết cho 9 và nhóm các số không chia hết cho 9.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia và sắp xếp.\nLời giải chi tiết\nTa có: 27: 9 = 3; 82 : 9 = 9 (dư 1); 195 : 9 = 21 (dư 6); 234 : 9 = 26\n+ Nhóm các số chia hết cho 9:  27 ; 234\n+ Nhóm các số không chia hết cho 9:  82 ; 195"
+    },
+    {
+        "problem": "Cho các số 27; 82; 195; 234.\nTính tổng các chữ số của mỗi số và xét tính chia hết cho 9 của các tổng đó trong mỗi nhóm.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng các chữ số của số đó.\nLời giải chi tiết\n* Nhóm các số chia hết cho 9:\nTổng các chữ số của số 27 là 2+7=9 chia hết cho 9\nTổng các chữ số của số 2+3+4=9 chia hết cho 9\n* Nhóm các số không chia hết cho 9:\nTổng các chữ số của số 82 là 8+2 = 10 không chia hết cho 9\nTổng các chữ số của số 195 là 1+9+5=15 không chia hết cho 9"
+    },
+    {
+        "problem": "Thay dấu * bởi một chữ số để được số \\(\\overline {12*} \\) chia hết cho 9.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\nLời giải chi tiết\nSố \\(\\overline {12*} \\) chia hết cho 9 thì tổng các chữ số của nó cũng chia hết cho 9\nHay (1 + 2 + *) chia hết cho 9 hay (3 + *) chia hết cho 9\nVì 0 ≤ * ≤ 9 nên *  = 6."
+    },
+    {
+        "problem": "Thay dấu * bằng một chữ số đề số \\(\\overline {12*5} \\) chia hết cho 3.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Một số chia hết cho 3 nếu tổng các chữ số của nó cũng chia hết cho 3\nLời giải chi tiết\nSố \\(\\overline {12*5} \\) chia hết cho 3 khi tổng các chữ số của nó cũng chia hết cho 3\nNên (1 + 2 + * + 5) chia hết cho 3 hay (8 + *) chia hết cho 3\nVì 0 ≤ * ≤ 9 nên * ∈ {1; 4; 7}"
+    },
+    {
+        "problem": "Cho các số 42, 80, 191, 234.\nHãy sắp xếp các số trên thành hai nhóm: Nhóm các số chia hết cho 3 và nhóm các số không chia hết cho 3.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia rồi chia các số thành 2 nhóm\nLời giải chi tiết\nTa có: 42 : 3 = 14; 80 : 3 = 26 (dư 2); 191 : 3 = 63 (dư 2); 234 : 3 = 78\n+ Nhóm các số chia hết cho 3: 42 ; 234\n+ Nhóm các số không chia hết cho 3: 80 ; 191"
+    },
+    {
+        "problem": "Tính tổng các chữ số của mỗi số và xét tính chia hết cho 3 của các tổng đó trong mỗi nhóm.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính tổng các chữ số của mỗi số\n- Xét tính chia hết cho 3 của các tổng đó trong mỗi nhóm\nLời giải chi tiết\n* Nhóm các số chia hết cho 3:\nTổng các chữ số của số 42 là 4+2=6 chia hết cho 3\nTổng các chữ số của số 234 là 2+3+4=9 chia hết cho 3\n* Nhóm các số không chia hết cho 3:\nTổng các chữ số của số 80 là 8+0=8 không chia hết cho 3\nTổng các chữ số của số 191 là 1+9+1=11 không chia hết cho 3"
+    }
+]

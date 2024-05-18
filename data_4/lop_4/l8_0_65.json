@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Số có chữ số tận cùng là 0 hoặc 9 thì chia hết cho 9. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 9 thì chia hết cho 9.\nVậy khẳng định \" Số có chữ số tận cùng là 0 hoặc 9 thì chia hết cho 9 \" là sai."
+    },
+    {
+        "problem": "Câu 2: Lan nói: “các số có tổng các chữ số không chia hết cho 9 thì không chia hết cho 9”. Theo con, Lan nói đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số không chia hết cho 9 thì không chia hết cho 9.\nVậy Lan nói đúng."
+    },
+    {
+        "problem": "Câu 3: Trong các số sau số nào chia hết cho 9?\nA.\t333\nB.\t729\nC.\t3834\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 333 có tổng các chữ số là 3+3+3=9. Vì 9 chia hết cho 9 nên 333 chia hết cho 9.\nSố 729 có tổng các chữ số là 7+2+9=18. Vì 18 chia hết cho 9 nên 729 chia hết cho 9.\nSố 3834 có tổng các chữ số là 3+8+3+4=18. Vì 18 chia hết cho 9 nên 3834 chia hết cho 9.\nVậy tất cả các đáp án A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 4: Trong các số sau số nào không chia hết cho 9?\nA.\t5598\nB.\t1125\nC.\t854\nD.\t621",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 5598 có tổng các chữ số là 5+5+9+8=27. Vì 27 chia hết cho 9 nên 5598 chia hết cho 99.\nSố 1125 có tổng các chữ số là 1+1+2+5=9. Vì 9 chia hết cho 9 nên 1125 chia hết cho 9.\nSố 854 có tổng các chữ số là 8+5+4=17. Vì 17 không chia hết cho 9 nên 854 không chia hết cho 9.\nSố 621 có tổng các chữ số là 6+2+1=9. Vì 9 chia hết cho 9 nên 621 chia hết cho 9.\nVậy trong các số đã cho, số không chia hết cho 9 là 854."
+    },
+    {
+        "problem": "Câu 5: Cho các số sau: 92; 108; 135; 206; 277; 423; 1058; 2401. Có bao nhiêu số  chia hết cho 9?\nA.\t3 số\nB.\t4 số\nC.\t5 số\nD.\t6 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 92 có tổng các chữ số là 9+2=11. Vì 11 không chia hết cho 9 nên 92 không chia hết cho 9.\nSố 108 có tổng các chữ số là 1+0+8=9. Vì 9 chia hết cho 9 nên 108 chia hết cho 9.\nSố 135 có tổng các chữ số là 1+3+5=9. Vì 9 chia hết cho 9 nên 135 chia hết cho 9.\nSố 206 có tổng các chữ số là 2+0+6=8. Vì 8 không chia hết cho 9 nên 206 không chia hết cho 9.\nSố 277 có tổng các chữ số là 2+7+7=16. Vì 16 không chia hết cho 9 nên 277 không chia hết cho 9.\nSố 423 có tổng các chữ số là 4+2+3=9. Vì 9 chia hết cho 9 nên 423 chia hết cho 9.\nSố 1058 có tổng các chữ số là 1+0+5+8=14. Vì 14 không chia hết cho 9 nên 1058 không chia hết cho 9.\nSố 2401 có tổng các chữ số là 2+4+0+1=7. Vì 7 không chia hết cho 9 nên 2401 không chia hết cho 9.\nVậy có 3 số chia hết cho 9 là 108;135;423."
+    },
+    {
+        "problem": "Câu 6: Viết hai số có ba chữ số và chia hết cho 9.\nA.\t234; 436\nB.\t504; 711\nC.\t375; 369\nD.\t670; 929",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 234 có tổng các chữ số là 9. Vì 9 chia hết cho 9 nên 234 chia hết cho 9.\nSố 436 có tổng các chữ số là 13. Vì 13 không chia hết cho 9 nên 436 không chia hết cho 9.\nSố 504 có tổng các chữ số là 9. Vì 9 chia hết cho 9 nên 504 chia hết cho 9.\nSố 711 có tổng các chữ số là 9. Vì 9 chia hết cho 9 nên 711 chia hết cho 9.\nSố 375 có tổng các chữ số là 15. Vì 15 không chia hết cho 9 nên 375 không chia hết cho 9.\nSố 369 có tổng các chữ số là 18. Vì 18 chia hết cho 9 nên 369 chia hết cho 99.\nSố 670 có tổng các chữ số là 13. Vì 13 không chia hết cho 9 nên 670 không chia hết cho 9.\nSố 929 có tổng các chữ số là 21. Vì 21 không chia hết cho 9 nên 929 không chia hết cho 9.\nVậy cặp hai số có ba chữ số và chia hết cho 9 là 504;711."
+    },
+    {
+        "problem": "Câu 9: Cho A = 456×23 - 8573.\nGiá trị của biểu thức A không chia hết cho 9. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nA=456×23−8573A=10488−8573A=1915 \nSố 1915 có tổng các chữ số là 16. Vì 16 không chia hết cho 9 thì nên 1915 không chia hết cho 9.\nVậy khẳng định giá trị biểu thức A không chia hết cho 9 là đúng."
+    }
+]

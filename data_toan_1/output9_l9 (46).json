@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "a) Không thực hiện phép tính, xét xem các tổng, hiệu sau có chia hết cho 4 không? Tại sao?\n1200 + 440; 400 - 324; 2.3.4.6 +27.\nb) Tìm hai ví dụ về tổng hai số chia hết cho 5 nhưng các số hạng của tổng lại không chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho a, b, n là các số tự nhiên, n khác 0.\nNếu a\\( \\vdots \\)n và b\\( \\vdots \\)n thì (a + b) \\( \\vdots \\)n\nNếu a\\( \\vdots \\)n và b\\( \\vdots \\)n thì (a - b) \\( \\vdots \\)n\nNếu a\\(\\not{ \\vdots }\\) n, b\\( \\vdots \\)n thì (a - b) \\(\\not{ \\vdots }\\) n (a>b)\nNếu a\\( \\vdots \\)n, b\\(\\not{ \\vdots }\\) n thì (a - b) \\(\\not{ \\vdots }\\) n (a>b)\nNếu a\\(\\not{ \\vdots }\\) n, b\\( \\vdots \\)n thì (a + b) \\(\\not{ \\vdots }\\) n.\nLời giải chi tiết\na) Ta có:\n1200\\( \\vdots \\)4; 440\\( \\vdots \\)4 => (1200 + 440) \\( \\vdots \\) 4\n400\\( \\vdots \\)4; 324\\( \\vdots \\)4 => (400+324) \\( \\vdots \\)4\n2.3.4.6\\( \\vdots \\)4; 27\\(\\not{ \\vdots }\\) 4 => (2.3.4.6 +27)\\(\\not{ \\vdots }\\) 4\nb) Hai số 12 và 23 không chia hết cho 5 mà 12 + 23 = 35 chia hết cho 5."
+    },
+    {
+        "problem": "Cho tổng A = 12 + 14 + 16 + x; x là số tự nhiên. Tìm x để A chia hết cho 2;\nA không chia hết cho 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu tất cả các số hạng chia hết cho 2 thì A chia hết cho 2, nếu trong tổng có 1 số hạng không chia hết cho 2 thì A không chia hết cho 2.\nLời giải chi tiết\nDo 12\\( \\vdots \\)2; 14\\( \\vdots \\)2; 16\\( \\vdots \\)2 nên để A\\( \\vdots \\)2 thì x\\( \\vdots \\)2\n=> x\\( \\in \\){0; 2; 4; 6;…}\nDo 12\\( \\vdots \\)2; 14\\( \\vdots \\)2; 16\\( \\vdots \\)2 nên để A \\(\\not{ \\vdots }\\) 2 thì x phải \\(\\not{ \\vdots }\\) 2\n=> x\\( \\in \\){1; 3; 5; 7;…}\nLoigiaihay.com"
+    },
+    {
+        "problem": "Khẳng định nào sau đây là đúng, khẳng định nào là sai?\na) 1 560 + 390 chia hết cho 15;\nb) 456 + 555 không chia hết cho 10;\nc) 77+ 49 không chia hết cho 7;\nd) 6 624 – 1 806 chia hết cho 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\) n và b\\( \\vdots \\) n thì (a + b) \\( \\vdots \\) n\nNếu a\\( \\vdots \\) n và b\\( \\vdots \\) n thì (a - b) \\( \\vdots \\) n\nNếu a\\(\\not{ \\vdots }\\) n, b\\( \\vdots \\) n thì (a - b) \\(\\not{ \\vdots }\\) n (a>b)\nNếu a\\( \\vdots \\) n, b\\(\\not{ \\vdots }\\) n thì (a - b) \\(\\not{ \\vdots }\\) n (a>b)\nNếu a\\(\\not{ \\vdots }\\) n, b\\( \\vdots \\) n thì (a + b) \\(\\not{ \\vdots }\\) n.\nLời giải chi tiết\na) Ta có: 1 560\\( \\vdots \\)15; 390\\( \\vdots \\)15 => (1 560 + 390) \\( \\vdots \\) 15 => Khẳng định đúng\nb) Ta có: 456 + 555 có chữ số tận cùng là 1 nên tổng không chia hết cho 10 => Khẳng định đúng\nc) Ta có: 77\\( \\vdots \\)7; 49\\( \\vdots \\)7 => (77+ 49) \\( \\vdots \\)7 => Khẳng định sai\nd) Ta có: 6 624\\( \\vdots \\)6; 1 806\\( \\vdots \\)6 => (6 624 – 1 806) \\( \\vdots \\) 6 => Khẳng định đúng"
+    },
+    {
+        "problem": "Trong các phép chia sau, phép chia nào là phép chia hết, phép chia nào là phép chia có dư?\nViết kết quả phép chia dạng a = b.q+ r, với 0\\( \\le \\) r < b.\na) 144: 3;          b) 144: 13;        c) 144: 30.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết kết quả phép chia dạng a = b.q+ r, với 0\\( \\le \\) r < b.\nNếu r = 0 thì phép chia hết, nếu 0<  r < b thì phép chia có dư\nLời giải chi tiết\n144 = 3.48 + 0\n=> Phép chia hết\nb) 144 = 13.11 + 1\n=> Phép chia có dư\nc) 144 = 30.4 + 24\n=> Phép chia có dư\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tim các số tự nhiên và biết cách viết kết quả phép chia có dạng như sau:\na) 1 298 = 354q + r (0 \\( \\le \\) r < 354);\nb) 40 685 = 985q + r (0 \\( \\le \\) r < 985).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Lấy 1 298 chia cho 354 để tìm thương q và số dư r\n- Lấy 40 685 chia cho 985 để tìm thương q và số dư r\nLời giải chi tiết\na) Ta có 1 298 : 354 = 3 dư 236\n=> q = 3; r = 236\nTa được: 1 298 = 354.3 + 236\nb) Ta có: 40 685 : 985 = 41 dư 300\n=> q = 41; r = 300\nTa được: 40 685 = 985. 41 + 300"
+    },
+    {
+        "problem": "Trong phong trào xây dựng “nhà sách của chúng ta”, lớp 6A thu được 3 loại sách do các bạn trong lớp đóng góp: 36 quyển truyện tranh, 40 quyển truyện ngắn và 15 quyển thơ. Có thể chia số sách đã thu được thành 4 nhóm với số lượng quyển bằng nhau không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem số sách từng loại có chia hết cho 4 không rồi suy ra tổng số sách các loại có chia hết cho 4 không và kết luận\nLời giải chi tiết\nCách 1:\nDo 36\\(\\, \\vdots \\,\\)4; 40\\( \\, \\vdots \\,\\)4 và 15\\(\\not{ \\vdots }\\) 4\n=> ( 36 + 40 + 15) \\(\\not{ \\vdots }\\) 4\nVậy ta không thể chia số sách đã thu được thành 4 nhóm với số lượng quyển bằng nhau.\nCách 2:\nTổng số quyển sách thu được là: 36 + 40 + 15 = 91 (quyển).\nVì 91 không chia hết cho 4 nên ta không thể chia số sách đã thu được thành 4 nhóm với số quyển bằng nhau."
+    },
+    {
+        "problem": "Trong một đại hội thể thao Có các đội và số người tham gia trong bảng sau:\nĐội\nA\nB\nC\nD\nE\nG\nH\nI\nK\nSố người\n10\n22\n14\n17\n23\n55\n36\n28\n19\nTrong các đội đã cho, đội nào xếp được thành hai hàng có số người bằng nhau?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem đội nào có số người chia hết cho 2\nLời giải chi tiết\nDo các số 10; 22; 14; 36; 28 chia hết cho 2 nên các đội A, B, C, H, I xếp được hai hàng có số người bằng nhau"
+    },
+    {
+        "problem": "a) Viết hai số lớn hơn 1000 và chia hết cho 2.\nb) Viết hai số lớn hơn 100 và không chia hết cho 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có chữ số tận cùng là 0; 2; 4; 6; 8 (tức là chữ số chẵn) thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\nLời giải chi tiết\na) 1026 và 5792\nb) 125 và 687\nChú ý: Ta có thể chọn các số khác cũng thỏa mãn điều kiện đề bài\n\n\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chọn các số chia hết cho 5 ở dưới đây:\n10; 22; 15; 27; 33; 25; 19; 36; 95.\nCó nhận xét gì về chữ số tận cùng chữ số hàng đơn vị của các số chia hết cho 5 em vừa chọn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia các số cho 5 xem có chia hết không và quan sát số tận cùng của mỗi số để nhận xét\nLời giải chi tiết\nCác số chia hết cho 5 là: 10; 15; 25; 95\nNhận xét: Các số trên có chữ số tận cùng là: 0; 5"
+    },
+    {
+        "problem": "Tìm chữ số thích hợp thay cho dấu * để số \\(\\overline {17*} \\)thoả mãn từng điều kiện:\na) Chia hết cho 2;    b) Chia hết cho 5;\nc) Chia hết cho cả 2 và 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Các số có chữ số tận cùng là 0; 2; 4; 6; 8 (tức là chữ số chẵn) thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n+Các số có chữ số tận cùng là 0 và 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\n+Các số có chữ số tận cùng là 0 thì chia hết cho cả 2 và 5.\nLời giải chi tiết\na) *\\( \\in \\){0; 2; 4; 6; 8}\nb) *\\( \\in \\){0; 5}\nc) *\\( \\in \\){0}\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong những số sau: 2 023, 19445, 1010, số nào:\na) chia hết cho 2?\nb) chia hết cho 5?\nc) chia hết cho 10?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Các số có chữ số tận cùng là 0; 2; 4; 6; 8 (tức là chữ số chẵn) thì chia hết cho 2 và chỉ những số đó mới chia hết cho 2.\n+Các số có chữ số tận cùng là 0 và 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\n+Các số có chữ số tận cùng là 0 thì chia hết cho 10.\nLời giải chi tiết\na) Số chia hết cho 2 là 1010 (vì 1010 có chữ số tận cùng là 0)\nb) Số chia hết cho 5 là 19445 ( vì 19445 có chữ số tận cùng là 5) và 1010 ( vì 1010 có chữ số tận cùng là 0)\nc) Số chia hết cho 10 là 1010 (vì 1010 có chữ số tận cùng là 0)"
+    },
+    {
+        "problem": "Không thực hiện phép tính, em hãy cho biết những tổng (hiệu) nào sau đây chia hết cho 2, chia hết cho 5.\na) 146 + 550;       b) 575 - 40;\nc) 3.4.5 + 83;       d) 7.5.6 - 35.4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)n và b\\( \\vdots \\)n thì (a + b) \\( \\vdots \\)n\nNếu a\\( \\vdots \\)n và b\\( \\vdots \\)n thì (a - b) \\( \\vdots \\)n\nNếu trong một tổng và một hiệu có 1 số không chia hết cho n thì tổng (hiệu) đó không chia hết cho n.\nLời giải chi tiết\na) 146\\( \\vdots \\)2; 550\\( \\vdots \\)2 => (146 + 550) \\( \\vdots \\)2\n146 \\(\\not{ \\vdots }\\) 5; 550\\( \\vdots \\)5 => (146 + 550) \\(\\not{ \\vdots }\\) 5\nb) 575 \\(\\not{ \\vdots }\\) 2; 40\\( \\vdots \\)2 => (575 - 40) \\(\\not{ \\vdots }\\) 2\n575\\( \\vdots \\)5; 40\\( \\vdots \\)5 => (575 - 40) \\( \\vdots \\)5\nc) 3.4.5\\( \\vdots \\)2; 83 \\(\\not{ \\vdots }\\) 2 => (3.4.5 + 83) \\(\\not{ \\vdots }\\) 2\n3.4.5\\( \\vdots \\)5; 83 \\(\\not{ \\vdots }\\) 5=> (3.4.5 + 83)\\(\\not{ \\vdots }\\) 5\nd) 7.5.6 \\( \\vdots \\)2; 35.4\\( \\vdots \\)2 => (7.5.6 - 35.4) \\( \\vdots \\)2\n7.5.6 \\( \\vdots \\)5; 35.4\\( \\vdots \\)5 => (7.5.6 - 35.4) \\( \\vdots \\)5\nLoigiaihay.com"
+    },
+    {
+        "problem": "Lớp 6A, 6B 6C, 6D lần lượt có 35, 36, 39, 40 học sinh.\na) Lớp nào có thể chia thành 5 tổ có cùng số tổ viên?\nb) Lớp nào có thể chia tất cả các bạn thành các đôi bạn học tập?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem số học sinh các lớp có chia hết cho 5, cho 2 không?\nLời giải chi tiết\na) Do 35 và 40 chia hết cho 5 nên hai lớp 6A và 6D có thể chia thành 5 tổ có cùng số tổ viên\nb) Do 36 và 40 chia hết cho 2 nên hai lớp 6B và 6D có thể chia tất cả các bạn thành các đôi bạn học tập."
+    },
+    {
+        "problem": "Bà Huệ có 19 quả xoài và 40 quả quýt. Bà có thể chia số quả này thành 5 phần bằng nhau (có cùng số xoài, có cùng số quýt) được không?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem số xoài và số quýt cho chia hết cho 5 không rồi suy ra tổng có chia hết cho 5 không? Và kết luận\nLời giải chi tiết\nTa có 19 \\(\\not{ \\vdots }\\) 5 và 40 \\( \\vdots \\) 5 nên (19 + 40) \\(\\not{ \\vdots }\\) 5\nVậy Bà không thể chia số quả này thành 5 phần bằng nhau (có cùng số xoài, có cùng số quýt)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Để biết số 378 có chia hết cho 9 hay không, bạn An viết như sau:\n378 = 3.100 +7.10 + 8\n= 3. (99 + 1) +7.(9+1)+8\n= 3.99+7.9+3 +7 +8\n=9.(3.11 + 7) + (3 + 7+8)\nTừ đây bạn An khẳng định rằng số 378 chia hết cho 9, vì có (3.11+ 7).9 là một số chia hết cho 9 và tổng các chữ số của nó là 3 + 7 + 8 = 18 chia hết cho 9.\nKhẳng định của An có đúng hay không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a\\( \\vdots \\)n và b\\( \\vdots \\)n thì (a + b) \\( \\vdots \\)n\nTa xét một số có 3 chữ số ở dạng tổng quát và tách như trên để chứng minh\nLời giải chi tiết\n+Khẳng định của An đúng vì: theo dấu hiệu chia hết của một tổng\n+Mở rộng: Ta xét một số bất kì, giả sử ta xét số có ba chữ số sau:\n\\(\\begin{array}{l}\\overline {abc}  = a.100 + b.10 + c\\\\ = a(99 + 1) + b.(9 + 1) + c\\\\ = a.99 + b.9 + a + b + c\\\\ = 9.(a.11 + b) + a + b + c\\end{array}\\)\nDo \\(9.(a.11 + b)\\) nên \\(\\overline {abc} \\) chia hết cho 9 khi tổng a+b+c chia hết cho 9."
+    }
+]

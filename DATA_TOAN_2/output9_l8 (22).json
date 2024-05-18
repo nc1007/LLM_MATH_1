@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Tọa độ giao điểm của hai đường thẳng \\({d_1}:y = \\frac{{1 - 3x}}{4}\\) và \\({d_2}:y = - \\left( {\\frac{x}{3} + 1} \\right)\\) là:A. \\(\\left( {0; - 1} \\right)\\)B. \\(\\left( { - \\frac{7}{3};2} \\right)\\)C. \\(\\left( {0;\\frac{1}{4}} \\right)\\)D. \\(\\left( {3; - 2} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vẽ đồ thị hàm số của cả 2 đường thẳng sau đó xác định tọa độ giao điểm.\nLời giải chi tiết\nTa có: \\({d_1}:y = \\frac{{1 - 3x}}{4} =  - \\frac{3}{4}x + \\frac{1}{4}\\)\n\\({d_2}:y =  - \\left( {\\frac{x}{3} + 1} \\right) =  - \\frac{1}{3}x - 1\\)\nXét đồ thị hàm số \\({d_1}:y = \\frac{{ - 3}}{4}x + \\frac{1}{4}\\)\nChọn \\(x = 0\\) suy ra \\(y = \\frac{1}{4}\\)\nChọn \\(y = 0\\) suy ra \\(x = \\frac{1}{3}\\)\nVậy đồ thị hàm số  \\({d_1}:y = \\frac{{ - 3}}{4}x + \\frac{1}{4}\\) là đường thẳng đi qua hai điểm \\(A\\left( {0;\\frac{1}{4}} \\right),B\\left( {\\frac{1}{3};0} \\right)\\)\nXét đồ thị hàm số \\({d_2}:y =  - \\frac{1}{3}x - 1\\)\nChọn \\(x = 0\\) suy ra \\(y =  - 1\\)\nChọn \\(y = 0\\) suy ra \\(x =  - 3\\)\nVậy đồ thị hàm số  \\({d_2}:y =  - \\frac{1}{3}x - 1\\) là đường thẳng đi qua hai điểm \\(C\\left( {0; - 1} \\right),D\\left( { - 3;0} \\right)\\)\nVẽ trên mặt phẳng tọa độ \\(Oxy\\):\n\nTa xác định được giao điểm \\(E\\left( {3; - 2} \\right)\\).\n→   Đáp án D."
+    },
+    {
+        "problem": "Trong các phát biểu sau, phát biểu nào đúng?\na)     Để vẽ đồ thị của hàm số \\(y = ax + b\\left( {a \\ne 0,b \\ne 0} \\right)\\), ta có thể xác định hai điểm \\(P\\left( {0;b} \\right)\\) và \\(Q\\left( { - \\frac{b}{a};0} \\right)\\) rồi vẽ đường thẳng đi qua hai điểm đó.\nb)    Để vẽ đồ thị của hàm số \\(y = ax + b\\left( {a \\ne 0,b \\ne 0} \\right)\\), ta có thể xác định hai điểm \\(M\\left( { - 1; - a + b} \\right)\\) và \\(N\\left( { - \\frac{b}{a};b} \\right)\\) rồi vẽ đường thẳng đi qua hai điểm đó.\nc)     Để vẽ đồ thị của hàm số \\(y = ax + b\\left( {a \\ne 0,b \\ne 0} \\right)\\), ta có thể xác định hai điểm \\(I\\left( {1;a + b} \\right)\\) và \\(K\\left( { - 2; - 2a + b} \\right)\\) rồi vẽ đường thẳng đi qua hai điểm đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để vẽ đồ thị của hàm số \\(y = ax + b\\left( {a \\ne 0,b \\ne 0} \\right)\\), ta có thể xác định hai điểm \\(P\\left( {0;b} \\right)\\) và \\(Q\\left( { - \\frac{b}{a};0} \\right)\\) rồi vẽ đường thẳng đi qua hai điểm đó.\nĐể vẽ đồ thị của hàm số \\(y = ax + b\\left( {a \\ne 0,b \\ne 0} \\right)\\), ta có thể xác định hai điểm \\(I\\left( {1;a + b} \\right)\\) và \\(K\\left( { - 2; - 2a + b} \\right)\\) rồi vẽ đường thẳng đi qua hai điểm đó.\nLời giải chi tiết\nPhát biểu a và c là phát biểu đúng."
+    },
+    {
+        "problem": "Xác định hệ số của \\(x\\), hệ số tự do trong mỗi hàm số bậc nhất sau:\na) \\(y = 3,6x - 2,7\\);\nb) \\(y =  - \\sqrt {56} x + 3\\);\nc) \\(y = \\frac{{91}}{{112}}x + \\frac{{15}}{{67}}\\);\nd) \\(y =  - \\frac{5}{{29}}x - \\sqrt 7 \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất được cho bởi công thức \\(y = ax + b\\left( {a \\ne 0} \\right)\\) với \\(a\\) là hệ số của \\(x\\) và \\(b\\) là hệ số tự do.\nLời giải chi tiết\na) Hàm số \\(y = 3,6x - 2,7\\) có:\nHệ số của \\(x\\) là: \\(3,6\\).\nHệ số tự do là: \\( - 2,7.\\)\nb) Hàm số \\(y =  - \\sqrt {56} x + 3\\) có\nHệ số của \\(x\\) là: \\( - \\sqrt {56} \\).\nHệ số tự do là:\\(3\\).\nc) Hàm số \\(y = \\frac{{91}}{{112}}x + \\frac{{15}}{{67}}\\) có\nHệ số của \\(x\\) là: \\(\\frac{{91}}{{112}}\\).\nHệ số tự do là: \\(\\frac{{15}}{{67}}\\).\nd) Hàm số \\(y =  - \\frac{5}{{29}}x - \\sqrt 7 \\) có\nHệ số của \\(x\\) là: \\( - \\frac{5}{{29}}\\).\nHệ số tự do là: \\( - \\sqrt 7 \\)."
+    },
+    {
+        "problem": "Trong mặt phẳng tọa độ \\(Oxy\\), xác định tọa độ điểm \\(A\\) trong mỗi trường hợp sau:\na)     Hoành độ bằng -2 và tung độ bằng 2;\nb)    Hoành độ bằng 3 và tung độ bằng 4;\nc)     Tung độ bằng -6 và nằm trên trục tung;\nd)    Hoành độ bằng \\(\\frac{1}{2}\\) và nằm trên trục hoành.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kẻ vuông góc từ điểm từ trục hoành \\(Ox\\) và vuông góc từ trục tung \\(Oy\\), xác định giao điểm của hai đường thẳng chính là điểm \\(A\\).\nLời giải chi tiết\na)     Tọa độ điểm \\(A\\left( { - 2;2} \\right)\\)\nb)    Tọa độ điểm \\(A\\left( {3;4} \\right)\\)\nc)     Tọa độ điểm \\(A\\left( {0; - 6} \\right)\\)\nd)    Tọa độ điểm \\(A\\left( {\\frac{1}{2};0} \\right)\\)"
+    },
+    {
+        "problem": "Thống kê nhiệt độ \\(T\\left( {^\\circ C} \\right)\\) tại một địa điểm thuộc vùng ôn đới ở một số thời điểm \\(t\\left( h \\right)\\) trong một ngày được cho bởi bảng sau:\n\na) Trong các thời điểm trong bảng trên, thời điểm nào có nhiệt độ cao nhất? Thấp nhất?\nb) Nhiệt độ \\(T\\) có phải hàm số của thời điểm \\(t\\) hay không? Vì sao?\nc) Thời điểm \\(t\\) có phải hàm số của nhiệt độ \\(T\\) hay không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Quan sát bảng thống kê và chỉ ra thời điểm nào có nhiệt độ cao nhất, thấp nhất.\nb) Dựa vào định nghĩa hàm số trả lời câu hỏi.\nc) Dựa vào định nghĩa hàm số trả lời câu hỏi.\nLời giải chi tiết\na) Thời điểm \\(12\\,h\\) có nhiệt độ cao nhất \\(\\left( {26^\\circ C} \\right).\\)\nThời điểm \\(0\\,h\\) có nhiệt độ thấp nhất \\(\\left( {18^\\circ C} \\right).\\)\nb) Nhiệt độ \\(T\\) là hàm số của thời điểm \\(t\\) vì mỗi giá trị của \\(t\\) chỉ xác định đúng một giá trị của \\(T.\\)\nc) Thời điểm \\(t\\) không là hàm số của nhiệt độ \\(T\\) vì giá trị \\(T = 21\\) xác định hai giá trị \\(t = 8\\) và \\(t = 21\\)."
+    },
+    {
+        "problem": "Cho đồ thị của hàm số \\(y = ax + b\\) đi qua điểm \\(M\\left( {1;4} \\right)\\) và song song với đường thẳng \\(y = 2x + 1\\). Tích \\(ab\\) bằng:\nA.6\nB.4\nC.3\nD.2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(d\\) song song với \\(d'\\) thì \\(a = a',b \\ne b'\\). Sau đó tính tích \\(a.b\\).\nLời giải chi tiết\nĐồ thị của hàm số \\(y = ax + b\\) song song với đường thẳng \\(y = 2x + 1\\) nên \\(a = 2\\) và \\(b \\ne 1\\).\nĐồ thị của hàm số \\(y = 2x + b\\) đi qua điểm \\(M\\left( {1;4} \\right)\\) nên \\(4 = 2.1 + b\\) suy ra \\(b = 2\\)\nVậy \\(a.b = 2.2 = 4\\)\n→   Đáp án B."
+    },
+    {
+        "problem": "Cho các đường thẳng \\({d_1}:y = 11x + 1;{d_2}:y = \\sqrt 3 x - 7;{d_3}:y = 2x - \\sqrt 2 \\). Gọi \\({\\alpha _1},{\\alpha _2},{\\alpha _3}\\) lần lượt là các góc tạo bởi đường thẳng \\({d_1},{d_2},{d_3}\\) và trục \\(Ox\\). Sắp xếp các góc \\({\\alpha _1},{\\alpha _2},{\\alpha _3}\\) theo thứ tự số đo tăng dần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong mặt phẳng tọa độ \\(Oxy\\), cho đường thẳng \\(y = ax + b\\left( {a \\ne 0} \\right)\\). Gọi \\(A\\) là giao điểm của đường thẳng \\(y = ax + b\\) và trục \\(Ox\\), \\(T\\) là một điểm thuộc đường thẳng \\(y = ax + b\\) và có tung độ dương. Góc \\(\\alpha \\) tạo bởi hai tia \\(Ax\\) và \\(AT\\) gọi là góc tạo bởi đường thẳng \\(y = ax + b\\) và trục \\(Ox\\).\nLời giải chi tiết\nGọi hệ số góc của các đường thẳng \\({d_1},{d_2},{d_3}\\) lần lượt là \\({a_1},{a_2},{a_3}\\). Khi đó, ta có \\({a_1} = 11,{a_2} = \\sqrt 3 ,{a_3} = 2\\). Mà \\(\\sqrt 3  < 2 < 11\\) suy ra \\({a_2} < {a_3} < {a_1}\\).\nVậy các góc được sắp xếp theo thứ tự tăng dần là: \\({\\alpha _2},{\\alpha _3},{\\alpha _1}\\)."
+    },
+    {
+        "problem": "Cho hàm số bậc nhất \\(f\\left( x \\right) = 3x - 1\\). Hãy sắp xếp các giá trị sau theo thứ tự giảm dần: \\(f\\left( { - \\frac{1}{3}} \\right);f\\left( {\\frac{1}{9}} \\right);f\\left( { - 1} \\right);f\\left( { - 3} \\right);f\\left( 0 \\right).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính các giá trị tương ứng của \\(f\\left( x \\right)\\) khi \\(x =  - 1;x = 0;x = \\frac{1}{9}\\) và \\(x = \\frac{{ - 1}}{3}\\) sau đó sắp xếp các giá trị theo thứ tự giảm dần.\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}f\\left( { - \\frac{1}{3}} \\right) = 3.\\left( { - \\frac{1}{3}} \\right) - 1 =  - 2;\\\\f\\left( {\\frac{1}{9}} \\right) = 3.\\left( {\\frac{1}{9}} \\right) - 1 = \\frac{{ - 2}}{3};\\\\f\\left( { - 1} \\right) = 3.\\left( { - 1} \\right) - 1 =  - 4;\\\\f\\left( { - 3} \\right) = 3.\\left( { - 3} \\right) - 1 =  - 10;\\\\f\\left( 0 \\right) = 3.0 - 1 =  - 1.\\end{array}\\)\nVì \\( - 10 <  - 4 <  - 2 <  - 1 < \\frac{{ - 2}}{3}\\) nên suy ra \\(f\\left( { - 3} \\right) < f\\left( { - 1} \\right) < f\\left( { - \\frac{1}{3}} \\right) < f\\left( 0 \\right) < f\\left( {\\frac{1}{9}} \\right)\\).\nVậy các giá trị theo thứ tự giảm dần là:\n\\(f\\left( {\\frac{1}{9}} \\right);f\\left( 0 \\right);f\\left( { - \\frac{1}{3}} \\right);f\\left( { - 1} \\right);f\\left( { - 3} \\right).\\)"
+    },
+    {
+        "problem": "Trong mặt phẳng tọa độ \\(Oxy\\), nêu cách xác định mỗi điểm sau:\na)     \\(M\\left( {0;2} \\right)\\)\nb)    \\(N\\left( { - 4;0} \\right)\\)\nc)     \\(P\\left( { - 3; - 3} \\right)\\)\nd)    \\(Q\\left( {5;2} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kẻ vuông góc từ các điểm xuống trục tung \\(Oy\\) và trục hoành \\(Ox\\) để xác định được các điểm \\(M,N,P,Q\\).\nĐiểm nằm trên trục hoành có tung độ bằng 0\nĐiểm nằm trên trục tung có hoành độ bằng 0\nLời giải chi tiết\na)     Điểm M nằm ở điểm 2 của trục \\(Oy\\)\nb)    Điểm \\(N\\) nằm ở điểm -4 của trục \\(Ox\\)\nc)     Qua điểm -3 trên trục \\(Ox\\), ta kẻ đường thẳng vuông góc với trục \\(Ox\\). Qua điểm -3 trên trục \\(Oy\\), ta kẻ đường thẳng vuông góc với trục \\(Oy\\). Hai đường thẳng này cắt nhau tại điểm \\(P\\left( { - 3; - 3} \\right)\\).\nd)    Qua điểm 5 trên trục \\(Ox\\), ta kẻ đường thẳng vuông góc với trục \\(Ox\\). Qua điểm 2 trên trục \\(Oy\\), ta kẻ đường thẳng vuông góc với trục \\(y\\). Hai đường thẳng này cắt nhau tại điểm \\(Q\\left( {5;2} \\right)\\)."
+    },
+    {
+        "problem": "Một hòn đá rơi xuống hang với quãng đường rơi xuống \\(h\\left( m \\right)\\) trong thời gian \\(t\\) (giây) được tính bởi công thức \\(h = 4,9{t^2}.\\) Hỏi \\(h\\) có phải hàm số của \\(t\\) hay không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào định nghĩa hàm số trả lời câu hỏi.\nLời giải chi tiết\n\\(h\\) là hàm số của \\(t\\) vì mỗi giá trị của \\(t\\) chỉ xác định đúng một giá trị của \\(h.\\)"
+    },
+    {
+        "problem": "Trong mặt phẳng tọa độ \\(Oxy\\), cho đồ thị của hàm số \\(y = 2x + 4\\) (Hình 11).\na)     Gọi \\(A,B\\) lần lượt là giao điểm của trục \\(Ox,Oy\\) với đồ thị hàm số \\(y = 2x + 4\\). Xác định tọa độ các điểm \\(A,B\\).\nb)    Gọi \\(M,N\\) lần lượt là trung điểm của \\(OA,OB\\). Xác định tọa độ các điểm \\(M,N\\).\nc)     Tính tỉ số phần trăm của diện tích tam giác \\(OMN\\) và diện tích tam giác \\(OAB\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác định tọa độ các điểm và dựa vào công thức tính diện tích tam giác để tính tỉ số phần trăm của diện tích tam giác \\(OMN\\) và diện tích tam giác \\(OAB\\).\nLời giải chi tiết\na)     Tọa độ điểm \\(A\\left( { - 2;0} \\right)\\)\nTọa độ điểm \\(B\\left( {0;4} \\right)\\)\nb)    Ta vẽ các điểm \\(M,N\\):\n\nVậy tọa độ điểm \\(M\\left( { - 1;0} \\right),N\\left( {0;2} \\right)\\).\nc)     Diện tích của tam giác \\(OAB\\) bằng: \\(\\frac{1}{2}.OA.OB\\)\nMà \\(OM = \\frac{1}{2}OA,ON = \\frac{1}{2}OB\\) nên ta có diện tích của tam giác \\(OMN\\) bằng:\n\\(\\frac{1}{2}.\\frac{1}{2}OA.\\frac{1}{2}OB = \\frac{1}{4}.\\frac{1}{2}.OA.OB\\)\nVậy tỉ số phần trăm của diện tích tam giác \\(OMN\\) và diện tích tam giác \\(OAB\\) là:\n\\(\\frac{1}{4}.100\\%  = 25\\% \\)"
+    },
+    {
+        "problem": "Cho hai đường thẳng \\(d:y = mx - \\left( {2m + 2} \\right)\\) và \\(d':y = \\left( {3 - 2m} \\right)x + 1\\) với \\(m \\ne 0\\) và \\(m \\ne  - \\frac{3}{2}\\)\na)     Tìm giá trị của \\(m\\) để đường thẳng \\(d\\) đi qua điểm \\(A\\left( {1;1} \\right)\\)\nb)    Gọi \\(\\beta \\) là góc tạo bởi đường thẳng \\(d\\) ở câu a và trục \\(Ox\\). Hỏi \\(\\beta \\) là góc nhọn hay góc tù? Tại sao?\nc)     Tìm giá trị của \\(m\\) để \\(d\\) cắt \\(d'\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi hệ số \\(a > 0\\) thì góc tạo bởi đường thẳng \\(y = ax + b\\) và trục \\(Ox\\) là góc nhọn. hệ số \\(a\\) càng lớn thì góc càng lớn.\nKhi hệ số \\(a < 0\\) thì góc tạo bởi đường thẳng \\(y = ax + b\\left( {a \\ne 0} \\right)\\). Hệ số \\(a\\) là góc tù. Hệ số \\(a\\) càng lớn thì góc càng lớn.\nNếu \\(d\\) và \\(d'\\) cắt nhau thì \\(a \\ne a'\\).\nLời giải chi tiết\na)     Do đường thẳng \\(d\\) đi qua điểm \\(A\\left( {1;1} \\right)\\) nên ta có: \\(1 = m.1 - \\left( {2m + 2} \\right)\\). Suy ra, \\(m =  - 3\\). Vậy với \\(m =  - 3\\) thì đường thẳng \\(d\\) đi qua điểm \\(A\\left( {1;1} \\right)\\)\nb)    Với \\(m =  - 3\\), ta có đường thẳng \\(d:y =  - 3x + 4\\). Suy ra hệ số góc của đường thẳng \\(d\\) là \\( - 3 < 0\\). Vậy góc \\(\\beta \\) là góc tù.\nc)     Để \\(d\\) và \\(d'\\) cắt nhau thì \\(m \\ne 3 - 2m\\). Suy ra \\(m \\ne 1\\). Vậy với \\(m \\ne 0,m \\ne \\frac{3}{2},m \\ne 1\\) thì \\(d\\) và \\(d'\\) cắt nhau."
+    },
+    {
+        "problem": "Một cửa hàng thu mua gạo cho biết: Giá nhập vào của \\(1\\,kg\\) gạo tám Hải Hậu là \\(18\\,000\\) đồng.\na) Viết công thức biểu thị số tiền \\(y\\) (đồng) mà cửa hàng phải trả để nhập \\(x\\,\\left( {kg} \\right)\\) gạo tám Hải Hậu. Hỏi \\(y\\) có phải hàm số bậc nhất của \\(x\\) hay không?\nb) Tính số tiền mà cửa hàng phải trả để nhập \\(0,5\\) tấn gạo tám Hải Hậu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Viết công thức biểu thị số tiền \\(y\\) (đồng) mà cửa hàng phải trả để nhập \\(x\\,\\left( {kg} \\right)\\) gạo tám Hải Hậu. Dựa vào định nghĩa hàm số để trả lời câu hỏi.\nb) Đổi \\(0,5\\) tấn \\( = 500\\,kg.\\)\nTìm giá trị của \\(y\\) khi \\(x = 500.\\)\nLời giải chi tiết\na) \\(y = 18000x.\\) Vậy \\(y\\) là hàm số của \\(x\\) vì với mỗi giá trị của \\(x\\) chỉ xác định đúng một giá trị của \\(y.\\)\nb) Đổi \\(0,5\\) tấn \\( = 500\\,kg.\\)\nThay \\(x = 500\\) vào hàm số \\(y = 18000x\\) ta được: \\(y = 18000.500 = 9000000.\\)\nVậy số tiền mà cửa hàng phải trả để nhập \\(0,5\\) tấn gạo tám Hải Hậu là \\(9000000\\) đồng."
+    },
+    {
+        "problem": "Trong mặt phẳng tọa độ \\(Oxy\\), cho các điểm \\(A\\left( { - 4;3} \\right),B\\left( { - \\frac{1}{4}; - \\frac{1}{6}} \\right),C\\left( {2; - \\frac{1}{3}} \\right)\\)\nBa điểm trên nằm ở góc phần tư nào của mặt phẳng tọa độ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hệ trục tọa độ chia mặt phẳng thành bốn góc. Ta quy ước gọi đó là góc phần tư thứ I, II, III, IV theo thứ tự ngược chiều kim đồng hồ.\nLời giải chi tiết\nQuan sát mặt phẳng tọa độ \\(Oxy\\), ta thấy điểm \\(A\\) nằm ở góc phần tư thứ II, điểm \\(B\\) nằm ở góc phần tư thứ III, điểm \\(C\\) nằm ở góc phần tư thứ IV."
+    },
+    {
+        "problem": "Giá của chiếc máy tính bảng lúc mới mua là \\(9\\,800\\,000\\) đồng. Giá trị của chiếc máy tính bảng đó sau khi sử dụng \\(x\\) (năm) được tính bởi công thức:\n\\(V\\left( x \\right) = 9\\,800\\,000 - 800\\,000x\\).\na) Hỏi \\(V\\left( x \\right)\\) có phải là hàm số của \\(x\\) hay không? Vì sao?\nb) Tính \\(V\\left( 3 \\right)\\) và cho biết \\(V\\left( 3 \\right)\\) có nghĩa là gì.\nc) Sau bao nhiêu năm thì giá trị của chiếc máy tính bảng đó là \\(5\\,000\\,000\\) đồng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Dựa vào định nghĩa hàm số trả lời câu hỏi.\nb) Thay \\(x = 3\\) vào \\(V\\left( x \\right)\\) để tính \\(V\\left( 3 \\right)\\).  \\(V\\left( x \\right)\\)có nghĩa là giá trị của chiếc máy tính bảng sau \\(x\\) năm sử dụng.\nc) Thay \\(V\\left( x \\right) = 5\\,000\\,000\\) vào công thức \\(V\\left( x \\right) = 9\\,800\\,000 - 800\\,000x\\) và tìm giá trị của \\(x.\\)\nLời giải chi tiết\na) \\(V\\left( x \\right)\\) là hàm số của \\(x\\) vì mỗi giá trị của \\(x\\) chỉ xác định đúng một giá trị của \\(V\\left( x \\right).\\)\nb) \\(V\\left( 3 \\right) = 9\\,800\\,000 - 800\\,000.3 = 7\\,400\\,000.\\,V\\left( 3 \\right)\\) có nghĩa là giá trị của chiếc máy tính bảng sau \\(3\\) năm sử dụng.\nc) Ta có: \\(9\\,800\\,000 - 800\\,000x = 5\\,000\\,000.\\)\nSuy ra \\(x = 6.\\)\nVậy sau \\(6\\) năm sử dụng thì giá trị của chiếc máy tính bảng đó là \\(5\\,000\\,000\\) đồng."
+    },
+    {
+        "problem": "Trong mặt phẳng tọa độ \\(Oxy\\), cho các điểm \\(A\\left( {2;3} \\right),B\\left( {2; - 4} \\right)\\). Tìm tọa độ điểm \\(C\\) sao cho \\(C\\) nằm trên trục \\(Ox\\) và \\(CA + CB\\) đạt giá trị nhỏ nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác định điểm \\(A,B\\) trên mặt phẳng tọa độ \\(Oxy\\), sau đó xác định điểm \\(C\\) là giao điểm của \\(AB\\) và trục \\(Ox\\).\nLời giải chi tiết\n\nTa có: \\(CA + CB \\ge AB\\) nên \\(CA + CB\\) đạt giá trị nhỏ nhất bằng \\(AB = 7\\). Khi đó, \\(C\\) là giao điểm của \\(AB\\) và trục \\(Ox\\). Vậy \\(C\\left( {2;0} \\right)\\)."
+    },
+    {
+        "problem": "Vẽ đồ thị của các hàm số \\(y =  - x,y =  - x - 1,y =  - \\frac{1}{3}x,y = \\frac{1}{3}x + 2\\) trên cùng một mặt phẳng tọa độ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để vẽ đồ thị của hàm số \\(y = ax + b\\left( {a \\ne 0,b \\ne 0} \\right)\\), ta có thể xác định hai điểm \\(P\\left( {0;b} \\right)\\) và \\(Q\\left( { - \\frac{b}{a};0} \\right)\\) rồi vẽ đường thẳng đi qua hai điểm đó.\nLời giải chi tiết\nXét hàm số \\(y =  - x\\). Với \\(x = 1\\) thì \\(y =  - 1\\), ta được điểm \\(A\\left( {1; - 1} \\right)\\) thuộc đồ thị của hàm số \\(y =  - x\\). Vậy đồ thị của hàm số \\(y =  - x\\) là đường thẳng đi qua hai điểm \\(O\\left( {0;0} \\right)\\) và \\(A\\left( {1; - 1} \\right)\\).\nXét hàm số \\(y =  - x - 1\\). Với \\(x = 0\\) thì \\(y =  - 1\\), ta được điểm \\(B\\left( {0; - 1} \\right)\\) thuộc đồ thị của hàm số \\(y =  - x - 1\\). Với \\(y = 0\\) thì \\(x =  - 1\\), ta được điểm \\(C\\left( { - 1;0} \\right)\\) thuộc đồ thị của hàm số \\(y =  - x - 1\\). Vậy đồ thị của hàm số \\(y =  - x - 1\\) là đường thẳng đi qua hai điểm \\(B\\left( {0; - 1} \\right)\\) và \\(C\\left( { - 1;0} \\right)\\).\nTương tự ta có:\nĐồ thị của hàm số \\(y = \\frac{1}{3}x\\) là đường thẳng đi qua hai điểm \\(O\\left( {0;0} \\right)\\) và \\(D\\left( {3;1} \\right)\\).\nĐồ thị của hàm số \\(y = \\frac{1}{3}x + 2\\) là đường thẳng đi qua hai điểm \\(E\\left( {0;2} \\right)\\) và \\(F\\left( { - 6;0} \\right)\\).\nTa vẽ các đồ thị trên:\n"
+    },
+    {
+        "problem": "Nhiệt độ ở mặt đất đo được khoảng \\(28^\\circ C\\). Biết rằng cứ lên cao \\(1\\,km\\) thì nhiệt độ giảm đi \\(5^\\circ C\\).\na) Viết công thức biểu thị nhiệt độ \\(y\\left( {^\\circ C} \\right)\\) đo được ở độ cao \\(x\\,\\left( {km} \\right)\\) so với mặt đất. Hỏi \\(y\\) có phải hàm số bậc nhất của \\(x\\) hay không?\nb) Tính nhiệt độ đo được ở độ cao \\(3\\,000\\,m\\) so với mặt đất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Viết công thức biểu thị nhiệt độ \\(y\\left( {^\\circ C} \\right)\\) đo được ở độ cao \\(x\\,\\left( {km} \\right)\\) so với mặt đất. Dựa vào định nghĩa hàm số để trả lời câu hỏi.\nb) Đổi \\(3000m = 3km.\\) Tính giá trị của \\(y\\) khi \\(x = 3.\\)\nLời giải chi tiết\na) \\(y = 28 - 5x\\). Vậy \\(y\\) là hàm số của \\(x\\) vì với mỗi giá trị của \\(x\\) chỉ xác định đúng một giá trị của \\(y.\\)\nb) Đổi \\(3000m = 3km.\\)\nThay \\(x = 3\\) vào hàm số \\(y = 28 - 5x\\) ta được:\n\\(y = 28 - 5.3 = 13.\\)\nVậy nhiệt độ đo được ở độ cao \\(3\\,000\\,m\\) so với mặt đất là \\(13^\\circ C.\\)"
+    },
+    {
+        "problem": "Nhiệt độ \\(y\\left( {^0C} \\right)\\) ở một địa điểm thuộc vùng có đới khí hậu hàn đới là một hàm số theo thời điểm \\(x\\) (h) trong một ngày. Hàm số này được biểu thị dưới dạng Bảng 1.\nTrong mặt phẳng tọa độ \\(Oxy\\), biểu diễn các điểm có tọa độ là các cặp số \\(\\left( {x;y} \\right)\\) tương ứng ở Bảng 1.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các điểm có tọa độ ứng với \\(x,y\\) và vẽ lên mặt phẳng tọa độ.\nLời giải chi tiết\nTa có các điểm \\(A,B,C,D\\) biểu diễn các điểm có tọa độ là các cặp số \\(\\left( {x;y} \\right)\\) tương ứng: \\(A\\left( {5;2} \\right),B\\left( {7;4} \\right),C\\left( {9;5} \\right),D\\left( {11;6} \\right)\\)\n"
+    },
+    {
+        "problem": "Cho hàm số \\(f\\left( x \\right) = {x^3} - 2.\\) Tìm số thích hợp cho ? trong bảng sau:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay từng giá trị của \\(x\\) vào hàm số \\(f\\left( x \\right) = {x^3} - 2\\) và tìm ra giá trị tương ứng của \\(f\\left( x \\right).\\)\nLời giải chi tiết\nTa có:\n"
+    }
+]

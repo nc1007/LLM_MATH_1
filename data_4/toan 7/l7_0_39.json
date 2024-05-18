@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1.Điền vào chỗ trống sau: “Trong một tam giác, đường trung trực của mỗi cạnh gọi là … của tam giác đó”. \nA. Đường trung tuyến;\nB. Đường trung trực;\nC. Trọng tâm;\nD. Trung điểm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTrong một tam giác, đường trung trực của mỗi cạnh gọi là đường trung trực của tam giác đó”."
+    },
+    {
+        "problem": "Câu 2. Điền vào chỗ trống sau: “Ba đường trung trực của một tam giác cùng đi qua một điểm. Điểm này … ba đỉnh của tam giác đó.”\nA. Giao;\nB. Nằm trên;\nC. Cách đều; \nD. Thuộc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nBa đường trung trực của một tam giác cùng đi qua một điểm. Điểm này cách đều ba đỉnh của tam giác đó."
+    },
+    {
+        "problem": "Câu 4. Gọi O là giao điểm của ba đường trung trực trong ∆ABC. Khi đó điểm O là:\nA. Trọng tâm của ∆ABC;\nB. Điểm cách đều ba cạnh của ∆ABC;\nC. Điểm cách đều ba đỉnh của ∆ABC;\nD. Tất cả các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTheo định lí: Ba đường trung trực của một tam giác cùng đi qua một điểm. Điểm này cách đều ba đỉnh của tam giác đó.\nDo đó O là điểm cách đều ba đỉnh của ∆ABC."
+    },
+    {
+        "problem": "Câu 14. Một điểm được gọi là cách đều ba đỉnh của một tam giác khi là:\nA. Giao điểm của ba đường cao của tam giác;\nB. Giao điểm của ba đường trung trực của tam giác;\nC. Trọng tâm của tam giác;\nD. Trực tâm của tam giác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTheo định lí: Ba đường trung trực của một tam giác cùng đi qua một điểm. Điểm này cách đều ba đỉnh của tam giác đó."
+    }
+]

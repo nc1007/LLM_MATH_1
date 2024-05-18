@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình chữ nhật có chiều dài a, chiều rộng b thì có diện tích S=ab. Biết S, a. Tính b\nLời giải chi tiết\nĐộ dài cạnh còn lại của miếng gỗ hình chữ nhật là:\n56: 8 = 7 (cm).\nVậy độ dài cạnh còn lại của miếng gỗ hình chữ nhật là 7cm.\n\nLời giải hay"
+    },
+    {
+        "problem": "Tính diện tích các hình sau:\na) Hình vuông có cạnh 5cm;\nb) Hình thang cân có độ dài hai cạnh đáy là 6cm và 10cm, chiều cao 4cm;\nc) Hình thoi có độ dài hai đường chéo là 6cm và 10 cm;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Hình vuông cạnh a thì S=a2\n*Hình thang có độ dài 2 đáy là a, b; chiều cao h thì S=(a+b). h : 2\n*Hình thoi có độ dài 2 đường chéo là m,n thì S= \\(\\frac{1}{2}.m.n\\)\n*Hình bình hành có độ dài 1 cạnh là a, chiều cao tương ứng là h thì S=a.h\nLời giải chi tiết\na) Diện tích hình vuông là:\n52 = 25 (cm2)\nb) Diện tích hình thang cân là:\n(6 + 10). 4: 2 = 32 (cm2)\nc) Diện tích hình thoi là:\n\\(\\frac{1}{2}. 6. 10\\) = 30 (cm2)\nd) Diện tích hình bình hành là:\n12. 4 = 48 (cm2)\nVậy diện tích hình vuông, hình thang cân, hình thoi, hình bình hành lần lượt là 25 cm2; 32 cm2; 30 cm2; 48 cm2.\n\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tính chiều dài khu vườn\n+Tính chu vi khu vườn\n+Tính độ dài cần làm hàng rào\n\nLời giải chi tiết\nChiều dài của khu vườn là:\n3 600: 40 = 90 (m)\nChu vi của khu vườn là:\n2. (40 + 90) = 260(m)\nTrừ cửa vào khu vườn nên độ dài cần phải làm hàng rào là:\n260 – 5 = 255 (m)\nNgười ta muốn làm hàng rào xung quanh vườn bằng hai tầng dây thép gai nên số mét dây thép gai dùng để làm hàng rào là:\n255. 2 = 510 (m)\nVậy cần dùng 510 m dây thép gai dùng để làm hàng rào.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích sân= diện tích 1 viên. Số viên\n+Tính diện tích sân\n+Tính diện tích 1 viên\nLời giải chi tiết\nDiện tích sân nhà bà Thu là:\n15. 9 = 135 (m2)\nDiện tích một viên gạch lát nền hình vuông là:\n0,6. 0,6 = 0,36 (m2)\nSố viên gạch cần dùng để lát sân là:\n135: 0,36 = 375 (viên)\nSố thùng gạch cần mua là:\n375: 5 = 75 (thùng)\nVậy bà Thu cần mua 75 thùng gạch để lát sân.\nLời giải hay"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Câu 1. Cho các số sau: 112; 345; 256; 1 045; 20 134. Có bao nhiêu số chia hết cho 2.\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số chia hết cho 2 có chữ số tận cùng là: 0; 2; 4; 6; 8.\nTrong các số đã cho các số chia hết cho:112; 256; 20 134.\nVậy có 3 số trong các số đã cho chia hết cho 2.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2. Tìm x {55; 67; 79; 84} sao cho x – 12 chia hết cho 3.\nA. x = 55;\nB. x = 67;\nC. x = 79;\nD. x = 84.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì 12 = 3.4 nên 12 chia hết cho 3.\nDo đó để x – 12 chia hết cho 3 thì x phải chia hết cho 3.\nTrong các số ta thấy 84 là thỏa mãn chia hết cho 3 vì 8 + 4 = 12 chia hết cho 3.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Trong các số nào dưới đây số nào chia hết cho 5.\nA. 11 234 005;\nB. 1 267;\nC. 567;\nD. 6 559.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số 11 234 005 có tận cùng là chữ số 5 nên số này chia hết cho 5.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 5. Cho các số sau: 113; 321; 729; 811. Có bao nhiêu số là số nguyên tố?\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDựa vào bảng số nguyên tố cuối sách giáo khoa, ta có: 113 và 811 là hai số nguyên tố.\nVậy có 2 số nguyên tố trong các số đã cho.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Kết quả khi phân tích 204 ra tích các thừa số nguyên tố:\nA. 2.3.17;\nB. 2.3^{2} .17;\nC. 2^{2} .3^{2} .17;\nD. 2^{2} .3.17.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: \n204\n102\n51\n17\n1\n2\n2\n3\n17\nVậy 204 = 2^{2} .3.17.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Không thực hiện phép tính, hãy cho biết tổng(hiệu) nào dưới đây chia hết cho 5.\nA. 123 + 50;\nB. 145 300 + 34 + 570;\nC. 12 760 – 105;\nD. 875 – 234 – 120.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 12 760 có chữ số tận cùng là 0 nên chia hết cho 5; \n105 có chữ số tận cùng là 5 nên chia hết cho 5.\nVậy 12 760 – 105 chia hết cho 5.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 8. Hợp số là gì:\nA. Hợp số là số tự nhiên.\nB. Hợp số là số tự nhiên khác 0 có hai ước.\nC. Hợp số là số tự nhiên khác 0 có nhiều hơn hai ước.\nD. Hợp số là số tự nhiên lớn hơn 1 và có nhiều hơn hai ước.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hợp số là các số tự nhiên lớn hơn 1 có nhiều hơn hai ước.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Điền từ thích hợp vào chỗ chấm: “Bội chung nhỏ nhất của hai hay nhiều số tự nhiên là số ……. các bội chung của các số đó.”\nA. nhỏ nhất.\nB. lớn nhất.\nC. nguyên tố.\nD. hợp số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Bội chung nhỏ nhất của hai hay nhiều số tự nhiên là số nhỏ nhất các bội chung của các số đó.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Kết quả phân tích số 120 ra thừa số nguyên tố: \nA. 120 = 2^{2} .3.5;\nB. 120 = 2^{3} .3.5;\nC. 120 = 2.3^{2} .5;\nD. 120 = 2^{2} .3^{2} .5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: \n120\n60\n30\n15\n5\n1\n2\n2\n2\n3\n5\nVậy 120 = 2^{3} .3.5.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Tìm ƯCLN(128; 36) \nA. 2^{2} ;\nB. 2^{7} ;\nC. 2^{2} .3^{2} ;\nD. 2^{7} .3^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 128 = 2^{7} ; 36 = 2^{2} .3^{2} .\nTích các thừa số chung với số mũ nhỏ nhất là: 2^{2} .\nVậy ƯCLN(128; 36) = 2^{2} .\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Cho A = 2.7.12 + 49.53 và B = 3.4.5 + 2 020.2 021. 2022. Phát biểu nào dưới đây là đúng?\nA.  A và B là các số nguyên tố;\nB. A và B là hợp số;\nC. A là số nguyên tố, B là hợp số.\nD. A là hợp số, B là số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n+) Xét A = 2.7.12 + 49.53:\nVì 2.7.12 chia hết cho 7, 49.53 = 7.7.53 chia hết cho 7 nên A chia hết cho 7. \nVậy A có một ước khác 1 và chính nó nên A là hợp số.\n+) Xét B = 3.4.5 + 2 020.2 021. 2022\nTa có: 3.4.5 = 3.2.2.5 chia hết cho 2, 2 020.2 021.2 022 chia hết cho 2 nên B chia hết cho 2.\nVậy B có một ước nữa khác 1 và chính nó nên B là hợp số.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Thực hiện phép tính 12^{2} :6 + 2.7 rồi phân tích ra thừa số nguyên tố:\nA. 2^{3} .7;\nB. 2^{2} .3^{2} ;\nC. 2.19;\nD. 2.3^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n12^{2} :6 + 2.7 \n= 144:6 + 2.7\n= 24 + 14\n= 38.\nTa có: \n38\n19\n1\n2\n19\nVậy 38 = 2.19.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 8. Viết tập hợp BC(24, 18):\nA. BC(24, 18) = 72.\nB. BC(24, 18) = {1; 2; 3; 4; 6; 8; 9; 12; 18; 24; 36; 72}.\nC. BC(24, 18) = {0; 72; 144; 216; 288; …}.\nD. BC(24, 18) = {0; 36; 72; 108; 144; …}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 24 = 3.2^{3} ; 18 = 2.3^{2} .\nBCNN(24, 18) = 2^{3} .3^{2}  = 72.\nKhi đó BC(24, 18) = B(72) = {0; 72; 144; 216; 288; …}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 10. Tìm ƯCLN của hai số m và n biết m = 2.3^{2} .5^{2}  và n = 2^{3} .3.5^{4} .\nA. 24;\nB. 150;\nC. 45 000;\nD. 30.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: m = 2.3^{2} .5^{2}  và n = 2^{3} .3.5^{4} .\nTích các thừa số chung và riêng với số mũ nhỏ nhất là: 2.3.5^{2}  = 150.\nVậy ƯCLN(m, n) = 150.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Số học sinh khối 6 của một trường trong khoảng từ 500 đến 700 học sinh, khi xếp thành các hàng 10; 12 và 15 đều vừa đủ. Tính số học sinh khối lớp 6.\nA. 330;                  \nB. 500;\nC. 660;\nD. 700.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì số học sinh của khối 6 khi xếp thành 10; 12 và 15 hàng đều vừa đủ nên số học sinh khối 6 chia hết cho 10; 11 và 15. Hay học sinh khối 6 là bội chung của 10; 11 và 15.\nTa có: 10 = 2.5; 11 = 11; 15 = 3.5\nTích các thừa số chung và riêng là: 2.3.5.11.\nKhi đó BCNN(10, 11, 15) = 2.3.5.11 =  330.\nSuy ra BC(10, 11, 15) = B(330) = {0; 330; 660; 990; …}..\nVì số học sinh khối 6 trong khoảng từ 500 đến 700 học sinh nên số học sinh khối 6 là 660 học sinh.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Bác Nam định kì 3 tháng một lần thay dầu, 6 tháng một lần xoay lốp xe oto của mình. Hỏi nếu bác ấy làm hai việc đó cùng lúc vào tháng 4 năm nay thì lần gần nhất tiếp theo của bác ấy sẽ cùng làm hai việc vào tháng nào?\nA. tháng 7;\nB. tháng 8;\nC. tháng 9;\nD. tháng 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nKhoảng cách giữa hai đợt bác ấy sẽ làm hai việc sẽ là bội chung của 3 và 6.\nTa có 3 = 3; 6 = 2.3.\nKhi đó BCNN(3, 6) = 6.\nNghĩa là cứ 6 tháng 1 thì bác sẽ làm hai việc cùng một lúc.\nĐợt vừa rồi là tháng 4 thì lần gần nhất tiếp theo là 4 + 6 = 10.\nVậy vào tháng 10 thì bác ấy sẽ vừa thay dầu và vừa xoay lốp ô tô.\nĐáp án: D"
+    }
+]

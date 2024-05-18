@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Héc-tô-mét vuông là diện tích của hình vuông có cạnh dài 1hm. Đúng hay sai?\nA. Đúng\nB. Sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Héc-tô-mét vuông là diện tích của hình vuông có cạnh dài 1hm.\nVậy phát biểu trên là đúng."
+    },
+    {
+        "problem": "Câu 2: Đề-ca-mét vuống được viết tắt là:\nA. dam\nB. dm\nC. dm^{2} \nD. dam^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đề-ca-mét vuống được viết tắt là dam^{2} ."
+    },
+    {
+        "problem": "Câu 3: 16dam^{2}  được đọc là:\nA.\tMười sáu đề-ca-mét\nB.\tMười sáu đề-ca-mét vuông\nC.\tMười sáu đề-xi-mét vuông\nD.\tMười sau héc-tô-mét vuông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vì đề-ca-mét vuông viết tắt là dam^{2}  nên 16dam^{2}  được đọc là: Mười sáu đề-ca-mét vuông."
+    },
+    {
+        "problem": "Câu 4: Cho: 6hm^{2}  = ...m^{2} \nSố thích hợp điền vào chỗ trống là:\nA.\t60\nB.\t600\nC.\t6000\nD.\t60000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1hm^{2}  = 10000m^{2}  nên 6hm^{2}  = 60000m^{2}"
+    }
+]

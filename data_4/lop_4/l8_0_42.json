@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1 : An viết: “Số bé = (tổng – hiệu) : 2”. An viết đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: Số bé = (tổng – hiệu) : 2 \nVây An viết đúng."
+    },
+    {
+        "problem": "Câu 2 : Công thức tìm hai số khi biết tổng và hiệu của hai số đó là: \nA.\tSố bé = (tổng – hiệu) : 2\nB.\tSố lớn = (tổng + hiệu) : 2\nC.\tCả A và B đều sai\nD.\tCả A và B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nSố bé = (tổng – hiệu) : 2  ;   Số lớn = (tổng + hiệu) : 2\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 3 : Tìm hai số biết tổng của chúng là 345 và hiệu là 29. \nA.\t185 và 160\nB.\t186 và 159\nC.\t187 và 158\nD.\t185 và 188",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có sơ đồ:\nSố lớn là:\n (345+29):2=187\nSố bé là:\n   345−187=158\n      Đáp số: Số lớn: 187; số bé: 158.\nChú ý\nTa có thể tìm số bé trước bằng cách áp dụng công thức: số bé = (tổng – hiệu) : 2, \nsau đó tìm số lớn bằng cách lấy tổng trừ đi số bé hoặc lấy số bé cộng với hiệu."
+    },
+    {
+        "problem": "Câu 4 : Tổng của hai số là 278, hiệu hai số là 52. Vậy hai số đó là 166 và 112. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có sơ đồ:\nSố lớn là:\n    (278+52):2=165\nSố bé là:\n    278−165=113\n         Đáp số: Số lớn: 165; số bé: 113.\nVậy khẳng định đã cho là sai.\nChú ý\nTa có thể tìm số bé trước bằng cách áp dụng công thức: số bé = (tổng – hiệu) : 2, \nsau đó tìm số lớn bằng cách lấy tổng trừ đi số bé hoặc lấy số bé cộng với hiệu.\n\n(278+52):2=165\nSố bé là:\n    278−165=113\n         Đáp số: Số lớn: 165; số bé: 113.\nVậy khẳng định đã cho là sai.\nChú ý\nTa có thể tìm số bé trước bằng cách áp dụng công thức: số bé = (tổng – hiệu) : 2, \nsau đó tìm số lớn bằng cách lấy tổng trừ đi số bé hoặc lấy số bé cộng với hiệu."
+    },
+    {
+        "problem": "Câu 5 : Nhà bác Hùng thu được tất cả 2250kg khoai lang và khoai tây. \nBiết số khoai lang nhiều hơn số khoai tây là 436kg. \nTính khối lượng mỗi loại khoai. \nA.\tKhoai lang: 1334kg; khoai tây: 907kg.\nB.\tKhoai lang: 1338kg; khoai tây: 912kg.\nC.\tKhoai lang: 1341kg; khoai tây: 909kg.\nD.\tKhoai lang: 1343kg; khoai tây: 907kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có sơ đồ:\nNhà bác Hùng thu được số ki-lô-gam khoai tây là:\n    (2250−436):2=907(kg)\nNhà bác Hùng thu được số ki-lô-gam khoai lang là:\n        907+426=1343(kg)\n                   Đáp số: Khoai lang: 1343kg ;\n                         Khoai tây: 907kg."
+    },
+    {
+        "problem": "Câu 7 : Tổng của 2 số là số lớn nhất có 4 chữ số khác nhau, hiệu của 2 số là số chẵn lớn nhất có 3 chữ số. Vậy hai số đó là: \nA.\t5437 và 4439\nB.\t5445 và 4560\nC.\t5431 và 4445\nD.\t5441 và 4435",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lớn nhất có 4 chữ số khác nhau là 9876. Do đó tổng của 2 số đó là 9876.\nSố chẵn lớn nhất có 3 chữ số là 998. Do đó hiệu của 2 số đó là 998.\nTa có sơ đồ:\nSố bé là:\n  (9876−998):2=4439\nSố lớn là:\n       9876−4439=5437\n              Đáp số: Số lớn: 5437; số bé: 4439."
+    },
+    {
+        "problem": "Câu 8 : Một hình chữ nhật có chu vi là 68cm. Chiều rộng kém chiều dài là 16cm . Vậy diện tích hình chữ nhật đó là: \n\tA. 175 cm^{2} \n\tB. 225 cm^{2} \n\tC. 546 cm^{2} \n\tD. 1092 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nửa chu vi hình chữ nhật là:\n     68:2=34(cm)\nTa có sơ đồ:\nChiều rộng của hình chữ nhật đó là:\n    (34−16):2=9(cm)\nChiều dài của hình chữ nhật đó là:\n           9+16=25(cm)\nDiện tích của hình chữ nhật đó là:\n           25×9=225( cm^{2}  )\n                                    Đáp số: 225 cm^{2} \nChú ý\nHọc sinh có thể làm sai khi xác định tổng chính bằng chu vi và bằng 68cm, \ntừ đó áp dụng công thức sẽ tính sai số đo chiều dài, \nchiều rộng và tìm ra đáp án sai là diện tích bằng 1092 cm^{2} ."
+    },
+    {
+        "problem": "Câu 11 :  Hiện nay tổng số tuổi của hai ông cháu là 68 tuổi. Biết rằng 5 năm nữa cháu kém ông 64 tuổi. Tính tuổi của mỗi người hiện nay. \nA.\tÔng: 71 tuổi; cháu: 7 tuổi\nB.\tÔng: 65 tuổi; cháu: 3 tuổi\nC.\tÔng: 70 tuổi; cháu: 6 tuổi\nD.\tÔng: 66 tuổi; cháu: 2 tuổi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Do mỗi người mỗi năm đều tăng một tuổi nên hiệu số tuổi không thay đổi theo thời gian.\nTheo đề bài, 5 năm nữa cháu kém ông 64 tuổi nên hiện nay cháu vẫn kém ông 64 tuổi.\nSơ đồ tuổi hiện nay:\nTuổi cháu hiện nay là:\n (68−64):2=2 (tuổi)\nTuổi ông hiện nay là:\n    68−2=66(tuổi)\n           Đáp số: Ông: 66 tuổi;  cháu: 2 tuổi"
+    }
+]

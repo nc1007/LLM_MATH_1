@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Chọn đáp án đúng:\nA. Mỗi số vô tỉ được biểu diễn bởi một số thập phân hữu hạn hoặc vô hạn tuần hoàn;\nB. Số vô tỉ là số thập phân vô hạn không tuần hoàn, tập hợp số vô tỉ được kí hiệu 𝕀I; \nC. Mỗi số hữu tỉ được biểu diễn bởi một số thập phân vô hạn không tuần hoàn;\nD. Số vô tỉ là số thập phân vô hạn không tuần hoàn, tập hợp số vô tỉ được kí hiệu ℚ  .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nMỗi số hữu tỉ được biểu diễn bởi một số thập phân hữu hạn hoặc vô hạn tuần hoàn.\nDo đó, đáp án A và C sai.\nMỗi số vô tỉ được biểu diễn bởi một số thập phân vô hạn không tuần hoàn.\nDo đó, đáp án B đúng.\nSố vô tỉ là số thập phân vô hạn không tuần hoàn, tập hợp số vô tỉ được kí hiệu 𝕀I.\nDo đó, đáp án D sai.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 2. Trong các số \\frac{2}{11};0,232323...;0,20022...;\\frac{1}{4} ,số vô tỉ?\nA. \\frac{2}{11} ;                   \nB. 0,232323…;     \nC.0,20022…;                  \nD. \\frac{1}{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có\n \\frac{2}{11}=0,18. Vậy \\frac{2}{11} là số thập phân vô hạn tuần hoàn nên \\frac{2}{11} là số hữu tỉ không phải là số vô tỉ.\nSố 0,232323… là số thập phân vô hạn tuần hoàn nên 0,232323… là số hữu tỉ không phải số vô tỉ.\n0,20022… là số thập phân vô hạn không tuần hoàn nên 0,20022… là số vô tỉ.\n \\frac{1}{4}=\\frac{1}{2}=0,5. Vì \\frac{1}{4} là số thập phân hữu hạn nên \\frac{1}{4} là số hữu tỉ không phải là số vô tỉ.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 3. Khẳng định nào sau đây sai?\nA. 0,36=0,6 ;\nB. −62=6 ;\nC. 150=100+50 ;\nD. \\frac{81}{225}=\\frac{3}{5} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có\n 0,36=0,6 nên đáp án A đúng.\n −62=36=6 nên đáp án B đúng.\nSử dụng máy tính cầm tay ta có 150= 12,247…; 100+ 50=17,071…\nVì 12,247… ≠ 17,071… nên 150 ≠ 100+50. Do đó, đáp án C sai.\n \\frac{81}{225}=\\frac{9}{15}=\\frac{3}{5} nên đáp án D đúng.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 4. Chọn phát biểu đúng trong các các phát biểu sau:\nA. 3∈ℕ ;\nB. 16∈Ι ;\nC. π∈ℤ ;\nD. 81∈ℚ .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có\n 3=1,732...  Vì 3là số thập phân vô hạn không tuần hoàn nên 3 là số vô tỉ suy ra 3∉ℕ. Do đó, đáp án A sai.\n 16=4 . Vì 16 đưa được về dạng số thập phân hữu hạn nên 16 là số hữu tỉ suy ra 16∉𝕀. Do đó, đáp án B sai.\n π=3,14... Vì π là số thập phân vô hạn không tuần hoàn nên π là số vô tỉ suy ra π∉ℤ . Do đó, đáp án C sai.\n 81=9. Vì 81đưa được về dạng số thập phân hữu hạn nên 81 là số hữu tỉ nên 81∈ℚ . Do đó, đáp án D đúng.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 5. Tìm x nguyên để A=\\frac{35−x}{9+2} có giá trị nguyên biết x < 30?\nA. 4;\nB. 9;\nC.16;\nD. 25.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có : \nA=\\frac{35−x}{9+2}=\\frac{35−x}{3+2}=\\frac{35−x}{5}\nĐể A nhận giá trị nguyên thì (35−x)⋮5 .\nMà 35 ⋮ 5 nên x⋮5\nMặt khác, x < 30 nên x = 25.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 6. Chọn đáp án sai:\nA. 256=−16 ;\nB. 256=42 ;\nC. 256=−−16 ;\nD. 256=16 .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có 256=16=−−16=42  nên đáp án B, C, D đúng; đáp án A sai.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 7. Số − 9 có mấy căn bậc hai?\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nSố âm không có căn bậc hai nên số − 9 không có căn bậc hai.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 8. Chọn đáp án đúng:\nA. −\\frac{81}{25}=\\frac{9}{5} ;\nB. \\frac{81}{25}=−−\\frac{9}{5} ;\nC. \\frac{81}{25}=±\\frac{9}{5} ;\nD. −\\frac{81}{25}=−\\frac{9}{5} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có\n −\\frac{81}{25}=−\\frac{9}{5} . Do đó, đáp án A sai.\n \\frac{81}{25}=\\frac{9}{5}=−−\\frac{9}{5}. Do đó, đáp án B đúng, đáp án C sai.\nVì -\\frac{81}{25}là số âm nên −\\frac{81}{25} không tồn tại nên đáp án D sai.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 9. Căn bậc hai không âm của 0,64 là:\nA. 0,8;\nB. −0,8;\nC. ±0,8;\nD. Đáp án khác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: 0,64 có hai căn bậc hai là 0,64=0,8  và -0,64=-0,8 .\nDo đó căn bậc hai không âm của 0,64 là 0,8.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 10. Chọn câu trả lời sai. Nếu x=\\frac{5}{2}  thì x bằng:\nA. \\frac{−−5}{2}2 ;\nB. −−\\frac{5}{2}2 ;\nC. −−\\frac{5}{2}2 ;\nD. \\frac{25}{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có x=\\frac{5}{2} suy ra x=\\frac{5}{2}2=\\frac{25}{4} nên đáp án D đúng.\n \\frac{−−5}{2}2=\\frac{5}{2}2 nên đáp án A đúng.\n --\\frac{5}{2}=\\frac{5}{2} nên đáp C đúng.\n --\\frac{5}{2}=-\\frac{25}{4} ≠ \\frac{25}{4}  nên đáp án B sai. \nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 11. Độ dài cạnh của một mảnh đất hình vuông có diện tích 256 m^{2}  là:\nA. 16;\nB. ±16 m; \nC. 64 m;\nD. 16 m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nĐộ dài cạnh của mảnh đất hình vuông đó là:  256=16(m).\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 12. So sánh 36+64 và -5  :\nA. 36+64=64+36 ;\nB. 36+64>64+36  ;\nC. 36+64<64+36  ;\nD. Không so sánh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: \n 36+64=6+8=14; 36+64=100=10\nMà 14 > 10 nên 36+64>64+36 .\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 13. Biểu thức \\frac{232+122}{132+4} sau khi rút gọn sẽ bằng:\nA. 3;\nB. ;\nC. 6;\nD. .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: \n\\frac{232+122}{132+4}=\\frac{23+12}{13+2}=\\frac{35}{15}=\\frac{35:5}{15:5}=\\frac{7}{3}\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 14. Khẳng định nào sau đây đúng?\nA. Số 9 có hai căn bậc hai là ±81 ;\nB. Số − 9 có hai căn bậc hai là ±-9 ;\nC. Số −9 không có căn bậc hai;\nD. Số 9 có một căn bậc hai là 9 .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\nSố 9 có hai căn bậc hai là 9=3  và -9=-3 . Do đó, đáp án A và D sai.\nSố −9 là số âm nên không có căn bậc hai. Do đó, đáp án B sai, đáp án C đúng.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 15. Chọn câu trả lời đúng, nếu 64 = 4x thì x^{2}  bằng?\nA. 20;\nB. 4;\nC. 50;\nD. 400.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: \n 64 = 4x\n4x = 8\nx = 2\nSuy ra x^{2}  = 2^{2}  = 4\nVậy chọn đáp án B."
+    }
+]

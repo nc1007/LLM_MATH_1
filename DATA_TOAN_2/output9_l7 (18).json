@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Cho đa thức \\(P\\left( x \\right)\\). Chứng minh rằng:\na) Nếu P(x) chia hết cho x – a thì a là một nghiệm của đa thức P(x);\nb) Nếu x = a là một nghiệm của đa thức P(x) thì P(x) chia hết cho x – a.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\(P\\left( x \\right) = \\left( {x - a} \\right).Q\\left( x \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\)\nChứng minh P(a) = 0\nb) \\(P\\left( x \\right) = \\left( {x - a} \\right)Q\\left( x \\right) + R\\left( x \\right)\\)\nChứng minh R(x) = 0 bằng phương pháp phản chứng.\nLời giải chi tiết\na)\nGiả sử P(x) chia hết cho x – a. Gọi Q(x) là đa thức thương, ta có:\n\\(P\\left( x \\right) = \\left( {x - a} \\right).Q\\left( x \\right)\\,\\,\\,\\,\\,\\,\\,\\,\\left( 1 \\right)\\)\n\\(\\begin{array}{l} \\Rightarrow P\\left( a \\right) = \\left( {a - a} \\right).Q\\left( a \\right)\\\\ \\Rightarrow P\\left( a \\right) = 0\\end{array}\\)\nVậy a là một nghiệm của P(x)\nb)\nNgược lại, cho a là một nghiệm của P(x). Giả sử chia P(x) cho x – a, ta được thương là Q(x) và dư là R(x), nghĩa là ta có:\\(P\\left( x \\right) = \\left( {x - a} \\right)Q\\left( x \\right) + R\\left( x \\right)\\)        (2)\nTrong đó hoặc R(x) = 0, hoặc nếu R(x) # 0 thì R(x) phải có bậc nhỏ hơn bậc của đa thức x – a, tức là nhỏ hơn 1.\nChứng minh rằng: R(x) = 0\nNếu R(x) # 0 thì do bậc của R(x) nhỏ hơn 1 nên R(x) có bậc 0.\nNói cách khác, R(x) là một số khác 0 nào đó. (vô lí)\nChẳng hạn x = a thì VT (vế trái) = 0 mà VP (vế phải) # 0\nVậy chỉ có thể xảy ra R(x) = 0, nghĩa là P(x) chia hết cho x – a."
+    }
+]

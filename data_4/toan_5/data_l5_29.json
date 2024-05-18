@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Chọn đáp án đúng nhất:\nA.\tKhi nhân một số thập phân với 10, 100, 1000,… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba,… chữ số.\nB.\tKhi nhân một số thập phân với 0,1; 0,01; 0,001;… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.\nC.\tCả A và B đều sai\nD.\tCả A và B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tKhi nhân một số thập phân với 10, 100, 1000,... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba, ... chữ số.  \n-\tKhi nhân một số thập phân với 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba, … chữ số.\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 7: Tìm x, biết x : 6,2 = 52,2 + 12,4 × 0,1\nA.\tx = 40,052\nB.\tx = 42,042\nC.\tx = 331,328\nD.\tx = 333,318",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \nx : 6,2 = 52,2 + 12,4 x 0,1\nx : 6,2 = 52,2 + 1,24\nx : 6,2 = 53,44\nx = 53,44 x 6,2\nx = 331,328\nVậy x = 331,328"
+    },
+    {
+        "problem": "Câu 12: Một can nhựa chứa 100 lít dầu hỏa. Biết một lít dầu hỏa cân nặng 0,8kg, can rỗng cân nặng 12,5kg. Hỏi can dầu hỏa đó cân nặng bao nhiêu ki-lô-gam?\nA.\t67,5kg\nB.\t80kg\nC.\t92,5kg\nD.\t133kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "100 lít dầu hỏa nặng số ki-lô-gam là:\n0,8 × 100 = 80 (kg)\nCan dầu hỏa đó nặng số ki-lô-gam là:\n80 + 12,5 = 92,5 (kg)\nĐáp số: 92,5kg."
+    },
+    {
+        "problem": "Câu 13: Tìm một số thập phân biết rằng khi chia số đó cho 3,25 rồi cộng với 24,56 thì được kết quả một số tự nhiên lớn nhất có hai chữ số.\nA.\t401,57\nB.\t238,68\nC.\t2747,25\nD.\t241,93",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tự nhiên lớn nhất có hai chữ số là 99.\nGiả xử x là số thập phân cần tìm. Theo đề bài ta có x : 3,25 + 24,56 = 99.\n x : 3,35 + 24,56 = 99\n x : 3,35 = 99 - 24,56\nx : 3,35 = 74,44\n x = 74,44 x 3,25\n x = 241,93\nVậy số thập phân cần tìm là 241,93."
+    },
+    {
+        "problem": "Câu 15: Điểm kiểm tra trung bình của lớp 5A là 8,02 điểm và điểm trung bình của học sinh nữ là 8,07 điểm. Biết lớp 5A có 28 học sinh, số học sinh nam nhiều hơn số học sinh nữ là 4 học sinh. Tính tổng số điểm của học sinh nam đạt được.\nA.\t224,56 điểm\nB.\t127,72 điểm\nC.\t128,32 điểm\nD.\t96,84 điểm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lớp 5A có số học sinh nam là:\n(28 + 4) : 2 = 16 (học sinh)\nLớp 5A có số học sinh nữ là:  \n28 – 16 = 12 (học sinh)\nTổng số điểm của cả lớp đạt được là:\n8,02 × 28 = 224,56 (điểm)\nTổng số điểm của học sinh nữ đạt được là: \n8,07 × 12 = 96,84 (điểm)\nTổng số điểm của học sinh nam đạt được là:  \n224,56 − 96,84 = 127,72 (điểm)  \nĐáp số: 127,72 điểm."
+    }
+]

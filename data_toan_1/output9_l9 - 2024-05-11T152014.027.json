@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Em hãy ghi lại năm sinh của các thành viên trong gia đình mình. Dāy dữ liệu thu được có phải dãy số liệu không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Em ghi năm sinh của các thành viên trong gia đình mình\nLời giải chi tiết\nChẳng hạn, gia đình em có 4 người, sinh các năm: 1979; 1983; 2007; 2010 thì dãy thu được là:\n1979 ; 1983 ; 2007 ; 2010.\nDãy dữ liệu thu được là dãy số liệu."
+    },
+    {
+        "problem": "Em hãy quan sát và liệt kê:\na) Các con vật nuôi trong nhà em hoặc nhà bạn của em;\nb) Các cây thân gỗ em gặp trên đường đi học.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát và liệt kê\nLời giải chi tiết\nCác em có thể tham khảo các sự vật sau:\na)     Con mèo, con chó, con chim,….\nb)    Cây bàng, cây xoài, cây xà cừ, cây bằng lăng, cây sưa,..."
+    },
+    {
+        "problem": "Bình thực hiện đo khối lượng riêng của viên sỏi(đơn vị là kg/m3) trong 5 lần và ghi lại kết quả như sau:\n5000    4 769    5 167    4 923     300.\na) Dữ liệu Bình thu được có phải là số liệu không?\nb) Biết khối lượng riêng của nước là 1 000 kg/m3. Trong các giá trị Bình ghi lại ở trên, giá trị nào không hợp lí? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát dãy kết quả\nLời giải chi tiết\na)     Dữ liệu Bình thu được là số liệu\nb)    Trong các giá trị Bình ghi lại ở trên, giá trị 300 là không hợp lí vì khối lượng riêng của nước nhỏ hơn khối lượng riêng của sỏi và giá trị 300 chênh lệch quá nhiều so với các số liệu khác ở trên"
+    },
+    {
+        "problem": "Trong các dữ liệu sau, dữ liệu nào là số liệu, dữ liệu nào không phải là số liệu?\n(1) Diện tích của các tỉnh, thành phố trong cả nước (đơn vị tính là km2).\n(2) Tên các loài động vật sống tại vườn Quốc gia Cúc Phương.\n(3) Số học sinh nam của các tổ trong lớp 6A.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dữ liệu được gọi là số liệu nếu dữ liệu được cho ở dạng số.\nLời giải chi tiết\nDữ liệu (1) và (3) là số liệu\nDữ liệu (2) không là số liệu."
+    },
+    {
+        "problem": "Tìm giá trị không hợp lí (nếu có) trong các dãy dữ liệu sau:\na) Tên một số truyện cổ tích: Sọ Dừa, Thạch Sanh,Ông lão đánh cá và con\ncá vàng, Thầy bói xem voi.\nb) Một số cây thân gỗ: xoan, xà cừ, bạch đàn, đậu tương, phi lao.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)     Tìm truyện không phải là truyện cổ tích\nb)    Tìm cây không phải là cây thân gỗ\nLời giải chi tiết\nGiá trị không hợp lí là:\na)     Thầy bói xem voi vì Thầy bói xem voi là truyện ngụ ngôn(không là truyện cổ tích)\nb)    Đậu tương vì đậu tương không là cây thân gỗ"
+    },
+    {
+        "problem": "Để thu được mỗi dãy dữ liệu sau, em sẽ sử dụng phương pháp thu thập nào?\na) Số bạn thuận tay trái trong lớp.\nb) Nhiệt độ sôi của một số chất lỏng.\nc) Thủ đô của các quốc gia Đông Nam Á.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có thể có nhiều phương pháp thu thập trong 1 trường hợp.\nCác phương pháp thu thập thường dùng là: quan sát, làm thí nghiệm, tra cứu Internet, sách báo, lập bảng hỏi,….\nLời giải chi tiết\na)     Quan sát hay lập bảng hỏi\nb)    Làm thí nghiệm\nc)     Tra cứu sách báo hoặc Internet"
+    },
+    {
+        "problem": "Đoạn sau được trích từ Thời báo tài chính Việt Nam số ra ngày 26-5-2020:\n\"Cǎn cứ báo cáo nhanh của Văn phòng Bộ Công an và Cục Hàng hải Việt Nam, trong tháng 5-2020 (từ ngày 15-4-2020 đến 14-5-2020), toàn quốc xảy ra 998 vụ tai nạn giao thông, làm chết 529 người và làm bị thương 660 người. So với tháng cùng kì nǎm 2019 thì tháng 5-2020 đã giảm 328 vụ, giảm 29 người tử vong, giảm 415 người bị thương\".\nHāy liệt kê số vụ tai nạn giao thông, số người tử vong, số nguời bị thương trong tháng 5-2019 trên toàn quốc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số vụ tai nạn giao thông, số người tử vong, số nguời bị thương trong tháng 5-2019 trên toàn quốc\nLời giải chi tiết\nSố vụ tai nạn giao thông trong tháng 5-2019 trên toàn quốc là:\n998 + 328 = 1 326 (vụ)\nSố người tử vong trong tháng 5-2019 trên toàn quốc là:\n529 + 29 = 558 (người)\nSố người bị thương trong tháng 5-2019 trên toàn quốc là:\n660 + 415 = 1 075 (người)\nVậy số vụ tai nạn giao thông, số người tử vong, số nguời bị thương trong tháng 5-2019 trên toàn quốc lần lượt là: 1 326 ; 558 ; 1 075."
+    },
+    {
+        "problem": "Thời gian giải toán (tính bằng phút) của 14 học sinh được ghi lại như sau:\n5  10  4  8  8  7  8  10  8  9  6  9  5  7\nLập bảng thống kê biểu diễn thời gian giải toán của 14 bạn học sinh theo mẫu sau:\nThời gian (phút)\n4\n5\n6\n7\n8\n9\n10\nSố học sinh\n1\n\n\n\n\n\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số bạn có thời gian giải là 4,5,6,7,8,9,10 phút\nLời giải chi tiết\nThời gian (phút)\n4\n5\n6\n7\n8\n9\n10\nSố học sinh\n1\n2\n1\n2\n4\n2\n2"
+    },
+    {
+        "problem": "Bảng thống kê sau đây cho biết số dân của một số địa phương tại thời điểm năm 2019.\na)     Đơn vị tính số dân của các địa phương trong bảng trên là gì?\nb)    Trong các địa phương trên, địa phương nào đông dân nhất, ít dân nhất?\nĐịa phương\nHà Nội\nHải Phòng\nHưng Yên\nHà Giang\nSố dân (nghìn người)\n8 094\n2 033\n1 256\n858",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh các số liệu\nLời giải chi tiết\na)     Đơn vị tính số dân của các địa phương trong bảng trên là: nghìn người.\nb)    Trong các địa phương trên, Hà Nội có đông dân nhất ( 8 094 nghìn người) ; Hà Giang ít dân nhất ( 858 nghìn người)."
+    },
+    {
+        "problem": "Một cuộc khảo sát phương tiện đi làm trong toàn thể nhân viên của một công ty cho thấy có 35 nhân viên đi xe buýt, 5 nhân viên đi xe đạp, 20 nhân viên đi xe máy, 7 nhân viên đi ô tô cá nhân, không có nhân viên nào sử dụng các phương tiện khác.\na)     Hãy lập bảng thống kê biểu diễn số lượng nhân viên sử dụng mỗi loại phương tiện đi làm.\nb)    Công ty này có bao nhiêu nhân viên?\nc)     Phương tiện nào được nhân viên sử dụng nhiều nhất?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nhân viên = Tổng số nhân viên đi các loại phương tiện.\nLời giải chi tiết\na)     Ta có bảng thống kê:\nPhương tiện\nXe buýt\nXe đạp\nXe máy\nÔ tô cá nhân\nSố nhân viên (người)\n35\n5\n20\n7\n\nb)    Công ty có số nhân viên là:\n35 + 5 + 20 + 7 = 67 (người)\nc)     Phương tiện nào được nhân viên sử dụng nhiều nhất là: xe buýt (35 người)"
+    }
+]

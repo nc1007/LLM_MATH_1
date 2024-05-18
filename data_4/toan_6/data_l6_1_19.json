@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 3.\nĐộ dài đáy của hình bình hành có chiều cao 24cm và diện tích là 432cm^{2}  là:\nA. 16cm\nB. 17cm\nC. 18cm\nD. 19cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐộ dài đáy của hình bình hành đó là:\n 432:24 = 18(cm)\n Đáp số: 18cm"
+    },
+    {
+        "problem": "Câu 7. Trong các hình dưới đây, hình nào là hình thang cân:\nA. Hình a\nB. Hình b\nC. Hình c\nD. Hình d",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nQuan sát hình ta thấy Hình b là hình thang cân.\nĐáp án cần chọn là: B"
+    }
+]

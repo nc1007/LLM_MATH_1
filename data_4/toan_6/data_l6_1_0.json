@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "A. A = [0; 1; 2; 3] \nB. A = (0; 1; 2; 3)\nC. A = 1; 2; 3\nD. A = {0; 1; 2; 3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCách viết đúng là A = {0; 1; 2; 3}.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Cho B = {2; 3; 4; 5}. Chọn câu sai.\nA. 2∈B \nB. 5∈B\nC. 1∉B\nD. 6∈B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n2 và 5 là các phần tử của B nên A, B đúng.\n1 không là phần tử của B nên C đúng.\nTa thấy 6 không là phần tử của tập hợp B nên 6∉B. Do đó D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Cho A là tập hợp các số chẵn lớn hơn 15. Số nào trong các số sau là một phần tử của A?\nA. 0\nB. 13\nC. 20\nD. 21",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố 0 và 13 là các số nhỏ hơn 15 nên 0 và 13 không là phần tử của A => Đáp án A, B sai\nSố 21 là số lẻ nên 21 không là phần tử của A => Đáp án D sai\nSố 20 là số lớn hơn 15 và là số chẵn nên 20 là một phần tử của A => Đáp án C đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Hệ Mặt Trời gồm có Mặt Trời ở trung tâm và 8 thiên thể quanh quanh Mặt Trời gọi là các hành tinh. Đó là sao Thủy, Sao Kim, Trái Đất, Sao Hỏa, Sao Mộc, Sao Thổ, Sao Thiên Vương, Sao Hải Vương.\nCho S là tập hợp các hành tinh của Hệ Mặt Trời. Khẳng định nào sau đây đúng?\nA. S là tập hợp có 8 phần tử.\nB. Sao Thủy không thuộc S.\nC. S là tập hợp có 9 phần tử.\nD. Mặt Trời là một phần tử của S.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThổ, Sao Thiên Vương, Sao Hải Vương\nHệ Mặt Trời có 8 hành tinh nên S có 8 phần tử => A đúng, C sai\nSao Thủy là một hành tinh của Hệ Mặt Trời => B sai.\nMặt Trời không là hành tinh nên Mặt Trời không là một phần tử của S => D sai\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Cho tập hợp E = {0; 2; 4; 6; 8}. Hãy chỉ ra tính chất đặc trưng cho các phần tử của tập hợp E.\nA. Các số tự nhiên chẵn nhỏ hơn 10\nB. Các số tự nhiên chẵn nhỏ hơn 11\nC. Các số tự nhiên chẵn nhỏ hơn 12\nD. Các số tự nhiên chẵn nhỏ hơn 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác phần tử của tập hợp E đều là các số tự nhiên chẵn nhỏ hơn 10\nTính chất đặc trưng của các phần tử trong E là “các số tự nhiên chẵn nhỏ hơn 10”\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Cho tập hợp A = {x∈N|2 < x ≤ 7} . Kết luận nào sau đây không đúng?\nA. 7∈A \nB. Tập hợp A có 5 phần tử\nC. 2∈A \nD. Tập hợp A gồm các số tự nhiên lớn hơn 2 và nhỏ hơn hoặc bằng 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong cách viết A = {x∈N|2 < x ≤ 7}, ta chỉ ra tính chất đặc trưng cho các phần tử xx của tập hợp A đó là x > 2 và x ≤ 7 . Do đó 2 không là phần tử của tập A.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Dùng ba chữ số 0; 4; 6 để viết tập hợp các số có ba chữ số khác nhau. Hỏi tập này có bao nhiêu phần tử?\nA. 3 \nB. 4 \nC. 2\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVới ba chữ số 0; 4; 6 ta có thể lập được bốn số có ba chữ số khác nhaulà 640; 604; 406; 460 . Do đó tập hợp cần tìm có bốn phần tử.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Cho tập hợp A = {x∈N|1990 ≤ x ≤ 2009}. Số phần tử của tập hợp A là\nA. 20 \nB. 21\nC. 19\nD. 22",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số tự nhiên liên tiếp hơn kém nhau 1 đơn vị. Vì vậy số phần tử của tập hợp A là:\n2009 – 1990 + 1 = 20.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10. Tập hợp C các số tự nhiên x sao cho x – 10 = 15 có số phần tử là\nA. 4 \nB. 2\nC. 1\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n x – 10 = 15\nx = 15 + 10 \nx = 25\nnên C = {25} do đó CC có một phần tử.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về tập hợp, phần tử của tập hợp\nCâu 1. Viết tập hợp A các số tự nhiên lớn hơn 5 và nhỏ hơn 10.\nA. A = {6; 7; 8; 9}.\nB. A = {5; 6; 7; 8; 9}.\nC. A = {6; 7; 8; 9; 10}.\nD. A = {6; 7; 8}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTập hợp A các số tự nhiên lớn hơn 5 và nhỏ hơn 10 là A = {6; 7; 8; 9}.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Viết tập hợp P các chữ cái khác nhau trong cụm từ: “ HOC SINH”\nA. P = {H; O; C; S; I; N; H}. \nB. P = {H; O; C; S; I; N}. \nC. P = {H; C; S; I; N}.\nD. P = {H; O; C; H; I; N}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác chữ cái khác nhau trong cụm từ “ HOC SINH” là H; O; C; S; I; N\nNên P = {H; O; C; S; I; N}.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Viết tập hợp A = {16; 17; 18; 19} dưới dạng chỉ ra tính chất đặc trưng.\nA. A = {x∈N|15 < x < 19} \nB. A = {x∈N|15 < x < 20}\nC. A = {x∈N|16 < x < 20}\nD. A = {x∈N|15 < x ≤ 20}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNhận thấy các số 16; 17; 18; 19 là các số tự nhiên lớn hơn 15 và nhỏ hơn 20\nNên A = {x∈N|15 < x < 20}.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Cho B là tập hợp các số tự nhiên nhỏ hơn 10. Trong các khẳng định sau, có bao nhiêu khẳng định sai?\n1. 2∈B\n2. 5∉B\n3. B = {0;1;2;3;4;5;6;7;8;9;10}\n4. B={9;8;7;6;5;4;3;2;1;0}\n5. B={0;1;1;2;3;4;5;6;7;8;9}\nA. 1\nB. 2\nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố 2 là số tự nhiên nhỏ hơn 10 nên 2∈B =>Khẳng định 1 đúng.\nSố 5 là số tự nhiên nhỏ hơn 10 nên 5∈B =>Khẳng định 2 sai.\nTập hợp B là tập hợp các số tự nhiên nhỏ hơn 10 nên các phần tử của B là:\n1; 2; 3; 4; 5; 6; 7; 8; 9 \n⇒ B = {1; 2; 3; 4; 5; 6; 7; 8; 9} = {9; 8; 7; 6; 5; 4; 3; 2; 1}\n =>Khẳng định 4 đúng.\nTập hợp B trong khẳng định 3 có chứa số 10 mà 10 không thuộc B \n=>Khẳng định 3 sai.\nB = {1; 1; 2; 3; 4; 5; 6; 7; 8; 9} có số 1 được liệt kê hai lần\n => Khẳng định 5 sai\nVậy có 3 khẳng định sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Viết tập hợpA = {x|22 < x ≤ 27} dưới dạng liệt kê các phần tử ta được:\nA. A = {22; 23; 24; 25; 26} \nB. A = {22; 23; 24; 25; 26; 27}\nC. A = {23; 24; 25; 26; 27}\nD. A = {23; 24; 25; 26}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số lớn hơn 22 và nhỏ hơn hoặc bằng 27 là 23; 24; 25; 26; 27.\nNên A = {23; 24; 25; 26; 27}.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Tập hợp P gồm các số tự nhiên lớn hơn 50 và không lớn hơn 57. Kết luận nào sau đây là sai?\nA. 55∈P\nB. 57∈P\nC. 50∉P\nD. 58∈P",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số tự nhiên lớn hơn 50 và không lớn hơn 57 là 51; 52; 53; 54; 55; 56; 57\nNên P = {51; 52; 53; 54; 55; 56; 57}\nDo đó 58∉P nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Số phần tử của tập hợp các số tự nhiên lẻ lớn hơn 1010 nhỏ hơn 5050 là\nA. 16\nB. 20 \nC. 18 \nD. 19",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số tự nhiên lẻ lớn hơn 10 và nhỏ hơn 50 là 11; 13; 15;...; 47; 49.\nNên có (49 − 11):2 + 1 = 20 số tự nhiên lẻ lớn hơn 10 và nhỏ hơn 50.\nVậy số phần tử của tập hợp các số tự nhiên lẻ lớn hơn 10 nhỏ hơn 50 là 20.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 11. Số phần tử của tập hợp P gồm các chữ cái trong cụm từ “ WORLD CUP” là\nA. 9\nB. 6\nC. 8\nD. 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác chữ cái trong cụm từ“ WORLD CUP” là W; O; R; L; D; C; U; P.\nNên tập hợp P = {W; O; R; L; D; C; U; P} bao gồm 88 phần tử.\nĐáp án cần chọn là: C"
+    }
+]

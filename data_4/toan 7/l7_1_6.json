@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "B. 1,(07);\nC. 1,0(6);\nD. 1,067.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nThực hiện đặt tính chia 16 cho 15 ta được \\frac{16}{15} = 16 : 15 = 1,06666...  có chu kì là 6 nên viết được dưới dạng số thập phân vô hạn tuần hoàn là 1,0(6).\nVậy viết phân số \\frac{16}{15} dưới dạng số thập phân vô hạn tuần hoàn ta được: 1,0(6)."
+    },
+    {
+        "problem": "Câu 2. Chọn phát biểu đúng.\nA. Căn bậc hai số học của số a không âm là số x không âm sao cho x^{2}  = a;\nB. Căn bậc hai số học của số a không âm là số x không âm sao cho x^{3}  = a;\nC. Căn bậc hai số học của số a không âm là số x không âm sao cho x = a^{2} ;\nD. Căn bậc hai số học của số a không âm là số x không âm sao cho x = a^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nCăn bậc hai số học của số a không âm là số x không âm sao cho x^{2}  = a."
+    },
+    {
+        "problem": "Câu 3. Điền hai số thích hợp lần lượt và chỗ chấm trong câu sau: “Vì 5^{2}  = … và 5 > 0 nên ... = 5”.\nA. 5 và 5;\nB. 5 và 25;\nC. 25 và 5;\nD. 25 và 25.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nLưu ý: Cho a ≥ 0. Khi đó đẳng thức a = b là đúng nếu b ≥ 0 và b^{2}  = a.\nTa có vì 5^{2}  = 25 và 5 > 0 nên 25 =5.\nVậy hai số cần điền lần lượt là 25 và 25."
+    },
+    {
+        "problem": "Câu 4. Tính 64.\nA. –8;\nB. 8;\nC. ±8;\nD. 32.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nSử dụng định nghĩa về căn bậc hai số học.\nCăn bậc hai số học của số a không âm là số x không âm sao cho x^{2}  = a.\nVì 8^{2}  = 64 và 8 > 0 nên 64 = 8."
+    },
+    {
+        "problem": "Câu 5. Chọn câu đúng.\nA. - \\frac{81}{121} = \\frac{9}{11}\nB. - \\frac{81}{121} = - \\frac{9}{11}\nC. - \\frac{81}{121} = ± \\frac{9}{11}\nD. Không tính được - \\frac{81}{121}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nSử dụng định nghĩa về căn bậc hai số học.\nCăn bậc hai số học của số a không âm là số x không âm sao cho x^{2}  = a.\nVì \\frac{81}{121} = \\frac{9}{11}2 và \\frac{9}{11}>0 nên \\frac{81}{121} = \\frac{9}{11}\nDo đó - \\frac{81}{121} = - \\frac{9}{11}.\nVậy - \\frac{81}{121} = - \\frac{9}{11}."
+    },
+    {
+        "problem": "Câu 6. Giá trị biểu thức 0,16 - 0,09 là:\nA. 0,07;\nB. 0,1;\nC. –0,1;\nD. –0,7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có \n 0,16 - 0,09\n= 0,42 - 0,32\n= 0,4 – 0,3\n= 0,1."
+    },
+    {
+        "problem": "Câu 7. Cho a = 4.25 và b = 4.25 . Phát biểu nào sau đây là đúng?\nA. a < b;\nB. a = b;\nC. a ≠ b;\nD. a > b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có a = 4.25 = 100 = 102 = 10;\nb = 4.25 = 22.52=2.5=10\nVì 10 = 10 nên 4.25 = 4.25\nDo đó a = b.\nVậy a = b."
+    },
+    {
+        "problem": "Câu 8. An tính 100 như sau: \n100 = 64+36 = 64 + 36 = 82 + 62 = 8 + 6 =14.\nCô giáo chấm bài của An và nói rằng An đã làm sai. Vậy An đã làm sai ở bước nào?\nA. Bước (1);\nB. Bước (2);\nC. Bước (3);\nD. Bước (4).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có 100 = 102 = 10;\n 64 + 36 = 82 + 62 = 8 + 6 =14.\nVì 10 < 14 nên 100 < 64 + 36\nDo đó 64+36 < 64 + 36.\nVậy bạn An sai từ bước (2)."
+    },
+    {
+        "problem": "Câu 9. Giá trị biểu thức \\frac{3}{4}.\\frac{121}{49}+\\frac{121}{49}.\\frac{1}{4} là:\nA. -\\frac{121}{49};\nB. \\frac{121}{49};\nC. -\\frac{11}{7}\nD. \\frac{11}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTa có: \\frac{3}{4}.\\frac{121}{49}+\\frac{121}{49}.\\frac{1}{4}\n=\\frac{3}{4}.\\frac{11}{7}2+\\frac{112}{72}.\\frac{1}{4}\n=\\frac{3}{4}.\\frac{11}{7}+\\frac{11}{7}·\\frac{1}{4}\n=\\frac{11}{7}.\\frac{3}{4}+\\frac{11}{7}·\\frac{1}{4}\n=\\frac{11}{7}·\\frac{3}{4}+\\frac{1}{4}\n=\\frac{11}{7}·\\frac{4}{4}\n=\\frac{11}{7}.1\n=\\frac{11}{7}·"
+    },
+    {
+        "problem": "Câu 10. Dùng máy tính cầm tay để tính giá trị của biểu thức 12,5 (làm tròn đến hàng phần mười) là:\nA. 3,53;\nB. 3,54;\nC. 3,5;\nD. 3,6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hướng dẫn giải\nĐáp án đúng là: C.\nDùng máy tính cầm tay ta ta tính được 12,5=3,53533905...\nÁp dụng quy tắc làm tròn để làm tròn kết quả nhận được đến hàng phần mười ta được số 3,5.\nVậy 12,5=3,53533905... xấp xỉ 3,5."
+    },
+    {
+        "problem": "Câu 11. Độ dài cạnh của một hình vuông có diện tích 144 cm^{2}  là:\nA. ±12 cm;\nB. 12 cm;\nC. ±72 cm;\nD. 72 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nDiện tích của hình vuông có cạnh a (cm) là a^{2}  (cm^{2} ).\nĐể hình vuông có diện tích là 144 cm^{2}  thì a^{2}  = 144\nVì cạnh hình vuông nên a không thể âm, do đó a là căn bậc hai số học của 144.\nTa có 12^{2}  = 144 và 12 > 0 nên 144=12.\nSuy ra a = 12 (cm).\nVậy độ dài cạnh hình vuông đó là 12 cm."
+    },
+    {
+        "problem": "Câu 12. Sau khi sơn tường cho một bức tường hình vuông bác Phương phải trả cho thợ sơn là 1 280 000 đồng. Biết công thợ sơn cho 1m^{2}  là 20 000 đồng. Độ dài cạnh bức tường đó là:\nA. 8 m;\nB. 32 m;\nC. 64 m;\nD. 64 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nDiện tích bức tường cần sơn là: 1 280 000 : 20 000 = 64 (m^{2} )\nDiện tích của hình vuông có cạnh a (m) là a^{2}  (m^{2} ).\nBức tường hình vuông có diện tích là 64 m^{2}  nên ta có a^{2}  = 64\nVì cạnh hình vuông nên a không thể âm, do đó a là căn bậc hai số học của 64.\nTa có 8^{2}  = 64 và 8 > 0 nên 64=8.\nSuy ra a = 8 (m).\nVậy độ dài cạnh bức tường hình vuông đó là 8 m."
+    },
+    {
+        "problem": "Câu 13. Giá trị x∈ℚ thoả mãn x^{2}  = 256 là:\nA. x = –16;\nB. x = 16;\nC. x = 16 hoặc x = –16;\nD. x = 256.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hướng dẫn giải\nĐáp án đúng là: C.\nTa có x^{2}  = 256 \nx^{2}  = 16^{2} \nSuy ra x = 16 hoặc x = –16.\nVậy x = 16 hoặc x = –16."
+    },
+    {
+        "problem": "Câu 14. Giá trị biểu thức 6.6-3.\\frac{1}{4} là:\nA. \\frac{21}{4};\nB. \\frac{27}{4};\nC. \\frac{15}{2};\nD. \\frac{9}{2}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTa có\n6.6-3.\\frac{1}{4}\n= 62-3.\\frac{1}{2}2=6-3.\\frac{1}{2}=6-3.\\frac{1}{2}=6-\\frac{3}{2}=\\frac{12}{2}-\\frac{3}{2}=\\frac{9}{2}.\n\n\n6.6-3.\\frac{1}{4}\n= 62-3.\\frac{1}{2}2=6-3.\\frac{1}{2}=6-3.\\frac{1}{2}=6-\\frac{3}{2}=\\frac{12}{2}-\\frac{3}{2}=\\frac{9}{2}.\n\n6.6-3.\\frac{1}{4}\n= 62-3.\\frac{1}{2}2=6-3.\\frac{1}{2}=6-3.\\frac{1}{2}=6-\\frac{3}{2}=\\frac{12}{2}-\\frac{3}{2}=\\frac{9}{2}.\n\n\n= 62-3.\\frac{1}{2}2=6-3.\\frac{1}{2}=6-3.\\frac{1}{2}=6-\\frac{3}{2}=\\frac{12}{2}-\\frac{3}{2}=\\frac{9}{2}.\n\n= 62-3.\\frac{1}{2}2=6-3.\\frac{1}{2}=6-3.\\frac{1}{2}=6-\\frac{3}{2}=\\frac{12}{2}-\\frac{3}{2}=\\frac{9}{2}."
+    }
+]

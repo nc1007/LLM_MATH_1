@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Em hãy viết hai đa thức tuỳ ý A(x) và B(x). Sau đó tính \\(C\\left( x \\right) = A\\left( x \\right) - B\\left( x \\right)\\) và \\(C'\\left( x \\right) = B\\left( x \\right) - A\\left( x \\right)\\), rồi so sánh và nêu nhận xét về bậc, các hệ số của C(x) và C’(x).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chọn 2 đa thức: \\(A\\left( x \\right) = {x^4} + 3{x^3} - 2x + 1;B\\left( x \\right) = 2{x^4} - 5{x^3} + 2{x^2} - x - 4\\)\n- Viết hai đa thức trong dấu ngoặc và nối chúng bởi dấu “+” (hay “-“). Sau đó bỏ dấu ngoặc rồi nhóm các hạng tử cùng bậc và thu gọn.\nLời giải chi tiết\n2 đa thức: \\(A\\left( x \\right) = {x^4} + 3{x^3} - 2x + 1;\\\\B\\left( x \\right) = 2{x^4} - 5{x^3} + 2{x^2} - x - 4\\)\n\\(\\begin{array}{l}C\\left( x \\right)\\\\ = A\\left( x \\right) - B\\left( x \\right)\\\\ = \\left( {{x^4} + 3{x^3} - 2x + 1} \\right) - \\left( {2{x^4} - 5{x^3} + 2{x^2} - x - 4} \\right)\\\\ = \\left( {{x^4} - 2{x^4}} \\right) + \\left( {3{x^3} + 5{x^3}} \\right) - 2{x^2} + \\left( { - 2x + x} \\right) + \\left( {1 + 4} \\right)\\\\ =  - {x^4} + 8{x^3} - 2{x^2} - x + 5\\end{array}\\)\n\\(\\begin{array}{l}C'\\left( x \\right)\\\\ = B\\left( x \\right) - A\\left( x \\right)\\\\ = \\left( {2{x^4} - 5{x^3} + 2{x^2} - x - 4} \\right) - \\left( {{x^4} + 3{x^3} - 2x + 1} \\right)\\\\ = \\left( {2{x^4} - {x^4}} \\right) + \\left( { - 5{x^3} - 3{x^3}} \\right) + 2{x^2} + \\left( { - x + 2x} \\right) + \\left( { - 4 - 1} \\right)\\\\ = {x^4} - 8{x^3} + 2{x^2} + x - 5\\end{array}\\)\nNhận xét:\n+ Hai đa thức C(x) và C’(x) cùng bậc.\n\n+ Các hệ số của hai hạng tử cùng bậc trong hai đa thức C(x) và C’(x) là hai số đối nhau."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na)\\(2{a^2}b + a{b^2} - 3ab\\) tại a = -2 và b = 4.\nb) \\(xy\\left( {x + y} \\right) - \\left( {{x^2} + {y^2}} \\right)\\) tại x = 0,5 và  y = - 1,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Thay a = -2, b = 4 vào biểu thức.\nb)Thay x = 0,5 và y = -1,5 vào biểu thức.\nLời giải chi tiết\na)\nThay a = -2 và b = 4 vào biểu thức \\(2{a^2}b + a{b^2} - 3ab\\) ta được:\n\\(\\begin{array}{l}2.{\\left( { - 2} \\right)^2}.4 + \\left( { - 2} \\right){.4^2} - 3.\\left( { - 2} \\right).4\\\\ = 2.4.4 + \\left( { - 2} \\right).16 + 6.4\\\\ = 32 - 32 + 24\\\\ = 24\\end{array}\\)\nb)\nThay x = 0,5 và y = -1,5 vào biểu thức\\(xy\\left( {x + y} \\right) - \\left( {{x^2} + {y^2}} \\right)\\) ta được:\n\\(\\begin{array}{l}0,5.\\left( { - 1,5} \\right).\\left( {0,5 - 1,5} \\right) - \\left[ {{{\\left( {0,5} \\right)}^2} + {{\\left( { - 1,5} \\right)}^2}} \\right]\\\\ = 0,5.\\left( { - 1,5} \\right).\\left( { - 1} \\right) - \\left( {0,25 + 2,25} \\right)\\\\ = 0,5.1,5 - 2,5\\\\ = 0,75 - 2,5\\\\ =  - 1,75\\end{array}\\)"
+    },
+    {
+        "problem": "Cho hai đa thức sau:\n\\(P\\left( x \\right) = 3{x^5} - 2{x^4} + 7{x^2} + 3x - 10;Q\\left( x \\right) =  - 3{x^5} - {x^3} - 7{x^2} + 2x + 10\\).\na)Xác định bậc, hệ số cao nhất và hệ số tự do của các đa thức:\n\\(S\\left( x \\right) = P\\left( x \\right) + Q\\left( x \\right);D\\left( x \\right) = P\\left( x \\right) - Q\\left( x \\right)\\).\nb)Trong tập hợp {-1; 0; 1}, tìm những số là nghiệm của một trong hai đa thức S(x) và D(x).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Rút gọn đa thức\n-Bậc: bậc của hạng tử có bậc cao nhất gọi là bậc của đa thức\n-Hệ số cao nhất: Hệ số của hạng tử có bậc cao nhất.\n-Hệ số tự do: Hệ số của hạng tử không chứa biến x.\nb)\nThay x = -1; x = 0; x = 1 vào các đa thức S(x) và D(x).\nLời giải chi tiết\na)\n\\(\\begin{array}{l}S\\left( x \\right) = P\\left( x \\right) + Q\\left( x \\right)\\\\ = \\left( {3{x^5} - 2{x^4} + 7{x^2} + 3x - 10} \\right) + \\left( { - 3{x^5} - {x^3} - 7{x^2} + 2x + 10} \\right)\\\\ = \\left( {3{x^5} - 3{x^5}} \\right) - 2{x^4} - {x^3} + \\left( {7{x^2} - 7{x^2}} \\right) + \\left( {3x + 2x} \\right) + \\left( { - 10 + 10} \\right)\\\\ =  - 2{x^4} - {x^3} + 5x\\end{array}\\)\nBậc: 4\nHệ số cao nhất: -2\nHệ số tự do: 0\n\\(\\begin{array}{l}D\\left( x \\right) = P\\left( x \\right) - Q\\left( x \\right)\\\\ = \\left( {3{x^5} - 2{x^4} + 7{x^2} + 3x - 10} \\right) - \\left( { - 3{x^5} - {x^3} - 7{x^2} + 2x + 10} \\right)\\\\ = \\left( {3{x^5} + 3{x^5}} \\right) - 2{x^4} + {x^3} + \\left( {7{x^2} + 7{x^2}} \\right) + \\left( {3x - 2x} \\right) + \\left( { - 10 - 10} \\right)\\\\ = 6{x^5} - 2{x^4} + {x^3} + 14{x^2} + x - 20\\end{array}\\)\nBậc: 5\nHệ số cao nhất: 6\nHệ số tự do: -20\nb)\nTa có:\n\\(\\begin{array}{l}S\\left( { - 1} \\right) =  - 2.{\\left( { - 1} \\right)^4} - {\\left( { - 1} \\right)^3} + 5.\\left( { - 1} \\right) =  - 2 + 1 - 5 =  - 6 \\ne 0\\\\S\\left( 0 \\right) =  - 2.0 - 0 + 5.0 = 0\\\\S\\left( 1 \\right) =  - 2 - 1 + 5 = 2 \\ne 0\\end{array}\\)\nVậy S(x) có nghiệm x = 0.\nLại có:\n\\(\\begin{array}{l}D\\left( { - 1} \\right) =  - 6 - 2 - 1 + 14 - 1 - 20 =  - 16 \\ne 0\\\\D\\left( 0 \\right) = 0 - 0 + 0 + 0 + 0 - 20 =  - 20 \\ne 0\\\\D\\left( 1 \\right) = 6 - 2 + 1 + 14 + 1 - 20 = 0\\end{array}\\)\nVậy D(x) có nghiệm x = 1"
+    },
+    {
+        "problem": "Cho hai đa thức \\(A = 3{x^4} + {x^3} + 6x - 5;B = {x^2} + 1\\). Tìm thương Q và dư R trong phép chia A cho B rồi kiểm nghiệm lại rằng A = BQ + R.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt phép tính chia A cho B để tìm thương Q và số dư R\nLời giải chi tiết\n\nVậy chia A cho B ta được thương là \\(Q = 3{x^2} + x - 3\\) và số dư \\(R = 5x - 2\\)."
+    },
+    {
+        "problem": "Chứng minh rằng tích của hai số tự nhiên lẻ liên tiếp cộng thêm 1 thì luôn chia hết cho 4\nGợi ý: Mỗi số tự nhiên lẻ luôn viết được dưới dạng 2n – 1 với \\(n \\in \\mathbb{N}*\\), hoặc dưới dạng 2n + 1 với \\(n \\in \\mathbb{N}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Hai số tự nhiên lẻ liên tiếp hơn kém nhau 2 đơn vị: a = 2n – 1; b = a + 2 = 2n + 1\n- Tích của hai số tự nhiên lẻ liên tiếp cộng thêm 1: Rút gọn và chứng minh tích đó có thừa số chia hết cho 4.\nLời giải chi tiết\nHai số tự nhiên lẻ liên tiếp hơn kém nhau 2 đơn vị nên nếu số thứ nhất là a = 2n – 1\nThì số thứ hai là b = a + 2 = 2n – 1 + 2 = 2n + 1.\nKhi đó: tích của hai số tự nhiên lẻ liên tiếp cộng thêm 1 là:\n\\(ab + 1 = \\left( {2n - 1} \\right)\\left( {2n + 1} \\right) + 1 = \\left( {4{n^2} + 2n - 2n - 1} \\right) + 1 = 4{n^2} \\vdots 4\\)\nChú ý:\nNếu viết 2 số lẻ liên tiếp là a = 2n + 1 và b = a + 2 = 2n + 3 thì\n\\(ab + 1 = \\left( {2n + 1} \\right)\\left( {2n + 3} \\right) + 1 = 4\\left( {{n^2} + 2n + 1} \\right) \\vdots 4\\)"
+    },
+    {
+        "problem": "Cho các đa thức \\(A\\left( x \\right) = 2{x^3} - 2{x^2} + x - 4;B\\left( x \\right) = 3{x^3} - 2x + 3;C\\left( x \\right) =  - {x^3} + 1\\). Hãy tính:\na)\\(A\\left( x \\right) + B\\left( x \\right) + C\\left( x \\right);\\)\nb) \\(A\\left( x \\right) - B\\left( x \\right) - C\\left( x \\right).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\begin{array}{l}A + B + C = A + \\left( {B + C} \\right)\\\\A - B - C = A - \\left( {B + C} \\right)\\end{array}\\)\nTính B + C\nLời giải chi tiết\na)\n\\(\\begin{array}{l}A\\left( x \\right) + B\\left( x \\right) + C\\left( x \\right)\\\\ = A\\left( x \\right) + \\left[ {B\\left( x \\right) + C\\left( x \\right)} \\right]\\\\ = 2{x^3} - 2{x^2} + x - 4 + \\left( {3{x^3} - 2x + 3 - {x^3} + 1} \\right)\\\\ = 2{x^3} - 2{x^2} + x - 4 + 2{x^3} - 2x + 4\\\\ = \\left( {2{x^3} + 2{x^3}} \\right) - 2{x^2} + \\left( {x - 2x} \\right) + \\left( { - 4 + 4} \\right)\\\\ = 4{x^3} - 2{x^2} - x\\end{array}\\)\nb)\n\\(\\begin{array}{l}A\\left( x \\right) - B\\left( x \\right) - C\\left( x \\right)\\\\ = A\\left( x \\right) - \\left[ {B\\left( x \\right) + C\\left( x \\right)} \\right]\\\\ = 2{x^3} - 2{x^2} + x - 4 - \\left( {3{x^3} - 2x + 3 - {x^3} + 1} \\right)\\\\ = 2{x^3} - 2{x^2} + x - 4 - 2{x^3} + 2x - 4\\\\ = \\left( {2{x^3} - 2{x^3}} \\right) - 2{x^2} + \\left( {x + 2x} \\right) + \\left( { - 4 - 4} \\right)\\\\ =  - 2{x^2} + 3x - 8\\end{array}\\)"
+    },
+    {
+        "problem": "Cho 2 đa thức \\(A\\left( x \\right) =  - {x^4} + 2,5{x^3} + 3{x^2} - 4x;B\\left( x \\right) = {x^4} + \\sqrt 2 \\).\na) Chứng tỏ rằng x = 0 là nghiệm của đa thức A(x) nhưng không là nghiệm của đa thức B(x).\nb) Chứng tỏ rằng đa thức B(x) không có nghiệm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thay x = 0 vào 2 đa thức A(x) và B(x)\nChứng minh: A(0) = 0; B(0) ≠ 0.\nb) Chứng minh B(x) > 0 với mọi x\nLời giải chi tiết\na)\nTa có:\n\\(\\begin{array}{l}A\\left( 0 \\right) =  - {0^4} + 2,{5.0^3} + {3.0^2} - 4.0 = 0\\\\B\\left( 0 \\right) = {0^4} + \\sqrt 2  = \\sqrt 2  \\ne 0\\end{array}\\)\nVậy x = 0 là nghiệm của đa thức A(x) nhưng không là nghiệm của đa thức B(x).\nb)\nTa có:\n\\({x^4} \\ge 0\\) với mọi x\n\\(\\Rightarrow {x^4} + \\sqrt 2  \\ge \\sqrt 2  > 0\\) với mọi x\n\\(\\Rightarrow B\\left( x \\right) > 0,\\forall x\\)\nVậy B(x) không có nghiệm."
+    },
+    {
+        "problem": "Trong hai kết luận sau, kết luận nào đúng?\na) Hai biểu thức \\(A\\left( x \\right) = {\\left( {x + 1} \\right)^2};B\\left( x \\right) = {x^2} + 1\\) bằng nhau với mọi giá trị của x. (Chẳng hạn, khi x = 0 thì ta có A(0) = B(0) = 1).\nb) Hai biểu thức C = a(b + c) và D = ab + ac bằng nhau với mọi giá trị của biến a, b và c. (Chẳng hạn, khi a = b = c = 0 thì C = D = 0)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Thay 1 giá trị bất kì để thử lại, ví dụ x = 1\nb)Áp dụng tính chất phân phối của phép nhân đối với phép cộng.\nLời giải chi tiết\na) Sai\nTa có: \\(\\left\\{ \\begin{array}{l}A\\left( 1 \\right) = {\\left( {1 + 1} \\right)^2} = 4\\\\B\\left( 1 \\right) = {1^2} + 1 = 2\\end{array} \\right. \\Rightarrow A\\left( 1 \\right) \\ne B\\left( 1 \\right)\\)\nVậy kết luận trên sai\nb) Đúng\nTa có đẳng thức \\(a\\left( {b + c} \\right) = ab + ac\\) biểu thị tính chất phân phối của phép nhân đối với phép cộng."
+    },
+    {
+        "problem": "Biết rằng đa thức \\(f\\left( x \\right) = {x^4} + p{x^3} - 2{x^2} + 1\\) có 2 nghiệm (khác 0) là hai số đối nhau. Chứng minh rằng p = 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi 2 nghiệm đối nhau của f(x) là a và -a (a \\(\\ne\\) 0).\n-Tính f(a); f(-a)\n-Có f(a) = 0 = f(-a). Tìm p\nLời giải chi tiết\nGọi 2 nghiệm đối nhau của f(x) là a và -a (a \\(\\ne\\) 0). Khi đó ta có:\n\\(\\begin{array}{l}f\\left( a \\right) = {a^4} + p{a^3} - 2{a^2} + 1\\\\f\\left( { - a} \\right) = {\\left( { - a} \\right)^4} + p{\\left( { - a} \\right)^3} - 2{\\left( { - a} \\right)^2} + 1 = {a^4} - p{a^3} - 2{a^2} + 1\\\\f\\left( a \\right) = f\\left( { - a} \\right)\\\\ \\Rightarrow {a^4} + p{a^3} - 2{a^2} + 1 = {a^4} - p{a^3} - 2{a^2} + 1\\\\ \\Rightarrow p{a^3} =  - p{a^3}\\\\ \\Rightarrow 2p{a^3} = 0\\\\Do\\,a \\ne 0 \\Rightarrow p = 0\\end{array}\\)"
+    },
+    {
+        "problem": "Thực hiện các phép chia sau:\n\\(a)\\left( {2{x^4} + {x^3} - 3{x^2} + 5x - 2} \\right):\\left( {{x^2} - x + 1} \\right)\\)\nb)\\(\\left( {{x^4} - {x^3} - {x^2} + 3x} \\right):\\left( {{x^2} - 2x + 3} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt phép tính chia đa thức cho đa thức.\nCông thức: \\({a^m}:{a^n} = {a^{m - n}}\\)\nLời giải chi tiết\na)\n\nb)\n"
+    },
+    {
+        "problem": "Gọi S(x) là tổng của hai đa thức A(x) và B(x). Biết rằng x = a là một nghiệm của đa thức A(x). Chứng minh rằng:\na) Nếu x = a là một nghiệm của B(x) thì a cũng là một nghiệm của S(x).\nb) Nếu a không là nghiệm của B(x) thì a cũng không là nghiệm của S(x).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) \\(S\\left( x \\right) = A\\left( x \\right) + B\\left( x \\right)\\)\n+) Biến đổi chứng minh \\(S\\left( a \\right) = B\\left( a \\right)\\) (Thay x = a vào biểu thức trên).\nLời giải chi tiết\nS(x) là tổng của hai đa thức A(x) và B(x) nên \\(S\\left( x \\right) = A\\left( x \\right) + B\\left( x \\right)\\) (1)\nx = a là một nghiệm của đa thức A(x) nên \\(A\\left( a \\right) = 0\\)\nThay x = a vào (1) ta được:\n\\(\\begin{array}{l}S\\left( a \\right) = A\\left( a \\right) + B\\left( a \\right)\\\\ \\Rightarrow S\\left( a \\right) = 0 + B\\left( a \\right)\\\\ \\Rightarrow S\\left( a \\right) = B\\left( a \\right)\\end{array}\\)\na)\nNếu a là nghiệm của B(x) thì B(a) = 0\n\\( \\Rightarrow S\\left( a \\right) = B\\left( a \\right) = 0\\)\nVậy a cũng là nghiệm của S(x).\nb)\nNếu a không là nghiệm của B(x) thì B(a) # 0\n\\( \\Rightarrow S\\left( a \\right) = B\\left( a \\right) \\ne 0\\)\nVậy a cũng không là nghiệm của S(x)."
+    },
+    {
+        "problem": "Biết rằng hai đa thức \\(G\\left( x \\right) = {x^2} - 3x + 2;H\\left( x \\right) = {x^2} + x - 6\\) có một nghiệm chung. Hãy tìm nghiệm chung đó",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Giả sử a là nghiệm của cả hai đa thức.\n-Lấy \\(G\\left( a \\right) - H\\left( a \\right) = 0\\)\n-Tìm a.\n-Thử lại kiểm tra kết quả.\nLời giải chi tiết\nGiả sử a là nghiệm của cả hai đa thức.\nHai đa thức G(x) và H(x) có một nghiệm chung nên G(a) = H(a) = 0\n\\(\\begin{array}{l} \\Rightarrow G\\left( a \\right) - H\\left( a \\right) = 0\\\\ \\Rightarrow \\left( {{a^2} - 3a + 2} \\right) - \\left( {{a^2} + a - 6} \\right) = 0\\\\ \\Rightarrow {a^2} - 3a + 2 - {a^2} - a + 6 = 0\\\\ \\Rightarrow  - 4a + 8 = 0\\\\ \\Rightarrow  - 4a =  - 8\\\\ \\Rightarrow a = 2\\end{array}\\)\nThử lại bằng cách tính G(2) và H(2), ta thấy x = 2 là nghiệm của hai đa thức G(x) và H(x)."
+    },
+    {
+        "problem": "Một luống rau có x hàng, mỗi hàng có y cây rau (x, y là số tự nhiên). Trong tình huống này, biểu thức P = xy biểu thị số cây rau được trồng trên luống rau đó. Hãy nêu một tình huống khác, trong đó một đại lượng được biểu thị bởi biểu thức x – y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ví dụ về tình huống số học sinh của lớp học.\nLời giải chi tiết\nLớp 7A có tổng x (học sinh), số học sinh nữ là y (học sinh) (x, y là các số tự nhiên, x > y). Trong tình huống này, biểu thức A = x – y biểu thị số học sinh nam của lớp học đó."
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\n\\(a)\\left( {5{x^3} - 2{x^2} + 4x - 4} \\right)\\left( {3{x^2} + x - 1} \\right)\\)\n\\(b)\\left( {9{x^5} - 6{x^3} + 18{x^2} - 35x - 42} \\right):\\left( {3{x^3} + 5x + 6} \\right);\\)\n\\(c)\\left[ {\\left( {6{x^3} - 5{x^2} - 8x + 5} \\right) - \\left( {4{x^2} - 6x + 2} \\right)} \\right]:\\left( {2x - 3} \\right).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Thực hiện nhân đa thức với đa thức: (A+B)(C+D) = AC + AD + BC + BD.\nb)Thực hiện chia đa thức: đặt tính chia\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\\\\\left( {5{x^3} - 2{x^2} + 4x - 4} \\right)\\left( {3{x^2} + x - 1} \\right)\\\\ = 15{x^5} + 5{x^4} - 5{x^3} - 6{x^4} - 2{x^3} + 2{x^2} + 12{x^3} + 4{x^2} - 4x - 12{x^2} - 4x + 4\\\\ = 15{x^5} + \\left( {5{x^4} - 6{x^4}} \\right) + \\left( { - 5{x^3} - 2{x^3} + 12{x^3}} \\right) + \\left( {2{x^2} + 4{x^2} - 12{x^2}} \\right) + \\left( { - 4x - 4x} \\right) + 4\\\\ = 15{x^5} - {x^4} + 5{x^3} - 6{x^2} - 8x + 4\\end{array}\\)\nb)\n\nc)\n\\(\\begin{array}{l}\\left( {6{x^3} - 5{x^2} - 8x + 5} \\right) - \\left( {4{x^2} - 6x + 2} \\right)\\\\ = 6{x^3} + \\left( { - 5{x^2} - 4{x^2}} \\right) + \\left( { - 8x + 6x} \\right) + \\left( {5 - 2} \\right)\\\\ = 6{x^3} - 9{x^2} - 2x + 3\\end{array}\\)\nĐặt tính chia:\n"
+    },
+    {
+        "problem": "Cho đa thức \\(A\\left( x \\right) = 3{x^4} + 11{x^3} - 5{x^2} - 19x + 10\\). Tìm đa thức H(x) sao cho\n\\(A\\left( x \\right) = \\left( {3{x^2} + 2x - 5} \\right).H\\left( x \\right).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\begin{array}{l}A\\left( x \\right) = \\left( {3{x^2} + 2x - 5} \\right).H\\left( x \\right).\\\\ \\Rightarrow H\\left( x \\right) = A\\left( x \\right):\\left( {3{x^2} + 2x - 5} \\right)\\\\ \\Rightarrow H\\left( x \\right) = \\left( {3{x^4} + 11{x^3} - 5{x^2} - 19x + 10} \\right):\\left( {3{x^2} + 2x - 5} \\right)\\end{array}\\)\nĐặt phép tính chia để tìm H(x).\nLời giải chi tiết\n\\(\\begin{array}{l}A\\left( x \\right) = \\left( {3{x^2} + 2x - 5} \\right).H\\left( x \\right).\\\\ \\Rightarrow H\\left( x \\right) = A\\left( x \\right):\\left( {3{x^2} + 2x - 5} \\right)\\\\ \\Rightarrow H\\left( x \\right) = \\left( {3{x^4} + 11{x^3} - 5{x^2} - 19x + 10} \\right):\\left( {3{x^2} + 2x - 5} \\right)\\end{array}\\)\n\nVậy \\(H\\left( x \\right) = {x^2} + 3x - 2\\)."
+    },
+    {
+        "problem": "Người ta định dùng những viên gạch với kích thước như nhau để xây một bức tường (có dạng hình hộp chữ nhật) dày 20 cm, dài 6m và cao x(m). Số gạch đã có là 450 viên.\na)Tìm đa thức (biến x) biểu thị số gạch cần mua thêm để xây tường, biết rằng cứ xây mỗi mét khối tường thì cần 542 viên gạch. Xác định bậc và hệ số tự do của đa thức đó.\nb) Nếu chỉ dùng số gạch sẵn có thì xây được bức tường cao khoảng bao nhiêu mét? (Tính chính xác đến 0,1m)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Tính thể tích hình hộp chữ nhật = chiều dài . chiều rộng . chiều cao.\n-Tính số viên gạch cần dùng.\n-Tính số viên gạch cần mua thêm.\nb) Nếu chỉ dùng số gạch sẵn có để xây tường thì số gạch mua thêm là 0\nLời giải chi tiết\na)\nBức tường có dạng hình hộp chữ nhật với ba kích thước là 0,2m; 6m và x (m).\nThể tích của nó là: 0,2 . 6 . x = 1,2x (m3).\nMỗi mét khối trường xây hết 542 viên gạch nên số gạch cần dùng để xây bức tường là:\n542 . 1,2x = 650,4.x (viên).\nSố gạch đã có là 450 viên.\nVậy số gạch cần mua thêm là:\n\\(F\\left( x \\right) = 650,4x - 450\\)\nb)\nNếu chỉ dùng số gạch sẵn có để xây tường thì số gạch mua thêm là 0\n\\(\\begin{array}{l} \\Rightarrow 650,4x - 450 = 0\\\\ \\Rightarrow 650,4x = 450\\\\ \\Rightarrow x = 450:650,4\\\\ \\Rightarrow x \\approx 0,7\\left( m \\right)\\end{array}\\)\nVậy nếu chỉ dùng số gạch có sẵn thì xây dựng được bức tường cao khoảng 0,7m."
+    },
+    {
+        "problem": "Rút gọn các biểu thức sau:\n\\(a)A = \\left( {x - 1} \\right)\\left( {x + 2} \\right)\\left( {x - 3} \\right) - \\left( {x + 1} \\right)\\left( {x - 2} \\right)\\left( {x + 3} \\right)\\)\nb)\\(B = \\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right)\\left( {{x^4} + 1} \\right) - {x^8}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\nTính \\(\\left( {x - 1} \\right)\\left( {x + 2} \\right)\\left( {x - 3} \\right)\\) và \\(\\left( {x + 1} \\right)\\left( {x - 2} \\right)\\left( {x + 3} \\right)\\): nhân các tích theo thứ tự từ trái qua phải\nb) Chứng minh công thức: \\(\\left( {A - 1} \\right)\\left( {A + 1} \\right) = {A^2} - 1\\).\nLời giải chi tiết\na)\nTa có:\n\\(\\begin{array}{l}\\left( {x - 1} \\right)\\left( {x + 2} \\right)\\left( {x - 3} \\right)\\\\ = \\left( {{x^2} + 2x - x - 2} \\right)\\left( {x - 3} \\right)\\\\ = \\left( {{x^2} + x - 2} \\right)\\left( {x - 3} \\right)\\\\ = {x^3} - 3{x^2} + {x^2} - 3x - 2x + 6\\\\ = {x^3} - 2{x^2} - 5x + 6\\end{array}\\)\n\\(\\begin{array}{l}\\left( {x + 1} \\right)\\left( {x - 2} \\right)\\left( {x + 3} \\right)\\\\ = \\left( {{x^2} - x - 2} \\right)\\left( {x + 3} \\right)\\\\ = {x^3} + 3{x^2} - {x^2} - 3x - 2x - 6\\\\ = {x^3} + 2{x^2} - 5x - 6\\end{array}\\)\n\\(\\begin{array}{l} \\Rightarrow A = \\left( {{x^3} - 2{x^2} - 5x + 6} \\right) - \\left( {{x^3} + 2{x^2} - 5x - 6} \\right)\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = \\left( {{x^3} - {x^3}} \\right) + \\left( { - 2{x^2} - 2{x^2}} \\right) + \\left( { - 5x + 5x} \\right) + \\left( {6 + 6} \\right)\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, =  - 2{x^2} + 12\\end{array}\\)\nb)\nVới A là một biểu thức tuỳ ý, ta có:\n\\(\\left( {A - 1} \\right)\\left( {A + 1} \\right) = {A^2} - A + A - 1 = {A^2} - 1\\)\nÁp dụng:\n\\(\\begin{array}{l}\\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right)\\left( {{x^4} + 1} \\right) - {x^8}\\\\ = \\left( {{x^2} - 1} \\right)\\left( {{x^2} + 1} \\right)\\left( {{x^4} + 1} \\right) - {x^8}\\\\ = \\left[ {{{\\left( {{x^2}} \\right)}^2} - 1} \\right].\\left( {{x^4} + 1} \\right) - {x^8}\\\\ = \\left( {{x^4} - 1} \\right)\\left( {{x^4} + 1} \\right) - {x^8}\\\\ = \\left[ {{{\\left( {{x^4}} \\right)}^2} - 1} \\right] - {x^8}\\\\ = {x^8} - 1 - {x^8}\\\\ =  - 1\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm số m sao cho đa thức \\(P\\left( x \\right) = 2{x^3} - 3{x^2} + x + m\\) chia hết cho đa thức x + 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để đa thức \\(P\\left( x \\right) = 2{x^3} - 3{x^2} + x + m\\) chia hết cho đa thức x + 2 thì dư của phép chia bằng 0\nThực hiện phép chia P(x) cho (x + 2)\nLời giải chi tiết\nThực hiện phép chia P(x) cho (x + 2) ta được:\n\nĐể phép chia này là phép chia hết thì \\(m - 30 = 0 \\Rightarrow m = 30\\)."
+    },
+    {
+        "problem": "Tìm các hệ số p và q của đa thức \\(F\\left( x \\right) = {x^2} + px + q\\), biết rằng với số a tuỳ ý, giá trị của F(x) tại x = a, tức là F(a) luôn bằng \\({\\left( {a + 2} \\right)^2}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Thay x = a vào đa thức trên \\(F\\left( a \\right) = {\\left( {a + 2} \\right)^2}\\)\n-Chọn a = 0 , tìm q\n-Chọn a = 1, tìm q.\nLời giải chi tiết\nTheo bài ra, với 1 số a tuỳ ý ta có:\n\\(\\begin{array}{l}F\\left( a \\right) = {\\left( {a + 2} \\right)^2}\\\\ \\Rightarrow {a^2} + pa + q = {\\left( {a + 2} \\right)^2}\\end{array}\\)\nChọn a = 0 thì \\({0^2} + p.0 + q = {\\left( {0 + 2} \\right)^2} \\Rightarrow q = {2^2} \\Rightarrow q = 4\\)\nChọn a = 1 thì \\({1^2} + p.1 + 4 = {\\left( {1 + 2} \\right)^2} \\Rightarrow p + 5 = 9 \\Rightarrow p = 9 - 5 \\Rightarrow p = 4\\)\nVậy p = q = 4."
+    }
+]

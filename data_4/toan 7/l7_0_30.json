@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Biểu thức nào sau đây là đơn thức một biến?\nA. 5x + x^{2} ;\nB. 2x − 1;\nC. −2;\nD. y − 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTheo định nghĩa: đơn thức một biến là biểu thức đại số chỉ gồm một số, hoặc một biến, hoặc một tích giữa các số và biến đó nên đơn thức −2 là đơn thức một biến."
+    },
+    {
+        "problem": "Câu 2. Biểu thức nào sau đây là đơn thức một biến? \nA. x + y;\nB. y^{2} ;\nC. x − 1;\nD. −y^{2 } + 2y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTheo định nghĩa: đơn thức một biến là biểu thức đại số chỉ gồm một số, hoặc một biến, hoặc một tích giữa các số và biến đó nên đơn thức y^{2}  là đơn thức một biến."
+    },
+    {
+        "problem": "Câu 3. Biểu thức nào sau đây không là đa thức một biến?\nA. a^{2} ;\nB. a^{2}  − 5;\nC. 1;\nD. \\frac{5}{5−a} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa thấy \\frac{5}{5−a} không phải là đa thức theo biến a .\nDo đó \\frac{5}{5−a} không phải là đa thức một biến."
+    },
+    {
+        "problem": "Câu 4. Có bao nhiêu biểu thức sau đây là đa thức một biến?\nA = x^{2 }  − 2x + 3 ; B = 2y − x ; C = \\frac{2x2}{x−1} ; D = \\frac{2y−3}{5} .\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nA = x^{2}  − 2x + 3 là đa thức một biến của biến x;\nB = 2y − x là đa thức hai biến x và y;\nC = \\frac{2x2}{x−1}không phải là đa thức theo biến x ;\nD = \\frac{2y−3}{5}=\\frac{2}{5}y−\\frac{3}{5} là đa thức một biến của biến y .\nVậy có 2 biểu thức A và D là đa thức một biến."
+    },
+    {
+        "problem": "Câu 5. Bậc của đa thức 10 − 2x + 3x^{2}  là:\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTrong đa thức trên, số mũ cao nhất của x là 2.\nDo đó bậc của đa thức 10 − 2x + 3x^{2}  là 2 ."
+    },
+    {
+        "problem": "Câu 6. Bậc của đa thức y − 3 + 2y^{4 } − 3y^{3}  là: \nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTrong đa thức trên, số mũ cao nhất của y là 4.\nDo đó bậc của đa thứcy − 3 + 2y^{4 } − 3y^{3}  là 4 ."
+    },
+    {
+        "problem": "Câu 7.Cho đa thức: U(x) = 4 − 2x^{2}  + 7x − 5x^{3}  + 3x^{2}  + 8 − 3x.\nRút gọn biểu thức trên và sắp xếp theo lũy thừa giảm của biến x, ta được đa thức nào trong các đa thức sau đây?\nA. − 5x^{3 } + x^{2 } + 4x + 12;\nB. 12 + 4x + x^{2}  − 5x^{3} ;\nC. − 5x^{3}  − x^{2}  + 2x + 4;\nD. − 2x^{3}  − x^{2 } + 3x + 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: U(x) = 4 − 2x^{2}  + 7x − 5x^{3}  + 3x^{2}  + 8 − 3x \n= − 5x^{3 } − 2x^{2 } + 3x^{2 } + 7x − 3x + 4 + 8 \n= − 5x^{3 } + (−2 + 3)x^{2 } + (7 − 3)x + (4+8) \n= − 5x^{3 } + x^{2 } + 4x + 12.\nVậy rút gọn và sắp xếp theo lũy thừa giảm của biến x ta được biểu thức: U(x) = −5x^{3 } + x^{2 } + 4x + 12."
+    },
+    {
+        "problem": "Câu 8.Cho đa thức: P(y) = y^{2 } − 10 + 3y^{2}  − 9y + 4 − 7y.\nRút gọn biểu thức sau và sắp xếp theo lũy thừa tăng của biến y, ta được đa thức nào trong các đa thức sau đây?\nA. y^{2 } − 10 − 9y;\nB. 6 − 2y + 4y^{2} ;\nC. − 6 − 16y + 4y^{2} ;\nD. − 6 + 16y + 4y^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: P(y) = y^{2 } − 10 + 3y^{2}  − 9y + 4 − 7y \n= −10 + 4 − 9y − 7y + y^{2 } + 3y^{2}  \n= (−10 + 4) + (−9 − 7)y + (1 + 3)y^{2}  \n= −6 − 16y + 4y^{2} .\nVậy rút gọn và sắp xếp theo lũy thừa giảm của biến y thì biểu thức: P(y) = −6 − 16y + 4y^{2} ."
+    },
+    {
+        "problem": "Câu 9. Tính giá trị của đa thức M(t) = 2t^{3}  + 4t^{2}  − 16t + 3 khi t = \\frac{1}{4} .\nA. \\frac{13}{23}\nB. \\frac{-5}{16}\nC. \\frac{25}{32}\nD. \\frac{- 23}{32}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\n Ta có: M (\\frac{1}{4}) = 2.\\frac{1}{4}3+ 4.\\frac{1}{4}2- 16.\\frac{1}{4}+ 3\n= 2.\\frac{1}{64}+ 4.\\frac{1}{16} - 16.\\frac{1}{4}+ 3\n= \\frac{1}{32} + \\frac{1}{4} - 4 + 3 = \\frac{- 23}{32}\nVậy khi t = \\frac{1}{4} thì giá trị biểu thức M bằng \\frac{- 23}{32}"
+    },
+    {
+        "problem": "Câu 10. Diện tích của một mảnh đất hình chữ nhật được biểu thị bởi đa thức F(x) = x(x + 3) . Hãy tính diện tích của mảnh đất ấy khi x = 2 m.\nA. 20 m^{2} ;\nB. 10 m^{2} ;\nC. 24 m^{2} ;\nD. 14 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nKhi x = 2, ta có:\nF(2) = x(x + 3) = 2 . (2 + 3) = 2 . 5 = 10.\nVậy diện tích của mảnh đất hình chữ nhật bằng 10 m^{2} ."
+    },
+    {
+        "problem": "Câu 11. Vận tốc của một chiếc xe máy đi từ A đến B được tính theo biểu thức v(t) = \\frac{120}{t}trong đó v là vận tốc tính bằng km/h và t là thời gian tính bằng giờ. Tính vận tốc xe máy biết thời gian xe máy đi từ A đến B là 4 giờ.\nA. 40 km/h;\nB. 30 km/h;\nC. 25 km/h;\nD. 20 km/h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: v(4) = \\frac{120}{4} = 30 (km/h).\nVậy vận tốc xe máy đi từ A đến B là 30 km/h."
+    },
+    {
+        "problem": "Câu 12. Nghiệm của đa thức A(x) = 4x − 5 là:\nA. 2;\nB. \\frac{3}{4} ;\nC. \\frac{1}{4}  ; \nD. \\frac{5}{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTheo định nghĩa nếu đa thức A(x) có giá trị bằng 0 tại x = a thì ta nói a là một nghiệm của đa thức đó.\nTa có : A(\\frac{5}{4}) = 4 . \\frac{5}{4} − 5 = 5 − 5 = 0.\nVậy x = \\frac{5}{4} là nghiệm của đa thức A(x) ."
+    },
+    {
+        "problem": "Câu 13. Nghiệm của đa thức T(y) = y^{2}  − 10y + 9 là:\nA. 9;\nB. 1;\nC. {1; 9};\nD.{9; 10}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTheo định nghĩa nếu đa thức T(y) có giá trị bằng 0 tại y = a thì ta nói a là một nghiệm của đa thức đó.\nTa có: T(1) = 1^{2}  − 10.1 +9 = 1 − 10 + 9 = −9 + 9 = 0;\nT(9) = 9^{2}  − 10.9 + 9 = 81 − 90 + 9 = −9 + 9 = 0.\nVậy y = 1 và y = 9 là nghiệm của đa thức T(y)."
+    },
+    {
+        "problem": "Câu 14. Nghiệm của đa thức B(x) = x^{2 } + 5 là:\nA. −1;\nB. 1;\nC. {1; −1};\nD. Không có nghiệm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nĐa thức B(x) = x^{2 } + 5 không có nghiệm vì tại x = a bất kì thì:\nB(a) = a^{2}  + 5 ≥ 0 +5 > 0.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 15. Diện tích một hình vuông được tính bởi biểu thức S(x) = x^{2} . Tính giá trị của S biết x là nghiệm của đa thức P(x) = 2x – 8.\nA. 16;\nB. 25;\nC. 36;\nD. 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTheo đề bài, x là nghiệm của đa thức P(x) = 2x – 8 nên ta có:\nP(x) = 2x − 8 = 0 \nSuy ra x = 4\nTa có: S(4) = 4^{2}  = 16.\nVậy diện tích hình vuông bằng 16."
+    }
+]

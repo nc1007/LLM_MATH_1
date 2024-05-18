@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Bài 1.1 trang 7 sách bài tập Toán lớp 7 Tập 1: Trong các khẳng định sau, khẳng định nào đúng? Khẳng định nào sai?\na) Số hữu tỉ âm nhỏ hơn số hữu tỉ dương;\nb) Số hữu tỉ âm nhỏ hơn số tự nhiên;\nc) Số 0 là số hữu tỉ dương;\nd) Số nguyên âm không phải số hữu tỉ âm;\ne) Tập hợp ℚ gồm các số hữu tỉ dương và các số hữu tỉ âm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số hữu tỉ âm nhỏ hơn số hữu tỉ dương.\nĐây là một khẳng định đúng vì số hữu tỉ âm luôn nhỏ hơn số hữu tỉ dương.\nb) Số hữu tỉ âm nhỏ hơn số tự nhiên.\nĐây là khẳng định đúng vì số tự nhiên cũng là số hữu tỉ dương mà số hữu tỉ dương luôn lớn hơn số hữu tỉ âm.\nc) Số 0 là số hữu tỉ dương.\nĐây là khẳng định sai vì số 0 không là số hữu tỉ dương cũng không là số hữu tỉ âm.\nd) Số nguyên âm không phải số hữu tỉ âm.\nĐây là khẳng định sai vì số nguyên âm cũng là số hữu tỉ âm.\ne) Tập hợp ℚ  gồm các số hữu tỉ dương và các số hữu tỉ âm.\nĐây là khẳng định sai vì tập hợp ℚ  gồm các số hữu tỉ âm, các số hữu tỉ dương và số 0."
+    },
+    {
+        "problem": "Bài 1.2 trang 7 sách bài tập Toán lớp 7 Tập 1: Điền kí hiệu (∈, ∉) thích hợp vào ô vuông:\n−7ℕ;−7ℤ;−7ℚ;−35ℤ;−35ℚ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "−7∉ℕ;−7∈ℤ;−7∈ℚ;−35∉ℤ;−35∈ℚ"
+    },
+    {
+        "problem": "Bài 1.2 trang 7 sách bài tập Toán lớp 7 Tập 1: Điền kí hiệu (∈, ∉) thích hợp vào ô vuông:\n−7ℕ;−7ℤ;−7ℚ;−35ℤ;−35ℚ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "−7∉ℕ;−7∈ℤ;−7∈ℚ;−35∉ℤ;−35∈ℚ"
+    },
+    {
+        "problem": "Bài 1.3 trang 7 sách bài tập Toán lớp 7 Tập 1: Nối mỗi dòng ở cột bên trái với một dòng ở cột bên phải để được khẳng định đúng:\na) 0−8\n1) Là số hữu tỉ âm.\nb) −7−5\n2) Là số hữu tỉ dương.\nc) −29\n3) Không là số hữu tỉ âm, cũng không là số hữu tỉ dương.\nd) 50\n4) Không là số hữu tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": ""
+    },
+    {
+        "problem": "Bài 1.3 trang 7 sách bài tập Toán lớp 7 Tập 1: Nối mỗi dòng ở cột bên trái với một dòng ở cột bên phải để được khẳng định đúng:\na) 0−8\n1) Là số hữu tỉ âm.\nb) −7−5\n2) Là số hữu tỉ dương.\nc) −29\n3) Không là số hữu tỉ âm, cũng không là số hữu tỉ dương.\nd) 50\n4) Không là số hữu tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": ""
+    },
+    {
+        "problem": "Bài 1.4 trang 7 sách bài tập Toán lớp 7 Tập 1: So sánh các số hữu tỉ sau:\na) −572021 và 16345;\nb) −1935 và −1321;\nc) 673 và 982.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) −572021 và 16345\nVì −572021 là số hữu tỉ âm và 16345 là số hữu tỉ dương nên −572021<16345.\nb) −1935 và −1321\nTa có:\n−1935=−19.335.3=−57105; −1321=−13.521.5=−65105\nVì -57 > -65 nên −57105>−65105. Do đó −1935>−1321.\nc) 673 và 982\nTa có:\n673=6.8273.82=4925986; 982=9.7382.73=6575986\nVì 657 > 492 nên 6575986>4925986. Do đó, 673<982."
+    },
+    {
+        "problem": "Bài 1.4 trang 7 sách bài tập Toán lớp 7 Tập 1: So sánh các số hữu tỉ sau:\na) −572021 và 16345;\nb) −1935 và −1321;\nc) 673 và 982.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) −572021 và 16345\nVì −572021 là số hữu tỉ âm và 16345 là số hữu tỉ dương nên −572021<16345.\nb) −1935 và −1321\nTa có:\n−1935=−19.335.3=−57105; −1321=−13.521.5=−65105\nVì -57 > -65 nên −57105>−65105. Do đó −1935>−1321.\nc) 673 và 982\nTa có:\n673=6.8273.82=4925986; 982=9.7382.73=6575986\nVì 657 > 492 nên 6575986>4925986. Do đó, 673<982."
+    },
+    {
+        "problem": "Bài 1.5 trang 7 sách bài tập Toán lớp 7 Tập 1: Máy ảnh thường có nhiều tốc độ màn trập (tức khoảng thời gian mà màn trập mở cửa). Tốc độ màn trập tính bằng giây, thường là 1125;115;0,125;160;0,004 và 14. Hãy sắp xếp các tốc độ này từ nhanh nhất đến chậm nhất.\n(Theo imaging.nikon.com)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tốc độ trập nhanh nhất nghĩa là thời gian mà màn hình mở cửa là nhỏ nhất.\nTa đi so sánh các số với nhau:\nTa có:\n0,125=1251000=18; 0,004=41000=1250.\nTa có: 1125=1.48125.48=486000\n115=1.40015.400=4006000\n18=1.7508.750=7506000\n160=1.10060.100=1006000\n1250=1.24250.24=246000\n14=1.15004.1500=15006000\nVì 24 < 48 < 100 < 400 < 750 < 1500 nên\n246000<486000<1006000<4006000<7506000<15006000\nVậy tốc độ được sắp sếp từ nhanh nhất đến châm nhất là:\n0,004; 1125;160;115;18;14."
+    },
+    {
+        "problem": "Bài 1.5 trang 7 sách bài tập Toán lớp 7 Tập 1: Máy ảnh thường có nhiều tốc độ màn trập (tức khoảng thời gian mà màn trập mở cửa). Tốc độ màn trập tính bằng giây, thường là 1125;115;0,125;160;0,004 và 14. Hãy sắp xếp các tốc độ này từ nhanh nhất đến chậm nhất.\n(Theo imaging.nikon.com)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tốc độ trập nhanh nhất nghĩa là thời gian mà màn hình mở cửa là nhỏ nhất.\nTa đi so sánh các số với nhau:\nTa có:\n0,125=1251000=18; 0,004=41000=1250.\nTa có: 1125=1.48125.48=486000\n115=1.40015.400=4006000\n18=1.7508.750=7506000\n160=1.10060.100=1006000\n1250=1.24250.24=246000\n14=1.15004.1500=15006000\nVì 24 < 48 < 100 < 400 < 750 < 1500 nên\n246000<486000<1006000<4006000<7506000<15006000\nVậy tốc độ được sắp sếp từ nhanh nhất đến châm nhất là:\n0,004; 1125;160;115;18;14."
+    },
+    {
+        "problem": "Bài 1.6 trang 8 sách bài tập Toán lớp 7 Tập 1: Các điểm A, B, C, D (H. 1.3) lần lượt biểu diễn các số hữu tỉ nào?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy đoạn thẳng đơn vị từ điểm 0 đến điểm 1 được chia thành 6 phần bằng nhau nên mỗi đơn vị mới bằng 16 đơn vị cũ.\nĐiểm A nằm về bên trái điểm 0 và cách điểm 0 ba đơn vị mới nên điểm A biểu diễn số hữu tỉ −36 hay −12.\nĐiểm B nằm về bên trái điểm 0 và cách điểm 0 hai đơn vị mới nên điểm B biểu diễn số hữu tỉ −26 hay −13.\nĐiểm C nằm về bên phải điểm 0 và cách điểm 0 hai đơn vị mới nên điểm C biểu diễn số hữu tỉ 26 hay 13.\nĐiểm D nằm về bên phải điểm 0 và cách điểm 0 bảy đơn vị mới nên điểm D biểu diễn số hữu tỉ 76."
+    },
+    {
+        "problem": "Bài 1.6 trang 8 sách bài tập Toán lớp 7 Tập 1: Các điểm A, B, C, D (H. 1.3) lần lượt biểu diễn các số hữu tỉ nào?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy đoạn thẳng đơn vị từ điểm 0 đến điểm 1 được chia thành 6 phần bằng nhau nên mỗi đơn vị mới bằng 16 đơn vị cũ.\nĐiểm A nằm về bên trái điểm 0 và cách điểm 0 ba đơn vị mới nên điểm A biểu diễn số hữu tỉ −36 hay −12.\nĐiểm B nằm về bên trái điểm 0 và cách điểm 0 hai đơn vị mới nên điểm B biểu diễn số hữu tỉ −26 hay −13.\nĐiểm C nằm về bên phải điểm 0 và cách điểm 0 hai đơn vị mới nên điểm C biểu diễn số hữu tỉ 26 hay 13.\nĐiểm D nằm về bên phải điểm 0 và cách điểm 0 bảy đơn vị mới nên điểm D biểu diễn số hữu tỉ 76."
+    },
+    {
+        "problem": "Bài 1.7 trang 8 sách bài tập Toán lớp 7 Tập 1: Hãy biểu diễn hai số hữu tỉ −45 và 12 trên cùng một trục số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n−45=−810; 12=510.\nTa chia đoạn thẳng đơn vị thành 10 phần bằng nhau. Khi đó, đoạn thẳng đơn vị mới bằng 1 phần mười đoạn thẳng đơn vị cũ.\nĐiểm biểu diễn phân số −810 nằm về phía bên trái điểm 0 và cách 0 tám đơn vị mới.\nĐiểm biểu diễn phân số 510 nằm về phía bên phải điểm 0 và cách 0 năm đơn vị mới.\n"
+    },
+    {
+        "problem": "Bài 1.7 trang 8 sách bài tập Toán lớp 7 Tập 1: Hãy biểu diễn hai số hữu tỉ −45 và 12 trên cùng một trục số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n−45=−810; 12=510.\nTa chia đoạn thẳng đơn vị thành 10 phần bằng nhau. Khi đó, đoạn thẳng đơn vị mới bằng 1 phần mười đoạn thẳng đơn vị cũ.\nĐiểm biểu diễn phân số −810 nằm về phía bên trái điểm 0 và cách 0 tám đơn vị mới.\nĐiểm biểu diễn phân số 510 nằm về phía bên phải điểm 0 và cách 0 năm đơn vị mới.\n"
+    },
+    {
+        "problem": "Bài 1.8 trang 8 sách bài tập Toán lớp 7 Tập 1: Chỉ ra hai phân số có mẫu bằng 7, lớn hơn −38 và nhỏ hơn −18.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi tử số của phân số cần tìm là x ta có:\n−38<x7<−18.\nQuy đồng mẫu số ta được:\n−3.78.7<x.87.8<−1.78.7 hay −2156<8x56<−756\nMà 8x chia hết cho 8 nên 8x∈ {-16; -8}\nVới 8x = -16 thì x = -2.\nVới 8x = -8 thì x = -1.\nVậy hai phân số cần tìm là −27 và −17"
+    },
+    {
+        "problem": "Bài 1.8 trang 8 sách bài tập Toán lớp 7 Tập 1: Chỉ ra hai phân số có mẫu bằng 7, lớn hơn −38 và nhỏ hơn −18.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi tử số của phân số cần tìm là x ta có:\n−38<x7<−18.\nQuy đồng mẫu số ta được:\n−3.78.7<x.87.8<−1.78.7 hay −2156<8x56<−756\nMà 8x chia hết cho 8 nên 8x∈ {-16; -8}\nVới 8x = -16 thì x = -2.\nVới 8x = -8 thì x = -1.\nVậy hai phân số cần tìm là −27 và −17"
+    },
+    {
+        "problem": "Bài 1.9 trang 8 sách bài tập Toán lớp 7 Tập 1: Bảng sau thống kê thành tích ghi bàn của cầu thủ bóng đá Lionel Messi cho câu lạc bộ FC Barcelona tại giải bóng đá vô địch quốc gia La Liga của Tây Ban Nha trong 5 mùa giải gần đây.\n\nBiết hiệu suất ghi bàn được tính bằng tỉ số giữa số bàn thắng và số trận đấu. Em hãy sắp xếp hiệu suất ghi bàn của Messi từ bé đến lớn và cho biết mùa giải nào thì Messi ghi bàn tốt nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hiệu suất ghi bàn của mùa giải 2020 – 2021 là 3035=67\nHiệu suất ghi bàn của mùa giải 2019 – 2020 là 2533\nHiệu suất ghi bàn của mùa giải 2018 – 2019 là 3634=1817\nHiệu suất ghi bàn của mùa giải 2017 – 2018 là 3436=1718\nHiệu suất ghi bàn của mùa giải 2016 – 2017 là 3734\nỞ đây ta thấy có hai tỉ số có tử số lớn hơn mẫu số và hai tỉ số có mẫu sô lớn hơn tử số nên ta chia thành hai nhóm để so sánh:\nNhóm 1: Tử số lớn hơn mẫu số 1817 và 3734.\nVì tử số lớn hơn mẫu số nên hai phân số này đều lớn hơn 1.\nTa có: 1817=18.217.2=3634.\nVì 36 < 37 nên 3634<3734. Hay 1817<3734.\nNhóm 2: Tử số bé hơn mẫu số 67; 2533 và 1718\nQuy đồng mẫu số:\n67=6.1987.198=11881386\n2533=25.4233.42=10501368\n1718=17.7618.76=12921368\nVì 1050 < 1188 < 1292 nên\n10501368<11881386<12921368 hay 2533<67<1718\nSắp xếp hiệu xuất ghi bàn từ bé đến lớn là:\n2533<67<1718<1817<3734.\nMùa giải 2016 – 2017 Messi ghi bàn tốt nhất."
+    },
+]

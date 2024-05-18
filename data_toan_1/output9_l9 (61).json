@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Hãy đọc mỗi phân số dưới đây và cho biết tử số và mẫu số của chúng.\n\\(\\frac{{ - 11}}{{15}};\\frac{{ - 3}}{8}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc các phân số đã cho.\nLời giải chi tiết\n\\(\\frac{{ - 11}}{{15}}\\): âm mười một phần mười lăm, tử số: -11, mẫu số: 15\n\\(\\frac{{ - 3}}{8}\\): -âm ba phần tám, tử số: -3, mẫu số: 8"
+    },
+    {
+        "problem": "Các cặp phân số sau đây có bằng nhau hay không? Vì sao?\na) \\(\\frac{{ - 8}}{{15}}\\) và \\(\\frac{{16}}{{ - 30}}\\);\nb) \\(\\frac{7}{{15}}\\) và \\(\\frac{9}{{ - 16}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai phân số \\(\\frac{a}{b}\\) và \\(\\frac{c}{d}\\) được gọi là bằng nhau, viết là \\(\\frac{a}{b}\\) = \\(\\frac{c}{d}\\) nếu a.d= b. c.\nLời giải chi tiết\na) Cặp phân số \\(\\frac{{ - 8}}{{15}}\\) và \\(\\frac{{16}}{{ - 30}}\\) bằng nhau, vì -8.-30 = 15.16\nb) Cặp phân số \\(\\frac{7}{{15}}\\) và \\(\\frac{9}{{ - 16}}\\)  không bằng nhau vì \\(7.( - 16)\\; \\ne 15.9\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thương của phép chia – 6 cho 1 là \\(\\frac{{ - 6}}{1}\\) và cũng viết thành phân số . Nêu ví dụ tương tự.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi số nguyên n có thể coi là phân số \\(\\frac{n}{1}\\) (viết \\(\\frac{n}{1}\\)= n). Khi đó số nguyên n được biểu diễn ở dạng phân số \\(\\frac{n}{1}\\).\nLời giải chi tiết\nVí dụ: \\(\\frac{{12}}{1};\\,\\,\\frac{{ - 32}}{1};\\,\\,\\frac{{ - 41}}{1}\\)."
+    },
+    {
+        "problem": "Biểu diễn các số -23; -57;237 dưới dạng phân số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi số nguyên n có thể coi là phân số \\(\\frac{n}{1}\\) (viết \\(n=\\frac{n}{1}\\)). Khi đó số nguyên n được biểu diễn ở dạng phân số \\(\\frac{n}{1}\\).\nLời giải chi tiết\n\\(-23 = \\frac{{ - 23}}{1};\\,\\,\\,-57 = \\frac{{ - 57}}{1};\\,\\,\\,237 = \\frac{{237}}{1}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đọc các phân số sau:\na) \\(\\frac{{13}}{-3}\\);      b) \\(\\frac{{ - 25}}{6}\\)     c) \\(\\frac{0}{5}\\);     d) \\(\\frac{{ - 52}}{5}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc các phân số đã cho: Phân số \\(\\frac{a}{b}\\) đọc là: a phần b\nLời giải chi tiết\n\\(\\frac{{13}}{-3}\\): Mười ba phần âm ba\n\\(\\frac{{ - 25}}{6}\\): Âm hai mươi lăm phần sáu\n\\(\\frac{0}{5}\\): Không phần năm\n\\(\\frac{{ - 52}}{5}\\): Âm năm mươi hai phần năm."
+    },
+    {
+        "problem": "Một bể nước có 2 máy bơm để cấp và thoát nước. Nếu bể chưa có nước, máy bơm thứ nhất sẽ bơm đầy bể trong 3 giờ. Nếu bể đầy nước, máy bơm thứ hai sẽ hút hết nước trong bể sau 5 giờ. Dùng phân số có tử số là số âm hay số dương thích hợp để biểu thị lượng nước mỗi máy bơm được sau 1 giờ so với lượng nước mà bể chứa được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số âm biểu thị lượng nước hút ra\nSố dương biểu thị lượng nước bơm vào.\nLời giải chi tiết\nPhân số biểu thị lượng nước máy bơm thứ nhất bơm được trong 1 giờ là: \\(\\frac{1}{3}\\) bể\nPhân số biểu thị lượng nước máy bơm thứ hai bơm được trong 1 giờ là: \\(\\frac{{ - 1}}{5}\\) bể"
+    },
+    {
+        "problem": "Tìm cặp phân số bằng nhau trong các cặp phân số sau:\na) \\(\\frac{{ - 12}}{{16}}\\) và \\(\\frac{6}{{ - 8}}\\)\nb) \\(\\frac{{ - 17}}{{76}}\\) và \\(\\frac{{33}}{{88}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai phân số \\(\\frac{a}{b}\\) và \\(\\frac{c}{d}\\) được gọi là bằng nhau, viết là \\(\\frac{a}{b}\\) = \\(\\frac{c}{d}\\) nếu a.d= b. c.\nLời giải chi tiết\nTrong các cặp phân số trên, cặp phân số \\(\\frac{{ - 12}}{{16}}\\) và \\(\\frac{6}{{ - 8}}\\) bằng nhau, vì: \\(\\left( { - 12} \\right).\\left( { - 8} \\right){\\rm{ }} = {\\rm{ }}16.6\\)\nVì \\((-17).88 \\ne 33. 76\\) nên 2 phân số \\(\\frac{{ - 17}}{{76}}\\) và \\(\\frac{{33}}{{88}}\\) không bằng nhau.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các số nguyên sau ở dạng phân số:\na) 2    b) -5    c) 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi số nguyên n có thể coi là phân số \\(\\frac{n}{1}\\) (viết \\(\\frac{n}{1}\\)= n). Khi đó số nguyên n được biểu diễn ở dạng phân số \\(\\frac{n}{1}\\).\nLời giải chi tiết\na)\\(\\frac{2}{1}\\)    b) \\(\\frac{{ - 5}}{1}\\)     c) \\(\\frac{0}{1}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Quan sát hai phân số \\(\\frac{3}{{ - 5}}\\) và \\(\\frac{{ - 21}}{{35}}\\) và cho biết:\na) Nhân cả tử và mẫu của phân số với cùng số nguyên nào thì được phân số \\(\\frac{{ - 21}}{{35}}\\)\nb) Hai phân số đó có bằng nhau không?\nc) Nêu ví dụ tương tự.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Lấy tử (mẫu) của phân số thứ hai chia cho tử (mẫu) của phân số thứ nhất ta được số cần tìm.\nb) Hai phân số \\(\\frac{a}{b}\\) và \\(\\frac{c}{d}\\) bằng nhau khi \\(a.d = b.c\\)\nc) Em lấy ví dụ về hai phân số có tính chất trên.\nLời giải chi tiết\na) Nhân cả tử và mẫu của phân số \\(\\frac{3}{{ - 5}}\\)  với số -7 thì được phân số \\(\\frac{{ - 21}}{{35}}\\).\nb) Hai phân số trên bằng nhau, vì \\[3.35{\\rm{ }} = {\\rm{ }} - 5.( - 21)\\]\nc) Ví dụ: Phân số \\(\\frac{{ - 2}}{5}\\) và phân số \\(\\frac{4}{{ - 10}}\\) ( Nhân cả tử và mẫu của phân số \\(\\frac{{ - 2}}{5}\\) với -2 được phân số \\(\\frac{4}{{ - 10}}\\)"
+    },
+    {
+        "problem": "Quan sát hai phân số \\(\\frac{{ - 20}}{{30}}\\) và \\(\\frac{4}{{ - 6}}\\) và cho biết:\na) Chia cả tử và mẫu của phân số \\(\\frac{{ - 20}}{{30}}\\) cho cùng số nguyên nào thì được phân số \\(\\frac{4}{{ - 6}}\\)\nb) Hai phân số đó có bằng nhau không?\nc) Nêu ví dụ tương tự.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Lấy tử (mẫu) của phân số thứ nhất chia cho tử (mẫu) của phân số thứ hai ta được số cần tìm.\nb) Hai phân số \\(\\frac{a}{b}\\) và \\(\\frac{c}{d}\\) bằng nhau khi \\(a.d = b.c\\)\nc) Em lấy ví dụ về hai phân số có tính chất trên.\nLời giải chi tiết\na) Chia cả tử và mẫu của phân số \\(\\frac{{ - 20}}{{30}}\\) cho -5 thì được phân số \\(\\frac{4}{{ - 6}}\\)\nb) Hai phân số này bằng nhau, vì \\[ - 20.( - 6) = {\\rm{ }}4.30\\]\nc) Ví dụ: Phân số \\(\\frac{{ - 9}}{{12}}\\) và phân số \\(\\frac{{ - 3}}{4}\\)"
+    },
+    {
+        "problem": "Rút gọn các phân số \\(\\frac{{ - 18}}{{76}}\\); \\(\\frac{{125}}{{ - 375}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu chia cả tử và mẫu của một phân số cho cùng một ước chung của chúng thì ta được một phân số mới bằng phân số đã cho.\nLời giải chi tiết\nTa có: \\(\\frac{{ - 18}}{{76}} = \\frac{{ - 18:2}}{{76:2}} = \\frac{{ - 9}}{{38}}\\)\n\\(\\frac{{125}}{{ - 375}} = \\frac{{125:( - 125)}}{{ - 375:( - 125)}} = \\frac{{ - 1}}{3}\\)"
+    },
+    {
+        "problem": "Viết phân số \\(\\frac{3}{{ - 5}}\\) thành phân số có mẫu dương.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu chia cả tử và mẫu của một phân số cho cùng một ước chung của chúng thì ta được một phân số mới bằng phân số đã cho.\nLời giải chi tiết\nTa có: \\(\\frac{3}{{ - 5}} = \\frac{{3:( - 1)}}{{ - 5:( - 1)}} = \\frac{{ - 3}}{5}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Áp dụng tính chất 1 và tính chất 2 để tìm một phân số bằng mỗi phân số sau:\na) \\(\\frac{{21}}{{13}}\\);      b) \\(\\frac{{12}}{{ - 25}}\\);     c) \\(\\frac{{18}}{{ - 48}}\\);     d) \\(\\frac{{ - 42}}{{ - 24}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chất 1: Nếu nhân cả tử và mẫu của một phân số với cùng một số nguyên khác 0 thì ta được một phần số mới bằng phân số đã cho.\nTính chất 2: Nếu chia cả tử và mẫu của một phân số cho cùng một ước chung của chúng thì ta được một phân số mới bằng phân số đã cho.\nLời giải chi tiết\na) \\(\\frac{{21}}{{13}} = \\frac{{21.2}}{{13.2}} = \\frac{{42}}{{26}}\\)\nb) \\(\\frac{{12}}{{ - 25}} = \\frac{{12.3}}{{ - 25.3}} = \\frac{{36}}{{ - 75}}\\)\nc) \\(\\frac{{18}}{{ - 48}} = \\frac{{18:6}}{{ - 48:6}} = \\frac{3}{{ - 8}}\\)\nd) \\(\\frac{{ - 42}}{{ - 24}} = \\frac{{ - 42:(-6)}}{{ - 24:( - 6)}} = \\frac{7}{4}\\)."
+    },
+    {
+        "problem": "Rút gọn các phân số sau:\n\\(\\frac{{12}}{{ - 24}}\\); \\(\\frac{{ - 39}}{{75}}\\); \\(\\frac{{132}}{{ - 264}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu chia cả tử và mẫu của một phân số cho cùng một ước chung của chúng thì ta được một phân số mới bằng phân số đã cho.\nLời giải chi tiết\nTa có: \\(\\frac{{12}}{{ - 24}} = \\frac{{12:12}}{{ - 24:12}} = \\frac{1}{{ - 2}}\\)\n\\(\\frac{{ - 39}}{{75}} = \\frac{{ - 39:3}}{{75:3}} = \\frac{{ - 13}}{{25}}\\)\n\\(\\frac{{132}}{{ - 264}} = \\frac{{132:132}}{{ - 264:132}} = \\frac{1}{{ - 2}}\\).\nLoigiaihay.com"
+    }
+]

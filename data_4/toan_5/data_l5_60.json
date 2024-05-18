@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1: Trong các đơn vị sau, đâu là đơn vị của vận tốc?\nA.\tkm/giờ\nB.\tm/phút\nC.\tm/giây\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc là quãng đường đi được trong 1 đơn vị thời gian như 1 giờ, 1 phút, 1 giây,…\nDo đó, đơn vị vận tốc có thể là km/giờ; km/phút; m/phút; m/giây;…\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 2: Muốn tính vận tốc ta lấy quãng đường chia cho thời gian. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính vận tốc ta lấy quãng đường chia cho thời gian.\nPhát biểu trên là đúng."
+    },
+    {
+        "problem": "Câu 3: Chọn số thích hợp điền vào chỗ chấm:\nA.\t12\nB.\t13\nC.\t14\nD.\t15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc cần tìm là:\n42 : 3 = 14 (m/giây) \nĐáp số: 14 m/giây.\nVậy đáp án đúng điền vào chỗ chấm là 14."
+    },
+    {
+        "problem": "Câu 4: Chọn số thích hợp điền vào chỗ chấm:\nA.\t50\nB.\t60\nC.\t65\nD.\t70",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc cần tìm là:\n150 : 2,5 = 60 (km/giờ)  \nĐáp số: 60 km/giờ.\nVậy đáp án đúng điền vào chỗ chấm là 60."
+    },
+    {
+        "problem": "Câu 5: Chọn số thích hợp điền vào chỗ chấm:\nA.\t0,16\nB.\t1,6\nC.\t16\nD.\t160",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 4km = 4000m\nVận tốc cần tìm là:\n4000 : 25 = 160 (m/giây)  \nĐáp số: 160 m/giây."
+    },
+    {
+        "problem": "Câu 9: Trên cùng quãng đường 21km, ô tô đi hết 24 phút còn xe máy đi hết 36 phút. Hỏi vận tốc xe nào lớn hơn và lớn hơn bao nhiêu ki-lô-mét?\nA.\tÔ tô; 12,5km/giờ\nB.\tÔ tô; 17,5km/giờ\nC.\tXe máy; 12,5km/giờ\nD.\tXe máy; 17,5km/giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 24 phút = 0,4 giờ ; 36 phút = 0,6 giờ\nVận tốc của ô tô là:\n21 : 0,4 = 52,5 (km/giờ)\nVận tốc của xe máy là:\n21 : 0,6 = 35 (km/giờ)\nTa có: 52,5 km/giờ  > 35 km/giờ.\nVậy vận tốc ô tô lớn hơn.\nHiệu hai vận tốc là:\n52,5 – 35 = 17,5 (km/giờ)\nĐáp số: ô tô; 17,5 km/giờ."
+    },
+    {
+        "problem": "Câu 11: Quãng đường AB dài 102km. Lúc 7 giờ 48 phút, một người đi ô tô khởi hành từ A và đi đến B lúc 10 giờ 32 phút. Tính vận tốc của ô tô, biết giữa đường ô tô nghỉ 20 phút.\nA.\t37,31 km/giờ\nB.\t40 km/giờ\nC.\t42,5 km/giờ\nD.\t33,26 km/giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian ô tô đi từ A đến B tính cả thời gian nghỉ là:\n10 giờ 32 phút − 7 giờ 48 phút = 2 giờ 44 phút\nThời gian ô tô đi từ A đến B không tính thời gian nghỉ là:\n2 giờ 44 phút − 20 phút = 2 giờ 24 phút\nĐổi 2 giờ 24 phút = 2,4 giờ\nVận tốc của ô tô là:\n102 : 2,4 = 42,5 (km/giờ)\nĐáp số: 42,5 km/giờ."
+    },
+    {
+        "problem": "Câu 13: Bình đi từ nhà ra bến xe rồi lại quay trở về nhà thì hết 2 giờ 30 phút. Biết quãng đường từ nhà đến bến xe dài 10,5km và Bình dừng lại bến xe 45 phút. Biết rằng vận tốc đi của Bình không thay đổi. Vậy vận tốc của Bình là:\nA.\t3,23 km/giờ\nB.\t6,46 km/giờ\nC.\t12 km/giờ\nD.\t6 km/giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian Bình di chuyển là:\n2 giờ 30 phút − 45 phút = 1 giờ 45 phút\nĐổi: 1 giờ 45 phút = 105 phút = 1,75 giờ\nVì Bình đi từ nhà ra bến xe rồi lại từ bến xe về nhà nên  Bình đã đi quãng đường bằng 2 lần quãng đường từ nhà ra bến xe.\nQuãng đường Bình đã đi là:\n10,5 × 2 = 21 (km)\nVận tốc của Bình là:\n21 : 1,75 = 12 (km/giờ)\nĐáp số: 12 km/giờ."
+    }
+]

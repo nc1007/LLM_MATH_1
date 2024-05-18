@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "a) Thuỷ ngân có nhiều công dụng nhưng lại rất độc hại đối với môi trường sống. Thuỷ ngân có nhiệt độ đông đặc là \\( - \\frac{{3883}}{{100}}\\) độ C. Hãy tìm một cách viết khác đơn giản hơn để chỉ nhiệt độ trên.\nb) Các phân số \\(\\frac{{93}}{{10}};\\,\\frac{{ - 123}}{{100}};\\,\\frac{{53}}{{1000}};\\,\\frac{{ - 123}}{{1000}};...\\) có thể viết là \\(\\frac{{93}}{{{{10}^1}}};\\,\\frac{{ - 123}}{{{{10}^2}}};\\,\\frac{{53}}{{{{10}^3}}};\\,\\frac{{ - 123}}{{{{10}^4}}};...\\) và gọi là các phân số thập phân.\nEm hãy nêu đặc điểm chung của các phân số trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\( - \\frac{{\\overline {abcd} }}{{100}} =  - \\overline {ab,cd} \\)\nb) Quan sát mẫu số các phân số rồi nhận xét.\nLời giải chi tiết\na) -38,83 độ C\nb) Mẫu số của các phân số trên đều là lũy thừa của 10"
+    },
+    {
+        "problem": "a) Viết các phân số thập phân sau đây dưới dạng số thập phân:\n\\(\\frac{{37}}{{100}};\\,\\)\\(\\frac{{ - 34517}}{{1000}}\\);  \\(\\frac{{ - 254}}{{10}}\\);  \\(\\frac{{ - 999}}{{10}}\\).\nb) Viết các số thập phân sau đây dưới dạng phân số thập phân:\n2;  2,5; -0,007;  -3,053;  -7,001;  7,01.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Các phân số thập phân dương được viết dưới dạng số thập phân dương.\n- Các phân số thập phân âm được viết dưới dạng số thập phân âm.\nb)  Phân số thập phân là phân số có mẫu số là luỹ thừa của 10.\nLời giải chi tiết\na) \\(\\frac{{37}}{{100}} = 0,37\\);  \\(\\frac{{ - 34517}}{{1000}} =  - 34,517\\)\n\\(\\frac{{ - 254}}{{10}} =  - 25,4\\);   \\(\\frac{{ - 999}}{{10}} =  - 99,9\\)\nb) \\(2 = \\frac{2}{1}\\);     \\(2,5 = \\frac{{25}}{{10}}\\)\n\\( - 0,007 = \\frac{{ - 7}}{{1000}}\\);    \\( - 3,053 = \\frac{{ - 3053}}{{1000}}\\)\n\\( - 7,001 = \\frac{{ - 7001}}{{1000}}\\);   \\(7,01 = \\frac{{701}}{{100}}\\)."
+    },
+    {
+        "problem": "Tìm số đối của \\(\\frac{{25}}{{10}}\\) và viết cả hai số này dưới dạng số thập phân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số đối của số a là - a\nLời giải chi tiết\nSố đối của \\(\\frac{{25}}{{10}}\\) là \\(\\frac{{ - 25}}{{10}}\\)\nTa có: \\(\\frac{{25}}{{10}} = 2,5;\\,\\,\\frac{{ - 25}}{{10}} =  - 2,5\\)"
+    },
+    {
+        "problem": "Tìm số đối của các số thập phân sau:\n7,02;  - 28,12;  - 0,69;  0,999.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số đối của số a là - a\nLời giải chi tiết\nSố đối của \\(7,02\\) là \\( - 7,02\\)\nSố đối của \\(-28,12\\) là \\( 28,12\\)\nSố đối của \\( - 0,69\\) là \\(0,69\\)\nSố đối của \\(0,999\\) là \\( - 0,999\\)."
+    },
+    {
+        "problem": "Viết các số sau đây dưới dạng phân số thập phân và sắp xếp các số đó theo thứ tự từ bé đến lớn.\n11,34;    9,35;   - 11,34;  - 9,35.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số thập phân là phân số có mẫu số là luỹ thừa của 10.\nLời giải chi tiết\n\\(11,34 = \\frac{{1134}}{{100}};\\)          \\(9,35 = \\frac{{935}}{{100}};\\)\n\\( - 11,34 = \\frac{{1134}}{{100}};\\)        \\( - 9,35 = \\frac{{ - 935}}{{100}};\\).\nSắp xếp: \\( - 11,34;\\,\\, - 9,35;\\,\\,9,35;\\,\\,11,34.\\)"
+    },
+    {
+        "problem": "a) Hãy sắp xếp các số thập phân sau theo thứ tự tăng dần:\n-12,13; -2,4; 0,5; -2,3; 2,4.\nb) Hãy sắp xếp các số thập phân sau theo thứ tự giảm dần:\n-2,9; -2,999; 2,9; 2,999.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh các số rồi viết chúng theo thứ tự tăng dần.\nb) So sánh các số rồi viết chúng theo thứ tự giảm dần.\nLời giải chi tiết\na) -12,13; -2,4; -2,3; 0,5; 2,4\nb) 2,999; 2,9; -2,9; -2,999"
+    },
+    {
+        "problem": "Viết các phân số sau đây dưới dạng số thập phân\n\\(\\frac{{ - 3519}}{{100}};\\,\\frac{{ - 778}}{{10}};\\,\\,\\frac{{ - 23}}{{1000}};\\,\\frac{{88}}{{100}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Các phân số thập phân dương được viết dưới dạng số thập phân dương.\n- Các phân số thập phân âm được viết dưới dạng số thập phân âm.\nLời giải chi tiết\n\\(\\begin{array}{l}\\frac{{ - 3519}}{{100}} =  - 35,19;\\,\\,\\,\\frac{{ - 778}}{{10}} =  - 77,8;\\\\\\,\\,\\frac{{ - 23}}{{1000}} =  - 0,023;\\,\\,\\frac{{88}}{{100}} = 0,88\\end{array}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các số thập phân sau đây dưới dạng phân số thập phân\n- 312,5;  0,205;  - 10,09;  - 1,110.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số thập phân là phân số có mẫu số là luỹ thừa của 10.\nLời giải chi tiết\n\\(\\begin{array}{l} - {\\rm{ }}312,5 = \\frac{{ - 3125}}{{10}};\\;{\\rm{ }}0,205 = \\frac{{205}}{{1000}};\\;{\\rm{ }}\\\\ - {\\rm{ }}10,09 = \\frac{{ - 1009}}{{100}};\\;{\\rm{ }} - {\\rm{ }}1,110 = \\frac{{ - 1110}}{{1000}}.\\end{array}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số đối của các số thập phân sau:\n9,32;  -12,34;  -0,7;  3,333",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số đối của số a là – a.\nLời giải chi tiết\nSố đối của 9,32 là -9,32\nSố đối của -12,34 là 12,34\nSố đối của -0,7 là 0,7\nSố đối của 3,333 là -3,333.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy sắp xếp các số thập phân sau theo thứ tự tăng dần:\n- 2,99; - 2,9; 0,7; 1; 22,1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh các số rồi sắp xếp các số thập phân sau theo thứ tự tăng dần.\nLời giải chi tiết\nChia các số thành hai nhóm:\n+ Số thập phân âm: -2,99; -2,9\n+ Số thập phân dương: 0,7; 1; 22,1.\n- So sánh -2,99 và -2,9:\nVì 2,99 > 2,90 nên 2,99 > 2,9, suy ra -2,99 < -2,9\n- So sánh 0,7; 1 và 22,1:\nTa có: 0,7 < 1 < 22,1\nVậy ta sắp xếp các số thập phân sau theo thứ tự tăng dần như sau:\n-2,99; -2,9; 0,7; 1; 22,1.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy sắp xếp các số sau theo thứ tự giảm dần\n0,6;  \\(\\frac{{ - 5}}{6}\\); \\(\\frac{{ - 4}}{3}\\); 0; \\(\\frac{8}{{13}}\\); -1,75.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh các số âm và các số dương rồi sắp xếp các số thập phân sau theo thứ tự giảm dần.\nLời giải chi tiết\nTa có: \\(\\frac{8}{{13}} = \\frac{{80}}{{130}}\\); \\(0,6 = \\frac{6}{{10}} = \\frac{{78}}{{130}}\\)\nNên \\(\\frac{8}{{13}} > 0,6\\)\nTa có: \\(\\frac{{ - 5}}{6} = \\frac{{ - 20}}{{24}}\\); \\(\\frac{{ - 4}}{3} = \\frac{{ - 32}}{{24}}\\); \\( - 1,75 = \\frac{{ - 175}}{{100}} = \\frac{{ - 7}}{4} = \\frac{{ - 42}}{{24}}\\)\nNên: \\(\\frac{{ - 5}}{6}\\)> \\(\\frac{{ - 4}}{3}\\)> -1,75.\n=> Sắp xếp: \\(\\frac{8}{{13}}\\); 0,6; 0; \\(\\frac{{ - 5}}{6}\\); \\(\\frac{{ - 4}}{3}\\); -1,75\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Thực hiện các phép tính sau:\n12,3 + 5,67 = ?                   12,3 - 5,67 = ?\nb) Áp dụng quy tắc tương tự như đối với phép cộng và trừ số nguyên, hãy thực hiện các phép tính sau:\n(-12,3) + (-5,67) = ?            5,67 - 12,3 = ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "– Cộng hai số thập phân âm: ta cộng hai số đối của chúng rồi đặt dấu trừ trước kết quả.\n– Cộng hai số thập phân khác dấu:\nNếu số dương lớn hơn hoặc bằng số đối của số âm thì ta lấy số dương trừ đi số đối của số âm.\nNếu số dương nhỏhơn hoặc bằng số đối của số âm thì ta lấy số đối của số âm trừ đi số dương rồi đặt dấu trừ trước kết quả.\nLời giải chi tiết\na) 12,3 + 5,67 = 17,97\n12,3 - 5,67 = 6,63\nb) ( -12,3) + (-5,67) = -(12,3 + 5,67) = -17,97\n5,67 - 12,3 = -(12,3 - 5,67)= - 6,63"
+    },
+    {
+        "problem": "Thực hiện các phép tính:\na) 3,7 - 4,32;        b) -5,5 + 90,67;\nc) 0,8 - 3,1651;     d) 0,77 - 5,3333;\ne) -5,5 + 9,007;    g) 0,008 - 3,9999.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn cộng hai số thập phân âm, ta cộng hai số đối của chúng rồi thêm dấu trừ đằng\ntrước kết quả.\n- Muốn cộng hai số thập phân trái dấu, ta làm như sau:\n• Nếu số lượng lớn hơn hay bằng số đối của số âm thì ta lấy số dương trừ đi số đối\ncủa số âm.\n• Nếu số dương nhỏ hơn số đối của số âm thì ta lấy số đối của số âm trừ đi số dương\nrồi thêm dấu trừ (-) trước kết quả.\n– Muốn trừ số thập phân a cho số thập phân b, ta cộng a với số đối của b.\nLời giải chi tiết\na) 3,7 - 4,32 = - (4,32 – 3,7) = - 0,62\nb) -5,5 + 90,67 = 90,67 – 5,5 = 85,17\nc) 0,8 - 3,1651 = - (3,1651 – 0,8) = - 2,3651\nd) 0,77 - 5,3333 = -(5,3333 – 0,77) = - 4,5633\ne) -5,5 + 9,007 = 9,007 – 5,5 = 3,507\ng) 0,008 - 3,9999 = - ( 3,9999 – 0,008) = -3,9919."
+    },
+    {
+        "problem": "Cho biết một quả chuối nặng 100 g có chứa:\n- Chất béo: 0,3 g\n- Kali: 0,42 g.\nEm hãy cho biết trong quả chuối đó, khối lượng kali nhiều hơn khối lượng chất béo là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính hiệu của khối lượng kali và khối lượng chất béo.\nLời giải chi tiết\nKhối lượng kali nhiều hơn khối lượng chất béo là: \\(0,42 - 0,3 = 0,12\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Thực hiện các phép tính sau:\n1,2.2,5;         125:0,25.\nb) Thực hiện lại các phép tính ở câu a bằng cách đưa về phép tính với phân số thập phân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thực hiện phép tính nhân và chia hai số thập phân đã được học.\nb) Đưa các số thập phân về phân số thập phân rồi thực hiện phép nhân và chia phân số.\nLời giải chi tiết\na) 1,2.2,5 = 3;\n125 : 0,25 = 500\nb)\n\\(1,2.2,5 = \\dfrac{6}{5}.\\dfrac{5}{2} = \\dfrac{{30}}{{10}} = 3\\)\n\\(125:0,25 = 125:\\dfrac{1}{4} = 125.4 = 500\\)"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) 20,24.0,125;\nb) 6,24:0,125;\nc) 2,40.0,875;\nd) 12,75: 2,125",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn nhân hai số thập phân dương có nhiều chữ số thập phân ta làm như sau:\n- Bỏ dấu phẩy rồi nhân như nhân hai số tự nhiên.\n- Đếm xem trong phần thập phân ở cả hai thừa số có tất cả bao nhiêu chữ số rồi dùng dấu phẩy tách ở tích ra bấy nhiêu chữ số từ phải sang trái.\nMuốn chia hai số thập phân dương có nhiều chữ số thập phân, ta làm như sau:\n- Đếm xem có bao nhiêu chữ số ở phần thập phân của số chia thi chuyển dấu phẩy ở số bị chia sang bên phải bấy nhiêu chữ số.\nChú ý: Khi chuyển dấu phẩy ở số bị chia sang phải mà không đủ chữ số, ta thấy thiếu bao nhiêu chữ số thì thêm vào đó bấy nhiêu số chữ số 0.\n- Bỏ dấu phẩy ở số chia rồi thực hiện phép chia như chia số thập phân cho số tự nhiên.\nLời giải chi tiết\na) 20,24 .0,125 = 2,53\nb) 6,24 : 0,125 = 49,92\nc) 2,40. 0,875 = 2,1\nd) 12,75 : 2,125 = 6."
+    }
+]

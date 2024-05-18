@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Cho biểu đồ đoạn thẳng Hình 5.11\n\na) Biểu đồ đoạn thẳng trên cho ta biết thông tin gì?\nb) Mùa giải 2018  -2019 Messi ghi được bao nhiêu bàn thắng cho câu lạc bộ Barcelona?\nc) Messi đã ghi được tổng cộng bao nhiêu bàn thắng cho câu lạc bộ trong 5 mùa giải?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ đoạn thẳng.\nXác định số bàn thắng Messi đã ghi ở từng mùa giải\nLời giải chi tiết\na) Biểu đồ đoạn thẳng cho biết số bàn thắng Messi ghi được cho câu lạc bộ Barcelona trong các mùa giải từ mùa giải 2016 – 2017 đến mùa giải 2020 – 2021.\nb) Mùa giải 2018 – 2019 Messi đã ghi được 51 bàn thắng cho câu lạc bộ Barcelona.\nc) Tổng số bàn thắng Messi đã ghi được cho câu lạc bộ Barcelona trong 5 mùa giải này là:\n54 + 45 +51 +31 + 38 = 219 (bàn)"
+    },
+    {
+        "problem": "Cho biểu đồ Hình 5.1\n\na) Cho biết tiêu đề của biểu đồ này.\nb) Hình tròn trong biểu đồ được chia thành mấy hình quạt? Mỗi hình quạt biểu diễn số liệu nào?\nc) Lục địa nào có diện tích lớn nhất? Chiếm bao nhiêu phần trăm?\nd) Tổng diện tích của các lục địa trên là 134 triệu km2. Tính diện tích của lục địa Châu Á, Châu Âu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ hình quạt.\nMuốn tìm a% của b ta tính \\(b.\\frac{a}{{100}}\\)\nLời giải chi tiết\na) Tiêu đề của biểu đồ “Tỉ lệ diện tích các lục địa”.\nb) Phần hình tròn được chia thành 6 hình quạt, các hình quạt biểu diễn tỉ lệ diện tích của 6 lục địa: Châu Á(33,20%), Châu Phi (22,30%), Nam Mỹ (13,40%), Bắc Mỹ (17,90%), Châu Âu (7,50%), Úc (5,70%).\nc) Lục địa châu Á có diện tích lớn nhất, chiếm 33,20%.\nd) Diện tích của lục địa Châu Á là 134.33,2% = \\(134.\\dfrac{{33,2}}{{100}} = 44,488\\)(triệu km2)\nDiện tích của lục địa Châu Âu là \\(134.\\dfrac{{7,5}}{{100}} = 10,05\\)(triệu km2)"
+    },
+    {
+        "problem": "Hãy cho biết mỗi dữ liệu sau thuộc loại nào?\na)Tên của các hành tinh trong hệ Mặt Trời;\nb) Đánh giá của học sinh về mức độ phù hợp của đề thi học kì với các lựa chọn từ Rất khó đến Rất dễ;\nc) Họ và Tên của các học sinh trong đội tuyển học sinh giỏi của trường tham dự kì thi học sinh giỏi cấp thành phố;\nd) Số năm học ngoại ngữ của các bạn trong lớp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 3 loại dãy dữ liệu:\n+ Dãy dữ liệu là dãy số liệu\n+ Dãy số liệu không là dãy số liệu, có thể sắp thứ tự\n+Dãy số liệu không là dãy số liệu, không thể sắp thứ tự.\nLời giải chi tiết\na)Dữ liệu không là số, không thể sắp thứ tự.\nb) Dữ liệu không là số, có thể sắp thứ tự.\nc) Dữ liệu không là số, không thể sắp thứ tự.\nd) Số liệu"
+    },
+    {
+        "problem": "An đã hỏi một số bạn trong trường về hoạt động chiếm nhiều thời gian nhất trongg tuần đầu tháng 6 vừa qua và thu được dữ liệu sau (D: Đi du lịch, C: Chơi thể thao, H: Học thêm, L: Làm việc nhà)\nHDHDDCDDHDCDCCDHDHDCDDCLCCLDLDLDDLCCDDCD\na) An đã dùng phương pháp thu nhập dữ liệu nào: quan sát, làm thí nghiệm, lập bảng hỏi hay phỏng vấn?\nb) Dữ liệu thu được thuộc loại nào?\nc) Hoàn thiện bảng thống kê sau vào vở.\nHoạt động\nĐi du lịch\nChơi thể thao\nHọc thêm\nLàm việc nhà\nSố bạn\n20\n?\n?\n?\nd) Hoàn thiện biểu đồ hình quạt tròn Hình 5.18 vào vở.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc dãy dữ liệu\nLời giải chi tiết\na) An đã dùng phương pháp phỏng vấn để thu thập dữ liệu.\nb) Dữ liệu thu được là dữ liệu không là số, không thể sắp thứ tự.\nc) Trong dãy dữ liệu có 10 chữ cái C tức là có 10 bạn dành nhiều thời gian chơi thể thao. Tương tự, có 5 chữ cái H, 5 chữ cái L, 20 chữ cái D.\nTa có bảng thống kê:\nHoạt động\nĐi du lịch\nChơi thể thao\nHọc thêm\nLàm việc nhà\nSố bạn\n20\n10\n5\n5\nd) Biểu đồ hoàn thiện:\n"
+    },
+    {
+        "problem": "Biểu đồ Hình 5.12 cho biết số lần xảy ra lũ lụt trên toàn thế giới trong một số năm gần đây.\n\na)Từ năm 2013 đến 2018, năm nào có nhiều lũ lụt nhất, với bao nhiêu trận lũ lụt?\nb) Lập bảng thống kê biểu diễn số trận lũ lụt trên toàn cầu theo năm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ đoạn thẳng.\nNăm có số trận lũ cao nhất là năm nhiều lũ lụt nhất\nLời giải chi tiết\na) Năm 2015 có nhiều lũ lụt nhất với 162 trận\nb) Bảng thống kê:\nNăm\n2013\n2014\n2015\n2016\n2017\n2018\nSố trận\n149\n135\n162\n159\n126\n127"
+    },
+    {
+        "problem": "Biểu đồ Hình 5.2 cho biết tỉ lệ học sinh các cấp của Việt Nam năm 2020.\n\na) Lập bảng thống kê biểu diễn tỉ lệ học sinh các cấp năm 2020.\nb) Năm 2020, Việt Nam có tổng cộng 17 551 000 học sinh các cấp. Tính số lượng học sinh mỗi cấp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ hình quạt tròn.\nMuốn tìm a% của b ta tính \\(b.\\dfrac{a}{{100}}\\)\nLời giải chi tiết\na) Bảng thống kê\n\nb) Số học sinh Tiểu học là:\n\\(17 551 000.\\dfrac{51}{100}=8 951 010\\) ( em)\nSố học sinh Trung học sơ sở là:\n\\(17 551 000.\\dfrac{34}{100}=5 967 340\\) ( em)\nSố học sinh Trung học phổ thông là:\n\\(17 551 000.\\dfrac{15}{100}=2 632 650\\) ( em)\nVậy số lượng học sinh Tiểu học, Trung học cơ sở, Trung học phổ thông tương ứng là 8 951 010; 5 967 340; 2 632 650."
+    },
+    {
+        "problem": "Xác định phương pháp thu nhập dữ liệu (Quan sát, làm thí nghiệm. Lập bảng hỏi, phỏng vấn) trong mỗi trường hợp sau:\na) Muốn biết cường độ dòng điện của một số đoạn mạch nối tiếp;\nb) Muốn thống kê thời gian tự học ở nhà mỗi ngày của các bạn trong lớp;\nc) Muốn biết tỉ lệ học sinh nhặt rác bỏ vào thùng khi nhìn thấy rác trên sân trường.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thường thu thập từ các nguồn: Internet, sách báo, ti-vi, lập phiếu hỏi, phỏng vấn, làm thí nghiệm,….\nLời giải chi tiết\na) Làm thí nghiệm\nb) Lập bảng hỏi hoặc Phỏng vấn\nc) Quan sát."
+    },
+    {
+        "problem": "Minh làm bài kiểm tra trình độ tiếng Anh trên mạng Internet 6 lần và ghi lại kết quả (tỉ lệ số câu đúng) như sau:\nLần\n1\n2\n3\n4\n5\n6\nKết quả (%)\n20\n60\n80\n90\n95\n97\na) Vẽ biểu đồ đoạn thẳng biểu diễn bảng số liệu trên.\nb) Nhận xét về sự tiến bộ của Minh sau mỗi lần làm bài.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu đồ đi lên biểu thị kết quả tăng dần theo thời gian.\nLời giải chi tiết\na)\n\nb) Minh có sự tiến bộ sau mỗi lần làm bài\nTừ lần kiểm tra thứ nhất đến lần kiểm tra thứ hai, Minh có sự tiến bộ nhiều nhất."
+    },
+    {
+        "problem": "Biểu đồ đoạn thẳng Hình 5.13 cho biết số lượng loài động vật được tổ chức Bảo vệ Thiên nhiên Thế giới (IUCN) ghi vào sách đỏ.\na) Lập bảng phân bố cho biết số loài động vật được IUCN ghi vào sách đỏ theo năm.\nb) Cho biết xu thế theo thời gian của số lượng loài động vật được ghi vào sách đỏ.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ đoạn thẳng\nLời giải chi tiết\na)Bảng thống kê\nNăm\n2007\n2010\n2013\n2016\n2019\nSố loài\n7851\n9618\n11212\n12630\n14234\n\nb) Xu thế tăng theo thời gian."
+    },
+    {
+        "problem": "Bảng dưới đây cho biết tỉ lệ học sinh cấp THCS của một thành phố lớn tới trường theo phương tiện.\nPhương tiện\nÔ tô\nXe buýt\nXe đạp\nĐi bộ\nTỉ lệ\n10%\n20%\n50%\n20%\nHãy hoàn thiện biểu đồ 5.3 vào vở để biểu diễn bảng thống kê này.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác định số hình quạt tương ứng với mỗi phương tiện.\nLời giải chi tiết\nÔ tô chiếm 10% tương ứng với 1 hình quạt, xe buýt chiếm 20% tương ứng với 2 hình quạt, xe đạp chiếm 50% tương ứng với 5 hình quạt, đi bộ chiếm 20% tương ứng với 2 hình quạt.\n"
+    },
+    {
+        "problem": "Nhà trường vận động mỗi bạn tặng một món quà cho các bạn học sinh vùng lũ lụt. Biểu đồ Hình 5.19 biểu diễn tỉ lệ học sinh lớp 7A tặng các món quà khác nhau.\n\nLớp 7A có 40 học sinh. Tính số học sinh tặng từng loại món quà.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm m% của a, ta tính \\(\\dfrac{m}{100}.a\\)\nLời giải chi tiết\nSố học sinh tặng đồ dùng học tập là:\n\\(\\dfrac{50}{100}.40=20\\) (học sinh)\nSố học sinh tặng quần áo là:\n\\(\\dfrac{20}{100}.40=8\\) (học sinh)\nSố học sinh tặng đồ chơi là:\n\\(\\dfrac{30}{100}.40=12\\) (học sinh)\nVậy có 20 học sinh tặng quà tặng là đồ dùng học tập, 8 học sinh tặng quà tặng là quần áo, 12 học sinh tặng quà tặng là đồ chơi."
+    },
+    {
+        "problem": "Cho biểu đồ đoạn thẳng hình 5.14\n\na) Biểu đồ đoạn thẳng biểu diễn những dãy số liệu nào?\nb) So sánh tỉ lệ trẻ em độ tuổi 5-17 ở hai khu vực châu Phi cận Sahara và châu Á Thái Bình Dương phải lao động.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ đoạn thẳng\nLời giải chi tiết\na) Biểu đồ biểu diễn dãy số liệu về tỉ lệ trẻ em độ tuổi 5 – 17 phải lao động ở 2 khu vực châu Phi cận Sahara và châu Á Thái Bình Dương trong các năm từ 2008 đến 2020.\nb) Tỉ lệ ở khu vực châu Á Thái Bình Dương luôn thấp hơn ở khu vực châu Phi cận Shahara."
+    },
+    {
+        "problem": "Một chuyên gia đã đưa ra phương pháp chi tiêu hiệu quả trong gia đình theo quy tắc 50/20/30 như sau: 50% cho chi tiêu thiết yếu (tiền ăn uống, thuê nhà, chi phí đi lại,…), 20 % cho các khoản tài chính (tiết kiệm mua nhà, mua xe, lập quỹ dự phòng…), 30% cho chi tiêu cá nhân (du lịch, giải trí, mua sắm,…)\na) Hãy hoàn thiện biểu đồ Hình 5.4 vào vở\n\nb) Một gia đình có tổng thu nhập trong tháng là 30 triệu đồng thì số tiền chi tiêu cho các khoản là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh tỉ lệ mỗi khoản và xác định hình quạt tương ứng rồi tô màu.\nb) Muốn tìm a% của b ta tính \\(b.\\frac{a}{{100}}\\)\nLời giải chi tiết\n\nb) Số tiền chi tiêu cho thiết yếu là:\n\\(30.50\\%=15\\) (triệu đồng)\nSố tiền chi tiêu cho các khoản tài chính là:\n\\(30.20\\%=6\\) (triệu đồng)\nSố tiền chi tiêu cho cá nhân là:\n\\(30.30\\%=9\\) (triệu đồng)"
+    },
+    {
+        "problem": "Bình muốn biết về thói quen đọc sách ở thư viện của các bạn trong lớp nên đã phát phiếu hỏi sau cho các bạn.\n\nEm hãy cho biết dữ liệu Bình thu được ở mỗi câu hỏi thuộc loại nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 3 loại dãy dữ liệu:\n+ Dãy dữ liệu là dãy số liệu\n+ Dãy số liệu không là dãy số liệu, có thể sắp thứ tự\n+Dãy số liệu không là dãy số liệu, không thể sắp thứ tự.\nLời giải chi tiết\na) Dữ liệu thu được trong câu hỏi 1 là dữ liệu không là số, không thể sắp thứ tự.\nb) Dữ liệu thu được trong câu hỏi 2 là số liệu."
+    },
+    {
+        "problem": "Đóng góp trực tiếp (đơn vị là tỉ đô la) của ngành du lịch cho GDP toàn cầu từ năm 2015 đến năm 2019 được cho trong bảng thống kê sau:\nNăm\n2015\n2016\n2017\n2018\n2019\nLượng đóng góp\n2,3\n2,4\n2,4\n2,6\n2,9\na) Lượng đóng góp trực tiếp của ngành du lịch cho GDP toàn cầu thuộc loại dữ liệu nào?\nb) Vẽ biểu đồ đoạn thẳng biểu diễn bảng số liệu trên.\nc) Cho biết xu thế về đóng góp trực tiếp của du lịch cho GDP toàn cầu trong thời gian này.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Cách vẽ biểu đồ đoạn thẳng:\nBước 1: Vẽ hai trục ngang và dọc vuông góc với nhau\n- Trục ngang: Ghi các mốc thời gian\n- Trục dọc: Chọn khoảng chia thích hợp với số liệu và ghi số ở các vạch chia\nBước 2:\n- Tại mỗi mốc thời gian trên tục ngang, đánh dấu một điểm cách điểm mốc thời gian theo chiều thẳng đứng một khoảng bằng số liệu tại mốc thời gian đó, tương ứng với khoảng chia trên trục dọc\n- Vẽ các đoạn thẳng nối từng cặp điểm tương ứng với cặp mốc thời gian liên tiếp, ta được một đường gấp khúc biểu diễn sự thay đổi số liệu theo thời gian.\nBước 3: Hoàn thiện biểu đồ:\n- Ghi tên biểu đồ\n- Ghi chú các giá trị số liệu tại các đầu đoạn thẳng\n- Ghi đơn vị trên 2 trục\nLời giải chi tiết\na) Số liệu\nb) Biểu đồ\n\nc) Xu thế tăng theo thời gian."
+    },
+    {
+        "problem": "Cho biểu đồ Hình 5.15\n\na) Các đường màu xám và màu xanh trong biểu đồ biểu diễn những số liệu nào?\nb) Cho biết xu thế về giá trị nhập khẩu máy vi tính, sản phẩm điện tử và linh kiện điện tử từ Trung Quốc?\nc) Năm nào giá trị nhập khẩu máy vi tính, sản phẩm điện tử và linh kiện điện tử Trung Quốc lớn hơn từ Hàn Quốc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tương tự như câu a) bài 5.20\nb) Quan sát đường màu xanh\nc) Năm mà đường màu xanh vượt lên trên đường màu xám\nLời giải chi tiết\na) Đường màu xám biểu diễn trị giá xuất nhập khẩu máy vi tính, sản phẩm điện tử và linh kiện điện tử từ Hàn Quốc.\nĐường màu xanh biểu diễn trị giá xuất nhập khẩu máy vi tính, sản phẩm điện tử và linh kiện điện tử từ Trung Quốc.\nb) Giá trị nhập khẩu máy vi tính, sản phẩm điện tử và linh kiện điện tử từ Trung Quốc có xu thế tăng theo thời gian.\nc) Năm 2021."
+    },
+    {
+        "problem": "Hãy phỏng vấn các bạn trong tổ để biết các bạn tự đánh giá thế nào về ý thức tự giác của mình trong việc làm bài tập ở nhà với các mức độ từ Rất tự giác đến Không tự giác. Lập bảng thống kê cho dãy dữ liệu thu được. Dãy dữ liệu này thuộc loại nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 3 loại dãy dữ liệu:\n+ Dãy dữ liệu là dãy số liệu\n+ Dãy số liệu không là dãy số liệu, có thể sắp thứ tự\n+Dãy số liệu không là dãy số liệu, không thể sắp thứ tự.\nLời giải chi tiết\nDãy dữ liệu có dạng: Tự giác, không tự giác,..rất tự giác. Đây là dữ liệu không là số, có thể sắp thứ tự."
+    }
+]

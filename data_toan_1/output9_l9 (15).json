@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Hãy sắp xếp các số sau theo thứ tự tăng dần\n-3; +4; 7; -7; 0; -1; +15; -8; 25.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho hai số nguyên a và b. Trên trục số, nếu điểm a nằm bên trái điểm b thì số a nhỏ hơn số b.\nLời giải chi tiết\nVì 8 > 7 > 3 > 1 > 0 nên -8 < -7 < -3 < -1 < 0\nTa có: 0 < 4 < 7 < 15 < 25\nDo đó: -8 < -7 < -3 < -1 < 0 < 4 < 7 < 15 < 25\nCác số được sắp xếp theo thứ tự tăng dần là:  -8; -7; -3; -1; 0; +4; 7; +15; 25."
+    },
+    {
+        "problem": "So sánh hai số:\na) -39 và - 54;\nb) -3 179 và -3 279.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho hai số nguyên a và b. Trên trục số, nếu điểm a nằm bên trái điểm b thì số a nhỏ hơn số b. Kí hiệu là a < b\nNếu a > b thì -a < -b\nLời giải chi tiết\na) Vì 39 < 54 nên -39 > -54\nb) Vì 3 179 < 3 279 nên - 3 179 > - 3 279.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Liệt kê các phần tử của mỗi tập hợp sau:\na) \\(A = {\\rm{\\{ x}} \\in \\mathbb{Z}\\,{\\rm{|}}\\,{\\rm{ - 2}} \\le {\\rm{x}}\\,{\\rm{ < }}\\,{\\rm{4\\} ;}}\\)\nb) \\(B = {\\rm{\\{ x}} \\in \\mathbb{Z}\\,{\\rm{|}}\\,{\\rm{ - 2}}\\,{\\rm{ < }}\\,{\\rm{x}}\\, \\le {\\rm{4\\} }}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Liệt kê các số nguyên lớn hơn hoặc bằng -2 và nhỏ hơn 4.\nb) Liệt kê các số nguyên lớn hơn -2 và nhỏ hơn hoặc bằng 4.\nLời giải chi tiết\na) A = {-2; -1; 0; 1; 2; 3}\nb) B = {-1; 0; 1; 2; 3; 4}"
+    },
+    {
+        "problem": "Thực hiện các phép cộng sau:\n(- 12) + (- 48);             (-236) + (- 1025).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu \"-\" trước kết quả.\nLời giải chi tiết\n(-12) + (-48) = -(12 + 48) = -60\n(-236) + (-1 025) = -(236 + 1 025) = -1 261"
+    },
+    {
+        "problem": "Sử dụng phép cộng hai số nguyên âm để giải bài toán sau (h.3.12):\nMột chiếc tàu ngầm cần lặn (coi là theo phương thẳng đứng) xuống điểm A dưới đáy biển. Khi tàu đến điểm B ở độ cao - 135 m, máy đo bảo rằng tàu còn cách A một khoảng 45 m. Hỏi điểm A nằm ở độ cao bao nhiêu mét?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu \"-\" trước kết quả.\nLời giải chi tiết\nVì tàu đến độ cao -135 m, còn phải lặn sâu thêm 45 m nữa (tức là đi thêm -45 m nữa) nên điểm A nằm ở độ cao: (-135) + (-45) = -(135 + 45) = -180(m)"
+    },
+    {
+        "problem": "Tìm số đối của 4, -5, 9, -11.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên trục số hai điểm có cùng khoảng cách đến gốc O được gọi là hai số đối nhau.\nLời giải chi tiết\nSố đối của 4, -5, 9, -11 lần lượt là: -4, 5, -9, 11"
+    },
+    {
+        "problem": "Thực hiện phép tính: a) 203 + (-195);       b) (-137) + 86.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\na) 203 + (-195) = 203 - 195 = 8\nb) (-137) + 86 = -(137 - 86) = -51"
+    },
+    {
+        "problem": "Sử dụng phép cộng hai số nguyên khác dầu để giải bài toán sau:\nMột máy thăm dò đáy biển ngày hôm trước hoạt động ở độ cao -946 m. Ngày hôm sau người ta cho máy nổi lên 55 m so với hôm trước. Hỏi ngày hôm sau máy thăm dò đáy biển hoạt động ở độ cao nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\nMáy nổi lên 55 m, tức là đi độ cao tăng thêm + 55 m\nNgày hôm sau, máy thăm dò hoạt động ở độ cao:\n-946 + 55 = -(946 - 55) = -891 (m)"
+    },
+    {
+        "problem": "Đố bạn: tổng của hai số nguyên khác dấu là số dương hay số âm?\nEm hãy trả lời giúp Vuông.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào quy tắc cộng hai số nguyên khác dấu:\nMuốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\nTổng của hai số nguyên khác dấu ( không đối nhau) mang dấu của số hạng có phần số tự nhiên lớn hơn. Tổng 2 số nguyên đối nhau là 0.\nDo đó tùy trường hợp mà tổng của hai số nguyên khác dấu là số dương hoặc số âm hoặc bằng 0."
+    },
+    {
+        "problem": "Tính và so sánh giá trị của a + b và b + a với a = -7, b = 11.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\na + b = -7 + 11 = 11 - 7 = 4\nb + a = 11 + (-7) = 11 - 7= 4\nVậy a + b = b + a."
+    },
+    {
+        "problem": "Tính và so sánh giá trị của (a + b) + c và a + (b + c) với a = 2, b = -4, c = -6.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính ở trong ngoặc trước.\nLời giải chi tiết\n(a + b) + c = [2 + (-4)] + (-6) = [ -(4 - 2)] + (-6) = (-2) + (-6) = - (2 + 6) = -8\na + (b + c) = 2 + [(-4) + (-6)] = 2 + [ -(4 + 6)] = 2 + (-10)  = - (10 - 2)= -8\nVậy (a + b) + c = a + (b + c)"
+    }
+]

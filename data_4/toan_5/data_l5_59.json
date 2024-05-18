@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 2: Tháng hai (không phải năm nhuận) có bao nhiêu ngày?\nA.\t28 ngày\nB.\t29 ngày\nC.\t30 ngày\nD.\t31 ngày",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tháng hai có 28 ngày, vào năm nhuận có 29 ngày."
+    },
+    {
+        "problem": "Câu 4: Trong một năm có bao nhiêu tháng có 31 ngày?\nA.\t4 tháng\nB.\t5 tháng\nC.\t6 tháng\nD.\t7 tháng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: tháng một, tháng ba, tháng năm, tháng bảy, tháng tám, tháng mười, tháng mười hai có 31 ngày.\nVậy trong một năm có 7 tháng có 31 ngày."
+    },
+    {
+        "problem": "Câu 6: Bác Hồ ra đi tìm đường cứu nước ngày 5 tháng 6 năm 1911. Hỏi Bác ra đi tìm đường cứu nước vào thế kỉ nào?\nA.\tThế kỉ XVIII\nB.\tThế kỉ XIX\nC.\tThế kỉ XX\nD.\tThế kỉ XXI",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: từ năm 1901  đến năm 2000 là thế kỉ hai mươi (thế kỉ XX).\nDo đó, Bác Hồ ra đi tìm đường cứu nước năm 1911, thuộc thế kỉ XX."
+    },
+    {
+        "problem": "Câu 7: Một ca nô đi từ bến sông A lúc 7 giờ 15 phút và đến bến sông B lúc 9 giờ 10 phút. Hỏi ca nô đi từ A đến B hết bao nhiêu thời gian? Biết rằng dọc đường ca nô dừng lại nghỉ 10 phút.\nA.\t1 giờ 15 phút\nB.\t1 giờ 45 phút\nC.\t1 giờ 55 phút\nD.\t2 giờ 5 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính cả thời gian nghỉ ca nô đi từ A đến B hết số thời gian là: \n9 giờ 10 phút − 7 giờ 15 phút = 1 giờ 55 phút\nNếu không tính thời gian nghỉ ca nô đi từ A đến B hết số thời gian là:\n1 giờ 55 phút − 10 phút = 1 giờ 45 phút\nĐáp số: 1 giờ 45 phút."
+    },
+    {
+        "problem": "Câu 8: Trung bình một người thợ làm xong một sản phẩm hết 1 giờ 12 phút. Lần thứ nhất người đó làm được 6 sản phẩm. Lần thứ hai người đó làm được 8 sản phẩm. Hỏi cả hai lần người đó phải làm trong bao nhiêu thời gian?\nA.\t16 giờ 48 phút\nB.\t16 giờ 36 phút\nC.\t15 giờ 12 phút\nD.\t9 giờ 36 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1:\nNgười đó làm 6 sản phẩm trong số thời gian là:\n1 giờ 12 phút × 6 = 6 giờ 72 phút\nĐổi 6 giờ 72 phút = 7 giờ 12 phút\nNgười đó làm 8 sản phẩm trong số thời gian là:\n1 giờ 12 phút × 8 = 8 giờ 96 phút\nĐổi 8 giờ 96 phút = 9 giờ 36 phút\nCả hai lần người đó phải làm trong số thời gian là:\n7 giờ 12 phút + 9 giờ 36 phút = 16 giờ 48 phút\nCách 2:\nCả hai lần người đó làm được số sản phẩm là\n6 + 8 = 14 (sản phẩm)\nCả hai lần người đó phải làm trong số thời gian là:\n1 giờ 12 phút × 14 = 14 giờ 168 phút\nĐổi 14 giờ 168 phút = 16 giờ 48 phút\nĐáp số: 16 giờ 48 phút."
+    },
+    {
+        "problem": "Câu 9: Tính: \n12 phút 25 giây × 3 + 27 phút 32 giây × 4\nA.\t4 giờ 19 phút 8 giây\nB.\t3 giờ 54 phút 15 giây\nC.\t2 giờ 18 phút 32 giây\nD.\t2 giờ 27 phút 23 giây",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n12 phút 25 giây × 3 + 27 phút 32 giây × 4\n= 36 phút 75 giây + 108 phút 128 giây\n= 37 phút 15 giây + 110 phút 8 giây\n= 147 phút 23 giây\n= 2 giờ 27 phút 23 giây"
+    },
+    {
+        "problem": "Câu 12: Mai đi từ nhà lúc 7 giờ 15 phút và đến trường sớm 8 phút so với giờ vào học. Lan đi từ nhà lúc 7 giờ 20 phút và đến trường đúng giờ vào học. Biết giờ vào học là 8 giờ. Hỏi Mai và Lan, ai đi từ nhà đến trường mất nhiều thời gian hơn và nhiều hơn bao nhiêu phút?\nA.\tMai; 3 phút\nB.\tMai; 5 phút\nC.\tLan; 3 phút\nD.\tLan; 5 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mai đến trường sớm 8 phút tức là đến trường lúc 8 giờ kém 8 phút hay 7 giờ 52 phút.\nThời gian Mai đi từ nhà đến trường là:\n7 giờ 52 phút − 7 giờ 15 phút = 37 phút\nThời gian Lan đi từ nhà đến trường là:\n8 giờ − 7 giờ 20 phút = 40 phút\nTa có: 40 phút  > 37 phút.\nVây Lan đi từ nhà đến trường mất nhiều thời gian hơn và nhiều hơn số thời gian là:\n40 phút − 37 phút = 3 phút\nĐáp số: Lan; 3 phút."
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Hãy biến đổi các tỉ số lượng giác sau đây thành tỉ số lượng giác của các góc nhỏ hơn 45° ;\n\\(\\sin 75^\\circ ,\\cos 53^\\circ ,\\sin 47^\\circ 20',\\)\\(tg62^\\circ ,\\cot g82^\\circ 45'.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu hai góc phụ nhau thì sin góc này bằng côsin góc kia, tang góc này bằng côtang góc kia.\nVới hai góc \\(\\alpha ,\\beta \\) sao cho  \\(\\alpha  + \\beta  = 90^\\circ \\)\nTa có: \\(\\sin \\alpha  = \\cos \\beta ;\\) \\(\\sin \\beta  = \\cos \\alpha ;\\)\\(\\tan \\alpha  = \\cot \\beta ;\\) \\(\\tan \\beta  = \\cot \\alpha. \\)\nLời giải chi tiết\nVì \\(75^\\circ  + 15^\\circ  = 90^\\circ \\) nên \\(\\sin 75^\\circ  = \\cos 15^\\circ \\)\nVì \\(53^\\circ  + 37^\\circ  = 90^\\circ \\) nên \\(\\cos 53^\\circ  = \\sin 37^\\circ \\)\nVì \\(47^\\circ 20' + 42^\\circ 40' = 90^\\circ \\) nên \\(\\sin 47^\\circ 20' = \\cos 42^\\circ 40'\\)\nVì \\(62^\\circ  + 28^\\circ  = 90^\\circ \\) nên \\(tg62^\\circ  = \\cot 28^\\circ \\)\nVì \\(82^\\circ 45' + 7^\\circ 15' = 90^\\circ \\) nên \\(\\cot 82^\\circ 45' = tg7^\\circ 15'\\)\nLoigiaihay.com"
+    }
+]

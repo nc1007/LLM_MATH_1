@@ -1,0 +1,27 @@
+[
+    {
+        "problem": "Cho góc vuông uOv và tia Oy đi qua một điểm trong của góc đó. Vẽ tia Ox sao cho Ou là tia phân giác của góc xOy. Vẽ tia Oz sao cho Ov là tia phân giác của góc yOz. Chứng minh rằng hai góc xOy và yOz là hai góc kề bù.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Biểu diễn hai góc xOy theo góc uOy, góc yOz theo góc yOv.\n- Chứng minh tổng hai góc xOy và yOz bằng 180 độ.\nLời giải chi tiết\n\nVì tia Ou là tia phân giác của góc xOy; Ov là tia phân giác của góc yOz nên:\n\\(\\begin{array}{l}\\widehat {xOy} = 2\\widehat {uOy},\\widehat {yOz} = 2\\widehat {yOv}\\\\ \\Rightarrow \\widehat {xOy} + \\widehat {yOz} = 2\\left( {\\widehat {uOy} + \\widehat {yOv}} \\right) = {2.90^0} = {180^0}\\end{array}\\)\nMà 2 góc này kề nhau.\nVậy hai góc xOy và yOz là hai góc kề bù."
+    },
+    {
+        "problem": "Cho góc bẹt xOy. Vẽ tia Oz sao cho \\(\\widehat {xOz} = {60^0}\\). Vẽ tia Om là tia phân giác của góc xOz. Vẽ tia On là tia phân giác của góc zOy.\na)Tính số đo góc xOm.\nb) Tính số đo góc yOn.\nc) Tính số đo góc mOn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tia Om là tia phân giác của góc xOz\nb)\n-\\(\\widehat {yOz} + \\widehat {zOx} = {180^0}\\)\n- Tia On là tia phân giác của góc yOn\nc)\n-\\(\\widehat {xOm} + \\widehat {mOy} = {180^0}\\)\n- Tia On nằmg giữa hai tia Oy và Om\nLời giải chi tiết\n\na)\nTa có: Tia Om là tia phân giác của góc xOz\n\\( \\Rightarrow \\widehat {xOm} = \\widehat {mOz} = \\dfrac{{\\widehat {xOz}}}{2} = \\dfrac{{{{60}^0}}}{2} = {30^0}\\)\nVậy \\(\\widehat {xOm} = {30^0}\\).\nb)\nTa có: \\(\\widehat {yOz} + \\widehat {zOx} = {180^0}\\)(hai góc kề bù)\n\\(\\begin{array}{l} \\Rightarrow \\widehat {yOz} + {60^0} = {180^0}\\\\ \\Rightarrow \\widehat {yOz} = {180^0} - {60^0}\\\\ \\Rightarrow \\widehat {yOz} = {120^0}\\end{array}\\)\nTia On là tia phân giác của góc yOn nên \\(\\widehat {yOn} = \\widehat {nOz} = \\dfrac{{\\widehat {yOz}}}{2} = \\dfrac{{{{120}^0}}}{2} = {60^0}\\)\nc)\nTa có: \\(\\widehat {xOm} + \\widehat {mOy} = {180^0}\\) (hai góc kề bù)\n\\( \\Rightarrow {30^0} + \\widehat {mOy} = {180^0} \\Rightarrow \\widehat {mOy} = {180^0} - {30^0} = {150^0}\\)\nTia On nằm giữa hai tia Oy và Om nên:\n\\(\\begin{array}{l}\\widehat {yOn} + \\widehat {nOm} = \\widehat {yOm}\\\\ \\Rightarrow {60^0} + \\widehat {nOm} = {150^0}\\\\ \\Rightarrow \\widehat {nOm} = {150^0} - {60^0}\\\\ \\Rightarrow \\widehat {nOm} = {90^0}.\\end{array}\\)"
+    },
+    {
+        "problem": "Vẽ \\(\\widehat {xOy} = {60^0}\\). Vẽ tia Oz là tia đối của tia Ox. Vẽ tia Om là tia phân giác của góc zOy.\na)Tính \\(\\widehat {zOm}\\).\nb) Vẽ tia On là tia đối của tia Om. Tia Ox có phải là tia phân giác của góc yOn không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-\\(\\widehat {xOy} + \\widehat {yOz} = {180^0}\\)\n- Tia Om là tia phân giác của \\(\\widehat {zOy}\\)\nb)\n-\\(\\widehat {xOn} = \\widehat {mOz} = {60^0}\\)\nLời giải chi tiết\n\na)\nTa có: \\(\\widehat {xOy} + \\widehat {yOz} = {180^0}\\) (hai góc kề bù)\n\\( \\Rightarrow {60^0} + \\widehat {yOz} = {180^0} \\Rightarrow \\widehat {yOz} = {180^0} - {60^0} \\Rightarrow \\widehat {yOz} = {120^0}\\)\nTia Om là tia phân giác của \\(\\widehat {zOy}\\) nên \\(\\widehat {zOm} = \\widehat {mOy} = \\dfrac{{\\widehat {zOy}}}{2} = \\dfrac{{{{120}^0}}}{2} = {60^0}\\).\nVậy \\(\\widehat {zOm} = {60^0}\\).\nb)\nTa có: \\(\\widehat {xOn}\\) và \\( \\widehat {mOz}\\) là hai góc đối đỉnh ( do Ox là tia đối của Oz; On là tia đối của Om nên \\(\\widehat {xOn} = \\widehat {mOz} = {60^0}\\)\nDo tia Ox nằm giữa hai tia Oy và On\nMà \\(\\widehat {xOy} = \\widehat {xOn} (= {60^0}\\))\nVậy tia Ox là tia phân giác của góc yOn."
+    },
+    {
+        "problem": "Cho hình 3.26, biết \\(Ax\\parallel Dy,\\widehat {xAC} = {50^0};\\widehat {ACD} = {110^0}\\). Tính số đo góc CDy.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Vẽ đường thẳng Ct song song với Ax. Chứng tỏ \\(Dy\\parallel Ct\\)\n-Tính số đo các góc ACt, DCt\n-Từ \\(Dy\\parallel Ct\\) tính góc CDy.\nLời giải chi tiết\n\nVẽ \\(Ct\\parallel Ax\\) mà \\(Ax\\parallel Dy \\Rightarrow Ct\\parallel Dy\\).\nVì \\(Ax\\parallel Ct \\Rightarrow \\widehat {xAC} = \\widehat {ACt} = {50^0}\\) (2 góc so le trong)\nVì Ct nằm trong góc DCA nên \\(\\widehat {ACt} + \\widehat {tCD} = {110^0} \\Rightarrow {50^0} + \\widehat {tCD} = {110^0} \\Rightarrow \\widehat {tCD} = {60^0}\\)\nVì \\(Ct\\parallel Dy \\Rightarrow \\widehat {tCD} = \\widehat {CDy} = {60^0}\\) (2 góc so le trong)\nVậy số đo góc CDy là \\(60^0\\)"
+    },
+
+]

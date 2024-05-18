@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 14. Điền vào chỗ trống bằng những nội dung thích hợp để được các định lí: Nếu … thì MA = MB =  .\nA. M nằm giữa A và B;\nB. MA + MB;\nC. M là trung điểm của AB;\nD. A nằm giữa M và B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNếu M là trung điểm của AB thì MA = MB =  .\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu15. Điền vào chỗ trống bằng những nội dung thích hợp để được các định lí: “Nếu  và  là hai góc đối đỉnh thì …”\nA. Bù nhau;\nB. Phụ nhau;\nC. Bằng nhau;\nD. Kề bù với nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNếu  và  là hai góc đối đỉnh thì bằng nhau."
+    },
+    {
+        "problem": "Câu 16. Hai góc kề bù khi:\nA. Hai góc có chung một cạnh chung và không có điểm chung; \nB. Hai góc có tổng số đo bằng 180°;\nC. Hai góc có chung một đỉnh và chung một cạnh;\nD. Hai góc vừa kề nhau vừa bù nhau;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nHai góc kề bù là hai góc vừa kề nhau vừa bù nhau. \nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 17. Hai góc xOt và tOy là hai góc kề bù. Biết  = 80°, góc tOy có số đo là: \nA. 10°; \nB. 50°;\nC. 80°;\nD. 100°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vì hai góc xOt và tOy là hai góc kề bù nên  +  = 180.\nMà  = 80° nên 80° +  = 180 . \nSuy ra  = 180° - 80° = 100°.\nVậy  = 100°.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 28. Chọn câu đúng trong các câu sau:\nA. Hai đường thẳng song song có các góc đồng vị không bằng nhau;\nB. Hai đường thẳng song song có một điểm chung;\nC. Hai đường thẳng cắt nhau thì song song;\nD. Cả A, B, C đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nHai đường thẳng song song là hai đường thẳng không có điểm chung và các góc\nđồng vị bằng nhau."
+    },
+    {
+        "problem": "Câu 30. Chọn khẳng định đúng trong những khẳng định sau đây.\nA. Chứng minh định lí là dùng lập luận để từ giả thiết suy ra kết luận;\nB. Định lí là một khẳng định được suy ra từ những khẳng định được coi là đúng;\nC. A, B đều đúng;\nD. A, B đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTheo lí thuyết ta có:\nChứng minh định lí là dùng lập luận để từ giả thiết suy ra kết luận.\nĐịnh lí là một khẳng định được suy ra từ những khẳng định được coi là đúng.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 33. Chọn câu đúng\nA. Giả thiết của định lý là điều cho biết;\nB. Kết luận của định lý là điều được suy ra;\nC. Giả thiết của định lý là điều được suy ra;\nD. Cả A, Bđều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nGiả thiết của định lí là điều cho biết. \nKết luận của định lí là điều được suy ra.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 34. Hãy chỉ ra giải thiết của định lí sau: Nếu một đường thẳng cắt hai đường thẳng sao cho có một cặp góc so le trong bằng nhau thì hai đường thẳng đó song song.\nA. Một đường thẳng cắt hai đường thẳng sao cho có một cặp góc so le trong bằng nhau;\nB. Hai đường thẳng đó song song;\nC. Đáp án A và B đúng;\nD. Đáp án A và B sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGiả thiết là: Một đường thẳng cắt hai đường thẳng sao cho có một cặp góc so le trong bằng nhau.\nVậy chọn đáp án A."
+    }
+]

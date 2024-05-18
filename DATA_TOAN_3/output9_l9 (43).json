@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Xét quan hệ giữa hai góc trong mỗi biểu thức rồi tính:\na) \\(\\dfrac{{\\sin {{32}^0}}}{{\\cos {{58}^0}}};\\)\nb) \\(\\tan {76^o} - \\cot {14^0}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức : Cho hai góc \\(\\alpha \\) và \\(\\beta \\) phụ nhau \\(\\left( {\\alpha  + \\beta  = {{90}^o}} \\right)\\). Ta có:\n\\(\\sin \\alpha  = \\cos \\beta ;\\,\\,\\cos \\alpha  = \\sin \\beta ;\\,\\tan \\alpha  = \\cot \\beta ;\\,\\,\\cot \\alpha  = \\tan \\beta \\)\nLời giải chi tiết\na) Ta có : \\({32^o} + {58^o} = {90^o},\\) do đó hai góc \\({32^o}\\) và \\({58^o}\\) là hai góc phụ nhau nên \\(\\sin {32^o} = \\cos {58^o}\\)\nVậy  \\(\\dfrac{{\\sin {{32}^o}}}{{\\cos {{58}^o}}} = \\dfrac{{\\cos {{58}^o}}}{{\\cos {{58}^o}}} = 1\\)\nb) Ta có : \\({76^o} + {14^o} = {90^o},\\)do đó hai góc \\({76^o}\\) và \\({14^o}\\) là hai góc phụ nhau nên \\(\\tan {76^o} = \\cot {14^o}\\)\nVậy  \\(\\tan {76^o} - \\cot {14^o} = \\cot {14^o} - \\cot {14^o} = 0.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Có góc nhọn x nào mà\na) sin x = 1,010 ?                     b) cos x = 2,354 ?                    c) tan x = 1,675 ?\nNếu có, hãy dùng bảng số hoặc máy tính bỏ túi để tìm x ( làm tròn đến phút)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a; b) Vận dụng kiến thức : Cho góc nhọn \\(\\alpha \\). Ta có:\n\\(0 < \\sin \\alpha  < 1;\\,\\,0 < \\cos \\varepsilon  < 1;\\)\\(\\,{\\sin ^2}\\alpha  + {\\cos ^2}\\alpha  = 1\\)\n\\(\\tan \\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }};\\)\\(\\cot \\alpha  = \\dfrac{{\\cos \\alpha }}{{\\sin \\alpha }};\\,\\tan \\alpha .\\cot \\alpha  = 1\\)\nc) Dùng máy tính bỏ túi hoặc bảng số để tìm giá trị của x.\nLời giải chi tiết\na) Vì với mọi góc nhọn \\(\\alpha \\), ta đều có \\(0 < \\sin \\alpha  < 1\\) nên không có góc nhọn x nào mà \\(\\sin {\\rm{ }}x = 1,010.\\)\nb) Vì với mọi góc nhọn \\(\\alpha \\), ta đều có \\(0 < \\cos \\alpha  < 1\\) nên không có góc nhọn x nào mà \\(\\cos x = 2,354.\\)\nc) \\(\\tan {\\rm{ x = 1,675}}\\) suy ra \\(x \\approx {59^o}9'\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy so sánh\na) \\(\\sin {20^0}\\) và \\(\\sin {70^0}\\) ;\nb) \\(\\cos {25^0}\\) và \\(\\cos {63^0}{15'}\\) ;\nc) \\(\\tan {73^0}20'\\) và \\(\\tan {45^0}\\) ;\nd) \\(\\cot {2^0}\\) và \\(\\cot {37^0}40'\\) .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức : Khi góc \\(\\alpha \\) tăng từ \\({0^o}\\) đến \\({90^o}\\left( {{0^o} < \\alpha  < {{90}^o}} \\right)\\) thì \\(\\sin \\alpha \\) và \\(\\tan \\alpha \\) tăng còn \\(\\cos \\alpha \\) và \\(\\cot \\alpha \\) giảm.\nLời giải chi tiết\nTa có : Khi \\(\\alpha \\) tăng từ \\({0^o}\\) đến \\({90^o}\\) thì \\(\\sin \\alpha \\) và \\(\\tan \\alpha \\) tăng còn \\(\\cos \\alpha \\) và \\(\\cot \\alpha \\) giảm. Bởi vậy :\na) \\(\\sin {20^o} < \\sin {70^o}\\)\nb) \\(\\cos {25^o} > \\cos {63^o}15'\\)\nc) \\(\\tan {73^o}20' > \\tan {45^o}\\)\nd) \\(\\cot {2^o} > \\cot {37^o}40'\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy tính\na) \\(\\dfrac{{\\sin {{25}^0}}}{{\\cos {{65}^0}}};\\)\nb) \\(\\tan {58^0} - \\cot {32^0}\\) .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức : Cho hai góc \\(\\alpha \\) và \\(\\beta \\) phụ nhau \\(\\left( {\\alpha  + \\beta  = {{90}^o}} \\right)\\). Ta có:\n\\(\\sin \\alpha  = \\cos \\beta ;\\,\\,\\cos \\alpha  = \\sin \\beta ;\\)\\(\\tan \\alpha  = \\cot \\beta ;\\,\\,\\cot \\alpha  = \\tan \\beta .\\)\nLời giải chi tiết\na) Vì hai góc \\({25^o}\\) và \\({65^o}\\) là hai góc phụ nhau nên \\(\\sin {25^o} = \\cos {65^o},\\) do đó :\n\\(\\dfrac{{\\sin {{25}^o}}}{{\\cos {{65}^o}}} = \\dfrac{{\\cos {{65}^o}}}{{\\cos {{65}^o}}} = 1.\\)\nb) Vì hai góc \\({58^o}\\) và \\({32^o}\\) là hai góc phụ nhau nên \\(\\tan {58^o} = \\cot {32^o},\\) do đó :\n\\(\\tan {58^o} - \\cot {32^o}\\)\\(= \\cot {32^o} - \\cot {32^o} = 0.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy sắp xếp các tỉ số lượng giác sau theo thứ tự tăng dần :\na) \\(\\sin {78^0},cos{14^0},\\sin {47^0},cos{87^0};\\)\nb) \\(\\tan {73^o},\\,\\,\\cot {25^o},\\,\\,\\tan {62^o},\\,\\,\\cot {38^o}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức :\n-  Cho hai góc \\(\\alpha \\) và \\(\\beta \\) phụ nhau \\(\\left( {\\alpha  + \\beta  = {{90}^o}} \\right)\\). Ta có:\n\\(\\sin \\alpha  = \\cos \\beta ;\\,\\,\\cos \\alpha  = \\sin \\beta ;\\)\\(\\tan \\alpha  = \\cot \\beta ;\\,\\,\\cot \\alpha  = \\tan \\beta .\\)\n- Khi góc \\(\\alpha \\) tăng từ \\({0^o}\\) đến \\({90^o}\\left( {{0^o} < \\alpha  < {{90}^o}} \\right)\\) thì \\(\\sin \\alpha \\) và \\(\\tan \\alpha \\) tăng còn \\(\\cos \\alpha \\) và \\(\\cot \\alpha \\) giảm để so sánh các góc rồi sắp xếp theo thứ tự tăng dần.\nLời giải chi tiết\na) Ta có : \\(\\cos {14^o} = \\sin \\left( {{{90}^o} - {{14}^o}} \\right) = \\sin {76^o}\\)\n\\(\\cos {87^o} = \\sin \\left( {{{90}^o} - {{87}^o}} \\right) = \\sin {3^o}\\)\nVà \\({3^o} < {47^o} < {76^o} < {78^o}\\)\nVì khi \\(\\alpha \\) tăng từ \\({0^o}\\) đến \\({90^o}\\left( {{0^o} < \\alpha  < {{90}^o}} \\right)\\) thì \\(\\sin \\alpha \\)tăng nên ta có :\n\\(\\sin {3^o} < \\sin {47^o} < \\sin {76^o} < \\sin {78^o}\\)\nBởi vậy \\(\\cos {87^o} < \\sin {47^o} < \\cos {14^o} < \\sin {78^o}\\).\nb) Ta có : \\(\\cot {25^o} = \\tan \\left( {{{90}^o} - {{25}^o}} \\right) = \\tan {65^o}\\)\n\\(\\cot {38^o} = \\tan \\left( {{{90}^o} - {{38}^o}} \\right) = \\tan {52^o}\\)\nVà \\({52^o} < {62^o} < {65^o} < {73^o}\\)\nVì khi \\(\\alpha \\) tăng từ \\({0^o}\\) đến \\({90^o}\\left( {{0^o} < \\alpha  < {{90}^o}} \\right)\\) thì \\(\\tan \\alpha \\) giảm nên ta có :\n\\(\\tan {73^o} < \\tan {65^o} < \\tan {62^o} < \\tan {52^o}\\)\nBởi vậy \\(\\tan {73^o} < \\cot {25^o} < \\tan {62^o} < \\cot {38^o}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho x là một góc nhọn. Biểu thức sau đây có giá trị âm hay dương ? Vì sao ?\na) sinx – 1\nb) 1 – cosx",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức : Với góc nhọn \\(\\alpha \\) ta có : \\(0 < \\sin \\alpha  < 1;\\,\\,0 < \\cos \\alpha  < 1\\)\nLời giải chi tiết\na) Vì với góc nhọn x bất kì, ta luôn có \\(0 < \\sin {\\rm{ x}} < 1\\) nên \\(\\sin {\\rm{ }}x - 1 < 0.\\)\nb) Vì với góc nhọn x bất kì, ta luôn có \\(0 < \\cos {\\rm{ x < 1}}\\) nên \\(1 - \\cos {\\rm{ x > 0}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy so sánh\na) tan 25o và sin25o\nb) cot32o và cos32o\nc) tan45o và cos45o\nd) cot60o và sin30o",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Vận dụng kiến thức : Với góc nhọn \\(\\alpha \\) ta có :\\(\\tan \\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }};\\,\\,\\cot \\alpha  = \\dfrac{{\\cos \\alpha }}{{\\sin \\alpha }}\\) và \\(0 < \\sin \\alpha  < 1;\\,\\,0 < \\cos \\alpha  < 1\\).\n- Khi chia số \\(a\\) với một số nhỏ hơn (hoặc lớn hơn) \\(1\\) thì được kết quả có giá trị lớn hơn (hoặc nhỏ hơn) \\(a\\).\nLời giải chi tiết\na) Vì \\(\\tan {25^o} = \\dfrac{{\\sin {{25}^o}}}{{\\cos {{25}^o}}}\\) mà \\(\\cos {25^o} < 1\\) nên \\(\\tan {25^o} > \\sin {25^o}.\\)\nb) Vì \\(\\cot {32^o} = \\dfrac{{\\cos {{32}^o}}}{{\\sin {{32}^o}}}\\) mà \\(\\sin {32^o} < 1\\) nên \\(\\cot {32^o} > \\cos {32^o}.\\)\nc) Vì \\(\\tan {45^o} = \\dfrac{{\\sqrt 2 }}{2}\\) mà \\(\\cos {45^o} < 1\\) nên \\(\\tan {45^o} > \\cos {45^o}.\\)\nd) Vì \\(\\cot {60^o} = \\dfrac{{\\sqrt 3 }}{3}\\) mà \\(\\sin {30^o} =\\dfrac{1}{2}\\) nên \\(\\cot {60^o} > \\sin{30^o}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong hình 45, \\(AC = 8cm,\\,\\,AD = 9,6cm,\\,\\,\\widehat {ABC} = {90^o},\\)\\(\\widehat {ACB} = {54^o},\\,\\,\\widehat {ACD} = {74^o}.\\) Hãy tính\na) AB (làm tròn đến chữ số thập phân thứ ba)\nb) \\(\\widehat {ADC}\\) (làm tròn đến phút).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Dùng kiến thức về tỉ số lượng giác \\(\\sin \\alpha  = \\dfrac{\\text{cạnh đối}}{\\text{cạnh huyền}}\\)\nb) Tìm độ dài cạnh\\(AH.\\)\nTìm độ lớn của góc \\(ADC.\\)\nLời giải chi tiết\na) Trong tam giác \\(ABC,\\)ta có : \\(AB = AC.\\sin \\widehat {ACB}\\)\\( = 8.\\sin {54^o} \\approx 6,472\\left( {cm} \\right).\\)\nb) Kẻ \\(AH\\) vuông góc với \\(CD\\left( {H \\in CD} \\right).\\) Trong tam giác vuông \\(AHC,\\) ta có :\n\\(AH = AC.\\sin \\widehat {ACD} \\)\\(= 8.\\sin {74^o} \\approx 7,690\\left( {cm} \\right).\\)\nTrong tam giác vuông \\(AHD,\\) ta có :\n\\(\\sin D = \\dfrac{{AH}}{{AD}} \\approx 7,690:9,6 \\approx 0,801 \\)\\(\\Rightarrow \\widehat D = {53^o}13'.\\)\nLoigiaihay.com"
+    }
+]

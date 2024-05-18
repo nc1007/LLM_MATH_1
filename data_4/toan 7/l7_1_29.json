@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "B. Chiều cao trung bình của học sinh lớp 7 (đơn vị tính là mét);\nC. Số học sinh giỏi của khối 7;\nD. Các môn thể thao yêu thích của các bạn trong lớp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDữ liệu là tên các môn thể thao học sinh yêu thích nên không phải số liệu."
+    },
+    {
+        "problem": "Câu 2. Trong cuộc khảo sát tìm hiểu về cách học của học sinh lớp 7B được kết quả như sau:\nCó 20 học sinh học qua đọc, viết;\nCó 10 học sinh trong lớp học qua nghe;\nCó 10 học sinh trong lớp học qua vận động;\nCó 5 học sinh học qua quan sát.\nKhẳng định nào sau đây là đúng?\nA. Kết quả trên là thu thập không có số liệu.\nB. Kết quả trên là thu thập không phải là số.\t\nC. Kết quả trên gồm cả dữ liệu là số liệu và dữ liệu không phải là số.\nD. Kết quả trên là dữ liệu phần trăm không phải dữ liệu là số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCác hình thức học: đọc viết; nghe; vận động; quan sát. Đây là dữ liệu không phải là số.\nSố lượng học sinh có cách học qua đọc, viết; nghe; vận động; quan sát lần lượt là: 20, 10, 10, 5. Dữ liệu này là số liệu."
+    },
+    {
+        "problem": "Câu 3. Thu thập số liệu về hứng thú học tập các bộ môn của học sinh lớp 7A được kết quả như sau:\nToán\nNgữ văn\nKhoa học tự nhiên\nLịch sử và Địa lí\nTin học\nGiáo dục công dân\nNgoại ngữ\nCông nghệ\nGiáo dục thể chất\nÂm nhạc\nHoạt động trải nghiệm, hướng nghiệp\n50%\n30%\n45%\n30%\n30%\n40%\n60%\n30%\n70%\n20%\n100%\nHọc sinh lớp 7A yêu thích môn học nào nhất?\nA. Toán;\nB. Hoạt động trải nghiệm, hướng nghiệp;\nC. Giáo dục thể chất;\nD. Ngoại ngữ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nMôn Hoạt động trải nghiệm, hướng nghiệp được 100% học sinh yêu thích."
+    },
+    {
+        "problem": "Câu 4. Cho bảng thống kê về mức độ ảnh hưởng (đơn vị %) của các yếu tố đến chiều cao của trẻ:\nYếu tố\nVận động\nDi truyền\nDinh dưỡng\nGiấc ngủ và môi trường\nYếu tố khác\nMức độ ảnh hưởng (%)\n20\n23\n32\n16\n9\nNgoài yếu tố di truyền, ba yếu tố ảnh hưởng nhiều nhất đến chiều cao chiếm tổng cộng bao nhiêu phần trăm?\nA. 65%;\nB. 66%;\nC. 67%;\nD. 68%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nNgoài yếu tố di truyền, ba yếu tố ảnh hưởng nhiều nhất đến chiều cao là: \nDinh dưỡng: 32%; vận động: 20%; giấc ngủ và môi trường: 16%.\nTổng mức độ ảnh hưởng của ba yếu tố này là: 32% + 20% + 16% = 68%.\nVậy ba yếu tố dinh dưỡng; vận động; giấc ngủ và môi trường ảnh hưởng 68% đến chiều cao."
+    },
+    {
+        "problem": "Câu 5. Cho bảng thống kê lượng mưa tại trạm khí tượng Hà Nội trong sáu tháng cuối năm 2017.\nTháng\n7\n8\n9\n10\n11\n12\nLượng mưa (mm)\n449,1\n283,2\n266,9\n259,7\n19,4\n47,5\nTrong các tháng trên, tháng nào có lượng mưa nhiều nhất?\nA. Tháng 7;\nB. Tháng 8;\nC. Tháng 9;\nD. Tháng 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTháng 7 có lượng mưa là 449,1mm. Đây là tháng có lượng mưa nhiều nhất trong các tháng trên."
+    },
+    {
+        "problem": "Câu 7. Cho bảng thống kê số lượt khách du lịch (ước đạt) đến Ninh Bình trong các năm 2016, 2017, 2018.\nNăm\n2016\n2017\n2018\nSố lượt (triệu lượt)\n6,44\n7,06\n7,3\nSố lượt khách du lịch đến Ninh Bình trong năm 2018 tăng bao nhiêu phần trắm so với năm 2016 (làm tròn kết quả đến hàng phần trăm)?\nA. 13,33%;\nB. 13,34%;\nC. 13,35%;\nD. 13,36%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTỉ số phần trăm số khách du lịch đến Ninh Bình trong năm 2018 so với năm 2016 là:\n(7,3 : 6,44). 100% = 113,354037… % ≈ 113,35%\nVậy số lượt khách du lịch đến Ninh Bình trong năm 2018 tăng so với năm 2016 khoảng:\n113,35% - 100% = 13,35% \nVậy số lượt khách du lịch đến Ninh Bình năm 2018 tăng 13,35% so với năm 2016."
+    },
+    {
+        "problem": "Câu 14. Tung ngẫu nhiên hai đồng xu cân đối. Trong các biến cố sau, biến cố nào không là biến cố ngẫu nhiên?\nA. “Số đồng xu xuất hiện mặt sấp không vượt quá 2\";\nB. “Số đồng xu xuất hiện mặt sấp gấp 2 lần số đồng xu xuất hiện mặt ngửa”;\nC. “Có ít nhất một đồng xu xuất hiện mặt sấp”;\nD. “Số đồng xu xuất hiện mặt ngửa gấp 2 lần số đồng xu xuất hiện mặt sấp”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hướng dẫn giải\nĐáp án đúng là: A\nVì đồng xu chỉ có 2 mặt nên sự kiện “số đồng xu xuất hiện mặt sấp không vượt quá 2” chắc chắn xảy ra, ta có thể biết được sự kiện này sẽ xảy ra trước khi thực hiện phép thử nên đây không phải là biến cố ngẫu nhiên. Do đó phương án A đúng.\nKhi tung đồng xu thì mặt xuất hiện (ngửa hoặc sấp) của đồng xu là ngẫu nhiên nên ta không thể biết được số đồng xu xuất hiện mặt sấp là bao nhiêu và số đồng xu xuất hiện mặt ngửa là bao nhiêu. Do đó phương án B, C và D là biến cố ngẫu nhiên, không chắc chắn xảy ra."
+    },
+    {
+        "problem": "Câu 15. Đội múa có 1 bạn nam và 5 bạn nữ. Chọn ngẫu nhiên 1 bạn để phỏng vấn. Biết mỗi bạn đều có khả năng được chọn. Tính xác suất của biến cố “Bạn được chọn là nam”.\nA. 1;\nB. \\frac{1}{5};\nC. \\frac{5}{6};\nD. \\frac{1}{6}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nMỗi bạn đều có khả năng được chọn nên có 6 kết quả có thể xảy ra.\nCó một kết quả thuận lợi cho biến cố “Bạn được chọn là nam”.\nXác suất của biến cố bạn được chọn là nam là \\frac{1}{6}."
+    },
+    {
+        "problem": "Câu 19. Kiểm tra thị lực của học sinh trường THCS, ta thu được kết quả:\nKhối\nSố học sinh\nSố học sinh bị tật khúc xạ (cận thị, viễn thị, loạn thị)\n6\n210\n14\n7\n200\n30\n8\n180\n40\n9\n170\n51\nXác suất của biến cố “Học sinh bị khúc xạ lớn nhất” là khối:\nA. Khối 6;\nB. Khối 7;\nC. Khối 8;\nD. Khối 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nXác suất của biến cố “Học sinh bị khúc xạ”:\n+ Khối 6: \\frac{14}{210}=\\frac{1}{15}; \n+ Khối 7: \\frac{30}{200}=\\frac{3}{20};\n+ Khối 8: \\frac{40}{180}=\\frac{2}{9};\n+ Khối 9: \\frac{51}{170}=\\frac{3}{10}.\nTa có: \\frac{1}{15}=\\frac{12}{180};\\frac{3}{20}=\\frac{27}{180};\\frac{2}{9}=\\frac{40}{180};\\frac{3}{10}=\\frac{54}{180}\nDo \\frac{54}{180}>\\frac{40}{180}>\\frac{27}{180}>\\frac{12}{180}nên \\frac{3}{10}>\\frac{2}{9}>\\frac{3}{20}>\\frac{1}{15} nên xác suất của biến cố “Học sinh bị khúc xạ lớn nhất” là khối 9."
+    },
+    {
+        "problem": "Câu 21. Cho dãy số liệu về cân nặng (theo đơn vị kilogam) của 15 học sinh lớp 7 như sau: 40, 39, 41, 45, 41, 42, 40, 42, 40, 41, 43, 40, 42, 45, 42. Chọn ngẫu nhiên 1 bạn trong 15 bạn này. Tính xác suất của biến cố “Bạn được chọn có cân nặng là 45 kg”.\nA. \\frac{1}{15};\nB. \\frac{2}{15};\nC. \\frac{3}{15};\nD. \\frac{4}{15}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTrong 15 bạn có 2 bạn có cân nặng là 45 kg. \nXác suất của biến cố “Bạn được chọn có cân nặng là 45 kg” là \\frac{2}{15}."
+    },
+    {
+        "problem": "Câu 28. Trong chuyến du lịch tại Đà Nẵng, Nhi quen được một người bạn mới cũng là người Việt Nam nhưng lại quên quê hương của người bạn ấy. Hỏi có tất cả bao nhiêu tỉnh thành có thể là quê hương của người bạn mới đó?\nA. 43;\nB. 53;\nC. 63;\nD. 73.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì Việt Nam có tất cả 63 tỉnh nên quê hương của bạn mới đó có thể là 1 trong 63 tỉnh."
+    },
+    {
+        "problem": "Câu 29. Một cuộc khảo sát phương tiện đi làm trong toàn thể nhân viên của một công ty như sau:\nPhương tiện\nXe buýt\nXe đạp\nXe máy\nXe ô tô cá nhân\nPhương tiện khác\nSố người\n35\n5\n20\n7\n0\nTỉ lệ tổng số người đi hai loại phương tiện nhiều nhất và ít nhất so với tổng số người của công ty là:\nA. \\frac{40}{67};\nB. \\frac{35}{67};\nC. \\frac{5}{67};\nD. \\frac{12}{67}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nXe buýt là phương tiện có số người đi nhiều nhất: 35 người.\nXe đạp phương tiện ít người đi nhất: 5 người.\nTổng số người đi hai loại phương tiện này là 35 + 5 = 40 (người).\nTổng số nhân viên trong công ty là: 35 + 5 + 20 + 7 = 67 (người).\nTỉ lệ tổng số người đi hai loại phương tiện nhiều nhất và ít nhất so với tổng số người của công ty là: \\frac{40}{67}."
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "B. Biểu đồ đoạn thẳng là đường gấp khúc nối từng điểm liên tiếp bằng các đoạn thẳng;\nC. Mỗi điểm đầu mút của các đoạn thẳng trong đường gấp khúc được xác định bởi một đối tượng thống kê và số liệu thống kê theo tiêu chí của đối tượng đó.\nD. Trục nằm ngang biểu diễn tiêu chí thống kê và trên trục đó đã xác định độ dài đơn vị thống kê.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nBiểu đồ đoạn thẳng có trục thẳng đứng biểu diễn tiêu chí thống kê và trên trục đó đã xác định độ dài đơn vị thống kê."
+    }
+]

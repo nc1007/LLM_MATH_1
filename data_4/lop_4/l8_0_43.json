@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : Cho hình vẽ như sau:  \nGóc đã cho có đỉnh là:\nA.\tĐỉnh O\nB.\tĐỉnh M\nC.\tĐỉnh N\nD.\tTất cả các đán án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình trên ta thấy góc đã cho có đỉnh O,  cạnh OM và ON."
+    },
+    {
+        "problem": "Câu 2 : Cho hình vẽ như sau: \nGóc đã cho có cạnh là:\nA.\tCạnh HDC\nB.\tCạnh DH, HC\nC.\tCạnh DH, DC\nD.\tCạnh DC, HC",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình vẽ ta thấy góc đã cho có đỉnh D,  cạnh DH, DC."
+    },
+    {
+        "problem": "Câu 3 : Trong hình dưới đây, góc đỉnh O cạnh OA và OB là góc nhọn. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhìn hình trên ta thấy góc đỉnh O cạnh OA và OB là góc nhọn.\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 4 : Cho hình vẽ như sau: \nGóc đỉnh A là góc gì?\nA.\tGóc nhọn\nB.\tGóc tù\nC.\tGóc vuông\nD.\tGóc bẹt",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình vẽ ta thấy góc đỉnh A cạnh AB, AC là góc tù."
+    },
+    {
+        "problem": "Câu 7 : Cho hình vẽ như bên dưới:  \nTrong hình vẽ trên có:\nA.\t1 góc tù, 1 góc nhọn, 1 góc vuông\nB.\t1 góc vuông, 2 góc nhọn\nC.\t1 góc vuông, 2 góc tù\nD.\t1 góc tù, 2 góc nhọn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhìn hình trên ta đếm được:\n\t- 2 góc nhọn:\n+ Góc nhọn đỉnh A; cạnh AO, AB.\n+ Góc nhọn đỉnh B; cạnh BA, BO.\n- 1 góc tù đỉnh O; cạnh OA, OB.\nVậy hình đã cho có 1 góc tù, 2 góc nhọn.\n\n- 2 góc nhọn:\n+ Góc nhọn đỉnh A; cạnh AO, AB.\n+ Góc nhọn đỉnh B; cạnh BA, BO.\n- 1 góc tù đỉnh O; cạnh OA, OB.\nVậy hình đã cho có 1 góc tù, 2 góc nhọn."
+    },
+    {
+        "problem": "Câu 10 : Cho hình vẽ như sau: \nSố góc nhọn có trong hình vẽ trên là:\nA.\t4\nB.\t5\nC.\t6\nD.\t7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hình đã cho có 6 góc nhọn:\n- Góc nhọn đỉnh M; cạnh MN, MP.\n- Góc nhọn đỉnh N; cạnh NM, NP .\n- Góc nhọn đỉnh N; cạnh NM, NQ .\n- Góc nhọn đỉnh N; cạnh NQ, NP .\n- Góc nhọn đỉnh P; cạnh PN, PM .\n- Góc nhọn đỉnh Q; cạnh QM, QN ."
+    },
+    {
+        "problem": "Câu 11 : Cho hình vẽ như sau: \nHình dưới trên có bao nhiêu góc nhọn?  Bao nhiêu góc vuông?\nA.\t9 góc nhọn, 2 góc vuông\nB.\t8 góc nhọn, 1 góc vuông\nC.\t8 góc nhọn, 2 góc vuông\nD.\t7 góc nhọn, 3 góc vuông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hình đã cho có:\n- 9 góc nhọn:\n+ Góc nhọn đỉnh A; cạnh AB và AC.\n+ Góc nhọn đỉnh A; cạnh AB và AD.\n+ Góc nhọn đỉnh A; cạnh AB và AE.\n+ Góc nhọn đỉnh A; cạnh AD và AC.\n+ Góc nhọn đỉnh A; cạnh AD và AE.\n+ Góc nhọn đỉnh A; cạnh AE và AC .\n+ Góc nhọn đỉnh B; cạnh BA và BC.\n+ Góc nhọn đỉnh C; cạnh CA và CB.\n+ Góc nhọn đỉnh E; cạnh EA và EB.\n- 2 góc vuông:\n+ Góc vuông đỉnh D; cạnh AD và DB.\n+ Góc vuông đỉnh D; cạnh AD và DC (hoặc cạnh AD và DE ).\nVậy hình đã cho có 9 góc nhọn và 2 góc vuông."
+    }
+]

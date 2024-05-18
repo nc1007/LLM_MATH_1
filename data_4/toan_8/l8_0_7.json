@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Bài 1: Hãy chọn câu sai?\nA. Nếu a > b và c < 0 thì ac > bc.\nB. Nếu a < b và c < 0 thì ac > bc.\nC. Nếu a ≥ b và c < 0 thì ac ≤ bc.\nD. Nếu a ≥ b và c > 0 thì ac ≥ bc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nKhi nhân cả hai vế của một bất đẳng thức với cùng một số âm, ta được một bất đẳng thức mới cùng chiều với bất đẳng thức đã cho.\nTừ đó với a > b và c < 0 thì ac < bc nên A sai.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 2: Cho a > b và c > 0, chọn kết luận đúng?\nA. ac > bc\nB. ac > 0\nC. ac ≤ bc\nD. bc > ac",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nKhi nhân cả hai vế của bất đẳng thức với cùng một số dương, ta được một bất đẳng thức mới cùng chiều với bất đẳng thức đã cho.\nTừ đó với a > b và c > 0 thì ac > bc nên A đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Hãy chọn câu đúng. Nếu a > b thì?\nA. -3a - 1 > -3b - 1\nB. -3(a - 1) < -3(b - 1)\nC. -3(a - 1) > -3(b - 1)\nD. 3(a - 1) < 3(b - 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Với a > b, nhân cả hai vế của bất đẳng thức với -3 ta được -3a < -3b.\nTiếp tục cộng hai vế của bất đẳng thức với -1 ta được -3a - 1 < -3b - 1 nên A sai.\n+ Vì a > b ⇔ a - 1 > b - 1 ⇔ -3(a - 1) < -3(b - 1) nên B đúng, C sai\n+ Vì a > b ⇔ a - 1 > b - 1 ⇔ 3(a - 1) > 3(b - 1) nên D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 4: Hãy chọn câu đúng. Nếu a > b thì?\nA. -3a + 1 > -3b + 1\nB. -3a < -3b\nC. 3a < 3b\nD. 3(a - 1) < 3(b - 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Với a > b, nhân cả hai vế của bất đẳng thức với -3 ta được: -3a < -3b.\nTiếp tục cộng hai vế của bất đẳng thức với 1 ta được: -3a + 1 < -3b + 1 nên A sai.\n+ Vì a > b và -3 < 0 nên -3a < -3b nên B đúng.\n+ Vì a > b và 3 > 0 nên 3a > 3b nên C sai.\n+ Vì a > b ⇔ a - 1 > b - 1 ⇔ 3(a - 1) > 3(b - 1) nên D sai>\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 5: Hãy chọn câu sai. Nếu a < b thì?\nA. 4a + 1 < 4b + 5.\nB. 7 - 2a > 4 - 2b.\nC. a -b < 0.\nD. 6 - 3a < 6 - 3b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Vì a < b ⇔ 4a < 4b ⇔ 4a + 1 < 4b + 1 < 4b + 5 hay 4a + 1 < 4b + 5 nên A đúng.\n+ Vì a < b ⇔ -2a > -2b ⇔ 7 - 2a > 7 - 2b > 4 - 2b ay 7 - 2a > 4 - 2b nên B đúng.\n+ Vì a < b ⇔ a - b < b - b ⇔ a - b < 0 nên C đúng.\n+ Vì a < b ⇔ -3a > -3b ⇔ 6 - 3a > 6 - 3b nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 6: Hãy chọn câu sai. Nếu a < b thì?\nA. 2a + 1 < 2b + 5\nB. 7 - 3b > 4 - 3b\nC. a - b < 0\nD. 2 - 3a < 2 - 3b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Vì a < b ⇔ 2a < 2b ⇔ 2a + 1 < 2b + 1 < 2b + 5 hay 2a + 1 < 2b + 5 nên A đúng.\n+ Vì a < b ⇔ -3a > -3b ⇔ 7 - 3a > 7 - 3b > 4 - 3b hay 7 - 3a > 4 - 3b nên B đúng.\n+ Vì a < b ⇔ a - b < b - b ⇔ a - b < 0 nên C đúng.\n+ Vì a < b ⇔ -3a > -3b ⇔ 2 - 3a > 2 - 3b nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 7: Cho a + 1 ≤ b + 2. So sánh 2 số 2a + 2 và 2b + 4 nào dưới đây là đúng?\nA. 2a +2 > 2b + 4\nB. 2a + 2 < 2b + 4\nC. 2a + 2 ≥ 2b + 4\nD. 2a + 2 ≤ 2b + 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNhân cả hai vế của bất đẳng thức a + 1 ≤ b + 2 với 2 > 0 ta được\n2(a + 1) ≤ 2(b + 2) ⇔ 2a + 2 ≤ 2b + 4.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 8: Cho a - 2 ≤ b - 1. So sánh 2 số 2a - 4 và 2b - 2 nào dưới đây là đúng?\nA. 2a - 4 > 2b - 2\nB. 2a - 4 < 2b - 2\nC. 2a - 4 ≥ 2b - 2\nD. 2a - 4 ≤ 2b - 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNhân cả hai vế của bất đẳng thức a - 2 ≤ b - 1 với 2 > 0 ta được:\n2(a - 2) ≤ 2(b - 1) ⇔ 2a - 4 ≤ 2b - 2.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 11: Cho a > b > 0. So sánh a^{2}  và ab; a^{3}  và b^{3} ?\nA. a^{2}  < ab và a^{3}  > b^{3} .\nB. a^{2}  > ab và a^{3}  > b^{3} .\nC. a^{2}  < ab và a^{3}  < b^{3} .\nD. a^{2}  > ab và a^{3}  < b^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n* Với a > b > 0 ta có:\n+) a. a > a. b ⇔ a^{2}  > ab\n+) Ta có: a^{2}  > ab ⇒ a^{2} .a > a. ab ⇔ a^{3}  > a^{2} b\nMà\na > b > 0 ⇒ ab > b.b ⇔ ab > b^{2}  ⇒ ab. a > b^{2} . b ⇒ a^{2} .b > b^{3} .\n⇒ a^{2} b > b^{3}  ⇒ a^{3}  > a^{2} b > b^{3} \n⇒ a^{3}  > b^{3} \nVậy a^{2}  > ab và a^{3}  > b^{3} .\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 12: Cho a > b > 0. So sánh a^{3} ……b^{3} , dấu cần điền vào chỗ chấm là?\nA. >\nB. <\nC. =\nD. Không đủ dữ kiện để so sánh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n* Với a > b > 0 ta có:\n+) a. a > a. b ⇔ a^{2}  > ab\n+) Ta có: a^{2}  > ab ⇒ a^{2} . a > a. ab ⇔ a^{3}  > a^{2} b\nMà a > b > 0 ⇒ ab > b. b ⇔ ab > b^{2} \n⇒ ab. a > b^{2} . b ⇒ a^{2} b > b^{3} .\n⇒ a^{2} b > b^{3}  ⇒ a^{3}  > a^{2} b > b^{3} .\n⇒ a^{3}  > b^{3} \nVậy a^{3}  > b^{3} .\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 14: Cho a, b bất kì. Chọn câu đúng nhất?\nA. a^{2}  + b^{2}  < 2ab\nB. a^{2}  + b^{2}  ≤ 2ab\nC. a^{2}  + b^{2}  ≥ 2ab\nD. a^{2}  + b^{2}  > 2ab",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét hiệu: P = a^{2}  + b^{2}  - 2ab = (a - b)^{2}  ≥ 0 (luôn đúng với mọi a, b)\nNên a^{2}  + b^{2}  > 2ab với mọi a, b.\nDấu “=” xảy ra khi a = b.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 18: Với mọi a, b, c. Khẳng định nào sau đây là đúng?\nA. a^{2}  + b^{2}  + c^{2}  ≤ 2ab + 2bc - 2ca\nB. a^{2}  + b^{2}  + c^{2}  ≥ 2ab + 2bc - 2ca\nC. a^{2}  + b^{2}  + c^{2}  = 2ab + 2bc - 2ca\nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có:\na^{2}  + b^{2}  + c^{2}  - (2ab + 2bc - 2ca)\n= a^{2}  + b^{2}  + c^{2}  - 2ab - 2bc + 2ca\n= a^{2}  + b^{2}  + c^{2}  + 2a(-b) + 2c(-b) + 2ac\n= [a + (-b) + c]^{2} \n= (a - b + c)^{2}  ≥ 0, \"a, b, c\nDo đó a^{2}  + b^{2}  + c^{2}  - (2ab + 2bc - 2ca) ≥ 0\n⇒ a^{2}  + b^{2}  + c^{2}  ≥ 2ab + 2bc - 2ca\nDấu “=” xảy ra khi a - b + c = 0.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 21: Bất đẳng thức nào sau đây đúng với mọi a > 0, b > 0?\nA. a^{3}  + b^{3}  - ab^{2}  - a^{2} b < 0\nB. a^{3}  + b^{3}  - ab^{2}  - a^{2} b ≥ 0\nC. a^{3}  + b^{3}  - ab^{2}  - a^{2} b ≤ 0\nD. a^{3}  + b^{3}  - ab^{2}  - a^{2} b > 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có a^{3}  + b^{3}  - ab^{2}  - a^{2} b = a^{2} (a - b) - b^{2} (a - b)\n= (a - b)^{2} (a + b) ≥ 0 (vì (a - b)^{2}  ≥ 0 với mọi a, b và a + b > 0 với a > 0, b > 0).\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 22: Bất đẳng thức nào sau đây đúng với mọi a > 0, b > 0?\nA. a^{3}  + b^{3}  ≤ ab^{2}  + a^{2} b\nB. a^{3}  + b^{3}  ≥ ab^{2}  + a^{2} b\nC. ab^{2}  + a^{2} b = a^{3}  + b^{3 } \n^{D.}  ab^{2}  + a^{2} b > a^{3}  + b^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: a^{3}  + b^{3}  - ab^{2}  - a^{2} b = a^{2} (a - b) - b^{2} (a - b)\n= (a - b)^{2} (a + b) ≥ 0 (vì (a - b)^{2}  ≥ 0 với mọi a, b và a + b > 0 với a > 0, b > 0).\nDo đó a^{3}  + b^{3}  - ab^{2}  - a^{2} b ≥ 0 hay a^{3}  + b^{3}  ≥ ab^{2}  + a^{2} b.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 27: So sánh m và m^{2}  với 0 < m < 1?\nA. m^{2}  > m\nB. m^{2}  < m\nC. m^{2}  ≥ m\nD. m^{2}  ≤ m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét hiệu m^{2}  - m = m(m - 1) ta có:\nVì 0 < m < 1 ⇒ m - 1 < 0 ⇒ m(m - 1) < 0.\nHay m^{2}  - m < 0 ⇔ m^{2}  < m.\nVậy m^{2}  < m.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 28: So sánh m^{3}  và m^{2}  với 0 < m < 1?\nA. m^{2}  > m^{3} \nB. m^{2}  < m^{3} \nC. m^{3}  = m^{2} \nD. Không so sánh được",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét hiệu m^{2}  - m^{3}  = m^{2}  (1 - m) ta có:\nVì 0 < m < 1 ⇒ 1 - m > 0 ⇒ m^{2}  (1 - m) > 0\nHay m^{2}  - m^{3}  > 0 ⇔ m^{2}  > m^{3} .\nVậy m^{2}  > m^{3} .\nĐáp án cần chọn là: A"
+    }
+]

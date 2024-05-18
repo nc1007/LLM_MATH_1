@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 1 : Con hãy chọn đáp án đúng nhất: \nA.\tKhi nhân một số tự nhiên với 10 ta chỉ việc thêm một chữ số 0 vào bên phải số đó\nB.\tKhi nhân một số tự nhiên với 100 ta chỉ việc thêm hai chữ số 0 vào bên phải số đó\nC.\tKhi nhân một số tự nhiên với 1000 ta chỉ việc thêm ba chữ số 0 vào bên phải số đó\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân số tự nhiên với 10,100,1000,... ta chỉ việc viết thêm một, hai, ba ... chữ số 0 vào bên phải số đó.\nVậy tất cả các đáp án A, B, C đều đúng.\nChọn D"
+    },
+    {
+        "problem": "Câu 4 : Tính nhẩm: 2350 x 1000 = ?  \nA.\t23500\nB.\t235000\nC.\t2350000\nD.\t23500000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số tự nhiên với 1000 ta chỉ việc thêm ba chữ số 0 vào bên phải số đó.\nDo đó: 2350×1000=2350000"
+    },
+    {
+        "problem": "Câu 6 : An tính nhẩm: 2020000 : 1000 = 202. An tính đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi chia số tròn nghìn cho 1000 ta chỉ việc bỏ bớt ba chữ số 0 ở bên phải số đó.\nDo đó: 2020000 : 1000 = 2020\nVậy An tính sai."
+    },
+    {
+        "problem": "Câu 7 : Tính: 32400∶100×9. \nA.\t2916\nB.\t29160\nC.\t291600\nD.\t2916000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \n32400:100×9\n= 324×9\n= 2916"
+    },
+    {
+        "problem": "Câu 10 : 7480000 : 1000 ... 748 x 10   \nDấu thích hợp điền vào chỗ chấm là:\nA.\t> \nB.\t< \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n7480000:1000=7480\n748×10=7480\nMà 7480=7480\nDo đó 7480000:1000=748×10."
+    },
+    {
+        "problem": "Câu 12 :  Biết trung bình cộng của 10 số là 1072, trung bình cộng của 9 số đầu là 991. Vậy số thứ 10 là:  \nA.\t1189\nB.\t1801\nC.\t1891\nD.\t1901",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng của 10 số đó là :                 1072×10=10720\nTổng của 9 số đầu là :                 991×9=8919\nSố thứ 10  là:                         10720−8919=1801"
+    }
+]

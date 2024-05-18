@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "B.69,29\nC.69,30\nD. 69,284",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì số 69,283 có chữ số thập phân thứ ba là 3 < 5 nên làm tròn đến chữ số thập phân thứ hai ta được  69,283≈69,28\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2: Làm tròn số 0,158 đến chữ số thập phân thứ nhất ta được\nA.0,17\nB.0,159\nC.0,16\nD.0,2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì số 0,158 có chữ số thập phân thứ hai là 5 ≥ 5 nên khi làm tròn đến chữ số thập phân thứ nhất ta được  0,158≈0,2\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3: Số 60,996 được làm tròn đến hàng đơn vị là\nA.60\nB.61\nC.60,9\nD. 61,9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì số 60,996 có chữ số thập phân thứ nhất là 9 > 5 nên làm tròn đến hàng đơn vị ta được  60,996≈61\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4: Cho số 982434.  Làm tròn số này đến hàng nghìn ta được số\nA.983000\nB.982\nC.982000\nD.98200",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố 982434 có chữ số hàng trăm là 4 < 5 nên làm tròn số này đến hàng nghìn ta được  982434≈982000\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5: Cho số 1,3765.  Làm tròn số này đến hàng phần nghìn ta được số\nA.1,377\nB.1,376\nC.1,3776\nD.1,38",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố 1,3765 có chữ số hàng phần chục nghìn là 5 ≥ 5 nên làm tròn số này đến hàng phần nghìn ta được 1,3765≈1,377\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6: Có 21292 người ở lễ hội ẩm thực. Hỏi lễ hội có khoảng bao nhiêu nghìn người?\nA.22000 người\nB.21000 người\nC.21900 người\nD.21200 người",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTừ yêu cầu đề bài ta sẽ làm tròn số 21292 đến hàng nghìn.\nVì số 21292 có chữ số hàng trăm là 2 < 5 nên làm tròn số này đến hàng nghìn ta được 21292≈21000\nVậy lễ hội có khoảng 21000 người.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7: Thực hiện phép tính (4,375 + 5,2) − (6,452 − 3,55) rồi làm tròn kết quả đến chữ số thập phân thứ hai, ta được kết quả là\nA.6,674\nB.6,68\nC.6,63\nD.6,67",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có  4,375+5,2−6,452−3,55=9,575−2,902=6,673\nKết quả được làm tròn đến chữ số thập phân thứ hai: 6,673≈6,67.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8: Kết quả của phép tính 7,5432 + 1,37 + 5,163 + 0,16 sau khi làm tròn đến chữ số thập phân thứ nhất là:\nA.14,4\nB.14,24\nC.14,3\nD.14,2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n 7,5432+1,37+5,163+0,16=8,9132+5,163+0,16=14,0762+0,16=14,2362\nLàm tròn kết quả 14,2362 đến chữ số thập phân thứ nhất: 14,2362≈14,2.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9: Ước lượng kết quả của phép tính \\frac{43,7+18,2}{7,8+3,9} \nA. 5\nB.  \\frac{31}{6}\nC.  \\frac{61}{9}\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có  43,7≈40;18,2≈20;7,8≈8;3,9≈4\nNên ta có  \\frac{43,7+18,2}{7,8+3,9}≈\\frac{40+20}{8+4}\nHay  \\frac{43,7+18,2}{7,8+3,9}≈5\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10: Kết quả của phép tính 7,8.5,2 + 21,7.0,8 sau khi được ước lượng là\nA.61\nB.62\nC.60\nD.63",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có  7,8≈8;5,2≈5;21,7≈20;0,8≈1\nNên  7,8.5,2+21,7.0,8≈8.5+20.1=60\nĐáp án cần chọn là: C"
+    }
+]

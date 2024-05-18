@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Em hãy nhắc lại quy tắc cộng hai phân số cùng mẫu ( có tử và mẫu dương) rồi tính các tổng \\(\\dfrac{8}{{11}} + \\dfrac{3}{{11}}\\) và \\(\\dfrac{9}{{12}} + \\dfrac{{11}}{{12}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhắc lại quy tắc cộng hai phân số cùng mẫu\n- Lấy tử cộng tử và giữ nguyên mẫu.\nLời giải chi tiết\nQuy tắc cộng hai số nguyên cùng mẫu:\nTa lấy tử số cộng với nhau và giữ nguyên mẫu số.\n+) \\(\\dfrac{8}{{11}} + \\dfrac{3}{{11}} = \\dfrac{{8 + 3}}{{11}} = \\dfrac{{11}}{{11}} = 1\\)\n+) \\(\\dfrac{9}{{12}} + \\dfrac{{11}}{{12}} = \\dfrac{{9 + 11}}{{12}} = \\dfrac{{20}}{{12}}\\)\\( = \\dfrac{{20:4}}{{12:4}} = \\dfrac{5}{3}\\)"
+    },
+    {
+        "problem": "Tính:\n\\(\\dfrac{{ - 7}}{{12}} + \\dfrac{5}{{12}}\\);   \\(\\dfrac{{ - 8}}{{11}} + \\dfrac{{ - 19}}{{11}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng 2 phân số cùng mẫu: Cộng các tử số với nhau và giữ nguyên mẫu số.\nLời giải chi tiết\n\\(\\dfrac{{ - 7}}{{12}} + \\dfrac{5}{{12}} = \\dfrac{{ - 7 + 5}}{{12}} = \\dfrac{{ - 2}}{{12}} =  \\dfrac{{ - 1}}{{6}}\\) ;\n\\(\\dfrac{{ - 8}}{{11}} + \\dfrac{{ - 19}}{{11}} = \\dfrac{{ - 8 + \\left( { - 19} \\right)}}{{11}} = \\dfrac{{ - 27}}{{11}}\\)"
+    },
+    {
+        "problem": "Để thực hiện phép cộng \\(\\dfrac{5}{7} + \\dfrac{{ - 3}}{4}\\), em hãy làm theo các bước sau:\n+ Quy đồng mẫu hai phân số \\(\\dfrac{5}{7}\\) và \\(\\dfrac{{ - 3}}{4}\\)\n+ Sử dụng quy tắc cộng hai phân số cùng mẫu để tính tổng hai phân số sau khi đã quy đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Quy đồng mẫu hai phân số \\(\\dfrac{5}{7}\\) và \\(\\dfrac{{ - 3}}{4}\\)\n+ Cộng các tử số và giữ nguyên mẫu.\nLời giải chi tiết\nTa có: \\(\\dfrac{5}{7} = \\dfrac{{5.4}}{{7.4}} = \\dfrac{{20}}{{28}}\\) và \\(\\dfrac{{ - 3}}{4} = \\dfrac{{ - 3.7}}{{4.7}} = \\dfrac{{ - 21}}{{28}}\\)\nNhư vậy, \\(\\dfrac{{20}}{{28}} + \\dfrac{{ - 21}}{{28}} = \\dfrac{{20 + \\left( { - 21} \\right)}}{{28}} =  \\dfrac{-1}{{28}}\\)"
+    },
+    {
+        "problem": "Tính \\(\\dfrac{{ - 5}}{8} + \\dfrac{{ - 7}}{{20}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Quy đồng mẫu hai phân số \\(\\dfrac{{ - 5}}{8}\\) và \\(\\dfrac{{ - 7}}{{20}}\\)\n+ Cộng các tử số và giữ nguyên mẫu.\nLời giải chi tiết\nBCNN(8,20) = 40\n\\(\\dfrac{{ - 5}}{8}+ \\dfrac{{ - 7}}{{20}} = \\dfrac{{ - 5.5}}{{8.5}} + \\dfrac{{ - 7.2}}{{20.2}} \\\\=\\dfrac{{ - 25}}{{40}}+ \\dfrac{{ - 14}}{{40}} = \\dfrac{{ - 25 + \\left( { - 14} \\right)}}{{40}} = \\dfrac{{ - 39}}{{40}}\\)"
+    },
+    {
+        "problem": "Tính các tổng \\(\\dfrac{1}{2} + \\dfrac{{ - 1}}{2}\\); \\(\\dfrac{1}{2} + \\dfrac{1}{{ - 2}}\\)\nEm có nhận xét gì về các kết quả nhận được?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa về cộng 2 phân số có cùng mẫu số\nLời giải chi tiết\n\\(\\begin{array}{l}\\dfrac{1}{2} + \\dfrac{{ - 1}}{2} = \\dfrac{{1 +(-1)}}{2} = \\dfrac{0}{2} = 0\\\\\\dfrac{1}{2} + \\dfrac{1}{{ - 2}} = \\dfrac{1}{2} + \\dfrac{1.(-1)}{{ (- 2).(-1)}} = \\dfrac{1}{2} + \\dfrac{{ - 1}}{2} =\\dfrac{0}{2} = 0\\end{array}\\)\nCác phép tính trên đều có kết quả bằng 0."
+    },
+    {
+        "problem": "Tìm số đối của các số sau: \\(\\dfrac{1}{3};\\dfrac{{ - 1}}{3}\\) và \\(\\dfrac{{ - 4}}{5}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai số gọi là đối nhau nếu hai tổng của chúng bằng 0.\n\\( - \\dfrac{a}{b} = \\dfrac{{ - a}}{b} = \\dfrac{a}{{ - b}}\\)\nLời giải chi tiết\nSố đối của \\(\\dfrac{1}{3}\\)  là \\( - \\dfrac{1}{3}\\) vì \\(\\dfrac{1}{3} + \\left( { - \\dfrac{1}{3}} \\right) = 0\\)\nSố đối của \\(\\dfrac{{ - 1}}{3}\\) là \\(\\dfrac{1}{3}\\) vì \\(\\dfrac{1}{3} + \\dfrac{{ - 1}}{3} = \\dfrac{1}{3} + \\left( { - \\dfrac{1}{3}} \\right) = 0\\)\nSố đối của \\(\\dfrac{{ - 4}}{5}\\) là \\(\\dfrac{4}{5}\\) vì \\(\\dfrac{{ - 4}}{5} + \\dfrac{4}{5} = \\dfrac{{ - 4 + 4}}{5} = 0\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí: \\(B = \\dfrac{{ - 1}}{9} + \\dfrac{8}{7} + \\dfrac{{10}}{9} + \\dfrac{{ - 29}}{7}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các phân số có cùng mẫu và cộng với nhau trước.\nLời giải chi tiết\n\\(\\begin{array}{l}B = \\dfrac{{ - 1}}{9} + \\dfrac{8}{7} + \\dfrac{{10}}{9} + \\dfrac{{ - 29}}{7}\\\\ = \\left( {\\dfrac{{ - 1}}{9} + \\dfrac{{10}}{9}} \\right) + \\left( {\\dfrac{8}{7} + \\dfrac{{ - 29}}{7}} \\right)\\\\ = \\dfrac{9}{9} + \\dfrac{{ - 21}}{7} = 1 - 3 =  - 2\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Em hãy nhắc lại quy tắc trừ hai phân số cùng mẫu (cả tử và mẫu đều dương) đã học rồi tính các hiệu sau: \\(\\dfrac{7}{{13}} - \\dfrac{5}{{13}}\\) và \\(\\dfrac{3}{4} - \\dfrac{1}{5}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Nếu 2 phân số đã cùng mẫu thì lấy tử số của phân số thứ nhất trừ đi tử số của phân số thứ hai và giữ nguyên mẫu.\n* Nếu 2 phân số chưa cùng mẫu thì quy đồng mẫu 2 phân số rồi trừ 2 phân số đó.\nLời giải chi tiết\n* Quy tắc trừ hai phân số cùng mẫu: Muốn trừ 2 phân số có cùng mẫu số, ta lấy tử số của phân số thứ nhất trừ đi tử số của phân số thứ hai và giữ nguyên mẫu.\n* Ta có: \\(\\dfrac{7}{{13}} - \\dfrac{5}{{13}} = \\dfrac{{7 - 5}}{{13}} = \\dfrac{2}{{13}}\\) và \\(\\dfrac{3}{4} - \\dfrac{1}{5} = \\dfrac{{15}}{{20}} - \\dfrac{4}{{20}} = \\dfrac{{15 - 4}}{{20}} = \\dfrac{{11}}{{20}}\\)"
+    },
+    {
+        "problem": "Tính\na) \\(\\dfrac{3}{5} - \\dfrac{{ - 1}}{3}\\)\nb) \\( - 3 - \\dfrac{2}{7}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "2 phân số chưa cùng mẫu thì quy đồng mẫu 2 phân số rồi trừ 2 phân số cùng cùng mẫu số.\nLời giải chi tiết\na) \\(\\dfrac{3}{5} - \\dfrac{{ - 1}}{3}\\)\n\\( = \\dfrac{{3.3}}{{5.3}} - \\dfrac{{ - 1.5}}{{3.5}}\\)\n\\( = \\dfrac{9}{{15}} - \\dfrac{{ - 5}}{{15}} = \\dfrac{{9 - \\left( { - 5} \\right)}}{{15}} = \\dfrac{{14}}{{15}}\\)\nb) \\( - 3 - \\dfrac{2}{7}\\)\n\\(\\begin{array}{l} = \\dfrac{{ - 3.7}}{{1.7}} - \\dfrac{2}{7}\\\\ = \\dfrac{{ - 21}}{7} - \\dfrac{2}{7}\\\\ = \\dfrac{{ - 21 - 2}}{7}\\\\ = \\dfrac{{ - 23}}{7}\\end{array}\\)"
+    },
+    {
+        "problem": "Tính:\na) \\(\\dfrac{{ - 1}}{{13}} + \\dfrac{9}{{13}}\\)\nb) \\(\\dfrac{{ - 3}}{8} + \\dfrac{5}{{12}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng hai phân số cùng mẫu: Cộng các tử số và giữ nguyên mẫu\nCộng hai phân số khác mẫu:\n- Quy đồng các phân số\n- Cộng các tử số và giữ nguyên mẫu.\nLời giải chi tiết\na) \\(\\dfrac{{ - 1}}{{13}} + \\dfrac{9}{{13}}\\)\n\\( = \\dfrac{{ - 1 + 9}}{{13}} = \\dfrac{8}{{13}}\\)\nb) \\(\\dfrac{{ - 3}}{8} + \\dfrac{5}{{12}}\\)\n\\(\\begin{array}{l} = \\dfrac{{ - 3.3}}{{8.3}} + \\dfrac{{5.2}}{{12.2}}\\\\ = \\dfrac{{ - 9}}{{24}} + \\dfrac{{10}}{{24}} = \\dfrac{1}{{24}}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số đối của các phân số sau:\n\\(\\dfrac{{ - 3}}{7};\\dfrac{6}{{13}};\\dfrac{4}{{ - 3}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "2 số đối nhau là 2 số có tổng bằng 0\nLời giải chi tiết\nSố đối của \\(\\dfrac{{ - 3}}{7}\\) là \\(\\dfrac{3}{7}\\)\nSố đối của \\(\\dfrac{6}{{13}}\\) là \\( - \\dfrac{6}{{13}}\\)\nSố đối của \\(\\dfrac{4}{{ - 3}}\\) là \\(\\dfrac{4}{3}\\)"
+    },
+    {
+        "problem": "Tính\na) \\(\\dfrac{{ - 5}}{3} - \\dfrac{{ - 7}}{3}\\)\nb) \\(\\dfrac{5}{6} - \\dfrac{8}{9}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trừ hai phân số cùng mẫu: Lấy tử số của phân số thứ nhất trừ đi tử số của phân số thứ hai và giữ nguyên mẫu.\nTrừ hai phân số khác mẫu:\n- Quy đồng mẫu hai phân số.\n- Lấy tử số của phân số thứ nhất trừ đi tử số của phân số thứ hai và giữ nguyên mẫu.\nLời giải chi tiết\na) \\(\\dfrac{{ - 5}}{3} - \\dfrac{{ - 7}}{3}\\)\\( = \\dfrac{{ - 5 - \\left( { - 7} \\right)}}{3} =\\dfrac{-5+7}{3} = \\dfrac{2}{3}\\)\nb) \\(\\dfrac{5}{6} - \\dfrac{8}{9}\\)\\( = \\dfrac{{5.3}}{{6.3}} - \\dfrac{{8.2}}{{9.2}} = \\dfrac{{15}}{{18}} - \\dfrac{{16}}{{18}}\\)\\( = \\dfrac{{15 - 16}}{{18}} = \\dfrac{{ - 1}}{{18}}\\)."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\n\\(A = \\left( { - \\dfrac{3}{{11}}} \\right) + \\dfrac{{11}}{8} - \\dfrac{3}{8} + \\left( { - \\dfrac{8}{{11}}} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các phân số có cùng mẫu rồi cộng hoặc trừ với nhau trước.\nLời giải chi tiết\n\\(\\begin{array}{l}A = \\left( { - \\dfrac{3}{{11}}} \\right) + \\dfrac{{11}}{8} - \\dfrac{3}{8} + \\left( { - \\dfrac{8}{{11}}} \\right)\\\\ = \\left[ {\\left( { - \\dfrac{3}{{11}}} \\right) + \\left( { - \\dfrac{8}{{11}}} \\right)} \\right] + \\left( {\\dfrac{{11}}{8} - \\dfrac{3}{8}} \\right)\\\\ = \\dfrac{{ - 11}}{{11}} + \\dfrac{8}{8} =  - 1 + 1 = 0\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chị Chi mới đi làm và nhận được tháng lương đầu tiên. Chị quyết định dùng \\(\\dfrac{2}{5}\\) số tiền đó để chi tiêu trong tháng, dành \\(\\dfrac{1}{4}\\) số tiền để mua quà biếu bố mẹ. Tìm số phần tiền lương còn lại của chị Chi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng phần lương đã chi tiêu và mua quà.\nPhần tiền lương còn lại = 1- phần lương đã chi tiêu và mua quà.\nLời giải chi tiết\nTổng phần lương đã chi tiêu và mua quà là:\n\\(\\dfrac{2}{5} + \\dfrac{1}{4} = \\dfrac{{2.4}}{{5.4}} + \\dfrac{{1.5}}{{4.5}}\\)\\( = \\dfrac{8}{{20}} + \\dfrac{5}{{20}} = \\dfrac{{8 + 5}}{{20}} = \\dfrac{{13}}{{20}}\\) ( số tiền)\nPhần tiền lương còn lại của chị Chi là:\n\\(1 - \\dfrac{{13}}{{20}} = \\dfrac{{20}}{{20}} - \\dfrac{{13}}{{20}} = \\dfrac{{20 - 13}}{{20}} = \\dfrac{7}{{20}}\\) ( số tiền)"
+    },
+    {
+        "problem": "Mai tự nhẩm tính về thời gian biểu của mình trong một ngày thì thấy \\(\\dfrac{1}{3}\\) thời gian là dành cho việc học ở trường ; \\(\\dfrac{1}{{24}}\\) thời gian là dành cho hoạt động ngoại khóa; \\(\\dfrac{7}{{16}}\\) thời gian dành cho hoạt động ăn, ngủ. Còn lại là thời gian cho các công việc cá nhân khác. Hỏi:\na) Mai đã dành bao nhiêu phần thời gian trong ngày cho việc học ở trường và hoạt động ngoại khóa?\nb) Mai đã dành bao nhiêu phần thời gian trong ngày cho các công việc cá nhân khác?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tính tổng thời gian ở trường và hoạt động ngoại khóa.\nb)\n- Tính tổng thời gian đã dùng = thời gian ở trường + hoạt động ngoại khóa+ăn, ngủ.\n- Thời gian còn lại = 1- tổng thời gian đã dùng\nLời giải chi tiết\na)\nThời gian ở trường và hoạt động ngoại khóa chiếm:\n\\(\\dfrac{1}{3} + \\dfrac{1}{{24}} = \\dfrac{9}{24} = \\dfrac{3}{8}\\) ( thời gian trong ngày)\nb)\nThời gian Mai dành cho các hoạt động cá nhân khác chiếm:\n\\(1 - \\dfrac{{3}}{{8}} - \\dfrac{{7}}{{16}} = \\dfrac{3}{{16}}\\) ( thời gian trong ngày)\nLoigiaihay.com"
+    }
+]

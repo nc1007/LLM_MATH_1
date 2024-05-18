@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 2: Chọn đáp án đúng nhất:\nA.\tMuốn chia một số thập phân cho 10, 100, 1000,… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.\nB.\tMuốn chia một số thập phân cho 0,1; 0,01; 0,001;… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một hai, ba,… chữ số.\nC.\tMuốn cha một số tự nhiên cho 0,1; 0,01; 0,001;… ta chỉ việc thêm vào bên phải của số tự nhiên đó một, hai, ba,… chữ số 0.\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn chia một số thập phân cho 10, 100, 1000,... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba, … chữ số.\n-\tMuốn chia một số thập phân cho 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba, … chữ số.\n-\tMuốn chia một số tự nhiên cho 0,1; 0,01; 0,001;... ta chỉ việc thêm vào bên phải của số tự nhiên đó một, hai, ba, … chữ số 0.\nVậy cả A, B, C  đều đúng."
+    },
+    {
+        "problem": "Câu 8: Tính giá trị biểu thức:\n50 – 22,5 : 12,5 + 36,5 : 10\nA.\t3,87\nB.\t5,85\nC.\t51,67\nD.\t51,85",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n50 – 22,5 : 12,5 + 36,5 : 10\n= 50 – 1,8 + 3,65\n= 48,2 + 3,65\n= 51,85\nVậy giá trị của biểu thức 50 – 22,5 : 12,5 + 36,5 : 10 là 51,85."
+    },
+    {
+        "problem": "Câu 10: Tìm x, biết: x - 3,5 = 12,3 : 1,25 \nA.\tx = 4,484\nB.\tx = 6,34\nC.\tx = 13,34\nD.\tx = 101,9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nx - 3,5 = 12,3 : 1,25\nx - 3,5 = 9,84\nx = 9,84 + 3,5\nx = 13,34\nVậy x = 13,34."
+    },
+    {
+        "problem": "Câu 12: Một khu đất được dành 80  để làm nhà. Diện tích đất còn lại nhiều hơn diện tích đất làm nhà là 90m^{2} . Tìm tỉ số phần trăm giữa diện tích đất làm nhà và diện tích khu đất.\nA.\t32%\nB.\t47,05%\nC.\t68%\nD.\t88,88%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích phần đất còn lại là:\n80 + 90 = 170 (m^{2} ) \nDiện tích khu đất đó là:\n80 + 170 = 250 (m^{2} ) \nTỉ số phần trăm giữa diện tích đất làm nhà và diện tích khu đất là\n80 : 250 = 0,32 = 32% \nĐáp số: 32%."
+    },
+    {
+        "problem": "Câu 13: Diện tích một tấm bảng hình chữ nhật là 4,125m^{2} , chiều rộng của tấm bảng là 150cm. Người ta muốn nẹp xung quanh tấm bảng đó bằng khung nhôm. Hỏi khung nhôm đó dài bao nhiêu mét?\nA.\t2,75m\nB.\t4,25m\nC.\t8,5m\nD.\t58m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 150cm = 1,5m  \nChiều dài tấm bảng đó là:\n 4,125 : 1,5 = 2,75 (m)\nĐộ dài khung nhôm để nẹp tấm bảng đó chính bằng chu vi của tấm bảng.\nKhung nhôm dài số mét là:\n(2,75 + 1,5) x 2 = 8,5 (m)\nĐáp số: 8,5m."
+    }
+]

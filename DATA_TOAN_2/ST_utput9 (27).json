@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Tính: a)\\(\\frac{-1}{2}+\\frac{5}{6}+\\frac{1}{3}\\)\nb)\\(\\frac{-3}{8}+\\frac{7}{4}- \\frac{1}{12}\\)\nc)\\(\\frac{3}{5}: (\\frac{1}{4}. \\frac{7}{5})\\)\nd)\\(\\frac{10}{11}+\\frac{4}{11}: 4 - \\frac{1}{8}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện đúng thứ tự thực hiện phép tính trong ngoặc trước --> nhân, chia --> cộng, trừ\nLời giải chi tiết\na)\\(\\frac{-1}{2}+\\frac{5}{6}+\\frac{1}{3}=\\frac{-3}{6}+\\frac{5}{6} +\\frac{2}{6}=\\frac{4}{6}=\\frac{2}{3}\\)\nb)\\(\\frac{-3}{8}+\\frac{7}{4}- \\frac{1}{12}=\\frac{-9}{24}+ \\frac{42}{24} - \\frac{2}{24}=\\frac{31}{24}\\)\nc)\\(\\frac{3}{5}: (\\frac{1}{4}.\\frac{7}{5})=\\frac{3}{5}: \\frac{7}{20}= \\frac{3}{5}. \\frac{20}{7}=\\frac{12}{7}\\)\nd)\\(\\frac{10}{11}+\\frac{4}{11}:4-\\frac{1}{8}=\\frac{10}{11}+ \\frac{4}{11}.\\frac{1}{4}-\\frac{1}{8}=\\frac{10}{11}+ \\frac{1}{11} - \\frac{1}{8}= 1- \\frac{1}{8}=\\frac{7}{8}\\)"
+    },
+    {
+        "problem": "Tính một cách hợp lí\nB=\\(\\frac{5}{13}.\\frac{8}{15} + \\frac{5}{13}.\\frac{26}{15} - \\frac{5}{13}. \\frac{8}{15}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối giữa phép nhân và phép cộng: \\(a.b+ a.c+a.d= a(b+c+d)\\)\nLời giải chi tiết\nB=\\(\\frac{5}{13}.\\frac{8}{15} + \\frac{5}{13}.\\frac{26}{15} - \\frac{5}{13}. \\frac{8}{15}\\)\n\\(=\\frac{5}{13}.(\\frac{8}{15} +\\frac{26}{15} - \\frac{8}{15})\\)\n\\(=\\frac{5}{13}.\\frac{26}{15}\\)\n\\(=\\frac{2}{3}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau:\nB=\\(\\frac{1}{3}.b+ \\frac{2}{9}.b – b: \\frac{9}{4}\\) với \\(b=\\frac{9}{10}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt b làm thừa số chung, thu gọn B rồi thay \\(b=\\frac{9}{10}\\) vào B\nLời giải chi tiết\n\\(B=\\frac{1}{3}.b+\\frac{2}{9}.b– b: \\frac{9}{4}= \\frac{1}{3}.b+\\frac{2}{9}.b – b. \\frac{4}{9}\\)\n\\(=b(\\frac{1}{3}+\\frac{2}{9}-\\frac{4}{9})=b. (\\frac{3}{9}+\\frac{2}{9}-\\frac{4}{9})= b. \\frac{1}{9} \\)\nThay \\(b=\\frac{9}{10}\\) vào B, ta được\nB= \\(b=\\frac{9}{10}. \\frac{1}{9}= \\frac{1}{10}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nam cắt một chiếc bánh nướng hình vuông thành 3 phần không bằng nhau. Nam đã ăn 2 phần bánh, tổng cộng là \\(\\frac{1}{2}\\) chiếc bánh. Đố em biết Nam đã ăn hai phần bánh nào?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phần còn lại của chiếc bánh chiếm \\(\\frac{1}{2}\\) còn lại của chiếc bánh\nLời giải chi tiết\nCách 1: Nam còn lại:\n1 - \\(\\frac{1}{2}\\)= \\(\\frac{1}{2}\\)( chiếc bánh)\nNhư vậy phần còn lại của chiếc bánh sau khi Nam ăn là: \\(\\frac{4}{8}\\)\nDo đó, Nam đã ăn 2 phần bánh là \\(\\frac{1}{8}\\) và \\(\\frac{3}{8}\\)\nCách 2: Tổng của 2 phần bánh là \\(\\frac{1}{2}\\). Do đó, 2 phần bánh Nam đã ăn là \\(\\frac{1}{8}\\) và \\(\\frac{3}{8}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Để làm một chiếc bánh chưng trong dịp tết Nguyên đán, Vân phải chuẩn bị: gạo nếp, đậu xanh không vỏ, thịt ba chỉ, lá dong và các gia vị khác. Khối lượng đậu xanh bằng \\(\\frac{3}{5}\\) khối lượng gạo nếp và gấp \\(\\frac{3}{2}\\) khối lượng thịt ba chỉ.\nNếu có 150 gam đậu xanh thì cần bao nhiêu gam gạo nếp và bao nhiêu gam thịt ba chỉ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm 1 số biết \\(\\frac{m}{n}\\) của nó bằng a: Số cần tìm là: a : \\(\\frac{m}{n}\\)\nLời giải chi tiết\nNếu có 150 gam đậu xanh thì cần số gam gạo nếp là:\n150: \\(\\frac{3}{5}\\)= 250(gam)\nNếu có 150 gam đậu xanh thì cần số gam thịt ba chỉ là:\n150: \\(\\frac{3}{2}\\)= 100(gam)\nVậy nếu có 150 gam đậu xanh thì cần 250 gam gạo nếp và 100 gam thịt ba chỉ."
+    },
+    {
+        "problem": "Hà thường đi xe đạp từ nhà đến trường với vận tốc 12 km/h, hết \\(\\frac{1}{5}\\) giờ. Hôm nay, xe đạp bị hỏng nên Hà phải đi bộ đến trường với vận tốc 5 km/h. Hỏi hôm nay Hà đi đến trường mất bao lâu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Tính quãng đường từ nhà đến trường: Quãng đường = vận tốc. thời gian\n* Tính thời gian đi học: Thời gian = Quãng đường : vận tốc\nLời giải chi tiết\nQuãng đường từ nhà đến trường là:\n12. \\(\\frac{1}{5}= \\frac{12}{5}\\)(km)\nThời gian Hà đi học hôm nay là:\n\\(\\frac{12}{5}: 5= \\frac{12}{25}\\)( giờ)\nLoigiaihay.com"
+    }
+]

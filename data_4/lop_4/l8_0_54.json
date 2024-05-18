@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : Lan nói rằng: “Muốn nhân nhẩm một số có hai chữ số với 11 ta lấy chữ số hàng chục cộng với chữ số hàng đơn vị, \nnếu tổng tìm được bé hơn 10 thì ta viết tổng vào giữa hai chữ số đã cho”. \nLan nói đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn nhân nhẩm một số có hai chữ số với 11 ta lấy chữ số hàng chục cộng với chữ số hàng đơn vị, \nnếu tổng tìm được bé hơn 10 thì ta viết tổng vào giữa hai chữ số đã cho.\nVậy Lan nói đúng."
+    },
+    {
+        "problem": "Câu 3 : Kết quả của phép tính 85 × 11 là: \nA.\t815\nB.\t835\nC.\t935\nD.\t8135",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có cách nhẩm:\n+) 8 cộng 5 bằng 13.\n+) Viết 3 vào giữa hai chữ số của 85, được 835.\n+) Thêm 1 vào 8 của 835, được 935.\nVậy 85×11=935."
+    },
+    {
+        "problem": "Câu 4 : 94 × 11 = 1044. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 94×11=1034.\nMà 1034 < 1044.\nVậy phép tính đã cho là sai."
+    },
+    {
+        "problem": "Câu 7 : Tìm x biết:  x ∶ 48 = 26 × 11  \nA.\tx = 13668\nB.\tx = 13678\nC.\tx = 13738\nD.\tx = 13728",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "x:48=26×11\nx:48=286\nx=286×48\nx=13728"
+    },
+    {
+        "problem": "Câu 8 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính lần lượt từ trái sang phải ta có:\n473−375=98\n98×11=1078\n1078+28937=30015\nVậy đáp án đúng điền vào ô trống từ trái sang phải, \ntừ trên xuống dưới lần lượt là 98; 1078; 30015"
+    },
+    {
+        "problem": "Câu 9 : Chọn dấu thích hợp để điền vào ô trống:  \n187 × 45 - 57 × 11 ...  (5602 - 5515) × 11 + 134 × 23\nA.\t< \nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+) 187×45−57×11 \n   =8415−627 \n    =7788 \n+) (5602−5515)×11+134×23 \n   =87×11+134×23 \n   =957+3082 \n    =4039\nMà 7788>4039\nDo đó 187×45−57×11>(5602−5515)×11+134×23.\nVậy đáp án đúng điền vào ô trống là >."
+    },
+    {
+        "problem": "Câu 12 : Một tổ sản xuất trong 11 ngày đầu mỗi ngày làm được 96 sản phẩm, trong 15 ngày sau mỗi ngày làm được 124 sản phẩm.\n Hỏi tổ đó đã sản xuất được tất cả bao nhiêu sản phẩm? \nA.\t1860 sản phẩm\nB.\t2456 sản phẩm\nC.\t2916 sản phẩm\nD.\t3026 sản phẩm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong 11 ngày đầu tổ đó sản xuất được số sản phẩm là:\n              96×11=1056 (sản phẩm)\nTrong 15 ngày sau tổ đó sản xuất được số sản phẩm là:\n                  124×15=1860 (sản phẩm)\nTổ đó sản xuất được tất cả số sản phẩm là:\n                  1056+1860=2916 (sản phẩm)\n                           Đáp số: 2916 sản phẩm."
+    }
+]

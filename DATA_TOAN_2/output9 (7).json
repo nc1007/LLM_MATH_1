@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Đơn vị đo thời gian nhỏ nhất là yoctosecond (viết tắt là ys), nó bằng 0,000000000000000000000001 giây. Hãy viết số này dưới dạng luỹ thừa của một số hữu tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng:\\(\\dfrac{{{a^n}}}{{{b^n}}} = {\\left( {\\dfrac{a}{b}} \\right)^n}\\)\nLời giải chi tiết\n\\(0,000000000000000000000001 = \\dfrac{1}{{{{10}^{24}}}} = {\\left( {\\dfrac{1}{{10}}} \\right)^{24}}\\)"
+    },
+    {
+        "problem": "Viết các số sau dưới dạng luỹ thừa của một số hữu tỉ.\na) \\(125.27\\)\nb) \\(243:32\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng công thức:\n\\(\\begin{array}{l}{a^n}.{b^n} = {\\left( {a.b} \\right)^n}\\\\{a^n}:{b^n} = {\\left( {\\dfrac{a}{b}} \\right)^n}\\end{array}\\)\nLời giải chi tiết\na)\\(125.27 = {5^3}{.3^3} = {\\left( {5.3} \\right)^3} = {15^3}\\)\nb)\\(243:32 = {3^5}:{2^5} = {\\left( {\\dfrac{3}{2}} \\right)^5}\\)"
+    },
+    {
+        "problem": "Đường kính của một tế bào hồng cầu là khoảng \\(7,4.{\\left( {\\dfrac{1}{{10}}} \\right)^4}\\)cm. Hãy viết số này dưới dạng số thập phân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng công thức\n\\({\\left( {\\dfrac{a}{b}} \\right)^n} = \\dfrac{{{a^n}}}{{{b^n}}}\\)\nLời giải chi tiết\n\\(7,4.{\\left( {\\dfrac{1}{{10}}} \\right)^4} = 7,4.\\dfrac{{{1^4}}}{{{{10}^4}}} = \\dfrac{{7,4}}{{{{10}^4}}} = 0,00074\\)"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na)\\({\\left( {\\dfrac{1}{2}} \\right)^3}.4 + \\dfrac{3}{4}\\)\nb)\\({4^3}:{2^5} + {3^5}:{9^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng công thức:\n\\(\\begin{array}{l}{\\left( {\\dfrac{a}{b}} \\right)^n} = \\dfrac{{{a^n}}}{{{b^n}}}\\\\{a^m}:{a^n} = {a^{m - n}}\\\\{\\left( {{a^m}} \\right)^n} = {a^{m.n}}\\end{array}\\)\nLời giải chi tiết\na) \\({\\left( {\\dfrac{1}{2}} \\right)^3}.4 + \\dfrac{3}{4} = \\dfrac{1}{8}.4 + \\dfrac{3}{4} = \\dfrac{2}{4} + \\dfrac{3}{4} = \\dfrac{5}{4}\\)\nb)\n\\(\\begin{array}{l}{4^3}:{2^5} + {3^5}:{9^2} = {\\left( {{2^2}} \\right)^3}:{2^5} + {3^5}:{\\left( {{3^2}} \\right)^2}\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = {2^6}:{2^5} + {3^5}:{3^4}\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 2 + 3 = 5\\end{array}\\)"
+    },
+    {
+        "problem": "Thay dấu “?” bằng số thích hợp:\na)\\({\\left( {\\dfrac{2}{3}} \\right)^5}.{\\left( {\\dfrac{2}{3}} \\right)^?} = {\\left( {\\dfrac{2}{3}} \\right)^8};\\)\nb)\\({\\left( { - \\dfrac{3}{4}} \\right)^?}:{\\left( {\\dfrac{{ - 3}}{4}} \\right)^7} = {\\left( {\\dfrac{{ - 3}}{4}} \\right)^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng nhân, chia hai luỹ thừa cùng cơ số\nLời giải chi tiết\na)\n\\(\\begin{array}{l}{\\left( {\\dfrac{2}{3}} \\right)^5}.{\\left( {\\dfrac{2}{3}} \\right)^?} = {\\left( {\\dfrac{2}{3}} \\right)^8}\\\\ \\Rightarrow {\\left( {\\dfrac{2}{3}} \\right)^{5 + ?}} = {\\left( {\\dfrac{2}{3}} \\right)^8}\\\\ \\Rightarrow 5 + ? = 8\\\\ \\Rightarrow ? = 8 - 5\\\\ \\Rightarrow ? = 3\\end{array}\\)\nVậy \\(? =3\\)\nb)\n\\(\\begin{array}{l}{\\left( { - \\dfrac{3}{4}} \\right)^?}:{\\left( {\\dfrac{{ - 3}}{4}} \\right)^7} = {\\left( {\\dfrac{{ - 3}}{4}} \\right)^2}\\\\ \\Rightarrow {\\left( { - \\dfrac{3}{4}} \\right)^{? - 7}} = {\\left( { - \\dfrac{3}{4}} \\right)^2}\\\\ \\Rightarrow ? - 7 = 2\\\\ \\Rightarrow ? = 2 + 7\\\\ \\Rightarrow ? = 9\\end{array}\\)\nVậy \\(? =9\\)"
+    },
+    {
+        "problem": "Không sử dụng máy tính cầm tay, hãy tính:\na)\\({\\left( { - 5} \\right)^7}\\), biết \\({\\left( { - 5} \\right)^6} = 15625\\)\nb) \\({2^{12}}\\) , biết \\({2^{11}} = 2048\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng quy tắc nhân hai luỹ thừa cùng cơ số\na) Tách \\({\\left( { - 5} \\right)^7} = {\\left( { - 5} \\right)^{6 + 1}} = {\\left( { - 5} \\right)^6}.\\left( { - 5} \\right) = ...\\)\nb)Tương tự câu a)\nLời giải chi tiết\na)\\({\\left( { - 5} \\right)^7} = {\\left( { - 5} \\right)^6}.\\left( { - 5} \\right) = 15625.\\left( { - 5} \\right) =  - 78125\\)\nb)\\({2^{12}} = {2^{11}}.2 = 2048.2 = 4096\\)"
+    },
+    {
+        "problem": "Tìm số tự nhiên n, biết:\na) \\({5^n}.{\\left( {\\dfrac{1}{5}} \\right)^3} = {5^n}:{5^3}\\)\nb) \\(4.3^n = 324\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\({5^n}.{\\left( {\\dfrac{1}{5}} \\right)^3} = {5^n}:{5^3}\\)\n-Thực hiện chia hai luỹ thừa cùng cơ số: giữ nguyên cơ số, trừ hai số mũ.\n-Biến đổi vế phải thành luỹ thừa với cơ số 5\nb)\n-Thừa số = tích : thừa số đã biết\n-Biến đổi thành luỹ thừa với cơ số 3\nLời giải chi tiết\na)\n\\(\\begin{array}{l}{5^n}.{\\left( {\\dfrac{1}{5}} \\right)^3} = 125\\\\ \\Rightarrow {5^n}:{5^3} = {5^3}\\\\ \\Rightarrow {5^{n - 3}} = {5^3}\\\\ \\Rightarrow n - 3 = 3\\\\ \\Rightarrow n = 3 + 3\\\\ \\Rightarrow n = 6\\end{array}\\)\nVậy \\(n=6\\)\nb)\n\\(\\begin{array}{l}{4.3^n} = 324\\\\ \\Rightarrow {3^n} = 324:4\\\\ \\Rightarrow {3^n} = 81\\\\ \\Rightarrow {3^n} = {3^4}\\\\ \\Rightarrow n = 4\\end{array}\\)\nVậy \\(n=4\\)"
+    },
+    {
+        "problem": "Tính: \\(A = \\dfrac{{{{27}^{10}} + {9^5}}}{{{9^{13}} + {{27}^2}}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng công thức\n\\({\\left( {{a^m}} \\right)^n} = {a^{m.n}}\\)\n\\({a^m}.{a^n} = {a^{m + n}}\\)\nLời giải chi tiết\n\\(A = \\dfrac{{{{27}^{10}} + {9^5}}}{{{9^{13}} + {{27}^2}}} = \\dfrac{{{{\\left( {{3^3}} \\right)}^{10}} + {{\\left( {{3^2}} \\right)}^5}}}{{{{\\left( {{3^2}} \\right)}^{13}} + {{\\left( {{3^3}} \\right)}^2}}} = \\dfrac{{{3^{30}} + {3^{10}}}}{{{3^{26}} + {3^6}}} = \\dfrac{{{3^{10}}.\\left( {{3^{20}} + 1} \\right)}}{{{3^6}.\\left( {{3^{20}} + 1} \\right)}} = \\dfrac{{{3^{10}}}}{{{3^6}}} = 3^{10-6}= {3^4} = 81\\)"
+    }
+]

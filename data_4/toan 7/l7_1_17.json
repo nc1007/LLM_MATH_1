@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 4. Chọn phương án sai\nA. Hình hộp chữ nhật là hình lăng trụ đứng tứ giác; \nB. Hình lập phương là hình lăng trụ đứng tứ giác; \nC. Hình tam giác là hình lăng trụ đứng tam giác; \nD. Đáp án A và B đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHình hộp chữ nhật là hình lăng trụ đứng tứ giác có các mặt đều là hình chữ nhật.\nHình lập phương là hình lăng trụ đứng tứ giác có các mặt đều là hình vuông.\nHình tam giác là mặt đáy của hình lăng trụ đứng tứ giác."
+    },
+    {
+        "problem": "Câu 5. Thể tích của hình lăng trụ đứng tứ giác được tính như nào? Biết S là diện tích đáy và h là chiều cao của hình lăng trụ đứng tứ giác.\nA. V = S.h; \nB. V = 2.S.h; \nC. V = S. h^{2} ; \nD. V = 2.S.h^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThể tích của hình lăng trụ đứng tứ giác bằng diện tích đáy nhân với chiều cao.\nVậy thể tích hình lăng trụ đứng tứ giác được tính như sau: V = S.h."
+    },
+    {
+        "problem": "Câu 6. Hình lập phương A có cạnh bằng \\frac{4}{5} cạnh hình lập phương B. Hỏi thể tích hình lập phương A bằng bao nhiêu phần thể tích hình lập phương B?\nA. \\frac{64}{125}; \nB. \\frac{12}{64}; \nC. \\frac{4}{5}; \nD. \\frac{16}{25}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGọi độ dài một cạnh của hình lập phương B là a.\nVì hình lập phương A có cạnh bằng \\frac{4}{5} cạnh hình lập phương B nên chiều dài một cạnh của hình lập phương A là \\frac{4}{5}a.\nThể tích hình lập phương B là: VB = a^{3} \nThể tích hình lập phương A là: \nVA=\\frac{4}{5}a3=\\frac{64}{125}a3\nSuy ra VA=\\frac{64}{125}VB\nVậy thể tích hình lập phương A bằng \\frac{64}{125} thể tích hình lập phương B."
+    },
+    {
+        "problem": "Câu 7. Một hộp quà có dạng hình lập phương không có nắp được tô màu cả mặt trong mặt ngoài. Diện tích phải tô màu tổng cộng là 1210 cm^{2} . Tính thể tích của hộp quà đó?\nA. 1331 cm^{3} ; \nB. 121 cm^{3} ; \nC. 3765 cm^{3} ; \nD. 144 cm^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nHộp quà hình lập phương không có nắp gồm 5 hình vuông, mỗi hình vuông có 2 mặt được tô màu nên diện tích của mỗi hình vuông là 1210 : 10 = 121 (cm^{2} ).\nVì diện tích hình vuông bằng bình phương một cạnh nên cạnh của hình lập phương bằng 11 cm nên thể tích của hình lập phương bằng 11^{3}  = 1331 (cm^{3} )."
+    },
+    {
+        "problem": "Câu 8. Một bể bơi có dạng hình hộp chữ nhật có chiều dài 9 m, chiều rộng 5 m. Mưc nước trong bể cao 1,2 m một người nhảy vào bể bơi thì thể tích tăng 20 000 cm^{3} . Hỏi thể tích của bể sau khi người nhảy vào bể bơi là:\nA. 54,02 m^{3} ; \nB. 42 m^{3} ; \nC. 100 m^{3} ; \nD. 42,02 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nĐổi: 20 000 cm^{3}  = 0,02 m^{3} \nThể tích nước trong bể ban đầu có là: \nV = 9.5.1,2 = 54 (m^{3} )\nSau khi người nhảy vào bơi thể tích tăng lên 20 000 cm^{3}  do đó thể tích của bể lúc này là:\nV1 = V + 0,02 = 54,02 (m^{3} )\nVậy thể tích của bể sau khi người đó nhảy vào bể là 54,02 (m^{3} )."
+    },
+    {
+        "problem": "Câu 9. Một cục tẩy có dạng hình hộp chữ nhật với các kích thước của cạnh đáy là 5 cm, 3 cm và chiều cao là 1,5 cm. Tính diện tích xung quanh của cục tẩy đó.\nA. 24 cm^{2} ; \nB. 18 cm^{2} ; \nC. 5 cm^{2} ; \nD. 6 cm^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nDiện tích xung quanh của cục tẩy là:\nSxq = 2.(5+3).1,5 = 24 (cm^{2} )\nVậy diện tích xung quanh của cục tẩy đó là Sxq = 24 (cm^{2} )."
+    },
+    {
+        "problem": "Câu 10. Diện tích xung quanh của hình lăng trụ đứng tam giác được tính như thế nào? Biết C là chu vi đáy, h là chiều cao của hình lăng trụ đứng tam giác.\nA. Sxq=\\frac{1}{2}C.h; \nB. Sxq=\\frac{2C}{h}; \nC. Sxq = C.h; \nD. Sxq = 2C.h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích xung quanh của hình lăng trụ đứng tam giác bằng chu vi đáy nhân với chiều cao.\nVậy diện tích xung quanh của hình lăng trụ đứng tam giác được tính như sau: \nSxq = C.h"
+    },
+    {
+        "problem": "Câu 14. Một hình lập phương có diện tích tất cả các mặt là 384 cm^{2} . Diện tích xung quanh của hình lập phương đó là:\nA. 8 cm^{2} ; \nB. 64 cm^{2} ; \nC. 128 cm^{2} ; \nD. 256 cm^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDiện tích một mặt của hình lập phương là:\n384 : 6 = 64 (cm^{2} )\nDiện tích xung quanh của hình lập phương đó là:\n4.64 = 256 (cm^{2} )\nVậy diện tích xung quanh của hình lập phương bằng 256 (cm^{2} )."
+    },
+    {
+        "problem": "Câu 15. Cho hình hộp chữ nhật có diện tích xung quanh bằng 500 cm^{2} , chiều cao là 10 cm. Chu vi mặt đáy hình hộp chữ nhật là:\nA. 25 cm; \nB. 25 cm^{2} ; \nC. 50 cm^{2} ; \nD. 50 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nChu vi mặt đáy hình hộp chữ nhật là\n500 : 10 = 50 (cm)\nVậy chu vi mặt đáy hình hộp chữ nhật bằng 50 cm."
+    },
+    {
+        "problem": "Câu 16. Cho hình hộp chữ nhật có diện tích xung quanh là 100 cm^{2} , chiều cao là 10 cm và chiều rộng đáy là 2 cm. Chiều dài đáy hình hộp chữ nhật là:\nA. 1 cm; \nB. 2 cm; \nC. 3 cm; \nD. 4 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nChu vi mặt đáy của hình hộp chữ nhật là:\n100 : 10 = 10 (cm^{2} )\nNửa chu vi mặt đáy của hình hộp chữ nhật là:\n10 : 2 = 5 (cm)\nChiều dài đáy hình hộp chữ nhật là:\n5 – 2 = 3 (cm)\nVậy chiều dài đáy hình hộp chữ nhật bằng 3 cm."
+    },
+    {
+        "problem": "Câu 18.Một bể nước mưa có dạng hình hộp chữ nhậtcó các kích thước của đáy là 5 m, 12 m và chiều cao là 9 m. Thể tích của bể nước mưa đó bằng:\nA. 306 m^{3} ; \nB. 336 m^{3} ; \nC. 540 m^{3} ; \nD. 153 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDo bể nước mưa có dạng là hình hộp chữ nhật nên thể tích của bể nước mưa là:\nV = 5.12.9 = 540 (m^{3} ) \nVậy thể tích của bể nước mưa là V = 540 (m^{3} )."
+    },
+    {
+        "problem": "Câu 20. Cho hình lăng trụ đứng tứ giác có diện tích xung quanh là 450 cm^{2} , chu vi đáy là 50 cm. Chiều cao hình lăng trụ đứng tứ giác đó là:\nA. 9 cm;\nB. 8 cm; \nC. 7 cm; \nD. 6 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nChiều cao hình lăng trụ đứng tứ giác là:\n450 : 50 = 9 (cm)\nVậy chiều cao hình lăng trụ đứng bằng 9 cm."
+    },
+    {
+        "problem": "Câu 22. Cho hình lăng trụ đứng tam giác có chiều cao là 8 cm, các kích thước của mặt đáy là 2 cm, 4 cm và 5 cm. Diện tích xung quanh hình lăng trụ tam giác đó là:\nA. 88 cm^{2} ; \nB. 72 cm^{<span>2</span>} ; \nC. 49 cm^{2} ; \nD. 65 cm^{<span>2</span>} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nDiện tích xung quanh hình lăng trụ tam giác là:\nSxq = 8. (2 + 4 + 5) = 88 (cm^{2} )\nVậy diện tích xung quanh hình lăng trụ tam giác đó bằng 88 cm^{2} ."
+    },
+    {
+        "problem": "Câu 26. Cho ống bút có chiều cao là 10 cm, chiều rộng mặt đáy và chu vi mặt đáy là 2 cm, 16 cm. Tính thể tích không gian được giới hạn bởi ống bút.\nA. 120 cm^{3} ; \nB. 240 cm^{3} ; \nC. 240 cm^{2} ; \nD. 120 cm^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nNửa chu vi mặt đáy ống hút là:\n16 : 2 = 8 (cm)\nChiều dài của mặt đáy là:\n8 – 2 = 6 (cm) \nThể tích ống bút là:\n10. 2. 6 = 120 (cm^{3} )\nVậy thể tích phần không gian được giới hạn bởi ống bút bằng 120 cm^{3} ."
+    },
+    {
+        "problem": "Câu 27. Cho hộp sữa hình hộp chữ nhật có diện tích đáy bằng 20 cm^{2}  và cao 25 cm. Hỏi thể tích sữa trong hộp là bao nhiêu mi – li – lít, biết hộp sữa đầy sữa.\nA. 200 ml; \nB. 200 m^{3} ; \nC. 500 ml; \nD. 500 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nThể tích hộp sữa là:\n20.25 = 500 (cm^{3} )\nThể tích sữa trong hộp chính bằng thể tích của hộp sữa nên thể tích của hộp sữa là:\n500 cm^{3}  = 500 (ml)\nVậy thể tích sữa trong hộp bằng 500 ml."
+    }
+]

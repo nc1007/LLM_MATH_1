@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Bố có 12 quả bóng màu xanh và 15 quả bóng màu đỏ. Bố muốn chia số bóng cho ba anh em Việt, Hà và Nam đều như nhau gồm cả bóng màu xanh và bóng màu đỏ. Hỏi bố có thực hiện được điều đó hay không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem 3 có thuộc ước chung của 12 và 15 hay không. Nếu có thì số bóng xanh và đỏ có thể chia đều được cho 3 người.\nLời giải chi tiết\nTa có: 3 ∈ Ư(12) ; 3 ∈ Ư(15) nên 3 ∈ ƯC(12, 15)\nDo đó bố có thể chia số bóng cho ba anh em Việt, Hà và Nam đều như nhau."
+    },
+    {
+        "problem": "Tuần này lớp 6A và 6B gồm 40 học sinh nữ và 36 học sinh nam được phân công đi thu gom rác làm sạch bờ biển ở địa phương. Nếu chia nhóm sao cho số học sinh nam và nữ trong các nhóm bằng nhau thì:\na) Có thể chia được thành bao nhiêu nhóm học sinh?\nb) Có thể chia nhiều nhất bao nhiêu nhóm học sinh?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số nhóm có thể chia được là ước chung của 36 và 40.\n- Số nhóm có thể chia nhiều nhất là ƯCLN của 36 và 40.\nLời giải chi tiết\na) Gọi x là số nhóm học sinh chia được (\\(x \\in {\\mathbb{N}^*}\\))\nKhi đó x ∈ ƯC(36, 40)\nƯ(36) = {1; 2; 3; 4; 6; 9; 12; 18; 36}\nƯ(40) = {1; 2; 4; 5; 8; 10; 20; 40}\n=> x ∈ {1; 2; 4}\nVậy có thể chia được thành 1; 2 hoặc 4 nhóm học sinh\nb) Số nhóm chia được nhiều nhất là ƯCLN(36, 40) = 4."
+    },
+    {
+        "problem": "Tìm ƯCLN(45, 150), biết 45 = 32.5 và 150 = 2.3.52.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chọn ra các thừa số nguyên tố chung;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\nLời giải chi tiết\nCác thừa số nguyên tố chung là 3 và 5. Số mũ nhỏ nhất của 3 là 1; của 5 là 1. Do đó\nƯCLN(45, 150) = 3.5 = 15."
+    },
+    {
+        "problem": "Biết ƯCLN(75, 105) = 15, hãy tìm ƯC(75, 105).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "ƯC (a,b) là ước của ƯCLN (a,b).\nLời giải chi tiết\nƯC(75, 105) = Ư(15) = {1; 3; 5; 15}."
+    },
+    {
+        "problem": "Tìm ƯCLN(36, 84).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\nLời giải chi tiết\n36 = 22.32\n84 = 22.3.7\nTa thấy 2 và 3 là các thừa số nguyên tố chung của 36 và 84. Số mũ nhỏ nhất của 2 là 2, số mũ nhỏ nhất của 3 là 1 nên\nƯCLN(36, 84) = 22.3 = 12"
+    },
+    {
+        "problem": "Một đại đội bộ binh có ba trung đội trung đội I có 24 chiến sĩ, trung đội II có 28 chiến sĩ, trung đội III có 36 chiến sĩ. Trong cuộc diễu binh, cả ba trung đội phải xếp thành các hàng dọc đều nhau mà không có chiến sĩ nào trong mỗi trung đội bị lẻ hàng. Hỏi có thể xếp được nhiều nhất bao nhiêu hàng dọc?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số hàng dọc nhiều nhất có thể xếp được là ƯCLN(24, 28, 36).\nLời giải chi tiết\nSố hàng dọc nhiều nhất có thể xếp được là ƯCLN(24, 28, 36)\nTa có:\n24 = 23.3\n28 = 22.7\n36 = 22.32\nTa thấy 2 là thừa số nguyên tố chung của 24; 28 và 36. Số mũ nhỏ nhất của 2 là 2nên \\(ƯCLN(24, 28, 36) =2^2 = 4\\)\nVậy có thể xếp được nhiều nhất 4 hàng dọc."
+    },
+    {
+        "problem": "Phân số \\(\\frac{{16}}{{10}}\\) đã là phân số tối giản chưa? Nếu chưa, hãy rút gọn về phân số tối giản.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu tử và mẫu của phân số có ước chung lớn nhất là 1 thì phân số đã tối giản.\nĐể rút gọn 1 phân số về dạng tối giản, ta chia cả tử và mẫu của phân số cho ƯCLN của chúng\nLời giải chi tiết\nPhân số đã cho chưa tối giản vì ƯCLN(16,10) = 2\n\\(\\frac{{16}}{{10}} = \\frac{{16:2}}{{10:2}} = \\frac{8}{5}\\)."
+    },
+    {
+        "problem": "Rút gọn về phân số tối giản: a) \\(\\frac{{90}}{{27}}\\);       b) \\(\\frac{{50}}{{125}}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia cả tử và mẫu của phân số cần rút gọn cho ước chung lớn nhất của tử và mẫu.\nLời giải chi tiết\na) Ta có: \\(90 = 2.3^2.5;  27 = 3^3\\)\nThừa số nguyên tố chung là 3 với số mũ nhỏ nhất là 2 nên \\(ƯCLN (90, 27) = 3^2 = 9\\)\n\\(\\dfrac{{90}}{{27}} = \\dfrac{{90:9}}{{27:9}} = \\dfrac{{10}}{3}\\)\nb) Ta có: \\(50 = 2.5^2 ;125 = 5^3\\)\nThừa số nguyên tố chung là 5 với số mũ nhỏ nhất là 2 nên \\(ƯCLN(50, 125) =5^2= 25\\)\n\\(\\dfrac{{50}}{{125}} = \\dfrac{{50:25}}{{125:25}} = \\dfrac{2}{5}\\)"
+    },
+    {
+        "problem": "Tìm tập hợp ước chung của:\na) 30 và 45            b) 42 và 70.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm tập hợp các ước của các số đã cho.\n- Lấy các số chung trong các tập hợp vừa tìm được.\nLời giải chi tiết\na) Ư(30) = {1; 2; 3; 5; 6; 10; 15; 30}\nƯ(45) = {1; 3; 5; 9; 15; 45}\nVậy ƯC(30, 45) = {1; 3; 5; 15}\nb) Ư(42) = {1; 2; 3; 6; 7; 14; 21; 42}\nƯ(70) = {1; 2; 5; 7; 10; 14; 35; 70}\nVậy ƯC(42, 70) = {1; 2; 7; 14}."
+    },
+    {
+        "problem": "Tìm ƯCLN của hai số:\na) 40 và 70;           b) 55 và 77.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\nLời giải chi tiết\na) Ta có:   40 = 23.5;    70 = 2.5.7\nVậy ƯCLN(40, 70) = 2.5 = 10\nb) Ta có:   55 = 5.11;    77 = 7.11\nVậy ƯCLN(55, 77) = 11.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm ƯCLN của:\na) 22. 5 và 2. 3. 5\nb)  \\(2^4. 3;  2^2.3^2. 5\\) và \\(2^4.11.\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chọn ra các thừa số nguyên tố chung;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\nLời giải chi tiết\na) 22.5 và 2.3.5\nTa thấy 2 và 5 là thừa số nguyên tố chung. Số mũ nhỏ nhất của 2 là 1 và số mũ nhỏ nhất của 5 là 1 nên ƯCLN cần tìm là 2.5 = 10\nb) 24.3;  22.32.5 và 24.11\nTa thấy 2 là thừa số nguyên tố chung. Số mũ nhỏ nhất của 2 là 2 nên ƯCLN cần tìm là 22 = 4\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hai số a = 72 và b = 96.\na) Phân tích a và b ra thừa số nguyên tố;\nb) Tìm ƯCLN(a, b), rồi tìm ƯC(a, b).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Phân tích mỗi số ra thừa số nguyên tố\nb)  Chọn ra các thừa số nguyên tố chung;\nLập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\n=> Ước chung của hai hay nhiều số là ước của ước chung lớn nhất của hai hay nhiều số đó\nLời giải chi tiết\na) a = 72 = 23.32\nb = 96 = 25.3\nb) Ta thấy 2 và 3 là các thừa số chung của 72 và 96. Số mũ nhỏ nhất của 2 là 3 và số mũ nhỏ nhất của 3 là 1 nên ƯCLN(72, 96) = 23.3 = 24\nƯC(a, b) = Ư(24) = {1; 2; 3; 4; 6; 8; 12; 24}."
+    },
+    {
+        "problem": "Các phân số sau đã là phân số tối giản chưa? Nếu chưa, hãy rút gọn về phân số tối giản:\na) \\(\\dfrac{{50}}{{85}};\\)            b) \\(\\dfrac{{23}}{{81}}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu tử và mẫu của phân số đã cho có ước chung lớn nhất khác 1 thì phân số chưa tối giản, nếu có ước chung lớn nhất bằng 1 thì phân số đã tối giản.\nLời giải chi tiết\na) \\(\\dfrac{{50}}{{85}}\\)\nTa có: \\(50 =2.5^2; 85= 5.17\\)\nThừa số nguyên tố chung là 5 với số mũ nhỏ nhất là 1 nên ƯCLN(50, 85) = 5. Do đó, \\(\\dfrac{{50}}{{85}}\\) chưa là phân số tối giản\nTa có: \\(\\dfrac{{50}}{{85}} = \\dfrac{{50:5}}{{85:5}} = \\dfrac{{10}}{{17}}\\)\nb)\\(\\dfrac{{23}}{{81}}\\)\nTa có: \\(23 = 23; 81 = 3^4\\)\nChúng không có thừa số nguyên tố chung nên ƯCLN(23, 81) = 1. Do đó, \\(\\dfrac{{23}}{{81}}\\) là phân số tối giản."
+    },
+    {
+        "problem": "Hãy cho hai ví dụ về hai số có ƯCLN bằng 1 mà cả hai đều là hợp số.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các số có ƯCLN bằng 1 mà cả hai đều là hợp số.\nLời giải chi tiết\nHai ví dụ về hai số có ƯCLN bằng 1 mà cả hai đều là hợp số:\n4 và 9 là hai hợp số nhưng UCLN của 4 và 9 là 1;\n8 và 27 là hai hợp số nhưng UCLN của 8 và 27 là 1.\nChú ý: Ta có thể lấy các ví dụ khác\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm các tập hợp B(6), B(9).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm bội của một số tự nhiên a, ta lấy a nhân lần lượt với các số 0; 1; 2; 3;…\nLời giải chi tiết\nB(6) = {0; 6; 12; 18; 24; 30; 36; 42, 48; 54, ...}\nB(9) = {0; 9; 18; 27; 36; 45; 54; 63, ...}"
+    }
+]

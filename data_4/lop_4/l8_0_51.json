@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 1 :  a ×(b + c) = a × b + a × c . Đúng hay sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số với một tổng, ta có thể nhân số đó với từng số hạng của tổng, rồi cộng các kết quả với nhau.\n      a×(b+c)=a×b+a×c\nVậy công thức đã cho là đúng."
+    },
+    {
+        "problem": "Câu 4 : Cho biểu thức: 45 x (5 + 4). Biểu thức có kết quả bằng với biểu thức đã cho là: \nA. 45 × 5 + 4\nB. 45 + 5 × 4\nC. 5 + 45 × 4\nD. 45 × 5 + 45 × 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số với một tổng, ta có thể nhân số đó với từng số hạng của tổng, rồi cộng các kết quả với nhau.\nDo đó ta có: 45×(5+4)=45×5+45×4.\nVậy biểu thức có kết quả bằng với biểu thức 45×(5+4) là 45×5+45×4"
+    },
+    {
+        "problem": "Câu 5 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n2350×(8+6)\n= 2350×8+2350×6\n= 18800+14100\n= 32900\nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới, \ntừ trái sang phải là 2350; 6; 18800; 14100; 32900."
+    },
+    {
+        "problem": "Câu 6 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n135×3+135×7\n= 135×(3+7)\n= 135×10\n= 1350\nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới, \ntừ trái sang phải là  135; 7; 135; 10; 1350."
+    },
+    {
+        "problem": "Câu 7 : Kết quả phép tính 274 x (20 + 6) là: \nA.\t1664\nB.\t5486\nC.\t6914\nD.\t7124",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n274 × (20 + 6) = 274 × 20 + 274 × 6 = 5480 + 1644 = 7124\nVậy 274 × (20 + 6) = 7124"
+    },
+    {
+        "problem": "Câu 8 : Nếu m = 64 thì giá trị của biểu thức m × 17 + m × 23 là: \nA.\t2056\nB.\t2560\nC.\t2650\nD.\t2656",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu m = 64 thì m × 17 + m × 23\n= 64 × 17 + 64 × 23\n= 64 ×(17 + 23)\n= 64 × 40\n= 2560.\nVậy nếu m = 64 thì giá trị của biểu thức m × 17 + m × 23 là 2560."
+    },
+    {
+        "problem": "Câu 9 : Điền số thích hợp vào ô trống: \nCho phép tính\n248 ×(60 + 5 + 1)= 248 × … + … × 5 + … × 1\nCác số thích hợp điền vào dấu ba chấm từ trái qua phải là:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số với một tổng, ta có thể nhân số đó với từng số hạng của tổng, rồi cộng các kết quả với nhau.\nDo đó ta có: 248×(60+5+1)=248×60+248×5+248×1.\nVậy đáp án đúng điền vào dấu ba chấm lần lượt từ trái sang phải là 60; 248; 248."
+    },
+    {
+        "problem": "Câu 10 : Điền số thích hợp vào chỗ trống.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n57×101=57×(100+1)\n=57×100+57×1\n=5700+57\n=5757\nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới, \ntừ trái sang phải là  100; 100; 57; 5700; 57; 5757."
+    },
+    {
+        "problem": "Câu 11 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n3259×64+35×3259+3259\n= 3259×64+3259×35+3259×1\n= 3259×(64+35+1)\n= 3259×100\n= 325900\nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới, \ntừ trái sang phải là 3259; 1; 3259; 1; 3259; 100; 325900."
+    },
+    {
+        "problem": "Câu 12 : Tìm y biết:  y ×(24 + 66) = 247 × 24 + 247 × 66  \nA.\ty = 24\nB.\ty = 70\nC.\ty = 247\nD.\ty = 271",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:  247 × 24 + 247 × 66 = 247 × (24 + 66)\nTheo đề bài: y ×(24 + 66) = 247 × 24 + 247 × 66\nTừ đó ta có: y ×(24 + 66) = 247 × (24 + 66)\nSuy ra: y = 247."
+    }
+]

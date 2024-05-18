@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1: Số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5. Đúng hay sai?   \nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có chữ số tận cùng là  0 hoặc 5  thì chia hết cho 5.\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2: Các số không chia hết cho 5 có chữ số tận cùng là:\nA.\t1; 2; 3; 4\nB.\t6; 7\nC.\t8 ;9\nD.\tTất cả các đáp án đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số không có chữ số tận cùng là 0 hoặc 5 thì không chia hết cho 5.\nDo đó các số không chia hết cho 5 có chữ số tận cùng là 1;2;3;4;6;7;8;9.\nVậy tất cả các đáp án A, B, C đều đúng"
+    },
+    {
+        "problem": "Câu 3: Trong các số sau, số nào chia hết cho 5?   \nA.\t241\nB.\t345\nC.\t987\nD.\t1999",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 241 có chữ số tận cùng là 1 nên 241 không chia hết cho 5.\nSố 345 có chữ số tận cùng là 5 nên 345 chia hết cho 5.\nSố 987 có chữ số tận cùng là 7 nên 987 không chia hết cho 5.\nSố 1999 có chữ số tận cùng là 99 nên 1999 không chia hết cho 5.\nVậy trong các số đã cho, số chia hết cho 5 là 345."
+    },
+    {
+        "problem": "Câu 4: Dãy gồm các số chia hết cho 5 là: \nA.\t128; 247; 1506; 7234; 148903\nB.\t35; 250; 764; 79050; 858585\nC.\t80; 185; 875; 2020; 37105\nD.\t340; 1850; 3695; 45738; 86075",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dãy A gồm các số có chữ số tận cùng là 8;7;6;4;3 nên không chia hết cho 5.\nDãy B có số 764 có chữ số tận cùng là 4 nên không chia hết cho 5.\nDãy C gồm các số có chữ số tận cùng là 0;5 nên chia hết cho 5.\nDãy D có số 45738 có chữ số tận cùng là 88 nên 45738 không chia hết cho 5.\nVậy dãy gồm các số chia hết cho 5 là 80;185;875;2020;37105."
+    },
+    {
+        "problem": "Câu 5: Cho các số sau  30; 65; 88; 142; 1225; 1506; 2389;10350; 87615. Có bao nhiêu số không chia hết cho 5? \nA.\t3 số\nB.\t4 số\nC.\t5 số \nD.\t6 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số không có chữ số tận cùng là 0 hoặc 5 thì không chia hết cho 5. \nDo đó trong các số đã cho, các số không chia hết cho 5 là 88;142;1506;2389.\nVậy có 4 số không chia hết cho 5."
+    },
+    {
+        "problem": "Câu 6: Trong các số sau số nào vừa chia hết cho 2 vừa chia hết cho 5?\nA.\t1430\nB.\t3568\nC.\t17395\nD.\t46374",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 1430 có chữ số tận cùng là 0 nên 14300 vừa chia hết cho 2 vừa  chia hết cho 5.\nSố 3568 có chữ số tận cùng là 8 nên 3568 chia hết cho 2.\nSố 17395 có chữ số tận cùng là 5 nên 17395 chia hết cho 5.\nSố 46374 có chữ số tận cùng là 4 nên 46374 chia hết cho 2.\nVậy trong các số đã cho, số vừa chia hết cho 2 vừa chia hết cho 5 là 1430."
+    },
+    {
+        "problem": "Câu 8: Thay b bằng chữ số thích hợp để số  không chia hết cho 5.\nA.\tb = 2\nB.\tb = 7\nC.\tb = 4\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu b=2 thì số 37562 có chữ số tận cùng là 2 nên không chia hết cho 5.\nNếu b=7 thì số 37567 có chữ số tận cùng là 7 nên không chia hết cho 5.\nNếu b=4 thì số 37564 có chữ số tận cùng là 4 nên không chia hết cho 5.\nVậy tất cả các đáp án A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 9: Từ ba chữ số 2; 5; 8 hãy viết các số có hai chữ số khác nhau và chia hết cho 5. \nA.\t28; 58\nB.\t25; 85\nC.\t25; 58\nD.\t25; 55; 85",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ ba chữ số 2;5;8 viết được các số có hai chữ số khác nhau là 25;28;52;58;82;85.\nCác số 25;85 có chữ số tận cùng là 5 nên chia hết cho 5.\nVậy từ ba chữ số 2;5;8 ta viết được các số có hai chữ số khác nhau và chia hết cho 5 là 25;85."
+    }
+]

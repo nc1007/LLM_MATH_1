@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "B. abx^{m - n} ;\nC. (a – b)x^{m} ;\nD. (a + b)x^{m} ;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: ax^{m} . bx^{n}  \n= a.b.x^{m} .x^{n}  \n= abx^{m + n}  (a ≠ 0; b ≠ 0; m, n ∈ ℕ)\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 2. Tính 2x^{3} . 5x^{4}  ta thu được kết quả là:\nA. 10x^{4} ;\nB. 10x^{3} ;\nC. 10x^{7} ;\nD. 10x^{12} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 2x^{3} . 5x^{4}  \n= 2. 5. x^{3} . x^{4}  \n= 10x^{3+4}  \n= 10x^{7} .\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 3. Tính –4x^{m} . 3x^{n + 1}  (với m, n ∈ ℕ)ta thu được kết quả là:\nA. –12x^{m + n + 1} ;\nB. 12x^{m + n + 1} ;\nC. 12x^{m.(n + 1)} ;\nD. –12x^{m.(n + 1)} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: –4x^{m} . 3x^{n + 1}  (với m, n ∈ ℕ)\n= (–4). 3. x^{m} . x^{n + 1}  \n= –12x^{m + n + 1} .\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 4. Tích 2x(x + 1) có kết quả bằng:\nA. 2x^{2}  + 2x;\nB. 2x^{2}  – 2x;\nC. 2x + 2;\nD. 2x^{2}  – 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: 2x(x + 1) \n= 2x.x + 2x.1 \n= 2x^{2}  + 2x.\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 5. Chọn câu đúng.\nA. (x – 1)(x^{2}  + x + 1) = x^{3}  – 1; \nB. (x – 1)(x + 1) = 1 – x^{2} ;\nC. (x + 1)(x – 1) = x^{2}  + 1; \nD. (x^{2}  + x + 1)(x – 1) = 1 – x^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có:\n• (x – 1)(x + 1) \n= x.x + x – x – 1 \n= x^{2}  – 1 \nDo đó phương án B sai, C sai\n• (x – 1)(x^{2}  + x + 1)\n= x.x^{2}  + x.x + x.1 + (– 1).x^{2}  + (–1). x + (– 1).1\n= x^{3}  + x^{2}  + x – x^{2}  – x – 1 \n= x^{3}  – 1 \nDo đó phương án A đúng và D sai.\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 6. Tìm hệ số cao nhất của đa thức P(x) = (2x – 1)(3x^{2}  – 7x + 5).\nA. –5;\nB. 17;\nC. –17;\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có (2x – 1)(3x^{2}  – 7x + 5) \n= 2x.3x^{2}  + 2x.(–7x) + 2x.5 – 1.3x^{2}  – 1.(–7x) – 1.5\n= 6x^{3}  – 14x^{2}  + 10x – 3x^{2}  + 7x – 5\n= 6x^{3}  – 17x^{2}  + 17x – 5\nVậy hệ số cao nhất của P(x) là 6."
+    },
+    {
+        "problem": "Câu 7. Rút gọn và tính giá trị của biểu thức: P(x) = 5x^{2}  – [4x^{2}  – 3x(x – 2)] với x = 2.\nA. P(x) = 4x^{2}  – 6x; P(2) = 2;\nB. P(x) = 4x^{2}  + 6x; P(2) = 4;\nC. P(x) = 4x^{2}  – 6x; P(2) = 4;\nD. P(x) = 4x^{2}  + 6x; P(2) = 4;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có P(x) = 5x^{2}  – [4x^{2}  – 3x(x – 2)] \n= 5x^{2}  – (4x^{2}  – 3x^{2}  + 6x) \n= 5x^{2}  – (x^{2}  + 6x)\n= 5x^{2}  – x^{2}  – 6x \n= 4x^{2}  – 6x\nThay x = 2 vào P(x) = 4x^{2}  – 6x ta được:\nP(2) = 4. 2^{2}  – 6. 2 \n= 4.4 – 6. 2\n= 16 – 12 \n= 4.\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 8. Biết 5(2x − 1) − 4(8 − 3x) = 84. Giá trị của x là:\nA. x = 4; \nB. x = 4,5; \nC. x = 5; \nD. x = 5,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: 5(2x − 1) − 4(8 − 3x) = 84\nSuy ra 10x − 5 − 32 + 12x = 84\n10x + 12x = 84 + 5 + 32\n22x = 121\nx = 5,5\nVậy x = 5,5.\nTa chọn phương án D."
+    },
+    {
+        "problem": "Câu 9. Cho hình chữ nhật có chiều dài lớn hơn chiều rộng là 5 đơn vị. Biểu thức tính diện tích hình chữ nhật là:\nA. S = x^{2}  + 5x; \nB. S = 2(x^{2}  + 5x);\nC. S = 2x + 5; \nD. S = x^{2}  – 5x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGọi x (x > 0) là chiều rộng của hình chữ nhật\nTheo giả thiết ta có chiều dài hình chữ nhật là x + 5 \nDiện tích hình chữ nhật là:\nS = x(x + 5) = x^{2}  + 5x (đvdt)\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 10. Cho biểu thức P(x) = x^{2} (x^{2}  + x + 1) – 3x(x – a) + 4. Tìm a sao cho tổng các hệ số của đa thức bằng –2.\nA. –1;\nB. 1;\nC. –2;\nD. 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nP(x) = x^{2} (x^{2}  + x + 1) – 3x(x – a) + 4\n= x^{4}  + x^{3}  + x^{2}  – 3x^{2}  + 3ax + 4\n= x^{4}  + x^{3}  – 2x^{2}  + 3ax + 4\nTa có:\nHệ số của lũy thừa bậc 4 của x là 1;\nHệ số của lũy thừa bậc 3 của x là 1;\nHệ số của lũy thừa bậc 2 của x là –2;\nHệ số của lũy thừa bậc 1 của x là 3a;\nHệ số tự do là 4;\nTổng các hệ số của đa thức P(x) là:\n1 + 1 + (–2) + 3a + 4 = 3a + 4 \nDo tổng các hệ số của đa thức P(x) bằng –2 nên ta có:\n3a + 4 = –2 \nSuy ra 3a = –6\nDo đó a = –2 \nTa chọn phương án C."
+    },
+    {
+        "problem": "Câu 11. Giả sử 3 kích thước của một hình hộp chữ nhật là x; x + 1; x – 1 (cm) với x > 1. Thể tích hình hộp chữ nhật này là:\nA. x^{3}  + x (cm^{3} );\nB. x^{3}  – x (cm^{3} );\nC. x^{2}  + x (cm^{3} );\nD. x^{2}  – x (cm^{3} );",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nThể tích hình hộp chữ nhật:\nV = x(x + 1)(x – 1) \n= (x^{2}  + x)(x – 1) \n= x^{2} .x – x^{2} .1 + x.x – x.1 \n= x^{3}  – x\nVậy thể tích hình hộp chữ nhật là: V = x^{3}  – x (cm^{3} )."
+    },
+    {
+        "problem": "Câu 13. Cho B = (m – 1)(m + 6) – (m + 1)(m – 6). Chọn kết luận đúng.\nA. B ⁝ 10 với mọi m ∈ ℤ; \nB. B ⁝ 15 với mọi m ∈ ℤ;\nC. B ⁝ 9 với mọi m ∈ℤ; \nD. B ⁝ 20 với mọi m ∈ ℤ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có B = (m – 1)(m + 6) – (m + 1)(m – 6)\n= m.m + m.6 – (1.m + 1.6) – (m.m – m.6 + 1.m – 1.6)\n= m^{2}  + 6m – m – 6 – (m^{2}  – 6m + m – 6)\n= m^{2}  + 5m – 6 – m^{2}  + 6m – m + 6 \n= (m^{2}  – m^{2} ) + (5m + 6m – m) + (–6 + 6)\n= 10m\nNhận thấy 10 ⁝ 10 \nDo đó 10.m ⁝ 10 \nNên B ⁝ 10 với mọi giá trị nguyên của m.\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 14. Cho A = (3x + 7)(2x + 3) – (3x – 5)(2x + 11)\nVà B = x(2x + 1) – x^{2} (x + 2) + x^{3}  – x + 3. \nChọn khẳng định đúng trong các khẳng định sau:\nA. A = B; \nB. A = 25B; \nC. A = 25B + 1;\nD. A = 2B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nA = (3x + 7)(2x + 3) – (3x – 5)(2x + 11)\n= 3x.2x + 3x.3 + 7.2x + 7.3 – (3x.2x + 3x.11 – 5.2x – 5.11)\n= 6x^{2}  + 9x + 14x + 21 – (6x^{2}  + 33x – 10x – 55)\n= 6x^{2}  + 23x + 21 – 6x^{2}  – 33x + 10x + 55 \n= (6x^{2}  – 6x^{2} ) + (23x – 33x + 10x) + (21 + 55)\n= 76\nB = x(2x + 1) – x^{2} (x + 2) + x^{3}  – x + 3\n= x.2x + x – (x^{2} .x + 2x^{2} ) + x^{3}  – x + 3\n= 2x^{2}  + x – x^{3}  – 2x^{2}  + x^{3}  – x + 3 \n= (–x^{3}  + x^{3} ) + (2x^{2}  – 2x^{2} ) + (x – x) + 3\n= 3\nTừ đó ta có A = 76; B = 3 \nMà 76 = 25.3 + 1 nên A = 25B + 1.\nTa chọn phương án C."
+    },
+    {
+        "problem": "Câu 15. Tính tổng các hệ số của lũy thừa bậc ba, lũy thừa bậc hai và lũy thừa bậc nhất trong kết quả của phép nhân (x2 + x + 1)(x3 – 2x + 1) ta được kết quả:\nA. 1; \nB. –2; \nC. –3; \nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có (x^{2}  + x + 1)(x^{3}  – 2x + 1)\n= x^{2} .x^{3}  + x^{2} .(–2x) + x^{2} .1 + x.x^{3}  + x.(–2x) + x.1 + 1.x^{3}  + 1.(–2x) + 1.1\n= x^{5}  – 2x^{3}  + x^{2}  + x^{4}  – 2x^{2}  + x + x^{3}  – 2x + 1\n= x^{5}  + x^{4}  + (–2x^{3}  + x^{3} ) + (x^{2}  – 2x^{2} ) + (x – 2x) + 1\n= x^{5}  + x^{4}  – x^{3}  – x^{2}  – x + 1\nHệ số của lũy thừa bậc ba là – 1\nHệ số của lũy thừa bậc hai là – 1\nHệ số của lũy thừa bậc nhất là – 1\nTổng các hệ số này là –1 +(–1) + (–1) = –3.\nVậy ta chọn phương án C."
+    }
+]

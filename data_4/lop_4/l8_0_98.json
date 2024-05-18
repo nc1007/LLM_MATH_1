@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 2: Số 975 386 được đọc là:\nA.\tChín mươi bảy nghìn năm nghìn ba trăm tám mươi sáu\nB.\tChín trăm bày lăm nghìn ba trăm tám sáu\nC.\tChín trăm bày mươi lăm triệu ba trăm tám sáu\nD.\tChín trăm bày mươi lăm nghìn ba trăm tám mươi sáu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 975386 được đọc là chín trăm bảy mươi lăm nghìn ba trăm tám mươi sáu."
+    },
+    {
+        "problem": "Câu 4: Giá trị của chữ số 2 trong số 17235 là:\nA.\t2\nB.\t20\nC.\t200\nD.\t2000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 2 trong số 17235 thuộc hàng trăm nên giá trị của chữ số 2 trong số 17235 là 200."
+    },
+    {
+        "problem": "Câu 5: Số thích hợp điền vào chỗ chấm để 3kg 20g = ...g là:\nA.\t302\nB.\t320\nC.\t3020\nD.\t3200",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 1kg=1000g nên 3kg=3000g.\nDo đó: 3kg20g=3kg+20g=3000g+20g=3020g.\nVậy đáp án đúng điền vào ô trống là 3020."
+    }
+]

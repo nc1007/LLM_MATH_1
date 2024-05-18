@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Hãy viết:\na) Các tập hợp: B(3); B(4); B(8).\nb) Tập hợp M các số tự nhiên nhỏ hơn 50 là bội chung của 3 và 4.\nc) Tập hợp K các số tự nhiên nhỏ hơn 50 là bội chung của 3;4 và 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm bội của một số tự nhiên ta lấy số đó nhân lần lượt với các số 0; 1; 2; 3…\nLời giải chi tiết\na) B(3) = {0; 3; 6; 9; 12; 15; 18; 21; 24; 27; 30; 33; 36; 39; 42; 45; 48; 51;...}\nB(4) = {0; 4; 8; 12; 16; 20; 24; 38; 32; 36; 40; 44; 48; 52;...}\nB(8) = {0; 8; 16; 24; 32; 40; 48; 56; 64; 72; 80;...}\nb) M = {0; 12; 24; 36; 48}\nc) K = {0; 24; 48}"
+    },
+    {
+        "problem": "- Chỉ ra số nhỏ nhất khác 0 trong tập hợp BC(6, 8). Hãy nhận xét về quan hệ giữa số nhỏ nhất đó với các bội chung của 6 và 8.\n- Chỉ ra số nhỏ nhất khác 0 trong tập hợp BC(3, 4, 8). Hãy nhận xét về quan hệ giữa số nhỏ nhất đó với các bội chung của 3, 4 và 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm B(6) ; B(8), suy ra BC(6,8)\n- Tìm B(3); B(4); B(8), suy ra BC(3,4,8)\nLời giải chi tiết\n- Ta có: B(6) = {0; 6; 12; 18; 29; 30; 36; 42; 48;.. }\nB(8) = {0; 8; 16; 24; 32; 40; 48;..}\n=> BC(6, 8) = {0; 24; 48;...}\nVậy số nhỏ nhất khác 0 trong tập hợp BC(6, 8) là 24\n* Nhận xét: Số nhỏ nhất khác 0 trong tập hợp bội chung của hai số 6, 8 là ước của các bội chung của 6 và 8.\n- Ta có: B(3) = {0; 3; 6; 9; 12; 15; 18; 21; 24; 27; 30; 33; 36; 39;… }\nB(4) = {0; 4; 8; 12; 16; 20; 24; 38; 32; 36; 40; 44; 48; 52;...}\nB(8) = {0; 8; 16; 24; 32; 40; 48;...}\n=> BC(3, 4, 8) = {0; 24; 48;...}\nVậy số nhỏ nhất khác 0 trong tập hợp BC(3, 4, 8) là 24.\n* Nhận xét: Số nhỏ nhất khác 0 trong tập hợp bội chung của ba số 3, 4, 8 là ước của các bội chung của 3, 4, 8."
+    },
+    {
+        "problem": "Viết tập hợp BC(4, 7), từ đó chỉ ra BCNN(4, 7). Hai số 4 và 7 có là hai số nguyên tố cùng nhau không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bội chung nhỏ nhất của hai hay nhiều số là số nhỏ nhất khác 0 trong tập hợp các bội chung của các số đó.\nLời giải chi tiết\nB(4) = {0; 4; 8; 12; 16; 20; 24; 28; 32; ...}\nB(7) = {0; 7; 14; 21; 28; 35;... }\n=> BCNN(4, 7) = 28\n- Hai số 4 và 7 là hai số nguyên tố cùng nhau vì ƯCLN(4,7)=1.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm BCNN(24, 30); BCNN(3, 7, 8); BCNN(12, 16, 48).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu các số đã cho từng đôi một nguyên tố cùng nhau thì BCNN của chúng là tích của các số đó.\n- Trong các số đã cho, nếu số lớn nhất là bội của các số còn lại thì BCNN của các số đã cho chính là số lớn nhất ấy.\nLời giải chi tiết\n- Ta có: 24 = 23.3\n30 = 2.3.5\nBCNN(24, 30) = 23.3.5 = 120\n- Ta có các số 3, 7, 8 từng đôi một là số nguyên tố cùng nhau.\n=> BCNN(3, 7, 8) = 3.7.8 = 168\n- Ta có 48 là bội của 12 và 16\n=> BCNN(12, 16, 48) = 48."
+    },
+    {
+        "problem": "Tìm BCNN(2, 5, 9); BCNN(10, 15, 30).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu các số đã cho từng đôi một nguyên tố cùng nhau thì BCNN của chúng là tích của các số đó.\n- Trong các số đã cho, nếu số lớn nhất là bội của các số còn lại thì BCNN của các số đã cho chính là số lớn nhất ấy.\nLời giải chi tiết\n- Ta có: 2, 5, 9 từng đôi một là số nguyên tố cùng nhau.\n=> BCNN(2, 5, 9) = 2.5.9 = 90\n- Ta có: 30 là bội của 10 và 15\n=> BCNN(10, 15, 30) = 30.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm:\na) BC(6, 14);          b) BC(6, 20, 30);\nc) BCNN(1,6);        d) BCNN (10, 1, 12);\ne) BCNN (5, 14).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm BCNN của hai hay nhiều số lớn hơn 1, ta thực hiện ba bước sau:\nBước 1: Phân tích mỗi số ra thừa số nguyên tố.\nBước 2: Chọn ra các thừa số nguyên tố chung và riêng.\nBước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất của nó.\nTích đó là BCNN phải tìm.\nNhận xét: - Nếu các số đã cho từng đôi một nguyên tố cùng nhau thì BCNN của chúng là tích của các số đó.\n- BC của một số là bội của BCNN của số đó.\nChú ý: 2 số a và b được gọi là nguyên tố cùng nhau nếu ƯCLN (a,b) = 1\nLời giải chi tiết\na) Ta có: 6 = 2.3;  14 = 2.7\n=> BCNN(6, 14) = 2.3.7 = 42\n=> BC(6, 14) = B(42) = {0; 42; 84; 126;... }\nb) Ta có: 6 = 2.3; 20 = 22.5; 30 = 2.3.5\n=> BCNN(6, 20, 30) = 22.3.5 = 60\n=> BC(6, 20, 30) = B(60) = {0; 60; 120; 180; 240;...}.\nc) Vì hai số 1 và 6 là hai số nguyên tố cùng nhau => BCNN(1, 6) = 1.6 = 6.\nd) Ta có: 10 = 2.5\n12 = 22.3\n=> \\(BCNN(10, 1, 12) = 2^2.3.5 = 60.\\)\ne) Ta có: 14 = 2.7 => BCNN(5, 14) = 5 . 2 . 7 = 70."
+    },
+    {
+        "problem": "a) Ta có BCNN(12, 16) = 48. Hãy viết tập hợp A các bội của 48. Nhận xét về tập hợp BC(12, 16) và tập hợp A.\nb) Để tìm tập hợp bội chung của hai số tự nhiên a và b, ta có thể tìm tập hợp các bội của BCNN(a, b). Hãy vận dụng để tìm tập hợp các bội chung của:\ni. 24 và 30;               ii. 42 và 60;\niii. 60 và 150;            iv. 28 và 35.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm BCNN của hai hay nhiều số lớn hơn 1, ta thực hiện ba bước sau:\nBước 1: Phân tích mỗi số ra thừa số nguyên tố.\nBước 2: Chọn ra các thừa số nguyên tố chung và riêng.\nBước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất của nó.\nTích đó là BCNN phải tìm.\n- Nếu các số đã cho từng đôi một nguyên tố cùng nhau thì BCNN của chúng là tích của các\nsố đó.\nNhận xét: BC của một số là bội của BCNN của số đó.\nLời giải chi tiết\na) A = {0; 48; 96; 144, 192;...}\n* Nhận xét: Tập hợp BC(12, 16) chính là tập hợp A.\nb)\ni. 24 = 23.3; 30 = 2.3.5\n=> BCNN(24,30) = 23. 3.5= 120\n=> BC(24, 30) = B(120) = {0; 120; 240; 360;...}\nii. 42 = 2.3.7; 60 = 22.3.5\n=> BCNN(42, 60) = 420\n=> BC(42, 60) = B(420) = {0; 420, 840; 1260;…}.\niii. 60 = 22.3.5\n150 = 2.3.52\n=> BCNN(60, 150) = 22.3.52 = 300\n=> BC(60, 150) = B(300) = {0; 300, 600, 900, 1200;...}.\niv. 28 = 22.7; 35 = 5.7\n=> BCNN(28, 35) = 22.5.7 = 140\n=> BC(28, 35) = B(140) = {0; 140; 280; 420, 560;...}.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Quy đồng mẫu số các phân số sau (có sử dụng bội chung nhỏ nhất):\n\\(\\)a) \\(\\frac{3}{{16}}\\) và \\(\\frac{5}{{24}}\\);         b) \\(\\frac{3}{{20}};\\,\\,\\frac{{11}}{{30}}\\) và \\(\\frac{7}{{15}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn quy đồng mẫu số nhiều phân số ta có thể làm như sau:\nBước 1: Tìm một bội chung của các mẫu số (thường là BCNN) để làm mẫu số chung.\nBước 2: Tìm thừa số phụ của mỗi mẫu số (bằng cách chia mẫu số chung cho từng mẫu số riêng).\nBước 3: Nhân tử số và mẫu số của mỗi phân số với thừa số phụ tương ứng.\nLời giải chi tiết\na) Ta có: BCNN(16, 24) = 48\n48 : 16 = 3; 48 : 24 = 2. Do đó:\n\\(\\frac{3}{{16}} = \\frac{{3.3}}{{16.3}} = \\frac{9}{{48}}\\)\n\\(\\frac{5}{{24}} = \\frac{{5.2}}{{24.2}} = \\frac{{10}}{{48}}\\).\nb) Ta có: BCNN(20, 30, 15) = 60\n60 : 20 = 3; 60 : 30 = 2; 60 : 15 = 4. Do đó:\n\\(\\frac{3}{{20}} = \\frac{{3.3}}{{20.3}} = \\frac{9}{{60}}\\)\n\\(\\frac{{11}}{{30}} = \\frac{{11.2}}{{30.2}} = \\frac{{22}}{{60}}\\)\n\\(\\frac{7}{{15}} = \\frac{{7.4}}{{15.4}} = \\frac{{28}}{{60}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thực hiện các phép tính:( có sử dụng bội chung nhỏ nhất):a)\\(\\frac{11}{15}+\\frac{9}{10}\\)b)\\(\\frac{5}{6}+\\frac{7}{9}+\\frac{11}{12}\\)c)\\(\\frac{7}{24}- \\frac{2}{21}\\)d)\\(\\frac{11}{36} - \\frac{7}{24}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mẫu số chung ta chọn là BCNN của các mẫu số của các phân số có trong phép tính\nLời giải chi tiết\na) Ta có: BCNN(15,10)=30 nên ta chọn mẫu số chung là 30\n\\(\\frac{11}{15}+\\frac{9}{10}=\\frac{22}{30}+\\frac{27}{30}=\\frac{49}{30}\\)\nb) Ta có: BCNN(6,9,12)=36 nên ta chọn mẫu số chung là 36\n\\(\\frac{5}{6} + \\frac{7}{9} + \\frac{{11}}{{12}} = \\frac{{30}}{{36}} + \\frac{{28}}{{36}} + \\frac{{33}}{{36}} = \\frac{{91}}{{36}}\\)\nc) Ta có: BCNN(24,21)=168 nên ta chọn mẫu số chung là 168\n\\(\\frac{7}{{24}} - \\frac{2}{{21}} = \\frac{{49}}{{168}} - \\frac{{16}}{{168}} = \\frac{{33}}{{168}}=\\frac{11}{56}\\)\nd) Ta có: BCNN(36,24)=72 nên ta chọn mẫu số chung là 72\n\\(\\frac{{11}}{{36}} - \\frac{7}{{24}} = \\frac{{22}}{{72}} - \\frac{{21}}{{72}} = \\frac{1}{{72}}\\)"
+    },
+    {
+        "problem": "Chị Hoà có một số bông sen. Nếu chị bó thành các bó gồm 3 bông, 5 bông hay 7 bông thì đều vừa hết. Hỏi chị Hoà có bao nhiêu bông sen? Biết rằng chị Hoà có khoảng từ 200 đến 300 bông.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số bông sen là bội chung của 3, 5, 7 và \\(200 \\le x \\le 300\\).\nLời giải chi tiết\n- Gọi số bông sen chị Hòa có là: x (bông), (\\(x \\in \\mathbb{N}\\)).\n- Nếu chị bó thành các bó bông gồm 3 bông, 5 bông hay 7 bông thì vừa hết nên số bông sen chị Hòa có là bội chung của 3, 5 và 7.\n- Theo đề bài ta có x \\(\\in\\) BC(3, 5, 7) và 200 < x < 300\nVì 3, 5, 7 từng đôi một là số nguyên tố cùng nhau.\n=> BCNN(3, 5, 7) = 3.5.7 = 105\n=> BC(3, 5, 7) = B(105) = {0; 105; 210; 315;...}\n=> x \\( \\in \\) BC(3, 5, 7) ={0; 105; 210; 315,...}.\nMà \\(200 \\le x \\le 300\\) nên x = 210.\nVậy số bông sen chị Hòa có là 210 bông."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức (bằng cách hợp lí nếu có thể).\na) A = 37.173 + 62.173 +173;\nb) B = 72.99 + 28.99 - 900;\nc) C = 23.3 - (110+15):42;\nd) D = 62:4.3 + 2.52 - 2010.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Áp dụng tính chất phân phối của phép nhân với phép cộng: a(b+c)=ab+ac\n- Khi thực hiện các phép tính trong một biểu thức:\n+ Đối với biểu thức không có dấu ngoặc:\ntheo thứ tự từ trái sang phải.\nnâng lên luỹ thừa trước, rồi đến nhân và chia, cuối cùng đến cộng và trừ.\n+ Đối với biểu thức có dấu ngoặc: Ta thực hiện phép tính trong ngoặc trước.\nLời giải chi tiết\na) A = 37. 173 +62. 173 + 173\n= 173. (37 +62 + 1)\n= 173.100\n= 17 300\nb) B = 72.99 + 28.99 - 900\n= 99. (72+28) - 900\n= 99.100 - 900\n= 9 900 - 900\n= 9 000\nc) C = 23.3-(110 + 15): 42\n= 8.3 - (1 + 15): 42\n= 8.3 - 16:42\n= 8.3 - 1\n= 23.\nd) D = 62: 4.3 + 2.52 - 2010\n= 36:4.3 + 2.25 - 1\n= 27 + 50 - 1\n= 76."
+    },
+    {
+        "problem": "Tìm các chữ số x, y biết:\na) \\(\\overline {12x02y} \\) chia hết cho cả 2; 3 và 5.\nb) \\(\\overline {413x2y} \\) chia hết cho 5 và 9 mà không chia hết cho 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tận cùng là 0 hoặc 5 thì chia hết cho 5; các số có tận cùng là 0;2;4;6;8 thì chia hết cho 2 nên các số có tận cùng là 0 thì vừa chia hết cho 2, vừa chia hết cho 5; các số có tận cùng là 5 thì chia hết cho 5 nhưng không chia hết cho 2.\na) Các số có chữ số tận cùng là 0 và có tổng các chữ số chia hết cho 3 thì chia hết cho 2, 3 và 5.\nb) Các số có tận cùng là 5 và có tổng các chữ số chia hết cho 9 thì chia hết cho 5 và 9 mà không chia hết cho 2.\nLời giải chi tiết\na) \\(\\overline {12x02y} \\) chia hết cho 2 và 5 khi chữ số tận cùng của nó là 0.\n=> y = 0\n\\(\\overline {12x020} \\) chia hết cho 3 khi tổng các chữ số của nó cũng chia hết cho 3.\nNên (1 + 2 + x + 0 + 2 + 0)\\( \\vdots \\)3\n=> (x + 5) \\( \\vdots \\) 3 và \\(0 \\le x \\le 9\\)\n=> x\\( \\in \\) {1; 4; 7}\nVậy để \\(\\overline {12x02y} \\) chia hết cho 2, 3 và cả 5 thì y = 0 và x \\( \\in \\){1; 4; 7}.\nb) \\(\\overline {413x2y} \\) chia hết cho 5 mà không chia hết cho 2 khi chữ số tận cùng của nó là 5\n=> y = 5\n\\(\\overline {413x25} \\)chia hết cho 9 khi tổng các chữ số của nó cũng chia hết cho 9\nNên (4 + 1 + 3 + x + 2 + 5) \\( \\vdots \\)9\n=> (x + 15) \\( \\vdots \\)9 và \\(0 \\le x \\le 9\\)\n=> x = 3.\nVậy  \\(\\overline {413x2y} \\) chia hết cho 5 và 9 mà không chia hết cho 2 thì x = 3 và y = 5.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các tập hợp sau bằng cách liệt kê các phần tử:\na) A= {a \\( \\in \\) \\(\\mathbb{N}\\)| 84 \\( \\vdots \\)a; 180\\( \\vdots \\) a và a > 6};\nb) B = {b \\( \\in \\)\\(\\mathbb{N}\\)| b\\( \\vdots \\)12; b\\( \\vdots \\)15; b\\( \\vdots \\)18 và 0 < b < 300}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm các ước chung của 84 và 180 mà lớn hơn 6\nb) Tìm các bội chung của 12; 15 và 18 mà lớn hơn 0 nhỏ hơn 300\nLời giải chi tiết\na) Theo đề bài: 84 chia hết cho a và 180 chia hết cho a nên a là ƯC(84, 180) và a > 6.\nTa có: 84 = 22.3.7\n180 = 22. 32.5\nƯCLN(84, 180) = 22. 3 = 12\n=> a \\( \\in \\) ƯC(84, 180) = Ư(12) = {1; 2; 3; 4; 6; 12}\nMà a > 6.\n=> a = 12.\nVậy tập hợp A = {12}\nb) Vì b chia hết cho 12, b chia hết cho 15, b chia hết cho 18 nên b là BC(12, 15, 18) và 0 < b <300\nTa có: \\(12 = 2^2. 3;  15 = 3.5;  18 = 2.3^2\\)\n\\(\\Rightarrow BCNN(12, 15, 18) = 2^2 . 3^2.5 = 180\\)\n=> b\\( \\in \\) BC(12, 15, 18) = B(180) = {0; 180; 360;...}\nMà 0 < b < 300\n=> b = 180\nVậy tập hợp B = {180}.\nLoigiaihay.com"
+    }
+]

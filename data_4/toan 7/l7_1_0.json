@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "B. ℚ\nC. ℕ \nD. ℕ*",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTập hợp các số hữu tỉ được kí hiệu là ℚ"
+    },
+    {
+        "problem": "Câu 2. Chọn câu trả lời đúng?\nA. -5 ∈ ℕ\nB. −\\frac{5}{7} ∈ ℤ \nC. −\\frac{4}{7} ∉ ℚ \nD. \\frac{3}{5} ∈ ℚ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDo ‒5 là số nguyên âm, mà ℕ là tập hợp các số tự nhiên nên -5 ∈ ℕ là cách viết sai. \n−\\frac{5}{7} là số hữu tỉ, mà ℤ là tập hợp các số nguyên nên −\\frac{5}{7} ∈ ℤ là cách viết sai. \n−\\frac{4}{7} là số hữu tỉ nên −\\frac{4}{7} ∉ ℚ là cách viết sai. \n\\frac{3}{5} là số hữu tỉ nên cách viết \\frac{3}{5} ∈ ℚ là cách viết đúng."
+    },
+    {
+        "problem": "Câu 3. Số nào sau đây là số hữu tỉ dương?\nA.\\frac{−}{7}; \nB.\\frac{−}{5}; \nC.\\frac{−}{−}; \nD.−\\frac{2}{9}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \\frac{−}{7}\\frac{−}{5}\nVậy số hữu tỉ dương là \\frac{−}{−}\\frac{1}{2}−\\frac{2}{9}"
+    },
+    {
+        "problem": "Câu 4. Số nào sau đây là số hữu tỉ âm?\nA. 0,13;\nB.−\\frac{−}{7}; \nC.\\frac{−}{5}; \nD.\\frac{−}{−}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 0,13\\frac{13}{100}−\\frac{−}{7}\\frac{5}{7}\n−\\frac{13}{5}\\frac{−}{−}\\frac{2}{7}\nVậy số hữu tỉ âm là −\\frac{13}{5}."
+    },
+    {
+        "problem": "Câu 5. Chọn câu trả lời đúng:\nA. Số hữu tỉ 0 là số hữu tỉ âm;\nB. Số hữu tỉ 0 không là số hữu tỉ âm, cũng không là số hữu tỉ dương;\nC. Số hữu tỉ 0 là số hữu tỉ dương;\nD. Số hữu tỉ 0 vừa là số hữu tỉ âm, vừa là số hữu tỉ dương.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nSố hữu tỉ 0 không là số hữu tỉ âm, cũng không là số hữu tỉ dương. Do đó chọn đáp án B."
+    },
+    {
+        "problem": "Câu 6. Số hữu tỉ là số được viết dưới dạng phân số \\frac{a}{b} với điều kiện nào sau đây?\nA. a, b ∈ ℕ , b ≠ 0;\nB. a ∈ ℕ , b 0; \nC. a, b ∈ℤ , b ≠ 0; \nD. a = 0, b ≠ 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nSố hữu tỉ là số viết được dưới dạng phân số \\frac{a}{b} với a, b ∈ ℤ , b ≠ 0."
+    },
+    {
+        "problem": "Câu 8. Số đối của 3,5 là:\nA. 3,5;\nB.\\frac{3}{5}; \nC. ± 3,5;\nD. − 3,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nSố đối của số hữu tỉ a, kí hiệu là − a.\nVậy số đối của 3,5 là – 3,5."
+    },
+    {
+        "problem": "Câu 10. Trong các khẳng định sau, khẳng định nào đúng?\nA.\\frac{−}{−} là số hữu tỉ dương;\nB. 0 vừa là số hữu tỉ dương, vừa là số hữu tỉ âm;\nC.\\frac{0}{3} không là số hữu tỉ;\nD.\\frac{0}{4} là số hữu tỉ dương.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: \\frac{−}{−}\\frac{2}{9} , suy ra A đúng.\nSố hữu tỉ 0 không là số hữu tỉ dương, cũng không là số hữu tỉ âm; suy ra B sai.\n \\frac{0}{3}là một số hữu tỉ, suy ra C sai.\n \\frac{0}{4} không là số hữu tỉ dương, suy ra D sai."
+    },
+    {
+        "problem": "Câu 11. So sánh các số hữu tỉ sau: \\frac{−112}{113},\\frac{−15}{−7},\\frac{−215}{211}\nA.\\frac{−}{113}\\frac{−}{−}\\frac{−215}{211} \nB.\\frac{−15}{−7}\\frac{−112}{113}\\frac{−215}{211}; \nC.\\frac{−15}{−7}\\frac{−112}{113}\\frac{−215}{211}; \nD.\\frac{−}{113}\\frac{−}{−}\\frac{−215}{211}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\\frac{−}{−}\\frac{15}{7} \n \\frac{112}{113}\\frac{215}{211}hay \\frac{112}{113}\\frac{215}{211}\nSuy ra 0\\frac{−112}{113}\\frac{−215}{211}; \nDo đó \\frac{−15}{−7}\\frac{−112}{113}\\frac{−215}{211}"
+    },
+    {
+        "problem": "Câu 12. Hãy sắp xếp các số hữu tỉ sau đây theo thứ tự tăng dần: \\frac{1}{5},\\frac{−}{5},\\frac{3}{7},\\frac{−}{3},0.\nA. \\frac{−}{5}\\frac{−}{3}\\frac{1}{5}\\frac{3}{7};\nB.\\frac{−}{5}\\frac{−}{3}\\frac{3}{7}\\frac{1}{5}; \nC.\\frac{−}{3}\\frac{−}{5}\\frac{1}{5}\\frac{3}{7}; \nD.\\frac{−}{3}\\frac{−}{5}\\frac{3}{7}\\frac{1}{5}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có\\frac{−}{3}\\frac{−}{15}\\frac{−}{5}\\frac{−}{15} \nDo \\frac{−}{15}\\frac{−}{15}\\frac{−}{3}\\frac{−}{5}.\n\\frac{3}{7}\\frac{15}{35},\\frac{1}{5}\\frac{7}{35};\nDo\\frac{15}{35}\\frac{7}{35}\\frac{3}{7}\\frac{1}{5}>0. \nVậy thứ tự tăng dần của dãy số là:\\frac{3}{7}\\frac{1}{5}\\frac{−}{3}\\frac{−}{5}. \nDo đó\\frac{−}{5}\\frac{−}{3}\\frac{1}{5}\\frac{3}{7}. \nVậy sắp xếp các số theo thứ tự tăng dần là: \\frac{−}{5}\\frac{−}{3}\\frac{1}{5}\\frac{3}{7} ."
+    },
+    {
+        "problem": "Câu 13. Trên một trục số biểu diễn hai điểm − 15 và 15. Phát biểu nào sau đây đúng?\nA. Khoảng cách từ điểm – 15 đến điểm gốc 0 lớn hơn khoảng cách từ điểm gốc 0 đến điểm 15;\nB. Khoảng cách từ điểm – 15 đến điểm gốc 0 nhỏ hơn khoảng cách từ điểm gốc 0 đến điểm 15;\nC. Khoảng cách từ điểm − 15 và điểm 15 đến điểm gốc 0 bằng nhau;\nD. Không có đáp án nào đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHai điểm biểu diễn các số hữu tỉ − 15 và 15 nằm về hai phía của điểm gốc 0 và cách đều điểm gốc 0."
+    },
+    {
+        "problem": "Câu 14. Lan muốn mua một chiếc áo nhưng không biết chiều dài của áo tương ứng với các size S, M, L. Người bán hàng cho biết chiều dài áo tương ứng với các size S, M, L lần lượt là 48,5 cm; 50,2 cm; 52,4 cm. Chiếc áo Lan mua phải dài hơn \\frac{1}{3} chiều cao của Lan, biết Lan cao 155 cm. Lan nên mua chiếc áo có size gì?\nA. Size S;\nB. Size M;\nC. Size L;\nD. Size M và L đều được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nChiếc áo Lan mua cần dài hơn \\frac{155}{3} cm;\nTa có:48,5\\frac{485}{10};\\frac{502}{10};\\frac{524}{10}; \nMà \\frac{155}{3}\\frac{1550}{30};\\frac{485}{10}\\frac{1455}{30};\n\\frac{502}{10}\\frac{1506}{30};\\frac{524}{10}\\frac{1572}{30};\nVà 1572 > 1550 > 1506 > 1455;\nSuy ra\\frac{1572}{30}\\frac{1550}{30}\\frac{1506}{30}\\frac{1455}{30};\nHay 52,4 > \\frac{155}{3} > 50,2 > 48,5.\nVậy Lan nên mua chiếc áo size L."
+    },
+    {
+        "problem": "Câu 15. Cho số hữu tỉ x\\frac{m−}{2021} , với giá trị nào của m thì x là số không dương không âm.\nA. m = 2021;\nB. m = 2020;\nC. m = 2019;\nD. m = 2022.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDo x là số hữu tỉ không dương và không âm nên x = 0;\nSuy ra \\frac{m−2022}{2021}\nm – 2022 = 0;\nm = 2022.\nVậy m = 2022 thì x là số không dương và không âm."
+    }
+]

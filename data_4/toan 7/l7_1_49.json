@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 2. Cho tam giác MNP có 21M^=14N^=6P^. Số đo góc N là:\nA. 30°;\nB. 45°;\nC. 60°;\nD. 105°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nXét tam giác MNP có M^+N^+P^=180°(tổng ba góc trong một tam giác)\nVì 21M^=14N^=6P^ nên\\frac{21M^}{42}=\\frac{14N^}{42}=\\frac{6P^}{42}\n⇒\\frac{M^}{2}=\\frac{N^}{3}=\\frac{P^}{7}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có: \n\\frac{M^}{2}=\\frac{N^}{3}=\\frac{P^}{7}=\\frac{M^+N^+P^}{2+3+7}=\\frac{180°}{12}=15°\nSuy ra N^=15°.3=45°\nVậy số đo góc N bằng 45°."
+    },
+    {
+        "problem": "Câu 5. Cho một tam giác cân có độ dài hai cạnh (không bằng nhau) là 2 cm và 5 cm. Chu vi của tam giác đó là:\nA. 9 cm;\nB. 10 cm;\nC. 11 cm;\nD. 12 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nGiả sử tam giác ABC cân có AB = 2 cm và BC = 5 cm.\nÁp dụng bất đẳng thức cho tam giác ABC ta có:\nBC – AB < AC < BC + AB\nHay 5 – 2 < AC < 5 + 2\nSuy ra 3 < AC < 7 (*)\nVì tam giác ABC là tam giác cân (giả thiết) \nMà AB = 2 cm và BC = 5 cm nên không thể cân tại B.\nDo đó có hai trường hợp có thể xảy ra:\n• Trường hợp 1: DABC cân tại A.\nSuy ra AB = AC.\nMà AB = 2 cm nên AC = 2 cm (không thỏa mãn điều kiện (*))\nNên AB = 2 cm hoặc AB = 5 cm (2)\n• Trường hợp 2: DABC cân tại C.\nSuy ra CA = CB.\nMà BC = 5 cm nên AC = 5 cm (thỏa mãn điều kiện (*))\nVậy AC = 5 cm.\nKhi đó chu vi tam giác ABC là: \nAB + AC + BC = 2 + 5 + 5 = 12 (cm).\nTa chọn phương án D."
+    },
+    {
+        "problem": "Câu 17. Giao điểm của ba đường trung tuyến trong một tam giác được gọi là gì?\nA. Điểm cách đều ba đỉnh của tam giác đó; \nB. Trọng tâm; \nC. Điểm cách đều ba cạnh của tam giác đó; \nD. Trực tâm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐiểm cách đều ba đỉnh của tam giác là giao điểm của ba đường trung trực của tam giác đó.\nTrọng tâm là giao điểm của ba đường trung tuyến của một tam giác.\nĐiểm cách đều ba cạnh của tam giác là giao điểm của ba đường phân giác của tam giác đó.\nTrực tâm là giao điểm của ba đường cao của một tam giác.\nVậy ta chọn phương án B."
+    },
+    {
+        "problem": "Câu 18. Trong một tam giác, trực tâm là giao điểm của ba đường gì?\nA. Trung trực; \nB. Phân giác; \nC. Trung tuyến; \nD. Đường cao.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTrong một tam giác, trực tâm là giao điểm của ba đường cao.\nDo đó ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 19. Cho các phát biểu:\n(I) Ba đường trung tuyến của một tam giác đồng quy tại một điểm.\n(II) Ba đường phân giác của một tam giác đồng quy tại một điểm.\n(III) Ba đường trung trực của một tam giác đồng quy tại một điểm.\n(IV) Ba đường cao của một tam giác đồng quy tại một điểm.\nSố các phát biểu đúng là:\nA. 1; \nB. 2; \nC. 3; \nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa xét từng phát biểu:\nBa đường trung tuyến của một tam giác đồng quy tại một điểm, điểm đó là trọng tâm của tam giác đó.\nDo đó phát biểu (I) đúng.\nBa đường phân giác của một tam giác đồng quy tại một điểm, điểm đó cách đều ba cạnh của tam giác đó.\nDo đó phát biểu (II) đúng.\nBa đường trung trực của một tam giác đồng quy tại một điểm, điểm đó cách đều ba đỉnh của tam giác đó.\nDo đó phát biểu (III) đúng.\nBa đường cao của một tam giác đồng quy tại một điểm, điểm đó được gọi là trực tâm của tam giác đó.\nDo đó phát biểu (IV) đúng.\nVậy có 4 phát biểu đúng, ta chọn phương án D."
+    }
+]

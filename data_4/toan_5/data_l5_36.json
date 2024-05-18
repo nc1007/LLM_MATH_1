@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Phần trăm được kí hiệu là:\nA.\t%\nB.\t%o",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phần trăm được kí hiệu là %."
+    },
+    {
+        "problem": "Câu 9: Tổng kết bài kiểm tra môn Toán cô giáo thấy số bạn đạt điểm 10 chiếm 42%, số bạn đạt điểm 9 ít hơn số bạn đạt điểm 10 là 8,5%. Hỏi số bạn đạt điểm 9 và điểm 10 chiếm tất cả bao nhiêu phần trăm số học sinh cả lớp?\nA.\t33,5%\nB.\t49,5%\nC.\t50,5%\nD.\t75,5%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số bạn đạt điểm 9 chiếm số phần trăm số học sinh cả lớp là:\n42% − 8,5% = 33,5%\nSố bạn đạt điểm 9 và điểm 10 chiếm tất cả số phần trăm số học sinh cả lớp là:   \n42% + 33,5% = 75,5%\nĐáp số: 75,5%"
+    }
+]

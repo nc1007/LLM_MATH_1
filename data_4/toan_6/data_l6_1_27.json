@@ -1,0 +1,128 @@
+[
+    {
+        "problem": "A.\\frac{5}{8}\nB.\\frac{8}{−5}\nC.\\frac{−5}{8}\nD.– 5,8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhân số âm năm phần tám được viết là \\frac{−5}{8}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Hãy viết phép chia sau dưới dạng phân số: (-58) : 73\nA.\\frac{−58}{73}\nB.\\frac{58}{73}\nC.\\frac{73}{−58}\nD.\\frac{58}{73}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhép chia (-58) : 73 được viết dưới dạng phân số là:\\frac{−58}{73}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Phân số nào dưới đây bằng với phân số \\frac{−2}{5}\nA.\\frac{4}{10}\nB.\\frac{−6}{15}\nC.\\frac{6}{15}\nD.\\frac{−4}{−10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A:\nVì −2.10 ≠ 4.5 nên\\frac{−2}{5}≠\\frac{4}{10}\n⇒ A sai.\nĐáp án B:\nVì (−2).15 = (−6).5 = −30 nên \\frac{−2}{5}=\\frac{−6}{15}\n⇒ B đúng.\nĐáp án C:\n (−2).15 ≠ 6.5 nên \\frac{−2}{5}≠\\frac{6}{15}\n⇒ C sai.\nĐáp án D:\nVì (−2).(−10) ≠ (−4).5 nên \\frac{−2}{5}\\frac{−4}{−10}\n⇒ D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Chọn câu sai?\nA.\\frac{1}{3}=\\frac{45}{135}\nB.\\frac{−13}{20}=\\frac{26}{−40}\nC.\\frac{−4}{15}=\\frac{−16}{−60}\nD.\\frac{6}{7}=\\frac{−42}{−49}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A:\nVì 1.135 = 3.45 nên \\frac{1}{3}=\\frac{45}{135}\n⇒A đúng.\nĐáp án B:\nVì (−13).(−40)=20.26 nên \\frac{−13}{20}=\\frac{26}{−40}\n⇒B đúng.\nĐáp án C:\nVì (−4).(−60)≠15.(−16) nên \\frac{−4}{15}=\\frac{−16}{−60}\n⇒C sai.\nĐáp án D:\nVì 6.(−49)=7.(−42) nên \\frac{6}{7}=\\frac{−42}{−49}\n⇒D đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Điền số thích hợp vào chỗ chấm \\frac{15}{90}=\\frac{5}{...}\nA. 20\nB. – 60\nC. 60\nD. 30",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{15}{90}=\\frac{5}{x}15x=90.5x=\\frac{90.5}{15}=30\nVậy số cần điền là: 30.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Viết 20 dm^{2}  dưới dạng phân số với đơn vị là mét vuông\nA.\\frac{100}{20}m2\nB.\\frac{20}{100}m2\nC.\\frac{20}{10}m2\nD.\\frac{20}{1000}m2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:20dm2=\\frac{20}{100}m2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Tính tổng các giá trị biết rằng −\\frac{111}{37}<x<\\frac{91}{13}\nA. 22\nB. 20\nC. 18\nD. 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n−\\frac{111}{37}<x<\\frac{91}{13}\n⇒ −3 < x < 7 \n⇒ x∈{−2; −1; 0; 1; 2; 3; 4; 5; 6}\nVậy tổng các giá trị của x thỏa mãn là: (−2) + (−1) +...+ 5 + 6 = 18\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Nhận xét nào sau đây là đúng khi nói về phân số? \nA. Phân số nhỏ hơn số 0 gọi là phân số âm.\nB. Phân số lớn hơn số 0 gọi là phân số dương.\nC. Phân số âm nhỏ hơn phân số dương.\nD. Cả A, B và C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNhững nhận xét đúng là:\n- Phân số nhỏ hơn số 0 gọi là phân số âm.\n- Phân số lớn hơn số 0 gọi là phân số dương.\n- Phân số âm nhỏ hơn phân số dương.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Viết số nguyên a dưới dạng phân số ta được:\nA.\\frac{a}{0}\nB.\\frac{0}{a}\nC.\\frac{a}{1}\nD.\\frac{1}{a}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nViết số nguyên aa dưới dạng phân số ta được: \\frac{a}{1}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11. Cách viết nào sau đây cho ta một phân số:\nA.\\frac{4}{0}\nB.\\frac{1,5}{3}\nC.\\frac{0}{7}\nD.\\frac{−5}{3,5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ \\frac{4}{0} có mẫu bằng 0 nên không là phân số\n+\\frac{1,5}{3} có 1,5∉Z nên không là phân số\n+ \\frac{0}{7} là phân số\n+ \\frac{−5}{3,5} có 3,5∉Z nên không là phân số\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12. Phân số có tử bằng – 4, mẫu bằng 5 được viết là:\nA.\\frac{−5}{4}\nB.\\frac{4}{5}\nC.\\frac{−4}{5}\nD.\\frac{5}{4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhân số có tử bằng −4, mẫu bằng 5 được viết là: \\frac{−4}{5}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về phân số với tử số và mẫu số là số nguyên \nCâu 1. Trong các cách viết sau đây, cách viết nào cho ta phân số:\nA.\\frac{12}{0}\nB.\\frac{−4}{5}\nC.\\frac{3}{0,25}\nD.\\frac{4,4}{11,5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) \\frac{12}{0}không là phân số vì mẫu số bằng 0.\n+)\\frac{3}{0,25} không là phân số vì mẫu số là số thập phân.\n+) \\frac{4,4}{11,5}không là phân số vì tử số và mẫu số là số thập phân.\n+) \\frac{−4}{5} là phân số vì −4; 5∈Z và mẫu số là 5 khác 0.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Tìm số nguyên x biết \\frac{35}{15}=\\frac{x}{3} ?\nA. x = 7\nB. x = 5\nC. x = 15\nD. x = 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{35}{15}=\\frac{x}{3}\n35 . 3 = 15 . x\nx=\\frac{35.3}{15}\nx = 7\nVậy x = 7\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Cho tập A = {1; −2; 3; 4}. Có bao nhiêu phân số có tử số và mẫu số thuộc A mà có tử số khác mẫu số và tử số trái dấu với mẫu số?\nA. 9 \nB. 6\nC. 3\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác phân số thỏa mãn bài toán là:\n\\frac{1}{−2};\\frac{3}{−2};\\frac{4}{−2};\\frac{−2}{1};\\frac{−2}{3};\\frac{−2}{4}\nVậy có tất cả 6 phân số.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Tổng các số a, b, c thỏa mãn \\frac{6}{9}=\\frac{12}{a}=\\frac{b}{−54}=\\frac{−738}{c} là:\nA. 1161\nB. – 1125\nC. – 1053\nD. 1089",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n\\frac{6}{9}=\\frac{12}{a}⇒6.a=9.12⇒a=\\frac{9.12}{6}=18\\frac{6}{9}=\\frac{b}{−54}⇒6.−54=9.b⇒b=\\frac{6.−54}{9}=−36\\frac{6}{9}=\\frac{−738}{c}⇒6.c=9.−738⇒c=\\frac{9.−738}{6}=−1107\nVậy a + b + c = 18 + (-36) + (-1107) = - 1125\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Cho các phân số:\\frac{15}{60};\\frac{−7}{5};\\frac{6}{15};\\frac{28}{−20};\\frac{3}{12} . Số cặp phân số bằng nhau trong những phân số trên là:\nA. 4\nB. 1\nC. 3\nD. 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Các phân số dương: \\frac{15}{60};\\frac{6}{15};\\frac{3}{12}\n+ Vì 15.15 ≠ 60.6 nên \\frac{15}{60}≠\\frac{6}{15}\n+ Vì 6.12 ≠ 15.3 nên \\frac{6}{15}≠\\frac{3}{12}\n+ Vì 15.12 = 60.3 nên \\frac{15}{60}=\\frac{3}{12}\n- Các phân số âm: \\frac{−7}{5};\\frac{28}{−20}\nVì (−7).(−20) = 5.28 nên \\frac{−7}{5};\\frac{28}{−20}\nVậy có hai cặp phân số bằng nhau trong các phân số đã cho.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Có bao nhiêu cặp số nguyên (x; y) thỏa mãn \\frac{x}{5}=\\frac{3}{y} và x > y?\nA. 4\nB. 3 \nC. 2\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \n\\frac{x}{5}=\\frac{3}{y} ⇒ x.y = 5.3 = 15\nMà 15 = 5.3 = 15.1 = (−3).(−5) = (−1).(−15)\n và x,y ∈ Z, x > y nên (x;y) ∈ {(5;3), (15;1), (−3;−5), (−1;−15)}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Tìm x; y biết \\frac{x−4}{y−3}=\\frac{4}{3} và x – y = 5.\nA. x = 15; y = 5 \nB. x = 5; y = 15\nC. x = 20; y = 15\nD. x = 25; y = 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: x – y = 5 ⇒ x = y + 5 thay vào \\frac{x−4}{y−3}=\\frac{4}{3} ta được:\n\\frac{y+5−4}{y−3}=\\frac{4}{3}\n\\frac{y+1}{y−3}=\\frac{4}{3}\n3(y + 1) = 4(y − 3)\n3y + 3 = 4y − 12\n3y − 4y = −12 − 3\n−y = −15\ny = 15\n⇒ x = 15 + 5 = 20\nVậy x = 20; y = 15\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12. Tìm số nguyên x biết rằng \\frac{x}{3}=\\frac{27}{x} và x < 0.  \nA. x = 81\nB. x = −81\nC. x = −9\nD. x = 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n\\frac{x}{3}=\\frac{27}{x}\nx.x = 81\nx^{2 } = 81\nTa có: x = 9 hoặc x = −9\nKết hợp điều kiện x < 0 nên có một giá trị x thỏa mãn là: x = −9\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13. Viết số nguyên – 16 dưới dạng phân số ta được:\nA.\\frac{−16}{0}\nB.\\frac{16}{1}\nC.\\frac{−16}{1}\nD.\\frac{16}{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nViết số nguyên −16 dưới dạng phân số ta được: \\frac{−16}{1}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 14. Phân số \\frac{−9}{7} được đọc là:\nA. Chín phần bảy\nB. Âm bảy phần chín\nC. Bảy phần chín\nD. Âm chín phần bảy",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhân số \\frac{−9}{7} được đọc là: Âm chín phần bảy\nĐáp án cần chọn là: D"
+    }
+]

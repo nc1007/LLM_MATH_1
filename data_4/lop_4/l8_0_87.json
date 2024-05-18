@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Trong các cách ghi sau, cách ghi đúng để ghi tỉ lệ bản đồ là:\nA. 1+1000\nB. 1-1000\nC. 1×1000\nD. 1∶1000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong các cách ghi đã cho, cách ghi đúng để ghi tỉ lệ bản đồ là 1:1000."
+    },
+    {
+        "problem": "Câu 3: Trên bản đồ tỉ lệ 1:500, độ dài 1cm ứng với độ dài thật là:\nA.\t500m\nB.\t500dm\nC.\t500cm\nD.\t50cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên bản đồ tỉ lệ 1:500, độ dài 1cm ứng với độ dài thật là 500cm."
+    },
+    {
+        "problem": "Câu 5: Trên bản đồ tỉ lệ 1:8000, độ dài 2cm ứng với độ dài thật là:\nA.\t8000cm\nB.\t16m\nC.\t160m\nD.\t1600m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên bản đồ tỉ lệ 1:8000, độ dài 2cm ứng với độ dài thật là:\n2×8000=16000(cm)\n16000cm=160m\nVậy đáp án đúng là 160m."
+    },
+    {
+        "problem": "Câu 9: Quãng đường từ Hà Nội đến thành phố Nam Định là 90km. Trên bản đồ tỉ lệ 1:1000000 quãng đường đó dài bao nhiêu xăng-ti-mét?\nA.\t9cm\nB.\t90cm\nC.\t900cm\nD.\t9000cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "90km = 9000000cm \nQuãng đường từ Hà Nội đến thành phố Nam Định trên bản đồ dài số xăng-ti-mét là\n               9000000:1000000=9(cm) \n                                                    Đáp số: 9cm."
+    },
+    {
+        "problem": "Câu 11: Một mảnh đất được vẽ trên bản đồ tỉ lệ 1: 2000 có chiều dài là 5cm, chiều rộng là 3cm. Diện tích thực tế của mảnh đất đó là:\nA. 30000cm^{2} \nB. 6000000cm^{2} \nC. 3000m^{2} \nD. 6000m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều dài thực tế của mảnh đất đó là:\n            5×2000=10000(cm) \nChiều rộng thực tế của mảnh đất đó là:\n            3×2000=6000(cm) \nDiện tích thực tế của mảnh đất đó là:\n10000×6000 = 60000000(cm^{2} )\n60000000cm^{2}  = 6000m^{2} \n                                           Đáp số: 6000m^{2} .\nChú ý\nHọc sinh có thể làm sai khi tính diện tích thực tế bằng cách lấy tích chiều dài và chiều rộng thu nhỏ rồi nhân với 2000, từ đó chọn đáp án sai là 30000cm^{2} ."
+    }
+]

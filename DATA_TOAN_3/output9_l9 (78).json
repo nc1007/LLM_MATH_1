@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "a) \\(\\sqrt[3]{{216}}\\);                 b) \\(\\sqrt[3]{{ - 512}}\\);\nc) \\(\\sqrt[3]{{729}}\\);                  d) \\(\\sqrt[3]{{ - 0,064}}\\);\ne) \\(\\sqrt[3]{{0,027}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức: \\({x^3} = a \\Leftrightarrow x = \\sqrt[3]{a}.\\)\nLời giải chi tiết\na) Ta có: \\({6^3} = 216 \\Rightarrow \\sqrt[3]{{216}} = 6.\\)\nb)Ta có: \\({\\left( { - 8} \\right)^3} =  - 51 \\Rightarrow \\sqrt[3]{{ - 512}} =  - 8.\\)\nc) Ta có: \\({9^3} = 729 \\Rightarrow \\sqrt[3]{{729}} = 9.\\)\nd) Ta có: \\({\\left( { - 0,4} \\right)^3} =  - 0,064 \\)\n\\(\\Rightarrow \\sqrt[3]{{ - 0,064}} =  - 0,4.\\)\ne)Ta có: \\(0,{3^3} = 0,027 \\Rightarrow \\sqrt[3]{{0,027}} = 0,3.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính :\na) \\(\\sqrt[3]{{64}} - \\sqrt[3]{{ - 125}} - 2\\sqrt[3]{{216}}\\);\nb) \\(\\sqrt[3]{{81}} + 3\\sqrt[3]{{24}} - 2\\sqrt[3]{{375}}\\);\nc) \\(\\dfrac{{\\sqrt[3]{{135}}}}{{\\sqrt[3]{5}}} - \\sqrt[3]{{54}}.\\sqrt[3]{4}\\);\nd) \\(\\sqrt[3]{{54x{y^3}}} - y\\sqrt[3]{{128x}}\\);\ne) \\(\\sqrt {7 - 4\\sqrt 3 }  - \\sqrt[3]{{26 + 15\\sqrt 3 }}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng công thức: \\(\\sqrt[3]{{ab}} = \\sqrt[3]{a}.\\sqrt[3]{b},\\;\\;\\sqrt[3]{{\\dfrac{a}{b}}} = \\dfrac{{\\sqrt[3]{a}}}{{\\sqrt[3]{b}}}\\;\\;\\left( {b \\ne 0} \\right).\\)\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\;\\sqrt[3]{{64}} - \\sqrt[3]{{ - 125}} - 2\\sqrt[3]{{216}}\\\\ = \\sqrt[3]{{{4^3}}} - \\sqrt[3]{{{{\\left( { - 5} \\right)}^3}}} - 2\\sqrt[3]{{{6^3}}}\\\\ = 4 - \\left( { - 5} \\right) - 2.6\\\\ =  - 3.\\end{array}\\)                                       \\(\\begin{array}{l}b)\\;\\sqrt[3]{{81}} + 3\\sqrt[3]{{24}} - 2\\sqrt[3]{{375}}\\\\ = \\sqrt[3]{{{{3.3}^3}}} + 3\\sqrt[3]{{{{3.2}^3}}} - 2\\sqrt[3]{{{{3.5}^3}}}\\\\ = 3\\sqrt[3]{3} + 3.2\\sqrt[3]{3} - 2.5\\sqrt[3]{3}\\\\ =  - \\sqrt[3]{3}.\\end{array}\\)\n\\(\\begin{array}{l}c)\\;\\dfrac{{\\sqrt[3]{{135}}}}{{\\sqrt[3]{5}}} - \\sqrt[3]{{54}}.\\sqrt[3]{4}\\\\ = \\sqrt[3]{{\\dfrac{{135}}{5}}} - \\sqrt[3]{{54.4}}\\\\ = \\sqrt[3]{{27}} - \\sqrt[3]{{216}}\\\\ = \\sqrt[3]{{{3^3}}} - \\sqrt[3]{{{6^3}}}\\\\ = 3 - 6 =  - 3.\\end{array}\\)                                                           \\(\\begin{array}{l}d)\\;\\sqrt[3]{{54x{y^3}}} - y\\sqrt[3]{{128x}}\\\\ = \\sqrt[3]{{{{2.3}^3}x{y^3}}} - y\\sqrt[3]{{{{2.4}^3}x}}\\\\ = 3y\\sqrt[3]{{2x}} - 4y\\sqrt[3]{{2x}}\\\\ =  - y\\sqrt[3]{{2x}}\\end{array}\\)\n\\(e)\\;\\sqrt {7 - 4\\sqrt 3 }  - \\sqrt[3]{{26 + 15\\sqrt 3 }}\\)\n\\(= \\sqrt {4 - 2.2.\\sqrt 3  + {{\\left( {\\sqrt 3 } \\right)}^2}} \\)\\(\\; - \\sqrt[3]{{{2^3} + {{3.2}^2}\\sqrt 3  + 3.2.{{\\left( {\\sqrt 3 } \\right)}^2} + {{\\left( {\\sqrt 3 } \\right)}^3}}}\\)\n\\( = \\sqrt {{{\\left( {2 - \\sqrt 3 } \\right)}^2}}  - \\sqrt[3]{{{{\\left( {2 + \\sqrt 3 } \\right)}^3}}}\\\\ = \\left| {2 - \\sqrt 3 } \\right| - \\left( {2 + \\sqrt 3 } \\right)\\)\n\\( = 2 - \\sqrt 3  - 2 - \\sqrt 3  =  - 2\\sqrt 3 .\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh :\na) 7 và \\(\\sqrt[3]{{345}}\\);               b) \\(5\\sqrt[3]{7}\\) và \\(7\\sqrt[3]{5}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức: \\(a < b \\Leftrightarrow \\sqrt[3]{a} < \\sqrt[3]{b}.\\)\nLời giải chi tiết\na) \\(7\\) và \\(\\sqrt[3]{{345}}\\)\nTa có: \\(7 = \\sqrt[3]{{343}}.\\)\nMà \\(343 < 345 \\Rightarrow \\sqrt[3]{{343}} < \\sqrt[3]{{345}} \\)\\(\\;\\Rightarrow 7 < \\sqrt[3]{{345}}.\\)\nVậy \\(7 < \\sqrt[3]{{345}}.\\)\nb) \\(5\\sqrt[3]{7}\\)  và \\(7\\sqrt[3]{5}\\)\nTa có: \\(5\\sqrt[3]{7} = \\sqrt[3]{{{5^3}.7}} = \\sqrt[3]{{875}};\\)\\(\\;\\;\\;7\\sqrt[3]{5} = \\sqrt[3]{{{7^3}.5}} = \\sqrt[3]{{1715}}\\)\nVì \\(875 < 1715 \\Rightarrow \\sqrt[3]{{875}} < \\sqrt[3]{{1715}}\\)\\(\\; \\Rightarrow 5\\sqrt[3]{7} < 7\\sqrt[3]{5}.\\)\nVậy \\(5\\sqrt[3]{7} < 7\\sqrt[3]{5}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm x, biết :\na) \\(\\sqrt[3]{{3x + 4}} = 4\\);\nb) \\(3 + \\sqrt[3]{{5x + 3}} = 0\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng quy tắc chuyển vế đổi dấu.\n+) Lập phương 2 vế của phương trình để tìm x.\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\;\\sqrt[3]{{3x + 4}} = 4\\\\ \\Leftrightarrow 3x + 4 = {4^3}\\\\ \\Leftrightarrow 3x = 60\\\\ \\Leftrightarrow x = 20.\\end{array}\\)\nVậy \\(x = 20.\\)\n\\(\\begin{array}{l}b)\\;3 + \\sqrt[3]{{5x + 3}} = 0\\\\ \\Leftrightarrow \\sqrt[3]{{5x + 3}} =  - 3\\\\ \\Leftrightarrow 5x + 3 = {\\left( { - 3} \\right)^3}\\\\ \\Leftrightarrow 5x + 3 =  - 27\\\\ \\Leftrightarrow 5x =  - 30\\\\ \\Leftrightarrow x =  - 6.\\end{array}\\)\nVậy \\(x =  - 6.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) \\(M = \\dfrac{x}{4} + \\sqrt[3]{{\\dfrac{x}{3}}}\\) với \\(x = 192\\);\nb) \\(N = 2y + \\sqrt[3]{{ - 45y}}\\) với \\(y = 75\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay x, y vào biểu thức sau đó tính giá trị của biểu thức.\nLời giải chi tiết\na) Với \\(x = 192\\) ta có:\n\\(\\eqalign{ & M = \\frac{{192}}{4} + \\root 3 \\of {\\frac{{192}}{3}} \\cr  & \\,\\,\\,\\,\\,\\,\\,\\, = 48 + \\root 3 \\of {64} = 48 + \\root 3 \\of {{4^3}} \\cr  & \\,\\,\\,\\,\\,\\,\\,\\, = 48 + 4 = 52. \\cr} \\)\nVậy với \\(x = 192\\) thì \\(M = 52.\\)\nb) Với \\(y = 75\\) ta có:\n\\(\\eqalign{ & N = 2.75 + \\root 3 \\of { - 45.75} \\cr  & \\,\\,\\,\\,\\,\\,\\, = 150 + \\root 3 \\of { - 3375} \\cr&\\;\\;\\;\\;= 150 + \\root 3 \\of {{{\\left( { - 15} \\right)}^3}} \\cr  & \\,\\,\\,\\,\\,\\,\\, = 150 - 15 = 135. \\cr} \\)\nVậy với \\(y = 75\\) thì \\(N = 135.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính :\na) \\(5\\sqrt[3]{{512}} - 19\\);                 b) \\(18 - \\sqrt[3]{{729}}\\);\nc) \\({\\left( {\\sqrt[3]{{ - \\dfrac{1}{8}}}} \\right)^3} + 3\\dfrac{3}{4}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng công thức: \\(\\sqrt[3]{{ab}} = \\sqrt[3]{a}.\\sqrt[3]{b},\\;\\;\\sqrt[3]{{\\dfrac{a}{b}}} = \\dfrac{{\\sqrt[3]{a}}}{{\\sqrt[3]{b}}}\\;\\;\\left( {b \\ne 0} \\right).\\)\nLời giải chi tiết\n\\(a)\\;5\\sqrt[3]{{512}} - 19 = 5\\sqrt[3]{{{8^3}}} - 19\\)\\(\\; = 5.8 - 19 = 40 - 19 = 21.\\)\n\\(b)\\;18 - \\sqrt[3]{{729}} = 18 - \\sqrt[3]{{{9^3}}} = 18 - 9\\)\\(\\; = 9.\\)\n\\(c)\\;\\;{\\left( {\\sqrt[3]{{ - \\dfrac{1}{8}}}} \\right)^3} + 3\\dfrac{3}{4} =  - \\dfrac{1}{8} + \\dfrac{{15}}{4} \\)\\(\\,= \\dfrac{{29}}{8}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Điền dấu >, < hoặc = và chỗ chấm (…) :\na) \\(\\sqrt[3]{{64}}...\\sqrt {64} \\)           b) \\(\\sqrt[3]{{0,001}}...0,01\\);\nc) \\( - \\dfrac{1}{4}...\\sqrt[3]{{ - \\dfrac{8}{{125}}}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức: \\(a < b \\Leftrightarrow \\sqrt[3]{a} < \\sqrt[3]{b}.\\)\nLời giải chi tiết\n\\(a)\\;\\sqrt[3]{{64}}...\\sqrt {64} \\)\nTa có: \\(\\sqrt[3]{{64}} = \\sqrt[3]{{{4^3}}} = 4;\\;\\sqrt {64}  = \\sqrt {{8^2}}  = 8.\\)\nVì \\(4 < 8 \\Rightarrow \\sqrt[3]{{64}} < \\sqrt {64} .\\)\nVậy \\(\\sqrt[3]{{64}} < \\sqrt {64} .\\)\n\\(b)\\;\\sqrt[3]{{0,001}}...0,01\\)\nTa có : \\(\\sqrt[3]{{0,001}} = \\sqrt[3]{{0,{1^3}}} = 0,1.\\)\nVì \\(0,1 > 0,01 \\Rightarrow \\sqrt[3]{{0,001}} > 0,01.\\)\nVậy \\(\\sqrt[3]{{0,001}} > 0,01.\\)\n\\(c)\\; - \\dfrac{1}{4}...\\sqrt[3]{{ - \\dfrac{8}{{125}}}}\\)\nTa có: \\(\\sqrt[3]{{ - \\dfrac{8}{{125}}}} = \\sqrt[3]{{{{\\left( { - \\dfrac{2}{5}} \\right)}^3}}} =  - \\dfrac{2}{5} =  - \\dfrac{8}{{20}};\\)\\(\\;\\; - \\dfrac{1}{4} =  - \\dfrac{5}{{20}}.\\)\nVì \\( - \\dfrac{5}{{20}} >  - \\dfrac{8}{{20}} \\Rightarrow  - \\dfrac{1}{4} > \\sqrt[3]{{ - \\dfrac{8}{{125}}}}.\\)\nVậy \\( - \\dfrac{1}{4} > \\sqrt[3]{{ - \\dfrac{8}{{125}}}}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm x, biết :\na) \\({x^3} = 64\\);\nb) \\({x^3} = 1331\\);\nc) \\({x^3} =  - 1000\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức: \\({x^3} = a \\Leftrightarrow x = \\sqrt[3]{{a.}}\\)\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\;{x^3} = 64\\\\ \\Leftrightarrow x = \\sqrt[3]{{64}}\\\\ \\Leftrightarrow x = 4.\\end{array}\\)\n\\(\\begin{array}{l}b)\\;\\;{x^3} = 1331\\\\ \\Leftrightarrow x = \\sqrt[3]{{1331}}\\\\ \\Leftrightarrow x = 11.\\end{array}\\)\n\\(\\begin{array}{l}c)\\;\\;{x^3} =  - 1000\\\\ \\Leftrightarrow x = \\sqrt[3]{{ - 1000}}\\\\ \\Leftrightarrow x =  - 10.\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm x, biết :\na) \\(\\sqrt[3]{x} = 6\\);               b) \\(\\sqrt[3]{{2x}} = 4\\);\nc) \\(\\sqrt[3]{{2x - 5}} = 3\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức: \\(\\sqrt[3]{x} = a \\Leftrightarrow x = {a^3}.\\)\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\;\\sqrt[3]{x} = 6\\\\ \\Leftrightarrow x = {6^3}\\\\ \\Leftrightarrow x = 216.\\end{array}\\)\n\\(\\begin{array}{l}b)\\;\\sqrt[3]{{2x}} = 4\\\\ \\Leftrightarrow 2x = {4^3}\\\\ \\Leftrightarrow 2x = 64\\\\ \\Leftrightarrow x = 32.\\end{array}\\)\n\\(\\begin{array}{l}c)\\;\\sqrt[3]{{2x - 5}} = 3\\\\ \\Leftrightarrow 2x - 5 = {3^3}\\\\ \\Leftrightarrow 2x = 32\\\\ \\Leftrightarrow x = 16.\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị các biểu thức :\na) \\(A = 2y - \\sqrt[3]{{9y}}\\)  khi \\(y =  - 3\\);\nb) \\(B = \\dfrac{x}{6} + \\sqrt[3]{{\\dfrac{x}{3}}} - 4\\sqrt[3]{y}\\) khi \\(x = 192,y = 512\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay x, y  vào biểu thức sau đó tính giá trị của biểu thức.\nLời giải chi tiết\na) Với \\(y =  - 3\\) ta có:\n\\(A = 2.\\left( { - 3} \\right) - \\sqrt[3]{{9.\\left( { - 3} \\right)}} \\)\n\\(\\;\\;\\;=  - 6 - \\sqrt[3]{{ - 27}} =  - 6 - \\sqrt[3]{{{{\\left( { - 3} \\right)}^3}}}\\)\n\\(\\;\\;\\;=  - 6 - \\left( { - 3} \\right) =  - 3.\\)\nVậy với \\(y =  - 3\\) thì \\(A =  - 3.\\)\nb) Với \\(x = 192,\\;\\;y = 512\\) ta có:\n\\(B = \\dfrac{{192}}{6} + \\sqrt[3]{{\\dfrac{{192}}{3}}} - 4\\sqrt[3]{{512}} \\)\n\\(\\;\\;\\;= 32 + \\sqrt[3]{{64}} - 4\\sqrt[3]{{{8^3}}} \\)\n\\(\\;\\;\\;= 32 + 4 - 4.8 = 4.\\)\nVậy với \\(x = 192,\\;y = 512\\) thì \\(B = 4.\\)\nLoigiaihay.com"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Câu 1. Công thức tính diện tích xung quanh của hình hộp chữ nhật có độ dài hai đáy là a và b, chiều cao là h là:\nA. 2 . a . b . c;\nB. 2 . (a + b);\nC. (a + b) . h;\nD. 2 . (a + b) . h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nCông thức tính diện tích xung quanh của hình hộp chữ nhật có độ dài hai đáy là a và b, chiều cao là h là 2. (a + b) . h."
+    },
+    {
+        "problem": "Câu 2. Công thức tính diện tích xung quanh hình lập phương có cạnh là a là:\nA. a^{3} ;\nB. a^{2} ;\nC. 2. a^{2} ;\nD. 4. a^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nCông thức tính diện tích xung quanh hình lập phương có cạnh là a là: 4 . a^{2} ."
+    },
+    {
+        "problem": "Câu 3. Một căn phòng dạng hình hộp chữ nhật có chiều dài 8m, chiều rộng 4,5m, chiều cao 4m. Hỏi cần bao nhiêu tiền để quét sơn 4 bức tường bên trong xung quanh ngôi nhà? (Biết diện tích cửa 8,9m^{2}  và quét 1m^{2}  tốn 30 000 đồng).\nA. 6 000 000 đồng;\nB. 4 320 000 đồng;\nC. 5 733 000 đồng; \nD. 2 866 500 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích xung quanh của căn phòng là:\n2 . (8 + 4,5) . 8 = 200 (m^{2} )\nDiện tích căn phòng cần quét sơn là:\n200 – 8,9 = 191,1 (m^{2} )\nSố tiền cần trả để quét sơn là:\n30 000 . 191,1 = 5 733 000 (đồng)\nDo đó để quét sơn 4 bức tường bên trong xung quanh ngôi nhà thì cần 5 733 000 đồng."
+    },
+    {
+        "problem": "Câu 5. Diện tích xung quanh của hình hộp chữ nhật có độ dài hai cạnh đáy là 40 m và 30 m, chiều cao là 25 m là:\nA. 1 750 m^{2} ;\nB. 1 750 m;\nC. 3 500 m^{2} ;\nD. 3 500 m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích xung quanh của hình hộp chữ nhật là:\nSxq = 2 . (40 + 30) . 25 = 3 500 (m^{2} )\nVậy diện tích xung quanh của hình hộp chữ nhật là 3 500 m^{2} ."
+    },
+    {
+        "problem": "Câu 6. Một hình lập phương có diện tích xung quanh là 144 m^{2} . Thể tích của hình lập phương đó là:\nA. 36 m^{3} ;\nB. 36 m^{2} ;\nC. 216 m^{3} ;\nD. 216 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nThể tích của hình lập phương đó là:\nV = 6^{3}  = 216 (m^{3} )\nVậy thể tích của hình lập phương là 216 m^{3} ."
+    },
+    {
+        "problem": "Câu 7. Diện tích xung quanh của hình lập phương có cạnh là 5m là:\nA. 125 m^{2} ;\nB. 25 m^{2} ;\nC. 50 m^{2} ;\nD. 100 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDiện tích xung quanh của hình lập phương là:\nSxq = 4 . 5^{2}  = 100 (m^{2} )\nVậy diện tích xung quanh của hình lập phương là 100 m^{2} ."
+    },
+    {
+        "problem": "Câu 8. Một hình hộp chữ nhật có thể tích 5,625 m^{3} , chiều dài 2,5 m và chiều rộng bằng \\frac{3}{5} chiều dài. Chiều cao của hình hộp chữ nhật đó là:\nA. 81 m^{3} ;\nB. 324 m^{2} ;\nC. 324 m^{3} ;\nD. 729 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nChiều rộng của hình hộp chữ nhật đó là:\n2,5 . \\frac{3}{5}= 1,5 (cm)\nChiều cao của hình hộp chữ nhật đó là:\n5,625 : 1,5 : 2,5 = 1,5 (cm)\nVậy chiều cao của hình hộp chữ nhật đó là 1,5 cm."
+    },
+    {
+        "problem": "Câu 9. Diện tích xung quanh của hình hộp chữ nhật có độ dài hai cạnh đáy là 20 dm và 40 dm, chiều cao là 10 dm là:\nA. 12 cm^{2} ;\nB. 12 dm^{2} ;\nC. 12 m^{2} ;\nD. 1 200 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích xung quanh của hình hộp chữ nhật là:\nSxq = 2. (20 + 40) . 10 = 1 200 (dm^{2} ).\nĐổi 1 200 dm^{2}  = 12 m^{2} .\nVậy diện tích xung quanh của hình hộp chữ nhật là 12 m^{2} ."
+    },
+    {
+        "problem": "Câu 10. Thể tích của hình hộp chữ nhật có độ dài hai cạnh đáy là 200 cm và 400 cm, chiều cao là 300 cm là:\nA. 2 400 m^{3} ;\nB. 240 000 dm^{3} ;\nC. 2 400 dm^{3} ;\nD. 24 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐổi 200 cm = 2m; 400 cm = 4 m; 300 cm = 3m.\nThể tích của hình hộp chữ nhật là:\nV = 2 . 4 . 3 = 24 (cm^{3} )\nĐổi 24 m^{3}  = 24 000 dm^{3}  \nDo đó thể tích của hình hộp chữ nhật là 24 000 dm^{3}  hay 24 m^{3} .\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 11. Độ dài cạnh của hình lập phương có thể tích bằng 729 cm^{3}  là:\nA. 9 cm;\nB. 10 cm;\nC. 27 cm;\nD. 3 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGọi độ dài cạnh của hình lập phương là a (cm).\nThể tích của hình lập phương là: V = a^{3}  = 729.\nHay a^{3}  = 9^{3} .\nSuy ra a = 9.\nVậy độ dài cạnh của hình lập phương là 9 cm."
+    },
+    {
+        "problem": "Câu 12. Thể tích hình lập phương có cạnh là 800 cm là:\nA. 51 200 m^{3} ;\nB. 51 200 m^{2} ;\nC. 512 m^{2} ;\nD. 512 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nĐổi 800 cm = 8 m.\nThể tích hình lập phương là:\nV = 8^{3}  = 512 (m^{3} ).\nDo đó thể tích hình lập phương là 512 m^{3} .\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 13. Một thùng bánh có dạng hình hộp chữ nhật với chiều dài 30 cm, chiều rộng 20 cm và chiều cao 15 cm. Người ta đựng những hộp bánh có dạng hình lập phương có cạnh 10 cm vào trong thùng đó. Hỏi thùng đó đựng được bao nhiêu hộp bánh:\nA. 9 hộp;\nB. 7 hộp;\nC. 10 hộp;\nD. 11 hộp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThể tích của thùng bánh là:\n30 . 20 . 15 = 9 000 (cm^{3} )\nThể tích của mỗi hộp bánh là:\n10^{3}  = 1 000 (cm^{3} )\nThùng đó đựng được số hộp bánh là:\n9 000 : 1 000 = 9 (hộp)\nVậy thùng đó đựng được 9 hộp bánh."
+    },
+    {
+        "problem": "Câu 14. Một bể chứa nước hình hộp chữ nhật có chiều dài 3 m, chiều rộng 2 m và chiều cao là 1 m. Hỏi bể đó chứa được bao nhiêu m^{3}  nước?\nA. 6 m^{3} ;\nB. 10 m^{3} ;\nC. 5 m^{3} ;\nD. 12 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThể tích của hình hộp chữ nhật là:\n2 . 3 . 1 = 6 (m^{3} )\nDo đó thể tích của hình hộp chữ nhật là 6 m^{3} ."
+    },
+    {
+        "problem": "Câu 15. Một chiếc bánh kem có dạng hình lập phương có cạnh 30 cm. Người ta cắt đi một miếng có dạng hình hộp chữ nhật với chiều dài 7 cm, chiều rộng 4 cm và chiều cao 6 cm. Thể tích phần còn lại của chiếc bánh kem là:\nA. 168 cm^{3} ;\nB. 27 000 cm^{3} ;\nC. 26 832 cm^{3} ;\nD. 27 168 cm^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nThể tích của chiếc bánh kem là:\n30^{3}  = 27 000 (cm^{3} )\nThể tích phần đã cắt là:\n7 . 4 . 6 = 168 (cm^{3} )\nThể tích phần còn lại của chiếc bánh kem là:\n27 000 – 168 = 26 832 (cm^{3} )\nDo đó thể tích phần còn lại của chiếc bánh kem là 26 832 cm^{3} ."
+    }
+]

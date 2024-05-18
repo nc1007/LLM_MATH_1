@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 4 : Tính: 3590 x 500 = ? \nA.\t178500\nB.\t179500\nC.\t1785000\nD.\t1795000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính rồi tính như sau:\nVậy 3590 × 500 = 1795000."
+    },
+    {
+        "problem": "Câu 5 : 327 x 700 = 229900. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính rồi tính như sau:\n327 × 700 = 228900\nVậy phép tính đã cho là sai."
+    },
+    {
+        "problem": "Câu 6 : Tìm x biết:  x : 60 = 273  \nA.\tx = 16380\nB.\tx = 16480\nC.\tx = 16580\nD.\tx = 16680",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "x : 60 = 273\nx = 273×60\nx = 16380\nVậy x = 16380."
+    },
+    {
+        "problem": "Câu 8 : Cho sơ đồ sau:  \nSố thích hợp điền vào ô trống từ trái sang phải lần lượt là:\nA.\t1546; 463800\nB.\t463800; 1546\nC.\t1564; 463800\nD.\t1546; 46380",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n2371−825=1546\n1546×300=463800\nVậy đáp án đúng điền vào ô trống từ trái sang phải lần lượt là 1546; 463800."
+    },
+    {
+        "problem": "Câu 9 : Chọn dấu thích hợp điền vào chỗ chấm: 23875 - 360 x 40 ... 1234 + 258 x 30  \nA.\t= \nB.\t< \nC.\t>",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n23875−360×40=23875−14400=9475\n1234+258×30=1234+7740=8974\nMà: 9475>8974\nVậy: 23875−360×40>1234+258×30."
+    },
+    {
+        "problem": "Câu 12 : Tìm tích của hai số biết rằng thừa số thứ nhất là số liền sau của 299, \nthừa số thứ hai là tổng của số nhỏ nhất có bốn chữ số khác nhau và số lớn nhất có bốn chữ số khác nhau. \nA.\t3299700\nB.\t3306600\nC.\t3262800\nD.\t3269700",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số liền sau của 299 là 300. Vậy thừa số thứ nhất là 300.\nSố nhỏ nhất có bốn chữ số khác nhau là 1023.\nSố lớn nhất có bốn chữ số khác nhau là 9876.\nTổng của số nhỏ nhất có bốn chữ số khác nhau và số lớn nhất có bốn chữ số khác nhau là:\n           1023+9876=10899\nVậy thừa số thứ hai là 10899.\nTích cần tìm là:  \n          300×10899=3269700"
+    }
+]

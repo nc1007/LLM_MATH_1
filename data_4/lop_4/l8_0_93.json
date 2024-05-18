@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 9: Để lát nền một phòng học hình chữ nhật người ta dùng loại gạch men hình vuông có cạnh 30cm. Hỏi cần bao nhiêu viên gạch để lát kín nền phòng học đó, biết rằng nền phòng học có chiều rộng 6m và chiều dài 12m và phần mạch vữa không đáng kể?\nA.\t750\nB.\t800\nC.\t900\nD.\t1000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích một viên gạch là:\n            30×30=900(cm^{2} )\nDiện tích căn phòng đó là:\n12×6=72(m^{2} )\n72m^2=720000cm^{2} \nĐể lát kín nền căn phòng đó người ta cần dùng số viên gạch là:\n            720000:900=800 (viên gạch)\n                                   Đáp số: 800 viên gạch."
+    }
+]

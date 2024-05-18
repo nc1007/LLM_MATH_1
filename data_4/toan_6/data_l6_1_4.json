@@ -1,0 +1,110 @@
+[
+    {
+        "problem": "A. Cộng và trừ → Nhân và chia →Lũy thừa  \nB. Nhân và chia→Lũy thừa→ Cộng và trừ\nC. Lũy thừa→ Nhân và chia → Cộng và trừ \nD. Cả ba đáp án A,B,C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐối với biểu thức không có dấu ngoặc thì thứ tự thực hiện phép tính đúng là :\nLũy thừa→ Nhân và chia → Cộng và trừ  \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Thứ tự thực hiện phép tính nào sau đây là đúng đối với biểu thức có dấu ngoặc?\nA. []→()→{}\nB. ()→[]→{}\nC. {}→[]→()\nD. []→{}→()",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNếu biểu thức có các dấu ngoặc : ngoặc tròn ( ), ngoặc vuông [ ], ngoặc nhọn { }, ta thực hiện phép tính theo thứ tự : ()→[]→{}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Tính: 1 + 12.3.5\nA. 181\nB. 195\nC. 180\nD. 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n1+12.3.5 = 1+(12.3).5 = 1+36.5 = 1+180 = 181\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Kết quả của phép toán  2^{4 } − 50:25 + 13.7 là\nA. 100 \nB. 95 \nC. 105 \nD. 80",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n2^{4 } − 50:25 + 13.7  = 16 – 2 + 91\n= 14 + 91\n= 105\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Giá trị của biểu thức 2[(195 + 35:7):8 + 195] − 400 bằng\nA. 140\nB. 60  \nC. 80 \nD. 40",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n2[(195 + 35:7):8 + 195] − 400\n= 2[(195 + 5):8 + 195] − 400\n= 2[200:8 + 195] − 400\n= 2(25 + 195) − 400\n= 2.220 − 400\n= 440 − 400\n= 40\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Kết quả của phép tính  3^{4} .6 − [131 − (15 − 9)^{2} ]  là\nA. 319\nB. 931  \nC. 193 \nD. 391",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n3^{4} .6 − [131 − (15 − 9)^{2} ]\n= 3^{4} .6 − (131 − 6^{2} )\n= 81.6 − (131− 36)\n= 486 − 95\n= 391.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Tìm x thỏa mãn 165 − (35:x + 3).19 = 13\nA. x = 7\nB. x = 8  \nC. x = 9   \nD. x = 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n165 − (35:x + 3).19 = 13\n(35:x + 3).19 = 165 −13\n(35:x + 3).19 = 152\n35:x + 3 = 152:19\n35:x + 3 = 8\n35:x = 8 − 3\n35:x = 5\nx = 35:5\nx = 7.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Tính  3.(2^{3} .4 − 6.5)\nA. 6\nB. 3\nC. 2\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n3.(2^{3} .4 − 6.5)\n= 3.(8.4 − 6.5)\n= 3.(32 − 30)\n= 3.2 = 6\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Số tự nhiên x cho bởi : 5(x + 15) =5^{3}  . Giá trị của x là:\nA. 9  \nB. 10\nC. 11\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n5(x +15) = 5^{3} \n5(x +15) = 125\nx +15 = 125:5\nx+15 = 25\nx = 25 − 15\nx = 10.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về thứ tự thực hiện các phép tính\nCâu 1. Giá trị nào dưới đây của x thỏa mãn:  2^{4} .x − 3^{2} .x = 145 − 255:51?\nA. 20  \nB. 30 \nC. 40  \nD. 80",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có\n2^{4} .x − 3^{2} .x = 145 − 255:51\n16.x − 9.x = 145 − 5\nx(16 − 9) = 140\nx.7 = 140 \nx = 140:7\nx = 20.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Câu nào dưới đây là đúng khi nói đến giá trị của \nA = 18.{420:6 + [150 − (68.2 − 2^{3} .5)]} ?\nA. Kết quả  có chữ số tận cùng là 3\nB. Kết quả là số lớn hơn 2000.\nC. Kết quả là số lớn hơn 3000. \nD. Kết quả là số lẻ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \nA = 18.{420:6 + [150 − (68.2 − 2^{3} .5)]}\n= 18.{420:6 + [150 − (68.2 − 8.5)]}\n= 18.{420:6 + [150 − (136 − 40)]}\n= 18.[420:6 + (150 − 96)]\n= 18.(70 + 54)\n= 18.124\n= 2232.\nVậy A = 2232.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Thực hiện phép tính  (10^{3} +10^{4} +125^{2} ):5^{3}  một cách hợp lý ta được\nA. 132 \nB. 312 \nC. 213 \nD. 215",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n(10^{3 } + 10^{4 } + 125^{2} ):5^{3}  \n= 10^{3} :5^{3 } + 10^{4} :5^{3 } + 125^{2} :5^{3} \n=  (2.5)^{3} :5^{3 } + (2.5)^{4} :5^{5 } + (5^{3} )^{2} :5^{3} \n= 2^{3} .5^{3} :5^{3 } + 2^{4} .5^{4} :5^{3 } + 5^{6} :5^{3} \n= 2^{3 } + 2^{4} .5 + 5^{3} \n= 8+16.5 + 125\n= 8 + 80 + 125\n= 213.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Có bao nhiêu giá trị của x thỏa mãn 240 − [23 + (13 + 24.3 − x)] = 132?\nA. 3  \nB. 2\nC. 1 \nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n240 − [23 + (13 + 24.3 − x)] = 132\n23 + (13 + 72 − x) = 240 − 132\n23 + (85 − x) = 108\n85 – x = 108 − 23\n85 – x = 85\nx = 85 − 85\nx = 0.\nCó một giá trị x = 0 thỏa mãn đề bài.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Giá trị của x thỏa mãn  65 − 4^{x+2 } = 2020^{0}  là\nA. 2 \nB. 4\nC. 3 \nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n65 − 4^{x+2 } = 2020^{0} \n65 − 4^{x+2 } = 1\n4^{x+2 } = 65 − 1\n4^{x+2 } = 64\n4^{x+2 } = 4^{3} \nx + 2 = 3\nx = 3 − 2\nx = 1.\nVậy x = 1.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Cho A = 4.{3^{2} .[(5^{2 } + 2^{3} ):11] − 26} + 2002 và \nB = 134 − {150:5 − [120:4 + 25 − (12 + 18)]}. Chọn câu đúng.\nA. A = B\nB. A = B + 1\nC. A < B\nD. A > B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = 4.{3^{2} .[(5^{2 } + 2^{3} ):11] − 26} + 2002 \n= 4.{3^{2} .[(25 + 8):11] − 26} + 2002\n= 4.[3^{2} .(33:11) − 26] + 2002\n= 4.(3^{2} .3 − 26) + 2002\n= 4.(27 − 26) + 2002\n= 4.1 + 2002\n= 4 + 2002\n=2006.\nVà  B = 134 − {150:5 − [120:4 + 25 − (12 + 18)]}\n= 134 − [150:5 − (120:4 + 25 − 30)]\n= 134 − [150:5 − (30 + 25 − 30)]\n= 134 − (150:5 − 25)\n= 134 − (30 − 25)\n= 134 − 5\n= 129\nVậy A = 2006 và B = 129 nên A > B.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Tính nhanh: (2 + 4 + 6 +...+ 100)(36.333 − 108.111) ta được kết quả là\nA. 0 \nB. 1002\nC. 20   \nD. 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(2 + 4 + 6+...+ 100)(36.333 − 108.111)\n= (2 + 4 + 6+...+ 100)(36.3.111 − 36.3.111)\n= (2 + 4 + 6 +...+1 00).0\n= 0\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Trong một cuộc thi có 20 câu hỏi. Mỗi câu trả lời đúng được 10 điểm, mỗi câu trả lời sai bị trừ 3 điểm. Một học sinh đạt được 148 điểm. Hỏi bạn đã trả lời đúng bao nhiêu câu hỏi?\nA. 16 \nB. 15\nC. 4  \nD. 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGiả sử bạn học sinh đó trả lời đúng cả 20 câu thì tổng số điểm đạt được là:\n10.20 = 200 (điểm)\nSố điểm dư ra là 200 – 148 = 52 (điểm)\nThay mỗi câu trả lời sai thành câu trả lời đúng thì dư ra 10 + 3 = 13 (điểm)\nSố câu trả lời sai là 52:13 = 4 (câu)\nSố câu trả lời đúng 20 − 4 = 16 (câu)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Gọi x1 là giá trị thỏa mãn 5^{x-2  } − 3^{2 } = 2^{4 } − (2^{8} .2^{4 } − 2^{10} .2^{2} ) và x2 là giá trị thỏa mãn  697:[(15.x + 364):x] = 17 . Tính x1,x2.\nA. 14  \nB. 56  \nC. 4 \nD. 46",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) 5^{x-2  } − 3^{2 } = 2^{4 } − (2^{8} .2^{4 } − 2^{10} .2^{2} ) \n5^{x-2 } − 3^{2 } = 2^{4 } − (2^{12 } − 2^{12} )\n5^{x-2 } − 3^{2 } = 2^{4 } – 0 = 2^{4} \n5^{x-2 } – 9 = 16\n5^{x-2 } = 16 + 9\n5^{x-2 } = 25\n5^{x-2 } = 5^{2} \nx – 2 = 2\nx = 2 + 2\nx = 4. \n+) 697:[(15.x + 364):x] = 17\n(15x + 364):x = 697:17\n(15x + 364):x = 41\n15 + 364:x = 41\n364:x = 41 − 15\n364:x = 26\nx = 364:26\nx = 14\nVậy x1  =  4; x2  = 14 nên x1.x2  =  4.14 = 56.\nĐáp án cần chọn là: B"
+    }
+]

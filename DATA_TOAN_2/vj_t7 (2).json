@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Bài 1.17 trang 15 sách bài tập Toán lớp 7 Tập 1: Đơn vị đo thời gian nhỏ nhất là yoctosecond (viết tắt là ys), nó bằng 0,000000000000000000000001 giây. Hãy viết số này dưới dạng lũy thừa của một số hữu tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận thấy phần thập phân của số này có 23 chữ số 0 và 1 chữ số 1 nên:\n0,000000000000000000000001 = (0,1)24"
+    },
+    {
+        "problem": "Bài 1.18 trang 15 sách bài tập Toán lớp 7 Tập 1: Viết các số sau dưới dạng lũy thừa của một số hữu tỉ.\na) 125 . 27;\nb) 243 : 32.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 125 . 27 = 53.33 = (5.3)3 = 153;\nb) 243 : 32. = 35.25 = (3.2)5 = 65."
+    },
+    {
+        "problem": "Bài 1.18 trang 15 sách bài tập Toán lớp 7 Tập 1: Viết các số sau dưới dạng lũy thừa của một số hữu tỉ.\na) 125 . 27;\nb) 243 : 32.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 125 . 27 = 53.33 = (5.3)3 = 153;\nb) 243 : 32. = 35.25 = (3.2)5 = 65."
+    },
+    {
+        "problem": "Bài 1.19 trang 15 sách bài tập Toán lớp 7 Tập 1: Đường kính của một tế bào hồng cầu là khoảng 7,4.1104cm. Hãy viết số này dưới dạng số thập phân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n7,4.1104 = 7,4.14104 = 7,4.110000=1.7,410000\n=74100000=0,00074\nVậy đường kính của một tế bào hồng cầu là khoảng 0,00074cm."
+    },
+    {
+        "problem": "Bài 1.19 trang 15 sách bài tập Toán lớp 7 Tập 1: Đường kính của một tế bào hồng cầu là khoảng 7,4.1104cm. Hãy viết số này dưới dạng số thập phân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n7,4.1104 = 7,4.14104 = 7,4.110000=1.7,410000\n=74100000=0,00074\nVậy đường kính của một tế bào hồng cầu là khoảng 0,00074cm."
+    },
+    {
+        "problem": "Bài 1.20 trang 15 sách bài tập Toán lớp 7 Tập 1: Tính giá trị của biểu thức:\na) 123.4+34;\nb) 43 : 25 + 35 : 92.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 123.4+34\n= 1323.4+34\n= 18.4+34\n= 12+34\n= 24+34\n= 54\nb) 43 : 25 + 35 : 92.\n= (22)3 : 25 + 35 : (32)2\n= 26 : 25 + 35 : 34\n= 2 + 3 = 5"
+    },
+    {
+        "problem": "Bài 1.20 trang 15 sách bài tập Toán lớp 7 Tập 1: Tính giá trị của biểu thức:\na) 123.4+34;\nb) 43 : 25 + 35 : 92.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 123.4+34\n= 1323.4+34\n= 18.4+34\n= 12+34\n= 24+34\n= 54\nb) 43 : 25 + 35 : 92.\n= (22)3 : 25 + 35 : (32)2\n= 26 : 25 + 35 : 34\n= 2 + 3 = 5"
+    },
+    {
+        "problem": "Bài 1.21 trang 15 sách bài tập Toán lớp 7 Tập 1: Bảng thống kê dưới đây ước lượng số dân của một số nước tại thời điểm năm 2020.\n\n(theo cacnuoc.vn)\nEm hãy sắp xếp tên các quốc gia theo thứ tự có số dân từ lớn đến bé.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n143,9.107 = 1439.106; 43,7.104 = 0,437.106; 13,8.108 = 1380.106\nVì 1439 > 1280 > 331 > 126,6 > 97,3 > 65,2 > 51,2 > 11,3 > 0,437\nNên 1439.106 > 1280. 106 > 331. 106 > 126,6. 106 > 97,3. 106 > 65,2. 106 > 51,2. 106 > 11,3. 106 > 0,437. 106\nDo đó sắp xếp tên các quốc gia theo thứ tự có dân số từ lớn đến bé là:\nTrung quốc; Ấn Độ; Hoa Kỳ; Nhật Bản; Việt Nam; Pháp; Hàn Quốc; Cu Ba; Brunei."
+    },
+    {
+        "problem": "Bài 1.21 trang 15 sách bài tập Toán lớp 7 Tập 1: Bảng thống kê dưới đây ước lượng số dân của một số nước tại thời điểm năm 2020.\n\n(theo cacnuoc.vn)\nEm hãy sắp xếp tên các quốc gia theo thứ tự có số dân từ lớn đến bé.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n143,9.107 = 1439.106; 43,7.104 = 0,437.106; 13,8.108 = 1380.106\nVì 1439 > 1280 > 331 > 126,6 > 97,3 > 65,2 > 51,2 > 11,3 > 0,437\nNên 1439.106 > 1280. 106 > 331. 106 > 126,6. 106 > 97,3. 106 > 65,2. 106 > 51,2. 106 > 11,3. 106 > 0,437. 106\nDo đó sắp xếp tên các quốc gia theo thứ tự có dân số từ lớn đến bé là:\nTrung quốc; Ấn Độ; Hoa Kỳ; Nhật Bản; Việt Nam; Pháp; Hàn Quốc; Cu Ba; Brunei."
+    },
+    {
+        "problem": "Bài 1.22 trang 16 sách bài tập Toán lớp 7 Tập 1: Thay dấu “?” bằng số thích hợp:\na) 235.23?=238;\nb) −34?:−347=−342",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 235.23?=238\n23?=238:235\n23?=238−5\n23?=233\nVậy “?” là 3.\nb) −34?:−347=−342\n−34?=−342.−347\n−34?=−342+7\n−34?=−349\nVậy “?” là 9"
+    },
+    {
+        "problem": "Bài 1.22 trang 16 sách bài tập Toán lớp 7 Tập 1: Thay dấu “?” bằng số thích hợp:\na) 235.23?=238;\nb) −34?:−347=−342",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 235.23?=238\n23?=238:235\n23?=238−5\n23?=233\nVậy “?” là 3.\nb) −34?:−347=−342\n−34?=−342.−347\n−34?=−342+7\n−34?=−349\nVậy “?” là 9"
+    },
+    {
+        "problem": "Bài 1.23 trang 16 sách bài tập Toán lớp 7 Tập 1: Không sử dụng máy tính cầm tay, hãy tính:\na) (-5)7, biết (-5)6 = 15 625;\nb) 212, biết 211 = 2048.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Ta có:\n(-5)7 = (-5)6. (-5) = 15 625 . (-5) = -78 125;\nb) Ta có:\n212 = 211 . 2 = 2048 . 2 = 4096."
+    },
+    {
+        "problem": "Bài 1.23 trang 16 sách bài tập Toán lớp 7 Tập 1: Không sử dụng máy tính cầm tay, hãy tính:\na) (-5)7, biết (-5)6 = 15 625;\nb) 212, biết 211 = 2048.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Ta có:\n(-5)7 = (-5)6. (-5) = 15 625 . (-5) = -78 125;\nb) Ta có:\n212 = 211 . 2 = 2048 . 2 = 4096."
+    },
+    {
+        "problem": "Bài 1.24 trang 16 sách bài tập Toán lớp 7 Tập 1: Hình vuông dưới đây có tính chất: Mỗi ô ghi một lũy thừa của 2, tích các số trong mỗi hàng, mỗi cột và mỗi đường chéo đều bằng nhau. Hãy điển các lũy thừa của 2 còn thiếu vào các ô trống.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thực hiện các phép nhân lũy thừa theo dàng ngang cột dọc đường chéo thu được kết quả trong bảng sau:\n"
+    },
+    {
+        "problem": "Bài 1.24 trang 16 sách bài tập Toán lớp 7 Tập 1: Hình vuông dưới đây có tính chất: Mỗi ô ghi một lũy thừa của 2, tích các số trong mỗi hàng, mỗi cột và mỗi đường chéo đều bằng nhau. Hãy điển các lũy thừa của 2 còn thiếu vào các ô trống.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thực hiện các phép nhân lũy thừa theo dàng ngang cột dọc đường chéo thu được kết quả trong bảng sau:\n"
+    },
+    {
+        "problem": "Bài 1.25 trang 16 sách bài tập Toán lớp 7 Tập 1: Tìm số tự nhiên n, biết:\na) 5n.153=125;\nb) 4.3n = 324.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 5n.153=125\n5n.1353=125\n5n53=53\n5n – 3 = 53\nn – 3 = 3\nn = 3 + 3\nn = 6\nVậy n = 6.\nb) 4.3n = 324.\n3n = 324 : 4\n3n = 81\n3n = 34\nn = 4\nVậy n = 4."
+    },
+    {
+        "problem": "Bài 1.25 trang 16 sách bài tập Toán lớp 7 Tập 1: Tìm số tự nhiên n, biết:\na) 5n.153=125;\nb) 4.3n = 324.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) 5n.153=125\n5n.1353=125\n5n53=53\n5n – 3 = 53\nn – 3 = 3\nn = 3 + 3\nn = 6\nVậy n = 6.\nb) 4.3n = 324.\n3n = 324 : 4\n3n = 81\n3n = 34\nn = 4\nVậy n = 4."
+    },
+    {
+        "problem": "Bài 1.26 trang 16 sách bài tập Toán lớp 7 Tập 1: Tính A=2710+95913+272.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "A=2710+95913+272\nA=3310+3253213+332\nA=330+310326+36\nA=320.310+310320.36+36\nA=310.320+136.320+1\nA=31036=310:36=310−6=34."
+    },
+    {
+        "problem": "Bài 1.26 trang 16 sách bài tập Toán lớp 7 Tập 1: Tính A=2710+95913+272.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "A=2710+95913+272\nA=3310+3253213+332\nA=330+310326+36\nA=320.310+310320.36+36\nA=310.320+136.320+1\nA=31036=310:36=310−6=34."
+    }
+]

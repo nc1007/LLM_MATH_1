@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "B. Nếu … thì …; \nC. Vì … nên …; \nD. Do … nên ….",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐịnh lí thường được phát biểu dưới dạng “Nếu … thì …”."
+    },
+    {
+        "problem": "Câu 3. Định lí: “Nếu hai đường thẳng song song cùng cắt đường thẳng thứ ba thì hai góc đồng vị bằng nhau”. Giả thiết của định lí là:\nA. a // b; a // c; \nB. a // c; b bất kì;\nC. a // b; a⊥c;\nD. a//b;c∩a=M;c∩b=N.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nGiả thiết của định lí trên là a//b;c∩a=M;c∩b=N."
+    },
+    {
+        "problem": "Câu 4. Chọn phát biểu đúng \nA. Giả thiết của định lí là điều suy ra; \nB. Kết luận của định lí là điều cho biết; \nC. Giả thiết của định lí là điều cho biết; \nD. Cả A và B đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGiả thiết của định lí là phần cho biết. Kết luận của định lí là điều suy ra."
+    },
+    {
+        "problem": "Câu 5. Điền vào chỗ trống những nội dung thích hợp để được định lí đúng.\nNếu … thì NA=NB=\\frac{1}{2}AB.\nA. N thuộc AB; \nB. N là trung điểm của AB; \nC. N nằm giữa AB; \nD. Cả 3 đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nNếu N là trung điểm của AB thì NA=NB=\\frac{1}{2}AB."
+    },
+    {
+        "problem": "Câu 6. Điền vào chỗ trống nội dung thích hợp.\n“Nếu đường thẳng c cắt hai đường thẳng a, b và trong các góc tạo thành một cặp góc đồng vị bằng nhau thì hai đường thẳng ….”\nA. a, b song song với nhau;\nB. a, b vuông góc với nhau; \nC. a, b cắt nhau; \nD. a, b trùng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nNếu đường thẳng c cắt hai đường thẳng a, b và trong các góc tạo thành có một góc đồng vị bằng nhau thì a, b song song với nhau."
+    },
+    {
+        "problem": "Câu 7. Điền vào chỗ trống: “Nếu một đường thẳng cắt hai đường thẳng song song thì …”\nA. Hai góc đồng vị bằng nhau; \nB. Hai góc so le trong bằng nhau; \nC. Hai góc kề bù bằng nhau; \nD. Cả A và B đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nNếu một đường thẳng cắt hai đường thẳng song song thì:\n+ Hai góc đồng vị bằng nhau; \n+ Hai góc so le trong bằng nhau."
+    },
+    {
+        "problem": "Câu 9. Viết giả thiết cho định lí sau:\n“Nếu hai đường thẳng phân biệt cùng song song với một đường thẳng khác thì hai đường thẳng đó song song với nhau”.\nA. Giả thiết:a ≠b; a // c, b // c;\nB. Giả thiết: a ≡b; a // b, b // c;\nC. Giả thiết: a≡b;a⊥c,b//c; \nD. Giả thiết: a≠b;a⊥c,b//c.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGiả thiết của định lí “Nếu hai đường thẳng phân biệt cùng song song với một đường thẳng khác thì hai đường thẳng đó song song với nhau” là: a≠b;a//c,b//c."
+    },
+    {
+        "problem": "Câu 10. Điền vào chỗ trống.\nNếu hai góc đối đỉnh thì ….\nA. hai góc đó có tổng số đo bằng 180°; \nB. hai góc đó không bằng nhau; \nC. hai góc đó bằng nhau; \nD. hai góc đó có hiệu số đo bằng 180°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNếu hai góc đối đỉnh thì hai góc đó bằng nhau."
+    },
+    {
+        "problem": "Câu 11. Trong định lí, phần nằm giữa từ “Nếu” và từ “thì” là phần giả thiết vậy phần nằm sau từ “thì” là phần?\nA. kết luận; \nB. trả lời; \nC. ý nghĩa; \nD. định nghĩa.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nPhần nằm giữa từ “Nếu” và từ “thì” là phần giả thiết vậy phần nằm sau từ “thì” là phần kết luận."
+    },
+    {
+        "problem": "Câu 15. Chứng minh định lí là:\nA. Dùng lập luận để từ giả thiết suy ra kết luận; \nB. Dùng hình vẽ để từ giả thiết suy ra kết luận; \nC. Dùng đo đạc thực tế để từ giả thiết suy ra kết luận; \nD. Cả 3 đáp án đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nChứng minh định lí là dùng lập luận để từ giả thiết suy ra kết luận."
+    }
+]

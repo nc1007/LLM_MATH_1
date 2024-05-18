@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "a) Đọc số: -54\nb) Âm chín mươi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Dấu “ – ” đọc là âm.\n- Đọc tiếp số đằng sau dấu trừ.\nb)\n- Âm viết là “ – ”\n- Viết số đằng sau dấu “ – ”.\nLời giải chi tiết\na) Đọc là: âm năm mươi tư.\nb) Viết là: -  90."
+    },
+    {
+        "problem": "Viết số nguyên âm biểu thị độ cao của tàu ngầm so với mực nước biển, biết tàu ngầm đang ở vị trí dưới mực nước biển 20 m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thêm dấu “ – ” trước số 20 để biểu thị số nguyên âm\nLời giải chi tiết\nSố nguyên âm biểu thị độ cao của tàu ngắn so với mức nước biết (vị trí dưới mực nước biển 20m) = -20."
+    },
+    {
+        "problem": "a) Đọc các số sau: -9; -18.\nb) Viết các số sau: trừ hai mươi ba; âm ba trăm bốn mươi chín.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Dấu “ – ” đọc là âm.\n- Đọc tiếp số đằng sau dấu trừ.\nb)\n- Âm viết là “ – ”\n- Viết số đằng sau dấu “ – ”.\nLời giải chi tiết\na) -9 đọc là âm chín;\n-18 đọc là âm mười tám.\nb) -23; -349.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết số nguyên âm biểu thị các tình huống sau:\na) Ông An nợ ngân hàng 4 000 000 đồng;\nb) Bà Ba kinh doanh bị lỗ 600 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thêm dấu “ – ” vào trước tiền nợ.\nb) Thêm dấu “ – ” vào trước tiền lỗ.\nLời giải chi tiết\na) - 4 000 000.\nb) - 600 000."
+    },
+    {
+        "problem": "Viết số nguyên âm chỉ năm có các sự kiện sau:\na) Thế vận hội đầu tiên diễn ra năm 776 trước Công nguyên;\nb) Nhà toán học Ác-si-mét (Archimedes) sinh năm 287 trước Công nguyên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Năm trước công nguyên ta thêm dấu “ – ” vào trước năm đó.\nLời giải chi tiết\na) Năm 776 trước Công nguyên thì ta thêm “ – ”  vào trước 776 được:  \\( - 776\\). b) Năm 287 trước Công nguyên thì ta thêm “ – ”  vào trước 287 được:  \\( - 287\\).\nLoigaihay.com"
+    },
+    {
+        "problem": "Độ sâu lớn nhất của các đại đương dưới mực nước biểnRãnh Ma-ri-a-na (Mariana, thuộc Thái Bình Dương) sâu 10 925 m.\nRãnh Pu-éc-tô Ri-cô (Puerto Rico, thuộc Đại Tây Dương) sâu 8 408 m.\nRãnh Gia-va (Java, thuộc Ấn Độ Dương) sâu 7 290m.\nMôn-loi Hâu-lơ (Molloy Hole, nơi sâu nhất của Bắc Băng Dương) sâu 5 669 m.\nHãy sử dụng số nguyên âm để biểu diễn các độ cao đó (so với mực nước biển).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ sâu được biểu thị độ cao so với mực nước biển bằng số âm\nLời giải chi tiết\n+) Rãnh Ma-ri-a-na (Mariana, thuộc Thái Bình Dương) sâu 10 925 m, có nghĩa là rãnh này có độ cao so với mực nước biển là – 10 935 m.\n+) Rãnh Pu-éc-tô Ri-cô (Puerto Rico, thuộc Đại Tây Dương) sâu 8 408 m, có nghĩa là rãnh này có độ cao so với mực nước biển là – 8 408 m.\n+) Rãnh Gia-va (Java, thuộc Ấn Độ Dương) sâu 7 290m, có nghĩa là rãnh này có độ cao so với mực nước biển là – 7 290 m.\n+) Môn-loi Hâu-lơ (Molloy Hole, nơi sâu nhất của Bắc Băng Dương) sâu 5 669 m, có nghĩa là rãnh này có độ cao so với mực nước biển là – 5 669 m."
+    },
+    {
+        "problem": "Chọn kí hiệu “\\( \\in \\)” và “\\( \\notin \\)” thích hợp cho ?\na) \\( - 16?\\mathbb{Z}\\).\nb) \\( - 20?\\mathbb{N}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Số nguyên gồm số nguyên âm, số 0 và số nguyên dương.\n- \\(\\mathbb{Z}\\) là tập số nguyên.\nb)\n- Số nguyên âm không là số tự nhiên.\n- \\(\\mathbb{N}\\) là tập số tự nhiên.\nLời giải chi tiết\na) Số \\( - 16\\) là số nguyên âm nên thuộc số tập hợp số nguyên, ta viết: \\( - 16 \\in \\mathbb{Z}\\).\nb) Số \\( - 20\\) là số nguyên âm nên không phải là số tự nhiên nên \\( - 20 \\notin \\mathbb{N}\\)."
+    },
+    {
+        "problem": "Cho ví dụ về hai số nguyên đối nhau và hai số nguyên không đối nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "2 số đối nhau có tổng bằng 0\nLời giải chi tiết\nVí dụ:\nHai số đối nhau là: -3 và 3\nHai số không đối nhau là 6 và -9."
+    }
+]

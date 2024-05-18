@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Hãy viết các tỉ số lượng giác sau thành tỉ số lượng giác của các góc nhỏ hơn 45o\nsin60o; cos75o; sin52o30’; cot82o; tan80o",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Vận dụng kiến thức : Cho hai góc \\(\\alpha \\) và \\(\\beta \\) phụ nhau \\(\\left( {\\alpha  + \\beta  = {{90}^o}} \\right)\\).\nTa có: \\(\\sin \\alpha  = \\cos \\beta ;\\,\\,\\cos \\alpha  = \\sin \\beta ;\\)\\(\\tan \\alpha  = \\cot \\beta ;\\,\\,\\cot \\alpha  = \\tan \\beta \\).\nLời giải chi tiết\n\\(\\sin {60^o} = \\cos \\left( {{{90}^o} - {{60}^o}} \\right) = \\cos {30^o},\\) \\(\\cos {75^o} = \\sin \\left( {{{90}^o} - {{75}^o}} \\right) = \\sin {15^o},\\)\n\\(\\sin {52^o}30' = \\cos \\left( {{{90}^o} - {{52}^o}30'} \\right) = \\cos {37^o}30',\\)\n\\(\\cot {82^o} = \\tan \\left( {{{90}^o} - {{82}^o}} \\right) = \\tan {8^o},\\)\n\\(\\tan {80^o} = \\cot \\left( {{{90}^o} - {{80}^o}} \\right) = \\cot {10^o}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A. Biết \\(\\cos B = 0,8,\\) hãy tính các tỉ số lượng giác của góc C.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức :\n- Cho góc nhọn \\(\\alpha \\). Ta có\n\\(\\begin{array}{l}0 < \\sin \\alpha  < 1;\\,\\,0 < \\cos \\varepsilon  < 1;\\,\\,{\\sin ^2}\\alpha  + {\\cos ^2}\\alpha  = 1\\\\\\tan \\alpha  = \\dfrac{{\\sin \\alpha }}{{\\cos \\alpha }};\\,\\,\\cot \\alpha  = \\dfrac{{\\cos \\alpha }}{{\\sin \\alpha }};\\,\\tan \\alpha .\\cot \\alpha  = 1\\end{array}\\)\n- Cho hai góc \\(\\alpha \\) và \\(\\beta \\) phụ nhau \\(\\left( {\\alpha  + \\beta  = {{90}^o}} \\right)\\). Ta có:\n\\(\\sin \\alpha  = \\cos \\beta ;\\,\\,\\cos \\alpha  = \\sin \\beta ;\\,\\tan \\alpha  = \\cot \\beta ;\\,\\,\\cot \\alpha  = \\tan \\beta \\)\nLời giải chi tiết\nTa có \\({\\sin ^2}B + {\\cos ^2}B = 1\\), suy ra :\n\\(\\sin B = \\sqrt {1 - {{\\cos }^2}B}  = \\sqrt {1 - 0,{8^2}}  = 0,6\\)\nMặt khác, ta có :\n\\(\\tan B = \\dfrac{{\\sin B}}{{\\cos B}} = \\dfrac{{0,6}}{{0,8}} = \\dfrac{3}{4},\\) \\(\\cot B = \\dfrac{{\\cos B}}{{\\sin B}} = \\dfrac{{0,8}}{{0,6}} = \\dfrac{4}{3}\\).\nVì trong tam giác vuông \\(ABC\\) có \\(\\widehat B\\) và \\(\\widehat C\\) là hai góc phụ nhau nên :\n\\(\\sin C = \\cos B = 0,8;\\)\n\\(\\cos C = \\sin B = 0,6;\\)\n\\(\\tan C = \\cot B = \\dfrac{3}{4}\\)\n\\(\\cot C = \\tan B = \\dfrac{4}{3}\\)\nLoigiaihay.com"
+    }
+]

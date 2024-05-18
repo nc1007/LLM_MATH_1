@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Bài 1.27 trang 18 sách bài tập Toán lớp 7 Tập 1: Tính giá trị của biểu thức sau khi bỏ dấu ngoặc:\na) A = (5,1 – 3,4) – (-3,4 + 5,1);\nb) D=−57+79−−79+27.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) A = (5,1 – 3,4) – (-3,4 + 5,1)\nA = 5,1 – 3,4 + 3,4 – 5,1\nA = (5,1 – 5, 1) + (3,4 – 3,4)\nA = 0 + 0 = 0.\nb) D=−57+79−−79+27.\nD=−57−79+79−27\nD=−57−27+−79+79\nD=−77+0=−1"
+    },
+    {
+        "problem": "Bài 1.28 trang 19 sách bài tập Toán lớp 7 Tập 1: Tìm x, biết:\na) –x + 74=65−34\nb) 1 – 2x = 98+75:25.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) –x + 74=65−34\n-x + 74 = 2420−1520\n-x + 74 = 920\n-x = 920−74\n-x = 920−3520\n-x = −2620=−1310\nx = 1310\nVậy x = 1310.\nb) 1 – 2x = 98+75:25\n1 – 2x = 98+75.52\n1 – 2x = 98+72\n1 – 2x = 98+288\n1 – 2x = 378\n2x = 1 – 378\n2x = 88−378\n2x = −298\nx = −298 : 2\nx = −2916\nVậy x = −2916"
+    },
+    {
+        "problem": "Bài 1.28 trang 19 sách bài tập Toán lớp 7 Tập 1: Tìm x, biết:\na) –x + 74=65−34\nb) 1 – 2x = 98+75:25.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) –x + 74=65−34\n-x + 74 = 2420−1520\n-x + 74 = 920\n-x = 920−74\n-x = 920−3520\n-x = −2620=−1310\nx = 1310\nVậy x = 1310.\nb) 1 – 2x = 98+75:25\n1 – 2x = 98+75.52\n1 – 2x = 98+72\n1 – 2x = 98+288\n1 – 2x = 378\n2x = 1 – 378\n2x = 88−378\n2x = −298\nx = −298 : 2\nx = −2916\nVậy x = −2916"
+    },
+    {
+        "problem": "Bài 1.29 trang 19 sách bài tập Toán lớp 7 Tập 1: Tính:\nA=181−3162.8117+3534:951+7102.1025+2017",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": ""
+    },
+    {
+        "problem": "Bài 1.29 trang 19 sách bài tập Toán lớp 7 Tập 1: Tính:\nA=181−3162.8117+3534:951+7102.1025+2017",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": ""
+    },
+    {
+        "problem": "Bài 1.30 trang 19 sách bài tập Toán lớp 7 Tập 1: Tìm x, biết:\na) (0,5)2 + 2x = (0,7)2\nb) 13+15−17=17−13.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) (0,5)2 + 2x = (0,7)2\n0,25 + 2x = 0,49\n2x = 0,49 – 0,25\n2x = 0,24\nx = 0,24 : 2\nx = 0,12\nVậy x = 0,12.\nb) x – 13+15−17=17−13\nx −13−15+17=17−13\nx = 17−13+13+15−17\nx = 17−17+13−13+15\nx = 0 + 0 + 15\nx = 15\nVậy x = 15."
+    },
+    {
+        "problem": "Bài 1.30 trang 19 sách bài tập Toán lớp 7 Tập 1: Tìm x, biết:\na) (0,5)2 + 2x = (0,7)2\nb) 13+15−17=17−13.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) (0,5)2 + 2x = (0,7)2\n0,25 + 2x = 0,49\n2x = 0,49 – 0,25\n2x = 0,24\nx = 0,24 : 2\nx = 0,12\nVậy x = 0,12.\nb) x – 13+15−17=17−13\nx −13−15+17=17−13\nx = 17−13+13+15−17\nx = 17−17+13−13+15\nx = 0 + 0 + 15\nx = 15\nVậy x = 15."
+    },
+    {
+        "problem": "Bài 1.31 trang 19 sách bài tập Toán lớp 7 Tập 1: Hãy viết một đẳng thức để mô tả tính trạng khi cân thăng bằng rồi tính khối lượng của quả bí đỏ (H.14)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi khối lượng của quả bí ngô là x.\nVì cân ở trạng thái cân bằng nên x + 1,8 = 1,5 + 2,5\nTa có:\nx + 1,8 = 4\nx = 4 – 1,8\nx = 2,2\nvậy cân nặng của quả bí ngô là 2,2kg."
+    },
+    {
+        "problem": "Bài 1.31 trang 19 sách bài tập Toán lớp 7 Tập 1: Hãy viết một đẳng thức để mô tả tính trạng khi cân thăng bằng rồi tính khối lượng của quả bí đỏ (H.14)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi khối lượng của quả bí ngô là x.\nVì cân ở trạng thái cân bằng nên x + 1,8 = 1,5 + 2,5\nTa có:\nx + 1,8 = 4\nx = 4 – 1,8\nx = 2,2\nvậy cân nặng của quả bí ngô là 2,2kg."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Với n là số tự nhiên, chứng minh đẳng thức:\n\\(\\sqrt {{{(n + 1)}^2}}  + \\sqrt {{n^2}}  = {(n + 1)^2} - {n^2}\\)\nViết đẳng thức trên khi n là 1, 2, 3, 4, 5, 6, 7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng:\n\\(\\sqrt {{A^2}}  = \\left| A \\right|\\)\nNếu \\(A \\ge 0\\) thì \\(\\left| A \\right| = A\\)\nNếu \\(A < 0\\) thì \\(\\left| A \\right| =  - A\\).\nSử dụng hằng đẳng thức:\n\\({(a + b)^2} = {a^2} + 2ab + {b^2}\\)\n\\({(a - b)^2} = {a^2} - 2ab + {b^2}\\)\nLời giải chi tiết\nTa có:\n\\(\\sqrt {{{(n + 1)}^2}}  + \\sqrt {{n^2}}  = \\left| {n + 1} \\right| + \\left| n \\right|\\)\nDo \\(n \\in \\mathbb N \\Rightarrow n + 1 > 0\\)\nNên \\(\\left| {n + 1} \\right| + \\left| n \\right| = n + 1 + n = 2n + 1\\) (1)\nTa có:\n\\(\\eqalign{& {(n + 1)^2} - {n^2} \\cr & = {n^2} + 2n + 1 - {n^2} \\cr } \\)   \\(= 2n + 1 \\) (2)\nTừ (1) và (2) suy ra vế phải bằng vế trái nên đẳng thức được chứng minh.\nVới \\(n = 1\\), ta có:\n\\(\\eqalign{& \\sqrt {{{(1 + 1)}^2}} + \\sqrt {{1^2}} = {(1 + 1)^2} - {1^2} \\cr & \\Leftrightarrow \\sqrt 4 + \\sqrt 1 = 4 - 1 \\cr} \\)\nVới \\(n = 2\\), ta có:\n\\(\\eqalign{& \\sqrt {{{(2 + 1)}^2}} + \\sqrt {{2^2}} = {(2 + 1)^2} - {2^2} \\cr & \\Leftrightarrow \\sqrt 9 + \\sqrt 4 = 9 - 4 \\cr} \\)\nVới \\(n = 3\\), ta có:\n\\(\\eqalign{& \\sqrt {{{(3 + 1)}^2}} + \\sqrt {{3^2}} = {(3 + 1)^2} - {3^2} \\cr & \\Leftrightarrow \\sqrt {16} + \\sqrt 9 = 16 - 9 \\cr} \\)\nVới \\(n = 4\\), ta có:\n\\(\\eqalign{& \\sqrt {{{(4 + 1)}^2}} + \\sqrt {{4^2}} = {(4 + 1)^2} - {4^2} \\cr & \\Leftrightarrow \\sqrt {25} + \\sqrt {16} = 25 - 16 \\cr} \\)\nVới \\(n = 5\\), ta có:\n\\(\\eqalign{& \\sqrt {{{\\left( {5 + 1} \\right)}^2}} + \\sqrt {{5^2}} = {\\left( {5 + 1} \\right)^2} - {5^2} \\cr & \\Leftrightarrow \\sqrt {36} + \\sqrt {25} = 36 - 25 \\cr} \\)\nVới \\(n = 6\\), ta có:\n\\(\\eqalign{& \\sqrt {{{\\left( {6 + 1} \\right)}^2}} + \\sqrt {{6^2}} = {\\left( {6 + 1} \\right)^2} - {6^2} \\cr & \\Leftrightarrow \\sqrt {49} + \\sqrt {36} = 49 - 36 \\cr} \\)\nVới \\(n = 7\\), ta có:\n\\(\\eqalign{& \\sqrt {{{\\left( {7 + 1} \\right)}^2}} + \\sqrt {{7^2}} = {\\left( {7 + 1} \\right)^2} - {7^2} \\cr & \\Leftrightarrow \\sqrt {64} + \\sqrt {49} = 64 - 49 \\cr} \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đẳng thức nào đúng nếu x là số âm:\n(A) \\(\\sqrt {9{x^2}}  = 9x\\)\n(B) \\(\\sqrt {9{x^2}}  = 3x\\)\n(C) \\(\\sqrt {9{x^2}}  =  - 9x\\)\n(D) \\(\\sqrt {9{x^2}}  =  - 3x.\\)\nHãy chọn đáp án đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng:\n\\(\\sqrt {{A^2}}  = \\left| A \\right|\\)\nNếu \\(A \\ge 0\\) thì \\(\\left| A \\right| = A\\)\nNếu \\(A < 0\\) thì \\(\\left| A \\right| =  - A\\).\nLời giải chi tiết\n\\(\\sqrt {9{x^2}}  = \\sqrt {{{(3x)}^2}}  = \\left| {3x} \\right|\\)\nDo \\(x\\) là số âm nên \\(\\left| {3x} \\right| =  - 3x\\).\nĐáp án (D).\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh (không dùng bảng số hoặc máy tính bỏ túi):\n\\(\\sqrt {2003}  + \\sqrt {2005} \\) và \\(2\\sqrt {2004} \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất: Với \\(a > 0,b > 0\\) và \\({a^2} < {b^2}\\) thì \\(a < b\\)\nĐể chứng minh \\(a < b\\) ( với \\(a > 0,b > 0\\)) ta chứng minh \\({a^2} < {b^2}\\).\nChú ý: \\({\\left( {\\sqrt A } \\right)^2} = A\\) ( với \\(A > 0\\)).\nÁp dụng hằng đẳng thức:\n\\(\\left( {a + 1} \\right)\\left( {a - 1} \\right) = {a^2} - 1\\)\nLời giải chi tiết\nTa có:\n\\(\\eqalign{& {\\left( {2\\sqrt {2004} } \\right)^2} = 4.2004 \\cr & = 4008 + 2.2004 \\cr} \\)\n\\(\\eqalign{& {\\left( {\\sqrt {2003} + \\sqrt {2005} } \\right)^2} \\cr & = 2003 + 2\\sqrt {2003.2005} + 2005 \\cr} \\)\n\\( = 4008 + 2\\sqrt {2003.2005} \\)\nSo sánh \\(2004\\) và \\(\\sqrt {2003.2005} \\)\nTa có:\n\\(\\eqalign{& \\sqrt {2003.2005} \\cr & = \\sqrt {(2004 - 1)(2004 + 1)} \\cr & = \\sqrt {{{2004}^2} - 1} < \\sqrt {{{2004}^2}} \\cr} \\)\nSuy ra:\n\\(\\eqalign{& 2004 > \\sqrt {2003.2005} \\cr & \\Rightarrow 2.2004 > 2.\\sqrt {2003.2005} \\cr} \\)\n\\( \\Rightarrow 4008 + 2.2004 > 4008 + 2\\sqrt {2003.2005} \\)\n\\( \\Rightarrow {\\left( {2\\sqrt {2004} } \\right)^2} > {\\left( {\\sqrt {2003}  + \\sqrt {2005} } \\right)^2}\\)\nVậy \\(2\\sqrt {2004}  > \\sqrt {2003}  + \\sqrt {2005} \\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Biểu diễn \\(\\sqrt {{\\rm{ab}}} \\) ở dạng tích các căn bậc hai với \\(a < 0\\) và \\(b < 0\\).\nÁp dụng tính \\(\\sqrt {( - 25).( - 64)} \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng\n\\(\\left\\{ \\begin{array}{l}A < 0\\\\B < 0\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l} - A > 0\\\\ - B > 0\\end{array} \\right.\\)\nVà \\(\\sqrt {A.B}  = \\sqrt A .\\sqrt B \\) với \\((A \\ge 0;B \\ge 0)\\).\nLời giải chi tiết\nVì \\(a < 0\\) nên \\(–a > 0\\) và \\(b < 0\\) nên \\(–b > 0\\)\nTa có: \\(\\sqrt {ab}  = \\sqrt {( - a).( - b)}  = \\sqrt { - a} .\\sqrt { - b} \\)\nÁp dụng: \\(\\sqrt {( - 25).( - 64)}  = \\sqrt {25} .\\sqrt {64}\\)\\(  = 5.8 = 40\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với \\(n\\) là số tự nhiên, chứng minh:\n\\({(\\sqrt {n + 1}  - \\sqrt n )^2} \\)\\(= \\sqrt {{{(2n + 1)}^2}}  - \\sqrt {{{(2n + 1)}^2} - 1} \\)\nViết đẳng thức trên khi \\(n\\) bằng \\(1, 2, 3, 4.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Áp dụng hằng đẳng thức:\n\\({(A - B)^2} = {A^2} - 2AB + {B^2}\\)\n+) Nếu \\(A \\ge 0,B \\ge 0\\) thì \\(\\sqrt {A.B}  = \\sqrt A .\\sqrt B \\)\n+) \\(\\sqrt {{A^2}}  = \\left| A \\right|\\)\nVới \\(A \\ge 0\\) thì \\(\\left| A \\right| = A\\)\nVới \\(A < 0\\) thì \\(\\left| A \\right| = - A\\)\nLời giải chi tiết\nTa có vế phải\n\\(\\eqalign{& {\\left( {\\sqrt {n + 1} - \\sqrt n } \\right)^2} \\cr & = n + 1 - 2\\sqrt {n(n + 1)} + n \\cr & = 2n + 1 - 2\\sqrt {n(n + 1)} \\cr} \\)\nTa có vế trái:\n\\(\\eqalign{& \\sqrt {{{(2n + 1)}^2}} - \\sqrt {{{(2n + 1)}^2} - 1} \\cr  & = \\left| {2n + 1} \\right| - \\sqrt {(2n + 1 + 1)(2n + 1 - 1)} \\cr} \\)\n\\(\\eqalign{& = 2n + 1 - \\sqrt {2(n + 1)2n} \\cr & = 2n + 1 - \\sqrt {4(n + 1)n} \\cr} \\)\n\\(\\eqalign{& = 2n + 1 - \\sqrt 4 .\\sqrt {n(n + 1)} \\cr & = 2n + 1 - 2\\sqrt {n(n + 1)} \\cr} \\)\nVế trái bằng vế phải nên đẳng thức được chứng minh.\n- Với \\(n = 1\\), ta có:  \\({\\left( {\\sqrt 2  - \\sqrt 1 } \\right)^2} = \\sqrt 9  - \\sqrt 8 \\)\n- Với \\(n = 2\\), ta có: \\({\\left( {\\sqrt 3  - \\sqrt 2 } \\right)^2} = \\sqrt {25}  - \\sqrt {24} \\)\n- Với \\(n = 3\\), ta có: \\({\\left( {\\sqrt 4  - \\sqrt 3 } \\right)^2} = \\sqrt {49}  - \\sqrt {48} \\)\n- Với \\(n = 4\\), ta có: \\({\\left( {\\sqrt 5  - \\sqrt 4 } \\right)^2} = \\sqrt {81}  - \\sqrt {80} \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giá trị của \\(\\sqrt {1,6} .\\sqrt {2,5} \\) bằng:\n(A) 0,20 ;\n(B) 2,0 ;\n(C) 20,0 ;\n(D) 0,02;\nHãy chọn đáp án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Nếu \\(A \\ge 0,B \\ge 0\\) thì \\(\\sqrt {A.B}  = \\sqrt A .\\sqrt B \\)\n+) \\(\\sqrt {{A^2}}  = \\left| A \\right|\\)\nVới \\(A \\ge 0\\) thì \\(\\left| A \\right| = A\\)\nVới \\(A < 0\\) thì \\(\\left| A \\right| = - A\\)\nLời giải chi tiết\n\\(\\begin{array}{l}\\sqrt {1,6} .\\sqrt {2,5}=\\sqrt {1,6.2,5} \\\\= \\sqrt {(16.0,1).(25.0,1)} = \\sqrt {16.25.0,01} \\\\= \\sqrt {16} .\\sqrt {25} .\\sqrt {0,01} \\\\ = 4.5.0,1\\\\ = 20.0,1\\\\ = 2,0\\end{array}\\)\nChọn đáp án (B)\nLoigiaihay.com"
+    }
+]

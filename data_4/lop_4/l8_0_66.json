@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Số có chữ số tận cùng là 0 hoặc 3 thì chia hết cho 3. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3.\nVậy khẳng định ‘Số có chữ số tận cùng là 0 hoặc 3 thì chia hết cho 3” là sai."
+    },
+    {
+        "problem": "Câu 2: Tí nói: “các số có tổng các chữ số không chia hết cho 3 thì không chia hết cho 3”. Theo con, Tí nói đúng hay sai?  \nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số không chia hết cho 3 thì không chia hết cho 3.\nVậy Tí nói đúng."
+    },
+    {
+        "problem": "Câu 3: Trong các số sau số nào chia hết cho 3?\nA.\t235\nB.\t407\nC.\t815\nD.\t864",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 235 có tổng các chữ số là 2+3+5=10. Vì 10 không chia hết cho 3 nên 235 không chia hết cho 3.\nSố 407 có tổng các chữ số là 4+0+7=11. Vì 11 không chia hết cho 33 nên 407 không chia hết cho 3.\nSố 815 có tổng các chữ số là 8+1+5=14. Vì 14 không chia hết cho 33 nên 815 không chia hết cho 3.\nSố 864 có tổng các chữ số là 8+6+4=18. Vì 18 chia hết cho 3 nên 864 chia hết cho 3.\nVậy trong các số đã cho, số chia hết cho 3 là 864."
+    },
+    {
+        "problem": "Câu 4: Trong các số sau số nào không chia hết cho 3?\nA.\t4527\nB.\t2554\nC.\t5814\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 4527 có tổng các chữ số là 4+5+2+7=18. Vì 18 chia hết cho 3 nên 4527 chia hết cho 3.\nSố 2554 có tổng các chữ số là 2+5+5+4=16. Vì 16 không chia hết cho 3 nên 2554 không chia hết cho 3.\nSố 5814 có tổng các chữ số là 5+8+1+4=18. Vì 18 chia hết cho 3 nên 5814 chia hết cho 3.\nVậy trong các số đã cho, số không chia hết cho 3 là 2554."
+    },
+    {
+        "problem": "Câu 5: Cho các số sau: 72; 168; 275; 338; 906; 1425; 24117; 37908. Có bao nhiêu số chia hết cho 3?\nA.\t4 số\nB.\t5 số\nC.\t6 số\nD.\t7 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 72 có tổng các chữ số là 7+2=9. Vì 9 chia hết cho 3 nên 72 chia hết cho 3.\nSố 168 có tổng các chữ số là 1+6+8=15. Vì 15 chia hết cho 3 nên 168 chia hết cho 3.\nSố 275 có tổng các chữ số là 2+7+5=14. Vì 14 không chia hết cho 3 nên 275 không chia hết cho 3.\nSố 338 có tổng các chữ số là 3+3+8=14. Vì 14 không chia hết cho 3 nên 338 không chia hết cho 3.\nSố 906906 có tổng các chữ số là 9+0+6=15. Vì 15 chia hết cho 3 nên 906 chia hết cho 3.\nSố 1425 có tổng các chữ số là 1+4+2+5=12. Vì 12 chia hết cho 3 nên 1425 chia hết cho 3.\nSố 24117 có tổng các chữ số là 2+4+1+1+7=15. Vì 15 chia hết cho 3 nên 24117 chia hết cho 3.\nSố 37908 có tổng các chữ số là 3+7+9+0+8=27. Vì 27 chia hết cho 3 nên 37908 chia hết cho 3.\nVậy có 6 số chia hết cho 3 là 72; 168; 906; 1425; 24117; 37908."
+    },
+    {
+        "problem": "Câu 6: Số 853471 chia cho 3 dư mấy?\nA.\tKhông dư\nB.\tDư 1\nC.\tDư 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 853471 có tổng các chữ số là: 8+5+3+4+7+1=28.\nTa có: 28:3=9 dư 1.\nDo đó 853471 chia cho 3 cũng dư 1.\nVậy đáp án đúng là dư 1."
+    },
+    {
+        "problem": "Câu 10: Cho A = 12308 - 187×45 + 4357.\nGiá trị của biểu thức A chia hết cho 3. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nA=12308−187×45+4357\nA=12308−8415+4357\nA=3893+4357\nA=8250\nSố 8250 có tổng các chữ số là 15. Vì 15 chia hết cho 3 nên 8250 chia hết cho 3.\nVậy giá trị biểu thức A chia hết cho 3."
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tam giác \\(A'B'C'\\) gọi là đồng dạng với tam giác \\(ABC\\) nếu:\n\\(\\widehat{A'}=\\widehat{A},\\widehat{B'}=\\widehat{B},\\widehat{C'}=\\widehat{C}\\) ; \\(\\frac{A'B'}{AB}=\\frac{B'C'}{BC}=\\frac{A'C'}{AC}\\).\nKí hiệu là \\(\\Delta A'B'C'\\backsim \\Delta ABC\\).\nTỉ số các cạnh tương ứng \\(\\frac{A'B'}{AB}=\\frac{B'C'}{BC}=\\frac{C'A'}{CA}=k\\) gọi là tỉ số đồng dạng.\nLời giải chi tiết\nChọn đáp án B\nTam giác vuông \\(A'B'O\\) vuông tại \\(A'\\) nên theo định lí Pythagore, ta có:\n\\( B'{{O}^{2}}=A'B{{'}^{2}}+A'{{O}^{2}}=42+32=25 \\\\  =>B'O=5 \\)\nXét hai tam giác vuông \\(ABO\\) và \\(A'B'O\\) có: \\(\\widehat{A}=\\widehat{A'}=90{}^\\circ ;\\widehat{AOB}=\\widehat{A'OB'}\\) (hai góc đối đỉnh).\n\\(=>\\Delta ABO\\backsim \\Delta A'B'O\\) (g.g)\n\\(=>\\frac{AB}{A'B'}=\\frac{BO}{B'O}=\\frac{AO}{A'O}\\)\nHay \\(\\frac{y}{4}=\\frac{x}{5}=\\frac{6}{3}\\)\n\\(=>y=\\frac{4.6}{3}=8;x=\\frac{5.6}{3}=10\\)\nVậy \\(x+y=10+8=18\\)."
+    },
+    {
+        "problem": "Trong Hình 53, các điểm \\(A,B,C,D\\) lần lượt là các điểm nằm trên các đoạn thẳng \\(IM,IN,IP,IQ\\) sao cho \\(\\frac{{IA}}{{IM}} = \\frac{{IB}}{{IN}} = \\frac{{IC}}{{IP}} = \\frac{{ID}}{{IQ}} = \\frac{1}{3}\\).\nQuan sát Hình 53 và cho biết:\na)      Hai hình bình hành \\(MNPQ\\) và \\(A'B'C'D'\\) có bằng nhau hay không;\nb)     Hai hình bình hành \\(ABCD\\) và \\(A'B'C'D'\\) có đồng dạng hay không.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình \\(H'\\) gọi là đồng dạng với hình \\(H\\) nếu hình \\(H'\\) bằng một hình nào đó đồng dạng phối cảnh với hình \\(H\\).\nLời giải chi tiết\na)      Quan sát Hình 53, ta thấy hai hình bình hành \\(MNPQ\\) và \\(A'B'C'D'\\) bằng nhau.\nb)     Hai hình bình hành \\(ABCD\\) và \\(MNPQ\\) đồng dạng phối cảnh và \\(I\\) là tâm đồng dạng phối cảnh. Mặt khác, hai hình bình hành \\(MNPQ\\) và \\(A'B'C'D'\\) bằng nhau. Do đó, hình bình hành \\(ABCD\\) đồng dạng với hình bình hành \\(A'B'C'D'\\)."
+    },
+    {
+        "problem": "Cho hình bình hành \\(ABCD\\) \\(\\left( {AC > BD} \\right)\\). Từ \\(C\\) kẻ \\(CE\\) vuông góc với \\(AB\\) (\\(E\\) thuộc đường thẳng \\(AB\\)), \\(CF\\) vuông góc với \\(AD\\) (\\(F\\) thuộc đường thẳng \\(AD\\)). Chứng minh: \\(AB.AE + AD.AF = A{C^2}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ ba của tam giác vào tam giác vuông:\nNếu tam giác vuông này có một góc nhọn bằng góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\nLời giải chi tiết\n\nGọi \\(H,K\\) lần lượt là hình chiếu của \\(D,B\\) trên đường thẳng \\(AC\\).\nTa có \\(\\Delta AHD\\backsim \\Delta AFC=>\\frac{AD}{AC}=\\frac{AH}{AF}\\) hay \\(AD.AF = AC.AH\\) (1)\nTương tự \\(\\Delta AKB\\backsim \\Delta AEC=>\\frac{AB}{AC}=\\frac{AK}{AE}\\) hay \\(AB.AE = AC.AK\\) (2).\nVì \\(\\Delta ABK\\backsim \\Delta CDH\\) (cạnh huyền – góc nhọn) nên \\(AK = HC\\)\nTừ đó, cộng (1) và (2) theo vế ta được:\n\\(AD.AF + AB.AE = AC.\\left( {AH + AK} \\right) = AC\\left( {AH + HC} \\right) = A{C^2}\\)."
+    },
+    {
+        "problem": "Hình thang \\(ABCD\\) ở Hình 39 có \\(AB//CD,AB < CD,\\widehat {ABD} = 90^\\circ \\). Hai đường chéo \\(AC\\) và \\(BD\\) cắt nhau tại \\(G\\). Điểm \\(E\\) nằm trên đường vuông góc với \\(AC\\) tại \\(C\\) thỏa mãn \\(CE = AG\\) và đoạn thẳng \\(GE\\) không cắt đường thẳng \\(CD\\). Điểm \\(F\\) nằm trên đoạn thẳng \\(DC\\) và \\(DF = GB\\). Chứng minh:\na)      \\(\\Delta FGD\\backsim \\Delta ECG\\);\nb)     \\(\\Delta GDC\\backsim \\Delta GFE\\);\nc)      \\(\\widehat {GFE} = 90^\\circ \\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ hai của tam giác: cạnh – góc – cạnh\nNếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau thì hai tam giác đó đồng dạng.\nLời giải chi tiết\na)      Do \\(AB//CD\\) nên \\(\\frac{{BG}}{{AG}} = \\frac{{GD}}{{GC}}\\).\nMặt khác \\(AG = CE,BG = DF\\) nên \\(\\frac{{DF}}{{CE}} = \\frac{{GD}}{{GC}}\\).\nMà \\(\\widehat {GDF} = \\widehat {GCE}\\) nên \\(\\Delta FDG\\backsim \\Delta ECG\\).\nb)     Vì \\(\\Delta FDG\\backsim \\Delta ECG\\) nên \\(\\widehat {DGF} = \\widehat {CGE}\\) và \\(\\frac{{DG}}{{GF}} = \\frac{{GC}}{{GE}}\\).\n\\(\\widehat {DGF} = \\widehat {CGE} =  > \\widehat {DGF} + \\widehat {FGC} =  + \\widehat {FGC}\\).\nHay \\(\\widehat {DGC} = \\widehat {FGE}\\).\nTừ đó, ta có \\(\\Delta GDC\\backsim \\Delta GFE\\) vì \\(\\frac{DG}{GF}=\\frac{GC}{GE}\\) và \\(\\widehat{DGC}=\\widehat{FGE}\\).\nc)      Vì \\(\\Delta GDC\\backsim \\Delta GFE\\) nên \\(\\widehat {GFE} = \\widehat {GDC} = 90^\\circ \\)."
+    },
+    {
+        "problem": "Cho tam giác \\(IKH\\) và tam giác \\(I'K'H'\\) có \\(\\widehat {IKH} = 90^\\circ ,\\widehat {KHI} = 60^\\circ ,\\widehat {I'K'H'} = 90^\\circ ,\\widehat {K'I'H'} = 30^\\circ \\). Chứng minh: \\(\\Delta I'K'H'\\backsim \\Delta IKH\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ nhất của tam giác vào tam giác vuông:\nNếu cạnh huyền và một cạnh góc vuông của tam giác vuông này tỉ lệ với cạnh huyền và một cạnh góc vuông của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\nLời giải chi tiết\nDo tam giác \\(IKH\\) có \\(\\widehat {IKH} = 90^\\circ ,\\widehat {KHI} = 60^\\circ \\) nên \\(HI = 2HK\\). Gọi \\(a\\) là độ dài cạnh \\(HK\\), khi đó ta có \\(HI = 2a,KI = \\sqrt 3 a\\). Tương tự, tam giác \\(I'K'H'\\) có độ dài các cạnh \\(K'H',I'H',I'K'\\) lần lượt là: \\(b,2b,\\sqrt 3 b\\). Suy ra \\(\\frac{{I'K'}}{{IK}} = \\frac{{K'H'}}{{KH}} = \\frac{{I'H'}}{{IH}}\\).\nDo đó \\(\\Delta I'K'H'\\backsim \\Delta IKH\\)."
+    },
+    {
+        "problem": "Cho hình vuông \\(ABCD\\) cạnh bằng \\(a\\). Lấy điểm \\(E\\) thuộc cạnh \\(BC\\), điểm \\(F\\) thuộc cạnh \\(AD\\) sao cho \\(CE=AF\\). Các đường thẳng \\(AE,BF\\) cắt đường thẳng \\(DC\\) lần lượt tại \\(M\\) và \\(N\\). Các đường thẳng \\(NA,MB\\) cắt nhau tại \\(K\\).\na)      Chứng minh: \\(\\Delta KAB\\backsim \\Delta KNM;\\Delta CEM\\backsim \\Delta DAM;\\Delta NFD\\backsim \\Delta NBC\\).\nb)     So sánh \\(CM.DN\\) và \\(A{{B}^{2}}\\).\nc)      Các điểm \\(E,F\\) lấy ở vị trí nào trên các cạnh \\(BC,AD\\) thì \\(MN\\) có độ dài nhỏ nhất?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào tính chất của hai tam giác đồng dạng:\n-         Mỗi tam giác đồng dạng với chính nó\nNếu \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\Delta ABC\\backsim \\Delta A'B'C'\\).\nNếu \\(\\Delta A''B''C''\\backsim \\Delta A'B'C'\\) và \\(\\Delta A'B'C'\\backsim \\Delta ABC\\) thì \\(\\widehat{A}=\\widehat{A''},\\widehat{B}=\\widehat{B''},\\widehat{C}=\\widehat{C''}\\).\n-         Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh thứ ba thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\nLời giải chi tiết\n\na)      Vì \\(AB//MN\\) nên \\(\\Delta KAB\\backsim \\Delta KMN\\).\nVì \\(CE//AD\\) nên \\(\\Delta CEM\\backsim \\Delta DAM\\)\nVì \\(DF//BC\\) nên \\(\\Delta NFD\\backsim \\Delta NBC\\).\nb)     Vì \\(\\Delta CEM\\backsim \\Delta BEA\\) nên \\(\\frac{CM}{BA}=\\frac{CE}{BE}\\) (1)\nVì \\(\\Delta NDF\\backsim \\Delta BAF\\) nên \\(\\frac{AF}{FD}=\\frac{BA}{DN}\\) (2)\nTừ (1) và (2) và \\(CE=AF,BE=DF\\), ta có \\(\\frac{CM}{BA}=\\frac{CE}{BE}=\\frac{AF}{FD}=\\frac{BA}{DN}\\).\nDo đó \\(CM.DN=A{{B}^{2}}\\).\nc)      Ta có \\({{\\left( CM-DN \\right)}^{2}}\\ge 0\\), suy ra \\({{\\left( CM+DN \\right)}^{2}}\\ge 4CM.DN\\) hay \\(CM+DN\\ge 2\\sqrt{CM.DN}=2AB\\). Do đó \\(MN=DN+CD+CM\\ge 3AB\\) (vì \\(AB=CD\\)). Vậy \\(MN\\) có độ dài nhỏ nhất bằng \\(3AB\\). Dấu “=” xảy ra khi \\(CM=DN=a\\) hay \\(E,F\\) lần lượt là trung điểm của \\(BC\\) và \\(AD\\)."
+    },
+    {
+        "problem": "Một người đứng ở vị trí \\(M\\) trên cây cầu bắc qua con kênh quan sát ba điểm thẳng hàng \\(A,B,D\\) lần lươt là chân hai cột đèn trồng ở bờ kênh và chân cầu (Hình 26). Người đó nhận thấy góc nhìn đến hai điểm \\(A,D\\) thì bằng góc nhìn đến hai điểm \\(B,D\\), tức là \\(\\widehat {AMD} = \\widehat {BMD}\\). Người đó muốn ước lượng tỉ số khoảng cách từ vị trí \\(M\\) đang đứng đến điểm \\(A\\) và đến điểm \\(B\\) mà không cần phải đo trực tiếp hai khoảng cạc đó. Hỏi có thể ước lượng tỉ số đó được hay không?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất đường phân giác của tam giác: trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề hai đoạn ấy.\nLời giải chi tiết\nTừ giả thiết ta có \\(\\widehat {AMD} = \\widehat {BMD}\\), suy ra \\(MD\\) là phân giác của góc \\(AMB\\). Do đó \\(\\frac{{MA}}{{MB}} = \\frac{{DA}}{{DB}}\\). Vậy người đó có thể ước lượng được tỉ số khoảng cách từ vị trí \\(M\\) đang đứng đến điểm \\(A\\) và đến điểm \\(B\\) mà không cần phải đo trực tiếp hai khoảng cách đó bằng cách đo các khoảng cách \\(DA,DB\\) và tính \\(\\frac{{DA}}{{DB}}\\)."
+    },
+    {
+        "problem": "Cho hình chữ nhật \\(ABCD\\). Kẻ \\(CH\\) vuông góc với \\(BD\\left( {H \\in BD} \\right)\\). Gọi \\(I,K,M\\) lần lượt là trung điểm của \\(BH,CH,AD\\). Chứng minh:\na)      Tứ giác \\(IKDM\\) là hình bình hành;\nb)     Gọi \\(N\\) là giao điểm của \\(IM\\) và \\(AH\\). Hỏi \\(IN\\) có thể là đường trung bình của tam giác \\(HAB\\) không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa: Đường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh tam giác đó.\nTính chất: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh đó.\nLời giải chi tiết\n\na)      \\(I,K\\) lần lượt là trung điểm của \\(BH,CH\\) nên \\(IK = \\frac{{BC}}{2},IK//BC\\). Vì \\(IK//BC\\) và \\(MD//BC\\) nên \\(IK//MD\\) (1). Vì \\(IK = \\frac{{BC}}{2},MD = \\frac{{BC}}{2}\\) nên \\(IK = MD\\) (2).\nTừ (1) và (2) suy ra tứ giác \\(IKDM\\) là hình bình hành.\nb)     Nếu \\(IN\\) là đường trung bình của tam giác \\(HAB\\) thì \\(IN//AB\\). Suy ra \\(IM//AB\\). Mà \\(MA = MD\\), suy ra \\(I\\) là trung điểm của \\(BD\\) (3). Mặt khác theo giả thiết, \\(I\\) là trung điểm của \\(HB\\) (4). Từ (3) và (4) suy ra vô lí. Vậy \\(IN\\) không thể là đường trung bình của tam giác \\(HAB\\)."
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) vuông ở \\(A\\). Vẽ ra phía ngoài tam giác đó các tam giác \\(BAD\\) vuông cân ở \\(B\\), \\(ACF\\) vuông cân ở \\(C\\). Gọi \\(H\\) là giao điểm của \\(AB\\) và \\(DC\\), \\(K\\) là giao điểm của \\(AC\\) và \\(BF\\) (Hình 9). Chứng minh:\na)      \\(AH = AK\\)\nb)     \\(A{H^2} = A{K^2} = HB.KC\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào định lí Thales: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.\nLời giải chi tiết\na)      Đặt \\(AB = c,AC = b\\). Vì \\(BD//AC\\) (cùng vuông góc với \\(AB\\)) và \\(BD = AB\\) nên \\(\\frac{{AH}}{{HB}} = \\frac{{AC}}{{BD}} = \\frac{{AC}}{{AB}} = \\frac{b}{c}\\)\n→    \\(\\frac{{AH}}{{AH + HB}} = \\frac{b}{{b + c}}\\) hay \\(\\frac{{AH}}{{AB}} = \\frac{b}{{b + c}}\\)\nDo đó \\(AH = \\frac{{bc}}{{b + c}}\\) (1)\nTương tự, ta có \\(AB//CF\\) (cùng vuông góc với \\(AC\\)) và \\(CF = AC\\) nên\n\\(\\frac{{AK}}{{KC}} = \\frac{{AB}}{{CF}} = \\frac{{AB}}{{AC}} = \\frac{c}{b}\\).\n→    \\(\\frac{{AK}}{{KC + AK}} = \\frac{c}{{b + c}}\\) hay \\(\\frac{{AK}}{{AC}} = \\frac{c}{{b + c}}\\).\nDo đó \\(AK = \\frac{{bc}}{{b + c}}\\) (2).\nTừ (1) và (2) suy ra: \\(AH = AK\\).\nb)     Từ \\(\\frac{{AH}}{{HB}} = \\frac{{AC}}{{BD}} = \\frac{b}{c}\\) và \\(\\frac{{AK}}{{KC}} = \\frac{{AB}}{{CF}} = \\frac{c}{b}\\)\n→    \\(\\frac{{AH}}{{HB}} = \\frac{{KC}}{{AK}}\\).\nMà \\(AK = AH\\) nên \\(\\frac{{AH}}{{HB}} = \\frac{{KC}}{{AH}}\\)\nDo đó \\(A{H^2} = A{K^2} = BH.KC\\)."
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có \\(DE//BC\\) (Hình 55). Khẳng định nào dưới đây đúng?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào định lí Thales: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.\nLời giải chi tiết\nChọn đáp án C\nTam giác \\(ABC\\)AB có \\(DE//BC\\) nên theo định lí Thales ta có:\n\\(\\frac{AD}{AB}=\\frac{AE}{CA}=\\frac{CA-CE}{CA}=1-\\frac{CE}{CA}\\)\n\\(=>\\frac{AD}{AB}+\\frac{CE}{CA}=1\\)."
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có \\(AB=13,BC=14,CA=15\\). Cho \\(D,E\\) là hai điểm phân biệt.\na)      Giả sử tam giác \\(A'B'C'\\) là hình đồng dạng phối cảnh của tam giác \\(ABC\\) với điểm \\(D\\) là tâm đồng dạng phối cảnh, tỉ số \\(\\frac{A'B'}{AB}=\\frac{4}{5}\\). Tìm độ dài các canh của tam giác \\(A'B'C'\\).\nb)     Giả sử tam giác \\(A''B''C''\\) là hình đồng dạng phối cảnh của tam giác \\(ABC\\) với điểm \\(E\\) là tâm đồng dạng phối cảnh, tỉ số \\(\\frac{A''B''}{AB}=\\frac{4}{5}\\). Tìm độ dài các cạnh của tam giác \\(A''B''C''\\).\nc)      Chứng minh diện tích tam giác \\(A'B'C'\\) bằng diện tích tam giác \\(A''B''C''\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào tỉ số vị tự để tìm độ dài các cạnh của tam giác \\(A'B'C'\\) và \\(A''B''C''\\).\nLời giải chi tiết\na)      \\(A'B'=\\frac{4.13}{5}=10,4;B'C'=\\frac{4.14}{5}=11,2;C'A'=\\frac{4.15}{5}=12.\\)\nb)     \\(A''B''=\\frac{4.13}{5}=10,,4;B''C''=\\frac{4.14}{5}=11,2;C''A''=\\frac{4.15}{5}=12\\)\nc)      Ta có \\(\\Delta A'B'C'=\\Delta A''B''C''\\) (c.c.c), suy ra diện tích tam giác \\(A'B'C'\\) bằng diện tích tam giác \\(A''B''C''\\)."
+    },
+    {
+        "problem": "Cho hình vuông \\(ABCD\\), gọi \\(O\\) là giao điểm của hai đường chéo, lấy \\(G\\) trên cạnh \\(BC\\), \\(H\\) trên cạnh \\(CD\\) sao cho \\(\\widehat {GOH} = 45^\\circ \\). Gọi \\(M\\) là trung điểm của \\(AB\\). Chứng minh:\na)      \\(\\Delta HOD\\backsim \\Delta OGB\\)\nb)     \\(MG//AH\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ ba: góc – góc\nNếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng.\nÁp dụng trường hợp đồng dạng thứ ba của tam giác vào tam giác vuông:\nNếu tam giác vuông này có một góc nhọn bằng góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\nLời giải chi tiết\n\na)      Ta có: \\(\\widehat {CDB} = \\widehat {CBD} = 45^\\circ \\)\nMặt khác: \\(\\widehat {DOH} + \\widehat {BOG} = 180^\\circ  - 45^\\circ  = 135^\\circ ;\\widehat {BOG} + \\widehat {BGO} = 180^\\circ  - 45^\\circ  = 135^\\circ \\)\n\\( =  > \\widehat {DOH} = \\widehat {BGO}\\), do đó \\(\\Delta HOD\\backsim \\Delta OGB\\).\nb)     Theo câu a, ta có\nĐặt \\(MB = a,AD = 2a\\)\n\\( =  > HD.GB = OB.OD\\) nên \\(\\frac{{HD}}{{AD}} = \\frac{{BM}}{{BG}}\\).\nDo đó \\(\\widehat {{M_1}} = \\widehat {AHD}\\), mà \\(\\widehat {AHD} = \\widehat {BAH}\\) (hai góc so le trong, \\(AB//CD\\))\nSuy ra \\(\\widehat {{M_1}} = \\widehat {BAH}\\). Mà \\(\\widehat {{M_1}}\\) và \\(\\widehat {BAH}\\) ở vị trí đồng vị nên \\(AH//MG\\)."
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) vuông ở \\(A\\) có \\(AB = 3AC\\) và điểm \\(D\\) thuộc cạnh \\(AB\\) sao cho \\(AD = 2DB\\). Chứng minh: \\(\\widehat {ADC} + \\widehat {ABC} = 45^\\circ \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ hai của tam giác: cạnh – góc – cạnh\nNếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau thì hai tam giác đó đồng dạng.\nLời giải chi tiết\n\nGọi \\(E\\) là trung điểm của \\(AD\\). Đặt \\(AE = x,AC = x\\).\nCó \\(AE = ED = DB,AB = 3AC\\) nên \\(ED = x,EB = 2x\\) và \\(CE = x\\sqrt 2 \\).\nXét hai tam giác \\(EDC\\) và \\(ECB\\), ta có: \\(\\widehat {CED} = \\widehat {CEB}\\) và \\(\\frac{{ED}}{{EC}} = \\frac{{EC}}{{EB}}\\)\n\\(=>\\Delta EDC\\backsim \\Delta ECB\\). Do đó \\(\\widehat {ECD} = \\widehat {CEB}\\).\nVì vậy \\(\\widehat {ADC} + \\widehat {ABC} = \\widehat {EDC} + \\widehat {ECD} = \\widehat {AEC}\\).\nMặt khác, do tam giác \\(AEC\\) là tam giác vuông cân nên \\(\\widehat {AEC} = 45^\\circ \\).\nVậy \\(\\widehat {ADC} + \\widehat {ABC} = 45^\\circ \\)."
+    },
+    {
+        "problem": "Quan sát Hình 32 có \\(\\widehat {BAC} = 90^\\circ ,\\widehat {BCD} = 90^\\circ ,DB = 10,8\\)cm, \\(BC = 7,2\\)cm và \\(CA = 4,8\\)cm. Chứng minh: \\(\\Delta DBC\\backsim \\Delta BCA\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ nhất của tam giác vào tam giác vuông:\nNếu cạnh huyền và một cạnh góc vuông của tam giác vuông này tỉ lệ với cạnh huyền và một cạnh góc vuông của tam giác vuông kia thì hai tam giác vuông đó đồng dạng.\nLời giải chi tiết\nNhận thấy: \\(\\frac{{DB}}{{CB}} = \\frac{{10,8}}{{7,2}} = \\frac{3}{2},\\frac{{BC}}{{CA}} = \\frac{{7,2}}{{4,8}} = \\frac{3}{2}\\). Từ đó ta có: tam giác \\(DBC\\) vuông tại đỉnh \\(C\\), tam giác \\(BCA\\) vuông tại đỉnh \\(A\\) và \\(\\frac{{DB}}{{CB}} = \\frac{{BC}}{{CA}}\\) (vì cùng bằng \\(\\frac{3}{2}\\)). Suy ra \\(\\Delta DBC\\backsim \\Delta BCA\\)."
+    },
+    {
+        "problem": "Cho tứ giác \\(ABCD\\) có \\(AD = BC\\). Đường thẳng đi qua trung điểm \\(M\\) và \\(N\\) lần lượt của các cạnh \\(AB\\) và \\(CD\\) cắt các đường thẳng \\(AD\\) và \\(BC\\) lần lượt tại \\(E\\) và \\(F\\). Chứng minh: \\(\\widehat {AEM} = \\widehat {MFB}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa: Đường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh tam giác đó.\nTính chất: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh đó.\nLời giải chi tiết\n\nLấy \\(I\\) là trung điểm của \\(BD\\). Do \\(MI.NI\\) lần lượt là các đường trung bình của tam giác \\(ABD\\) và \\(BDC\\) nên \\(MI = \\frac{{AD}}{2}\\), \\(MI//AD,NI = \\frac{{BC}}{2};NI//BC\\). Mà \\(AD = BC\\) nên \\(MI = NI\\), suy ra tam giác \\(IMN\\) cân ở \\(I\\).\nDo đó \\(\\widehat {IMN} = \\widehat {INM}\\). Lại có \\(\\widehat {IMN} = \\widehat {AEM}\\) (hai góc đồng vị, \\(IM//AE\\)). Suy ra \\(\\widehat {INM} = \\widehat {AEM}\\). Mặt khác \\(\\widehat {INM} = \\widehat {MDB}\\) (hai góc so le trong, \\(IN//FB\\)). Suy ra \\(\\widehat {AEM} = \\widehat {MFB}\\)."
+    },
+    {
+        "problem": "Trong Hình 10, cho biết \\(ABCD\\) là hình thang, \\(AB//CD\\left( {AB < CD} \\right)\\); \\(M\\) là trung điểm của \\(DC\\); \\(AM\\) cắt \\(BD\\) ở \\(I\\); \\(BM\\) cắt \\(AC\\) ở \\(K\\); \\(IK\\) cắt \\(AD,BC\\) lần lượt ở \\(E,F\\). Chứng minh:\na)      \\(IK//AB\\)\nb)     \\(EI = IK = KF\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào định lí Thales: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ.\nLời giải chi tiết\na)      Do \\(DM//AB\\) nên \\(\\frac{{IM}}{{IA}} = \\frac{{DM}}{{AB}} = \\frac{{MC}}{{AB}}\\) (1) (do \\(DM = MC\\)).\nMặt khác, do \\(MC//AB\\) nên \\(\\frac{{MK}}{{KB}} = \\frac{{MC}}{{AB}}\\) (2)\nTừ (1) và (2) suy ra \\(\\frac{{IM}}{{IA}} = \\frac{{MK}}{{KB}}\\)\nVì thế \\(IK//AB\\) (định lí Thales đảo)\nb)     Áp dụng định lí Thales lần lượt cho các tam giác \\(ADM\\) với \\(EI//DM\\), tam giác \\(MAB\\) với \\(IK//AB\\) và tam giác \\(BMC\\) với \\(KF//MC\\), ta có:\n\\(\\frac{{EI}}{{DM}} = \\frac{{AI}}{{AM}} = \\frac{{BK}}{{BM}} = \\frac{{KF}}{{MC}}\\)\nSuy ra \\(EI = KF\\) (do \\(DM = MC\\)). Mặt khác, áp dụng định lí Thales lần lượt cho các tam giác \\(ADM\\) với \\(EI//DM\\) và tam giác \\(AMC\\) với \\(IK//MC\\), ta có:\n\\(\\frac{{EI}}{{DM}} = \\frac{{AI}}{{AM}} = \\frac{{IK}}{{MC}}\\)\nSuy ra \\(EI = IK\\) (do \\(DM = MC\\)). Do \\(EI = KF\\) và \\(EI = IK\\) nên \\(EI = IK = KF\\)."
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có \\(BD\\) là đường phân giác của góc \\(ABC\\) (Hình 56). Độ dài \\(DC\\) là:\n\nA.    6\nB.    9\nC.    5\nD.    8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chất đường phân giác của tam giác: trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề hai đoạn ấy.\nLời giải chi tiết\nChọn đáp án A.\nCho tam giác \\(ABC\\) có \\(BD\\) là đường phân giác\n\\(=>\\frac{DA}{DC}=\\frac{AB}{CB}\\) hay \\(\\frac{4}{DC}=\\frac{12}{18}\\)\n\\(=>DC=\\frac{4.18}{12}=6\\)."
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có \\(AB = 2\\)cm, \\(AC = 3\\)cm, \\(BC = 4\\)cm. Chứng minh: \\(\\widehat {BAC} = \\widehat {ABC} + 2\\widehat {BCA}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng trường hợp đồng dạng thứ hai của tam giác: cạnh – góc – cạnh\nNếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau thì hai tam giác đó đồng dạng.\nLời giải chi tiết\n\nTrên đoạn thẳng \\(BC\\) lấy điểm \\(D\\) sao cho \\(BD = 1\\)cm \\( =  > CD = BC - BD = 3\\)cm.\nTam giác \\(ADC\\) có \\(CD = CA = 3\\)cm nên là tam giác cân tại \\(C\\), do đó \\(\\widehat {DAC} = \\widehat {ADC}\\) (1).\nXét hai tam giác \\(ABD\\) và \\(CBA\\), ta có: \\(\\widehat {DBA} = \\widehat {ABC}\\), \\(\\frac{{BD}}{{BA}} = \\frac{{AB}}{{CB}} = \\frac{1}{2}\\).\n\\(=>\\Delta ABD\\backsim \\Delta CBA\\). Do đó \\(\\widehat {BAD} = \\widehat {BCA}\\) (2).\nTừ (1) và (2), ta có:\n\\(\\begin{array}{l}\\widehat {BAC} = \\widehat {BAD} + \\widehat {DAC} = \\widehat {BCA} + \\widehat {ADC}\\\\ = \\widehat {BCA} + \\widehat {BAD} + \\widehat {ABD} = \\widehat {ABC} + 2\\widehat {BCA}\\end{array}\\)\nVậy \\(\\widehat {BAC} = \\widehat {ABC} + 2\\widehat {BCA}\\)."
+    },
+    {
+        "problem": "Cho tứ giác \\(ABCD\\) có \\(M,N\\) lần lượt là trung điểm của \\(AD,BC\\). Chứng minh: \\(MN \\le \\frac{{AB + DC}}{2}\\). Dấu đẳng thức xảy ra khi nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa: Đường trung bình của tam giác là đoạn thẳng nối trung điểm hai cạnh tam giác đó.\nTính chất: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh đó.\nLời giải chi tiết\n\nLấy \\(I\\) là trung điểm của \\(BD\\). Khi đó, ta có \\(MI,NI\\) lần lượt là các đường trung bình của tam giác \\(ABD\\) và \\(BDC\\) nên \\(MI = \\frac{{AB}}{2},NI = \\frac{{CD}}{2}\\).\nDo đó \\(MI + NI = \\frac{{AB + CD}}{2}\\) (1)\n-         Nếu \\(I\\) không thuộc \\(MN\\) ta có \\(MN < MI + NI\\) (bất đẳng thức tam giác).\n-         Nếu \\(I\\) thuộc \\(MN\\) ta có \\(MN = MI + NI\\).\nTức là, ta luôn có \\(MN \\le MI + NI\\) (2). Từ (1) và (2) suy ra \\(MN \\le \\frac{{AB + CD}}{2}\\).\nDấu đẳng thức xảy ra khi \\(I\\) thuộc \\(MN\\), khi đó \\(AB//CD\\)."
+    },
+    {
+        "problem": "Cho \\(ABCD\\) là hình bình hành. Một đường thẳng \\(d\\) đi qua \\(A\\) cắt \\(BD,BC,DC\\) lần lượt tại \\(E,K,G\\) (Hình 11). Chứng minh:\na)      \\(A{E^2} = EK.EG\\)\nb)     \\(\\frac{1}{{AE}} = \\frac{1}{{AK}} + \\frac{1}{{AG}}\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hệ quả của định lí Thales: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó tạo thành một tam giác mới có ba cạnh tương ứng tỉ lệ với ba cạnh của tam giác đã cho.\nLời giải chi tiết\na)      Do \\(AD//BK,AB//DG\\) nên theo hệ quả của định lí Thales, ta có:\n\\(\\frac{{EK}}{{AE}} = \\frac{{EB}}{{ED}} = \\frac{{AE}}{{EG}}\\) hay \\(\\frac{{EK}}{{AE}} = \\frac{{AE}}{{EG}}\\)\n→    \\(A{E^2} = EK.EG\\).\nb)     Ta có:\n\\(\\frac{{AE}}{{AK}} = \\frac{{DE}}{{DB}};\\frac{{AE}}{{AG}} = \\frac{{BE}}{{BD}}\\)\nNên \\(\\frac{{AE}}{{AK}} + \\frac{{AE}}{{AG}} = \\frac{{DE}}{{DB}} + \\frac{{BE}}{{BD}} = \\frac{{BD}}{{BD}} = 1\\)\n→    \\(AE.\\left( {\\frac{1}{{AK}} + \\frac{1}{{AG}}} \\right) = 1\\)\nVậy \\(\\frac{1}{{AE}} = \\frac{1}{{AK}} = \\frac{1}{{AG}}\\)."
+    }
+]

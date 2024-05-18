@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 1. Hai góc kề bù khi: \nA. Hai góc có chung một cạnh chung và không có điểm chung; \nB. Hai góc có tổng số đo bằng 180°;\nC. Hai góc có chung một đỉnh và chung một cạnh;\nD. Hai góc vừa kề nhau vừa bù nhau;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nHai góc kề bù là hai góc vừa kề nhau vừa bù nhau."
+    },
+    {
+        "problem": "Câu 2. Hai góc xOt và tOy là hai góc kề bù. Biết  = 80°, góc tOy có số đo là : \nA. 10°; \nB. 50°;\nC. 80°;\nD. 100°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì hai góc xOt và tOy là hai góc kề bù nên  +  = 180°.\nMà  = 80° nên 80° +  = 180°. \nSuy ra  = 180° - 80° = 100°.\nVậy  = 100°."
+    },
+    {
+        "problem": "Câu 15. Hai góc kề bù với nhau tạo với nhau:\nA. Góc bẹt;\nB. Góc tù;\nC. Góc vuông; \nD. Góc nhọn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nHai góc kề bù là hai góc vừa kề nhau vừa bù nhau hay hai góc đó kề nhau và có tổng số đo bằng 180°. \nDo đó hai góc kề bù tạo với nhau một góc bẹt.\nVậy chọn đáp án A."
+    }
+]

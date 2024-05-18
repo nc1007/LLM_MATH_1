@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Bài 1: Với x, y bất kỳ. Chọn khẳng định đúng?\nA. (x + y)^{2}  ≤ 4xy\nB. (x + y)^{2}  > 4xy\nC. (x + y)^{2}  < 4xy\nD. (x + y)^{2}  ≥ 4xy",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét hiệu\nP = (x + y)^{2}  - 4xy = x^{2}  + 2xy + y^{2}  - 4xy\n= x^{2}  - 2xy + y^{2}  = (x - y)^{2} \nMà (x - y)^{2}  ≥ 0; \"x,y nên P ≥ 0; \"x;y. Suy ra (x + y)^{2}  ≥ 4xy.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 2: Với x, y bất kỳ. Chọn khẳng định đúng?\nA. (x + y)^{2}  ≥ 2xy\nB. (x + y)^{2}  = 2xy\nC. (x + y)^{2}  < 2xy\nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nP = (x + y)^{2}  - 2xy = x^{2}  + 2xy + y^{2}  - 2xy = x^{2}  + y^{2}  ≥ 0, \"x,y\nDo đó P ≥ 0; \"x; y. Suy ra (x + y)^{2}  ≥ 2xy.\nDấu “=” xảy ra khi x = y = 0.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Cho m bất kỳ, chọn câu đúng?\nA. m - 3 > m - 4\nB. m - 3 < m - 4\nC. m - 3 = m - 4\nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì -3 > -4 “cộng vào hai vế của bất đẳng thức với cùng một số m bất kỳ” ta được m - 3 > m - 4.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 4: Biết rằng m > n với m, n bất kỳ, chọn câu đúng?\nA. m - 3 > n - 3\nB. m - 3 < n - 3\nC. m - 3 = n - 3 \nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì m > n “cộng vào hai vế của bất đẳng thức với cùng một số -3” ta được:\nm - 3 > n - 3.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 5: Cho biết a < b. Trong các khẳng định sau, số khẳng định sai là?\n(I) a - 1 < b - 1\n(II) a - 1 < b\n(III) a + 2 < b + 1\nA. 1\nB. 2\nC. 3\nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Vì a < b, cộng hai vế của bất đẳng thức với -1 ta được a - 1 < b - 1 ⇒ (I) đúng.\n+ Vì a - 1 < b - 1 (cmt) mà b - 1 < b nên a - 1 < b ⇒ (II) đúng\n+ Vì a < b, cộng hai vế của bất đẳng thức với 1 ta được a + 1 < b + 1 mà\na + 1 < a + 2 nên ta chưa đủ dữ kiện để nói rằng a + 2 < b + 1 ⇒ (III) sai.\nVậy có 1 khẳng định sai.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 6: Cho biết a < b. Trong các khẳng định sau, số khẳng định đúng là?\n (I) a - 1 < b - 1  (II) a - 1 < b  (III) a + 2 < b + 1\nA. 1\nB. 2\nC. 3\nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Vì a < b, cộng hai vế của bất đẳng thức với -1 ta được: a - 1 < b - 1 ⇒ (I) đúng.\n+ Vì a - 1 < b - 1 (cmt) mà b - 1 < b nên a - 1 < b ⇒ (II) đúng.\n+ Vì a < b, cộng hai vế của bất đẳng thức với 1 ta được: a + 1 < b + 1 mà\na + 1 < a + 2 nên ta chưa đủ dữ kiện để nói rằng a + 2 < b + 1 ⇒ (III) sai.\nDo đó có 2 khẳng định đúng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 7: Cho a bất kỳ, chọn câu sai?\nA. 2a - 5 < 2a + 1\nB. 3a - 3 > 3a - 1\nC. 4a < 4a + 1\nD. 5a + 1 > 5a - 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Vì -5 < 1 nên cộng hai vế của bất đẳng thức với số 2a bất kì ta được\n2a - 5 < 2a + 1 ⇒ A đúng.\n+ Vì 0 < 1 nên cộng hai vế của bất đẳng thức với số 4a bất kì ta được\n4a < 4a + 1 ⇒ C đúng.\n+ Vì 1 > -2 nên cộng hai vế của bất đẳng thức với số 5a bất kì ta được\n5a + 1 < 5a - 2 ⇒ D đúng.\n+ Vì -3 < -1 nên cộng hai vế của bất đẳng thức với số 3a bất kì ta được\n3a - 3 < 3a - 1 ⇒ B sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 8: Cho a bất kỳ, chọn câu sai?\nA. -2a - 5 < -2a + 1\nB. 3a - 3 < 3a - 1\nC. 4a < 4a + 1\nD. -5a + 1 < -5a - 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Vì -5 < 1 nên cộng hai vế của bất đẳng thức với số -2a bất kì ta được:\n-2a - 5 < -2a + 1 ⇒ A đúng.\n+ Vì 0 < 1 nên cộng hai vế của bất đẳng thức với số 4a bất kì ta được:\n4a < 4a + 1 ⇒ C đúng.\n+ Vì 1 > -2 nên cộng hai vế của bất đẳng thức với số -5a bất kì ta được:\n-5a + 1 > -5a - 2 ⇒ D sai.\n+ Vì -3 < -1 nên cộng hai vế của bất đẳng thức với số 3a bất kì ta được:\n3a - 3 < 3a - 1 ⇒ B đúng.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 9: Cho x - 3 ≤ y - 3, so sánh x và y. Chọn đáp án đúng nhất?\nA. x < y\nB. x = y\nC. x > y\nD. x ≤ y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCộng cả hai vế của bất đẳng thức x - 3 ≤ y - 3 với 3 ta được:\nx - 3 ≤ y - 3 ⇒ x - 3 + 3 ≤ y - 3 + 3 ⇒ x ≤ y.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 10: Cho x - 5 ≤ y - 5. So sánh x và y?\nA. x < y\nB. x = y\nC. x > y\nD. x ≤ y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCộng hai vế của bất đẳng thức x - 5 ≤ y - 5 với 5 ta được:\nx - 5 + 5 ≤ y - 5 + 5 ⇒ x ≤ y\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 11: Cho a > b khi đó\nA. a - b > 0\nB. a - b < 0\nC. a - b = 0\nD. a - b ≤ 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTừ a > b, cộng -b vào hai vế ta được a - b > b - b, tức là a - b > 0.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 12: Cho a > 1 > b, chọn khẳng định không đúng?\nA. a -1 > 0\nB. a - b < 0\nC. 1 - b > 0\nD. a - b > 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTừ a > b, cộng -b vào hai vế ta được a - b > b - b, tức là a - b > 0.\nDo đó D đúng, B sai.\nNgoài ra A, C đúng vì:\nCộng cả hai vế của bất đẳng thức a > 1 với (-1) ta được:\na + (-1) > 1 + (-1) hay a - 1 > 0.\nCộng cả hai vế của bất đẳng thức 1 > b với -b ta được:\n1 + (-b) > b + (-b) hay 1 - b > 0.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 14: Cho a + 8 < b. So sánh a - 7 và b - 15?\nA. a - 7 < b - 15\nB. a - 7 > b - 15\nC. a - 7 ≥ b - 15\nD. a - 7 ≤ b - 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCộng cả hai vế của bất đẳng thức a + 8 < b với (-15) ta được\na + 8 < b ⇒ a + 8 - 15 < b - 15 ⇒ a - 7 < b - 15\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 15: Cho a - 3 < b. So sánh a + 10 và b + 13?\nA. a + 10 < b + 13\nB. a + 10 > b + 13\nC. a + 10 = b + 13\nD. Không đủ dữ kiện để so sánh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCộng cả hai vế của bất đẳng thức a - 3 < b với 13 ta được:\na - 3 < b ⇒ a - 3 + 13 < b + 13 ⇒ a + 10 < b + 13.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 16: Cho biết a - 1 = b + 2 = c - 3. Hãy sắp xếp các số a, b, c theo thứ tự tăng dần?\nA. b < c < a\nB. a < b < c\nC. b < a < c\nD. a < c < b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTừ a - 1 = b + 2 suy ra a = b + 2 + 1 = b + 3.\nTừ b + 2 = c - 3 suy ra c = b + 2 + 3 = b + 5.\nMà b < b + 3 < b + 5 nên b < a < c.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 17: Cho biết a = b - 1 = c - 3. Hãy sắp xếp các số a, b, c theo thứ tự tăng dần?\nA. b < c < a\nB. a < b < c\nC. b < a < c\nD. a < c < b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTừ a = b - 1 suy ra b = a + 1.\nTừ a = c - 3 suy ra c = a + 3.\nMà a < a + 1 < a + 3 nên a < b < c.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 18: Với a, b, c bất kỳ. Hãy so sánh 3(a^{2}  + b^{2}  + c^{2} ) và (a + b + c)^{2} \nA. 3(a^{2}  + b^{2}  + c^{2} ) = (a + b + c)^{2} \nB. 3(a^{2}  + b^{2}  + c^{2} ) ≤ (a + b + c)^{2} \nC. 3(a^{2}  + b^{2}  + c^{2} ) ≥ (a + b + c)^{2} \n^{D.}  3(a^{2}  + b^{2}  + c^{2} ) < (a + b + c)^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét hiệu:\n3(a^{2}  + b^{2}  + c^{2} ) - (a + b + c)^{2 } \n= 3a^{2}  + 3b^{2}  + 3c^{2}  - a^{2}  - b^{2}  - c^{2}  - 2ab - 2bc - 2ac\n= 2a^{2}  + 2b^{2}  + 2c^{2}  - 2ab - 2bc - 2ac\n= (a - b)^{2}  + (b - c)^{2}  + (c - a)^{2}  ≥ 0\n(vì (a - b)^{2}  ≥ 0; (b - c)^{2}  ≥ 0; (c - a)^{2}  ≥ 0 với mọi a, b, c\nNên 3(a^{2}  + b^{2}  + c^{2} ) ≥ (a + b + c)^{2} .\nĐáp án cần chọn là: C"
+    }
+]

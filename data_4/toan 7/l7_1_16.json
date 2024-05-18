@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 3. Chọn phương án sai\nA. Hình hộp chữ nhật là hình lăng trụ đứng tứ giác; \nB. Hình lập phương là hình lăng trụ đứng tứ giác; \nC. Hình tam giác là hình lăng trụ đứng tam giác; \nD. Đáp án A và B đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHình hộp chữ nhật là hình lăng trụ đứng tứ giác có các mặt đều là hình chữ nhật.\nHình lập phương là hình lăng trụ đứng tứ giác có các mặt đều là hình vuông.\nHình tam giác là mặt đáy của hình lăng trụ đứng tứ giác."
+    },
+    {
+        "problem": "Câu 4. Thể tích của hình lăng trụ đứng tứ giác được tính như nào? Biết S là diện tích đáy và h là chiều cao của hình lăng trụ đứng tứ giác.\nA. V = S.h; \nB. V = 2.S.h; \nC. V = S. h^{2} ; \nD. V = 2.S.h^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThể tích của hình lăng trụ đứng tứ giác bằng diện tích đáy nhân với chiều cao.\nVậy thể tích hình lăng trụ đứng tứ giác được tính như sau: V = S.h."
+    },
+    {
+        "problem": "Câu 5. Diện tích xung quanh của hình lăng trụ đứng tam giác được tính như thế nào? Biết C là chu vi đáy, h là chiều cao của hình lăng trụ đứng tam giác.\nA. Sxq=\\frac{1}{2}C.h; \nB. Sxq=\\frac{2C}{h}; \nC. Sxq = C.h; \nD. Sxq = 2C.h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích xung quanh của hình lăng trụ đứng tam giác bằng chu vi đáy nhân với chiều cao.\nVậy diện tích xung quanh của hình lăng trụ đứng tam giác được tính như sau: \nSxq = C.h"
+    },
+    {
+        "problem": "Câu 8. Các mặt bên của hình lăng trụ tứ giác là hình gì?\nA. hình tam giác; \nB. hình bình hành; \nC. hình vuông; \nD. hình chữ nhật.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nCác mặt bên của hình lăng trụ đứng tứ giác đều là hình chữ nhật."
+    }
+]

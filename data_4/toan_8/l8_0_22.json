@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Bài 2: Hình chóp tam giác đều có mặt bên là hình gì?\nA. Tam giác cân\nB. Tam giác đều\nC. Tam giác vuông\nD. Tam giác vuông cân",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình chóp tứ giác đều có các cạnh bên bằng nhau và các cạnh đáy bằng nhau nên mặt bên là những tam giác cân.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 4: Hình chóp ngũ giác đều có bao nhiêu mặt?\nA. 5\nB. 4\nC. 6\nD. 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình ngũ giác đều có 5 mặt bên và 1 mặt đáy nên có tất cả 6 mặt\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 5: Diện tích xung quanh của hình chóp đều bằng\nA. Tích nửa chu vi đáy và đường cao của hình chóp\nB. Tích nửa chu vi đáy và trung đoạn\nC. Tích chu vi đáy và trung đoạn\nD. Tổng chu vi đáy và trung đoạn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDiện tích xung quanh của hình chóp đều bằng tích của nửa chu vi đáy và trung đoạn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 6: Diện tích xung quanh hình chóp đều được tính theo công thức:\nA. Tích nửa diện tích đáy và chiều cao\nB. Tích nửa chu vi đáy và trung đoạn\nC. Tích chu vi đáy và chiều cao\nD. Tổng chu vi đáy và trung đoạn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDiện tích xung quanh hình chóp đều bằng tích của nửa chu vi đáy và trung đoạn.\nĐáp án cần chọn là: B"
+    }
+]

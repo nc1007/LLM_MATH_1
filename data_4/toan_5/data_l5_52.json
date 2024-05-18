@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Muốn tính thể tích hình lập phương ta lấy độ dài một cạnh nhân với 3. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính thể tích hình lập phương ta lấy cạnh nhân với cạnh rồi nhân với cạnh.\nVậy phát biểu trên là sai."
+    },
+    {
+        "problem": "Câu 2: Hình lập phương có cạnh là a thì thể tích V của hình lập phương đó là:\nA.\tV = a × a\nB.\tV = a × a × 4\nC.\tV = a × a × 6\nD.\tV = a × a × a",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính thể tích hình lập phương ta lấy cạnh nhân với cạnh rồi nhân với cạnh.\nHình lập phương có cạnh là a thì thể tích V là V = a × a × a."
+    },
+    {
+        "problem": "Câu 10: Một khối kim loại dạng hình lập phương có cạnh 18dm. Mỗi mét khối kim loại nặng 45kg. Hỏi khối kim loại đó nặng bao nhiêu ki-lô-gam?\nA.\t262440 kg\nB.\t874,8 kg\nC.\t583,2 kg\nD.\t262,44 kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 18dm = 1,8m \nThể tích của khối kim loại đó là:\n1,8 x 1,8 x 1,8 = 5,832 (m^{3} ) \nKhối kim loại đó nặng số ki-lô-gam là:\n45 x 5,832 = 262,44 (kg) \nĐáp số: 262,44kg."
+    },
+    {
+        "problem": "Câu 14: Một căn phòng hình lập phương có cạnh 5,5m. Hỏi không khí chứa trong phòng nặng bao nhiêu ki-lô-gam, biết 1 lít không khí nặng 1,2 gam?\nA.\t14,52kg\nB.\t21,78kg\nC.\t99,5kg\nD.\t199,65kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 5,5m = 55dm\nThể tích căn phòng đó là:\n 55 x 55 x 55 = 166375 (dm^{3} )\n166375dm^{3}  = 166375 (lít)\nVậy thể tích không khí chứa trong phòng là 166375 lít.\nKhối lượng của không khí chứa trong phòng là:\n1,2 x 166375 = 199650 (g)\n199650 = 199,65 kg\nĐáp số: 199,65kg."
+    }
+]

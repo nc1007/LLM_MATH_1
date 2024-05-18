@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Bài 5: Hình chóp có 8 cạnh thì đáy là hình gì?\nA. Tứ giác\nB. Tứ giác\nC. Ngũ giác\nD. Lục giác",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì hình chóp có số cạnh gấp đôi số cạnh của đa giác ở đáy nên hình chóp có 8 cạnh thì đa giác đáy có 8 : 2 = 4 cạnh. Hay đáy là tứ giác.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 8: Tính diện tích xung quanh của một hiinfh lăng trụ đứng có đáy là hình ngũ giác đều cạnh 8cm, biết rằng chiều cao của hình lăng trụ đứng là 5cm.\nA. 80cm^{2} \nB. 60cm^{2} \nC. 120cm^{2} \nD. 200cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nChu vi đáy của hình lăng trụ đứng là 8.5 (cm)\nDiện tích xung quanh là: Sxq = 8.5.5 = 2000 (cm^{2} )\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 15: Tính diện tích xung quanh của hình hộp chữ nhật có bình phương độ dài đường chéo chính là 77; kích thước đáy là 4 và 6.\nA. 80(cm^{2} )\nB. 200(cm^{2} )\nC. 90(cm^{2} )\nD. 100(cm^{2} )",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi độ dài đường cao hình hộp chữ nhật là h (h > 0)\nTa có: h^{2}  + 4^{2}  + 6^{2}  = 77 ⇒ h^{2}  = 25 ⇒ h = 5cm\nVậy diện tích xung quanh của hình hộp chữ nhật là:\nSxq = 2(4 + 6).5 = 100(cm^{2} )\nĐáp án cần chọn là: D"
+    }
+]

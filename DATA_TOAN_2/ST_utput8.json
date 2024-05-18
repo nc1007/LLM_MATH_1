@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "1) Tính số hạt thóc có trong ô thứ 7 của bàn cờ nói trong bài toán mở đầu.\n2) Hãy viết mỗi số tự nhiên sau thành tổng giá trị các chữ số của nó bằng cách dùng các luỹ thừa của 10 theo mẫu:\n4 257 = 4 . 103 +2. 102 + 5.10 + 7.\na) 23 197\nb) 203 184.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\(\\)\nb) Viết theo mẫu\nLời giải chi tiết\n1. Số hạt thóc có trong ô thứ 7 của bàn cờ nói trong bài toán mở đầu:\n2.2.2.2.2.2 = 26 = 64\n2. a) 23 197 = 2.104  + 3.103  + 1.102  + 9.101  + 7\nb) 203 184 = 2.105  + 0.104  + 3.103 + 1.102 + 8.101 + 4\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Viết kết quả phép nhân sau dưới dạng một luỹ thừa của 7:\n\\(7^2.7^3 = (7.7). (7.7.7) = ?\\)\nb) Nêu nhận xét về mối liên hệ giữa các số mũ của 7 trong hai thừa số và tích tìm được ở câu a)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\nb) So sánh tổng số mũ của 7 và số mũ của tích tìm được ở câu a).\nLời giải chi tiết\na) 72.73=(7.7).(7.7.7) = 75\nb) Ta có: 2+3=5\nNhận xét: Tổng số mũ của 7 trong hai thừa số bằng số mũ của tích tìm được."
+    },
+    {
+        "problem": "Viết kết quả phép tính dưới dạng một luỹ thừa:\na) 53.57;               b) 24 . 28. 29;           c) 102. 104. 106. 108",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "am.an=am+n\nLời giải chi tiết\na) 53.57 = 53+7 = 510\nb) 24.25.29=24+5+9  = 218\nc) 102.104.106.108 = 102+4+6+8 = 1020."
+    },
+    {
+        "problem": "a) Viết kết quả phép chia sau dưới dạng một luỹ thừa của 6:\n\\({6^5}:{6^2} = \\frac{{{6^5}}}{{{6^2}}} = \\frac{{6.6.6.6.6}}{{6.6}} = ?\\)\nb) Sử dụng câu a) để suy ra \\(6^5:6^3=6^2\\). Nêu nhận xét về mối liên hệ giữa các số mũ của 6 trong số bị chia, số chia và thương tìm được ở câu a).\nc) Viết thương của phép chia \\(10^7 : 10^4\\) dưới dạng lũy thừa của 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Rút gọn rồi viết kết quả dưới dạng một luỹ thừa của 6\nb) Quan sát kết quả câu a) và nhận xét.\nLời giải chi tiết\na)  \\({6^5}:{6^2} = \\frac{{{6^5}}}{{{6^2}}} = \\frac{{6.6.6.6.6}}{{6.6}} = 6.6.6 = {6^3}\\)\nb) Ta có 65 = 63.62 nên 65: 63 = 62.\nTa có: 5 - 2 = 3\nNhận xét: Hiệu số mũ của 6 trong số bị chia và số chia bằng số mũ của 6 trong thương tìm được.\nc) Vì \\(10^7 = 10^{4+3}=10^4.10^3\\) nên \\(10^7:10^4=10^3\\)"
+    },
+    {
+        "problem": "Viết kết quả các phép tính dưới dạng một luỹ thừa:\na) 76 : 74;                          b) 1 091100 : 1 091100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "am:an = am-n\nLời giải chi tiết\na) 76:74 = 76−4 = 72\nb) 1091100: 1091100 = 1091100−100  = 10910\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "Viết các tích sau dưới dạng một luỹ thừa:\na) 9.9.9.9.9;                    b) 10. 10. 10. 10.\nc) 5.5.5.25                      d) a.a.a.a.a.a",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa lũy thừa: \\(x.x....x= x^n\\)(n thừa số \\(x\\))\nLời giải chi tiết\na) 9 . 9 . 9 . 9 . 9 = 95\nb) 10 . 10 . 10 . 10 = \\(10^4\\)\nc) 5.5.5.25=5.5.5.5.5=\\(5^5\\)\nd) a.a.a.a.a.a=\\(a^6\\)"
+    },
+    {
+        "problem": "Tính\na) 25;      b) 33;     c) 52;     d) 109.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\nLời giải chi tiết\na) 25 = 2.2.2.2.2 = 32\nb) 33 = 3.3.3 = 27\nc) 52 = 5.5 =25\nd) 109 =10.10.10.10.10.10.10.10.10 = 1 000 000 000"
+    },
+    {
+        "problem": "Viết các số sau thành tổng giá trị các chữ số của nó bằng cách dùng các luỹ thừa của 10:\n215;    902;    2020;    883 001.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\overline {abcd}  = a{.10^3} + b{.10^2} + c{.10^1} + d.10^0\\). Tương tự như vậy với các số có 3 và 6 chữ số\nLời giải chi tiết\n\\(215 = 2. 10^2 + 1. 10^1 + 5. 10^0\\)\n\\(902 = 9.10^2 + 0.10^1+ 2 . 10^0\\)\n\\(2 020 = 2.10^3+0.10^2+2.10^1+0. 10^0\\)\n\\(883 001 = 8.10^5+8.10^4+3.10^3+0.10^2+0.10^1+1. 10^0\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính 112, 1112. Từ đó hãy dự đoán kết quả của 1 1112.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính, quan sát kết quả để dự đoán\nLời giải chi tiết\n112 = 11. 11 = 121\n1112 = 111. 111 = 12321\nDự đoán: 11112 = 1234321"
+    },
+    {
+        "problem": "Biết 210 = 1 024. Hãy tính 29 và 211.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tách 9 = 10-1 và 11 = 10+1\nLời giải chi tiết\n29 =210-1 = 210: 21 = 1024 : 2 = 512\n211 = 210+1 = 210 . 21  = 1024. 2 = 2048"
+    },
+    {
+        "problem": "Tính: a) 57. 53;             b) 58:54",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "am.an = am+n; : am:an = am-n\nLời giải chi tiết\na) 57.53 = \\(5^{7+3}\\) = 510\nb) 58:54 = 58−4 = 54\nLoigiaihay.com"
+    },
+    {
+        "problem": "Ta có: 1 + 3 + 5 = 9 = 32.\nViết các tổng sau dưới dạng bình phương của một số tự nhiên\na) 1 + 3 + 5 + 7;                    b) 1 + 3 + 5 + 7 + 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng rồi viết các tổng sau dưới dạng bình phương của một số tự nhiên.\nLời giải chi tiết\na) 1 + 3 + 5 + 7 = 16 = 42\nb) 1 + 3 + 5 + 7 + 9 = 25 = 52"
+    },
+    {
+        "problem": "Trái Đất có khối lượng khoảng 60 .1020 tấn. Mỗi giây Mặt Trời tiêu thụ 6. 106 tấn khí hydrogen. Hỏi Mặt Trời cần bao nhiêu giây để tiêu thụ một lượng khí hydrogen có khối lượng bằng khối lượng Trái Đất?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian để Mặt Trời tiêu thụ một lượng khí hydrogen có khối lượng bằng khối lượng Trái Đất = khối lượng Trái Đất : Số tấn khí hydrogen mỗi giây mặt trời tiêu thụ.\nLời giải chi tiết\nThời gian để Mặt Trời tiêu thụ một lượng khí hydrogen có khối lượng bằng khối lượng Trái Đất là:\n60.1020 : (\\(6.10^6)\\)= 6.101 .1020: (6.106)  = \\((6.10^6) . 10^{15} \\): (6.106)=1015 (giây)"
+    },
+    {
+        "problem": "Mỗi giây cơ thể con người trung bình tạo ra khoảng \\(25. 10^5\\) tế bào hồng cầu. Hãy tính mỗi giờ có bao nhiêu tế bào hồng cầu đã được tạo ra?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 1 giờ = 3600 giây\nSố tế bào hồng cầu được tạo ra mỗi giờ = Số tế bào hồng cầu được tạo ra mỗi giây. 3600\nLời giải chi tiết\nĐổi 1 giờ = 3600 giây\nVậy mỗi giờ số tế bào hồng cầu được tạo ra là:\n\\(25.10^5.3600=90 000.10^5 = 9.10^4.10^5 = 9.10^9\\)(tế bào)"
+    }
+]

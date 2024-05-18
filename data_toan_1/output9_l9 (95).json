@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Tính:\na)     \\(\\frac{-2}{9} + \\frac{7}{-9}\\)\nb)    \\(\\frac{1}{-6} + \\frac{13}{-15}\\)\nc)     \\(\\frac{5}{-6} + \\frac{-5}{12}+\\frac{7}{18}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng 2 phân số không cùng mẫu số, ta quy đồng mẫu những phân số đó rồi cộng các tử và giữ nguyên mẫu\nLời giải chi tiết\na)\\(\\frac{-2}{9} + \\frac{7}{-9}\\\\= \\frac{-2}{9} + \\frac{-7}{9}\\)\\(=\\frac{(-2) +(-7)}{9}\\\\= \\frac{-9}{9}\\\\=-1\\)\nb)\\(\\frac{1}{-6} + (\\frac{13}{-15})\\) \\(=\\frac{-1}{6}+ \\frac{-13}{15}\\\\= \\frac{-5}{30}+\\frac{-26}{30}\\\\=\\frac{(-5) +(-26)}{30}\\\\=\\frac{-31}{30}\\)\nc)\\(\\frac{5}{-6} + \\frac{-5}{12}+\\frac{7}{18}\\\\= \\frac{-5}{6}+ \\frac{-5}{12}+\\frac{7}{18}\\)\n\\(=\\frac{(-30)}{36}+\\frac{-15}{36}+\\frac{14}{36}\\)\n\\(=\\frac{(-30)+(-15)+14}{36}\\\\=\\frac{-31}{36}\\)"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na)\\(\\frac{2}{9}+ \\frac{-3}{10}+ \\frac{-7}{10}\\)\nb)\\(\\frac{-11}{6}+ \\frac{2}{5}+ \\frac{-1}{6}\\)\nc)\\(\\frac{-5}{8} +\\frac{12}{7}+\\frac{13}{8}+\\frac{2}{7}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các phân số có cùng mẫu số\nLời giải chi tiết\na)\\(\\frac{2}{9}+ \\frac{-3}{10}+ \\frac{-7}{10}=\\frac{2}{9}+(\\frac{-3}{10}+ \\frac{-7}{10})= \\frac{2}{9} + \\frac{-10}{10}\\)\\(=\\frac{2}{9}+ (-1)= \\frac{2}{9} + \\frac{-9}{9}=\\frac{-7}{9}\\)\nb)\\(\\frac{-11}{6}+ \\frac{2}{5}+ \\frac{-1}{6}= (\\frac{-11}{6}+\\frac{-1}{6})+\\frac{2}{5}= \\frac{-12}{6}+\\frac{2}{5}\\)\\(=(-2)+\\frac{2}{5}= \\frac{-10}{5}+ \\frac{2}{5}= \\frac{-8}{5}\\)\nc)\\(\\frac{-5}{8} +\\frac{12}{7}+\\frac{13}{8}+\\frac{2}{7}= (\\frac{-5}{8}+\\frac{13}{8}) + (\\frac{12}{7}+\\frac{2}{7})\\)= \\(\\frac{8}{8}+\\frac{14}{7}= 1 +2 =3\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tìm số đối của mỗi phân số sau:\n\\(\\frac{9}{25}; \\frac{-8}{27}; -\\frac{15}{31}; \\frac{-3}{-5}; \\frac{5}{-6}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số đối của \\(\\frac{a}{b}\\) là \\(\\frac{-a}{b}\\) hay \\(\\frac{a}{-b}\\)\nLời giải chi tiết\nSố đối của \\(\\frac{9}{25}\\) là \\(\\frac{-9}{25}\\)\nSố đối của \\(\\frac{-8}{27}\\) là \\(\\frac{8}{27}\\)\nSố đối của \\(-\\frac{15}{31}\\) là \\(\\frac{15}{31}\\)\nSố đối của \\(\\frac{-3}{-5}\\) là \\(\\frac{-3}{5}\\)\nSố đối của \\(\\frac{5}{-6}\\) là \\(\\frac{5}{6}\\)"
+    },
+    {
+        "problem": "Tính:\na)     \\(\\frac{5}{16}- \\frac{5}{24}\\)\nb)    \\(\\frac{2}{11}+(\\frac{-5}{11}- \\frac{9}{11})\\)\nc)     \\(\\frac{1}{10}- (\\frac{5}{12}- \\frac{1}{15})\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Phá ngoặc\n*Muốn cộng, trừ 2 phân số có cùng mẫu số, ta cộng, trừ tử với tử, giữ nguyên mẫu\n*Muốn cộng, trừ 2 phân số không cùng mẫu số, ta quy đồng mẫu những phân số đó rồi cộng, trừ các tử và giữ nguyên mẫu\nLời giải chi tiết\na)     \\(\\frac{5}{16}- \\frac{5}{24}\\\\=\\frac{15}{48}- \\frac{10}{48}\\\\=\\frac{15-10}{48}\\\\=\\frac{5}{48}\\)\nb)    \\(\\frac{2}{11}+(\\frac{-5}{11}- \\frac{9}{11})\\\\ = \\frac{2}{11}+\\frac{-5}{11}- \\frac{9}{11}\\\\= \\frac{2+(-5)-9}{11}\\\\=\\frac{-12}{11}\\)\nc)     \\(\\frac{1}{10}- (\\frac{5}{12}- \\frac{1}{15})\\\\=\\frac{1}{10}- \\frac{5}{12}+ \\frac{1}{15}\\\\= \\frac{6}{60}-\\frac{25}{60}+\\frac{4}{60}\\\\=\\frac{6-25+4}{60}\\\\=\\frac{-15}{60}\\\\=\\frac{-1}{4}\\)"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na)     \\(\\frac{27}{13}-\\frac{106}{111} +\\frac{-5}{111}\\)\nb)    \\(\\frac{12}{11}-\\frac{-7}{19} +\\frac{12}{19}\\)\nc)     \\(\\frac{5}{17}-\\frac{25}{31} +\\frac{12}{17}+\\frac{-6}{31}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các phân số có cùng mẫu số\nLời giải chi tiết\na)\\(\\frac{27}{13}-\\frac{106}{111} +\\frac{-5}{111}=\\frac{27}{13} + (\\frac{-106}{111}+ \\frac{-5}{111})\\)\\(= \\frac{27}{13}+ \\frac{-111}{111}= \\frac{27}{13} +(-1)\\)\\( = \\frac{27}{13}+ \\frac{-13}{13}= \\frac{14}{13}\\)\nb)\\(\\frac{12}{11}-\\frac{-7}{19}+\\frac{12}{19}= \\frac{12}{11}+(\\frac{7}{19}+\\frac{12}{19})\\)\\(=\\frac{12}{11} +\\frac{19}{19}=\\frac{12}{11}+1\\)\\(=\\frac{12}{11}+\\frac{11}{11}=\\frac{23}{11}\\)\nc) \\(\\frac{5}{17}-\\frac{25}{31} +\\frac{12}{17}+\\frac{-6}{31}=(\\frac{5}{17}+\\frac{12}{17})+(\\frac{-25}{31}+\\frac{-6}{31})\\)\\(=\\frac{17}{17}+\\frac{-31}{31}=1+(-1)= 0 \\)"
+    },
+    {
+        "problem": "Tìm x, biết:\na)     x - \\(\\frac{5}{6}=\\frac{1}{2}\\)\nb)    \\(\\frac{-3}{4} – x = \\frac{-7}{12}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số bị trừ= hiệu + số trừ\nSố trừ= số bị trừ - hiệu\nLời giải chi tiết\na)     x - \\(\\frac{5}{6}=\\frac{1}{2}\\)\nx = \\(\\frac{1}{2} +\\frac{5}{6}\\)\nx = \\(\\frac{3}{6}+\\frac{5}{6}\\)\nx = \\(\\frac{8}{6}\\)\nx =\\(\\frac{4}{3}\\)\nVậy  x=\\(\\frac{4}{3}\\)\nb)    \\(\\frac{-3}{4} – x = \\frac{-7}{12}\\)\nx  = \\(\\frac{-3}{4} - \\frac{-7}{12}\\)\nx = \\(\\frac{-3}{4}+\\frac{7}{12}\\)\nx  = \\(\\frac{-9}{12}+\\frac{7}{12}\\)\nx  = \\(\\frac{-2}{12}\\)\nx= \\(\\frac{-1}{6}\\)\nVậy x= \\(\\frac{-1}{6}\\)"
+    },
+    {
+        "problem": "Một xí nghiệp trong tháng Giêng đạt \\(\\frac{3}{8}\\) kế hoạch của Quý I, tháng Hai đạt \\(\\frac{2}{7}\\) kế hoạch của Quý I. Tháng Ba xí nghiệp phải đạt được bao nhiêu phần kế hoạch của Quý I?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cả Quý I được coi là 1 phần Quý I\nLời giải chi tiết\nTháng Ba xí nghiệp phải đạt được số phần kế hoạch của Quý I là:\n\\(1-\\frac{3}{8}- \\frac{2}{7}= \\frac{56}{56} - \\frac{21}{56}- \\frac{16}{56}=\\frac{19}{56}\\) ( kế hoạch Quý I)"
+    },
+    {
+        "problem": "Bốn tổ của lớp 6A đóng góp sách cho góc thư viện như sau: tổ I góp \\(\\frac{1}{4}\\) số sách của lớp, tổ II góp \\(\\frac{9}{40}\\) số sách của lớp, tổ III góp \\(\\frac{1}{5}\\) số sách của lớp, tổ IV góp phần còn lại. Tổ IV đã góp bao nhiêu phần số sách của lớp?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số sách của lớp được coi là 1 phần\nLời giải chi tiết\nTổ IV đã góp số phần số sách của lớp là:\n\\(1 - \\frac{1}{4}\\) - \\(\\frac{9}{40}\\) - \\(\\frac{1}{5}\\)= \\(\\frac{40}{40}\\)-\\(\\frac{10}{40}\\)- \\(\\frac{9}{40}\\)- \\(\\frac{8}{40}\\)= \\(\\frac{13}{40}\\)"
+    },
+    {
+        "problem": "Gấu nước được nhà sinh vật học người Ý I. Span- lan- gia- ni (I. Spallanzani) đặt tên là Tac- đi- gra- đa( Tardigrada) vào năm 1776. Một con gấu nước dài khoảng \\(\\frac{1}{2}\\) mm. Một con gấu đực Bắc Cực trưởng thành dài khoảng \\(\\frac{5}{2}\\) m. Chiều dài con gấu đực Bắc Cực trưởng thành gấp bao nhiêu lần chiều dài con gấu nước?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia\nChú ý đơn vị độ dài\nLời giải chi tiết\nĐổi \\(\\frac{5}{2}\\) m= \\(\\frac{5}{2}.1000\\) mm = 2500 mm\nChiều dài con gấu đực Bắc Cực trưởng thành gấp số lần chiều dài con gấu nước là:\n2500: \\(\\frac{1}{2}\\) = 5000 (lần)"
+    },
+    {
+        "problem": "Tính tích và viết kết quả ở dạng phân số tối giản:\na) \\(\\frac{{ - 9}}{{10}}.\\frac{{25}}{{12}};\\)\nb) \\(\\left( {\\frac{{ - 3}}{8}} \\right).\\frac{{ - 12}}{5}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn nhân hai phân số, ta nhân các tử với nhau và nhân các mẫu với nhau.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\frac{{ - 9}}{{10}}.\\frac{{25}}{{12}} = \\frac{{ - 9.25}}{{10.12}} = \\frac{{ - 225}}{{120}}\\\\ = \\frac{{( - 225):15}}{{120:15}} = \\frac{{ - 15}}{8}\\end{array}\\)\nb)\n\\(\\begin{array}{l}\\left( {\\frac{{ - 3}}{8}} \\right).\\frac{{ - 12}}{5} = \\frac{{( - 3).( - 12)}}{{8.5}}\\\\ = \\frac{{36}}{{40}} = \\frac{9}{{10}}\\end{array}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tính tích và viết kết quả ở dạng phân số tối giản:\na) \\(8.\\frac{{( - 5)}}{6};\\)\nb) \\(\\frac{5}{{21}}.( - 14).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(a.\\frac{b}{c} = \\frac{{a.b}}{c}\\)\nLời giải chi tiết\na)\n\\(8.\\frac{{( - 5)}}{6} = \\frac{{8.( - 5)}}{6} = \\frac{{ - 40}}{6} = \\frac{{ - 20}}{3}\\)\nb)\n\\(\\frac{5}{{21}}.( - 14) = \\frac{{5.( - 14)}}{{21}} = \\frac{{ - 70}}{{21}} = \\frac{{ - 10}}{3}\\)"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\n\\(\\frac{{ - 9}}{7}.\\left( {\\frac{{14}}{{15}} - \\frac{{ - 7}}{9}} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối của phép nhân đối với phép trừ:\n\\(\\frac{a}{b}.\\left(\\frac{c}{d} - \\frac{e}{f}\\right) = \\frac{a}{b}.\\frac{c}{d} - \\frac{a}{b}.\\frac{e}{f}\\)\nLời giải chi tiết\n$\\frac{{ - 9}}{7}.\\left( {\\frac{{14}}{{15}} - \\frac{{ - 7}}{9}} \\right)$$=\\frac{-9}{7}.\\frac{14}{15}-\\frac{-9}{7}.\\frac{-7}{9}$$=\\frac{-3.3.7.2}{7.3.5}-1$$=\\frac{-6}{5}-1$$=\\frac{-6}{5}-\\frac{5}{5}$$=\\frac{-11}{5}$"
+    },
+    {
+        "problem": "Viết phân số có tử và mẫu lần lượt là mẫu và tử của phân số \\(\\frac{3}{2}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số có tử và mẫu lần lượt là mẫu và tử của phân số \\(\\frac{a}{b}\\) là \\(\\frac{b}{a}\\) (\\({\\rm{a,b}} \\ne {\\rm{0}}\\))\nLời giải chi tiết\nPhân số có tử và mẫu lần lượt là mẫu và tử của phân số \\(\\frac{3}{2}\\) là: \\(\\frac{2}{3}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tìm phân số nghịch đảo của mỗi phân số sau:\na) \\(\\frac{{ - 4}}{{11}}\\);        b) \\(\\frac{7}{{ - 17}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số nghịch đảo của phân số \\(\\frac{a}{b}\\) là \\(\\frac{b}{a}\\) (\\({\\rm{a,b}} \\ne {\\rm{0}}\\))\nLời giải chi tiết\na) \\(\\frac{{11}}{{ - 4}}\\);               b) \\(\\frac{{ - 17}}{7}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tính:\na) \\(\\frac{{ - 9}}{5}:\\frac{8}{3}\\);       b)\\(\\frac{{ - 7}}{9}:( - 5).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\frac{a}{b}:\\frac{c}{d} = \\frac{a}{b}.\\frac{d}{c} = \\frac{{a.d}}{{b.c}}(\\,\\,\\,\\,b,c,d \\ne 0\\))\nLời giải chi tiết\na) \\(\\frac{{ - 9}}{5}:\\frac{8}{3} = \\frac{{ - 9}}{5}.\\frac{3}{8} = \\frac{{ - 27}}{{40}}\\);\nb)\\(\\frac{{ - 7}}{9}:( - 5) = \\frac{{ - 7}}{9}.\\frac{{ - 1}}{5} = \\frac{7}{{45}}\\)"
+    },
+    {
+        "problem": "Tính tích và viết kết quả ở dạng phân số tối giản:\na) \\(\\frac{{ - 5}}{9}.\\frac{{12}}{{35}}\\);          b) \\(\\left( {\\frac{{ - 5}}{8}} \\right).\\frac{{ - 6}}{{55}}\\)\nc) \\(\\left( { - 7} \\right).\\frac{2}{5}\\);          d) \\(\\frac{{ - 3}}{8}.\\left( { - 6} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\frac{a}{b}.\\frac{c}{d} = \\frac{{a.c}}{{b.d}}\\) với \\(b,d \\ne 0\\)\n\\(a.\\frac{b}{c} = \\frac{{a.b}}{c}\\) với \\(c \\ne 0\\)\nLời giải chi tiết\na) \\(\\begin{array}{l}\\frac{{ - 5}}{9}.\\frac{{12}}{{35}} = \\frac{{(- 5).12}}{{9.35}} = \\frac{{ - 60}}{{315}} = \\frac{{ - 60:15}}{{315:15}} = \\frac{{ - 4}}{{21}}\\end{array}\\)\nb)\\(\\begin{array}{l}\\left( {\\frac{{ - 5}}{8}} \\right).\\frac{{ - 6}}{{55}} = \\frac{{ (- 5).( - 6)}}{{8.55}}= \\frac{{30}}{{440}} =\\frac{{30:10}}{{440:10}}= \\frac{3}{{44}}\\end{array}\\)\nc) \\(\\left( { - 7} \\right).\\frac{2}{5} = \\frac{{ (- 7).2}}{5} = \\frac{{ - 14}}{5}\\);\nd)  \\(\\frac{{ - 3}}{8}.\\left( { - 6} \\right) = \\frac{{( - 3).( - 6)}}{8} = \\frac{{18}}{8} = \\frac{{18:2}}{8:2} = \\frac{9}{4}\\)"
+    },
+    {
+        "problem": "Tìm số thích hợp cho [?]:\na) \\(\\frac{{ - 2}}{3}.\\frac{{\\left[ ? \\right]}}{4} = \\frac{1}{2}\\);\nb) \\(\\frac{{\\left[ ? \\right]}}{3}.\\frac{5}{8} = \\frac{{ - 5}}{{12}}\\);\nc) \\(\\frac{5}{6}.\\frac{3}{{\\left[ ? \\right]}} = \\frac{1}{4}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Muốn tìm thừa số ta lấy tích chia cho thừa số còn lại.\n+) Nếu 2 phân số bằng nhau có cùng mẫu số thì tử số của chúng bằng nhau.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\frac{{ - 2}}{3}.\\frac{{\\left[ ? \\right]}}{4} = \\frac{1}{2}\\\\\\frac{{\\left[ ? \\right]}}{4} = \\frac{1}{2}:\\left( {\\frac{{ - 2}}{3}} \\right)\\\\\\frac{{\\left[ ? \\right]}}{4} = \\frac{1}{2}.\\frac{{ - 3}}{2}\\\\\\frac{{\\left[ ? \\right]}}{4} = \\frac{{ - 3}}{4}\\\\ \\Rightarrow \\left[ ? \\right] =  - 3\\end{array}\\)\nb)\n\\(\\begin{array}{l}\\frac{{\\left[ ? \\right]}}{3}.\\frac{5}{8} = \\frac{{ - 5}}{{12}}\\\\\\frac{{\\left[ ? \\right]}}{3} = \\frac{{ - 5}}{{12}}:\\frac{5}{8}\\\\\\frac{{\\left[ ? \\right]}}{3} = \\frac{{ - 5}}{{12}}.\\frac{8}{5}\\\\\\frac{{\\left[ ? \\right]}}{3} = \\frac{{ - 2}}{3}\\\\ \\Rightarrow \\left[ ? \\right] =  - 2\\end{array}\\)\nc)\n\\(\\begin{array}{l}\\frac{5}{6}.\\frac{3}{{\\left[ ? \\right]}} = \\frac{1}{4}\\\\\\frac{3}{{\\left[ ? \\right]}} = \\frac{1}{4}:\\frac{5}{6}\\\\\\frac{3}{{\\left[ ? \\right]}} = \\frac{1}{4}.\\frac{6}{5}\\\\\\frac{3}{{\\left[ ? \\right]}} = \\frac{3}{{10}}\\\\ \\Rightarrow \\left[ ? \\right] = 10\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm phân số nghịch đảo của mỗi phân số sau:\na) \\(\\frac{{ - 9}}{{19}}\\);           b) \\( - \\frac{{21}}{{13}}\\);        c) \\(\\frac{1}{{ - 9}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số nghịch đảo của phân số \\(\\frac{a}{b}\\) là \\(\\frac{b}{a}\\) (\\({\\rm{a,b}} \\ne {\\rm{0}}\\)).\nLời giải chi tiết\na) \\(\\frac{{ - 19}}{9}\\);       b) \\( - \\frac{{13}}{{21}}\\);        c) \\(\\frac{{ - 9}}{1} =  - 9\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính thương và viết kết quả ở dạng phân số tối giản:\na) \\(\\frac{3}{{10}}:\\left ({\\frac{{ - 2}}{3}} \\right)\\);            b) \\(\\left( { - \\frac{7}{{12}}} \\right):\\left( { - \\frac{5}{6}} \\right)\\)\nc) \\(\\left( { - 15} \\right):\\frac{{ - 9}}{{10}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\frac{a}{b}:\\frac{c}{d} = \\frac{a}{b}.\\frac{d}{c} = \\frac{{a.d}}{{b.c}};\\,\\,\\,\\,b,c,d \\ne 0\\)\nLời giải chi tiết\na)\n\\(\\frac{3}{{10}}:\\left( {\\frac{{ - 2}}{3}} \\right) = \\frac{3}{{10}}.\\frac{{ - 3}}{2} = \\frac{{ - 9}}{{20}}\\)\nb)\n\\(\\begin{array}{l}\\left( { - \\frac{7}{{12}}} \\right):\\left( { - \\frac{5}{6}} \\right) =  - \\frac{7}{{12}}.\\frac{{ - 6}}{5}\\\\ = \\frac{{42}}{{60}} = \\frac{7}{{10}}\\end{array}\\)\nc)\n\\(\\begin{array}{l}\\left( { - 15} \\right):\\frac{{ - 9}}{{10}} = \\left( { - 15} \\right).\\frac{{ - 10}}{9}\\\\ = \\frac{{150}}{9} = \\frac{{50}}{3}\\end{array}\\)"
+    }
+]

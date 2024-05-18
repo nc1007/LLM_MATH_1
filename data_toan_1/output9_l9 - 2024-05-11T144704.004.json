@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia 56 cho lần lượt các số tự nhiên từ 1 đến 56. Nếu 56 chia hết cho số tự nhiên nào thì số đó là ước của 56\nLời giải chi tiết\nChia 56 cho lần lượt các số tự nhiên từ 1 đến 56 ta thấy 56 chia hết cho 1; 2; 4; 7; 8; 14; 28; 56.\nDo đó các số 1; 2; 4; 7; 8; 14; 28; 56 là ước của 56\nVậy Ư(56) = {1; 2; 4; 7; 8; 14; 28; 56}.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhân 8 với các số tự nhiên, kết quả nào nhỏ hơn 100 và lớn hơn 50 thì đó là số cần tìm\nLời giải chi tiết\nBội số của 8 có dạng \\(a=8k( k \\in N\\)) nên a có thể là 0; 8; 16; 24; 32; 40; 48; 56; 64; 72; 80; 88; 96; 104;...\nBội số của 8 nhỏ hơn 100 và lớn hơn 50 là: 56; 64; 72; 80; 88; 96\nVậy bội số của 8 nhỏ hơn 100 và lớn hơn 50 là: 56; 64; 72; 80; 88; 96.\nLời giải hay"
+    },
+    {
+        "problem": "Khẳng định nào sau đây là đúng? Vì sao?\na) 2 021. 11 + 10 chia hết cho 11;\nb) 97. 32 + 8 chia hết cho 8;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Nếu x chia hết cho a thì kx( với k là số tự nhiên) cũng chia hết cho a\n+Nếu x, y cùng chia hết cho a thì tổng x+y và hiệu x – y cũng chia hết cho a\n+Nếu x chia hết cho a và y không chia hết cho a thì tổng x+y và hiệu x – y không chia hết cho a\nLời giải chi tiết\na) Vì 11 ⁝ 11 nên (2 021. 11) ⁝ 11\n10\\(\\not{ \\vdots }\\)11\nTa được (2 021. 11 + 10) \\(\\not{ \\vdots }\\)11 (tính chất chia hết của một tổng)\nVậy khẳng định a) là sai.\nb) Vì 32 ⁝ 8 nên (97. 32) ⁝ 8\n8 ⁝ 8\nTa được (97. 32 + 8) ⁝ 8(tính chất chia hết của một tổng)\nVậy khẳng định b) là đúng.\nc) Vì 30 ⁝ 10 nên (2 020. 30) ⁝ 10\n8. 5 = 40 ⁝ 10\nTa được (2 020. 30 + 8. 5) ⁝ 10 (tính chất chia hết của một tổng)\nVậy khẳng định c) là đúng.\nVậy các khẳng định đúng là b và c.\nLời giải hay"
+    },
+    {
+        "problem": "Không làm phép tính, hãy cho biết tổng nào sau đây chia hết cho 5.\na) 80 + 1 945 + 15;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất chia hết của một tổng (Nếu x, y cùng chia hết cho a thì tổng x+y cũng chia hết cho a; Nếu x chia hết cho a và y không chia hết cho a thì tổng x+y không chia hết cho a)\nLời giải chi tiết\na) Vì 80 ⁝ 5; 1 945 ⁝ 5; 15 ⁝ 5 nên (80 + 1 945 + 15) ⁝ 5 (tính chất chia hết của một tổng)\nVậy tổng 80 + 1 945 + 15 chia hết cho 5.\nb) Vì 1 930 ⁝ 5; 100 ⁝ 5; 2 021\\(\\not{ \\vdots }\\) 5 nên (1 930 + 100 + 2 021)\\(\\not{ \\vdots }\\) 5 (tính chất chia hết của một tổng)\nVậy tổng 1 930 + 100 + 2 021 không chia hết cho 5.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Sử dụng tính chất chia hết của một tổng (Nếu x, y cùng chia hết cho a thì tổng x+y cũng chia hết cho a; Nếu x chia hết cho a và y không chia hết cho a thì tổng x+y không chia hết cho a)\n+Ta thấy 20 ⁝ 5 nên để (x+20) ⁝ 5 thì x ⁝ 5\n+ Tìm x nằm trong tập hợp đã cho thỏa điều kiện\nLời giải chi tiết\nTa thấy 20 ⁝ 5 nên để (x+20) ⁝ 5 thì x ⁝ 5\nMà x \\(\\in\\) {15; 17; 50; 23}.\nDo đó x ∈ {15; 50}\nVậy x ∈ {15; 50}."
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Nếu x, y cùng chia hết cho a thì hiệu x – y cũng chia hết cho a\n+Nhận thấy 6 ⁝ 3 nên để (x - 6 ) ⁝ 3 thì x ⁝ 3\n+ Tìm x nằm trong tập hợp đã cho thỏa điều kiện\nLời giải chi tiết\nNhận thấy 6 ⁝ 3 nên để (x - 6 ) ⁝ 3 thì x ⁝ 3\nVì x thuộc tập {12; 19; 45; 70} do đó x ∈ {12; 45}\nVậy x ∈ {12; 45}.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Nếu y chia hết cho a và x không chia hết cho a thì tổng x+y không chia hết cho a\n+Nhận thấy 32 ⁝ 4 nên để x + 32 không chia hết cho 4 thì x phải không chia hết cho 4\n+ Tìm x nằm trong tập hợp đã cho thỏa điều kiện\nLời giải chi tiết\n+Nhận thấy 32 ⁝ 4 nên để x + 32 không chia hết cho 4 thì x phải không chia hết cho 4\nVì x thuộc tập {20; 27; 50; 60} do đó x ∈ {27; 50}\nVậy x ∈ {27; 50}\nLời giải hay"
+    },
+    {
+        "problem": "a) Tại sao tổng 22 + 23 + 24 + 25 chia hết cho 3?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Nhóm 2 số hạng, ta được từng tổng nhỏ chia hết cho 3 (câu a) (hoặc 5 (câu b))\n+Nếu x, y cùng chia hết cho a thì tổng x+y cũng chia hết cho a\nLời giải chi tiết\na)      Ta có:\n\\(\\begin{array}{l}{2^2} + {2^3} + {2^4} + {2^5}\\\\ = ({2^2} + {2^3}) + ({2^4} + {2^5})\\\\ = ({2^2} + {2^2}.2) + ({2^4} + {2^4}.2)\\\\ = {2^2}.(1 + 2) + {2^4}.(1 + 2)\\\\ = {2^2}.3 + {2^4}.3\\\\\\end{array}\\)\nVì 3 ⁝ 3 nên \\((2^2.3)\\) ⁝ 3 và \\((2^4.3)\\) ⁝ 3 nên \\((2^2.3 + 2^4.3)\\) ⁝ 3\nVậy tổng 22 + 23 + 24 + 25 chia hết cho 3\nb)      Ta có:\n\\(\\begin{array}{l}{4^{20}} + {4^{21}} + {4^{22}} + {4^{23}}\\\\ = ({4^{20}} + {4^{21}}) + ({4^{22}} + {4^{23}})\\\\ = ({4^{20}} + {4^{20}}.4) + ({4^{22}} + {4^{22}}.4)\\\\ = {4^{20}}.(1 + 4) + {4^{22}}(1 + 4)\\\\ = {4^{20}}.5 + {4^{22}}.5\\end{array}\\)\nVì 5 ⁝ 5 nên \\((4^{20}.5)\\) ⁝ 5 và \\((4^{22}.5)\\) ⁝ 5 nên \\((4^{20}.5 + 4^{22}.5)\\) ⁝ 5\nVậy tổng 420 + 421 + 422 +423 chia hết cho 5"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Gọi b là thương của phép chia a cho 12\n+Sử dụng tính chất chia hết của một tổng (Nếu x, y cùng chia hết cho a thì tổng x+y cũng chia hết cho a; Nếu x chia hết cho a và y không chia hết cho a thì tổng x+y không chia hết cho a)\nLời giải chi tiết\nGọi b là thương của phép chia a cho 12\nVì khi chia số tự nhiên a cho 12, ta được số dư là 6 nên a = 12. b + 6\n+) Vì 12 ⋮ 2 nên (12. b) ⋮ 2\n6 ⋮ 2\nTa được (12. b + 6) ⋮ 2 (tính chất chia hết của một tổng)\nVậy a ⋮ 2\n+) Vì 12 ⋮ 4 nên (12. b) ⋮ 4\n6\\(\\not{ \\vdots }\\) 4\nDo đó (12. b + 6)\\(\\not{ \\vdots }\\) 4 (tính chất chia hết của một tổng)\nVậy a\\(\\not{ \\vdots }\\) 4\nLời giải hay"
+    },
+    {
+        "problem": "Trong các số sau đây, số nào chia hết cho cả 2 và 3?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số có tận cùng là 0;2;4;6;8 thì chia hết cho 2\n+Số có tổng các chữ số chia hết cho 3 thì chia hết cho 3\n+Kiểm tra xem số nào vừa chia hết cho 2 và cho 3\nLời giải chi tiết\nSố chia hết cho 2 là số có chữ số tận cùng là 0; 2; 4; 6; 8\nTrong số các số đã cho, các số chia hết cho 2 là: 2 020; 2 022; 3 306\n+2 020 có tổng các chữ số là 2 + 0 + 2 + 0 = 4, mà 4 ⋮̸ 3 nên 2 020 ⋮̸ 3\n+2 022 có tổng các chữ số là 2 + 0 + 2 + 2 = 6, mà 6 ⁝ 3 nên 2 022 ⁝ 3\n+3 306 có tổng các chữ số là 3 + 3 + 0 + 6 = 12, mà 12 ⁝ 3 nên 3 306 ⁝ 3\nVậy các số chia hết cho cả 2 và 3 là: 2 022; 3 306.\nLời giải hay"
+    },
+    {
+        "problem": "Trong các số sau đây, số nào chia hết cho cả 3 và 5?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số có tận cùng là 0; 5 thì chia hết cho 5\n+Số có tổng các chữ số chia hết cho 3 thì chia hết cho 3\n+Kiểm tra xem số nào vừa chia hết cho 5 và cho 3\nLời giải chi tiết\nSố chia hết cho 5 là số có chữ số tận cùng là 0 hoặc 5.\nTrong các số trên, các số chia hết cho 5 là: 1 010; 1 945; 2 010.\n+) 1 010 có tổng các chữ số là 1 + 0 + 1 + 0 = 2, vì 2 ⋮̸ 3  nên 1 010 ⋮̸ 3\n+) 1 945 có tổng các chữ số là 1 + 9 + 4 + 5 = 19, vì 19 ⋮̸ 3   nên 1 945 ⋮̸ 3\n+) 2 010 có tổng các chữ số là 2 + 0 + 1 + 0 = 3, vì 3 ⁝ 3 nên 2 010 ⁝ 3\nVậy số chia hết cho cả 3 và 5 là: 2 010\nLời giải hay"
+    },
+    {
+        "problem": "Trong các số sau đây, số nào chia hết cho cả 2 và 9?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số có tận cùng là 0; 2;4;6;8 thì chia hết cho 2\n+Số có tổng các chữ số chia hết cho 9 thì chia hết cho 9\n+Kiểm tra xem số nào vừa chia hết cho 2 và cho 9\nLời giải chi tiết\n*Số có tận cùng là 0; 2;4;6;8 thì chia hết cho 2 nên 2 340; 2 010; 2 020 đều chia hết cho 2\n*+) 2 340 có tổng các chữ số là 2 + 3 + 4 + 0 = 9, vì 9 ⁝ 9 nên 2 340 ⁝ 9\n+) 2 010 có tổng các chữ số là 2 + 0 + 1 + 0 = 3, vì 3 ⋮̸ 9 nên 2 010 ⋮̸ 9\n+) 2 020 có tổng các chữ số là 2 + 0 + 2 + 0 = 4, vì 4 ⋮̸ 9 nên 2 020 ⋮̸ 9\nVậy số chia hết cho cả 2 và 9 là: 2 340."
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy cho biết tổng (hiệu) sau có chia hết cho 2 hay không.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào tính chất chia hết của 1 tổng, 1 hiệu (Nếu x, y cùng chia hết cho a thì tổng x+y và hiệu x – y cũng chia hết cho a; Nếu x chia hết cho a và y không chia hết cho a thì tổng x+y và hiệu x – y không chia hết cho a)\n+Tích của 1 số chia hết cho a với 1 số tự nhiên cũng chia hết cho a\nLời giải chi tiết\na) Vì 2 020 ⁝ 2 (do 2 020 có chữ số tận cùng là 0)\n2 022 ⁝ 2 (do 2 022 có chữ số tận cùng là 2)\nDo đó (2 020 + 2 022) ⁝ 2 (tính chất chia hết của một tổng)\nVậy 2 020 + 2 022 chia hết cho 2\nb) Vì 2 021 lẻ nên 2 0213  cũng lẻ nên  20213 ⋮̸ 2\n2 020 ⁝ 2 nên  2 0203 ⁝ 2\nDo đó ( 2 0213 – 2 0203 ) ⋮̸ 2( tính chất chia hết của một hiệu)\nVậy ( 2 0213 – 2 0203 ) không chia hết cho 2.\nLời giải hay"
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy cho biết tổng (hiệu) sau có chia hết cho 5 hay không.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Dựa vào tính chất chia hết của 1 tổng, 1 hiệu (Nếu x, y cùng chia hết cho a thì tổng x+y và hiệu x – y cũng chia hết cho a; Nếu x chia hết cho a và y không chia hết cho a thì tổng x+y và hiệu x – y không chia hết cho a)\n+Tích của 1 số chia hết cho a với 1 số tự nhiên cũng chia hết cho a\nLời giải chi tiết\na) Vì 2 020 ⁝ 5 (do 2 020 có chữ số tận cùng là 0)\n2 021 ⋮̸ 5 (do 2 020 có chữ số tận cùng là 1)\nDo đó (2 020 + 2 021) ⋮̸ 5 (tính chất chia hết của một tổng)\nVậy (2 020 + 2 021) không chia hết cho 5.\nb) Vì 2 025 ⁝ 5 nên 20255 ⁝ 5\n2 020 ⁝ 5 nên 20204 ⁝ 5\nDo đó (20255 – 20204)⁝ 5 (tính chất chia hết của một hiệu)\nVậy (20255 – 20204) chia hết cho 5.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vì khi biểu diễn có thể tách ra đều thành từng nhóm 3 người hoặc 5 người nên số người của nhóm nhảy phải chia hết cho cả 3 và 5.\nLời giải chi tiết\nVì khi biểu diễn có thể tách ra đều thành từng nhóm 3 người hoặc 5 người nên số người của nhóm nhảy phải chia hết cho cả 3 và 5.\nSố nhỏ nhất chia hết cho cả 3 và 5 và lớn hơn 0 là 15\nVậy nhóm nhảy cần ít nhất 15 người.\nLời giải hay"
+    },
+    {
+        "problem": "Dùng bốn số: 0; 2; 3; 5 để tạo ra các số có bốn chữ số, mỗi chữ số đã cho chỉ lấy một lần sao cho:\na) Các số đó chia hết cho 2\nb) Các số đó chia hết cho 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi số có bốn chữ số cần tìm là \\(\\overline {abcd} (a,b,c,d \\in \\{ 0;2;3;5\\} ,a \\ne 0)\\)\n+Số có tận cùng là 0;2;4;6;8 thì chia hết cho 2\n+Số có tận cùng là 0 hoặc 5 thì chia hết cho 5\n+Số có tận cùng là 0 thì chia hết cho cả 2 và 5\nLời giải chi tiết\nGọi số có bốn chữ số cần tìm là \\(\\overline {abcd} (a,b,c,d \\in \\{ 0;2;3;5\\} ,a \\ne 0)\\)\nVì mỗi chữ số đã cho chỉ lấy 1 lần từ 4 chữ số 0; 2; 3; 5 nên\na) Để số đó chia hết cho 2 thì số đó phải có chữ số tận cùng là 0; 2; 4; 6; 8.\nDo đó d = 0 hoặc d = 2\n+) Với d = 0, ta được các số: 5 320; 5 230; 3 520; 3 250; 2 530; 2 350.\n+) Với d = 2, a khác 0 ta được các số: 5 302; 5 032; 3 502; 3 052\nVậy các số chia hết cho 2 là 5 320; 5 230; 3 520; 3 250; 2 530; 2 350; 5 302; 5 032; 3 502; 3 052.\nb) Để số đó chia hết cho 5 thì số đó phải có chữ số tận cùng là 0 hoặc 5.\nDo đó d = 0 hoặc d = 5\n+) Với d = 0, ta được các số: 3 520; 3 250; 2 530; 2 350; 5 320; 5 230\n+) Với d = 5, a khác 0 ta được các số: 3 025; 3 205; 2 035; 2 305.\nVậy các số chia hết cho 5 là: 3 520; 3 250; 2 530; 2 350; 5 320; 5 230; 3 025; 3 205; 2 035; 2 305.\nc) Để số đó chia hết cho cả 2 và 5 thì số đó phải có chữ số tận cùng là 0. Do đó d = 0\nVới d = 0 ta được các số: 3 520; 3 250; 2 530; 2 350; 5 320; 5 230\nVậy các số chia hết cho cả 2 và 5 là 3 520; 3 250; 2 530; 2 350; 5 320; 5 230."
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số có tận cùng là 0 hoặc 5 thì chia hết cho 5\n+ Số có tổng các chữ số chia hết cho 9 thì chia hết cho 9\nLời giải chi tiết\nVì n chia hết cho 5 nên n có chữ số tận cùng là 0 hoặc 5. Do đó b = 0 hoặc b = 5\n+) Trường hợp 1: b = 0\nĐể n chia hết cho 9 thì (3 + 2 + 3 + a + 0) chia hết cho 9 hay (8 + a) chia hết cho 9.\nMà 0 ≤ a ≤ 9\nTa được a = 1.\n+) Trường hợp 2: b = 5\nĐể n chia hết cho 9 thì (3 + 2 + 3 + a + 5) chia hết cho 9 hay (13 + a) chia hết cho 9.\nMà 0 ≤ a ≤ 9\nTa được a = 5.\nVậy cặp số (a; b) thỏa mãn là (1; 0); (5; 5).\nLời giải hay\n"
+    }
+]

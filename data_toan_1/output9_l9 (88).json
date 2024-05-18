@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Xác định các dấu “<”, “>” thích hợp cho ?:\na) 3 . (- 5) ? 0;\nb) (- 3) . (- 7) ? 0;\nc) (- 6) . 7 ? (- 5) . (- 2).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số nguyên âm luôn nhỏ hơn 0.\nb) Số nguyên dương luôn lớn hơn 0.\nc) Số nguyên âm luôn nhỏ hơn số nguyên dương.\nChú ý: Tích của hai số nguyên âm là số nguyên dương.\nTích của hai số nguyên trái dấu là số nguyên âm.\nLời giải chi tiết\na) 3 . (- 5) < 0\nb) (- 3) . (- 7) > 0\nc) (- 6) . 7 < (- 5) . (- 2)"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) (- 16) . (- 7) . 5;\nb) 11 . (- 12) + 11 . (- 18);\nc) 87 . (- 19) – 37 . (- 19);\nd) 41 . 81 . (- 451) . 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n+ Tính [(- 16) . 5] .\n+ Lấy kết quả nhận được nhân với ( - 7).\nb)\n+ Đặt 11 chung ra ngoài ngoặc, lấy (- 12) cộng (- 18) trong ngoặc.\n+ Tính [(- 12) + (- 18)] trước.\n+ Lấy kết quả nhận được nhân với 11.\nc)\n+ Đặt (-19) chung ra ngoài ngoặc, lấy 87 trừ 37 trong ngoặc.\n+ Tính (87 – 37) trước.\n+ Lấy kết quả nhận được nhân với (-19).\nd) Trong một tích có thừa số 0 thì tích đó bằng 0.\nLời giải chi tiết\na) (- 16) . (- 7) . 5 = [(- 16) . 5] . (- 7) = (-80) . (-7) = 80 . 7 = 560.\nb) 11 . (- 12) + 11 . (- 18) = 11 . [(- 12) + (- 18)] = 11 . [- (12 + 18)] = 11 . (- 30) = - 330.\nc) 87 . (- 19) – 37 . (- 19) = (- 19) . (87 – 37) = (- 19) . 50 = - 950.\nd) 41 . 81 . (- 451) . 0 = 0.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chọn từ “âm”, “dương” thích hợp cho “?”\na) Tích ba số nguyên âm là một số nguyên “?”\nb) Tích hai số nguyên âm với một số nguyên dương là một số nguyên “?”\nc) Tích của một số chẵn các số nguyên âm là một số nguyên “?”\nd) Tích của một số lẻ các số nguyên âm là một số nguyên “?”",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chọn từ “âm”, “dương” thích hợp cho “?”\nLời giải chi tiết\na) Tích ba số nguyên âm là một số nguyên âm.\nb) Tích hai số nguyên âm với một số nguyên dương là một số nguyên dương.\nc) Tích của một số chẵn các số nguyên âm là một số nguyên dương.\nd) Tích của một số lẻ các số nguyên âm là một số nguyên âm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Công ty Ánh Dương có lợi nhuận ở mỗi tháng trong Quý I là – 30 triệu đồng. Trong Quý II, lợi nhuận mỗi tháng của công ty là 70 triệu đồng. Sau 6 tháng đầu năm, lợi nhuận của công ty Ánh Dương là bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Một quý gồm 3 tháng.\nTính lợi nhuận quý II: Lấy lợi nhuận mỗi tháng quý này nhân với 3.\nLợi nhuận 6 tháng đầu năm bằng lợi nhuận quý I cộng lợi nhuận quý II.\nLời giải chi tiết\n* Lợi nhuận Quý I = (- 30) . 3 = - 90 triệu đồng.\n* Lợi nhuận Quý II = 70 . 3 = 210 triệu đồng.\nSau 6 tháng đầu năm, lợi nhuận của công ty Ánh Dương là: (- 90) + 210 = 120 triệu đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng máy tính cầm tay để tính:\n23 . (- 49);            (- 215) . 207;          (- 124) . (- 1023).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dùng máy tính cầm tay để tính.\nLời giải chi tiết\n23.(-49)= -1127\n(-215). 207 = - 44 505\n( - 124) . (-1 023) = 126 852\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Tìm số thích hợp cho ? : Do \\(\\left( { - 3} \\right)\\left( { - 4} \\right) = 12\\) nên \\(12:\\left( { - 3} \\right) = ?\\).\nMẫu: Do \\(4.\\left( { - 3} \\right) =  - 12\\) nên \\(\\left( { - 12} \\right):4 =  - 3\\).\nb) So sánh \\(12:\\left( { - 3} \\right)\\) và \\( - \\left( {12:3} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Dựa vào phép tính mẫu để điển vào ?\nb) Thực hiện phép tính và so sánh\nLời giải chi tiết\na) \\(\\left( { - 4} \\right)\\).\nb) \\(12:\\left( { - 3} \\right) = \\left( { - 4} \\right)\\)\n\\(12:3 = 4 \\Rightarrow  - \\left( {12:3} \\right) =  - 4\\)\nVậy hai phép tính 12 : (- 3) và - (12 : 3) cho kết quả bằng nhau."
+    },
+    {
+        "problem": "Tính\na) 36 : (- 9) ;\nb) (- 48) : 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia hai số nguyên khác dấu:\nBước 1: Bỏ dấu “-“ trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính thương của hai số nguyên dương nhận được ở Bước 1.\nBước 3: Thêm dấu “-“ trước kết quả nhận được ở Bước 2, ta có thương cần tìm.\nLời giải chi tiết\na) 36 : (- 9) = - (36 : 9) = - 4.\nb) (- 48) : 6 = - (48 : 6) = - 8."
+    },
+    {
+        "problem": "a) Tìm số thích hợp cho ? : Do \\(\\left( { - 5} \\right).4 =  - 20\\) nên \\(\\left( { - 20} \\right):\\left( { - 5} \\right) = ?\\).\nMẫu: Do \\(\\left( { - 4} \\right).3 =  - 12\\) nên \\(\\left( { - 12} \\right):\\left( { - 4} \\right) = 3\\).\nb) So sánh \\(\\left( { - 20} \\right):\\left( { - 5} \\right)\\) và \\(20:5\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Dựa vào phép tính mãu để điền vào ?\nb) Thực hiện phép tính và so sánh.\nLời giải chi tiết\na) 4\nb) (- 20) : (- 5) = 4 = 20 : 5.\nVậy hai phép tính (- 20) : (- 5) và 20 : 5 cho kết quả bằng nhau."
+    },
+    {
+        "problem": "Tính\na) \\(\\left( { - 12} \\right):\\left( { - 6} \\right)\\);\nb) \\(\\left( { - 64} \\right):\\left( { - 8} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia hai số nguyên âm:\nBước 1: Bỏ dấu “-‘ trước mỗi số.\nBước 2. Tính thương của hai số nguyên dương nhận được ở Bước 1 ta có thương cần tìm.\nLời giải chi tiết\na) (- 12) : (- 6) = 12 : 6 = 2.\nb) (- 64) : (- 8) = 64 : 8 = 8.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Sử dụng các từ “chia hết cho”, “bội”, “ước” thích hợp cho ?\na) – 16 ? - 2;\nb) - 18 là ? của – 6;\nc) 3 là ? của – 27",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm q để - 16 = q.( - 2).\nb) Tìm q để - 18 = q.( - 6).\nc) Tìm q để - 27 = q. 3.\nLời giải chi tiết\na) Do – 16 = 8 . (- 2) nên  – 16 chia hết cho (- 2)\nb) Do – 18 = 3. (– 6 ) nên – 18 là bội của – 6.\nc) Do – 27 = ( – 9 ).3 nên 3 là ước của – 27.\nLoigiaihay"
+    },
+    {
+        "problem": "a) Viết tất cả các số nguyên là ước của -15 ; -12.\nb) Viết năm số nguyên là bội của -3 ; -7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Viết tất cả các số nguyên là ước của -15 ; -12.\nb) Nhân -3 và -7 với năm số nguyên bất kì ta được năm bội của mỗi số.\nLời giải chi tiết\na)\nDo -15= (-15).1=15.(-1)=(-5 ).3= (-3).5 nên:\nƯ(-15) = {15;- 15; 5; -5; 3; -3; 1; -1}\nDo -12=(-12).1= 12. (-1)=(- 2).6= 2.(-6)=3.(-4)=(-3).4 nên:\nƯ(-12) = {12; -12; 6; -6; 4; -4; 3; -3; 2; -2; 1; -1}\nb)\nB(-3) = {3; -3; 6; - 6; 9;...}\nB(-7) = {7; -7; 14; -14; 21;...}\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) (- 45) : 5;\nb) 56 : (-7);\nc) 75 : 25;\nd) (- 207) : (- 9).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Chia hai số nguyên khác dấu:\nBước 1: Bỏ dấu “-“ trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính thương của hai số nguyên dương nhận được ở Bước 1.\nBước 3: Thêm dấu “-“ trước kết quả nhận được ở Bước 2, ta có thương cần tìm.\n+ Chia hai số nguyên âm:\nBước 1: Bỏ dấu “-‘ trước mỗi số.\nBước 2. Tính thương của hai số nguyên dương nhận được ở Bước 1 ta có thương cần tìm.\nLời giải chi tiết\na) (- 45) : 5 = - (45 : 5) = - 9\nb) 56 : (- 7) = - (56 : 7) = - 8\nc) 75 : 25 = 3\nd) (- 207) : (- 9) = 207 : 9 = 23\nLoigaiahay.com"
+    },
+    {
+        "problem": "So sánh:\na) 36 : (- 6) và 0;\nb) (- 15) : (- 3) và (- 63) : 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Thương của phép chia hai số nguyên khác dấu luôn là số âm.\n+ Thương của phép chia hai số nguyên cùng dấu luôn là số dương.\nLời giải chi tiết\na) 36: (-6) là số âm nên:\n36 : (- 6) < 0\nb) (- 15) : (- 3)  là số dương và (- 63) : 7 là số âm nên\n(- 15) : (- 3) > (- 63) : 7.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số nguyên x, biết:\na) (- 3) . x = 36;\nb) (- 100) : (x + 5) = - 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n+ Lấy 36: (-3).\n+ Sử dụng phương pháp chia hai số nguyên khác dấu.\nb)\n+ Biểu diễn (-100) thành tích của các số.\n+ Sử dụng tính chất phân phối phép nhân với phép cộng cho -5.(x+5).\n+ Tính - 5 . x\n+ Tính x.\nLời giải chi tiết\na) (- 3). x = 36\nx = 36 : (- 3)\nx= - (36 : 3)\nx = - 12\nVậy x = -12\nb) (- 100) : (x + 5) = - 5\nx + 5 = (-100) : (-5)\nx + 5 = 20\nx = 20 - 5\nx =15\nVậy x = 15\nLoigaiahay.com"
+    },
+    {
+        "problem": "Nhiệt độ lúc 8 giờ trong 5 ngày liên tiếp là \\( - 6^\\circ C, - 5^\\circ C, - 4^\\circ ,2^\\circ C,3^\\circ C\\). Tính nhiệt độ trung bình lúc 8 giờ sáng của 5 ngày đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhiệt độ trung bình: Tính tổng nhiệt độ 5 ngày rồi chia 5.\nLời giải chi tiết\nNhiệt độ trung bình lúc 8 giờ sáng của 5 ngày là:\n\\( [(- 6) + (- 5) + (- 4) + 2 + 3] : 5 = - 2 (^0 C)\\).\nVậy nhiệt độ trung bình lúc 8 giờ sáng của 5 ngày đó là \\(- 2 ^0 C\\)\n"
+    }
+]

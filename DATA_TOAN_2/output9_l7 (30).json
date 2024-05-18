@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Hình nào sau đây là hình chóp tam giác đều?\nA. Hình có đáy là tam giác.\nB. Hình có đáy là tam giác đều.\nC. Hình có đáy là tam giác đều và tất cả các cạnh đều vuông góc với mặt đáy.\nD. Hình có đáy là tam giác đều và tất cả các cạnh bên bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tam giác đều để tìm câu đúng: Hình chóp tam giác đều là hình có đáy là tam giác đều và tất cả các cạnh bên bằng nhau.\nLời giải chi tiết\nHình chóp tam giác đều là hình có đáy là tam giác đều và tất cả các cạnh bên bằng nhau.\nChọn D"
+    },
+    {
+        "problem": "Tính diện tích xung quanh của hình chóp tam giác đều có cạnh đáy 10cm và chiều cao của mặt bên xuất phát từ đỉnh của hình chóp tam giác đều bằng 15cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về diện tích xung quanh hình chóp tam giác đều để tính: Diện tích xung quanh của hình chóp tam giác đều bằng tổng diện tích của các mặt bên.\nLời giải chi tiết\nDiện tích xung quanh của hình chóp tam giác đều là: \\(3.\\frac{{15.10}}{2} = 225\\left( {c{m^2}} \\right)\\)"
+    },
+    {
+        "problem": "Hãy cho biết tên các mặt bên, mặt đáy, đường cao và độ dài cạnh bên, cạnh đáy của mỗi hình chóp tam giác đều ở Hình 5.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tam giác đều để tìm mặt bên, mặt đáy, đường cao và độ dài cạnh bên, cạnh đáy của mỗi hình chóp tam giác đều:\n\nHình S.ABC (Hình 1) là một hình chóp tam giác đều. Trong hình này:\n+ Mặt ABC là một tam giác đều và được gọi là mặt đáy (gọi tắt là đáy).\n+ Các đoạn thẳng SA, SB, SC bằng nhau và được gọi là cạnh bên.\n+ Ba mặt SAB, SAC, SBC là các tam giác cân đỉnh S bằng nhau và được gọi là ba mặt bên.\n+ Các đoạn thẳng AB, BC, CA được gọi là cạnh đáy.\n+ Gọi O là trọng tâm của mặt đáy, khi đó SO gọi là đường cao, độ dài SO là chiều cao.\nLời giải chi tiết\n* Hình a:\n-       Mặt bên: KAB, KAC, KBC\n-       Mặt đáy: ABC\n-       Đường cao: KO\n-       Độ dài cạnh bên: 10cm\n-       Độ dài cạnh đáy: 15cm\n* Hình b:\n-       Mặt bên: SMN, SNP, SPM\n-       Mặt đáy: MNP\n-       Đường cao: SO\n-       Độ dài cạnh bên: 10cm\n-       Độ dài cạnh đáy: 8cm"
+    },
+    {
+        "problem": "Hình nào sau đây là hình chóp tứ giác đều?\nA. Hình có đáy là tứ giác.\nB. Hình có đáy là hình vuông.\nC. Hình có đáy là hình vuông và tất cả các cạnh bên bằng nhau.\nD. Hình có đáy là tam giác đều và một cặp cạnh bên vuông góc với nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tứ giác đều để tìm câu đúng: Hình chóp tứ giác đều là hình có đáy là hình vuông và tất cả các cạnh bên bằng nhau.\nLời giải chi tiết\nHình chóp tứ giác đều là hình có đáy là hình vuông và tất cả các cạnh bên bằng nhau\nChọn C."
+    },
+    {
+        "problem": "Tính diện tích toàn phần của hình chóp tứ giác đều có cạnh đáy 30cm và chiều cao của mặt bên xuất phát từ đỉnh của hình chóp tứ giác đều bằng 35cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về diện tích toàn phần hình chóp tứ giác đều để tính: Diện tích toàn phần của hình chóp tứ giác đều bằng tổng diện tích xung quanh và diện tích đáy:\nLời giải chi tiết\nDiện tích toàn phần của hình chóp tứ giác đều là: ${{S}_{tp}}={{S}_{xq}}+{{S}_{đ}}=4.\\frac{30.35}{2}+30.30=3\\ 000\\left( c{{m}^{2}} \\right)$"
+    },
+    {
+        "problem": "Hãy cho biết tên các mặt bên, mặt đáy, đường cao và độ dài cạnh bên, cạnh đáy của mỗi hình chóp tứ giác đều ở Hình 6.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tứ giác đều để tìm mặt bên, mặt đáy, đường cao và độ dài cạnh bên, cạnh đáy của mỗi hình chóp tứ giác đều:\nHình S.ABCD (Hình 2) là một hình chóp tứ giác đều. Trong hình này:\n+ Mặt ABCD là một hình vuông và được gọi là mặt đáy (gọi tắt là đáy).\n+ Các đoạn thẳng SA, SB, SC, SD bằng nhau và được gọi là các cạnh bên.\n+ Ba mặt SAB, SDC, SBC, SAD là các tam giác cân đỉnh S bằng nhau và được gọi là bốn mặt bên.\n+ Các đoạn thẳng AB, BC, CD, DA được gọi là cạnh đáy.\n+ Gọi O là giao điểm của hai đường chéo của mặt đáy, khi đó SO gọi là đường cao, độ dài SO là chiều cao.\nLời giải chi tiết\n* Hình a:\n-       Mặt bên: TAB, TCD, TBC, TDA\n-       Mặt đáy: ABCD\n-       Đường cao: TO\n-       Độ dài cạnh bên: 7cm\n-       Độ dài cạnh đáy: 5cm\n* Hình b:\n-       Mặt bên: AMN, ANP, APQ, AQM\n-       Mặt đáy: MNPQ\n-       Đường cao: AO\n-       Độ dài cạnh bên: 8cm\n-       Độ dài cạnh đáy: 4cm"
+    },
+    {
+        "problem": "Cho hình chóp tam giác đều có cạnh đáy bằng 8cm và chiều cao của mặt bên xuất phát từ đỉnh của hình chóp tam giác đều bằng 10cm. Diện tích xung quanh của hình chóp này là\nA. \\(80c{m^2}\\)\nB. \\(120c{m^2}\\)\nC. \\(240c{m^2}\\)\nD. \\(320c{m^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về diện tích xung quanh hình chóp tam giác đều để tính: Diện tích xung quanh của hình chóp tam giác đều bằng tổng diện tích của các mặt bên.\nLời giải chi tiết\nDiện tích xung quanh của hình chóp là: \\(3.\\frac{{8.10}}{2} = 120\\left( {c{m^2}} \\right)\\)\nChọn B"
+    },
+    {
+        "problem": "Tính thể tích của hình chóp tam giác đều có chiều cao 34cm và tam giác đáy có cạnh 16cm, chiều cao $8\\sqrt{3}cm$. (Làm tròn kết quả đến hàng phần mười.)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về thể tích hình chóp tam giác đều để tính: Thể tích của hình chóp tam giác đều bằng $\\frac{1}{3}$ diện tích đáy nhân với chiều cao.\nLời giải chi tiết\nThể tích của hình chóp tam giác đều là: $V=\\frac{1}{3}{{S}_{đ}}.h=\\frac{1}{3}.\\frac{16.8\\sqrt{3}}{2}.34\\approx 1256,3\\left( c{{m}^{3}} \\right)$"
+    },
+    {
+        "problem": "Cho hình chóp tứ giác đều S.CDEF có \\(SD = 5cm,EF = 3cm.\\) Tìm độ dài các cạnh còn lại của hình chóp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tứ giác đều để tìm độ dài các cạnh:\nHình chóp tứ giác đều có:\n+ Các cạnh bên bằng nhau.\n+ Các cạnh đáy bằng nhau.\nLời giải chi tiết\nVì S.CDEF là hình chóp tứ giác đều nên \\(SD = SE = SF = SC = 5cm,\\) \\(ED = DC = FC = EF = 3cm\\)"
+    },
+    {
+        "problem": "Cho hình chóp tam giác đều có diện tích đáy bằng \\(36c{m^2}\\) và chiều cao bằng 9cm. Thể tích của hình chóp này là\nA. \\(54c{m^3}\\)\nB. \\(72c{m^3}\\)\nC. \\(108c{m^3}\\)\nD. \\(216c{m^3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về thể tích hình chóp tam giác đều để tính: Thể tích của hình chóp tam giác đều bằng \\(\\frac{1}{3}\\) diện tích đáy nhân với chiều cao.\nLời giải chi tiết\nThể tích của hình chóp là: \\(V = \\frac{1}{3}.36.9 = 108\\left( {c{m^3}} \\right)\\)\nChọn C"
+    },
+    {
+        "problem": "Tính thể tích của hình chóp tứ giác đều có chiều cao 24cm, tứ giác đáy có cạnh 15cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về thể tích hình chóp tứ giác đều để tính: Thể tích của hình chóp tứ giác đều bằng $\\frac{1}{3}$ diện tích đáy nhân với chiều cao.\nLời giải chi tiết\nThể tích của hình chóp tứ giác đều là: $V=\\frac{1}{3}{{S}_{đ}}.h=\\frac{1}{3}{{.15}^{2}}.24=1\\ 800\\left( c{{m}^{3}} \\right)$"
+    },
+    {
+        "problem": "Cho hình chóp tam giác đều J.MNP có \\(JM = 8,2cm,MN = 3,5cm.\\) Tìm độ dài các cạnh còn lại của hình chóp đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tam giác đều để tìm độ dài các cạnh:\nHình chóp tam giác đều có:\n+ Các cạnh bên bằng nhau.\n+ Các cạnh đáy bằng nhau.\nLời giải chi tiết\nVì J.MNP là hình chóp tam giác đều nên \\(JN = JP = JM = 8,2cm,\\) \\(MP = NP = MN = 3,5cm\\)"
+    },
+    {
+        "problem": "Cho hình chóp tứ giác đều có cạnh đáy bằng 10m và chiều cao của mặt bên xuất phát từ đỉnh của hình chóp tứ giác đều bằng 12m. Diện tích toàn phần của hình chóp này là\nA. \\(200{m^2}\\)\nB. \\(340c{m^2}\\)\nC. \\(400{m^2}\\)\nD. \\(340{m^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về diện tích toàn phần hình chóp tứ giác đều để tính: Diện tích toàn phần của hình chóp tứ giác đều bằng tổng diện tích xung quanh và diện tích đáy: ${{S}_{tp}}={{S}_{xq}}+{{S}_{đ}}$\nLời giải chi tiết\nDiện tích toàn phần của hình chóp là: \\(4.\\frac{{10.12}}{2} + {10^2} = 340\\left( {{m^2}} \\right)\\)\nChọn D"
+    },
+    {
+        "problem": "Một chiếc gàu có dạng hình chóp tam giác đều và một chiếc bình có dạng hình lăng trụ đứng tam giác có cùng diện tích đáy. Người ta đổ 6 gàu nước vào bình và đo mực nước trong bình tăng thêm 1,2m. Tính chiều cao của chiếc gàu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về thể tích hình chóp tam giác đều để tính: Thể tích của hình chóp tam giác đều bằng $\\frac{1}{3}$ diện tích đáy nhân với chiều cao.\nLời giải chi tiết\nGọi diện tích đáy của chiếc gàu là S, thể tích của chiếc gàu là V, chiều cao của chiếc gàu là h, ta có: $6V=6.\\frac{1}{3}.S.h=2S.h$\nDo mực nước trung bình tăng lên 1,2m nên $2Sh=S.1,2$, suy ra $h=0,6m$"
+    },
+    {
+        "problem": "Tạo lập hình chóp tam giác đều có cạnh đáy bằng 4cm, độ dài cạnh bên bằng 6cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tam giác đều để vẽ hình:\nHình chóp tam giác đều có:\n+ Mặt đáy là tam giác đều.\n+ Mặt bên là các tam giác cân chung đỉnh (đỉnh là đỉnh của hình chóp) bằng nhau.\n+ Các cạnh bên bằng nhau.\nLời giải chi tiết\nCắt tấm bìa như hình bên rồi gấp lại theo các cạnh của tam giác đều, ta được hình chóp tam giác đều thỏa mãn yêu cầu.\n"
+    },
+    {
+        "problem": "Cho hình chóp tứ giác đều có cạnh đáy bằng 5m và chiều cao bằng 8m. Thể tích của hình chóp này là\nA. \\(\\frac{{200}}{3}{m^3}\\)\nB. \\(64{m^3}\\)\nC. \\(80{m^3}\\)\nD. \\(\\frac{{320}}{3}{m^3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về thể tích hình chóp tứ giác đều để tính: Thể tích của hình chóp tứ giác đều bằng \\(\\frac{1}{3}\\) diện tích đáy nhân với chiều cao.\nLời giải chi tiết\nThể tích của hình chóp là: \\(\\frac{1}{3}{.5^2}.8 = \\frac{{200}}{3}\\left( {{m^3}} \\right)\\)\nChọn A"
+    },
+    {
+        "problem": "Một khối gỗ gồm một hình chóp tứ giác đều và một hình lập phương có chung đáy (Hình 3). Tính thể tích của khối gỗ, biết chiều cao của hình chóp tứ giác đều là 50cm và cạnh của hình lập phương là 40cm. (Làm tròn kết quả đến hàng phần mười.)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về thể tích hình chóp tam giác đều để tính: Thể tích của hình chóp tam giác đều bằng $\\frac{1}{3}$ diện tích đáy nhân với chiều cao.\nLời giải chi tiết\nThể tích hình lập phương là: ${{V}_{1}}={{40}^{3}}=64\\ 000\\left( c{{m}^{3}} \\right)$\nThể tích của hình chóp tứ giác đều là: ${{V}_{2}}=\\frac{1}{3}{{.40}^{2}}.50\\approx 26\\ 666,7\\left( c{{m}^{3}} \\right)$\nThể tích của khối gỗ là: $V={{V}_{1}}+{{V}_{2}}=64\\ 000+26\\ 666,7=90\\ 666,7\\left( c{{m}^{3}} \\right)$"
+    },
+    {
+        "problem": "Tạo lập hình chóp tứ giác đều có cạnh đáy bằng 4cm, chiều cao của mặt bên xuất phát từ đỉnh của hình chóp tứ giác đều bằng 5cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hình chóp tứ giác đều để vẽ hình:\nHình chóp tứ giác đều có:\n+ Mặt đáy là hình vuông.\n+ Mặt bên là các tam giác cân chung đỉnh (đỉnh là đỉnh của hình chóp) bằng nhau.\n+ Các cạnh bên bằng nhau.\nLời giải chi tiết\nCắt tấm bìa như hình bên rồi gấp lại theo các cạnh của hình vuông, ta được hình chóp tứ giác đều thỏa mãn yêu cầu.\n"
+    },
+    {
+        "problem": "Hoàn thành bảng sau:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình S.ABC (Hình 1) là một hình chóp tam giác đều. Trong hình này:\n+ Mặt ABC là một tam giác đều và được gọi là mặt đáy (gọi tắt là đáy).\n+ Các đoạn thẳng SA, SB, SC bằng nhau và được gọi là cạnh bên.\n+ Ba mặt SAB, SAC, SBC là các tam giác cân đỉnh S bằng nhau và được gọi là ba mặt bên.\n+ Các đoạn thẳng AB, BC, CA được gọi là cạnh đáy.\n+ Gọi O là trọng tâm của mặt đáy, khi đó SO gọi là đường cao, độ dài SO là chiều cao.\nHình S.ABCD (Hình 2) là một hình chóp tứ giác đều. Trong hình này:\n+ Mặt ABCD là một hình vuông và được gọi là mặt đáy (gọi tắt là đáy).\n+ Các đoạn thẳng SA, SB, SC, SD bằng nhau và được gọi là các cạnh bên.\n+ Ba mặt SAB, SDC, SBC, SAD là các tam giác cân đỉnh S bằng nhau và được gọi là bốn mặt bên.\n+ Các đoạn thẳng AB, BC, CD, DA được gọi là cạnh đáy.\n+ Gọi O là giao điểm của hai đường chéo của mặt đáy, khi đó SO gọi là đường cao, độ dài SO là chiều cao.\nLời giải chi tiết\n"
+    },
+    {
+        "problem": "Trong các hình khai triển sau, hình nào gấp theo đường màu xanh thì được một hình chóp tam giác đều hay một hình chóp tứ giác đều.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Sử dụng kiến thức về hình chóp tứ giác đều tìm vẽ hình: Hình chóp tứ giác đều có:\n+ Mặt đáy là hình vuông.\n+ Mặt bên là các tam giác cân chung đỉnh (đỉnh là đỉnh của hình chóp) bằng nhau.\n+ Các cạnh bên bằng nhau.\n- Sử dụng kiến thức về hình chóp tam giác đều để tìm hình: Hình chóp tam giác đều có:\n+ Mặt đáy là tam giác đều.\n+ Mặt bên là các tam giác cân chung đỉnh (đỉnh là đỉnh của hình chóp) bằng nhau.\n+ Các cạnh bên bằng nhau.\nLời giải chi tiết\nHình 7a gấp được một hình chóp tam giác đều, hình 7c gấp được một hình chóp tứ giác đều."
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Số liền trước và số liền sau của 180 là:\nA. Số liền trước là 189 và số liền sau là 181.\nB. Số liền trước là 179 và số liền sau là 181.\nC. Số liền trước là 179 và số liền sau là 180.\nD. Số liền trước là 170 và số liền sau là 181.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số liền trước của 180 là 179, số liền sau của 180 là 181.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Trong hai số tự nhiên a và b, nếu a nhỏ hơn b thì trên tia số nằm ngang điểm a nằm ở đâu?\nA. Bất kì trên tia số.\nB. Bên phải điểm 0.\nC. Bên phải điểm b.\nD. Bên trái điểm b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trong hai số tự nhiên a và b, nếu a nhỏ hơn b thì trên tia số nằm ngang điểm a nằm ở bên trái điểm b.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Nếu a < b và b < c thì:\nA. a > c\nB. a ≥ c\nC. a < c\nD.a ≤ c",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Nếu a < b, b < c thì a < c (tính chất bắc cầu).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Điền số thích hợp vào chỗ chấm để được ba số tự nhiên liên tiếp: 10 024; …….; ……….\nA. 1 025; 1 026.\nB. 10 023; 1025.\nC. 10 024; 10 025.\nD. 10 025; 10 026.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có 10 024 là số đầu tiên trong dãy ba số tự nhiên tiếp nên hai số tự nhiên liền sau lần lượt là 10 025; 10 026.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Trong các dãy số sau đây, dãy nào sắp xếp theo thứ tự giảm dần:\nA. 1 235; 456; 723; 985; 6 721.\nB. 1 235; 6 721; 985; 723; 456.\nC. 6 721; 1 235; 985; 723; 456.\nD. 6 721; 985; 1 235; 723; 456.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có 6 721 > 1 235 > 985 > 723 > 456.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Kí hiệu nghĩa là gì?\nA. a nhỏ hơn b.\nB. a bằng b.\nC. a lớn hơn b.\nD. a nhỏ hơn hoặc bằng b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Kí hiệu nghĩa là a nhỏ hơn hoặc bằng b.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Cho hai số tự nhiên m = 12 036 và n= 12 134. Chọn đáp án đúng.\nA. m < n;\nB. m > n;\nC. m ≥ n;\nD. m ≤ n.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có 12 036 < 12 134 nên m < n.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 10. Cho số tự nhiên x, thỏa mãn 120 < x < 122.\nA. x = 120;\nB. x = 121;\nC. x = 122;\nD. Không tồn tại x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Vì x là số tự nhiên thỏa mãn 120 < x < 122 nên x = 121.\nĐáp án: B"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Cho ba số tự nhiên a, b, c, trong đó a là số nhỏ nhất. Biết rằng trên tia số, điểm b nằm giữa hai điểm a và c. Hãy dùng kí kiệu “<” để mô tả thứ tự của ba số a, b và c. \nA. a < b < c;\nB. a < c < b;\nC. c < b < a;\nD. c < b < a.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì b nằm giữa a và c nên ta có hai trường hợp:\na < b < c hoặc c < b < a.\nMà a là số nhỏ nhất nên a < b < c.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Sắp xếp các số sau theo thứ tự giảm dần: 1 029; 872; 2 304; 12 340; 756.\nA. 2 304; 12 340; 1 029; 872; 756.\nB. 2 304; 1 029; 12 340; 872; 756.\nC. 12 340; 2 304; 1 029; 872; 756.\nD. 12 340; 1 029; 2 304; 872; 756.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Các số theo thứ tự giảm dần là: 12 340; 2 304; 1 029; 872; 756.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Liệt kê các phần tử của tập hợp sau: M = .\nA. M = {10; 11; 12; 13; 14; 15}.\nB. M = {10; 11; 12; 13; 14}.\nC. M = {11; 12; 13; 14}.\nD. M = {11; 12; 13; 14; 15}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTập hợp M gồm các số tự nhiên lớn hơn hoặc bằng 10 và nhỏ hơn 15 là:\nM = {10; 11; 12; 13; 14}.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Trong các khẳng định sau, khẳng định nào đúng?\nI)  1999 > 2003;\nII) 100 000 là số tự nhiên lớn nhất;\nIII) 5 ≤ 5;\nIV) Số 1 là số tự nhiên nhỏ nhất.\nA. I đúng\nB. II đúng\nC. III đúng\nD. IV đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nI) Ta thấy 1 999 nằm ở bên trái điểm 2003 nên 1999 < 2003. Do đó khẳng định 1999 > 2003 là sai.\nII) Ta có: 100 001 > 100 000 \nMà 100 001 cũng là một số tự nhiên\nNên khẳng định 100 000 là số tự nhiên lớn nhất là sai.\nIII) Ta có 5 = 5 nên khẳng định 5 5 là đúng.\nIV) Ta có 0 < 1 \nMà 0 cũng là một số tự nhiên\nNên khẳng định 1 là số tự nhiên nhỏ nhất là sai.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Cho tập hợp K = { x ∈ N^{*}  | x ≤ 3} . Chọn đáp án đúng.\nA.3 ∉ K;\nB.0 ∈ K ;\nC.3 ∈ K ;\nD.1 ∉ K.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTập hợp K bao gồm các số tự nhiên khác 0 và nhỏ hơn hoặc bằng 3 nên K = .\nDo đó 3 ∈ K.\nĐáp án: C"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Ba bạn An, Bắc, Cường dựng cố định một cây sào thẳng đứng rồi đánh dấu chiều cao của các bạn lên đó bởi ba điểm. Điểm A ứng với chiều cao của bạn An, B ứng với chiều cao của Bắc và C ứng với chiều cao của Cường. Biết rằng bạn An cao 150 cm, bạn Bắc cao 153 cm, bạn Cường cao 148 cm. Sắp xếp các điểm A, B, C trên cây sào theo thứ tự từ thấp đến cao.\nA. A, B, C.\nB. A, C, B.\nC. C, A, B.\nD. C, B, A.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 148 < 150 < 153\nDo đó, trên cây sào các điểm theo thứ tự từ thấp đến cao là C, A, B. \nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Theo dõi kết quả bán hàng trong ngày của một cửa hàng, người ta nhận thấy:\nSố tiền thu được vào buổi sáng nhiều hơn vào buổi chiều;\nSố tiền thu được vào buổi tối ít hơn vào buổi chiều.\nHãy so sánh số tiền thu được (đều là các số tự nhiên) của cửa hàng đó vào buổi sáng và buổi tối. \nA. Số tiền thu được buổi sáng ít hơn số tiền thu được vào buổi tối.\nB. Số tiền thu được buổi sáng nhiều hơn số tiền thu được vào buổi tối.\nC. Số tiền thu được buổi sáng bằng số tiền thu được vào buổi tối.\nD. Không kết luận được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi số tiền thu được của buổi sáng là a;\nSố tiền thu được vào buổi chiều là b;\nSố tiền thu được vào buổi tối là c.\nTa có số tiền buổi sáng thu được lớn nhiều hơn số tiền thu được vào buổi chiều nên a > b;\nTa có số tiền thu được vào buổi tối ít hơn số tiền thu được vào buổi chiều nên c < b.\nTheo tính chất bắc cầu ta có: a > b > c. Suy ra a > c.\nVậy số tiền thu được buổi sáng nhiều hơn số tiền thu được buổi tối.\nĐáp án: B"
+    }
+]

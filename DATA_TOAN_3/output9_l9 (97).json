@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Cho biết \\({\\mathop{\\rm s}\\nolimits} {\\rm{inx}} = \\dfrac{1}{2}\\). Hãy tính các tỉ số lượng giác của góc \\(\\left( {{{90}^o} - x} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất tỷ số lượng giác của hai góc phụ nhau và sử dụng các hệ thức lượng giác cơ bản để tính.\nLời giải chi tiết\n\\(\\sin x = \\cos \\left( {{{90}^o} - x} \\right) = \\dfrac{1}{2}\\)\n\\({\\sin ^2}\\left( {{{90}^o} - x} \\right) + {\\cos ^2}\\left( {{{90}^o} - x} \\right) = 1\\\\ \\Rightarrow \\sin \\left( {{{90}^o} - x} \\right) = \\sqrt {1 - {{\\cos }^2}\\left( {{{90}^o} - x} \\right)}  \\\\\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;= \\sqrt {1 - {{\\left( {\\dfrac{1}{2}} \\right)}^2}}  = \\dfrac{{\\sqrt 3 }}{2}\\)\n\\(\\tan \\left( {{{90}^o} - x} \\right) = \\dfrac{{\\sin \\left( {{{90}^o} - x} \\right)}}{{\\cos \\left( {{{90}^o} - x} \\right)}} = \\sqrt 3 \\)\n\\(\\cot \\left( {{{90}^o} - x} \\right) = \\dfrac{{\\cos \\left( {{{90}^o} - x} \\right)}}{{\\sin \\left( {{{90}^o} - x} \\right)}} = \\dfrac{{\\sqrt 3 }}{3}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho biết \\({\\mathop{\\rm s}\\nolimits} {\\rm{inx}} = \\dfrac{1}{3}\\). Tính cosx, tanx, cotx.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hệ thức lượng giác cơ bản để tính.\nLời giải chi tiết\n\\(\\begin{array}{l}{\\sin ^2}x + {\\cos ^2}x = 1\\\\ \\Rightarrow \\cos x = \\sqrt {1 - {{\\sin }^2}x} \\\\\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;= \\sqrt {1 - {{\\left( {\\dfrac{1}{3}} \\right)}^2}}  = \\dfrac{{2\\sqrt 2 }}{3}\\\\\\tan x = \\dfrac{{\\sin x}}{{\\cos x}} = \\dfrac{1}{{2\\sqrt 2 }} = \\dfrac{{\\sqrt 2 }}{4}\\\\\\cot x = \\dfrac{{\\cos x}}{{\\sin x}} = 2\\sqrt 2 \\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho biết \\(\\tan x = 3\\). Tính cotx, sinx, cosx.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hệ thức lượng giác cơ bản để tính.\nLời giải chi tiết\n\\(\\cot x = \\dfrac{1}{{\\tan x}} = \\dfrac{1}{3}\\)\n\\(\\tan x = \\dfrac{{\\sin x}}{{\\cos x}}\\)\n\\(\\Rightarrow 1 + {\\tan ^2}x = 1 + \\dfrac{{{{\\sin }^2}x}}{{{{\\cos }^2}x}}\\)\\(\\, = \\dfrac{{{{\\cos }^2}x + {{\\sin }^2}x}}{{{{\\cos }^2}x}} = \\dfrac{1}{{{{\\cos }^2}x}}\\)\n\\( \\Rightarrow \\cos x = \\sqrt {\\dfrac{1}{{1 + {{\\tan }^2}x}}}  = \\sqrt {\\dfrac{1}{{1 + 9}}}  \\)\\(\\,= \\dfrac{{\\sqrt {10} }}{{10}}\\)\n\\({\\sin ^2}x + {\\cos ^2}x = 1 \\)\n\\(\\Rightarrow \\sin x = \\sqrt {1 - {{\\cos }^2}x} \\)\\(\\, = \\sqrt {1 - {{\\left( {\\dfrac{{\\sqrt {10} }}{{10}}} \\right)}^2}}  = \\dfrac{{3\\sqrt {10} }}{{10}}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng máy tính cầm tay tìm tỉ số lượng giác của các góc sau :\na) \\({15^o};{52^o};{64^o}\\);\nb) \\({15^o}20';{52^o}18';{64^o}24'.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bấm máy tính.\nLời giải chi tiết\nx\n\\(\\sin x\\)\n\\(\\cos x\\)\n\\(\\tan x\\)\n\\(\\cot x\\)\n\\({15^o}\\)\n0,26\n0,97\n0,27\n3,73\n\\({52^o}\\)\n0,79\n0,62\n1,28\n0,78\n\\({64^o}\\)\n0,9\n0,44\n2,05\n0,49\n\\({15^o}20'\\)\n0,26\n0,96\n0,27\n3,65\n\\({52^o}18'\\)\n0,79\n0,61\n1,29\n0,77\n\\({64^o}24'\\)\n0,9\n0,43\n2,09\n0,48\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính góc x xác định bởi :\na) \\(\\sin x = 0,174 \\);\nb) \\(\\sin x = 0,519\\);\nc) \\(\\cos x = 0,342 \\);\nd) \\(\\tan x = 1,254\\);\ne) \\(\\cot x = 0,856 \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bấm máy tính.\nLời giải chi tiết\n\n\\(x\\)\n\\(\\sin x = 0,174 \\)\n\\({10^0}1'\\)\n\\(\\sin x = 0,519\\)\n\\({31^0}16'\\)\n\\(\\cos x = 0,342 \\)\n\\({70^0}\\)\n\\(\\tan x = 1,254\\)\n\\({51^0}26'\\)\n\\(\\cot x = 0,856 \\)\n\\({49^0}26'\\)\nLoigiaihay.com"
+    }
+]

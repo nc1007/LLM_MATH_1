@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Giả sử cặp số cần tìm là a và b với a,b ≠ 0 . Vì ƯCLN của hai số đó là 17 ⇒ a và b chia hết cho 17 hay a và b đều là bội của 17.\n+Tìm các bội của 17 khác 0, không vượt quá 60\nLời giải chi tiết\nGiả sử cặp số cần tìm là a và b với a,b ≠ 0 . Vì ƯCLN của hai số đó là 17 ⇒ a và b chia hết cho 17 hay a và b đều là bội của 17.\nB(17) = {0; 17; 34; 51; 68; …}\nVì các cặp số tự nhiên khác 0, không vượt quá 60 nên a và b thuộc {17; 34; 51}\nDo đó ta có các cặp số (a; b) là (17; 34); (17; 51); (34; 51)\nThử lại: ƯCLN(17; 34) = 17 nên (17; 34) thỏa mãn\nƯCLN(17; 51) = 17 nên (17; 51) thỏa mãn\nƯCLN(34; 51) = 17 nên (34; 51) thỏa mãn\nVậy các cặp số cần tìm là (17; 34); (17; 51); (34; 51)\nLời giải hay\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a và b là bội của 16, ta giả sử a = 16m; b = 16n ( ƯCLN(m, n) = 1 và m,n ∈ N*)\nLời giải chi tiết\nVì ƯCLN(a, b) = 16 nên a và b là bội của 16, ta giả sử a = 16m; b = 16n ( ƯCLN(m, n) = 1 và m,n ∈ N*)\nTa có a + b = 96 nên 16. m + 16. n = 96\n16. (m + n) = 96\nm + n = 96: 16\nm + n = 6\nTa có bảng sau:\nm\n1\n2\n3\n4\n5\nn\n5\n4\n3\n2\n1\nƯCLN (m, n) = 1\nTM\nLoại\nLoại\nLoại\nTM\n\n+Với m = 1; n = 5 ta được a = 16.1 = 16;  b = 16.5 = 80\n+Với m = 5; n = 1, ta được a = 16. 5 = 80;  b = 16.1 = 16\nVậy các cặp số (a; b) thỏa mãn là (16; 80) và (80; 16)\n\n\nLời giải hay\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai số đó là bội của 8, ta giả sử a = 8m; b = 8n\nLời giải chi tiết\nVì ƯCLN của hai số đó là 8 nên hai số đó là bội của 8, ta giả sử a = 8m; b = 8n ( ƯCLN(m, n) = 1 và m,n ∈ N*)\nTích của hai số là 384 nên a.b = 384\n8m. 8n = 384\n64. m. n = 384\nm. n = 384: 64\nm. n = 6\nTa có 6 = 1. 6 = 2. 3\nDo đó (m; n) ∈ {(1;6);(6;1);(2;3);(3;2)}\nTa có bảng sau:\n\nm\n1\n6\n2\n3\nn\n6\n1\n3\n2\na = 8m\n8\n48\n16\n24\nb = 8n\n48\n8\n24\n16\n\nVậy các cặp số tự nhiên thỏa mãn đề bài là (8; 48); (48; 8); (16; 24); (24; 16).\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+B(a) có dạng k.a(k \\( \\in N\\))\n+BC(a,b) là số vừa là bội của a, vừa là bội của b\nLời giải chi tiết\n+) Nhân lần lượt 8 với các số 0; 1; 2; 3; 4; 5; 6; 7;… ta được: 0; 8; 16; 24; 32; 40; 48; 56; 64; 72;…\nDo đó: B(8) = { 0; 8; 16; 24; 32; 40; 48; 56; 64; 72;…}\n+) Nhân lần lượt 12 với các số 0; 1; 2; 3; 4; 5; 6; 7; … ta được 0; 12; 24; 36; 48; 60; 72; 84; …\nDo đó B(12) = {0; 12; 24; 36; 48; 60; 72; 84; …}\nBC(8, 12) = {0; 24; 48; 72; …}\nLời giải hay"
+    },
+    {
+        "problem": "Điền các từ thích hợp vào chỗ chấm:\na) Nếu 20 ⁝ a và 20 ⁝ b thì 20 là …….. của a và b;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa bội chung, bội chung nhỏ nhất\nLời giải chi tiết\na) Nếu 20 ⁝ a và 20 ⁝ b thì 20 là bội chung của a và b;\nb) Nếu 30 là số tự nhiên nhỏ nhất mà 30 ⁝ a và 30 ⁝ b thì 30 là bội chung nhỏ nhất của a và b.\nLời giải hay\n"
+    },
+    {
+        "problem": "Tìm BCNN của hai số m, n biết:\na) m = 2.33.72;   n = 32.5.112",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phân tích mỗi số ra thừa số nguyên tố;\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\na) Ta có: m = 2.33.72\nn = 32.5.112\n+) Thừa số nguyên tố chung là 3 và thừa số nguyên tố riêng là 2; 5; 7; 11.\n+) Số mũ lớn nhất của 3 là 3, số mũ lớn nhất của 2 là 1, số mũ lớn nhất của 5 là 1, số mũ lớn nhất của 7 là 2, số mũ lớn nhất của 11 là 2\nKhi đó BCNN(m, n) = 33.2.5.72.112\nb) Ta có: m = 24.3.55;   n = 23.32.72\n+) Thừa số nguyên tố chung là 2; 3 và thừa số nguyên tố riêng là 5; 7\n+) Số mũ lớn nhất của 2 là 4, số mũ lớn nhất của 3 là 2, số mũ lớn nhất của 5 là 5, số mũ lớn nhất của 7 là 2\nKhi đó BCNN(m, n) = 24.32.55.72"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Tìm BCNN\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\n*BC(a,b) là bội của BCNN(a,b)\nLời giải chi tiết\n+) Ta có:\n105 = 3.5.7\n140 = 22.5.7\n+) Thừa số nguyên tố chung là 5 và riêng là 2; 3 và 7\n+) Số mũ lớn nhất của 2 là 2, số mũ lớn nhất của 3 là 1, số mũ lớn nhất của 5 là 1, số mũ lớn nhất của 7 là 1\nKhi đó BCNN(105, 140) = 22.3.5.7 = 420\nBC(105, 140) = B(420) = {0; 420; 840; …}\nVậy BCNN(105, 140) = 420 và BC(105, 140) = B(420) = {0; 420; 840; …}\nLời giải hay"
+    },
+    {
+        "problem": "Tìm BCNN của các số sau:\na) 31 và 93;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a ⁝ b thì BCNN(a,b)=a\nLời giải chi tiết\na) Vì 93 ⁝ 31 nên BCNN(31, 93) = 93\nVậy BCNN(31, 93) = 93\nb) Vì 120 ⁝ 24 và 120 ⁝ 60 nên BCNN(24, 60, 120) = 120\nVậy BCNN(24, 60, 120) = 120."
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Khoảng thời gian ngắn nhất để ba bạn cùng một lúc gửi tin nhất là BCNN (45, 30, 60)\n*Tìm BCNN\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm\nLời giải chi tiết\nVì cứ mỗi 45 phút Nam nhắn tin một lần, Hà 30 phút nhắn tin một lần và Mai 60 phút nhắn tin một lần nên khoảng thời gian ngắn nhất để ba bạn cùng một lúc gửi tin nhất là BCNN (45, 30, 60)\nTa có: 45 = 32.5\n30 = 2. 3. 5\n60 = 22.3.5\n+) Thừa số nguyên tố chung là 3; 5 và riêng là 2\n+) Số mũ lớn nhất của 3 là 2, số mũ lớn nhất của 5 là 1, số mũ lớn nhất của 2 là 2.\nBCNN(45, 30, 60) = 22.32.5= 180\nĐổi 180 phút = 3 giờ\nDo đó sau 3 giờ ba bạn sẽ cùng một lúc gửi tin nhắn cho bố mẹ.\nLần tiếp theo ba bạn cùng nhắn tin lúc:\n9 + 3 = 12 (giờ)\nVậy lúc 12 giờ trưa thì ba bạn nhắn tin cùng một lúc.\nLời giải hay"
+    },
+    {
+        "problem": "Tìm các số tự nhiên a và b (a < b), biết:\na) ƯCLN(a, b) = 15 và BCNN(a, b) = 180;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kết quả ƯCLN(a, b). BCNN(a, b) =a.b\nLời giải chi tiết\na) Ta có: ab = ƯCLN(a, b). BCNN(a, b) = 15. 180 = 2 700.\nVì ƯCLN(a, b) = 15 nên a ⁝ 15, b ⁝ 15, ta giả sử a = 15. m, b = 15. n. Do a < b nên m < n; m, n ∈ N* và ƯCLN(m, n) = 1.\nTa có: ab = 2 700\n15. m. 15. n = 2 700\nm. n. 225 = 2 700\nm. n = 2 700: 225\nm. n = 12 = 1. 12 = 2. 6 = 3. 4\nVì m < n; m, n ∈ N* và ƯCLN(m, n) = 1 nên ta có:\n(m; n) ∈{(1; 12); (3; 4)}\n+) Với (m; n) = (1; 12) thì a = 1. 15 = 15; b = 12. 15 = 180.\n+) Với (m; n) = (3; 4) thì a = 3. 15 = 45; b = 4. 15 = 60.\nVậy các cặp (a; b) thỏa mãn là (15; 180); (45; 60).\nb) Ta có: ab = ƯCLN(a, b). BCNN(a, b) = 11. 484 = 5 324.\nVì ƯCLN(a, b) = 11 nên  , ta giả sử a = 11. m, b = 11. n. Do a < b nên m < n; m, n ∈ N*  và ƯCLN(m, n) = 1.\nTa có: ab = 5 324\n11. m. 11. n = 5 324\nm. n. 121 = 5 324\nm. n = 5 324: 121\nm. n = 44 = 1. 44 = 4. 11\nVì m < n; m, n ∈ N*  và ƯCLN(m, n) = 1 nên ta có:\n(m; n) ∈{(1; 44); (4; 11)}\n+) Với (m; n) = (1; 44) thì a = 1. 11 = 11; b = 44. 11 = 484.\n+) Với (m; n) = (4; 11) thì a = 4. 11 = 44; b = 11. 11 = 121.\nVậy các cặp (a; b) thỏa mãn là (11; 484); (44; 121).\nLời giải hay"
+    },
+    {
+        "problem": "Quy đồng mẫu các phân số sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phương pháp\n*Mẫu số chung là BCNN của các mẫu số\n* Tìm BCNN:\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm\nLời giải chi tiết\na) Ta có:\n14 = 2. 7; 21 = 3. 7\nBCNN(14, 21) = 2. 3. 7 = 42\nDo đó ta có thể chọn mẫu chung của hai phân số là 42.\n\\(\\begin{array}{l}\\frac{5}{{14}} = \\frac{{5.3}}{{14.3}} = \\frac{{15}}{{42}};\\frac{4}{{21}} = \\frac{{4.2}}{{21.4}} = \\frac{8}{{42}}\\\\\\end{array}\\)\nb) Ta có: 5 = 5;   12 = 22.3;   15 = 3. 5\nBCNN(5, 12, 15) = 22.3.5 = 60\nDo đó ta có thể chọn mẫu chung của ba phân số là 60.\n\\(\\frac{4}{5} = \\frac{{4.12}}{{5.12}} = \\frac{{48}}{{60}};\\frac{7}{{12}} = \\frac{{7.5}}{{12.5}} = \\frac{{35}}{{60}};\\frac{8}{{15}} = \\frac{{8.4}}{{15.4}} = \\frac{{32}}{{60}}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Máy tính xách tay (laptop) ra đời năm nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Vì số cần tìm là số nhỏ nhất có bốn chữ số chia hết cho 25 và 79 nên số cần tìm là bội chung nhỏ nhất có 4 chữ số của 25 và 79\n+Tìm BCNN:\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm\nLời giải chi tiết\nVì số cần tìm là số nhỏ nhất có bốn chữ số chia hết cho 25 và 79 nên số cần tìm là bội chung nhỏ nhất có 4 chữ số của 25 và 79\nTa có: 25 = 52;               79 = 79\n+) Không có thừa số nguyên tố chung và thừa số riêng là 5; 79.\n+) Số mũ lớn nhất của 5 là 2, số mũ lớn nhất của 79 là 1\nKhi đó BCNN(25, 79) = 52.79 = 1 975.\nVậy máy tính xách tay ra đời năm 1 975."
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm BCNN(2,5,101)\nLời giải chi tiết\nTa có: 2 = 2;\n5 = 5;\n101 = 101.\n+ Không có thừa số nguyên tố chung và có thừa số riêng là 2; 5; 101.\n+ Số mũ lớn nhất của 2 là 1, số mũ lớn nhất của 5 là 1, số mũ lớn nhất của 101 là 1\nKhi đó BCNN(2, 5, 101) = 2. 5. 101 = 1 010.\nChú ý: Nếu a,b,c đều là số nguyên tố thì BCNN(a,b,c)=a.b.c\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số răng cưa mà mỗi bánh xe phải quay ít nhất để hai răng cưa đánh dấu ấy lại khớp với nhau ở vị trí giống lần trước là BCNN(20, 15)\n+Tìm BCNN:\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm\nLời giải chi tiết\nSố răng cưa mà mỗi bánh xe phải quay ít nhất để hai răng cưa đánh dấu ấy lại khớp với nhau ở vị trí giống lần trước là BCNN(20, 15)\nTa có: 20 = 22.5\n15 = 3.5\nBCNN(20, 15) = 22.3.5 = 60\nDo đó mỗi bánh xe phải quay ít nhất 60 răng cưa để hai răng cưa đánh dấu ấy lại khớp với nhau ở vị trí giống lần trước\nKhi đó, bánh xe I phải quay số vòng là:\n60 : 20 = 3 (vòng)\nBánh xe II phải quay số vòng là:\n60 : 15 = 4 (vòng)\nVậy mỗi bánh xe phải quay ít nhất 60 răng cưa để hai răng cưa đánh dấu ấy lại khớp với nhau ở vị trí giống lần trước và bánh xe I phải quay 3 vòng; bánh xe II phải quay 4 vòng.\nLời giải hay\n\n"
+    },
+    {
+        "problem": "Các tổng sau là số nguyên tố hay hợp số?\na) 2. 7. 12 + 49. 53;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Áp dụng tính chất chia hết của 1 tổng\n+Tổng trên có ước ngoài 1 và chính nó thì là hợp số\nLời giải chi tiết\na) Vì 7 ⁝ 7 nên (2. 7. 12) ⁝ 7\n49 ⁝ 7 nên (49. 53) ⁝ 7\nDo đó (2. 7. 12 + 49. 53) ⁝ 7 (tính chất chia hết của một tổng)\nNên ngoài hai ước là 1 và chính nó, tổng trên còn có thêm ước là 7.\nVậy tổng trên là hợp số.\nb) Vì 4 ⁝ 4 nên (3. 4. 5) ⁝ 4\n2 020 ⁝ 4 nên (2 020. 2 021. 2 022) ⁝ 4\nDo đó (3. 4. 5 + 2 020. 2 021. 2 022) ⁝ 4 (tính chất chia hết của một tổng)\nNên ngoài hai ước là 1 và chính nó, tổng trên còn có thêm ước là 4.\nVậy tổng trên là hợp số.\nLời giải hay"
+    },
+    {
+        "problem": "Cho A = 27 220 + 31 005 + 510. Không thực hiện phép tính, hãy xét xem A có:\na) chia hết cho 2 không?\nb) chia hết cho 5 không?\nc) chia hết cho 3 không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Áp dụng tính chất chia hết của một tổng( Nếu x chia hết cho a, y chia hết cho a thì tổng x+ y cũng chia hết cho a; Nếu x chia hết cho a nhưng y không chia hết cho a thì tổng x + y không chia hết cho a)\n+ Dấu hiệu nhận biết chia hết cho 2;3;5;9\nLời giải chi tiết\na) Vì 27 220 ⁝ 2; 510 ⁝ 2 nhưng 31 005\\(\\not{ \\vdots }\\) 2 nên tổng (27 220 + 31 005 + 510) \\(\\not{ \\vdots }\\) 2 ( tính chất chia hết của một tổng) hay A \\(\\not{ \\vdots }\\) 2\nVậy A không chia hết cho 2.\nb) Vì 27 220 ⁝ 5;   31 005 ⁝ 5;  510 ⁝ 5 nên tổng (27 220 + 31 005 + 510) ⁝ 5 ( tính chất chia hết của một tổng) hay A ⁝ 5\nVậy A chia hết cho 5.\nc) Vì 31 005 ⁝ 3; 510 ⁝ 3 nhưng 27 220\\(\\not{ \\vdots }\\) 3(do 2+7+2+2+0=13 \\(\\not{ \\vdots }\\) 3) nên tổng (27 220 + 31 005 + 510)\\(\\not{ \\vdots }\\) 3 (tính chất chia hết của một tổng) hay A\\(\\not{ \\vdots }\\) 3.\nVậy A không chia hết cho 3.\nd) Vì A \\(\\not{ \\vdots }\\) 3 nên A \\(\\not{ \\vdots }\\) 9.\nVậy A không chia hết cho 9."
+    }
+]

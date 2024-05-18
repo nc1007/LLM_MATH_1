@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Xăng-ti-mét khối được viết tắt là:\nA. cm \nB. cm^{2}  \nC. cm^{3}  \nD. m^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xăng-ti-mét khối được viết tắt là cm^{3} ."
+    },
+    {
+        "problem": "Câu 2: Đề-xi-mét khối là thể tích của hình lập phương có cạnh dài 1dm. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đề-xi-mét khối là thể tích của hình lập phương có cạnh dài 1dm.\nVậy phát biểu trên là đúng."
+    },
+    {
+        "problem": "Câu 3: Trong các đơn vị sau, đơn vị nào dùng để đo thể tích?\nA. m^{3}  \nB. dm^{3}  \nC. cm^{3} \nD.\tA, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để đo thể tích người ta có thể dùng những đơn vị: xăng-ti-mét khối (cm^{3} ), đề-xi-mét khối (dm^{3} ), mét khối (m^{3} ), …\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 4: Bạn Hà nói: “25dm^{3}  đọc là hai mươi lăm đề-xi-mét”. Hà nói đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hà đã đọc sai tên đơn vị đo thể tích. 25dm^{3}  đọc là hai mươi lăm đề-xi-mét khối.\nVậy Hà nói chưa đúng."
+    },
+    {
+        "problem": "Câu 8: Chọn đáp án đúng nhất:\n35000 dm^{3}  = ... cm^{3} \nSố thích hợp điền vào chỗ chấm là:\nA.\t3,5\nB.\t35\nC.\t350\nD.\t3500",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1cm^{3}  = 1000dm^{3} .\nNhẩm: 35000 : 1000 = 35.\nVậy 35000dm^{3}  = 35cm^{3} ."
+    },
+    {
+        "problem": "Câu 10: Chọn dấu thích hợp để điền vào chỗ chấm:\n5 dm^{3}  ... 500 cm^{3} \nA.\t=\nB.\t> \nC.\t<",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1dm^{3}  = 1000cm^{3}  nên 5dm^{3}  = 5000cm^{3} .\nMà 5000cm^{3}  > 500cm^{3} .\nVậy 5dm^{3}  > 500cm^{3} ."
+    },
+    {
+        "problem": "Câu 13: Tính giá trị biểu thức:\n6543dm^{3}  - 1,85m^{3}  × 2 + 999dm^{3}  \nA.\t3842dm^{3}  \nB.\t7172dm^{3}  \nC.\t10385dm^{3}  \nD.\t13715dm^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n6543dm^{3}  - 1,85m^{3}  × 2 + 999dm^{3} \n= 6543dm^{3}  - 1850dm^{3}  × 2 + 999dm^{3} \n= 6543dm^{3}  - 3700dm^{3}  + 999dm^{3} \n= 2843dm^{3}  + 999dm^{3} \n= 3842dm^{3}"
+    }
+]

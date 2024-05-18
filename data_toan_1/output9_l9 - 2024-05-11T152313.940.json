@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Cô giáo chia lớp thành ba nhóm để thực hiện ba bài tập lớn bằng cách yêu cầu mỗi bạn chọn ngẫu nhiên một thẻ từ hộp kín chứa các thẻ ghi số 1;2;3. Các bạn chọn được thẻ ghi cùng số sẽ ở cùng một nhóm.\na)     Em có thể thuộc nhóm nào?\nb)    Hãy xác định xem sự kiện “ Em và Bình không cùng nhóm” có xảy ra không trong mỗi trường hợp sau:\n-         Em chọn được thẻ ghi số 1, Bình chọn được thẻ ghi số 3.\n-         Em chọn được thẻ ghi số 2, Bình chọn được thẻ ghi số 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các khả năng có thể xảy ra\nLời giải chi tiết\na)     Em có thể thuộc nhóm 1 hoặc nhóm 2 hoặc nhóm 3.\nb)\n-         Trường hợp Em chọn được thẻ ghi số 1, Bình chọn được thẻ ghi số 3 thì sự kiện “ Em và Bình không cùng nhóm” xảy ra.\n-         Trường hợp Em chọn được thẻ ghi số 2, Bình chọn được thẻ ghi số 2 thì sự kiện “ Em và Bình không cùng nhóm” không xảy ra."
+    }
+]

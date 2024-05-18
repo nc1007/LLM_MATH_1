@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Em hãy nhớ lại quy tắc nhân hai phân số (có tử và mẫu đều dương), rồi tính \\(\\dfrac{8}{3}.\\dfrac{3}{7}\\) và \\(\\dfrac{4}{6}.\\dfrac{5}{8}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Quy tắc: Nhân các tử với nhau và nhân các mẫu với nhau.\nRút gọn phân số.\nLời giải chi tiết\n* Quy tắc nhân 2 phân số: Nhân tử với tử, mẫu với mẫu.\n\\(\\dfrac{8}{3}.\\dfrac{3}{7} = \\dfrac{{8.3}}{{3.7}} = \\dfrac{{24}}{{21}} = \\dfrac{{24:3}}{{21:3}} = \\dfrac{8}{7}\\)\n\\(\\dfrac{4}{6}.\\dfrac{5}{8} = \\dfrac{{4.5}}{{6.8}} = \\dfrac{{20}}{{48}} = \\dfrac{{20:4}}{{48:4}} = \\dfrac{5}{{12}}\\)"
+    },
+    {
+        "problem": "Tính:\na) \\(\\dfrac{{ - 2}}{5}.\\dfrac{5}{4}\\)\nb) \\(\\dfrac{{ - 7}}{{10}}.\\dfrac{{ - 9}}{{11}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn nhân hai phân số, ta nhân các tử với nhau và nhân các mẫu với nhau.\nLời giải chi tiết\na) \\(\\dfrac{{ - 2}}{5}.\\dfrac{5}{4}\\)\\( = \\dfrac{{ - 2.5}}{{5.4}} = \\dfrac{{ - 10}}{{20}} = \\dfrac{{ - 10:10}}{{20:10}} = \\dfrac{{ - 1}}{2}\\)\nb) \\(\\dfrac{{ - 7}}{{10}}.\\dfrac{{ - 9}}{{11}}\\)\\( = \\dfrac{{ - 7.\\left( { - 9} \\right)}}{{10.11}} = \\dfrac{{63}}{{110}}\\)"
+    },
+    {
+        "problem": "Tính diện tích hình tam giác biết một cạnh dài \\(\\dfrac{9}{5}cm\\) , chiều cao ứng với cạnh đó bằng \\(\\dfrac{7}{3}cm\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình tam giác = \\(\\frac{1}{2}\\). chiều cao. độ dài cạnh đáy tương ứng\nLời giải chi tiết\nDiện tích hình tam giác là: \\(\\dfrac{1}{2}. \\dfrac{9}{5}.\\dfrac{7}{3}= \\dfrac{{1.9.7}}{{2.5.3}} = \\dfrac{{21}}{10}\\left( {c{m^2}} \\right)\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na)\\(\\dfrac{6}{{13}}.\\dfrac{8}{7}.\\dfrac{{ - 26}}{3}.\\dfrac{{ - 7}}{8}\\)\nb) \\(\\dfrac{6}{5}.\\dfrac{3}{{13}} - \\dfrac{6}{5}.\\dfrac{{16}}{{13}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sú dụng các tính chất của phép nhân phân số\na) Nhóm \\(\\dfrac{8}{7}\\) và \\(\\dfrac{{ - 7}}{8}\\); nhóm \\(\\dfrac{6}{{13}}\\) và \\(\\dfrac{{ - 26}}{3}\\).\nb) Sử dụng tính chất phân phối của phép nhân với phép trừ: \\(a.b- a.c = a.(b-c)\\)\nLời giải chi tiết\na) \\(\\dfrac{6}{{13}}.\\dfrac{8}{{7}}.\\dfrac{{ - 26}}{3}.\\dfrac{{ - 7}}{8}\\)\n\\(\\begin{array}{l} = \\left( {\\dfrac{6}{{13}}.\\dfrac{{ - 26}}{3}} \\right).\\left( {\\dfrac{8}{7}.\\dfrac{{ - 7}}{8}} \\right)\\\\ = \\dfrac{{6.\\left( { - 26} \\right)}}{{13.3}}.\\dfrac{{8.\\left( { - 7} \\right)}}{{7.8}}\\\\=  (- 4).\\left( { - 1} \\right) = 4\\end{array}\\)\nb) \\(\\dfrac{6}{5}.\\dfrac{3}{{13}} - \\dfrac{6}{5}.\\dfrac{{16}}{{13}}\\)\n\\(\\begin{array}{l} = \\dfrac{6}{5}.\\left( {\\dfrac{3}{{13}} - \\dfrac{{16}}{{13}}} \\right)\\\\ = \\dfrac{6}{5}.\\dfrac{{3 - 16}}{{13}}\\\\ = \\dfrac{6}{5}.\\dfrac{{-13}}{{13}}\\\\= \\dfrac{6}{5}.\\left( { - 1} \\right)\\\\ = \\dfrac{{ - 6}}{5}\\end{array}\\)"
+    },
+    {
+        "problem": "Tính các tích sau: \\(\\dfrac{5}{4}.\\dfrac{4}{5}\\); \\(\\dfrac{{ - 5}}{7}.\\dfrac{7}{{ - 5}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy các tử nhân với nhau và các mẫu nhân với nhau.\nLời giải chi tiết\n\\(\\dfrac{5}{4}.\\dfrac{4}{5} = \\dfrac{{5.4}}{{4.5}} = \\dfrac{{20}}{{20}} = 1\\);\n\\(\\dfrac{{ - 5}}{7}.\\dfrac{7}{{ - 5}} = \\dfrac{{ - 5.7}}{{7.\\left( { - 5} \\right)}} = \\dfrac{{ - 35}}{{ - 35}} = 1\\)"
+    },
+    {
+        "problem": "Từ HĐ 2, em hãy tìm phân số nghịch đảo của 11 và \\(\\dfrac{7}{{ - 5}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số nghịch đảo của số nguyên a là \\(\\dfrac{1}{a}\\)\nPhân số nghịch đảo của phân số \\(\\dfrac{a}{b}\\left( {a,b \\ne 0} \\right)\\) là \\(\\dfrac{b}{a}\\)\nLời giải chi tiết\nPhân số nghịch đảo của 11 là \\(\\dfrac{1}{{11}}\\)\nPhân số nghịch đảo của \\(\\dfrac{7}{{ - 5}}\\) là \\(\\dfrac{{ - 5}}{7}\\)"
+    },
+    {
+        "problem": "Em hãy nhắc lại quy tắc chia hai phân số có tử và mẫu đều dương, rồi tính \\(\\dfrac{3}{4}:\\dfrac{2}{5}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Quy tắc chia hai phân số có tử mẫu đều dương: Lấy số bị chia nhân với phân số nghịch đảo của số chia.\nLời giải chi tiết\n* Quy tắc chia hai phân số có tử mẫu đều dương: Lấy số bị chia nhân với phân số nghịch đảo của số chia.\n\\(\\dfrac{3}{4}:\\dfrac{2}{5} = \\dfrac{3}{4}.\\dfrac{5}{2} = \\dfrac{{3.5}}{{4.2}} = \\dfrac{{15}}{8}\\)\nLoigiaihay"
+    },
+    {
+        "problem": "Tính:\na)  \\(\\dfrac{{ - 8}}{9}:\\dfrac{4}{3}\\)\nb) \\(\\left( { - 2} \\right):\\dfrac{2}{5}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn chia một phân số cho một phân số khác 0, ta nhân số bị chia với phân số nghịch đảo của số chia: \\(\\dfrac{a}{b}:\\dfrac{c}{d}=\\dfrac{a}{b}.\\dfrac{d}{c}\\).\nLời giải chi tiết\na)  \\(\\dfrac{{ - 8}}{9}:\\dfrac{4}{3} = \\dfrac{{ - 8}}{9}.\\dfrac{3}{4} = \\dfrac{{ - 8.3}}{{9.4}} = \\dfrac{{ - 2}}{3}\\)\nb) \\(\\left( { - 2} \\right):\\dfrac{2}{5}\\)\\( = \\left( { - 2} \\right).\\dfrac{5}{2} = \\dfrac{{ - 2.5}}{2} =  - 5\\)"
+    },
+    {
+        "problem": "Trong một công thức làm bánh, An cần \\(\\dfrac{3}{4}\\) cốc đường để làm 9 cái bánh. Nếu An chỉ muốn làm 6 cái bánh thì cần bao nhiêu cốc đường?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm cốc đường làm 1 cái bánh: Lấy cốc đường chia 9.\nTìm cốc đường làm 6 cái bánh: Lấy cốc đường làm 1 cái bánh nhân với 9.\nLời giải chi tiết\nĐể làm 1 cái bánh thì cần: \\(\\dfrac{3}{4}:9 = \\dfrac{3}{4}.\\dfrac{1}{9} = \\dfrac{1}{{12}}\\) cốc đường\nĐể làm 6 cái bánh thì cần: \\(\\dfrac{1}{{12}}.6 = \\dfrac{1}{2}\\) cốc đường.\nVậy để làm 6 cái bánh thì cần \\(\\dfrac{1}{2}\\) cốc đường.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\(\\dfrac{7}{8} + \\dfrac{7}{8}:\\dfrac{1}{8} - \\dfrac{1}{2}\\)\nb) \\(\\dfrac{6}{{11}} + \\dfrac{{11}}{3}.\\dfrac{3}{{22}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\nChuyển phép chia về phép nhân.\nSử dụng tính chất: \\(a.b + a.c = a.\\left( {b + c} \\right)\\)\nb)\nThực hiện phép nhân trước rồi đến phép cộng.\nLời giải chi tiết\na) \\(\\dfrac{7}{8} + \\dfrac{7}{8}:\\dfrac{1}{8} - \\dfrac{1}{2}\\)\n\\(\\begin{array}{l} = \\dfrac{7}{8} + \\dfrac{7}{8}.8 - \\dfrac{1}{2}\\\\ = \\dfrac{7}{8}.1 + \\dfrac{7}{8}.8 - \\dfrac{1}{2}\\\\ = \\left( {\\dfrac{7}{8}.1 + \\dfrac{7}{8}.8} \\right) - \\dfrac{1}{2}\\\\ = \\dfrac{7}{8}.\\left( {1 + 8} \\right) - \\dfrac{1}{2} = \\dfrac{7}{8}.9 - \\dfrac{1}{2}\\\\ = \\dfrac{{63}}{8} - \\dfrac{1}{2} = \\dfrac{{63}}{8} - \\dfrac{4}{8} = \\dfrac{{63 - 4}}{8} = \\dfrac{{59}}{8}\\end{array}\\)\nb) \\(\\dfrac{6}{{11}} + \\dfrac{{11}}{3}.\\dfrac{3}{{22}}\\)\n\\(\\begin{array}{l} = \\dfrac{6}{{11}} + \\dfrac{{11.3}}{{3.22}} = \\dfrac{6}{{11}} + \\dfrac{1}{2}\\\\ = \\dfrac{{12}}{{22}} + \\dfrac{{11}}{{22}} = \\dfrac{{12 + 11}}{{22}} = \\dfrac{{23}}{{22}}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) \\(\\dfrac{3}{4}.\\dfrac{1}{{13}} - \\dfrac{3}{4}.\\dfrac{{14}}{{13}}\\)\nb) \\(\\dfrac{5}{{13}}.\\dfrac{{ - 3}}{{10}}.\\dfrac{{ - 13}}{5}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng tính chất: \\(a.b - a.c = a.\\left( {b - c} \\right)\\)\nb) Sử dụng tính chất: giao hoán, kết hợp của phép nhân.\nLời giải chi tiết\na) \\(\\dfrac{3}{4}.\\dfrac{1}{{13}} - \\dfrac{3}{4}.\\dfrac{{14}}{{13}}\\)\n\\(\\begin{array}{l} = \\dfrac{3}{4}.\\left( {\\dfrac{1}{{13}} - \\dfrac{{14}}{{13}}} \\right) = \\dfrac{3}{4}.\\left( {\\dfrac{{1 - 14}}{{13}}} \\right)\\\\ = \\dfrac{3}{4}.\\dfrac{{-13}}{{13}} = \\dfrac{3}{4}.(-1 )= \\dfrac{-3}{4}\\end{array}\\)\nb) \\(\\dfrac{5}{{13}}.\\dfrac{{ - 3}}{{10}}.\\dfrac{{ - 13}}{5}\\)\n\\(\\begin{array}{l} = \\dfrac{5}{{13}}.\\dfrac{{ - 13}}{5}.\\dfrac{{ - 3}}{{10}} = \\left( {\\dfrac{5}{{13}}.\\dfrac{{ - 13}}{5}} \\right).\\dfrac{{ - 3}}{{10}}\\\\ = \\dfrac{{5.\\left( { - 13} \\right)}}{{13.5}}.\\dfrac{{ - 3}}{{10}} = \\left( { - 1} \\right).\\dfrac{{ - 3}}{{10}} = \\dfrac{3}{{10}}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mỗi buổi sáng, Nam thường đi xe đạp từ nhà đến trường với vận tốc 15 km/h và hết 20 phút. Hỏi quãng đường từ nhà Nam đến trường dài bao nhiêu ki lô mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi thời gian phút ra giờ.\nQuãng đường bằng vận tốc nhân thời gian.\nLời giải chi tiết\n20 phút = \\(\\dfrac{{20}}{{60}} giờ = \\dfrac{1}{3}\\) giờ.\nQuãng đường từ nhà Nam đến trường là: \\(15.\\dfrac{1}{3} = \\dfrac{{15}}{3} = 5km\\)"
+    },
+    {
+        "problem": "Một hình chữ nhật có chiều dài là  \\(\\dfrac{7}{2}\\)cm, diện tích là \\(\\dfrac{{21}}{{10}}c{m^2}\\). Tìm chiều rộng của hình chữ nhật",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều rộng hình chữ nhật = diện tích : chiều dài.\nLời giải chi tiết\nChiều rộng hình chữ nhật: \\(\\dfrac{{21}}{{10}}:\\dfrac{7}{2} = \\dfrac{{21}}{{10}}.\\dfrac{2}{7} = \\dfrac{3}{5}cm\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm x, biết:\na) \\(x.\\dfrac{7}{2} = \\dfrac{7}{9}\\) ;\nb) \\(x:\\dfrac{8}{5} = \\dfrac{5}{2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Muốn tìm thừa số chưa biết, ta lấy tích chia cho thừa số đã biết.\nb) Muốn tìm số bị chia, ta lấy thương nhân với số chia.\nLời giải chi tiết\na)\n\\(x.\\dfrac{7}{2} = \\dfrac{7}{9}\\)\n\\(\\begin{array}{l}x = \\dfrac{7}{9}:\\dfrac{7}{2}\\\\x = \\dfrac{7}{9}.\\dfrac{2}{7}\\\\x =\\dfrac{2}{9}\\end{array}\\)\nVậy \\(x =\\dfrac{2}{9}\\)\nb)\n\\(\\begin{array}{l}x:\\dfrac{8}{5} = \\dfrac{5}{2}\\\\x = \\dfrac{5}{2}.\\dfrac{8}{5}\\\\x = 4\\end{array}\\)\nVậy \\(x =4\\)"
+    },
+]

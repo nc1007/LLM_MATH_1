@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Tính:\na) \\(2,259 + 0,31\\)\nb) \\(11,325 - 0,15\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt dấu “,” ngang hàng nhau và cộng (trừ) các số từ phải qua trái.\nLời giải chi tiết\na)\n\nb)\n"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau bằng cách quy về cộng hoặc trừ hai số thập phân dương tương tự như với số nguyên:\na) \\(\\left( { - 2,5} \\right) + \\left( { - 0,25} \\right)\\)\nb) \\(\\left( { - 1,4} \\right) + 2,1\\)\nc) \\(3,2-5,7\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "•  Muốn cộng hai số thập phân âm, ta cộng hai số đối của chúng rồi thêm dấu trừ đằng trước kết quả.\n•  Muốn cộng hai số thập phân trái dấu, ta làm như sau:\n◊  Nếu số dương lớn hơn hay bằng số đối của số âm thì ta lấy số dương trừ đi số đối của số âm.\n◊  Nếu số dương nhỏ hơn số đối của số âm thì ta lấy số đối của số âm trừ đi số dương rồi thêm dấu trừ (-) trước kết quả.\nLời giải chi tiết\na) \\(\\left( { - 2,5} \\right) + \\left( { - 0,25} \\right) =  - \\left( {2,5 + 0,25} \\right)\\)\\( =  - 2,75\\)\nb) \\(\\left( { - 1,4} \\right) + 2,1 = 2,1 - 1,4 = 0,7\\)\nc) \\(3,2-5,7 = -(5,7-3,2)=-2,5\\)"
+    },
+    {
+        "problem": "Tính\na) \\(\\left( { - 2,259} \\right) + 31,3\\)\nb) \\(\\left( { - 0,325} \\right) - 11,5\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Cộng hai số thập phân khác dấu:\n\\(\\left( { - a} \\right) + b = b - a\\) nếu \\(0 < a \\le b\\)\n\\(\\left( { - a} \\right) + b =  - \\left( {a - b} \\right)\\) nếu \\(a > b > 0\\)\nb) + Muốn trừ số thập phân a cho số thập phân b, ta cộng a với số đối của b\n+ Muốn cộng hai số thập phân âm, ta cộng hai số đối của chúng rồi thêm dấu trừ đằng trước kết quả.\nLời giải chi tiết\na) \\(\\left( { - 2,259} \\right) +31,3 =  31,3 - 2,259 = 29,041\\)\nb) \\(\\left( { - 0,325} \\right) - 11,5 = -(0,325 + 11,5) = -11,825\\)"
+    },
+    {
+        "problem": "1. Một tàu thăm dò đáy biển đang ở độ cao \\( - 0,32km\\) so với mực nước biển.\nTính độ cao mới của tàu sau khi nổi lên thêm 0,11 km.\n\n2. Nhiệt độ trung bình năm ở Bắc Cực là \\( - 3,4^\\circ C\\), ở Nam Cực là \\( - 49,3^\\circ C\\). Cho biết nhiệt độ trung bình năm ở nơi nào cao hơn và cao hơn bao nhiêu độ C?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1. Tàu nổi lên trên tức là độ cao tăng thêm.\n2. Bước 1: So sánh hai số âm với nhau, số lớn hơn thì nhiệt độ cao hơn.\nBước 2: Lấy số lớn hơn trừ đi số bé hơn.\nChú ý: Trừ hai số thập phân a - b = a + (-b)\nLời giải chi tiết\n1. Độ cao mới của tàu: \\( - 0,32 + 0,11 =  - \\left( {0,32 - 0,11} \\right) = -0,21\\left( {km} \\right)\\)\nVậy độ cao mới của tàu là \\( - 0,21\\left( {km} \\right)\\) so với mực nước biển.\n2.  Vì \\( - 3,4 >  - 49,3\\) nên nhiệt độ tại Bắc Cực cao hơn và cao hơn Nam Cực là: \\( - 3,4 - \\left( { - 49,3} \\right) =  - 3,4 + 49,3\\)\\( = 49,3 - 3,4 = 45,9\\left( {^\\circ C} \\right)\\)\nVậy nhiệt độ Bắc Cực cao hơn Nam Cực \\(45,9\\left( {^\\circ C} \\right)\\)."
+    },
+    {
+        "problem": "Tính \\(12,5.1,2\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy 125.12\nDịch chuyển dấu “,” sang trái 2 đơn vị.\nLời giải chi tiết\n125.12=1500\nNên 12,5.1,2=15,00=15"
+    },
+    {
+        "problem": "Thực hiện phép nhân sau bằng cách quy về phép nhân hai số thập phân dương tương tự như với số nguyên:\na) \\(\\left( { - 12,5} \\right).1,2\\)\nb) \\(\\left( { - 12,5} \\right).\\left( { - 1,2} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Nhân hai số nguyên khác dấu:\nBước 1: Bỏ dấu “ – ” trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính tích của hai số nguyên dương nhận được.\nBước 3: Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tích cần tìm.\nb) Nhân hai số nguyên cùng dấu:\nBước 1: Bỏ dấu “ – ” trước mỗi số.\nBước 2: Tính tích của hai số nguyên dương nhận được ở Bước 1, ta có tích cần tìm.\nLời giải chi tiết\na) \\(\\left( { - 12,5} \\right).1,2 =  - \\left( {12,5.1,2} \\right) =  - 15\\)\nb) \\(\\left( { - 12,5} \\right).\\left( { - 1,2} \\right) = 12,5.1,2 = 15\\)"
+    },
+    {
+        "problem": "Tính\na) \\(2,72.\\left( { - 3,25} \\right)\\)\nb) \\(\\left( { - 0,827} \\right).\\left( { - 1,1} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Nhân hai số khác dấu:\nBước 1: Bỏ dấu “ – ” trước số âm, giữ nguyên số còn lại.\nBước 2: Tính tích của hai số dương nhận được.\nBước 3: Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tích cần tìm.\nb) Nhân hai số cùng dấu:\nBước 1: Bỏ dấu “ – ” trước mỗi số.\nBước 2: Tính tích của hai số dương nhận được ở Bước 1, ta có tích cần tìm.\nLời giải chi tiết\na) \\(2,72.\\left( { - 3,25} \\right) =  - \\left( {2,72.3,25} \\right)\\)\\( =  - 8,84\\)\nb) \\(\\left( { - 0,827} \\right).\\left( { - 1,1} \\right) = 0,827.1,1\\)\\( = 0,9097\\)"
+    },
+    {
+        "problem": "Mức tiêu thụ nhiên liệu của một chiếc xe máy là 1,6 lít trên 100 kilômét. Giá một lít xăng E5 RON 92-II ngày 20-10-2020 là 14 260 đồng (đã bao gồm thuế). Một người đi xe máy đó trên quãng đường 100 km thì sẽ hết bao nhiêu tiền xăng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tiền xăng đi hết 100 kilômét bằng tiền xăng của 1,6 lít.\nLời giải chi tiết\nTiền xăng đi hết 100 kilômét là: 1,6.14 260=22816 (đồng)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính: 31,5:1,5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy 31,5:1,5=315:15.\nLời giải chi tiết\n\nTa được: 31,5:1,5=315:15=21"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau bằng cách quy về phép chia hai số thập phân dương tương tự như với số nguyên:\na) \\(\\left( { - 31,5} \\right):1,5\\)\nb) \\(\\left( { - 31,5} \\right):\\left( { - 1,5} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chia hai số nguyên khác dấu:\nBước 1: Bỏ dấu “-” trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính thương của hai số nguyên dương nhận được ở Bước 1.\nBước 3: Thêm dấu “-” trước kết quả nhận được ở Bước 2, ta có thương cần tìm.\nb) Chia hai số nguyên âm:\nBước 1: Bỏ dấu “-” trước mỗi số.\nBước 2: Tính thương của hai số nguyên dương nhận được ở Bước 1 ta có thương cần tìm\nLời giải chi tiết\na) \\(\\left( { - 31,5} \\right):1,5 =  - \\left( {31,5:1,5} \\right) =  - 21\\)\nb) \\(\\left( { - 31,5} \\right):\\left( { - 1,5} \\right) = 31,5:1,5 = 21\\)"
+    },
+    {
+        "problem": "Thương của hai số khi nào là số dương? Khi nào là số âm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tương tự với phép chia hai số nguyên:\n+ Thương của phép chia hai số nguyên khác dấu luôn là số âm.\n+ Thương của phép chia hai số nguyên cùng dấu luôn là số dương.\nLời giải chi tiết\nThương của 2 số là số dương khi 2 số đó cùng dấu và âm khi hai số khác dấu."
+    },
+    {
+        "problem": "Tính:\na) \\(\\left( { - 5,24} \\right):1,31\\)\nb) \\(\\left( { - 4,625} \\right):\\left( { - 1,25} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chia hai số khác dấu:\nBước 1: Bỏ dấu “-” trước số âm, giữ nguyên số còn lại.\nBước 2: Tính thương của hai số dương nhận được ở Bước 1.\nBước 3: Thêm dấu “-” trước kết quả nhận được ở Bước 2, ta có thương cần tìm.\nb) Chia hai số âm:\nBước 1: Bỏ dấu “-” trước mỗi số.\nBước 2. Tính thương của hai số dương nhận được ở Bước 1 ta có thương cần tìm\nLời giải chi tiết\na) \\(\\left( { - 5,24} \\right):1,31 =  - \\left( {5,24:1,31} \\right)\\)\\( =  - \\left( {524:131} \\right) =  - 4\\)\nb) \\(\\left( { - 4,625} \\right):\\left( { - 1,25} \\right) = 4,625:1,25\\)\\( = 4625:1250 = 3,7\\)"
+    },
+    {
+        "problem": "Tài khoản vay ngân hàng của một chủ xưởng gỗ có ghi số dư \\( - 1,252\\) tỉ đồng. Sau khi chủ xưởng trả được một nửa khoản nợ thì số dư tài khoản là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nợ biểu thị cho số dư âm. Một nửa khoản nợ tương đương với một nửa số dư.\nLời giải chi tiết\nSố tiền nợ là \\( - 1,252\\) tỉ đồng, tức là số dư ban đầu là \\( - 1,252\\) tỉ đồng. Chủ xưởng trả được một nửa khoản nợ tức là số dư tài khoản còn một nửa.\nMột nửa số dư ban đầu là: \\( - 1,252:2 =  - \\left( {1,252:2} \\right)\\)\\(=  - 0,626\\)(tỉ đồng)\nVậy số dư tài khoản là \\( - 0,626\\) tỉ đồng."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau:\n\\(21.0,1 - \\left[ {4 - \\left( { - 3,2 - 4,8} \\right)} \\right]:0,1\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất giao hoán, kết hợp, phân phối.\nLời giải chi tiết\n\\(\\begin{array}{l}21.0,1 - \\left[ {4 - \\left( { - 3,2 - 4,8} \\right)} \\right]:0,1\\\\ = 2,1 - \\left[ {4 - \\left( { - 8} \\right)} \\right]:0,1\\\\ = 2,1 - \\left[ {4 + 8} \\right]:0,1\\\\ = 2,1 - 12:0,1\\\\ = 2,1 - 12.10\\\\ = 2,1 - 120\\\\ =  - \\left( {120 - 2,1} \\right)\\\\ =  - 117,9\\end{array}\\)"
+    },
+    {
+        "problem": "Từ độ cao \\( - 0,21km\\) (so với mực nước biển), tàu thăm dò đáy biển bắt đầu lặn xuống. Biết rằng cứ sau mỗi phút, tàu lặn xuống sâu thêm được 0,021 km. Tính độ cao xác định vị trí tàu sau 10 phút kể từ khi tàu bắt đầu lặn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính quãng đường lặn thêm được sau 10 phút.\nĐộ cao tàu so với mực nước biển bằng độ cao ban đầu trừ đi quãng đường lặn thêm được.\nLời giải chi tiết\nSau 10 phút, tàu lặn sâu thêm được:\n\\(0,021.10 = 0,21\\) (km)\nĐộ cao tàu so với mực nước biển sau 10 phút:\n\\( - 0,21 - 0,021.10 = -0,42\\) (km)\nVậy độ cao xác định vị trí tàu sau 10 phút kể từ khi tàu bắt đầu lặn là - 0,42 km."
+    }
+]

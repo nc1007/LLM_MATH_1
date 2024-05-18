@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Viết các phép chia sau dưới dạng phân số\na) (-17) : 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số bị chia tương ứng với tử số của phân số. Số chia tương ứng với mẫu số của phân số.\nLời giải chi tiết\na) \\(\\frac{-17}{8}\\)\nb) \\(\\frac{-8}{-9}\\)"
+    },
+    {
+        "problem": "Biểu thị các số sau dưới dạng phân số tối giản với đơn vị là:\na)Mét:15 cm; 40 mm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi đơn vị m; m2\nLời giải chi tiết\na)*Ta có: 1 m = 100 cm\nSố 15 cm biểu thị dưới dạng phân số với đơn vị m là: \\(\\frac{15}{100}=\\frac{15:5}{100:5}=\\frac{3}{20}\\)\n*Ta có: 1 m = 1000 mm\nSố 40 mm biểu thị dưới dạng phân số với đơn vị m là: \\(\\frac{40}{1000}=\\frac{40:40}{1000:40}=\\frac{1}{25}\\)\nb) Ta có: 1 m2 = 10000 cm2\nSố 15 cm2 biểu thị dưới dạng phân số với đơn vị m2 là: \\(\\frac{15}{10000}\\)=\\(\\frac{15:5}{10000:5}\\)=\\(\\frac{3}{2000}\\)\n*Ta có: 1 m2 = 100 dm2\nSố 35 dm2 biểu thị dưới dạng phân số với đơn vị m2 là: \\(\\frac{35}{100}=\\frac{35:5}{100:5}=\\frac{7}{20}\\)\n"
+    },
+    {
+        "problem": "Dùng tính chất cơ bản của phân số, hãy giải thích vì sao các cặp phân số sau bằng nhau\na) \\(\\frac{21}{9}=\\frac{49}{21}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Chia cả tử và mẫu của phân số cho 1 ước chung của chúng, ta được 1 phân số mới bằng phân số đã cho\n*Chỉ ra 2 phân số cùng bằng 1 phân số\nLời giải chi tiết\na)Ta có: \\(\\frac{21}{9}= \\frac{21:3}{9:3}=\\frac{7}{3}; \\frac{49}{21}=\\frac{49:7}{21:7}=\\frac{7}{3}\\)\nVậy \\(\\frac{21}{9}=\\frac{49}{21}\\)\nb)Ta có: \\(\\frac{-24}{34}=\\frac{(-24):2}{34:2}=\\frac{-12}{17}; \\frac{-60}{85}=\\frac{(-60):5}{85:5}=\\frac{-12}{17}\\)\nVậy \\(\\frac{-24}{34}=\\frac{-60}{85}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Dùng quy tắc bằng nhau của phân số, hãy giải thích vì sao các cặp phân số sau bằng nhau\na) \\(\\frac{3}{5}=\\frac{27}{45}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Nếu a.d=b.c thì \\(\\frac{a}{b}=\\frac{c}{d}\\)\nLời giải chi tiết\na)Ta có: 3.45=5.27(=135) nên \\(\\frac{3}{5}=\\frac{27}{45}\\)\nb)Ta có: (-6).28=8.(-21)(=-168) nên \\(\\frac{-6}{8}=\\frac{-21}{28}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(\\frac{a}{b}=\\frac{c}{d}\\) thì a.d=b.c\nLời giải chi tiết\nTa có: \\(\\frac{-3}{4}=\\frac{x}{20}\\) nên (-3).20=4.x. Do đó -60 =4.x. Vậy x=(-60):4=-15\n\\(\\frac{-3}{4}=\\frac{21}{y}\\) nên (-3).y= 4.21. Do đó (-3).y= 84. Vậy y= 84: (-3)=-28"
+    },
+    {
+        "problem": "Rút gọn các phân số sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Triệt tiêu các thừa số giống nhau ở tử số và mẫu số\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\frac{{{2^3}{{.3}^2}}}{{{2^2}{{.3}^3}}} = \\frac{{{2^2}{{.2.3}^2}}}{{{2^2}{{.3}^2}.3}} = \\frac{2}{3};\\\\b) - \\frac{{{{2.3.5}^2}}}{{{3^2}{{.5}^3}}} =  - \\frac{{{{2.3.5}^2}}}{{{{3.3.5}^2}.5}} =  - \\frac{2}{{3.5}} =  - \\frac{2}{{15}}\\end{array}\\)"
+    },
+    {
+        "problem": "Trong các phân số sau, phân số nào là phân số tối giản? Nếu chưa là phân số tối giản, hãy rút gọn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số có ước chung lớn nhất của tử và mẫu số bằng 1 thì tối giản\nLời giải chi tiết\nPhân số \\(\\frac{{17}}{{29}}\\) là phân số tối giản vì d(17,29) = 1\nCác phân số \\(\\frac{{ - 30}}{{64}};\\frac{{10}}{{ - 25}}\\) chưa tối giản. Ta có:\n\\(\\begin{array}{l}\\frac{{ - 30}}{{64}} = \\frac{{( - 30):2}}{{64:2}} = \\frac{{ - 15}}{{32}};\\\\\\frac{{10}}{{ - 25}} = \\frac{{10:( - 5)}}{{( - 25):( - 5)}} = \\frac{{ - 2}}{5}.\\end{array}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thu gọn phân số rồi nhân cả tử và mẫu của phân số với cùng một số sao cho cả tử và mẫu thu được là các số tự nhiên có hai chữ số.\nLời giải chi tiết\nTa có: \\(\\frac{{18}}{{39}} = \\frac{{18:3}}{{39:3}} = \\frac{6}{{13}}\\)\nNhân cả tử và mẫu số của phân số \\(\\frac{6}{{13}}\\) với 1,2,3,..9, ta được các phân số:\n\\(\\frac{6}{{13}};\\frac{{12}}{{26}};\\frac{{18}}{{39}};\\frac{{24}}{{52}};\\frac{{30}}{{65}};\\frac{{36}}{{78}};\\frac{{42}}{{91}};\\frac{{48}}{{104}};\\frac{{54}}{{117}}\\)\nNhư vậy, các phân số thỏa mãn là:\n\\(\\frac{{12}}{{26}};\\frac{{24}}{{52}};\\frac{{30}}{{65}};\\frac{{36}}{{78}};\\frac{{42}}{{91}}\\)"
+    },
+    {
+        "problem": "Viết các phân số sau dưới dạng hỗn số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia tử số cho mẫu số, thương thu được chính là phần nguyên, số dư là tử số của phần phân số, giữ nguyên mẫu số làm mẫu số của phần phân số\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\frac{{43}}{7} = \\frac{{6.7 + 1}}{7} = 6 + \\frac{1}{7} = 6\\frac{1}{7}\\\\b)\\frac{{59}}{{15}} = \\frac{{3.15 + 14}}{{15}} = 3 + \\frac{{14}}{{15}} = 3\\frac{{14}}{{15}}\\end{array}\\)"
+    },
+    {
+        "problem": "Viết các hỗn số sau dưới dạng phân số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hỗn số \\(a\\frac{b}{c}\\) (a,b,c \\(\\in N^*\\)) được viết dưới dạng phân số là: \\(\\frac{{a.c + b}}{c}\\)\nLời giải chi tiết\n\\(\\begin{array}{l}a)4\\frac{3}{4} = \\frac{{4.4 + 3}}{4} = \\frac{{19}}{4}\\\\b)10\\frac{8}{9} = \\frac{{10.9 + 8}}{9} = \\frac{{98}}{9}\\end{array}\\)"
+    },
+    {
+        "problem": "Các phân số sau đây được sắp xếp theo một quy luật, hãy quy đồng mẫu các phân số để tìm quy luật đó, rồi viết tiếp một phân số vào chỗ chấm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng mẫu các phân số và phát hiện quy luật\nLời giải chi tiết\n\\(a)\\frac{1}{5} = \\frac{6}{{30}};\\frac{1}{6} = \\frac{5}{{30}};\\frac{2}{{15}} = \\frac{4}{{30}};\\frac{1}{{10}} = \\frac{3}{{30}}\\). Nhận thấy quy luật của dãy số này là, có cùng mẫu số là 30; tử số giảm dần 1 đơn vị. Do đó, phân số cần điền là \\(\\frac{2}{{30}} = \\frac{1}{{15}}\\)\n\\(b)\\frac{1}{9} = \\frac{5}{{45}};\\frac{4}{{45}};\\frac{1}{{15}} = \\frac{3}{{45}};\\frac{2}{{45}}\\). Nhận thấy quy luật của dãy số này là, có cùng mẫu số là 45; tử số giảm dần 1 đơn vị. Do đó, phân số cần điền là \\(\\frac{1}{{45}}\\)"
+    },
+    {
+        "problem": "Quy đồng mẫu các phân số sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chọn mẫu số chung là BCNN của các mẫu số\nLời giải chi tiết\na)     \\(\\begin{array}{l}BCNN(240,360) = 720\\\\\\frac{7}{{240}} = \\frac{{7.3}}{{240.3}} = \\frac{{21}}{{720}};\\frac{{ - 1}}{{360}} = \\frac{{( - 1).2}}{{360.2}} = \\frac{{ - 2}}{{720}}.\\end{array}\\)\nb)    \\(\\begin{array}{l}BCNN(7,15,21) = 105\\\\\\frac{{ - 3}}{7} = \\frac{{( - 3).15}}{{7.15}} = \\frac{{ - 45}}{{105}};\\frac{8}{{15}} = \\frac{{8.7}}{{15.7}} = \\frac{{56}}{{105}};\\frac{4}{{21}} = \\frac{{4.5}}{{21.5}} = \\frac{{20}}{{105}}\\end{array}\\)"
+    },
+    {
+        "problem": "Rút gọn rồi quy đồng mẫu các phân số sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính, rồi chia cả tử và mẫu của các phân số cho ƯCLN của chúng. Sau đó quy đồng 2 phân số tối giản vừa thu được\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\frac{{29 - 5}}{{54}} = \\frac{{24}}{{54}} = \\frac{{24:6}}{{54:6}} = \\frac{4}{9};\\\\\\frac{{45 - 54}}{{33}} = \\frac{{ - 9}}{{33}} = \\frac{{( - 9):3}}{{33:3}} = \\frac{{ - 3}}{{11}}\\end{array}\\).\nTa được\n\\(\\frac{4}{9} = \\frac{{4.11}}{{9.11}} = \\frac{{44}}{{99}};\\frac{{ - 3}}{{11}} = \\frac{{( - 3).9}}{{11.9}} = \\frac{{ - 27}}{{99}}\\)\n\\(\\begin{array}{l}b)\\frac{{18 + 14}}{{18}} = \\frac{{32}}{{18}} = \\frac{{32:2}}{{18:2}} = \\frac{{16}}{9};\\\\\\frac{{26 - 50}}{{30}} = \\frac{{ - 24}}{{30}} = \\frac{{( - 24):6}}{{30:6}} = \\frac{{ - 4}}{5}\\end{array}\\).\nTa được\n\\(\\frac{{16}}{9} = \\frac{{16.5}}{{9.5}} = \\frac{{80}}{{45}};\\frac{{ - 4}}{5} = \\frac{{( - 4).9}}{{5.9}} = \\frac{{ - 36}}{{45}}\\)"
+    },
+    {
+        "problem": "So sánh các phân số sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng các phân số về dạng 2 phân số có cùng mẫu số dương. Khi đó, phân số nào có tử số lớn hơn thì phân số đó lớn hơn\nLời giải chi tiết\n\\(a)\\frac{5}{{18}} = \\frac{{5.3}}{{18.3}} = \\frac{{15}}{{54}};\\frac{7}{{27}} = \\frac{{7.2}}{{27.2}} = \\frac{{14}}{{54}}.\\)\nVì 15 > 14 nên \\(\\frac{{15}}{{54}} > \\frac{{14}}{{54}}\\) hay \\(\\frac{5}{{18}} > \\frac{7}{{27}}\\)\n\\(b)\\frac{{ - 3}}{{20}} = \\frac{{( - 3).3}}{{20.3}} = \\frac{{ - 9}}{{60}};\\frac{{ - 2}}{{15}} = \\frac{{( - 2).4}}{{15.4}} = \\frac{{ - 8}}{{60}}\\)\nVì (-9) < (-8) nên \\(\\frac{{ - 9}}{{60}} < \\frac{{ - 8}}{{60}}\\) hay \\(\\frac{{ - 3}}{{20}} < \\frac{{ - 2}}{{15}}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc = quãng đường : thời gian\nVận tốc lớn hơn thì chạy nhanh hơn\nLời giải chi tiết\nVận tốc đạp xe ngày thứ Bảy và Chủ nhật của bạn Việt lần lượt là:\n\\(\\frac{{31}}{2}; \\frac{{46}}{3}\\)\nTa có: \\(\\frac{{31}}{2} = \\frac{{31.3}}{{2.3}} = \\frac{{93}}{6};\\frac{{46}}{3} = \\frac{{46.2}}{{3.2}} = \\frac{{92}}{6}\\)\nVì 93 > 92 nên \\(\\frac{{93}}{6} > \\frac{{92}}{6}\\) hay \\(\\frac{{31}}{2}> \\frac{{46}}{3}\\)\nVậy ngày thứ Bảy bạn Việt đạp xe nhanh hơn"
+    },
+    {
+        "problem": "Sắp xếp các phân số sau theo thứ tự từ bé đến lớn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng mẫu các phân số để đưa về các phân số có cùng mẫu số dương. Tử số của phân số nào lớn hơn thì phân số đó lớn hơn\nLời giải chi tiết\nTa có: \\(\\frac{{ - 1}}{8} = \\frac{{ - 9}}{{72}}; - \\frac{5}{{24}} = \\frac{{ - 15}}{{72}};\\frac{7}{{18}} = \\frac{{28}}{{72}}; - \\frac{5}{9} = \\frac{{ - 40}}{{72}};\\frac{1}{2} = \\frac{{36}}{{72}}\\)\nVì (-40) < (-15) < (-9) < 28 < 36 nên \\( - \\frac{5}{9} <  - \\frac{5}{{24}} < \\frac{{ - 1}}{8} < \\frac{7}{{18}} < \\frac{1}{2}\\)\nVậy các phân số sắp xếp theo thứ tự từ bé đến lớn là:\n\\( - \\frac{5}{9};\\frac{{ - 5}}{{24}};\\frac{{ - 1}}{8};\\frac{7}{{18}};\\frac{1}{2}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa các phân số về dạng có cùng mẫu số, khi đó, phân số này nhỏ hơn phân số kia khi tử số của phân số này nhỏ hơn tử số của phân số kia\nLời giải chi tiết\nVì \\(\\frac{1}{8} \\le \\frac{x}{{40}} < \\frac{1}{5}\\) nên \\(\\frac{5}{{40}} \\le \\frac{x}{{40}} < \\frac{8}{{40}}\\)\nDo đó, \\(5 \\le x < 8\\) nên x \\(\\in\\) {5;6;7}"
+    }
+]

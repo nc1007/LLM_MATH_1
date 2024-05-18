@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "Câu 2. Tháng có doanh thu lớn nhất là?\nA. Tháng 4;\nB. Tháng 8;\nC. Tháng 1;\nD. Tháng 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTháng 12 cửa hàng có doanh thu cao nhất (85 triệu đồng)."
+    },
+    {
+        "problem": "A. Tháng 4;\nB. Tháng 8;\nC. Tháng 5;\nD. Tháng 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTháng 5 cửa hàng có doanh thu thấp nhất (50 triệu đồng)."
+    },
+    {
+        "problem": "Câu 4. Doanh thu của cửa hàng giảm trong những khoảng thời gian nào?A. 4 – 5; \nB. 6 – 7; \nC. 8 – 9 ; 9 – 10;\nD. Cả 3 đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDoanh thu của cửa hàng giảm trong những khoảng sau: \n+ Tháng 4 – 5 (giảm 18 triệu đồng). Do đó đáp án A đúng.\n+ Tháng 6 – 7 (giảm 4 triệu đồng). Do đó đáp án B đúng.\n+ Tháng 8 – 9 (giảm 8 triệu đồng), 9 – 10 (giảm 10 triệu đồng). Do đó đáp án C đúng. \nĐáp án A, B, C đều đúng. Vậy đáp án D đúng."
+    },
+    {
+        "problem": "Câu 5. Đơn vị đo thời gian là?A. Triệu đồng;\nB. Tháng;\nC. Năm;\nD. Giờ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐơn vị đo thời gian là: tháng."
+    },
+    {
+        "problem": "Câu 7. Biểu đồ biểu diễn các thông tin về vấn đề gì?\nA. Nhiệt độ trung bình các tháng năm 2020 tại Thành phố Hồ Chí Minh;\nB. Nhiệt độ trung bình các tháng năm 2020 tại Thành phố Hà Nội;\nC. Nhiệt độ trung bình các tháng năm 2020 của cả nước;\nD. Nhiệt độ trung bình các ngày trong năm 2020 tại Thành phố Hồ Chí Minh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBiểu đồ biểu diễn nhiệt độ trung bình các tháng năm 2020 tại Thành phố Hồ Chí Minh."
+    },
+    {
+        "problem": "Câu 8. Đơn vị số liệu là gì?\nA. ^{o} C;\nB. Tháng;\nC. Năm;\nD. Ngày.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nĐơn vị số liệu là ^{o} C."
+    },
+    {
+        "problem": "Câu 9. Tháng có nhiệt độ trung bình cao nhất là?\nA. Tháng 6;\nB. Tháng 9;\nC. Tháng 4;\nD. Tháng 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTháng có nhiệt độ trung bình cao nhất là tháng 4 (30,5^{o} C)."
+    },
+    {
+        "problem": "Câu 10. Thời điểm nhiệt độ thấp nhất là?\nA. Tháng 4;\nB. Tháng 8;\nC. Tháng 5;\nD. Tháng 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: \nTháng 12 có nhiệt độ trung bình thấp nhất (26^{o} C)."
+    },
+    {
+        "problem": "Câu 11. Nhiệt độ trung bình không đổi trong những khoảng thời gian nào?\nA. 7 – 8; \nB. 9 – 10;\nC. Đáp án A và B đều đúng;\nD. Đáp án A và B đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNhiệt độ trung bình không đổi trong những khoảng thời gian từ tháng: 7 – 8 (28^{o} C); 9 – 10 (27,6^{o} C). \nDo đó, đáp án A và B đều đúng.\nVậy đáp án C đúng."
+    },
+    {
+        "problem": "Câu 13. Tốc độ tăng trưởng GDP lớn nhất của Nhật Bản từ năm 1990 – 2005 là:\nA. 5,1;\nB. 2,7;\nC. 2,7;\nD. 2,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTốc độ tăng trưởng GDP lớn nhất của Nhật Bản từ năm 1990 – 2005 là 5,1%."
+    },
+    {
+        "problem": "Câu 14. Năm có tốc độ tăng trưởng GDP lớn nhất của Nhật Bản từ năm 1990 – 2005 là:\nA. 1999;\nB. 2005;\nC. 1990;\nD. 1995.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNăm có tốc độ tăng trưởng GDP lớn nhất của Nhật Bản từ năm 1990 – 2005 là 1990 (5,1%)."
+    },
+    {
+        "problem": "Câu 15. Năm có tốc độ tăng trưởng GDP nhỏ nhất của Nhật Bản từ năm 1990 – 2005 là:\nA. 1997;\nB. 2001;\nC. 1990;\nD. 1995.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nNăm có tốc độ tăng trưởng GDP nhỏ nhất của Nhật Bản từ năm 1990 – 2005 là 2001 (0,4%)."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Viết số tự nhiên a sau đây: Mười lăm tỉ hai trăm sáu mươi bảy triệu không trăm hai mươi mốt nghìn chín trăm linh tám.\na) Số a có bao nhiêu chữ số? Viết tập hợp các chữ số của a;\nb) Chữ số hàng triệu là chữ số nào?\nc) Trong a có hai chữ số 1 nằm ở những hàng nào? Mỗi chữ số ấy có giá trị bằng bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết số a\n* Mô tả tập hợp bằng cách liệt kê các phần tử: Liệt kê các phần tử, đặt trong dấu {}, mỗi phần tử ngăn cách nhau bởi dấu ; và mỗi phần tử chỉ được liệt kê 1 lần, thứ tự tùy ý.\nLời giải chi tiết\nSố tự nhiên a là 15 267 021 908.\na) Số a có 11 chữ số. Tập hợp các chữ số của a là A = {0; 1; 2; 5; 6; 7; 8; 9}.\nb) Chữ số hàng triệu là chữ số 7.\nc) Trong a có 2 chữ số 1 nằm ở hàng chục tỉ và hàng nghìn.\nChữ số 1 ở hàng chục tỉ có giá trị 10 000 000 000.\nChữ số 1 ở hàng nghìn có giá trị 1 000."
+    },
+    {
+        "problem": "a) Số 2 020 là số liền sau của số nào? Là số liền trước của số nào?\nb) Cho số tự nhiên a khác 0. Số liền trước của a là số nào? Số liền sau của a là số nào?\nc) Trong các số tự nhiên, số nào không có số liền sau? Số nào không có số liền trước?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số liền trước của 1 số tự nhiên kém số đó 1 đơn vị.\n- Số liền sau của 1 số tự nhiên hơn số đó 1 đơn vị\nLời giải chi tiết\na) Số 2 020 là số liền sau của số 2 019\nSố 2 020 là số liền trước của số 2 021.\nb) Số liền trước của số tự nhiên a là số a - 1. Số liền sau của số tự nhiên a là a + 1.\nc) Trong các số tự nhiên, không có số nào không có số liền sau. Số 0 không có số liền trước vì số 0 là số nhỏ nhất trong tập hợp số tự nhiên."
+    },
+    {
+        "problem": "Đặt tính chia tìm tích, thương và số dư (nếu có)\na) 21 759 . 1 862;\nb) 3 789 : 231;\nb) 9 848 : 345.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép nhân, phép chia để tìm tích, thương và số dư (nếu có).\nLời giải chi tiết\n\na) 21 759 . 1 862 = 40 515 258\nb) 3 789 : 231 = 16 (dư 93)\nc) 9 848 : 345 = 28 (dư 188)"
+    },
+    {
+        "problem": "Tính giá trị biểu thức\n21. [(1 245 + 987): 23 - 15. 12] + 21.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Thực hiện phép tính theo thứ tự: ( ) => [ ].\n- Thực hiện tính lũy thừa => nhân chia => Lũy thừa.\nLời giải chi tiết\n\\(21.[(1 245 + 987) : 2^3 - 15.12] + 21\\)\n= 21.(2232 : 8 - 180) + 21\n= 21.(279 - 180) + 21\n= 21. 99 + 21\n=21. (99+1)\n=21. 100\n= 2 100.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Khối 6 có 320 học sinh đi tham quan. Nhà trường cần thuê ít nhất bao nhiêu xe ô tô 45 chỗ ngồi để đủ chỗ cho tất cả học sinh?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số xe cần thuê = Số HS khối 6 : số chỗ ngồi 1 xe ( nếu phép chia dư ta cộng thêm 1 vào số xe).\nLời giải chi tiết\nVì 320 : 45 = 7 (dư 5) nên xếp đủ 7 xe thì còn dư 5 học sinh, do đó cần thêm 1 xe để chở hết 5 học sinh đó.\nVậy cần tất cả: 7 + 1 = 8 (xe ô tô).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một phòng chiếu phim có 18 hàng ghế, mỗi hàng có 18 ghế. Giá một vé xem phim là 50 000 đồng.\na) Tối thứ Bảy, tất cả các vé đều được bán hết. Số tiền bán vé thu được là bao nhiêu?\nb) Tối Chủ nhật còn 41 vé không bán được. Hỏi số tiền bán vé thu được là bao nhiêu?\nc) Tối thứ Hai, số tiền bán vé thu được là 10 550 000 đồng. Hỏi có bao nhiêu vé không bán được?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số tiền thu được = Số vé bán được . giá mỗi vé.\n- Số vé bán được = Số tiền thu được : giá mỗi vé.\nLời giải chi tiết\nSố ghế của phòng chiếu phim bằng số vé nhiều nhất có thể bán được và bằng:\n18.18 = 324 (ghế)\na) Số tiền bán vé thu được tối thứ Bảy là:\n324 . 50 000 = 16 200 000 (đồng)\nb) Chủ nhật còn 41 vé không bán được, nên số vé đã bán là:\n324 - 41 = 283 (vé)\nSố tiền bán vé thu được là:\n283 . 50 000 = 14 150 000 (đồng)\nc) Số vé bán được tối thứ Hai là:\n10 550 000 : 50 000 = 211 (vé)\nSố vé không bán được là: 324 - 211 = 113 (vé)\nĐáp số : a) 16 200 000 đồng\nb) 14 150 000 đồng\nc) 113 vé"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1 : Cho phép tính sau:  \nPhép chia đã cho có thương là 18 và số dư là 15. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép chia đã cho có thương là 15 và số dư là 18.\nVậy khẳng định đã cho là sai."
+    },
+    {
+        "problem": "Câu 2 : Tính: 877 ∶ 23 \nA.\t38 dư 1\nB.\t38 dư 2\nC.\t38 dư 3\nD.\t38 dư 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy: 877:23=38 dư 3."
+    },
+    {
+        "problem": "Câu 5 : Thương của 10440 và 72 là: \nA.\t140\nB.\t145\nC.\t150\nD.\t155",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thương của hai số 10440 và 72 là 10440:72.\nĐặt tính và thực hiện tính ta có:\n10440:72=14510440:72=145\nVậy thương của 10440 và 72 là 145."
+    },
+    {
+        "problem": "Câu 6 : Chọn dấu thích hợp để điền vào ô trống:  \n72000 ∶ 600 ...1200\nA.\t< \nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 72000:600=720:6=120.\nMà 120 < 1200.\nDo đó 72000:600 < 1200.\nVậy dấu thích hợp điền vào chỗ chấm là <."
+    },
+    {
+        "problem": "Câu 7 : Tìm x, biết:   x × 37 = 2701 \nA.\tx = 85\nB.\tx = 83\nC.\tx = 73\nD.\tx = 75",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "x×37=2701\nx=2701:37\nx=73 \nVậy đáp án đúng là x=73."
+    },
+    {
+        "problem": "Câu 9 : Chọn dấu thích hợp để điền vào chỗ chấm:  \n2496 ∶ 64 × 25 ...736 + 9184 ∶ 32\nA.\t<\nB.\t>\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+) 2496:64×25=39×25=975;\n+) 736+9184:32=736+287=1023.\nMà 975 < 1023.\nDo đó 2496:64×25 < 736+9184:32.\nVậy dấu thích hợp điền vào chỗ chấm là <."
+    },
+    {
+        "problem": "Câu 11 : Người ta xếp các gói kẹo vào các hộp, mỗi hộp 36 gói. \nHỏi có thể xếp 2500  gói kẹo vào nhiều nhất bao nhiêu hộp và còn thừa bao nhiêu gói kẹo? \nA.\t79 hộp; thừa 4 gói\nB.\t69 hộp; thừa 14 gói\nC.\t79 hộp; thừa 6 gói\nD.\t69 hộp; thừa 16 gói",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia ta có:\n    2500:36=69 (dư 16)\nVậy có thể sắp xếp được nhiều nhất 69 hộp và còn thừa 16 gói kẹo. \n                     Đáp số: 69 hộp; thừa 16 gói kẹo."
+    },
+    {
+        "problem": "Câu 12 : Một hình chữ nhật có diện tích bằng diện tích hình vuông cạnh 75cm . \nTính chu vi hình chữ nhật đó, biết rằng chiều rộng hình chữ nhật là 45cm. \nA.\t380cm\nB.\t340cm\nC.\t300cm\nD.\t170cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình vuông là:\n\t             75×75=5625(cm^{2} )\nVậy diện tích hình chữ nhật là 5625cm^{2} .\nChiều dài hình chữ nhật đó là:\n           5625:45=125(cm)\nChu vi hình chữ nhật đó là:\n        (125+45)×2=340(cm)\n                    Đáp số: 340cm\n\n     75×75=5625(cm^{2} )\nVậy diện tích hình chữ nhật là 5625cm^{2} .\nChiều dài hình chữ nhật đó là:\n           5625:45=125(cm)\nChu vi hình chữ nhật đó là:\n        (125+45)×2=340(cm)\n                    Đáp số: 340cm"
+    },
+    {
+        "problem": "Câu 13 : Xe thứ nhất chở 60 thùng dầu, mỗi thùng chứa 24 lít dầu.\nXe thứ hai chở một số thùng dầu, mỗi thùng chứa 45 lít. Hỏi xe thứ hai chở bao nhiêu thùng dầu,\n biết xe thứ hai chở nhiều hơn xe thứ nhất 180 lít dầu. \nA.\t36 thùng\nB.\t45 thùng\nC.\t48 thùng\nD.\t52 thùng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xe thứ nhất chở số lít dầu là:\n     24×60=1440 (lít)\nXe thứ hai chở số lít dầu là:\n    1440+180=1620 (lít)\nXe thứ hai chở số thùng dầu là:\n   1620:45=36 (thùng)\n          Đáp số: 36 thùng."
+    }
+]

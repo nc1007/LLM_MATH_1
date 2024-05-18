@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Tìm x \\( \\in \\){50; 108, 189, 1234; 2 019; 2 020} sao cho:\na) x – 12 chia hết cho 2;\nb) x – 27 chia hết cho 3;\nc) x + 20 chia hết cho 5;\nd) x + 36 chia hết cho 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\begin{array}{l}(a + b) \\vdots c \\Rightarrow a \\vdots b,\\,\\,b \\vdots c\\\\(a - b) \\vdots c \\Rightarrow a \\vdots b,\\,\\,b \\vdots c\\end{array}\\)\n* Các số có chữ số tận cùng là 0;2;4;6 hoặc 8 thì chia hết cho 2\n* Các số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5\n* Các số có tổng các chữ số là một số chia hết cho 3 thì chia hết cho 3\n* Các số có tổng các chữ số là một số chia hết cho 9 thì chia hết cho 9\nLời giải chi tiết\na) (x – 12) \\( \\vdots \\)2\nMà 12\\( \\vdots \\) 2 nên x \\( \\vdots \\)2\nVậy giá trị của x thỏa mãn là 50, 108, 1 234, 2 020.\nb) (x – 27) \\( \\vdots \\)3;\nMà 27 \\( \\vdots \\)3 nên x \\( \\vdots \\)3\nVậy giá trị của x thỏa mãn là 108, 189, 2 019.\nc) (x + 20) \\( \\vdots \\)5;\nMà 20 \\( \\vdots \\)5 nên x \\( \\vdots \\)5\nVậy giá trị của x thỏa mãn là 50, 2 020.\nd) (x + 36) \\( \\vdots \\)9\nMà 36 \\( \\vdots \\)9 nên x \\( \\vdots \\)9\nVậy giá trị của x thỏa mãn là 108, 189."
+    },
+    {
+        "problem": "Thực hiện phép tính sau rồi phân tích kết quả ra thừa số nguyên tố:\na) 142 + 52 + 22;\nb) 400 : 5 + 40",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Thực hiện phép tính theo thứ tự: Lũy thừa => Nhân, chia => Cộng, trừ.\n- Phân tích kết quả ra thừa số nguyên tố.\nLời giải chi tiết\na) 142 + 52 + 22 = 196 + 25 + 4 = 225 = 32.52\n\nb) 400 : 5 + 40 = 80 + 40 = 120 = 23.3.5\n"
+    },
+    {
+        "problem": "Tìm ƯCLN và BCNN của:\na) 21 và 98;\nb) 36 và 54.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN cần tìm.\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\na) Ta có: 21 = 3.7;  98 = 2.72\n=> ƯCLN(21, 98) = 7 ; BCNN(21, 98) = 2.3.72 = 294\nb) Ta có: 36 = 22.32, 54 = 2.33\nƯCLN(36, 54) = 2.32 = 18; BCNN(36, 54) = 22.33 = 108."
+    },
+    {
+        "problem": "Các phân số sau đã là phân số tối giản chưa? Nếu chưa, hãy rút gọn về phân số tối giản.\na) \\(\\frac{{27}}{{123}}\\);\nb) \\(\\frac{{33}}{{77}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu ƯCLN của tử và mẫu bằng 1 thì phân số đã cho tối giản.\nNếu ƯCLN của tử và mẫu lớn hơn 1 thì phân số chưa tối giản. Khi đó ta đi chia cả tử và mẫu cho ƯCLN thì được phân số tối giản.\nLời giải chi tiết\nTa có 27 = 33; 123 = 3.41\n=> ƯCLN(27, 123) = 3 nên phân số đã cho chưa tối giản.\nSuy ra: \\(\\frac{{27}}{{123}} = \\frac{{27:3}}{{123:3}} = \\frac{9}{{41}}\\).\nb) Ta có: 33 = 3.11; 77 = 7.11\n=> ƯCLN(33, 77) = 11 nên phân số đã cho chưa tối giản\nSuy ra: \\(\\frac{{33}}{{77}} = \\frac{{33:11}}{{77:11}} = \\frac{3}{7}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thực hiện phép tính:\na)\\(\\frac{5}{{12}} + \\frac{3}{{16}};\\)         b) \\(\\frac{4}{{15}} - \\frac{2}{9}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng mẫu số các phân số rồi thực hiện cộng(trừ) tử số các phân số và giữ nguyên mẫu số.\nLời giải chi tiết\na) Ta có: \\(12 = 2^2.3; 16 =2^4\\) nên \\(BCNN(12, 16)=2^4.3 = 48\\) nên chọn mẫu số chung là 48\n\\(\\frac{5}{{12}} + \\frac{3}{{16}} = \\frac{{5.4}}{{12.4}} + \\frac{{3.3}}{{16.3}} = \\frac{{20}}{{48}} + \\frac{9}{{48}} = \\frac{{29}}{{48}}\\)\nb) Ta có: \\(15 =3.5; 9=3^2\\) nên \\(BCNN(15, 9)=3^2.5 = 45\\) nên chọn mẫu chung là 45.\n\\(\\frac{4}{{15}} - \\frac{2}{9} = \\frac{{4.3}}{{15.3}} - \\frac{{2.5}}{{9.5}} = \\frac{{12}}{{45}} - \\frac{{10}}{{45}} = \\frac{2}{{45}}\\)"
+    },
+    {
+        "problem": "Có 12 quả cam, 18 quả xoài và 30 quả bơ. Mẹ muốn Mai chia đều mỗi loại quà đó vào các túi quà sao cho mỗi túi đều có cả cam, xoài và bơ. Hỏi Mai có thể chia được nhiều nhất là mấy túi quả?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số túi quà nhiều nhất mà Mai có thể chia được là ƯCLN(12, 18, 30).\nLời giải chi tiết\nSố túi quà nhiều nhất mà Mai có thể chia được là ƯCLN(12, 18, 30)\nTa có: 12 = 22.3;  18 = 2.32;  30 = 2.3.5\nThừa số nguyên tố chung là 2 và 3. Số mũ nhỏ nhất của 2 là 1, của 3 là 1\n=> ƯCLN(12, 18, 30) = 2.3 = 6\nVậy Mai có thể chia được nhiều nhất 6 túi quà."
+    },
+    {
+        "problem": "Bác Nam định kì 3 tháng một lần thay dầu, 6 tháng một lần xoay lốp xe ô tô của mình. Hỏi nếu bác ấy làm hai việc đó cùng lúc vào tháng 4 năm nay, thì lần gần nhất tiếp theo bác ấy sẽ cùng làm hai việc đó vào tháng nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tháng ít nhất tiếp theo mà bác Nam làm hai việc đó cùng một tháng là BCNN(3, 6).\nLời giải chi tiết\nSố tháng ít nhất tiếp theo mà bác Nam làm hai việc đó cùng một tháng là BCNN(3, 6)\nMà 6\\( \\vdots \\)3 nên BCNN(3, 6)= 6.\nDo đó sau 6 tháng nữa bác sẽ làm hai việc cùng một tháng.\nVậy nếu bác ấy làm hai việc đó cùng lúc vào tháng 4 năm nay, thì gần nhất lần tiếp theo bác ấy sẽ cùng làm hai việc đó vào tháng 10.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Biết rằng 79 và 97 là hai số nguyên tố. Hãy tìm ƯCLN và BCNN của hai số này.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a và b là hai số nguyên tố cùng nhau thì:\nƯCLN(a, b) = 1 và BCNN(a, b) = a.b.\nLời giải chi tiết\nVì 79 và 97 là hai số nguyên tố nên:\nƯCLN(79, 97) = 1\nBCNN(79, 97) = 79.97 = 7 663\nLoigiaihay.com"
+    },
+    {
+        "problem": "Biết hai số 3a. 52 và 33.5b có ƯCLN là 33.52  và BCNN là 34 .53. Tìm a và b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tích hai số m và n bằng tích của ƯCLN(m, n) và BCNN(m, n)\nLời giải chi tiết\nTa có: ƯCLN.BCNN = 33.52.34.53 = 37.55\nTích hai số đã cho là: 3a. 52. 33.5b = 3a+3.52+b\nVì tích hai số cần tìm bằng tích của ƯCLN và BCNN nên 3a+3.52+b = 37.55\nDo đó: a + 3 = 7 và b + 2 = 5 nên a = 4 và b = 3.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bác kia chăn vịt khác thường\nBuộc đi cho được chẵn hàng mới ra\nHàng 2 xếp thấy chưa vừa\nHàng 3 xếp vẫn còn thừa một con\nHàng 4 xếp vẫn chưa tròn\nHàng 5 xếp thiếu một con mới đầy\nXếp thành hàng 7, đẹp thay\nVịt bao nhiêu? Tính được ngay mới tài.\n(Biết số vịt chưa đến 200 con).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các dấu hiệu chia hết cho 2, 3,4,7 để tìm được số vịt\nLời giải chi tiết\nGọi số vịt là x (\\(x \\in {\\mathbb{N}^*},\\,\\,x < 200\\)).\nVì hàng 5 xếp thiếu 1 con nên x chia 5 dư 4=> x có chữ số tận cùng là 4 hoặc 9.\nVì hàng 2, hàng 4 không xếp được, do đó x không chia hết được cho 2 và cho 4 .\n=> x có chữ số tận cùng là 9.\nVì số vịt xếp được thành 7 hàng nên x\\( \\vdots \\)7.\nDo đó x ∈ B(7), x có chữ số tận cùng là 9 và x < 200, nên x ∈ {49; 119; 189}.\nMà x chia cho 3 dư 1 nên x = 49.\nVậy có 49 con vịt.\nLoigiaihay.com"
+    },
+]

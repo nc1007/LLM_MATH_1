@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Gọi B là tập hợp các bạn tổ trưởng trong lớp em. Em hãy nêu tên một bạn thuộc tập B và một bạn không thuộc tập B.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tất cả các bạn tổ trưởng trong lớp em đều thuộc B.\nMột bạn thuộc B: Em tìm một bạn tổ trưởng.\nMột bạn không thuộc B: bạn không là tổ trưởng.\nLời giải chi tiết\nTất cả các bạn tổ trưởng trong lớp em đều thuộc B.\nVí dụ: An, Minh, Tâm, Huy, Khang, Ngọc\nMột bạn thuộc B: Em tìm một bạn tổ trưởng.\nVí dụ: Tâm\nMột bạn không thuộc B: bạn không là tổ trưởng.\nVí dụ: Linh Chi\nLoigiaihay.com"
+    },
+    {
+        "problem": "Khi mô tả tập hợp L các chữ cái trong từ NHATRANG bằng cách liệt kê các phần tử, bạn Nam viết:\nL = {N, H, A, T, R A, N, G}.\nTheo em, bạn Nam viết đúng hay sai?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách mô tả tập hợp: Liệt kê các phần tử của tập hợp, tức là viết các phần tử trong dấu ngoặc {} theo thứ tự tùy ý nhưng mỗi phần tử chỉ được viết một lần.\nLời giải chi tiết\nBạn Nam viết sai vì mỗi phần tử chỉ được viết một lần mà phần tử A và N bạn Nam viết 2 lần.\nCách viết đúng: L = {N;H;A;T;R;G}"
+    },
+    {
+        "problem": "Viết các tập hợp sau bằng cách liệt kê các phần tử của chúng:\nA = {x\\( \\in \\)\\(\\mathbb{N}\\)| x < 5}\nB = {\\(x \\in {\\mathbb{N}^*}\\)| x < 5}\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Cách viết các tập hợp sau bằng cách liệt kê các phần tử: Liệt kê các phần tử của tập hợp, tức là viết các phần tử trong dấu ngoặc {} theo thứ tự tùy ý, các phần tử ngăn cách nhau bởi dấu ; nhưng mỗi phần tử chỉ được viết một lần.\n+ N là tập hợp các số tự nhiên và N* là tập hợp các số tự nhiên khác 0\nLời giải chi tiết\nTa có:\nA = {0; 1; 2; 3; 4}\nB = {1; 2; 3; 4}"
+    },
+    {
+        "problem": "Gọi M là tập hợp các số tự nhiên lớn hơn 6 và nhỏ hơn 10.a) Thay thế dấu \"?\" bằng dấu \\( \\in;  \\notin \\)\n15[?] M, 9[?]M,\nb) Mô tả tập hợp M bằng hai cách.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết tập hợp M bằng hai cách liệt kê và chỉ ra tính chất đặc trưng.\nLời giải chi tiết\na) Các phần tử của tập hợp M là: 7; 8; 9. Do đó:\n\\(15 \\notin M;\\,\\,9 \\in M\\)\nb)\n\\(\\begin{array}{l}M = \\left\\{ {7;\\,8;\\,9} \\right\\}\\\\M = \\left\\{ {x \\in \\mathbb{N}|6 < x < 10} \\right\\}\\end{array}\\)."
+    },
+    {
+        "problem": "Cho hai tập hợp:\nA = {a;b;c;x;y} và B = {b;d;y;t;u;v}.\nDùng kí hiệu “\\( \\in \\)” hoặc “\\( \\notin \\)” để trả lời câu hỏi: Mỗi phần tử a, b, x, u thuộc tập hợp nào và không thuộc tập hợp nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Lý thuyết về phần tử thuộc và không thuộc một tập hợp.\n- Quan sát từng phần tử a, b, x, u, nếu phần tử nào xuất hiện trong tập hợp A thì ta viết “\\( \\in \\)” tập đó, nếu phần tử đó không xuất hiện trong tập hợp A thì kí hiệu “\\( \\notin \\)”.\nLời giải chi tiết\nPhần tử a thuộc tập hợp A và không thuộc tập hợp B nên ta kí hiệu:\\(a \\in A;a \\notin B\\)\nTương tự với các phần tử khác:\n\\(b \\in A;b \\in B\\);\n\\(x \\in A;x \\notin B\\)\n\\(u \\notin A;u \\in B\\)"
+    },
+    {
+        "problem": "Cho tập hợp hợp U = {\\(x \\in \\mathbb{N}\\)| x chia hết cho 3}.\nTrong các số 3, 5, 6, 0, 7 số nào thuộc và số nào không thuộc tập hợp U\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Một số thuộc tập U nếu số đó chia hết cho 3.\nCác số có tổng các chữ số là một số chia hết cho 3 thì chia hết cho 3.\nLời giải chi tiết\nTập hợp U là tập hợp các số tự nhiên chia hết cho 3.\nSố 3 là số tự nhiên chia hết cho 3 nên 3 thuộc U\nSố 5 là số tự nhiên không chia hết cho 3 nên 5 không thuộc U\nTương tự, số 6 và số 0 thuộc U. Số 7 không thuộc U."
+    },
+    {
+        "problem": "Bằng cách liệt kê các phần tử, hãy viết các tập hợp sau:\na) Tập hợp K các số tự nhiên nhỏ hơn 7;\nb) Tập hợp D tên các tháng (dương lịch) có 30 ngày;\nc) Tập hợp M các chữ cái tiếng Việt trong từ “ ĐIỆN BIÊN PHỦ”\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-  Liệt kê các số tự nhiên, số nào nhỏ hơn 7 thì số đó là phần tử của K.\n- Viết các số đó trong dấu ngoặc {} và các số đó chỉ được viết một lần.\nb)\n- Tìm các tháng (dương lịch) có 30 ngày.\n- Viết tên các tháng đó trong dấu ngoặc {} và các tháng đó chỉ được viết một lần.\nc)\n- Liệt kê các chữ cái xuất hiện trong từ.\n- Viết từng chữ cái trong dấu ngoặc {} và các chữ cái đó chỉ được viết một lần.\nLời giải chi tiết\na) Các số tự nhiên nhỏ hơn 7 là: 0;1;2;3;4;5;6\n=> K = {0;1;2;3;4;5;6}\nb) Các tháng dương lịch có 30 ngày là: Tháng 4, tháng 6, tháng 9, tháng 11.\n=>  D = {tháng 4; tháng 6; tháng 9; tháng 11}\nc) M = {Đ;I;Ê;N;B;P;H;U}\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bằng cách nêu dấu hiệu đặc trưng, hãy viết các tập hợp A các số tự nhiên nhỏ hơn 10.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chỉ ra tính chất đặc trưng của các phần tử.\n- Ta viết \\(n \\in \\mathbb{N}\\) có nghĩa n là một số tự nhiên.\nLời giải chi tiết\nTính chất đặc trưng của phần tử là số tự nhiên và nhỏ hơn 10.\nCách 1:\nA={n| n là số tự nhiên nhỏ hơn 10}.\nCách 2:\n\\(A = \\left\\{ {n|n \\in \\mathbb{N},n < 10} \\right\\}\\).\nCách 3:\n\\(A = \\left\\{ {n \\in \\mathbb{N}|n < 10} \\right\\}\\)."
+    },
+    {
+        "problem": "Hệ Mặt Trời gồm có Mặt Trời ở trung tâm và 8 thiên thể quay quanh Mặt Trời gọi là các hành tinh. Đó là Sao Thủy, Sao Kim, Trái Đất, Sao Hỏa, Sao Mộc, Sao Thổ, Sao Thiên Vương và Sao Hải Vương. Gọi S là tập các hành tinh của Hệ Mặt Trời. Hãy viết tập S bằng cách liệt kê các phần tử của S.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Các phần tử của một tập hợp được viết trong hai dấu ngoặc nhọn { }, ngăn cách nhau bởi dấu  “ ; ”\n+ Mỗi phần tử được liệt kê một lần , thứ tự liệt kê tùy ý.\nLời giải chi tiết\nS = {Sao Thủy; Sao Kim; Trái Đất; Sao Hỏa; Sao Mộc; Sao Thổ; Sao Thiên Vương; Sao Hải Vương}"
+    },
+    {
+        "problem": "Từ ba chữ số 0, 1 và 2, viết các số tự nhiên có ba chữ số, mỗi chữ số chỉ viết một lần.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Bước 1: Chọn chữ số hàng trăm ( khác 0)\n+ Bước 2: Chọn chữ số hàng chục ( khác chữ số hàng trăm)\n+ Bước 3: Chọn chữ số hàng đơn vị ( khác chữ số hàng trăm, hàng chục)\nLời giải chi tiết\nCác số có ba chữ số lập được là: 120, 210, 102, 201"
+    },
+    {
+        "problem": "Trong số 32 019, ta thấy:\n\"Chữ số 2 nằm ở hàng nghìn và có giá trị bằng 2 x 1 000 = 2 000\".\nHãy phát biểu theo mẫu câu đó đối với các chữ số còn lại.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chữ số hàng chục nghìn có giá trị bằng số đó nhân với 10000\n- Chữ số hàng trăm có giá trị bằng số đó nhân với 100\n- Chữ số hàng chục có giá trị bằng số đó nhân với 10.\n- Chữ số hàng đơn vị có giá trị bằng số đó.\nLời giải chi tiết\n- Chữ số 3 nằm ở hàng chục nghìn có giá trị bằng 3 x 10 000 = 30 000\n- Chữ số 0 nằm ở hàng trăm có giá trị bằng 0 x 100 = 0\n- Chữ số 1 nằm ở hàng chục có giá trị bằng 1 x 10 = 10\n- Chữ số 9 nằm ở hàng đơn vị có giá trị bằng 9."
+    },
+    {
+        "problem": "Viết số 32 019 thành tổng giá trị các chữ số của nó.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng các giá trị của các hàng đã tính ở HĐ1\nLời giải chi tiết\n32 019 = 3 x 10 000 + 2 x 1 000 + 0 x 100 + 1 x 10 + 9 x 1"
+    },
+    {
+        "problem": "Viết số 34 604 thành tổng giá trị các chữ số của nó\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\overline {ab\\,cde}  = a.10\\,000 + b.1\\,000 + c.100 + d.10 + e\\)\nLời giải chi tiết\nSố 34 604 được viết thành tổng giá trị các chữ số của nó là:\n34 604 = (3 x 10 000) + (4 x 1 000) + (6 x 100) + (0 x 10) + 4"
+    },
+    {
+        "problem": "Bác Hoa đi chợ, Bác chi mang ba loại tiền: loại (có mệnh giá) 1 nghìn (1 0000 đồng, loại 10 nghìn (10 000 đồng và loại 100 nghìn (100 000 đồng. Tổng số tiền bác phải trả là 492 nghìn đồng. Nếu mỗi loại tiền, bác mang theo không quá 9 tờ thì bác sẽ phải trả bao nhiêu tờ tiền mỗi loại, mà người bán không phải trả lại tiền thừa?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết số 492 thành tổng giá trị các chữ số của nó từ đó suy ra số tờ tiền mỗi loại phải trả.\nLời giải chi tiết\nTa biểu diễn 492 thành:\n492 = (4 x 100) + (9 x 10) + 2 x 1\nVậy để người bán hàng không phải trả lại tiền thừa thì số tờ tiền mỗi loại bác phải trả là: 4 tờ loại\n100 nghìn (100 000) đồng, 9 tờ 10 nghìn (10 000 đồng) và 2 tờ loại 1 nghìn (1 000 đồng)\nLoigiaihay.com"
+    }
+]

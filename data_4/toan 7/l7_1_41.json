@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Độ dài đoạn thẳng CA bằng:\nA. 2 cm;\nB. 3 cm;\nC. 4 cm;\nD. 5 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nXét ∆ABO và ∆ACO có:\nBAO^=OAC^ (giả thiết),\nAO là cạnh chung,\nBOA^=COA^ (giả thiết)\nDo đó ∆ABO = ∆ACO (g.c.g)\nSuy ra AB = AC (hai cạnh tương ứng)\nMà BA = 2 cm, do đó AC = 2 cm.\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 2. Điền vào chỗ còn thiếu trong các bước chứng minh sau:\n“Xét ∆ABC và ∆MNP có:\n.............,\nBC = PN.\nABC^=MNP^;\nVậy ΔABC = ∆MNP (g.c.g)”\nA. AB = MN;\nB. ACB^=MPN^ \nC. AC = MP;\nD. BAC^=NMP^",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: ΔABC = ∆MNP theo trường hợp góc – cạnh – góc nên hai cặp góc bằng nhau là hai cặp góc kề với cặp cạnh bằng nhau của hai tam giác.\nMà BC = PN và ABC^=MNP^ nên cặp góc kề tương ứng còn lại là ACB^=MPN^\nVậy ta chọn phương án B."
+    }
+]

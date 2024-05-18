@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Gieo đồng thời 2 con xúc xắc. Quan sát số chấm xuất hiện và cho biết sự kiện nào sau đây xảy ra?\na) Tổng số chấm xuất hiện trên hai con xúc xắc là số chẵn;\nb) Tổng số chấm xuất hiện trên hai con xúc xắc lớn hơn 7.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- HS tự gieo và quan sát.\n- Tính tổng số chấm xuất hiện trên hai con xúc xắc.\n- Số chia hết cho 2 là số chẵn.\nLời giải chi tiết\na) Ví dụ 1: sau khi em gieo con xúc xắc được 3 chấm và 5 chấm. Tổng số chấm là 3+5=8 chia hết cho 2 nên sự kiện “Tổng số chấm xuất hiện trên hai con xúc xắc là số chẵn” xảy ra.\nVí dụ 2: sau khi em gieo 2 con xúc xắc được 1 chấm và 2 chấm. Tổng số chấm là 1+2=3 không chia hết cho 2 nên sự kiện “Tổng số chấm xuất hiện trên hai con xúc xắc là số chẵn” không xảy ra.\nb) Ta sử dụng luôn ví dụ 1 và ví dụ 2 bên trên:\nỞ ví dụ 1: tổng số chấm bằng 8 (lớn hơn 7) nên sự kiện “Tổng số chấm xuất hiện trên hai con xúc xắc lớn hơn 7” xảy ra.\nỞ ví dụ 2:  tổng số chấm bằng 3 ( không lớn hơn 7) nên sự kiện “Tổng số chấm xuất hiện trên hai con xúc xắc lớn hơn 7” không xảy ra."
+    },
+    {
+        "problem": "Trong hộp có 10 tấm thẻ ghi các số 2, 2, 3, 3, 3, 5, 5, 5, 5, 5. Yêu cầu 5 bạn lần lượt rút ngẫu nhiên 1 thẻ, quan sát số ghi trên thẻ rồi trả lại thẻ vào hộp. Sau mỗi lần một bạn rút, hãy cho biết các sự kiện sau có xảy ra hay không?\na) Rút được thẻ ghi số 5;\nb) Không rút được thẻ ghi số 2.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n+ 5 bạn lên rút thẻ.\n+ Kiểm tra trong 5 bạn có bạn nào rút được thẻ ghi số 5 hay không.\nb) Kiểm tra trong 5 bạn có bạn nào rút được thẻ ghi số 2 hay không.\nLời giải chi tiết\na) Nếu trong 5 bạn đó, có bạn rút được thẻ ghi số 5 thì sự kiện “Rút được thẻ ghi số 5” xảy ra.\nNếu cả 5 bạn đều không rút được thẻ ghi số 5 thì sự kiện “Rút được thẻ ghi số 5” không xảy ra.\nb) Nếu trong 5 bạn đó, có bạn rút được thẻ ghi số 2 thì sự kiện “Không rút được thẻ ghi số 2” không xảy ra.\nNếu cả 5 bạn đều không rút được thẻ ghi số 2 thì sự kiện “Không rút được thẻ ghi số 2” xảy ra."
+    },
+    {
+        "problem": "Gieo một con xúc xắc.\na. Liệt kê các kết quả có thể để sự kiện “Số chấm xuất hiện là số nguyên tố” xảy ra;\nb. Nếu số chấm xuất hiện là 5 thì sự kiện “Số chấm xuất hiện không phải là 6” có xảy ra hay không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a.\n- Gieo một con xúc xắc có 6 kết quả có thể: 1; 2; 3; 4; 5; 6.\n- Tìm số nguyên tố trong 6 số trên: Số nguyên tố là số chỉ có ước là 1 và chính nó.\n- Các kết quả của sự kiện là các số nguyên tố trong 6 số trên.\nb. Sự kiện “Số chấm xuất hiện không phải là 6” xảy ra nếu số chấm gieo được là số khác số 6.\nLời giải chi tiết\na. Các kết quả có thể để sự kiện “Số chấm xuất hiện là số nguyên tố” xảy ra là: 2, 3, 5 vì đây là các số nguyên tố.\nb. Nếu số chấm xuất hiện là 5 thì sự kiện “Số chấm xuất hiện không phải là 6” xảy ra vì số 5 khác số 6."
+    },
+    {
+        "problem": "Trò chơi dành cho hai người chơi. Mỗi người chơi chọn một trong sáu số 1, 2, 3, 4, 5, 6 rồi gieo xúc xắc năm lần liên tiếp. Mỗi lần gieo, nếu xuất hiện mặt có số chấm bằng số đã chọn thì được 10 điểm, ngược lại bị trừ 5 điểm. Ai được nhiều điểm hơn sẽ thắng.\nAn và Bình cùng chơi, An chọn số 3 và Bình chọn số 4. Kết quả gieo của An và Bình lần lượt là 2, 3, 6, 4, 3 và 4, 3, 4, 5, 4. Hỏi An hay Bình là người thắng?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính điểm của An và Bình: Tính điểm cho mỗi lần gieo.\nCoi việc bị trừ 5 điểm là được -5 điểm.\nLấy số điểm của 5 lần cộng lại. Bạn nào có số điểm cao hơn thì bạn đó thắng.\nLời giải chi tiết\nTính điểm của An: An chọn số 3\nLần gieo 1: An được -5 điểm.\nLần 2: An được 10 điểm.\nLần 3: An được -5 điểm.\nLần 4: An được -5 điểm.\nLần 5: An được 10 điểm.\nTổng số điểm của An là: (-5)+10+(-5)+(-5)+10=5 điểm.\nTính điểm của Bình: Bình chọn số 4\nLần gieo 1: Bình được 10 điểm.\nLần 2: Bình được -5 điểm.\nLần 3: Bình được 10 điểm.\nLần 4: Bình được -5 điểm.\nLần 5: Bình được 10 điểm.\nTổng số điểm của Bình là: 10+(-5)+10+(-5)+10 = 20 điểm.\nTa thấy Bình được nhiều điểm hơn An ( 20 > 5)\nVậy Bình là người thắng."
+    }
+]

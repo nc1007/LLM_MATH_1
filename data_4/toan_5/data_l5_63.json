@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Một ô tô đi từ A đến B với vận tốc là v1, cùng lúc đó xe máy đi từ B đến A với vận tốc là v2. Độ dài quãng đường AB là s. Công thức tính thời gian đi để hai xe gặp nhau là:\nA. tgn = s\t: (v1 + v2)\nB. tgn = s\t: (v1 - v2)\nC. tgn = s\t: (v1 x v2)\nD. tgn = s\t: (v1 : v2)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Theo đề bài, ô tô và xe máy xuất phát cùng lúc, thời gian đi để gặp nhau bằng quãng đường chia cho tổng hai vận tốc, hay tgn = s\t: (v1 + v2)."
+    },
+    {
+        "problem": "Câu 3: Hai ca nô khởi hành cùng một lúc, đi ngược chiều nhau trên quãng đường sông AB dài 153km. Vận tốc của ca nô đi từ A đến B là 36 km/giờ và hơn vận tốc ca nô đi từ B đến A là 4 km/giờ. Hỏi kể từ khi khởi hành, sau bao lâu hai ca nô gặp nhau?\nA.\t2,25 giờ\nB.\t3,825 giờ\nC.\t4,78 giờ\nD.\t38,25 giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc của ca nô đi từ B đến A là:\n36 – 4 = 32 (km/giờ)\nTổng vận tốc hai ca nô là:\n36 + 32 = 68 (km/giờ)\nKể từ khi khởi hành, hai ca nô gặp nhau sau khi đi số giờ là:\n153 : 68 = 2,25 (giờ)\nĐáp số: 2,25 giờ."
+    },
+    {
+        "problem": "Câu 5: Hai thành phố A và B cách nhau 135km. Một xe máy đi từ A đến B với vận tốc 42 km/giờ và một xe đạp đi từ B đến A với vận tốc 12 km/giờ. Hỏi sau bao lâu hai xe gặp nhau? Lúc gặp nhau xe máy cách B bao nhiêu ki-lô-mét?\nA.\t4,5 giờ; 81km\nB.\t2,5 giờ; 105km\nC.\t4,5 giờ; 54km\nD.\t2,5 giờ; 30km",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng vận tốc của hai xe là:\n42 + 12 = 54 (km/giờ)\nThời gian đi để hai xe gặp nhau là:\n135 : 54 = 2,5 (giờ)\nChỗ gặp nhau cách B số ki-lô-mét là:\n12 × 2,5 = 30(km)\nĐáp số: 2,5 giờ; 30km."
+    },
+    {
+        "problem": "Câu 8: Cùng một lúc, một ô tô đi từ tỉnh A đến tỉnh B với vận tốc lớn hơn vận tốc xe máy đi từ tỉnh B đến tỉnh A là 15km/giờ. Sau 2 giờ ô tô và xe máy gặp nhau. Khoảng cách từ tỉnh A đến tỉnh B là 150km. Tính vận tốc mỗi xe. \nA.\tÔ tô: 48 km/giờ; xe máy: 33 km/giờ\nB.\tÔ tô: 45 km/giờ; xe máy: 30 km/giờ\nC.\tÔ tô: 55 km/giờ; xe máy: 40 km/giờ\nD.\tÔ tô: 60 km/giờ; xe máy: 45 km/giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng vận tốc hai xe là:\n150 : 2 = 75 (km/giờ)\nVận tốc ô tô là:\n \t(75 + 15) : 2 = 45 (km/giờ)\nVận tốc xe máy là:\n45 – 15 = 30 (km/giờ)\nĐáp số: \tÔ tô : 45 km/giờ; \nXe máy: 30 km/giờ."
+    }
+]

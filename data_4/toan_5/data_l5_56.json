@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 7: Một máy bay bay từ Hà Nội đến thành phố Hồ Chí Minh hết 1 giờ 45 phút và cần tới thành phố Hồ Chí Minh lúc 9 giờ. Hỏi máy bay phải cất cánh từ Hà Nội vào lúc nào?\nA.\t7 giờ 15 phút\nB.\t7 giờ 25 phút\nC.\t7 giờ 35 phút\nD.\t7 giờ 45 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Máy bay phải cất cánh từ Hà Nội vào lúc:\n9 giờ − 1 giờ 45 phút  = 7 giờ 15 phút\nĐáp số: 7 giờ 15 phút."
+    },
+    {
+        "problem": "Câu 10: Tính: \n21 tuần 1 ngày – 12 tuần 3 ngày + 4 tuần 2 ngày\nA.\t12 tuần\nB.\t5 tuần 5 ngày\nC.\t4 tuần 5 ngày\nD.\t13 tuần",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "21  tuần 1 ngày − 12 tuần 3 ngày  + 4 tuần 2 ngày  \n= 20 tuần 8 ngày − 12 tuần 3 ngày  + 4 tuần 2 ngày\n= 8 tuần 5 ngày  + 4 tuần 2 ngày\n= 12 tuần 7 ngày\n= 13 tuần"
+    },
+    {
+        "problem": "Câu 12: Vân làm bài tập văn hết 1 giờ 15 phút, Vân làm bài tập toán hết ít thời gian hơn bài tập văn 27 phút. Hỏi Vân làm cả bài tập văn và bài tập toán hết bao nhiêu thời gian?\nA.\t1 giờ 42 phút\nB.\t1 giờ 53 phút\nC.\t2 giờ 3 phút\nD.\t2 giờ 30 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian Vân làm bài tập toán là:\n1 giờ 15 phút − 27 phút = 75 phút − 27 phút = 48 phút\nThời gian Vân làm cả bài tập văn và bài tập toán là:   \n1 giờ 15 phút + 48 phút = 1 giờ 63 phút = 2 giờ 3 phút\nĐáp số: 2 giờ 3 phút."
+    },
+    {
+        "problem": "Câu 13: Một người đi xe đạp từ A lúc 8 giờ 45 phút và đến B lúc 10 giờ 20 phút. Khi đi từ B về A người đó đi xe máy nên hết ít thời gian hơn lúc đi là 0,45 giờ. Tính thời gian người đó đi xe máy từ B về A.\nA.\t1 giờ 2 phút\nB.\t1 giờ 8 phút\nC.\t2 giờ 2 phút\nD.\t2 giờ 18 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 0,45 giờ = 60 phút × 0,45 = 27 phút.\nThời gian người đó đi từ A đến B là:\n10 giờ 20 phút − 8 giờ 45 phút = 9 giờ 80 phút − 8 giờ 45 phút = 1 giờ 35 phút\nThời gian người đó đi từ B về A là:  \n1 giờ 35 phút − 27 phút = 1 giờ 8 phút\nĐáp số: 1 giờ 8 phút."
+    }
+]

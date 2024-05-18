@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Thay số thích hợp vào dấu “?”.\n\\(\\dfrac{{ - 10}}{{16}} = \\dfrac{?}{{56}} = \\dfrac{{ - 20}}{?} = \\dfrac{{50}}{?}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai phân số \\(\\dfrac{a}{b} = \\dfrac{c}{d}\\) thì \\(a.d = b.c\\)\nLời giải chi tiết\n\\(\\dfrac{{ - 10}}{{16}} = \\dfrac{?}{{56}}\\) nên \\((-10).56 = 16. ?\\) . Do đó, dấu “?” thứ nhất là  \\( - 10.56:16 =  - 35\\)\n\\(\\dfrac{{-10}}{{16}} = \\dfrac{{ - 20}}{?}\\) nên \\((-10).? = 16. (-20)\\) . Do đó, dấu “?” thứ hai là \\(16.\\left( { - 20} \\right):\\left( { -10} \\right) = 32\\)\n\\(\\dfrac{{ - 10}}{{16}} = \\dfrac{{50}}{?}\\) nên \\((-10).? = 16. 50\\) . Do đó, dấu “?” thứ ba là \\(16.50:\\left( { - 10} \\right) =  - 80\\)\nVậy \\(\\dfrac{{ - 10}}{{16}} = \\dfrac{{ - 35}}{{56}} = \\dfrac{{ - 20}}{{32}} = \\dfrac{{50}}{{ - 80}}\\)"
+    },
+    {
+        "problem": "Một bác nông dân thu hoạch và mang cà chua ra chợ bán. Bác đã bán được 20 kg, tức là \\(\\dfrac{2}{5}\\) số cà chua. Hỏi bác nông dân đã mang bao nhiêu kilogam cà chua ra chợ bán?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\dfrac{2}{5}\\) của số cà chua mang ra chợ bằng 20kg.\nMuốn tìm 1 số biết \\(\\dfrac{m}{n}\\) của nó bằng b cho trước ta tính \\(b :\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\nLời giải chi tiết\nSố cà chua mang ra chợ bán là: \\(20 : \\dfrac{2}{5} = \\dfrac{{20.5}}{2} = 50\\left( {kg} \\right)\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Con người ngủ khoảng 8 giờ mỗi ngày. Nếu trung bình một năm có \\(365\\dfrac{1}{4}\\) ngày, hãy cho biết số ngày ngủ trung bình mỗi năm của con người.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Bước 1: Tính số giờ ngủ trong năm\nBước 2: Tính số ngày ngủ trong năm\nCách 2: Bước 1: Tính số giờ ngủ chiếm bao nhiêu phần của 1 ngày.\nBước 2: Số ngày ngủ trong năm= Số ngày trong năm. Số phần ngủ trong 1 ngày\nLời giải chi tiết\nĐổi \\(365\\dfrac{1}{4} = \\dfrac{1461}{4}\\)\nCách 1:\nSố giờ ngủ trong năm của con người là: 8. \\(\\dfrac{1461}{4}\\) = 2922 (giờ)\nSố ngày ngủ trong năm của con người là: 2922 : 24 = \\(121\\dfrac{3}{4}\\) (ngày)\nCách 2:\nMỗi ngày con người ngủ \\(8:24 = \\dfrac{1}{3}\\) ngày.\nSố ngày ngủ trong năm là: \\( \\dfrac{1461}{4}.\\dfrac{1}{3} = \\dfrac{{1461}}{{12}}=121\\dfrac{3}{4}\\) ( ngày)"
+    },
+    {
+        "problem": "Các phân số sau được sắp xếp theo một quy luật, hãy quy đồng các phân số để tìm quy luật, rồi viết hai phân số kế tiếp.\n\\(\\dfrac{1}{8},\\dfrac{1}{{20}},\\dfrac{{ - 1}}{{40}},\\dfrac{{ - 1}}{{10}},...,...\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Bước 1: Quy đồng mẫu số các phân số:\nMẫu chung: BCNN(8,20,40,10)\nTìm thừa số phụ.\nLấy tử và mẫu của từng phân số nhân với thừa số phụ tương ứng.\n+ Bước 2: Tìm quy luật\nLời giải chi tiết\nBCNN(8,20,40,10)=40.\n\\(\\begin{array}{l}\\dfrac{1}{8} = \\dfrac{{1.5}}{{8.5}} = \\dfrac{5}{{40}}\\\\\\dfrac{1}{{20}} = \\dfrac{{1.2}}{{20.2}} = \\dfrac{2}{{40}} = \\dfrac{{5 - 3}}{{40}}\\\\\\dfrac{{ - 1}}{{40}} = \\dfrac{{2 - 3}}{{40}}\\\\\\dfrac{{ - 1}}{{10}} = \\dfrac{{ - 1.4}}{{10.4}} = \\dfrac{{ - 4}}{{40}} = \\dfrac{{ - 1 - 3}}{{40}}\\end{array}\\)\nTừ cách phân tích trên, ta thấy phân số tiếp theo có mẫu số là 40 và tử số kém tử số của phân số liền trước 3 đơn vị\nHai phân số tiếp: \\(\\dfrac{{ - 4 - 3}}{{40}} = \\dfrac{{ - 7}}{{40}};\\dfrac{{ - 7 - 3}}{{40}} = \\dfrac{{ - 10}}{{40}} = \\dfrac{{ - 1}}{4}\\)"
+    },
+]

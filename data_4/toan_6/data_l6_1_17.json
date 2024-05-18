@@ -1,0 +1,152 @@
+[
+    {
+        "problem": "B. Muốn cộng hai số nguyên âm, ta cộng hai giá trị tuyệt đối của chúng với nhau rồi đặt dấu “-” trước kết quả\nC. Muốn cộng hai số nguyên âm, ta trừ hai giá trị tuyệt đối của chúng với nhau (số lớn trừ số nhỏ)\nD. Muốn cộng hai số nguyên âm, ta trừ hai giá trị tuyệt đối của chúng với nhau (số lớn trừ số nhỏ) rồi đặt dấu “-” trước kết quả",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMuốn cộng hai số nguyên âm, ta cộng hai giá trị tuyệt đối của chúng với nhau rồi đặt dấu “-” trước kết quả  .\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Cho x − 236  là số đối của số 0 thì x là:\nA. −234\nB. 234\nC. 0 \nD. 236",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố đối của số 0 là 0.\nVì x − 236  là số đối của số 0 nên\nx −236=0\nx  = 0 + 236\nx = 236.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Cho E = {3; −8; 0} . Tập hợp F gồm các phần tử của E và các số đối của chúng là?­\nA. F = {3; 8; 0; −­3}\nB. F = {−3; −8; 0}\nC. F = {3; −8; 0; −3}\nD. F = {3; −8; 0; −3; 8}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTập hợp F gồm các phần tử của E và E = {3; −8; 0} nên 3; −8; 0 là các phần tử của tập F\nSố đối của 3  là -3\nSố đối của -8  là 8\nSố đối của 0 là 0\nDo đó tập hợp F gồm các phần tử của E và các số đối của chúng là F = {3; −8; 0; −3; 8}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Cho M = {−5; 8; 7} . Kết luận nào sau đây là đúng?\nA. M∈Z\nB. M⊂N\nC. M⊂N∗\nD. M⊂Z",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: M = {−5; 8; 7} suy ra M⊂Z .\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Cho các số sau: 1280; −291; 43; −52; 28; 1; 0 . Các số đã cho sắp xếp theo thứ tự giảm dần là:\nA. −291; −52; 0; 1; 28; 43; 1280\nB. 1280; 43; 28; 1; 0; −52; −291\nC. 0; 1; 28; 43; −52; −291; 1280\nD. 1280; 43; 28; 1; 0; −291; −52",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số được xếp theo thứ tự giảm dần là:\n1280; 43; 28; 1; 0; −52; −291.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Tính tổng của các số nguyên x, biết: −7 < x ≤ 5.\nA. 6\nB. 0\nC. −6\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì −7 < x ≤ 5 nên x∈{−6; −5; −4; −3; −2; −1; 0; 1; 2; 3; 4; 5}Tổng các số nguyên xx là: (−6) + (−5) + (−4) + (−3) + (−2) + (−1) + 0 + 1 + 2 + 3 + 4 + 5\n= (−6) + [(−5) + 5] + [(−4) + 4] + [(−3) + 3] + [(−2) + 2] + [(−1) + 1] + 0\n= (−6) + 0 + 0 + 0 + 0 + 0 + 0\n= −6\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Bỏ ngoặc rồi tính: (52 – 69 + 17) − (52 + 17) ta được kết quả là\nA. 69\nB. 0\nC. −69\nD. 52",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \n(52 – 69 + 17) − (52 + 17)\n= 52 – 69 + 17 – 52 − 17\n= (52 − 52) + (17 − 17) − 69\n= 0 + 0 − 69\n= −69\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Tìm x biết: 17 − (x + 84) = 107\nA. −174\nB. 6\nC. −6\nD. 174",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 17−(x+84)=107\nx + 84 = 17 − 107\nx + 84 = −(107 − 17)\nx + 84 = −90\nx = −90 − 84\nx = −(90 + 84)\nx = −174\nVậy x = −174.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Tìm x biết: 44 – x – 16 = −60\nA. x = −88\nB. x = −42\nC. x = 42\nD. x = 88",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n44 – x – 16 = −60\n (44 − 16) – x = −60\n28 – x = −60\nx = 28 − (−60)\nx = 28 + 60\nx = 88\nVậy x = 88.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Chọn câu trả lời đúng:\nA. (−9) + 19 = 19 + (−9) \nB. (−9) + 19 > 19 + (−9)\nC. (−9) + 19 < 19 + (−9)\nD. (−9) + (−9) = 19 + 19",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì (−9) + 19 = 10; 19 + (−9) = 10\nnên (−9) + 19 = 19 + (−9)\nDo đó câu A đúng, câu B, C sai.\nVì (−9) + (−9) = −18; 19 + 19 = 38; −18 ≠ 38 nên câu D sai.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Tìm x∈Z, biết: 8⋮x và 15⋮x .\nA. x = 1\nB. x∈{−1; 1} \nC. x = −1\nD. x∈{−1; 1; 2; 3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì 8⋮x và 15⋮x ⇒ x∈ ƯC(8, 15)Ư(8) = {−8; −4; −2; −1; 1; 2; 4; 8}Ư(15) = {−15; −5; −3; −1; 1; 3; 5; 15}\nVậy: ƯC(8,15) = {−1; 1}\nHay x∈{−1; 1}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 12. Thực hiện phép tính 455 − 5.[(−5) + 4.(−8)] ta được kết quả là\nA. Một số chia hết cho 10\nB. Một số chẵn chia hết cho 3\nC. Một số lẻ\nD. Một số lẻ chia hết cho 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có\n455 − 5.[(−5) + 4.(−8)]\n= 455 − 5.(−5 − 32)\n= 455 − 5.[−(5 + 32)]\n= 455 − 5.(−37)\n= 455 + 185\n= 640\nNhận thấy 640⋮10 nên chọn A.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13. Tính (−9).(−12) − (−13).6\nA. 186\nB. 164\nC. 30\nD. 168",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n(−9).(−12) − (−13).6\n = 108 − (−78)\n= 108 + 78\n= 186\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 14. Thực hiện phép tính  −567 − (−113) + (−69) − (113 − 567) ta được kết quả là\nA. 69\nB. −69\nC. 96\nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−567 − (−113) + (−69) − (113 − 567)\n= −567 − (−113) + (−69) – 113 + 567\n= (−567 + 567) − (−113 + 113) + (−69)\n= 0 – 0 + (−69)\n= −69.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15. Tìm x, biết: (x − 12).(8 + x) = 0\nA. x = 12\nB. x = −8\nC. x = 12 hoặc x = −8\nD. x = 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa  có (x − 12).(8 + x) = 0\nTH1:\n x – 12 = 0\nx = 12\nTH2:\n8 + x = 0\nx = −8\nVậy x = 12; x = −8.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 16. Tính −4.[12:(−2)^{2 } − 4.(−3)] − (−12)^{2 }  ta được kết quả là\nA. −144\nB. 144\nC. −204\nD. 204",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n − 4.[12:(−2)^{2}  − 4.(−3)] − (−12)^{2} \n= −4.[12:4 − (−12)] − 144\n= −4.(3 + 12) − 144\n= −4.15 − 144\n= −60 − 144\n= −(60 + 144)\n= −204\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 17. Cho  A = −128.[(−25) + 89] + 128.(89 − 125) . Chọn câu đúng.\nA. Giá trị của A là số có chữ số tận cùng là 0\nB. Giá trị của A là số lẻ\nC. Giá trị của A là số dương\nD. Giá trị của A là số chia hết cho 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = −128.[(−25) + 89] + 128.(89 − 125)\n= −128.(−25) − 128.89 + 128.89 + 128.(−125)\n= (−128.89 + 128.89) − [128.(−25) − 128.(−125)]\n= 0 − 128.[(−25) + 125]\n= −128.100\n= −12800.\nVậy giá trị của A là số chẵn, số âm có chữ số tận cùng là 0 và không chia hết cho 3.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 18. Cho x∈Z và −5 là bội của x + 2 thì giá trị của x bằng:\nA. −1; 1; 5; −5\nB. ±3; ±7\nC. −1; −3; 3; −7\nD. 7; −7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: -5 là bội của x + 2 suy ra x + 2 là ước của -5.\nMà U(−5) = {±1; ±5} nên suy ra x+2∈{±1; ±5}\nXét bảng:\nVậy x∈{−1; 3; −3; −7}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 19. Cho x1 là số nguyên thỏa mãn  (x + 3)^{3} :3 – 1 = −10 . Chọn câu đúng.\nA. x1 > −4\nB. x1 > 0\nC. x1 = −5 \nD. x1 < −5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(x + 3)^{3} :3 – 1 = −10\n(x + 3)^{3} :3 = −10 + 1\n(x + 3)^{3} :3 = −9\n(x + 3)^{3 } = (−9).3\n(x + 3)^{3 } = −27\n(x+3)^{3 } = (−3)^{3} \nx + 3 = −3\nx = −3 – 3\nx = −6.\nVậy x1 = −6 < −5.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 20. Cho x là số nguyên và  x + 1  là ước của 5 thì giá trị của x là:\nA. 0; −2; 4; −6\nB. 0; −2; 4; 6\nC. 0; 1; 3; 6\nD. 2; −4; −6; 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: (x + 1)∈U(5) ⇒ (x + 1)∈{−5; −1; 1; 5}.\nXét bảng:\nVậy x∈{0; 4; −2; −6}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 21. Khi x = −12 giá trị của biểu thức (x − 8)(x + 17) là:\nA. −100\nB. 100\nC. −96\nD. Một kết quả khác",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay  x = −12  vào biểu thức ta được:\n(−12 − 8)(−12 + 17) = (−20).5 = −100\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 22. Chọn câu đúng nhất. Với a, b, c∈Z :\nA. a(b − c) − a(b + d) = −a(c + d)\nB. a(b + c) − b(a − c) = (a + b)c.\nC. A, B đều sai\nD. A, B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Đáp án A:\nXét a(b − c) − a(b + d) = −a(c + d), với a, b, c, d∈Z\nVT = a(b − c) − a(b + d)\n= ab – ac – ab − ad\n= (ab − ab) − (ac + ad)\n= 0 − a(c + d)\n= −a(c + d)=VP\nVậy a(b − c) − a(b + d) = −a(c + d) với a, b, c, d∈Z hay A đúng.\n+ Đáp án B:\n Với a, b, c∈Z xét a(b + c) − b(a − c) = (a + b)c.\nVT = a(b + c) − b(a − c)\n= ab + ac – ba + bc\n= (ab − ba) + (ac + bc)\n= 0 + c(a + b)\n= c(a + b)\nVP = (a + b)c\n⇒ VT = VP\nVậy a(b + c) − b(a − c) = (a + b)c. Hay B đúng.\nVậy cả A, B đều đúng\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 23. Tìm các số x, y, z biết: x + y = 11, y + z = 10, z + x = −3\nA. x = −1; y = 12; z = −2.\nB. x = −1; y = 11; z = −2.\nC. x = −2; y = −1; z = 12.\nD. x = 12; y = −1; z = −2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: x + y = 11, y + z = 10, z + x = −3\n nên\n(x + y) + (y + z) + (z + x) = 11 + 10 + (−3)\n⇔ x + y + y + z + z + x = 21 + (−3)\n⇔ (x + x) + (y + y) + (z + z) = 18\n⇔ 2x + 2y + 2z = 18\n⇔ 2(x + y + z) = 18\n⇔ x + y + z = 9\nVậy x + y + z = 9.\n+) z = (x + y + z) − (x + y) = 9 – 11 = −2+)x = (x + y + z) − (y + z) = 9 – 10 = −1+) y = (x + y + z) − (x + z) = 9 − (−3) = 12Vậy x = −1; y = 12; z = −2.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 24. Có bao nhiêu số nguyên n  thỏa mãn  (2n − 1)⋮(n + 1) ?\nA. 1\nB. 2 \nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n2n – 1 = 2n + 2 – 3 = (2n + 2) – 3 = 2(n + 1) − 3\nVì (2n − 1)⋮(n + 1) nên [2(n + 1) − 3]⋮(n + 1)\nMà 2(n + 1)⋮(n + 1) , suy ra −3⋮(n + 1)\n ⇒ n + 1∈U(−3) = {±1; ±3}\nTa có bảng sau:\nVậy n∈{−4; −2; 0; 2}\nDo đó có 4 số nguyên nn thỏa mãn đề bài.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 25. Tìm giá trị lớn nhất của biểu thức: C = −(x−5)^{2 } + 10\nA. −10\nB. 5\nC. 0\nD. 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nC = −(x − 5)^{2 } + 10\nTa có: (x−5)^{2 } ≥ 0, ∀x∈Z ⇒ −(x − 5)^{2 } ≤ 0, ∀x∈Z\n⇒ −(x−5)^{2 } + 10 ≤ 10, ∀x∈Z\nSuy ra C ≤ 10∀x∈Z\nC = 10 khi (x−5)^{2 } = 0⇒ x −  5 = 0 ⇒ x = 5\nVậy giá trị lớn nhất của C là 10 khi x = 5 .\nĐáp án cần chọn là: D"
+    }
+]

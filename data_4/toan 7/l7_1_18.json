@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "B. có một cạnh chung; \nC. hai góc không chung đỉnh; \nD. có hai cạnh nằm về hai phía của đường thẳng chứa cạnh chung.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHai góc kề nhau là hai góc có đỉnh chung, một cạnh chung và hai cạnh còn lại nằm về hai phía của đường thẳng chứa cạnh chung đó."
+    },
+    {
+        "problem": "Câu 2. Hai góc bù nhau là hai góc có tổng số đo bằng:\nA. 120°; \nB. 90°; \nC. 60°; \nD. 120°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nHai góc bù nhau tổng số đo bằng 180^{o} ."
+    },
+    {
+        "problem": "Câu 5. Hai góc đối đỉnh thì:\nA. bằng nhau; \nB. có tổng bằng 180°; \nC. kề nhau; \nD. có hiệu bằng 180°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nHai góc đối đỉnh thì bằng nhau."
+    },
+    {
+        "problem": "Câu 14. Chọn câu trả lời đúng.\nA. Hai góc bù nhau là hai góc có tổng số đo bằng 180^{o} ; \nB. Hai góc kề nhau là hai góc có tổng số đo bằng 180^{o} ; \nC. Hai góc đối đỉnh là hai góc có tổng số đo bằng 180^{o} ; \nD. Hai góc kề bù là hai góc có tổng số đo bằng 90^{o} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nHai góc bù nhau là hai góc có tổng số đo bằng 180^{o} .\nHai góc kề nhau là hai góc có đỉnh chung, có một cạnh chung và hai cạnh còn lại nằm về hai phía của đường thẳng chứa cạnh chung đó.\nHai góc đối đỉnh là hai góc mà mỗi cạnh của góc này là tia đối của một cạnh của góc kia.\nHai góc kề bù là hai góc vừa kề nhau, vừa bù nhau."
+    },
+    {
+        "problem": "Câu 15.Cho cặp góc đối đỉnh tOz^ và t'Oz'^ (Oz và Oz’ là hai tai đối nhau). Biết 3.tOz^'=tOz^. Tính các góc tOz^ và t'Oz'^.\nA. tOz^=t'Oz'^=45°; \nB. tOz^=t'Oz'^=105°; \nC. tOz^=t'Oz'^=135°; \nD. t'Oz'^=135°,tOz^=45°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì Oz và Oz’ là hai tai đối nhau nên ta có: tOz^+tOz'^=180° (hai góc kề bù)\nMà 3.tOz'^=tOz^ ⇒tOz'^=\\frac{1}{3}tOz^\n⇒zOt^+\\frac{1}{3}tOz^=180°\n⇒\\frac{4}{3}.zOt^=180°⇒zOt^=135°\nVì tOz^ và t'Oz'^ là hai góc đối đỉnh nên zOt^=z'Ot'^=135°\nVậy zOt^=z'Ot'^=135°."
+    }
+]

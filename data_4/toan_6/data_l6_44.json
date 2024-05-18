@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "A. 1\nB. 2\nC. 3\nD. Vô số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCó 1 và chỉ 1 đường thẳng đi qua 2 điểm phân biệt cho trước. Vậy có duy nhất 1 đường thẳng đi qua hai điểm A và B.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Vẽ ba đường thẳng phân biệt bất kì, số giao điểm của ba đường thẳng đó không thể là:\nA. 0\nB. 1 hoặc 2  \nC. 4\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVới 3 đường thẳng phân biệt ta có các trường hợp sau:\n+ Không có đường thẳng nào cắt nhau nên không có điểm chung.\n+ Hai đường thẳng cắt nhau, đường thẳng còn lại không cắt hai đường thẳng đó, khi đó có 1 điểm chung.\n+ Ba đường thẳng đó có đôi một cắt nhau thì có ba điểm chung.\nVậy không thể có trường hợp ba đường thẳng phân biệt bất kì mà có 4 điểm chung.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11. Lấy bốn điểm M, N, P, Q, K trong đó không có ba điểm nào thẳng hàng. Cứ qua hai điểm ta vẽ một đường thẳng. Số đường thẳng có thể vẽ được là:\nA. 3\nB. 10\nC. 12\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTừ 5 điểm M, N, P, Q, K trong đó không có ba điểm nào thẳng hàng ta có thể vẽ được các đường thẳng đi qua hai điểm bất kì như sau:\n+ Với điểm M ta có thể nối với các điểm: N, P, Q, K để tạo thành 4 đường thẳng phân biệt.\n+ Với điểm N ta có thể nối với các điểm: P, Q, K để tạo thành 3 đường thẳng phân biệt.\n+ Với điểm P ta có thể nối với các điểm: Q, K để tạo thành 2 đường thẳng phân biệt.\n+ Với điểm Q ta có thể nối với điểm K để tạo thành 1 đường thẳng .\nVậy từ 5 điểm M, N, P, Q, K trong đó không có ba điểm nào thẳng hàng ta có thể vẽ được tất cả:\n4 + 3 + 2 + 1 = 10 đường thẳng phân biệt.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 12. Cho trước 6 điểm trong đó có 4 điểm thẳng hàng. Vẽ các đoạn thẳng đi qua các cặp điểm. Hỏi vẽ được bao nhiêu đoạn thẳng?\nA. 15\nB. 16\nC. 14\nD. 13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì qua 2 điểm luôn vẽ được một đoạn thẳng Nên qua 6 điểm vẽ được số đoạn thẳng là:\n\\frac{66−1}{2}=15 (đoạn thẳng) \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 14. Cho 24 điểm trong đó có 6 điểm thẳng hàng. Qua 2 điểm ta kẻ được một đường thẳng. Hỏi kẻ được tất cả bao nhiêu đường thẳng?\nA. 276\nB. 290\nC. 262\nD. 226",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGiả sử trong 24 điểm không có 3 điểm nào thẳng hàng tất cả vẽ được: \\frac{24.24−1}{2}=276 (đường thẳng) Qua 6 điểm thẳng hàng vẽ được số đường thẳng là:\\frac{6.6−1}{2}=15 (đường thẳng) Nhưng qua 6 điểm thẳng hàng chỉ vẽ được một đường thẳng Nên qua 24 điểm trong đó có 6 điểm thẳng hàng vẽ được: 276 – 15 + 1 = 262 (đường thẳng) \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 17. Em hãy chọn phát biểu sai trong các phát biểu sau:\nA. Góc bẹt là góc có hai cạnh là hai tia đối nhau\nB. A^ được gọi là góc tù nếu A^>90°\nC. Nếu tia Ot là tia phân giác xOy^ của thì  xOt^=yOt^=\\frac{xOy^}{2}\nD. Tam giác MNP là hình gồm các đoạn thẳng MN, MP và NP khi ba điểm M, N, P không thẳng hàng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Góc bẹt là góc có hai cạnh là hai tia đối nhau (đúng loại A)\n+ A^ được gọi là góc tù nếu A^>90°\n (sai vì A^ được gọi là góc tù nếu 90°<A^<180° chọn B)                            \n + Nếu tia Ot là tia phân giác của xOy^ thì xOt^=yOt^=\\frac{xOy^}{2}\n (đúng loại C)\n + Tam giác MNP là hình gồm các đoạn thẳng MN, MP và NP khi ba điểm M, N, P không thẳng hàng. (đúng loại D)                                  \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 19. Cho 10  tia phân biệt chung gốc O. Xóa đi ba tia trong đó thì số góc đỉnh O giảm đi bao nhiêu?\nA. 3\nB. 12\nC. 24\nD. 48",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVới 10 tia chung gốc O thì số góc tạo thành là \\frac{1010−1}{2}=45 góc\nVới 7 tia chung gốc O thì số góc tạo thành là \\frac{7.7−1}{2}=21 góc\nVậy số góc giảm đi khi xóa đi ba tia là \n45 – 21 = 24 góc\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 20. Cho 20 điểm phân biệt, trong đó có a điểm thẳng hàng. Cứ 2 điểm, ta vẽ một đường thẳng. Tìm a , biết vẽ được tất cả 170 đường thẳng.\nA. a = 9\nB. a = 6\nC. a = 7\nD. a = 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong 20 điểm mà không có ba điểm nào thẳng hàng thì ta vẽ được: \n19.20:2 = 190 đường thẳng.\nTrong a điểm mà không có ba điểm nào thẳng hàng thì ta vẽ được:\n (a − 1).a : 2 đường thẳng.\nNhưng do có a điểm thẳng hàng nên chỉ có 1 đường thẳng được vẽ. Do đó,theo bài ra ta có:\n190−\\frac{a−1a}{2}+1=170⇔\\frac{a−1a}{2}=21⇔a2−a−42=0⇔a2−7a+6a−42=0⇔aa−7+6a−7=0⇔a−7a+6=0⇔a−7=0a+6=0⇔a=7(tm)a=−6(ktm)\nVậy có 7 điểm thẳng hàng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 21. Cho 101 đường thẳng trong đó bất cứ hai đường thẳng nào cũng cắt nhau, không có ba đường thẳng nào đồng quy. Tính số giao điểm của chúng.\nA. 10010 giao điểm\nB. 5005 giao điểm\nC. 10100 giao điểm\nD. 5050 giao điểm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMỗi đường thẳng cắt 100 đường thẳng còn lại tạo nên 100 giao điểm .\nVì có 101 đường thẳng nên có 101.100 giao điểm .\nNhưng mỗi giao điểm đã được tính hai lần nên chỉ có \n101.100:2=5050 ( giao điểm).\nĐáp án cần chọn là: D"
+    }
+]

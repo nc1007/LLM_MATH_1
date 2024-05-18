@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Biết CI, BI là hai đường phân giác của ∆ABC. Tìm x.\nA. x = 30°; \nB. x = 60°; \nC. x = 90°; \nD. x = 120°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có CI, BI là hai đường phân giác của ∆ABC nên:\n+) ABC^=2IBC^\n+) ACB^=2ACI^\nDo đó ABC^+ACB^=2IBC^+2ICA^.\n2IBC^+ICA^=237°+23°=120°.\n∆ABC có: BAC^+ABC^+ACB^=180° (định lí tổng ba góc trong tam giác)\nSuy ra BAC^=180°-ABC^+ACB^=180°-120°=60°.\n∆ABC có hai đường phân giác CI, BI cắt nhau tại I.\nSuy ra AI là đường phân giác thứ ba của ∆ABC.\nDo đó CAI^=\\frac{1}{2}BAC^=\\frac{1}{2}.60°=30°.\nKhi đó x = 30°.\nVậy ta chọn đáp án A."
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Thẻ tín dụng trả sau của bác Tám đang ghi nợ 2 000 000 đồng, sau khi bác Tám nộp vào 2 000 000 đồng thì bác Tám có bao nhiêu tiền trong tài khoản? Hãy dùng số nguyên để giải thích.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền nợ là số nguyên âm.\nSố tiền nộp vào là số nguyên dương.\nLời giải chi tiết\nSố tiền thêm vào tài khoản sau khi nợ: \\( - 2000000\\)\nSố tiền thêm vào tài khoản sau khi nộp: \\(\\left( { + 2000000} \\right)\\).\nSố tiền trong tài khoản:\n\\(\\left( { - 2000000} \\right) + \\left( { + 2000000} \\right) = 0\\) đồng.\n(Vì \\( - 2000000\\) và \\(\\left( { + 2000000} \\right)\\) là hai số đối nhau)."
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) \\(4 + \\left( { - 7} \\right)\\)\nb) \\(\\left( { - 5} \\right) + 12\\)\nc) \\(\\left( { - 25} \\right) + 72\\)\nd) \\(49 + \\left( { - 51} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác định số âm và tìm số đối của chúng rồi so sánh với số dương còn lại.\nNếu số dương lớn hơn số đối của số âm thì ta lấy số dương trừ đi số đối của số âm.\nNếu số dương bé hơn số đối của số âm thì ta lấy số đối của số âm trừ đi số dương rồi thêm dấu trừ trước kết quả.\nLời giải chi tiết\na) \\(4 + \\left( { - 7} \\right) =  - \\left( {7 - 4} \\right) =  - 3\\)( Vì 7>4)\nb) \\(\\left( { - 5} \\right) + 12 = 12 - 5 = 7\\) (Vì 12>5)\nc) \\(\\left( { - 25} \\right) + 72 = 72 - 25 = 47\\) (Vì 72>25)\nd) \\(49 + \\left( { - 51} \\right) =  - \\left( {51 - 49} \\right) =  - 2\\) (Vì 51>49)"
+    },
+    {
+        "problem": "Một tòa nhà có tám tầng được đánh số theo thứ tự là 0 (tầng mặt đất), 1, 2, 3, ..., 7 và ba tầng hầm được đánh số là \\( - 1; - 2; - 3\\). Em hãy dùng phép cộng các số nguyên để diễn tả hai tình huống sau đây:\na) Một thang máu đang ở tầng \\( - 3\\), nó đi lên 5 tầng. Hỏi thang máy dừng lại tại tầng mấy?\nb) Một thang máy đang ở tầng 3 , nó đi xuống 5 tầng. Hỏi thang máy dừng lại ở tầng mấy?\n(Ở một số tòa nhà, tầng mặt đất còn được gọi là tầng G).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thang máy đi xuống là số âm, đi lên là số dương.\nLời giải chi tiết\na) Thang máy đi lên 5 tầng được biểu diễn bằng số nguyên là +5.\nTa có phép tính: \\(\\left( { - 3} \\right) + 5 = 5 - 3 = 2\\)\nVậy thang máy dừng lại ở tầng 2.\nb) Thang máy đi xuống 5 tầng được biểu diễn bằng số nguyên là \\( - 5\\).\nTa có phép tính: \\(3 + \\left( { - 5} \\right) =  - \\left( {5 - 3} \\right) =  - 2\\)\nVậy thang máy dừng lại tại tầng \\( - 2\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính và so sánh các cặp kết quả sau:\n\\(\\left( { - 1} \\right) + \\left( { - 3} \\right)\\) và \\(\\left( { - 3} \\right) + \\left( { - 1} \\right)\\)\n\\(\\left( { - 7} \\right) + \\left( { + 6} \\right)\\) và \\(\\left( { + 6} \\right) + \\left( { - 7} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác định dấu của các số hạng.\nSử dụng các quy tắc cộng hai số nguyên cùng dấu, hai số nguyên khác dấu.\nLời giải chi tiết\n\\(\\left( { - 1} \\right) + \\left( { - 3} \\right) =  - \\left( {1 + 3} \\right) =  - 4\\)\n\\(\\left( { - 3} \\right) + \\left( { - 1} \\right) =  - \\left( {3 + 1} \\right) =  - 4\\)\n\\( \\Rightarrow \\left( { - 1} \\right) + \\left( { - 3} \\right) = \\left( { - 3} \\right) + \\left( { - 1} \\right)\\)\n\\(\\left( { - 7} \\right) + \\left( { + 6} \\right) =  - \\left( {7 - 6} \\right) =  - 1\\)\n\\(\\left( { + 6} \\right) + \\left( { - 7} \\right) =  - \\left( {7 - 6} \\right) =  - 1\\)\n\\( \\Rightarrow \\left( { - 7} \\right) + \\left( { + 6} \\right) = \\left( { + 6} \\right) + \\left( { - 7} \\right)\\)"
+    },
+    {
+        "problem": "Tính và so sánh kết quả:\n\\(\\left[ {\\left( { - 3} \\right) + 4} \\right] + 2\\);     \\(\\left( { - 3} \\right) + \\left( {4 + 2} \\right)\\)\n\\(\\left[ {\\left( { - 3} \\right) + 2} \\right] + 4\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính trong ngoặc trước, được kết quả rồi tính ngoài ngoặc sau.\nLời giải chi tiết\n\\(\\begin{array}{l}\\left[ {\\left( { - 3} \\right) + 4} \\right] + 2 = \\left( {4 - 3} \\right) + 2\\\\ = 1 + 2 = 3\\end{array}\\)\n\\(\\begin{array}{l}\\left( { - 3} \\right) + \\left( {4 + 2} \\right) = \\left( { - 3} \\right) + 6\\\\ = 6 - 3 = 3\\end{array}\\)\n\\(\\begin{array}{l}\\left[ {\\left( { - 3} \\right) + 2} \\right] + 4 =  - \\left( {3 - 2} \\right) + 4\\\\ =  - 1 + 4 = 3\\end{array}\\)"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) \\(23 + \\left( { - 77} \\right) + \\left( { - 23} \\right) + 77\\)\nb) \\(\\left( { - 2020} \\right) + 2021 + 21 + \\left( { - 22} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất giao hoán và tính chất kết hợp.\nCộng các số nguyên âm với nhau, các số nguyên dương với nhau.\nNếu có 2 số đối nhau thì có thể cộng với nhau để triệt tiêu.\nLời giải chi tiết\na)\nCách 1: Kết hợp các cặp số đối nhau\n\\(23 + \\left( { - 77} \\right) + \\left( { - 23} \\right) + 77\\)\n\\( = 23 + \\left( { - 23} \\right) + \\left( { - 77} \\right) + 77\\)(tính chất giao hoán và kết hợp)\n\\( = \\left[ {23 + \\left( { - 23} \\right)} \\right] + \\left[ {\\left( { - 77} \\right) + 77} \\right]\\)\n\\( = 0 + 0 = 0\\)\nCách 2: Cộng các số nguyên âm với nhau, các số nguyên dương với nhau.\n\\(23 + \\left( { - 77} \\right) + \\left( { - 23} \\right) + 77\\)\n\\( = 23 + 77 + \\left( { - 77} \\right) + \\left( { - 23} \\right)\\)(tính chất giao hoán và kết hợp)\n\\( = 100 + \\left( { - 100} \\right) = 0\\)\nb) \\(\\left( { - 2020} \\right) + 2021 + 21 + \\left( { - 22} \\right)\\)\n\\( = \\left( { - 2020} \\right) + \\left( { - 22} \\right) + 2021 + 21\\) (tính chất giao hoán và kết hợp)\n\\( =  (- 2042) + 2042 = 0\\)"
+    },
+    {
+        "problem": "a) Mũi khoan của một giàn khoan trên biển đang ở độ cao 5 m trên mực nước biển, chú công nhân điều khiển nó hạ xuống 10 m. Vậy mũi khoan ở độ cao nào sau khi hạ?\nb) So sánh kết quả của hai phép tính sau:\n\\(5 - 2\\) và \\(5 + \\left( { - 2} \\right)\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ cao trên mực nước biển là số nguyên dương.\nHạ xuống được biểu diễn là số nguyên âm.\nSử dụng phép cộng hai số nguyên\nLời giải chi tiết\na)\nĐộ cao trên mực nước biển là \\(\\left( { + 5} \\right)\\)\nGiàn khoan bị hạ xuống được biểu diễn là \\(\\left( { - 10} \\right)\\).\nTa có: \\(\\left( { + 5} \\right) + \\left( { - 10} \\right) =  - \\left( {10 - 5} \\right) =  - 5\\)\nVậy mũi khoan ở 5 mét dưới mực nước biển.\nb)\nTa có \\(5 + \\left( { - 2} \\right) = 5 - 2 = 3\\)."
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) \\(6 - 9\\)\nb) \\(23 - \\left( { - 12} \\right)\\)\nc)  \\(\\left( { - 35} \\right) - \\left( { - 60} \\right)\\)\nd) \\(\\left( { - 47} \\right) - 53\\)\ne) \\(\\left( { - 43} \\right) - \\left( { - 43} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Xác định số trừ.\n- Tìm số đối của số trừ.\n- Lấy số bị trừ cộng với số đối của số trừ.\n- Sử dụng quy tắc cộng hai số nguyên.\nLời giải chi tiết\na) Số trừ là \\(9\\) có số đối là \\(\\left( { - 9} \\right)\\) nên ta có:\n\\(6 - 9 = 6 + \\left( { - 9} \\right) =  - \\left( {9 - 6} \\right) =  - 3\\)\nb) Số trừ là \\(\\left( { - 12} \\right)\\) có số đối là \\(12\\) nên ta có:\n\\(23 - \\left( { - 12} \\right) = 23 + 12 = 35\\)\nc) Số trừ là \\(\\left( { - 60} \\right)\\) có số đối là \\(60\\) nên ta có:\n\\(\\begin{array}{l}\\left( { - 35} \\right) - \\left( { - 60} \\right) = \\left( { - 35} \\right) + 60\\\\ = 60 - 35 = 25\\end{array}\\)\nd) Số trừ là \\(53\\) có số đối là \\(\\left( { - 53} \\right)\\) nên ta có:\n\\(\\begin{array}{l}\\left( { - 47} \\right) - 53 = \\left( { - 47} \\right) + \\left( { - 53} \\right)\\\\ =  - \\left( {47 + 53} \\right) =  - 100\\end{array}\\)\ne) Số trừ là \\(\\left( { - 43} \\right)\\) có số đối là 43 nên ta có:\n\\(\\left( { - 43} \\right) - \\left( { - 43} \\right) = \\left( { - 43} \\right) + 43 = 0\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính rồi so sánh từng cặp kết quả sau:\na) \\( - \\left( {4 + 7} \\right)\\) và \\( - 4 - 7\\)\nb) \\( - \\left( {12 - 25} \\right)\\) và \\(\\left( { - 12 + 25} \\right)\\)\nc)\\( - \\left( { - 8 + 7} \\right)\\) và \\(\\left( {8 - 7} \\right)\\)\nd) \\( + \\left( { - 15 - 4} \\right)\\) và \\(\\left( { - 15 - 4} \\right)\\)\ne) \\( + \\left( {23 - 12} \\right)\\) và \\(\\left( {23 - 12} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính trong ngoặc trước.\nSử dụng quy tắc cộng, trừ hai số nguyên.\nLời giải chi tiết\na) \\( - \\left( {4 + 7} \\right) =  - 11\\)\n\\(\\begin{array}{l}\\left( { - 4 - 7} \\right) = \\left( { - 4} \\right) + \\left( { - 7} \\right)\\\\ =  - \\left( {4 + 7} \\right) =  - 11\\\\ \\Rightarrow \\left( { - 4 - 7} \\right) =  - \\left( {4 + 7} \\right)\\end{array}\\)\nb)\n\\(\\begin{array}{l} - \\left( {12 - 25} \\right) =  - \\left[ {12 + \\left( { - 25} \\right)} \\right]\\\\ =  - \\left[ { - \\left( {25 - 12} \\right)} \\right] =  - \\left( { - 13} \\right) = 13\\end{array}\\)\n\\(\\begin{array}{l}\\left( { - 12 + 25} \\right) = 25 - 12 = 13\\\\ \\Rightarrow  - \\left( {12 - 25} \\right) = \\left( { - 12 + 25} \\right)\\end{array}\\)\nc)\n\\(\\begin{array}{l} - \\left( { - 8 + 7} \\right) =  - \\left[ { - \\left( {8 - 7} \\right)} \\right] =  - \\left( { - 1} \\right) = 1\\\\\\left( {8 - 7} \\right) = 1\\\\ \\Rightarrow  - \\left( { - 8 + 7} \\right) = \\left( {8 - 7} \\right)\\end{array}\\)\nd)\n\\(\\begin{array}{l} + \\left( { - 15 - 4} \\right) =  + \\left[ {\\left( { - 15} \\right) + \\left( { - 4} \\right)} \\right]\\\\ =  + \\left[ { - \\left( {15 + 4} \\right)} \\right] =  + \\left( { - 19} \\right) =  - 19\\\\\\left( { - 15 - 4} \\right) = \\left( { - 15} \\right) + \\left( { - 4} \\right)\\\\ =  - \\left( {15 + 4} \\right) =  - 19\\\\ \\Rightarrow  + \\left( { - 15 - 4} \\right) = \\left( { - 15 - 4} \\right)\\end{array}\\)\ne)\n\\(\\begin{array}{l} + \\left( {23 - 12} \\right) =  + 11 = 11\\\\\\left( {23 - 12} \\right) = 11\\\\ \\Rightarrow  + \\left( {23 - 12} \\right) = \\left( {23 - 12} \\right)\\end{array}\\)"
+    },
+    {
+        "problem": "Tính: \\(T =  - 9 + \\left( { - 2} \\right) - \\left( { - 3} \\right) + \\left( { - 8} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính từ trái qua phải.\nSử dụng quy tắc cộng, trừ các số nguyên và tính chất của phép cộng.\nLời giải chi tiết\n\\(\\begin{array}{l}T =-9+(-2)-(-3)+(-8)\\\\=  -(9+2-3+8) \\\\=  - 16\\end{array}\\)"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) 23+45\nb) \\(\\left( { - 42} \\right) + \\left( { - 54} \\right)\\)\nc) \\(2025 + \\left( { - 2025} \\right)\\);\nd) \\(15 + \\left( { - 14} \\right)\\);\ne) \\(35 + \\left( { - 135} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Xác định dấu của hai số hạng trong phép cộng.\n- Muốn cộng hai số nguyên dương, ta cộng chúng như cộng hai số tự nhiên.\n- Muốn cộng hai số nguyên âm, ta cộng hai số đối của chúng rồi thêm dấu trừ đằng trước kết quả.\n- Nếu số dương lớn hơn số đối của số âm thì ta lấy số dương trừ đi số đối của số âm.\n- Nếu số dương bé hơn số đối của số âm thì ta lấy số đối của số âm trừ đi số dương rồi thêm dấu trừ trước kết quả.\nLời giải chi tiết\na) 23+45=68\nb) \\(\\left( { - 42} \\right) + \\left( { - 54} \\right) =  - \\left( {42 + 54} \\right) =  - 96\\)\nc) \\(2025 + \\left( { - 2025} \\right) = 0\\) vì 2025 và \\( - 2025\\) là 2 số đối nhau.\nd) \\(15 + \\left( { - 14} \\right) = 15 - 14 = 1\\);\ne) \\(35 + \\left( { - 135} \\right) =  - \\left( {135 - 35} \\right) =  - 100\\)"
+    },
+    {
+        "problem": "Em hãy dùng số nguyên âm để giải bài toán sau:\nMột chiếc tàu ngầm đang ở độ sâu 20 m, tàu tiếp tục lặn xuống thêm 15 m nữa. Hỏi khi đó, tàu ngầm ở độ sâu là bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ sâu của tàu ngầm được biểu diễn là số nguyên âm.\nLặn xuống được biểu diễn là số nguyên âm.\nLời giải chi tiết\nTàu ngầm ở độ sâu 20m được biểu diễn là \\(\\left( { - 20} \\right)\\)\nTàu ngầm lặn xuống thêm 15m được biểu diễn là \\(\\left( { - 15} \\right)\\)\nĐộ sâu của tàu là: \\(\\left( { - 20} \\right) + \\left( { - 15} \\right) =  - \\left( {20 + 15} \\right) =  - 35\\)\nVậy tàu ngầm ở độ sâu 35 mét.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) \\(6 - 8\\)\nb) \\(3 - \\left( { - 9} \\right)\\)\nc) \\(\\left( { - 5} \\right) - 10\\)\nd) \\(0 - 7\\)\ne) \\(4 - 0\\)\ng) \\(\\left( { - 2} \\right) - \\left( { - 10} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Xác định số trừ.\n- Tìm số đối của số trừ.\n- Lấy số bị trừ cộng với số đối của số trừ.\n- Sử dụng quy tắc cộng hai số nguyên.\nChú ý: Một số cộng với 0 bằng chính nó.\nLời giải chi tiết\na) \\(6 - 8 = 6 + \\left( { - 8} \\right) =  - \\left( {8 - 6} \\right) =  - 2\\)\nb) \\(3 - \\left( { - 9} \\right) = 3 + 9 = 12\\)\nc) \\(\\left( { - 5} \\right) - 10 = \\left( { - 5} \\right) + \\left( { - 10} \\right)\\)\\( =  - \\left( {5 + 10} \\right) =  - 15\\)\nd) \\(0 - 7 = 0 + \\left( { - 7} \\right) =  - 7\\)\ne) \\(4 - 0 = 4 + 0 = 4\\) (vì số đối của 0 là 0)\ng) \\(\\left( { - 2} \\right) - \\left( { - 10} \\right) = \\left( { - 2} \\right) + 10\\)\\( = 10 - 2 = 8\\)."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Trong đại hội chi đội lớp 6 A, bạn Dũng được 36 đội viên (trong tổng số 45 đội viên chi đội) bầu làm Chi đội trưởng. Bạn Dũng đã trúng cử Chi đội trưởng với tỉ số phần trăm phiếu bầu là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy số đội viên bầu bạn Dũng chia cho tổng số đội viên trong lớp rồi nhân với 100%.\nLời giải chi tiết\nTỉ số phần trăm phiếu bầu là:\n\\(\\dfrac{{36}}{{45}}.100\\%  = \\dfrac{{36.100}}{{45}}\\%  = 80\\% \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "(Thành phần các chất trong không khí)\nKhông khí xung quanh ta gồm nhiều chất khí khác nhau. Trong điều kiện thông thường, khí oxygen chiếm khoảng 21% thể tích không khí. Hỏi có bao nhiêu mét khối oxygen trong một căn phòng có thể tích 70,2 \\({m^3}\\)?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm m% của số a, ta tính \\(a.\\dfrac{m}{{100}}\\)\nLời giải chi tiết\nSố mét khối oxygen trong một căn phòng có thể tích 70,2 \\({m^3}\\) là:\n\\(70,2.\\dfrac{{21}}{{100}} = 14,742\\left( {{m^3}} \\right)\\)"
+    },
+    {
+        "problem": "Trong một cuộc bình chọn cầu thủ xuất sắc nhất giải bóng đá của trường. Tân nhận được 120 phiếu bầu, chiếm 60% số phiếu bình chọn. Hỏi có bao nhiêu người đã tham gia bình chọn?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm một số khi biết m% của nó là a, ta tính \\(a:\\dfrac{m}{{100}}\\)\nLời giải chi tiết\n60% số phiếu bình chọn là 120 phiếu nên tổng số người tham gia bình chọn là:\n\\(120:\\dfrac{{60}}{{100}} = 120.\\dfrac{{100}}{{60}} = 200\\) (người)\nĐáp án: 200 người"
+    },
+    {
+        "problem": "Tính:\na) 25% của 8;\nb) 7,5% của 180.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm m% của số a, ta tính \\(a.\\dfrac{m}{{100}}\\)\nLời giải chi tiết\na) 25% của 8 là: \\(8.\\dfrac{{25}}{{100}} = \\dfrac{{8.25}}{{100}} = 2\\)\nb) 7,5% của 180 là: \\(180.\\dfrac{{7,5}}{{100}} = \\dfrac{{180.7,5}}{{100}} = \\dfrac{{1350}}{{100}} = 13,5\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Lãi suất tiền gửi kì hạn một năm của một ngân hàng là 7,4%. Bác Đức gửi 150 triệu đồng vào ngân hàng đó. Sau một năm, bác Đức rút cả vốn lẫn lãi thì nhận được bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền lãi: Muốn tìm m% của số a, ta tính \\(a.\\dfrac{m}{{100}}\\)\nRút cả vốn lẫn lãi: Tính tổng lãi và số tiền gửi.\nLời giải chi tiết\nSố tiền lãi sau 1 năm là: \\(150.7,4\\%  = \\dfrac{{150.7,4}}{{100}} = 11,1\\) triệu đồng.\nTổng vốn lẫn lãi sau 1 năm là: \\(150 + 11,1 = 161,1\\) triệu đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giá niêm yết của một chiếc điện thoại di động là 625 nghìn đồng. Trong chương trình khuyến mại, mặt hàng này được giảm giá 10%. Như vậy, khi mua một chiếc điện thoại loại này người mua được giảm bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm a% của m, ta lấy m.a:100\nLời giải chi tiết\nNgười mua được giảm số tiền: \\(625000.10\\%  = 62500\\) đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Theo Tổng cục Thống kê, năm 1989 cả nước có 914 396 người dân tộc Mường. Sau 30 năm số người Mường đã tăng lên thành 1 452 095 người. Em hãy cho biết trong 30 năm đó, số người Mường ở Việt Nam đã tăng bao nhiêu phần trăm? (làm tròn kết quả tới hàng phần mười).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng số người đã tăng trong 30 năm.\nSố phần trăm tăng bằng tỉ số phần trăm số người tăng và số người năm 1989.\nLời giải chi tiết\nTổng số người Mường đã tăng trong 30 năm là:\n1 452 095 - 914 396 = 537 699 (người)\nSố người Mường Việt Nam tăng: \\(\\frac{ 537 699}{914396}.100\\%  \\approx 58,8\\% \\)"
+    }
+]

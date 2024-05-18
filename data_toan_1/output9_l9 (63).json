@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Tính giá trị biểu thức \\(\\left( {\\frac{3}{5} + \\frac{{ - 2}}{7}} \\right) + \\frac{{ - 1}}{5}\\) theo cách hợp lí.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán và kết hợp của phép cộng để tính hợp lí.\nLời giải chi tiết\n\\(\\begin{array}{l}\\left( {\\frac{3}{5} + \\frac{{ - 2}}{7}} \\right) + \\frac{{ - 1}}{5} = \\left( {\\frac{3}{5} + \\frac{{ - 1}}{5}} \\right) + \\frac{{ - 2}}{7}\\\\ = \\frac{2}{5} + \\frac{{ - 2}}{7} = \\frac{{14}}{{35}} + \\frac{{ - 10}}{{35}} = \\frac{4}{{35}}\\end{array}\\)."
+    },
+    {
+        "problem": "Tìm số đối của mỗi phân số sau (có dùng kí hiệu số đối của phân số).\na) \\(\\frac{{ - 15}}{7}\\)           b) \\(\\frac{{22}}{{ - 25}}\\)\nc) \\(\\frac{{10}}{9}\\)              d) \\(\\frac{{ - 45}}{{ - 27}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai phân số đối nhau nếu tổng của chúng bằng 0.\nLời giải chi tiết\na) Số đối của \\(\\frac{{ - 15}}{7}\\) là \\(\\frac{{15}}{7}\\)\nb) Số đối của \\(\\frac{{22}}{{ - 25}}\\) là \\(\\frac{{22}}{{25}}\\)\nc) Số đối của \\(\\frac{{10}}{9}\\) là \\(\\frac{{ - 10}}{9}\\)\nd) Số đối của\\(\\frac{{ - 45}}{{ - 27}}\\) là \\(\\frac{{ - 45}}{{27}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thực hiện phép tính \\(\\frac{{ - 4}}{3} - \\frac{{12}}{5}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn trừ một phân số cho một phân số, ta lấy phân số thứ nhất cộng với số đối của phân số thứ hai.\nLời giải chi tiết\n\\(\\begin{array}{l}\\frac{{ - 4}}{3} - \\frac{{12}}{5} = \\frac{{ - 4}}{3} + \\frac{{ - 12}}{5}\\\\ = \\frac{{ - 20}}{{15}} + \\frac{{ - 36}}{{15}} = \\frac{{ - 56}}{{15}}\\end{array}\\)."
+    },
+    {
+        "problem": "Thực hiện phép tính: \\( - \\left( { - \\frac{3}{4}} \\right) - \\left( {\\frac{2}{3} + \\frac{1}{4}} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Khi bỏ dấu ngoặc có dấu cộng (+) đằng trước, ta giữ nguyên dấu các số hạng trong ngoặc.\n- Khi bỏ dấu ngoặc có dấu trừ (-) đằng trước, ta phải đổi dấu tất cả các số hạng trong ngoặc.\nLời giải chi tiết\n\\(\\begin{array}{l} - \\left( { - \\frac{3}{4}} \\right) - \\left( {\\frac{2}{3} + \\frac{1}{4}} \\right)\\\\ = \\frac{3}{4} - \\frac{2}{3} - \\frac{1}{4}\\\\ = \\left( {\\frac{3}{4} - \\frac{1}{4}} \\right) - \\frac{2}{3}\\\\ = \\frac{2}{4} - \\frac{2}{3}\\\\= \\frac{1}{2} - \\frac{2}{3}\\\\ = \\frac{3}{6} - \\frac{4}{6}\\\\ = \\frac{{ - 1}}{6}\\end{array}\\)"
+    },
+    {
+        "problem": "Tính giá trị các biểu thức sau theo hai cách (có cách dùng tính chất phép cộng):\na) \\(\\left( {\\frac{{ - 2}}{{ - 5}} + \\frac{{ - 5}}{{ - 6}}} \\right) + \\frac{4}{5}\\)\nb) \\(\\frac{{ - 3}}{{ - 4}} + \\left( {\\frac{{11}}{{ - 15}} + \\frac{{ - 1}}{2}} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Bỏ ngoặc rồi thực hiện phép tính\nCách 2: Áp dụng tính chất giao hoán và kết hợp của phép cộng.\nLời giải chi tiết\na) Cách 1:\n\\(\\begin{array}{l}\\left( {\\frac{{ - 2}}{{ - 5}} + \\frac{{ - 5}}{{ - 6}}} \\right) + \\frac{4}{5} = \\frac{2}{5} + \\frac{5}{6} + \\frac{4}{5}\\\\ = \\frac{{12}}{{30}} + \\frac{{25}}{{30}} + \\frac{{24}}{{30}} = \\frac{{61}}{{30}}\\end{array}\\)\nCách 2:\n\\(\\begin{array}{l}\\left( {\\frac{{ - 2}}{{ - 5}} + \\frac{{ - 5}}{{ - 6}}} \\right) + \\frac{4}{5} = \\left( {\\frac{2}{5} + \\frac{4}{5}} \\right) + \\frac{5}{6}\\\\ = \\frac{6}{5} + \\frac{5}{6} = \\frac{{36}}{{30}} + \\frac{{25}}{{30}} = \\frac{{61}}{{30}}\\end{array}\\)\nb) Cách 1:\n\\(\\begin{array}{l}\\frac{{ - 3}}{{ - 4}} + \\left( {\\frac{{11}}{{ - 15}} + \\frac{{ - 1}}{2}} \\right) = \\frac{3}{4} + \\frac{{ - 11}}{{15}} + \\frac{{ - 1}}{2}\\\\ = \\frac{{45}}{{60}} + \\frac{{ - 44}}{{60}} + \\frac{{ - 30}}{{60}}\\\\ = \\frac{{ - 29}}{{60}}\\end{array}\\).\nCách 2:\n\\(\\begin{array}{l}\\frac{{ - 3}}{{ - 4}} + \\left( {\\frac{{11}}{{ - 15}} + \\frac{{ - 1}}{2}} \\right) = \\frac{3}{4} + \\frac{{ - 11}}{{15}} + \\frac{{ - 1}}{2}\\\\ = \\left( {\\frac{3}{4} + \\frac{{ - 1}}{2}} \\right) + \\frac{{ - 11}}{{15}}\\\\ = \\left( {\\frac{3}{4} + \\frac{{ - 2}}{4}} \\right) + \\frac{{ - 11}}{{15}}\\\\ = \\frac{1}{4} + \\frac{{ - 11}}{{15}}\\\\ = \\frac{{15}}{{60}} + \\frac{{ - 44}}{{60}}\\\\ = \\frac{{ - 29}}{{60}}\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm các cặp phân số đối nhau trong các phân số sau:\n\\(\\frac{{ - 5}}{6}\\); \\(\\frac{{ - 40}}{{ - 10}}\\); \\(\\frac{5}{6}\\); \\(\\frac{{40}}{{ - 10}}\\); \\(\\frac{{10}}{{ - 12}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai phân số đối nhau nếu tổng của chúng bằng 0.\nLời giải chi tiết\nCác cặp phân số đối nhau là:\n\\(\\frac{{ - 5}}{6}\\) và \\(\\frac{5}{6}\\) (vì \\(\\frac{{ - 5}}{6}+\\frac{5}{6}=0\\))\n\\(\\frac{{ - 40}}{{ - 10}}\\) và \\(\\frac{{40}}{{ - 10}}\\) (vì \\(\\frac{{ - 40}}{{ - 10}}+\\frac{{40}}{{ - 10}}=4+(-4)=0\\))\n\\(\\frac{5}{6}\\) và \\(\\frac{{10}}{{ - 12}}\\) (vì \\(\\frac{5}{6} +\\frac{{10}}{{ - 12}}=0\\))"
+    },
+    {
+        "problem": "Người ta mở hai vòi nước cùng chảy vào một bể. Vòi thứ nhất mỗi giờ chảy được \\(\\frac{1}{7}\\) bể, vòi thứ hai mỗi giờ chảy được \\(\\frac{1}{5}\\) bể. Nếu mở đồng thời cả hai vòi, mỗi giờ được mấy phần bể?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lượng nước hai vòi chảy được sau mỗi giờ bằng tổng lượng nước mỗi vòi chảy được mỗi giờ.\nLời giải chi tiết\nNếu mở đồng thời cả hai vòi, mỗi giờ được:\n\\(\\frac{1}{7} + \\frac{1}{5} = \\frac{5}{{35}} + \\frac{7}{{35}} = \\frac{{12}}{{35}}\\) (bể)"
+    },
+    {
+        "problem": "Bảo đọc hết một quyển sách trong 4 ngày. Ngày thứ nhất đọc được \\(\\frac{2}{5}\\) quyển sách, ngày thứ hai đọc được \\(\\frac{1}{3}\\) quyển sách, ngày thứ ba đọc được \\(\\frac{1}{4}\\) quyển sách. Hỏi hai ngày đầu Bảo đọc nhiều hơn hay ít hơn hai ngày sau? Tim phân số để chỉ số chênh lệch đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính số phần quyển sách hai ngày đầu và hai ngày sau Bảo đọc được\n- So sánh và tìm hiệu của hai phân số tìm được.\nLời giải chi tiết\nHai ngày đầu Bảo đọc được:\n\\(\\frac{2}{5} + \\frac{1}{3} = \\frac{{11}}{{15}}\\) (quyển sách)\nHai ngày sau bảo đọc được là:\n\\(1 - \\frac{{11}}{{15}} = \\frac{4}{{15}}\\) (quyển sách)\nVì \\(\\frac{{11}}{{15}} > \\frac{4}{{15}}\\) nên hai ngày đầu Bảo đọc được nhiều hơn hai ngày sau.\nPhân số chỉ số chênh lệch là: \\(\\frac{{11}}{{15}} - \\frac{4}{{15}} = \\frac{7}{{15}}\\) (quyển sách)"
+    },
+    {
+        "problem": "Đố vui Viết phân số sau ở dạng tổng các phân số có mẫu số là số tự nhiên khác nhau nhưng có cùng tử số là 1.\na) \\(\\frac{2}{3}\\);           b)\\(\\frac{8}{{15}}\\)\nc) \\(\\frac{7}{8}\\);            d) \\(\\frac{{17}}{{18}}\\).\nGợi ý:\na) \\(\\frac{2}{3} = \\frac{1}{2} + ?;\\)\nc) \\(\\frac{7}{8} = \\frac{1}{2} + ? + ?;\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tách các phân số theo mẫu.\nLời giải chi tiết\na) \\(\\frac{2}{3} = \\frac{4}{6} = \\frac{1}{6} + \\frac{3}{6} = \\frac{1}{6} + \\frac{1}{2}\\)\nb) \\(\\frac{8}{{15}} = \\frac{5}{{15}} + \\frac{3}{{15}} = \\frac{1}{5} + \\frac{1}{3}\\)\nc) \\(\\frac{7}{8} = \\frac{4}{8} + \\frac{2}{8} + \\frac{1}{8} = \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8}\\)\nd) \\(\\frac{{17}}{{18}} = \\frac{9}{{18}} + \\frac{6}{{18}} + \\frac{2}{{18}} = \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{9}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Độ cao của đáy vịnh Cam Ranh là -32 m. Độ cao của đáy sông Sài Gòn bằng \\(\\frac{5}{8}\\) ở độ cao của đáy vịnh Cam Ranh. Hỏi độ cao của đáy sông Sài Gòn là bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ cao của đáy sông Sài Gòn = Độ cao của đáy vịnh Cam Ranh . \\(\\frac{5}{8}\\)\nLời giải chi tiết\nĐộ cao của đáy sông Sài Gòn là:\n\\( - 32.\\frac{5}{8} = \\frac{{ - 32.5}}{8} =  - 20\\) (mét)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị biểu thức sau theo cách hợp lí.\n\\(\\left( {\\frac{{20}}{7}.\\frac{{ - 4}}{{ - 5}}} \\right) + \\left( {\\frac{{20}}{7}.\\frac{3}{{ - 5}}} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất: \\(a.b + a.c = a.(b + c)\\)\nLời giải chi tiết\n\\(\\begin{array}{l}\\left( {\\frac{{20}}{7}.\\frac{{ - 4}}{{ - 5}}} \\right) + \\left( {\\frac{{20}}{7}.\\frac{3}{{ - 5}}} \\right) = \\frac{{20}}{7}.\\left( {\\frac{{ - 4}}{{ - 5}} + \\frac{3}{{ - 5}}} \\right)\\\\ = \\frac{{20}}{7}.\\left( {\\frac{{ - 1}}{{ - 5}}} \\right) = \\frac{{20}}{7}.\\frac{1}{5} = \\frac{{20}}{{35}} = \\frac{4}{7}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một hình chữ nhật có diện tích \\(\\frac{{48}}{{35}}\\) m2 và có chiều dài là \\(\\frac{6}{5}\\) m. Tính chiều rộng của hình chữ nhật đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình chữ nhật =  Chiều dài x chiều rộng.\nLời giải chi tiết\nChiều rộng của hình chữ nhật là:\n\\(\\frac{{48}}{{35}}:\\frac{6}{5} = \\frac{{48}}{{35}}.\\frac{5}{6} = \\frac{{6.8}}{{7.5}}.\\frac{5}{6} = \\frac{8}{7}\\) (m)"
+    },
+    {
+        "problem": "Tính.\na) \\(\\frac{{ - 2}}{7}:\\frac{4}{7}\\)      b) \\(\\frac{{ - 4}}{5}:\\frac{{ - 3}}{{11}}\\)\nc) \\(4:\\frac{{ - 2}}{5}\\)        d) \\(\\frac{{15}}{{ - 8}}:6\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\frac{a}{b}:\\frac{c}{d} = \\frac{a}{b}.\\frac{d}{c}\\)\nLời giải chi tiết\na) \\(\\frac{{ - 2}}{7}:\\frac{4}{7} = \\frac{{ - 2}}{7}.\\frac{7}{4} = \\frac{{ - 2}}{4} = \\frac{{ - 1}}{2}\\)\nb) \\(\\frac{{ - 4}}{5}:\\frac{{ - 3}}{{11}} = \\frac{{ - 4}}{5}.\\frac{{11}}{{ - 3}} = \\frac{{ - 44}}{{ - 15}} = \\frac{{44}}{{15}}\\)\nc) \\(4:\\frac{{ - 2}}{5} = 4.\\frac{5}{{ - 2}} = \\frac{{20}}{{ - 2}} =  - 10\\)\nd) \\(\\frac{{15}}{{ - 8}}:6 = \\frac{{15}}{{ - 8}}.\\frac{1}{6} = \\frac{{ - 15}}{{48}}= \\frac{{ - 5}}{{16}}\\)."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức.\na) \\(\\left( {\\frac{{ - 2}}{{ - 5}}:\\frac{3}{{ - 4}}} \\right).\\frac{4}{5}\\)\nb) \\(\\frac{{ - 3}}{{ - 4}}:\\left( {\\frac{7}{{ - 5}}.\\frac{{ - 3}}{2}} \\right)\\)\nc) \\(\\frac{{ - 1}}{9}.\\frac{{ - 3}}{5} + \\frac{5}{{ - 6}}.\\frac{{ - 3}}{5} + \\frac{5}{2}.\\frac{{ - 3}}{5}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- a,b: Tính theo thứ tự trong ngoặc trước\n- c: Áp dụng tính chất phân phối của phép nhân với phép cộng.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\left( {\\frac{{ - 2}}{{ - 5}}:\\frac{3}{{ - 4}}} \\right).\\frac{4}{5} = \\left( {\\frac{2}{5}.\\frac{{ - 4}}{3}} \\right).\\frac{4}{5}\\\\ = \\frac{{ - 8}}{{15}}.\\frac{4}{5} = \\frac{{ - 32}}{{75}}\\end{array}\\)\nb)\n\\(\\begin{array}{l}\\frac{{ - 3}}{{ - 4}}:\\left( {\\frac{7}{{ - 5}}.\\frac{{ - 3}}{2}} \\right) = \\frac{3}{4}:\\frac{{ - 21}}{{ - 10}}\\\\ = \\frac{3}{4}.\\frac{{10}}{{21}} = \\frac{{30}}{{84}} = \\frac{5}{14}\\end{array}\\)\nc)\n\\(\\begin{array}{l}\\frac{{ - 1}}{9}.\\frac{{ - 3}}{5} + \\frac{5}{{ - 6}}.\\frac{{ - 3}}{5} + \\frac{5}{2}.\\frac{{ - 3}}{5}.\\\\ = \\frac{{ - 3}}{5}.\\left( {\\frac{{ - 1}}{9} + \\frac{5}{{ - 6}} + \\frac{5}{2}} \\right)\\\\ = \\frac{{ - 3}}{5}.\\left( {\\frac{{ - 2}}{{18}} + \\frac{{ - 15}}{{18}} + \\frac{{45}}{{18}}} \\right)\\\\ = \\frac{{ - 3}}{5}.\\frac{{28}}{{18}}\\\\ = \\frac{{ - 3}}{5}.\\frac{{14}}{9}\\\\ = \\frac{{ - 14}}{{15}}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một ô tô chạy hết 8 phút trên một đoạn đường với vận tốc trung bình 40 km/h. Hãy tính độ dài đoạn đường đó. Người lái xe muốn thời gian chạy hết đoạn đường đó chỉ 5 phút thì ô tô phải chạy với vận tốc trung bình bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính độ dài quãng đường\n=> Vận tốc trung bình nếu muốn chạy hết đoạn đường đó trong 5 phút: vận tốc = quãng đường : thời gian\nLời giải chi tiết\nĐổi 8 phút =\\(\\frac{8}{{60}}\\)= \\(\\frac{2}{{15}}\\) giờ\n5 phút = \\(\\frac{5}{{60}}\\)=\\(\\frac{1}{{12}}\\) giờ\nĐộ dài quãng đường đó là:\n\\(\\frac{2}{{15}}\\). 40 = \\(\\frac{{16}}{3}\\) (km)\nNgười lái xe muốn thời gian chạy hết quãng đường đó chỉ 5 phút thì ô tô phải chạy với vận tốc trung bình là:\n\\(\\frac{{16}}{3}\\) : \\(\\frac{1}{{12}}\\) = 64 (km/h)\nĐáp số: 64 km/h."
+    },
+    {
+        "problem": "Bạn Hoà đã đọc hết một cuốn truyện dày 80 trang trong ba ngày. Biết ngày thứ nhất bạn Hoà đọc được \\(\\frac{3}{8}\\) số trang cuốn truyện, ngày thứ hai đọc được \\(\\frac{2}{5}\\) số trang cuốn truyện. Tính số trang bạn Hoà đã đọc được trong mỗi ngày.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính số trang bạn Hòa đọc được trong ngày thứ nhất = tổng số trang . \\(\\frac{3}{8}\\)\n- Tính số trang bạn Hòa đọc được trong ngày thứ hai = tổng số trang . \\(\\frac{2}{5}\\)\n=> Số trang bạn Hòa đọc được trong ngày thứ ba.\nLời giải chi tiết\nSố trang bạn Hòa đọc được trong ngày thứ nhất là: 80.\\(\\frac{3}{8}\\) = 30 (trang)\nSố trang bạn Hòa đọc được trong ngày thứ hai là: 80.\\(\\frac{2}{5}\\) = 32 (trang)\nSố trang bạn Hòa đọc được trong ngày thứ ba là: 80 - 32 - 30 = 18 (trang)"
+    },
+    {
+        "problem": "Nhiệt độ ở Moscow (Mat-xcơ-va) là - 20°C. Lúc đó, nhiệt độ ở Seoul (Xơ-un) bằng \\(\\frac{3}{4}\\)  nhiệt độ ở Moscow. Hỏi nhiệt độ ở Seoul lúc đó là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhiệt độ ở Seoul lúc đó = Nhiệt độ ở Moscow . \\(\\frac{3}{4}\\)\nLời giải chi tiết\nNhiệt độ ở Seoul lúc đó là:\n\\( - 20.\\frac{3}{4}\\; =  - 15\\) độ C\nĐáp số: -15 độ C\n\nLoigiaihay.com"
+    }
+]

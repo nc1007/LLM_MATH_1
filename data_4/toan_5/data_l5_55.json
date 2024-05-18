@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 2: Tính: 35 phút + 49 phút\nA.\t84 phút\nB.\t1 giờ 24 phút\nC.\t1,4 giờ\nD.\tCả A, B, C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:  35 phút  + 49 phút = 84 phút = 1 giờ  24 phút = 1,4 giờ.\nVậy cả A, B, C  đều đúng."
+    },
+    {
+        "problem": "Câu 7: Một người tham gia đua xe đạp, quãng đường đầu tiên đi hết 20 phút 18 giây, quãng đường thứ hai đi hết 18 phút 35 giây. Hỏi người đó đi cả hai quãng đường hết bao nhiêu thời gian?\nA.\t38 phút 52 giây\nB.\t38 phút 53 giây\nC.\t39 phút 52 giây\nD.\t39 phút 53 giây",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian người đó đi cả hai quãng đường đó là: \n20 phút 18 giây  + 18 phút 35 giây = 38 phút 53 giây\nĐáp số: 38 phút 53 giây."
+    },
+    {
+        "problem": "Câu 8: Chọn dấu thích hợp để điền vào chỗ chấm:\n5 giờ 48 phút  + 1 giờ 35 phút ... 7 giờ 13 phút\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 5 giờ 48 phút  +  1  giờ 35 phút = 6 giờ 83 phút.\nMà 83 phút = 60 phút + 23 phút = 1 giờ 23 phút.\nDo đó, 6 giờ 83 phút = 7 giờ 23 phút.\nLại có:  7 giờ 23 phút  > 7 giờ 13  phút\nVậy 5 giờ 48 phút  +  1  giờ 35 phút  > 7 giờ 13 phút."
+    },
+    {
+        "problem": "Câu 9: Chọn dấu thích hợp để điền vào chỗ chấm:\n3 năm 8 tháng + 6 năm 9 tháng … 8 năm 3 tháng + 2 năm 2 tháng\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 3 năm 8 tháng + 6 năm 9 tháng = 9 năm 17 tháng = 10 năm 5 tháng\n(Vì 17 tháng = 12 năm + 5 tháng = 1 năm 5 tháng) \n8 năm 3 tháng + 2 năm 2 tháng = 10 năm 5 tháng\nMà 10 năm 5 tháng = 10 năm 5 tháng\nNên 3 năm 8 tháng + 6 năm 9 tháng  = 8 năm 3 tháng + 2 năm 2 tháng."
+    },
+    {
+        "problem": "Câu 10: Lúc 7 giờ 45 phút một xe máy đi từ A đến B. Biết xe máy đi từ A đến B hết 2 giờ 20 phút. Hỏi xe máy đến B lúc mấy giờ?\nA.\t10 giờ 55 phút\nB.\t9 giờ 55 phút\nC.\t10 giờ 5 phút\nD.\t10 giờ 15 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xe máy đến B lúc:     \n7 giờ 45 phút + 2 giờ 20 phút = 9 giờ 65 phút = 10 giờ 5 phút\nĐáp số: 10 giờ 5 phút."
+    },
+    {
+        "problem": "Câu 11: Tính:  \n3 năm 6 tháng + 12 năm 7 tháng + 5 năm 9 tháng.\nA.\t21 năm 10 tháng\nB.\t22 năm\nC.\t20 năm 10 tháng\nD.\t21 năm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "3 năm 6 tháng + 12 năm 7 tháng + 5 năm 9 tháng\n= 15 năm 13 tháng + 5 năm 9 tháng\n= 16 năm 1 tháng + 5 năm 9 tháng  (vì 13 tháng = 1 năm 1 tháng)\n= 21 năm 10 tháng"
+    },
+    {
+        "problem": "Câu 12: Trang làm xong bài tập về nhà hết 1 giờ 25 phút. Lan làm xong bài tập đó lâu hơn Trang là 0,2 giờ . Hỏi Lan làm xong bài tập đó hết bao nhiêu thời gian?\nA.\t1 giờ 13 phút\nB.\t1 giờ 27 phút\nC.\t1 giờ 37 phút\nD.\t1 giờ 45 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 0,2 giờ = 12 phút\nThời gian Lan làm xong bài tập đó là:   \n1 giờ 25 phút + 12 phút = 1 giờ 37 phút.\nĐáp số: 1 giờ 37 phút."
+    }
+]

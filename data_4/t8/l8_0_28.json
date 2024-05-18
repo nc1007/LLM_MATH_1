@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Câu 1. Chọn câu sai. Với đa thức B≠0, ta có:\nA. \\frac{A}{B}=\\frac{A.M}{B.M}(với M khác đa thức 0)\nB. \\frac{A}{B}=\\frac{A:N}{B:N} (với N là một nhân tử chung, N khác đa thức 0)\nC. \\frac{A}{B}=\\frac{−A}{−B}\nD. \\frac{A}{B}=\\frac{A + M}{B + M}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTheo tính chất cơ bản của phân thức đại số, ta có:\n•\\frac{A}{B}=\\frac{A.M}{B.M}\\frac{A}{B}=\\frac{A.M}{B.M}(với M khác đa thức 0)\n⇒\\frac{A}{B}=\\frac{A−1}{B−1}=\\frac{−A}{−B}\n•\\frac{A}{B}=\\frac{A:N}{B:N} (với N là một nhân tử chung, N khác đa thức 0)\nMệnh đề \\frac{A}{B}=\\frac{A + M}{B + M}sai. Ví dụ:\\frac{2}{3}≠\\frac{3}{4}=\\frac{2+1}{3+1}."
+    },
+    {
+        "problem": "Câu 2. Phân thức \\frac{{x}^{2}−7x + 12}{{x}^{2}−6x + 9}(vớix≠3) bằng với phân thức nào sau đây?\nA. \\frac{x−4}{x+3}\nB. \\frac{x + 4}{x+3}\nC. \\frac{x−4}{x−3}\nD. \\frac{x + 4}{x−3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n\\frac{{x}^{2}−7x+12}{{x}^{2}−6x+9}=\\frac{{x}^{2}−4x−3x+12}{{x−3}^{2}}=\\frac{xx−4−3x−4}{{x−3}^{2}}\n=\\frac{x−4x−3}{{x−3}^{2}}=\\frac{x−4}{x−3}."
+    },
+    {
+        "problem": "Câu 3. Với điều kiện nào của x thì phân thức \\frac{5x−7}{{x}^{2}−9}có nghĩa?\nA. x≠3\nB. x≠\\frac{7}{5}\nC. x≠−3\nD. x≠± 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nPhân thức \\frac{5x−7}{{x}^{2}−9}có nghĩa khi và chỉ khi{x}^{2}−9≠0hay x≠± 3."
+    },
+    {
+        "problem": "Câu 4. Phân thức \\frac{7x+2}{5−3x}có giá trị bằng\\frac{11}{7}khi x bằng\nA. 1\nB. \\frac{1}{2}\nC. 2\nD. Không có giá trị x thỏa mãn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐiều kiện: 5−3x≠0hay x≠\\frac{5}{3}.\nTa có  \\frac{7x+2}{5−3x}=\\frac{11}{7}nên \n7x+27=115−3x\n49x+14=55−33x\n82x=41\nx=\\frac{1}{2}(TMĐK)"
+    },
+    {
+        "problem": "Câu 5. Có bao nhiêu giá trị của x để phân thức \\frac{{x}^{2}−1}{{x}^{2}−2x+1}có giá trị bằng 0?\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Điều kiện: {x}^{2}−2x+1≠0⇔{x−1}^{2}≠0⇔x−1≠0⇔x≠1\nTa có: \\frac{{x}^{2}−1}{{x}^{2}−2x+1}=0nên {x}^{2}−1=0\nKhi đó {x}^{2}=1 hay x=1  (KTM);  x=−1   (TM)\nVậy có 1 giá trị thỏa mãn yêu cầu đề bài.\nĐáp án đúng là: B"
+    },
+    {
+        "problem": "Câu 6. Chọn câu sai.\nA. \\frac{5x + 5}{5x}=\\frac{x + 1}{x}\nB. \\frac{{x}^{2}−4}{x + 2} = x−2\nC. \\frac{x + 3}{{x}^{2}−9}=\\frac{1}{x−3}\nD. \\frac{5x + 5}{5x} = 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\n•5x+5x=5x+1x=5xx+1⇒\\frac{5x+5}{5x}=\\frac{x+1}{x}\n•x−2x+2={x}^{2}−2x+2x−4={x}^{2}−4⇒\\frac{{x}^{2}−4}{x+2}=x−2\n•x+3x−3={x}^{2}+3x−3x−9={x}^{2}−9⇒\\frac{x+3}{{x}^{2}−9}=\\frac{1}{x−3}\n•5 . 5x=25x≠5x+5⇒\\frac{5x+5}{5x}≠5"
+    },
+    {
+        "problem": "Câu 7. Với điều kiện nào của x thì phân thức \\frac{{x}^{2}}{{x}^{2}+ 4x + 5}xác định?\nA. x≠−1và x≠3\nB. x≠1\nC. x≠−2\nD. x∈ℝ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nPhân thức \\frac{{x}^{2}}{{x}^{2}+ 4x + 5}xác định khi và chỉ khi \n{x}^{2}+4x+5≠0\n{x}^{2}+4x+4+1≠0\n{x+2}^{2}+1≠0\n{x+2}^{2}≠−1(luôn đúng vì {x+2}^{2}≥0  ∀x∈ℝ)\nVậy phân thức xác định với mọi x∈ℝ"
+    },
+    {
+        "problem": "Câu 8. Tìm a để \\frac{a{x}^{4}{y}^{4}}{−4x{y}^{2}}=\\frac{{x}^{3}{y}^{3}}{4y}.\nA. a = – 2x \nB. a = – x\nC. a = – y\nD. a = – 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: a{x}^{4}{y}^{4} . 4y=4a{x}^{4}{y}^{5}và −4x{y}^{2}.{x}^{3}{y}^{3}=−4{x}^{4}{y}^{5}.\nĐể \\frac{a{x}^{4}{y}^{4}}{−4x{y}^{2}}=\\frac{{x}^{3}{y}^{3}}{4y}thì {4ax}^{4}{y}^{5}=−{4x}^{4}{y}^{5}.\nDo đó 4a = −4 nên a = −1 ."
+    },
+    {
+        "problem": "Câu 9. Hãy tìm phân thức \\frac{P}{Q}thỏa mãn đẳng thức:\\frac{5x+3P}{5x−3}=\\frac{2x−1Q}{25{x}^{2}−9}.\nA. \\frac{P}{Q}=\\frac{{2x−1}^{2}}{5x+3}\nB. \\frac{P}{Q}=\\frac{{2x−1}^{2}}{{5x+3}^{2}}\nC. \\frac{P}{Q}=\\frac{2x−1}{{5x+3}^{2}}\nD. \\frac{P}{Q}=\\frac{2x−1}{{5x−3}^{2}}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n\\frac{5x+3P}{5x−3}=\\frac{2x−1Q}{25{x}^{2}−9}\n\\frac{5x+3P}{5x−3}=\\frac{2x−1Q}{5x+35x−3}\n5x+3P5x+35x−3=2x−1Q5x−3\n{5x+3}^{2}P=2x−1Q.\nDo đó \\frac{P}{Q}=\\frac{2x−1}{{5x+3}^{2}}."
+    },
+    {
+        "problem": "Câu 10. Với x≠y, hãy viết phân thức \\frac{1}{x−y} dưới dạng phân thức có tử là {x}^{2}−{y}^{2}.\nA. \\frac{{x}^{2}−{y}^{2}}{x−y{y}^{2}}\nB. \\frac{{x}^{2}−{y}^{2}}{x + y}\nC. \\frac{{x}^{2}−{y}^{2}}{x−y}\nD. \\frac{{x}^{2}−{y}^{2}}{{x−y}^{2}x + y}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nPhân thức cần tìm có dạng là \\frac{{x}^{2}−{y}^{2}}{A}.\nTa có: \\frac{1}{x−y}=\\frac{{x}^{2}−{y}^{2}}{A}\nA .  1=x−y{x}^{2}−{y}^{2}\nA=x−yx−yx+y\nA={x−y}^{2}x+y\nVậy phân thức cần tìm là \\frac{{x}^{2}−{y}^{2}}{{x−y}^{2}x + y}."
+    },
+    {
+        "problem": "Câu 11. Đưa phân thức \\frac{\\frac{1}{3}x−2}{{x}^{2}−\\frac{4}{3}}về phân thức có tử và mẫu là các đa thức với hệ số nguyên.\nA. \\frac{x−6}{3{x}^{2}−4}\nB. \\frac{x−2}{3{x}^{2}−4}\nC. \\frac{x−6}{{x}^{2}−4}\n\\frac{3x−2}{3{x}^{2}−4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: \\frac{\\frac{1}{3}x−2}{{x}^{2}−\\frac{4}{3}}=\\frac{3\\frac{1}{3}x−2}{3{x}^{2}−\\frac{4}{3}}=\\frac{x−6}{3{x}^{2}−4}."
+    },
+    {
+        "problem": "Câu 12. Tính giá trị của biểu thức A = \\frac{{x}^{2}−{4y}^{2}x−2y}{{x}^{2}−{4xy + 4y}^{2}}tại x = 98 và y = 1.\nA. 99\nB. 100\nC. 199\nD. 96",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nA=\\frac{{x}^{2}−4{y}^{2}x−2y}{{x}^{2}−4xy+4{y}^{2}}=\\frac{x−2yx+2yx−2y}{{x−2y}^{2}}\n=\\frac{{x−2y}^{2}x+2y}{{x−2y}^{2}}=x+2y.\nTại x = 98 và y = 1 ta có A=98+2.1=100."
+    },
+    {
+        "problem": "Câu 13. Cho A=\\frac{{x}^{2}+x−6}{2{x}^{2}+6x}. Khi đó\nA. A=\\frac{x−2}{2}\nB. A=\\frac{x−2}{2x+6}\nC. A=\\frac{x−2}{x+3}\nD. A=\\frac{x−2}{2x}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nA=\\frac{{x}^{2}+x−6}{2{x}^{2}+6x}=\\frac{{x}^{2}+3x−2x−6}{2{x}^{2}+3x}\n=\\frac{xx+3−2x+3}{2xx+3}\n=\\frac{x−2x+3}{2xx+3}=\\frac{x−2}{2x}."
+    }
+]

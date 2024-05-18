@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Mi-li-mét vuông là diện tích của hình vuông có cạnh dài 1mm. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mi-li-mét vuông là diện tích của hình vuông có cạnh dài 1mm.\nVậy phát biểu trên là đúng."
+    },
+    {
+        "problem": "Câu 3: 78mm^{2}  được đọc là: \nA.\tBảy mươi tám mét\nB.\tBảy mươi tám mi-li-mét\nC.\tBảy tám mét vuông\nD.\tBảy mươi tám mi-li-mét vuông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "mm^{2}  là cách viết tắt cả mi-li-mét vuông nên 78mm^{2}  được đọc là bảy mươi tám mi-li-mét vuông."
+    },
+    {
+        "problem": "Câu 4: Cho: 4dam^{2}  = ...dm^{2} \nSố thích hợp điền vào chỗ trống là:\nA.\t40\nB.\t400\nC.\t4000\nD.\t40000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1dam^{2}  = 100m^{2}  = 10000dm^{2}  nên 4dam^{2}  = 40000dm^{2} .\nVậy số thích hợp điền vào chỗ chấm là 40000."
+    },
+    {
+        "problem": "Câu 7: Chọn dấu thích hợp để điền vào chỗ chấm:\n41mm^{2} \nA. <\nB. >\nC. =",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 41mm^{2}  x 4 = 164mm^{2} \n2cm^{2}  - 36mm^{2}  = 200mm^{2}  -36mm^{2}  = 164mm^{2} \nVì 164mm^{2}  = 164mm^{2}  nên 41mm^{2}  x 4 = 2cm^{2}  - 36mm^{2}"
+    },
+    {
+        "problem": "Câu 9: Cho: 24hm^{2}  < ...m^{2} \nSố thích hợp để điền vào ô trống là:\nA.\t2400\nB.\t24000\nC.\t240000\nD.\t2400000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1hm^{2}  = 10000m^{2}  nên 24hm^{2}  = 240000m^{2}  \nTrong các đáp án đã cho ta chỉ có 240000 < 2400000m^{2} , hay 24hm^{2}  < 2400000m^{2}  \nVậy số thích hợp điền vào ô trống là 2400000."
+    }
+]

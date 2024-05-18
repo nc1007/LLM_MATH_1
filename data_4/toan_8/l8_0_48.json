@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Bài 1: Hãy chọn câu sai.\nA. Tứ giác có 4 cạnh bằng nhau là hình thoi\nB. Tứ giác có hai đường chéo vuông góc với nhau và bằng nhau là hình thoi\nC. Hình bình hành có đường chéo là phân giác của một góc là hình thoi\nD. Hình bình hành có hai đường chéo vuông góc với nhau là hình thoi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Tứ giác có 4 cạnh bằng nhau là hình thoi\n+ Hình bình hành có hai cạnh kề bằng nhau là hình thoi\n+ Hình bình hành có hai đường chéo vuông góc với nhau là hình thoi\n+ Hình bình hành có một đường chéo là đường phân giác của một góc là hình thoi\nNên A, C, D đúng, B sai\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 2: Điền từ thích hợp vào chỗ trống: “Tứ giác có hai đường chéo … là hình thoi”\nA. bằng nhau\nB. giao nhau tại trung điểm mỗi đường và vuông góc với nhau\nC. giao nhau tại trung điểm mỗi đường\nD. bằng nhau và giao nhau tại trung điểm mỗi đường",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Tứ giác có hai đường chéo giao nhau tại trung điểm mỗi đường là hình thoi\n+ Hình bình hành có hai đường chéo vuông góc với nhau là hình thoi\nNên tứ giác có hai đường chéo giao nhau tại trung điểm mỗi đường và vuông góc với nhau là hình thoi\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 3: Hình thoi không có tính chất nào dưới đây?\nA. Hai đường chéo cắt nhau tại trung điểm của mỗi đường\nB. Hai đường chéo là các đường phân giác của các góc của hình thoi\nC. Hai đường chéo bằng nhau\nD. Hai đường chéo vuông góc với nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình thoi có tất cả các tính chất của hình bình hành\n+ Các cạnh đối song song và bằng nhau, các góc đối bằng nhau\n+ Hai đường chéo giao nhau tại trung điểm mỗi đường.\nNgoài ra còn có\n+ Hai đường chéo vuông góc với nhau\n+ Hai đường chéo là các đường phân giác của các góc của hình thoi\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 4: Điền cụm từ thích hợp vào chỗ trống: “Hình thoi có hai đường chéo …”\nA. cắt nhau tại trung điểm mỗi đường\nB. là các đường phân giác của các góc của hình thoi\nC. vuông góc với nhau\nD. Cả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình thoi có tất cả các tính chất của hình bình hành:\n+ Các cạnh đối song song và bằng nhau, các góc đối bằng nhau.\n+ Hai đường chéo giao nhau tại trung điểm mỗi đường.\nNgoài ra còn có:\n+ Hai đường chéo vuông góc với nhau\n+ Hai đường chéo là các đường phân giác của các góc của hình thoi\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 7: Hình thoi có chu vi bằng 20cm thì độ dài cạnh của nó bằng\nA. 4cm\nB. 5cm\nC. 8cm\nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi cạnh của hình thoi là a cm (a > 0)\nVì hình thoi có 4 cạnh bằng nhau nên chu vi hình thoi là 4a = 20 ⇔ a = 5cm\nVậy cạnh hình thoi có độ dài là 5cm\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 8: Hình thoi có chu vi bằng 36cm thì độ dài cạnh của nó bằng\nA. 12cm\nB. 4cm\nC. 9cm\nD. Đáp án khác",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi cạnh của hình thoi là a cm (a > 0)\nVì hình thoi có 4 cạnh bằng nhau nên chu vi hình thoi là 4a = 36 ⇔ a = 9cm\nVậy cạnh hình thoi có độ dài là 9cm\nĐáp án cần chọn là: C"
+    }
+]

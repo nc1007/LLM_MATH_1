@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 1 : Cho phép tính sau:  \nPhép chia đã cho có thương là 25 và số dư là 15. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép chia đã cho có thương là 25 và số dư là 15.\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2 : Tính: 4625 ∶ 125 \nA.\t37\nB.\t307\nC.\t317\nD.\t370",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy: 4525:125=37"
+    },
+    {
+        "problem": "Câu 3 : Tính : 9256 ∶ 235 \nA.\t38 dư 37\nB.\t38 dư 85\nC.\t39 dư 52\nD.\t39 dư 91",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy: 9256:235=39 dư 91."
+    },
+    {
+        "problem": "Câu 5 : Số dư trong phép chia 35267 ∶ 248 là \nA.\t41\nB.\t51\nC.\t61\nD.\t71",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính và thực hiện tính ta có:\n35267:248=142 dư 51\nVậy số dư trong phép chia 35267:248 là 51."
+    },
+    {
+        "problem": "Câu 6 : Chọn dấu thích hợp để điền vào chỗ chấm:  \n6432 ∶ 148 ...10224 ∶ 213\nA.\t=\nB.\t>\nC.\t<",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n7104:148=48\n10224:213=48 \nMà 48=48 \nDo đó: 7104:148=10224:213."
+    },
+    {
+        "problem": "Câu 7 : Tìm x, biết:   24225 ∶ x = 285 \nA.\tx = 83\nB.\tx = 85\nC.\tx = 87\nD.\tx = 89",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "24225:x=285\nx=24225:285\nx=85 \nVậy đáp án đúng là x=85."
+    },
+    {
+        "problem": "Câu 9 : Chọn dấu thích hợp để điền vào chỗ chấm:  \n212 × 68 ∶ 136 ...(8472 + 18438) ∶  234\nA.\t=\nB.\t>\nC.\t<",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+) 212×68:136=14416:136=106;\n+) (8472+18438):234=26910:234=115.\nMà 106 < 115 \nDo đó 212×68:136 < (8472+18438):234"
+    },
+    {
+        "problem": "Câu 11 : Người ta chia đều 18kg muối vào 225 gói. Hỏi 146 gói muối như thế nặng bao nhiêu gam? \nA.\t11480g\nB.\t11680g\nC.\t11720g\nD.\t11840g",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 18kg=18000g \n1 gói muối nặng số gam là:\n          18000:225=80(g) \n146 gói muối nặng số gam là:\n      80×146=11680(g) \n         Đáp số: 11680g."
+    },
+    {
+        "problem": "Câu 13 :  Phân xưởng A có 84 người, mỗi người dệt được 148 cái áo. \nPhân xưởng B có 112 người và dệt được số áo nhiều hơn số áo phân xưởng A là 2800 cái áo. \nHãy so sánh số áo mỗi người ở phân xưởng B dệt được so với số áo mỗi người ở phân xưởng A dệt được. \nA.\tNhiều hơn 24 cái\nB.\tNhiều hơn 12 cái\nC.\tÍt hơn 24 cái\nD.\tÍt hơn 12 cái",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân xưởng A dệt được số cái áo là:\n         148×84=12432 (cái áo)\nPhân xưởng B dệt được số cái áo là:\n        12432+2800=15232 (cái áo)\nMỗi người ở phân xưởng B dệt được số cái áo là:\n        15232:112=136 (cái áo)\nTa thấy 136<148 \nVậy mỗi người ở phân xưởng B dệt được ít áo hơn mỗi người ở phân xưởng A và ít hơn số áo là:\n          148−136=12 (cái áo)\n              Đáp số: Ít hơn 12 cái áo."
+    },
+    {
+        "problem": "Câu 14 : Một khu đất hình chữ nhật có chiều dài là 243m và diện tích \nbằng diện tích khu đất hình vuông độ dài cạnh 135m. Người ta trồng cây xanh xung quanh khu đất đó, khoảng cách giữa hai cây là 3m. \nHỏi người ta cần trồng tất cả bao nhiêu cây? \nA.\t211 cây\nB.\t212 cây\nC.\t213 cây\nD.\t214 cây",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích khu đất hình vuông là:\n       135×135=18225(m^{2} )\nVì khu đất hình chữ nhật và khu đất hình vuông có diện tích bằng \nnhau nên khu đất hình chữ nhật có diện tích là 18225m^{2} .\nChiều rộng khu đất hình chữ nhật là:\n         18225:243=75(m) \nChu vi khu đất hình chữ nhật là:\n      (243+75)×2=636(m) \nNgười ta cần trồng tất cả số cây là:\n      636:3=212 (cây)\n               Đáp số: 212 cây."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 3: Một hình thoi có diện tích là 224cm^{2}  và độ dài đường chéo lớn là 28cm. Vậy độ dài đường chéo bé là:\nA.\t8cm\nB.\t10cm\nC.\t12cm\nD.\t16cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài đường chéo bé của hình thoi đó là:\n          224×2:28=16(cm)\n                                        Đáp số: 16cm.\nChú ý\nHọc sinh có thể làm sai khi tính độ dài đường chéo bé bằng cách lấy diện tích chia cho đường chéo lớn, từ đó chọn đáp án sai là A."
+    },
+    {
+        "problem": "Câu 4: Một mảnh đất dạng hình thoi có độ dài đường chéo bé là 68m, độ dài đường chéo lớn gấp đôi đường chéo bé. Diện tích mảnh đất đó là:\nA. 4264m^{2} \nB. 4624m^{2} \nC. 8528m^{2} \nD. 9248m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài đường chéo lớn của mảnh đất đó là:\n            68×2=136(m) \nDiện tích của mảnh đất đó là:\n            136×68:2=4624(m^{2} )\n                                    Đáp số: 4624m^{2}"
+    }
+]

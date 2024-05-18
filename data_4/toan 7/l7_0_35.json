@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 3: Cho ∆ABC = ∆MNP. Khẳng định nào sau đây là sai?\nA. AB = MN;\nB. AC = NP;\nC. A^=M^ ;\nD. P^=C^ ;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: ∆ABC = ∆MNP Nên A^=M^ ; P^=C^ ; AB = MN; AC = MP; BC = NP\nNên đáp án A, C, D đúng, B sai."
+    },
+    {
+        "problem": "Câu 4: Cho ∆ABC = ∆DEF. Biết A^ = 23°. Khi đó:\nA. D^ = 23°;\nB. D^ = 32°;\nC. E^ = 23°;\nD. E^ = 32°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: ∆ABC = ∆DEF nên D^=A^ (hai góc tương ứng)\nNên D^ = 23°"
+    },
+    {
+        "problem": "Câu 5: Hai tam giác bằng nhau là:\nA. Hai tam giác có ba cặp cạnh tương ứng bằng nhau;\nB. Hai tam giác có ba cặp góc tương ứng bằng nhau;\nC. Hai tam giác có ba cặp cạnh, ba cặp góc tương ứng bằng nhau;\nD. Hai tam giác có hai cạnh bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHai tam giác có ba cặp cạnh, ba cặp góc tương ứng bằng nhau."
+    },
+    {
+        "problem": "Câu 10: Cho ∆ABC = ∆MNP. Biết AB = 7 cm, MP = 10 cm và chu vi của tam giác 24 cm. Tính các cạnh còn lại của mỗi tam giác.\nA. MN = AC = 7 cm; BC = NP = 10 cm;\nB. MN = AC = 10 cm; BC = NP = 7 cm;\nC. MN = 7 cm; AC = 10 cm; BC = NP = 7 cm;\nD. MN = 10 cm; AC = 7 cm; BC = NP = 7 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có ∆ABC = ∆MNP nên AB = MN = 7cm, AC = MP = 10cm, BC = NP (các cạnh tương ứng bằng nhau)\nChu vi tam giác ABC là: AB + AC + BC = 24 (cm).\nNên BC = 24 – (AB + AC) \n= 24 – (7 + 10) = 24 – 17 = 7 (cm).\nSuy ra NP = BC = 7 cm.\nVậy MN = 7 cm; AC = 10 cm; BC = NP = 7 cm."
+    },
+    {
+        "problem": "Câu 11: Cho ∆ABC = ∆DEF. Biết rằng AB = 6 cm; AC = 8 cm; EF = 10 cm. Tính chu vi ∆DEF là:\nA. 24 cm;\nB. 20 cm;\nC. 18 cm;\nD. 30 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: ∆ABC = ∆DEF nên AB = DE = 6 cm; AC = DF = 8 cm, BC = EF = 10 cm (các cạnh tương ứng bằng nhau).\nChu vi tam giác DEF là:\n DE + DF + EF = 6 + 8 + 10 = 24 (cm).\nVậy chu vi tam giác DEF là 24 cm."
+    },
+    {
+        "problem": "Câu 12: Cho ∆ABC = ∆DEF. Biết rằng AB = 5 cm; AC = 12 cm; EF = 13 cm. Tính chu vi ∆DEF là:\nA. 30 cm;\nB. 22 cm;\nC. 18 cm;\nD. 20 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: ∆ABC = ∆DEF nên AB = DE = 5 cm; AC = DF = 12 cm, BC = EF = 13 cm (các cạnh tương ứng bằng nhau).\nChu vi tam giác DEF là:\nDE + DF + EF = 5 + 12 + 13 = 30 (cm)."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Chọn đáp án đúng nhất:\nHéc-tô-mét vuông còn gọi là héc-ta hay ha. Đúng hay sai?\nA.\tĐúng \nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Héc-tô-mét vuông còn gọi là héc-ta hay ha."
+    },
+    {
+        "problem": "Câu 8: Chọn dấu thích hợp để điền vào chỗ trống:\n5m2cm...520cm\nA. >\nB. <\nC. =",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1m = 100cm nên 5m = 500cm. \n5m2cm> = 5m + 2cm = 500cm + 2cm = 502cm.\nMà 502cm < 520cm\nVậy 5m2cm < 520cm"
+    },
+    {
+        "problem": "Câu 9: Có 14 người làm xong một công việc trong 5 ngày. Hỏi nếu có 35 người thì sẽ làm xong công việc đó trong bao nhiêu ngày? (Biết mức làm của mỗi người là như nhau).\nA.\t2 ngày\nB.\t4 ngày\nC.\t6 ngày\nD.\t8 ngày",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(Phương pháp rút về đơn vị)\nMột người làm xong công việc đó trong số ngày là:\n14 X 5 = 70  (ngày)\nNếu có 35 người thì sẽ làm xong công việc đó trong số ngày là:\n70 : 35 = 2 (ngày)\nĐáp số: 2 ngày."
+    },
+    {
+        "problem": "Câu 10: Chọn dấu thích hợp để điền vào chỗ trống:\n2hm^{2} 5dam^{2}  ... 2005dam^{2} \nA. >\nB. =\nC. <",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 2hm^{2}  = 200dam^{2}  \n2hm^{2} 5dam^{2}  = 2hm^{2}  + 5dam^{2}  = 200hm^{2}  + 5dam^{2}  = 205dam^{2} \nVì 205dam^{2}  < 2005dam^{2}  nên 2hm^{2} 5dam^{2}  < 2005dam^{2}"
+    }
+]

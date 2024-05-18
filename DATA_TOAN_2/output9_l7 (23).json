@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Gọi tên đỉnh, cạnh đáy, cạnh bên, mặt bên của hình lăng trụ đứng tứ giác MNPQ.M’N’P’Q’ trong hình 10.7.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình lăng trụ đứng tứ giác có: 8 đỉnh, 8 cạnh đáy, 4 cạnh bên, 4 mặt bên\nLời giải chi tiết\n-Các đỉnh: M, N, P, Q, M’, N’, P’, Q’.\n-Cạnh đáy: MN, NP, PQ, QM, M’N’, N’P’, P’Q’, Q’M’\n-Cạnh bên: MM’, NN’, PP’, QQ’\n-Mặt bên: MNN’M’, MQQ’M’, PQQ’P’, NPP’N’."
+    },
+    {
+        "problem": "Gọi tên các đỉnh, cạnh, đường chéo, mặt của hình lập phương trong Hình 10.2.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình lập phương có 6 đỉnh, 12 cạnh, 4 đường chéo, 6 mặt.\nLời giải chi tiết\n-Các đỉnh: A, B, C, D, M, N, P, Q\n-Cạnh: AB, BC, CD, DA, MN, NP, PQ, QN, AN, BM, CP, DQ.\n-Các đường chéo: AP; BQ; CM; DN.\n-Các mặt: ABCD, MNPQ, ABNM, BCPN, CDQP, ADQM."
+    },
+    {
+        "problem": "Cho hình hộp chữ nhật có kích thước như Hình 10.13. Tính thể tích, diện tích xung quanh của hình hộp chữ nhật.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Thể tích: \\(V = a.b.h\\)\n-Diện tích xung quanh: \\({S_{day}} = {C_{day}}.h\\)\nLời giải chi tiết\nThể tích hình hộp chữ nhật là: \\(V = a.b.h = 8.5.6 = 240\\left( {c{m^3}} \\right)\\)\nChu vi đáy hình hộp chữ nhật là: \\(C = 2.\\left( {a + b} \\right) = 2.\\left( {8 + 5} \\right) = 13.2 = 26\\left( {cm} \\right)\\)\nDiện tích xung quanh của hình hộp chữ nhật là: \\(S = {C_{day}}.h = 26.6 = 156\\left( {c{m^2}} \\right)\\)."
+    },
+    {
+        "problem": "Tính thể tích hình lăng trụ đứng tam giác trong Hình 10.8.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "V = Diện tích đáy . chiều cao\nDiện tích tam giác = \\(\\dfrac{1}{2}\\) .Chiều cao. Cạnh đáy.\nLời giải chi tiết\nDiện tích đáy của hình lăng trụ là: \\(S = \\dfrac{1}{2} \\cdot 10 \\cdot 5 = 25\\left( {c{m^2}} \\right)\\)\nThể tích lăng trụ là: \\(V = S.h = 25.15 = 375\\left( {c{m^3}} \\right)\\)"
+    },
+    {
+        "problem": "Hộp đựng khối rubik có dạng một hình lập phương có cạnh 3cm, được làm bằng bìa cứng. Tính thể tích của chiếc hộp và diện tích bìa cứng để làm chiếc hộp đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Thể tích hình lập phương có cạnh a là: V = a3\n-Diện tích bìa cứng = diện tích toàn phần = 6 . Diện tích 1 mặt = 6 . a2\nLời giải chi tiết\nThể tích của chiếc hộp là:\nV = a3 = 33 = 27 (cm3)\nDiện tích bìa cứng dùng để làm chiếc hộp là:\nS = 6.32 = 54 (cm2)"
+    },
+    {
+        "problem": "Một thùng đựng hàng có nắp dạng hình hộp chữ nhật có chiều dài 3m, chiều rộng 2m và chiều cao 1,8m. Người thợ cần bao nhiêu kilogam sơn để đủ sơn toàn bộ mặt ngoài của chiếc thùng đó, biết rằng mỗi kilogam sơn có thể sơn được 5 m2 mặt thùng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích sơn cần dùng chính là tính diện tích toàn phần của thùng hàng.\n\\(S_{tp} = S_{xq} + S _{2đáy}\\)\nLời giải chi tiết\nDiện tích xung quanh của thùng đựng hàng đó là:\n\\({S_{xq}} = {C_{đáy}}.h = 2.\\left( {a + b} \\right).h = \\left( {3 + 2} \\right).2.1,8 = 18\\left( {{m^2}} \\right)\\)\nDiện tích hai đáy của thùng đựng hàng là:\n\\({S_{2đáy}} = 2.a.b = 2.3.2 = 12\\left( {{m^2}} \\right)\\)\nDiện tích toàn phần của thùng đựng hàng đó là:\n\\({S_{xq}} = {S_{xq}} + 2{S_{đáy}} = 18 + 12 = 30\\left( {{m^2}} \\right)\\)\nSố kilogam sơn cần dùng là: 30 : 5 = 6 (kg)"
+    },
+    {
+        "problem": "Một hình lăng trụ đứng đáy là một tứ giác có chu vi 30 cm, chiều cao của hình lăng trụ là 8 cm. Tính diện tích xung quanh của hình lăng trụ đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích xung quanh = chu vi đáy . chiều cao.\nLời giải chi tiết\nDiện tích xung quanh của hình lăng trụ là:\n\\({S_{xq}} = {C_{day}}.h = 30.8 = 240\\left( {c{m^2}} \\right)\\)"
+    },
+    {
+        "problem": "Một cái bể chứa nước có dạng hình hộp chữ nhật dài 2 m, rộng 1,5 m, cao 1,2 m. Lúc đầu bể chứa đầy nước, sau đó người ta lấy ra 45 thùng nước, mỗi thùng 20 lít. Hỏi sau khi lấy nước ra, mực nước trong bể cao bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính thể tích hình hộp chữ nhật\n-Tính lượng nước lấy ra\n-Tính lượng nước còn lại trong bể\n-V = Sđáy . chiều cao \\( \\Rightarrow h = \\dfrac{V}{{{S_{day}}}}\\)\nLời giải chi tiết\nThể tích của bể chứa (hình hộp chữ nhật) là:\n\\(V = 2 \\cdot 1,5 \\cdot 1,2 = 3,6\\left( {{m^3}} \\right)\\)\nĐổi \\(3,6{m^3} = 3\\,600d{m^3} = 3\\,600\\,l\\)\nLượng nước lấy ra là: 20 . 45 = 900 (l)\nLượng nước còn lại trong bể là: 3 600 – 900 = 2 700 (l)\nĐổi 2 700 l = 2,7 m3.\nDiện tích đáy bể là: 2 . 1,5 = 3 (m2)\nMực nước trong bể cao là: 2,7 : 3 = 0,9 (m)"
+    },
+    {
+        "problem": "Một bể bơi có chiều dài 12m, chiều rộng 5m và sâu 2,75 m. Hỏi người thợ phải dùng bao nhiêu viên gạch men hình chữ nhật để lát đáy và xung quanh thành bể đó? Biết rằng diện tích mạch vữa lát không đáng kể và mỗi viên gạch có chiều dài 25 cm, chiều rộng 20 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Diện tích cần lát gạch = diện tích xung quanh + diện tích đáy bể.\n-Diện tích 1 viên gạch.\nLời giải chi tiết\nDiện tích xung quanh của bể là:\n\\({S_{xq}} = {C_{day}}.h = 2\\left( {a + b} \\right).h = 2.\\left( {12 + 5} \\right).2,75 = 93,5\\left( {{m^2}} \\right)\\)\nDiện tích đáy bể (hình chữ nhật) là:\n\\({S_{day}} = a.b = 12.5 = 60\\left( {{m^2}} \\right)\\)\nDiện tích cần lát gạch là:\n\\(S = {S_{xq}} + {S_{day}} = 93,5 + 60 = 153,5\\left( {c{m^2}} \\right)\\)\nDiện tích một viên gạch men là:\n\\({S_{viengach}} = 20.25 = 500\\left( {c{m^2}} \\right)\\)\nĐổi \\(500c{m^2} = 0,05{m^2}\\)\nSố viên gạch men cần dùng là: \\(153,5:0,05 = 3\\,070\\) (viên)"
+    },
+    {
+        "problem": "Một lăng kính thuỷ tinh có dạng hình lăng trụ đứng có đáy là tam giác đều, kích thước như trong Hình 10.9\na)Tính thể tích của lăng kính thuỷ tinh.\nb)Người ta làm một chiếc hộp bằng bìa cứng để đựng vừa khít lăng kính thuỷ tinh nói trên (hở hai đáy tam giác). Tính diện tích bìa cần dùng (bỏ qua mép nối).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Thể tích: \\(V = {S_{day}}.h\\)\nb)Diện tích bìa cần dùng chính là diện tích xung quanh hình lăng trụ đứng.\nLời giải chi tiết\na)\nDiện tích đáy của lăng kính là: \\(S = \\dfrac{1}{2}.3.2,6 = 3,9\\left( {c{m^2}} \\right)\\)\nThể tích lăng kính thuỷ tinh là: \\(V = S.h = 3,9.10 = 39\\left( {c{m^3}} \\right)\\)\nb)\nChu vi đáy là: C = 3 + 3 + 3 = 9 (cm)\nDiện tích bìa cứng cần dùng là:\n\\({S_{xp}} = {C_{day}}.h = 9.10 = 90\\left( {c{m^2}} \\right)\\)"
+    },
+    {
+        "problem": "Tính thể tích của một hình lập phương, biết tổng diện tích các mặt của nó là 216 cm2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính diện tích 1 mặt từ đó suy ra cạnh của hình lập phương.\nLời giải chi tiết\nHình lập phương có 6 mặt bằng nhau\nDiện tích một mặt của hình lập phương là: 216 : 6 = 36 (cm2)\nGọi độ dài cạnh hình lập phương là a. Ta có: \\({a^2} = 36 \\Rightarrow a = 6\\)\nThể tích hình lập phương là: \\(V = {a^3} = {6^3} = 216\\left( {c{m^3}} \\right)\\)"
+    },
+    {
+        "problem": "Thiết bị máy được xếp vào các hình lập phương có diện tích toàn phần bằng 96 dm2. Người ta xếp các hộp đó vào trong một thùng hình lập phương làm bằng tôn không có nắp. Khi gò một thùng như thế hết 3,2 m2 tôn (diện tích các mép hàn không đáng kể). Hỏi mỗi thùng đựng được bao nhiêu hộp thiết bị nói trên?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính thể tích của một hộp đựng thiết bị: Tính độ dài cạnh (Hình lập phương có 6 cạnh)\n-Tính thể tích thùng đựng hàng: Tính độ dài cạnh (Thùng đựng hàng có 5 mặt)\n-Tính số hộp thiết bị đựng trong một thùng: Lấy thể tích thùng đựng hàng : thể tích của 1 hộp đựng thiết bị.\nLời giải chi tiết\nĐổi \\(3,2{m^2} = 320d{m^2}\\)\nDiện tích một mặt của hộp thiết bị là: \\(96:6 = 16\\left( {d{m^2}} \\right)\\) (hình lập phương có 6 mặt)\nCạnh của hộp thiết bị là: \\(4\\) (vì \\(4.4 = 16\\))\nThể tích của một hộp đựng thiết bị là: \\({4^3} = 64\\left( {d{m^3}} \\right)\\)\nDiện tích một mặt của thùng đựng hàng là: \\(320:5 = 64\\left( {d{m^2}} \\right)\\) (thùng lập phương k có lắp nên có 5 mặt)\nCạnh của thùng đựng hàng là: 8 (vì \\({8^2} = 64\\))\nThể tích thùng đựng hàng là: \\({8^3} = 512\\left( {d{m^3}} \\right)\\)\nSố hộp thiết bị đựng trong một thùng là: \\(512:64 = 8\\) (hộp)."
+    },
+    {
+        "problem": "Một hình lăng trụ đứng có hình khai triển như Hình 10.10. Tính diện tích xung quanh của hình lăng trụ.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính diện tích các hình chữ nhật 1, 2, 3\n-Tính tổng diện tích 3 hình chữ nhật. Đây là diện tích xung quanh của hình lăng trụ\nLời giải chi tiết\n\nDiện tích hình chữ nhật 1 là: 5 . 8 = 40 (cm2)\nDiện tích hình chữ nhật 2 là: 8 . 4 = 32 (cm2)\nDiện tích hình chữ nhật 3 là: 8 . 3 = 24 (cm2)\nDiện tích xung quanh hình lăng trụ là:\n40 + 32 + 24 = 96 (cm2)"
+    },
+    {
+        "problem": "Một bể nước dạng hình hộp chữ nhật có chiều dài 2m.Lúc đầu bể không có nước. Sau khi đổ vào bể 120 thùng nước, mỗi thùng chứa 20 lít thì mực nước trong bể cao 0,8 m.\na)Tính chiều rộng của bể nước.\nb)Người ta đổ thêm vào bể 60 thùng nước nữa thì đầy bể. Hỏi bể nước cao bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Tính thể tích nước đổ vào bể\n-\\(V = a.b.h \\Rightarrow b = \\dfrac{V}{{a.h}}\\)\nb)\n- Tính lượng nước khi đầy bể (thể tích của bể).\n-\\(V = a.b.h \\Rightarrow h = \\dfrac{V}{{a.b}}\\)\nLời giải chi tiết\na)\nThể tích nước đổ vào bể là: V = 120 . 20 = 2 400 (l).\nĐổi 2 400 (l) = 2 400 dm3 = 2,4 (m3)\nTa có: \\(V = a.b.h \\Rightarrow b = \\dfrac{V}{{a.h}}\\)\nChiều rộng của bể là: \\(b = \\dfrac{{2,4}}{{2 \\cdot 0,8}} = 1,5\\left( m \\right)\\).\nb)\nTổng số thùng nước để đầy bể là: 120 + 60 = 180 (thùng nước)\nLượng nước khi đầy bể (thể tích của bể) là: 180 . 20 = 3 600 (l)\nĐổi 3 600 l = 3,6 (m3)\nTa có: \\(V = a.b.h \\Rightarrow h = \\dfrac{V}{{a.b}}\\)\nChiều cao của bể là:\\(h = \\dfrac{{3,6}}{{2.1,5}} = 1,2\\left( m \\right)\\)."
+    },
+    {
+        "problem": "Một nhà kính trồng hoa có hình dạng và kích thước như Hình 10.14. Nhà kính có hình dạng gồm một hình lăng trụ đứng tam giác và một hình hộp chữ nhật. Tính thể tích của nhà kính.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thể tích nhà kính = thể tích hình lăng trụ tam giác + thể tích hình hộp chữ nhật.\nLời giải chi tiết\nThể tích hình lăng trụ đứng tam giác là: \\({V_1} = {S_1}.h = \\left( {\\frac{1}{2} \\cdot 1,2 \\cdot 8} \\right) \\cdot 6 = 28,8\\left( {{m^3}} \\right)\\)\nThể tích hình hộp chữ nhật là: \\({V_2} = {S_2}.h = \\left( {8 \\cdot 6} \\right) \\cdot 3,8 = 182,4\\left( {{m^3}} \\right)\\)\nThể tích của nhà kính là: \\(V = {V_1} + {V_2} = 28,8 + 182,4 = 211,2\\left( {{m^3}} \\right)\\)"
+    },
+    {
+        "problem": "Cho hình lăng trụ đứng MNPQ.M’N’P’Q’ có đáy MNPQ là hình thang vuông tại M và N. Kích thước các cạnh như Hình 10.11. Tính thể tích hình lăng trụ.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính diện tích đáy là hình thang vuông.\n-Tính V = Sđáy . h.\nLời giải chi tiết\nDiện tích hình thang vuông MNPQ là:\n\\(S = \\dfrac{1}{2}\\left( {MQ + NP} \\right).MN = \\dfrac{1}{2}\\left( {20 + 10} \\right).8 = 120\\left( {c{m^2}} \\right)\\)\nThể tích của hình lăng trụ đứng MNPQ.M’N’P’Q’ là:\nV = S . h = 120 . 15 = 1 800 (cm3)."
+    },
+    {
+        "problem": "Bạn Hà có một bể cá có dạng hình lập phương có độ dài cạnh 10 cm. Ban đầu nước trong bể có độ cao 5 cm. Bạn Hà bỏ thêm vào trong bể một hòn đá trang trí chìm trong nước thì nước trong bể có độ cao 7cm (H.10.3). Hỏi hòn đá bạn Hà bỏ vào bể có thể tích bao nhiêu cm3 ?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính tổng thể tích của nước và hòn đá.\n-Tính thể tích nước trong bể ban đầu.\nLời giải chi tiết\nTổng thể tích của nước và hòn đá là:\n\\({V_1} = 10 \\cdot 10 \\cdot 7 = 700\\left( {c{m^3}} \\right)\\)\nThể tích nước trong bể ban đầu là:\n\\({V_2} = 10 \\cdot 10 \\cdot 5 = 500\\left( {c{m^3}} \\right)\\)\nThể tích hòn đá là:\n\\(V = {V_1} - {V_2} = 700 - 500 = 200\\left( {c{m^3}} \\right)\\)"
+    },
+    {
+        "problem": "Một hình lăng trụ đứng được ghép bởi một hình lăng trụ đứng tam giác và một hình hộp chữ nhật có kích thước như trong Hình 10.12. Tính thể tích của hình lăng trụ ABCEF.A’B’C’E’F’.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính thể tích hình lăng trụ đứng ABC.A’B’C.\n-Tính thể tích hình hộp chữ nhật ACEF.A’C’E’F’.\nLời giải chi tiết\nThể tích hình lăng trụ đứng ABC.A’B’C là:\n\\({V_1} = S.h = \\left( {\\dfrac{1}{2} \\cdot 3 \\cdot 4} \\right) \\cdot 8 = 48\\left( {c{m^3}} \\right).\\)\nThể tích hình hộp chữ nhật ACEF.A’C’E’F’ là:\n\\({V_2} = 5 \\cdot 6 \\cdot 8 = 240\\left( {c{m^3}} \\right).\\)\nThể tích hình lăng trụ đứng ABCEF.A’B’C’E’F’ là:\n\\(V = {V_1} + {V_2} = 48 + 240 = 288\\left( {c{m^3}} \\right)\\)."
+    },
+    {
+        "problem": "Một bể nước hình hộp chữ nhật có kích thước đáy là 2 m x 3 m chưa có nước. Mở vòi nước chảy  vào bể trong 8 giờ, mỗi giờ vòi chảy được 500 lít nước. Hỏi khi đó mực nước trong bể cao bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính lượng nước vòi chảy vào bể trong 8 giờ.\n-Áp dụng công thức: \\(V = a.b.h \\Rightarrow h = \\dfrac{V}{{a.b}}\\)\nLời giải chi tiết\nĐổi 500 lít = 500 dm3 = 0,5 m3\nLượng nước vòi chảy vào bể trong 8 giờ là: 0,5 . 8 = 4 (m3)\nGọi h là chiều cao nước trong bể, ta có: \\(2.3.h = 4 \\Rightarrow h = \\dfrac{4}{{2.3}} = \\dfrac{2}{3}\\left( m \\right)\\)\nVậy mực nước trong bể cao \\(\\dfrac{2}{3}m\\)"
+    }
+]

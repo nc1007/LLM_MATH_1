@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1: Diện tích xung quanh của một hình lập phương bằng chu vi một mặt nhân với 4. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích xung quanh của hình lập phương là tổng diện tích bốn mặt của hình lập phương.\nMà mỗi mặt đều là các hình vuông bằng nhau.\nVậy diện tích xung của hình lập phương bằng diện tích một mặt nhân với 4.\nPhát biểu đã cho là sai."
+    },
+    {
+        "problem": "Câu 2: Chọn đáp án đúng nhất:\nA.\tMuốn tính diện tích xung quanh của hình lập phương ta lấy diện tích một mặt nhân với 4\nB.\tMuốn tính diện tích toàn phần của hình lập phương ta lấy diện tích một mặt nhân với 6\nC.\tCả A vad B đều sai\nD.\tCả A và B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính diện tích xung quanh của hình lập phương ta lấy diện tích một mặt nhân với 4.\n-\tMuốn tính diện tích toàn phần của hình lập phương ta lấy diện tích một mặt nhân với 6.\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 4: Cho hình lập phương có cạnh là 0,5m. Diện tích xung quanh của hình lập phương đó là:\nA.\t1dm^{2}  \nB.\t10dm^{2} \nC.\t100dm^{2}  \nD.\t150dm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích một mặt của hình lập phương đó là:\n0,5 × 0,5 = 0,25 (m^{2} )\nDiện tích xung quanh của hình lập phương đó là:  \n0,25 × 4 = 1 (m^{2} )  \n1m^{2}  = 100dm^{2}  \nĐáp số: 100dm^{2} ."
+    },
+    {
+        "problem": "Câu 6: Một hình lập phương có chu vi đáy là 28dm. Diện tích toàn phần của hình lập phương đó là:\nA.\t196dm^{2}  \nB.\t294dm^{2}  \nC.\t3136dm^{2}  \nD.\t4704dm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài cạnh của hình lập phương đó là: \n28 : 4 = 7 (dm)\nDiện tích một mặt của hình lập phương đó là:  \n7 × 7 = 49 (dm^{2} )\nDiện tích toàn phần của hình lập phương đó là: \n49 × 6 = 294 (dm^{2} )\nĐáp số: 294dm^{2} ."
+    },
+    {
+        "problem": "Câu 9: Cho hình lập phương có diện tích toàn phần bằng 11,76dm^{2} . Vậy diện tích xung quanh của hình lập phương đó là:\nA.\t196cm^{2}  \nB.\t392cm^{2}  \nC.\t468cm^{2}  \nD.\t784cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích một mặt của hình lập phương đó là:  \n11,76 : 6 = 1,96 (dm^{2} )\nDiện tích xung quanh của hình lập phương đó là:  \n1,96 × 4 = 7,84 (dm^{2} )  \n7,84dm^{2}  = 784cm^{2}  \nĐáp số: 784cm^{2} ."
+    },
+    {
+        "problem": "Câu 11: Một hình lập phương có cạnh 2cm. Nếu gấp cạnh của hình lập phương lên 3 lần thì diện tích xung quanh và diện tích toàn tăng số lần lần lượt là:\nA.\t3 lần; 3 lần\nB.\t6 lần; 9 lần\nC.\t4 lần; 6 lần\nD.\t9 lần; 9 lần",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài cạnh hình lập phương khi gấp lên 3 lần là:      \n2 × 3 = 6 (cm)\nDiện tích một mặt của hình lập phương cạnh 2cm là:   \n2 × 2 = 4 (cm^{2} )\nDiện tích xung quanh của hình lập phương cạnh 2cm là: \n4 × 4 = 16 (cm^{2} )\nDiện tích toàn phần của hình lập phương cạnh 2cm là:  \n4 × 6 = 24 (cm^{2} )\nDiện tích một mặt của hình lập phương cạnh 6cm là:   \n6 × 6 = 36 (cm^{2} )\nDiện tích xung quanh của hình lập phương cạnh 6cm là:\n36 × 4 = 144 (cm^{2} )\nDiện tích toàn phần của hình lập phương cạnh 6cm là:\n36 × 6 = 216 (cm^{2} )\nDiện tích xung quanh của hình lập phương cạnh 6cm gấp diện tích xung quanh của hình lập phương cạnh 2cm số lần là: \n144 : 16 = 9 (lần)\nDiện tích toàn phần của hình lập phương cạnh 6cm gấp diện tích toàn phần của hình lập phương cạnh 2cm số lần là:\n216 : 24 = 9 (lần)\nVậy nếu gấp cạnh của hình lập phương lên 3 lần thì diện tích xung quanh và diện tích toàn phần đều tăng lên 9 lần."
+    },
+    {
+        "problem": "Câu 13: Một người làm cái hộp không có nắp bằng bìa cứng dạng hình lập phương có cạnh 14cm. Tính diện tích bìa cần dùng để làm hộp (không tính mép dán).\nA.\t196cm^{2}  \nB.\t784cm^{2}  \nC.\t980cm^{2}  \nD.\t1176cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích một mặt của cái hộp đó là: \n14 × 14 = 196 (cm^{2} )\nDiện tích bìa cần dùng để làm cái hộp đó là: \n196 × 5 = 980 (cm^{2} )  \nĐáp số: 980cm^{2} ."
+    },
+    {
+        "problem": "Câu 14: Người ta làm một cái lồng sắt hình lập phương có độ dài mỗi cạnh là 25dm. Cú mỗi mét vuông sắt giá 45000 đồng. Hỏi người ta làm cái lồng sắt đó hết bao nhiêu tiền mua sắt?\nA.\t1876500 đồng\nB.\t1768500 đồng\nC.\t1687500 đồng\nD.\t1568700 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 25dm = 2,5m.\nDiện tích một mặt của cái lồng sắt đó là:\n2,5 × 2,5 = 6,25 (m^{2} )\nDiện tích sắt dùng để làm cái lồng đó là: \n6,25 × 6 = 37,5 (m^{2} )\nSố tiền cần dùng để mua sắt làm cái lồng đó là: \n45000 × 37,5 = 1687500 (đồng) \nĐáp số: 1687500 đồng."
+    },
+    {
+        "problem": "Câu 15: Bác Bình cần làm 2 cái thùng hình lập phương bằng sắt không có nắp cạnh 1,8m. Hỏi Bác sơn cả bên trong và bên ngoài 2 cái thùng đó thì phải mua bao nhiêu ki-lô-gam sơn, biết rằng cứ 20m^{2}  thì cần 5kgsơn.\nA.\t32,4kg\nB.\t16,2kg\nC.\t8,1kg\nD.\t4,05kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích một mặt của cái thùng đó là:  \n1,8 × 1,8 = 3,24 (m^{2} )\nDiện tích cần sơn khi sơn bên trong của 1 cái thùng:  \n3,24 × 5 = 16,2 (m^{2} )\nDiện tích cần sơn khi sơn bên trong và bên ngoài của 1 cái thùng là:  \n16,2 × 2 = 32,4 (m^{2} )\nKhối lượng sơn ta cần dùng để sơn 1 cái thùng là:   \n32,4 : 20 × 5 = 8,1 (kg)\nKhối lượng sơn ta cần dùng để sơn 2 cái thùng là:\n8,1 × 2 = 16,2 (kg)  \nĐáp số: 16,2kg."
+    }
+]

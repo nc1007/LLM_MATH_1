@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Khối lớp 6 của một trường chung học cơ sở có các lớp 6A, 6B, 6C, 6D, 6E với số học sinh lần lượt là 40; 45; 39; 44; 42.\n\na) Lớp nào có thể xếp thành 2 hàng với số lượng học sinh ở mỗi hàng là như nhau?\nb) Lớp nào có thể xếp thành 5 hàng với số lượng học sinh ở mỗi hàng là như nhau?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Để biết được lớp nào có thể xếp thành 2 hàng với số lượng học sinh ở mỗi hàng là như nhau thì ta lần lượt lấy số học sinh của mỗi lớp chia cho 2\nb) Để biết được lớp nào có thể xếp thành 5 hàng với số lượng học sinh ở mỗi hàng là như nhau thì ta lần lượt lấy số học sinh của mỗi lớp chia cho 5\nLời giải chi tiết\na) Để biết được lớp nào có thể xếp thành 2 hàng với số lượng học sinh ở mỗi hàng là như nhau thì ta lần lượt lấy số học sinh của mỗi lớp chia cho 2:\nTa có: 40 : 2 = 20; 45 : 2 = 22 (dư 1); 39 : 2 = 19 (dư 1); 44 : 2 = 22; 42 : 2 = 21\nTa thấy 40; 44; 42 chia hết cho 2.\nDo đó các lớp 6A, 6D và 6E có thể xếp thành 2 hàng với số lượng học sinh ở mỗi hàng là như nhau.\nb) Để biết được lớp nào có thể xếp thành 5 hàng với số lượng học sinh ở mỗi hàng là như nhau thì ta lần lượt lấy số học sinh của mỗi lớp chia cho 5:\nTa có: 40 : 5 = 8; 45 : 5 = 9; 39 : 5 = 7 (dư 4); 44 : 5 = 8 (dư 4); 42 : 5 = 8 (dư 2)\nTa thấy 40; 45 chia hết cho 5.\nDo đó các lớp 6A và 6B có thể xếp thành 5 hàng với số lượng học sinh ở mỗi hàng là như nhau."
+    },
+    {
+        "problem": "a) Thực hiện các phép tính: 10:2, 22:2, 54:2, 76:2, 98:2.\nb) Nêu quan hệ chia hết của các số: 10, 22, 54, 76, 98 với số 2.\nc) Nêu chữ số tận cùng của các số 10, 22, 54, 76, 98.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2\nLời giải chi tiết\na) 10 : 2 = 5;   22 : 2 = 11;   54 : 2 = 27;\n76 : 2 = 38;   98 : 2 = 49.\nb) Các số 12, 22, 54, 76, 98 đều chia hết cho 2.\nc) Các chữ số tận cùng của các số 10; 22; 54; 76; 98 lần lượt là 0; 2; 4; 6; 8."
+    },
+    {
+        "problem": "Có bao nhiêu số từ 7 210 đến 7 220 chia hết cho 2?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm chữ số tận cùng của các số từ 7 210 đến 7 220.\n- Số có chữ số tận cùng là 0, 2, 4, 6, 8 thì chia hết cho 2\nLời giải chi tiết\nTừ số 7 210 đến số 7 220 có 6 số chia hết cho 2 là:\n7 210; 7 212; 7 214; 7 216; 7 218; 7 220"
+    },
+    {
+        "problem": "Từ các chữ số 1, 4, 8, hãy viết tất cả các số có hai chữ số khác nhau và chia hết cho 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm chữ số tận cùng: 4 hoặc 8.\n- Tìm chữ số hàng chục khác chữ số tận cùng: là một trong ba số 1;4;8.\nLời giải chi tiết\nCác số có 2 chữ số khác nhau và chia hết cho 2 được viết từ các chữ số 1, 4, 8 là:\n14; 18; 48; 84\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Thực hiện các phép tính : 50:5; 65:5\nb) Nêu quan hệ chia hết của các số 50; 65 với số 5.\nc) Nêu chữ số tận cùng của các số 50; 65.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tận cùng là 0 howjc 5 thì chia hết cho 5.\nLời giải chi tiết\na) 50 : 5 = 10;  65 : 5 = 13\nb) Các số 50 và 65 đều chia hết cho 5\nc) Chữ số tận cùng của các số 50; 65 lần lượt là 0; 5"
+    },
+    {
+        "problem": "Một số chia hết cho cả 2 và 5 thì có chữ số tận cùng là chữ số nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chọn trong các số chia hết cho 5 các số chia hết cho 2.\nLời giải chi tiết\nMột số chia hết cho 2 thì có chữ số tận cùng là: 0, 2, 4, 6 hoặc 8.\nMột số chia hết cho 5 thì có chữ số tận cùng là: 0 hoặc 5.\n=> Một số chia hết cho cả 2 và 5 thì có chữ số tận cùng là 0."
+    },
+    {
+        "problem": "Cho các số 82, 980, 5 975, 49 173, 756 598. Trong các số đó:\na) Số nào chia hết cho 5, nhưng không chia hết cho 2?\nb) Số nào chia hết cho 2, nhưng không chia hết cho 5?\nc) Số nào không chia hết cho 2 và không chia hết cho 5?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Số chia hết cho 2 là số có chữ số tận cùng là 0;2;4;6;8\n*Số chia hết cho 5 là số có tận cùng là 0;5\na)\n- Tìm số chia hết cho 5.\n- Tìm trong các số vừa tìm được những số không chia hết cho 2.\nb)\n- Tìm số chia hết cho 2.\n- Tìm trong các số vừa tìm được những số không chia hết cho 5.\nc)\n- Tìm số không chia hết cho 2.\n- Tìm trong các số vừa tìm được những số không chia hết cho 5\nLời giải chi tiết\na)\nSố chia hết cho 5 là 980 và 5 975 (do có chữ số tận cùng là 0; 5).\nTrong hai số này, số không chia hết cho 2 là: 5 975.( do không có chữ số tận cùng là 0; 2; 4; 6; 8)\nVậy trong các số đã cho, số chia hết cho 5, nhưng không chia hết cho 2 là 5 975\nb)\nSố chia hết cho 2 là 82, 980, 756 598 (do có chữ số tận cùng là 0; 2; 4; 6; 8)\nTrong ba số này, số không chia hết cho 5 là: 82, 756 598.(do không có chữ số tận cùng là 0; 5).\nVậy trong các số đã cho, số chia hết cho 2, nhưng không chia hết cho 5 là 82; 756 598.\nc)\nSố không chia hết cho 2 là 5 975, 49 173 (do không có chữ số tận cùng là 0; 2; 4; 6; 8)\nTrong hai số này, số không chia hết cho 5 là: 49 173.(do không có chữ số tận cùng là 0; 5).\nVậy trong các số đã cho, số không chia hết cho 5, không chia hết cho 2 là 49 173\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm chữ số thích hợp ở dấu * để số  thỏa mãn mỗi điều kiện sau:\na) Chia hết cho 2;\nb) Chia hết cho 5;\nc) Chia hết cho cả 2 và 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng dấu hiệu chia hết cho 2.\nb) Sử dụng dấu hiệu chia hết cho 5.\nc) Số chia hết cho cả 2 và 5 phải có chữ số tận cùng là 0.\nLời giải chi tiết\na) * là chữ số tận cùng của số \\(\\overline {212*} \\)  và \\(\\overline {212*} \\) chia hết cho 2.\n=> \\(* \\in \\left\\{ {0;{\\rm{ }}2;{\\rm{ }}4;{\\rm{ }}6;{\\rm{ }}8} \\right\\}\\).\nb) \\(\\overline {212*} \\) chia hết cho 5 => \\(* \\in \\left\\{ {0;5} \\right\\}\\).\nc) \\(\\overline {212*} \\) chia hết cho cả 2 và 5 => \\(* = 0\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Từ các chữ số 0, 2, 5, hãy viết tất cả các số có hai chữ số khác nhau sao cho:\na) Các số đó chia hết cho 2;\nb) Các số đó chia hết cho 5;\nc) Các số đó chia hết cho cả 2 và 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm chữ số tận cùng.\n- Tìm chữ số hàng chục (luôn khác 0).\nLời giải chi tiết\nTừ các chữ số 0, 2, 5 ta có thể viết được các số có hai chữ số mà số đó:\na)\nChữ số tận cùng của số chia hết cho 2 phải là 0 hoặc 2.\nVới số có chữ số tận cùng là 0 thì chữ số hàng chục là 2 hoặc 5, tức là số 20 hoặc 50.\nVới số có chữ số tận cùng là 2 thì chữ số hàng chục là 5 (vì số hàng chục khác 0, tức là số 52.\nVậy số chia hết cho 2 là: 20, 50, 52\nb)\nChữ số tận cùng của số chia hết cho 5 phải là 0 hoặc 5.\nVới số có chữ số tận cùng là 0 thì chữ số hàng chục là 2 hoặc 5, tức là số 20 hoặc 50.\nVới số có chữ số tận cùng là 5 thì chữ số hàng chục là 2 (vì số hàng chục khác 0, tức là số 25.\nVậy số chia hết cho 2 là: 20, 50, 25.\nc)\nChữ số tận cùng của số chia hết cho cả 5 và 2 phải là 0. Chữ số hàng chục là 2 hoặc 5, tức là số chia hết cho cả 2 và 5 là: 20; 50.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng cả ba chữ số 4, 5, 9 để ghép thành số có ba chữ số:\na) Nhỏ nhất và chia hết cho 2;\nb) Lớn nhất và chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm chữ số tận cùng.\n- Số nhỏ nhất có chữ số hàng trăm nhỏ nhất.\n- Số lớn nhất có chữ số hàng trăm lớn nhất.\nLời giải chi tiết\na)\nSố cần tìm chia hết cho 2 nên có chữ số tận cùng là 4.\nTrong hai số còn lại, số 5 nhỏ hơn 9 nên chữ số hàng trăm là 5, chữ số hàng chục là 9.\nSố nhỏ nhất chia hết cho 2 là: 594.\nb)\nSố cần tìm chia hết cho 5 nên có chữ số tận cùng là 5.\nTrong hai số còn lại, số 2 nhỏ hơn 9 nên chữ số hàng trăm là 9, chữ số hàng chục là 2.\nSố lớn nhất và chia hết cho 5 là: 945"
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy giải thích tại sao:\na) A= 61 782 + 94 656 - 76 320 chia hết cho 2;\nb) B = 97 485 - 61 820 + 27 465 chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Các số hạng của tổng chia hết cho 2 thì tổng chia hết cho 2.\n- Số trừ và số bị trừ chia hết cho 2 thì hiệu chia hết cho 2.\nb)\n- Số trừ và số bị trừ chia hết cho 5 thì hiệu chia hết cho 5.\n- Các số hạng của tổng chia hết cho 5 thì tổng chia hết cho 5.\nLời giải chi tiết\na) Ta có 61 782 \\(\\vdots\\) 2; 94 656 \\(\\vdots\\) 2 và 76 320 \\(\\vdots\\) 2.\n=> A = 61 782 + 94 656 - 76 320 chia hết cho 2 (Tính chất chia hết của một tổng và một hiệu)\nb) Ta có 97 485 \\(\\vdots\\) 5; 61 820 \\(\\vdots\\) 5 và 27 465 \\(\\vdots\\) 5\n=> B = 97 485 - 61 820 + 27 465 chia hết cho 5 (Tính chất chia hết của một tổng và một hiệu)"
+    },
+    {
+        "problem": "Ở tiết mục múa đôi của một đội văn nghệ, số người của đội được xếp vừa hết. Khi hát tốp ca theo nhóm, mỗi nhóm gồm 5 người, đội văn nghệ còn thừa ra 3 người. Đội văn nghệ đó có bao nhiêu người? Biết rằng đội văn nghệ có khoảng từ 15 người đến 20 người.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Múa đôi gồm 2 người.\n- Số người xếp vừa hết: Số người chia hết.\n- Mỗi nhóm gồm 5 người: Chia số người cho 5, số dư là số người bị thừa.\nLời giải chi tiết\nỞ tiết mục múa đôi của một đội văn nghệ, số người của đội được xếp vừa hết.\n=> Số người của đội là số chia hết cho 2.\nMà đội văn nghệ có khoảng từ 15 người đến 20 người.\n=> Số người của đội có thể là 16, 18 hoặc 20.\nMặt khác, khi hát tốp ca theo nhóm, mỗi nhóm gồm 5 người, đội văn nghệ còn thừa ra 3 người nên số người của đội chia cho 5 dư 3.\n=> Đội văn nghệ có 18 người."
+    },
+    {
+        "problem": "Trong giờ học Lịch sử, cô hạnh nêu một năm của thế kỉ XX đánh dấu một mốc quan trọng trong lịch sử đất nước ta. Năm đó là số được viết từ các chữ số lẻ khác nhau. Số đó còn chia hết cho 5 và chia cho 9 dư 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta dùng Dấu hiệu chia hết cho 3, cho 9\nLời giải chi tiết\nTheo đề bài ta thấy năm cần tìm thuộc thế kỉ XX tức là từ năm 1901 đến năm 2000\nMà năm cần tìm được viết từ các chữ số lẻ khác nhau nên nó có dạng 19ab(với a,b là các số tự nhiên lẻ từ 3 đến 7)\nTa có: 19ab chia hết cho 5 nên nó phải có chữ số tận cùng là 0 hoặc 5, nhưng số đó được viết từ các chữ số lẻ khác nhau nên chữ số tận cùng của phải là 5.\nKhi đó số cần tìm có dạng 19a5\nCác chữ số lẻ còn lại thỏa mãn a là 3, 7\nTH1: a = 3. Khi đó ta có số 1935 với 1 + 9 + 3 + 5 = 18 chia hết cho 9. Hay 1935 chia hết cho 9 (loại)\nTH2: a = 7. Khi đó ta có số 1975 với 1 + 9 + 7 + 5 = 22 chia 9 dư 4 nên 1975 chia cho 9 dư 4.\nVậy năm cần tìm là năm 1975."
+    },
+    {
+        "problem": "a) Thực hiện phép tính 123:3 và nêu quan hệ chia hết của 123 với 3.\nb) Tìm tổng S các chữ số của 123 và nêu quan hệ chia hết của S với 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 3.\nLời giải chi tiết\na) 123 : 3 = 41 => Số 123 chia hết cho 3\nb) Tổng các chữ số của số 123: S = 1 + 2 + 3 = 6\n=> S chia hết cho 3."
+    },
+    {
+        "problem": "Viết một số có hai chữ số sao cho:\na) Số đó chia hết cho 3 và 5;\nb) Số đó chia hết cho cả ba số 2, 3, 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số chia hết cho cả 3 và 5 là số có chữ số tận cùng là 0 hoặc 5 và tổng các chữ số chia hết cho 3.\nb) Số chia hết cho 2, 3 và 5 là số có chữ số tận cùng là 0 và tổng các chữ số chia hết cho 3.\nLời giải chi tiết\na) Một số có hai chữ số chia hết cho 3 và 5 là 15.\nb) Một số chia hết cho cả ba số 2, 3, 5 là 60.\nLưu ý:\nTa có thể chọn số khác. Chẳng hạn: a) Số 30; 45; 60;...\nb) 30; 90; 120;...\nLoigiaihay.com"
+    }
+]

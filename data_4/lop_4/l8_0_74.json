@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Khi nào ta có thể so sánh hai phân số bằng phương pháp so sánh với 1?\nA.\tKhi hai phân số đều bé hơn 1\nB.\tKhi hai phân số đều lớn hơn 1\nC.\tKhi một phân số bé hơn 1 và một phân số lớn hơn 1\nD.\tKhi hai phân số đều bằng 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi so sánh hai phân số, trong đó một phân số bé hơn 1 và một phân số lớn hơn 11 thì ta có thể so sánh hai phân số bằng phương pháp so sánh với 1."
+    },
+    {
+        "problem": "Câu 2: Khi nào ta có thể so sánh hai phân số bằng phương pháp so sánh với phân số trung gian?\nA.\tKhi tử số của phân số thứ nhất bé hơn tử số của phân số thứ hai và mẫu số của phân số thứ nhất lại lớn hơn mẫu số của phân số thứ hai\nB.\tKhi tử số của phân số thứ nhất lơn hơn tử số của phân số thứ hai và mẫu số của phân số thứ nhất lại nhỏ hơn mẫu số của phân số thứ hai\nC.\tCả A và B đều sai\nD.\tCả A và B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi tử số của phân số thứ nhất bé hơn tử số của phân số thứ hai và mẫu số của phân số thứ nhất lại lớn hơn mẫu số của phân số thứ hai hoặc khi tử số của phân số thứ nhất lớn hơn tử số của phân số thứ hai và mẫu số của phân số thứ nhất lại nhỏ hơn mẫu số của phân số thứ hai thì ta có thể so sánh hai phân số bằng phương pháp so sánh với phân số trung gian.\nDo đó cả hai đáp án A và B đều đúng.\nChọn D."
+    }
+]

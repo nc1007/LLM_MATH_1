@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Khẳng định nào là đúng?\nA. C^>B^\nB. C^=B^\nC. B^>C^\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nXét tam giác ABC có AC > AB (5 cm > 3 cm) \nMà góc B đối diện với cạnh AC, góc C đối diện với cạnh AB.\nNên B^>C^ (trong một tam giác, góc đối diện với cạnh lớn hơn là góc lớn hơn)\nVậy ta chọn đáp án C."
+    },
+    {
+        "problem": "Câu 4. Cho tam giác MNP có MN > MP > NP. Trong các khẳng định sau, câu nào đúng?\nA. M^>N^>P^;\nB. M^>P^>N^;\nC. P^>N^>M^;\nD. P^>M^>N^.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì tam giác MNP có MN > MP > NP nên theo quan hệ giữa cạnh và góc trong tam giác ta có P^>N^>M^\nVậy ta chọn đáp án C."
+    },
+    {
+        "problem": "Câu 6. Xét các khẳng định:\n(1) Trong một tam giác vuông, cạnh đối diện với góc vuông là cạnh lớn nhất;\n(2) Trong một tam giác tù, cạnh đối diện với góc tù là cạnh lớn nhất;\n(3) Trong một tam giác, đối diện với cạnh nhỏ nhất là góc nhọn;\n(4) Trong một tam giác, đối diện với cạnh lớn nhất là góc tù.\nChọn câu đúng nhất:\nA. Chỉ có (1) đúng;\nB. Cả (1) và (2) đều đúng;\nC. Cả (1), (2) và (3) đều đúng;\nD. Cả (1), (2), (3)và (4) đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n+) Trong tam giác vuông, góc vuông là góc lớn nhất nên cạnh đối diện với góc vuông là cạnh lớn nhất (quan hệ giữa cạnh và góc trong tam giác) nên đẳng định (1) đúng.\n+) Trong tam giác tù, góc tù là góc lớn nhất nên cạnh đối diện với góc tù là cạnh lớn nhất (quan hệ giữa cạnh và góc trong tam giác) nên khẳng định (2) đúng.\n+) Trong một tam giác, góc nhỏ nhất là góc nhọn, nên đối diện với cạnh nhỏ nhất là góc nhọn (quan hệ giữa cạnh và góc trong tam giác) nên khẳng định (3) đúng.\n+) Trong tam giác tù góc lớn nhất là góc tù, trong tam giác vuông góc lớn nhất là góc vuông, trong tam giác nhọn có một góc nhọn lớn nhất nên trong một tam giác bất kì, đối diện với cạnh lớn nhất chưa chắc đã là góc tù mà có thể là góc nhọn hoặc góc vuôngnên khẳng định (4) sai.\nVậy ta chọn đáp án C."
+    },
+    {
+        "problem": "Câu 7. Ba cạnh của một tam giác có độ dài lần lượt là 6 cm, 7 cm, 8cm. Chọn khẳng định đúng:\nA. Góc lớn nhất là góc đối diện với cạnh có độ dài 6 cm;\nB. Góc lớn nhất là góc đối diện với cạnh có độ dài 7 cm;\nC. Góc lớn nhất là góc đối diện với cạnh có độ dài 8 cm;\nD. Góc nhỏ nhất là góc đối diện với có độ dài 7 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì trong một tam giác, góc đối diện với cạnh lớn hơn là góc lớn hơn, mà cạnh 8 cm là cạnh lớn nhất nên góc đối diện với cạnh có độ dài 8 cm là góc lớn nhất.\nVậy ta chọn đáp án C."
+    },
+    {
+        "problem": "Câu 14. Có bao nhiêu tam giác có độ dài hai cạnh là 3 cm, 9 cm và độ dài cạnh còn lại là một số nguyên (cm)?\nA. 4;\nB. 5;\nC. 6;\nD. 7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nGọi độ dài cạnh còn lại của tam giác là x (x > 0).\nTheo bất đẳng thức tam giác ta có:\n9 – 3 < x < 9 + 3\nDo đó 6 < x < 12.\nMà x là số nguyên nên ta có x ∈ {7; 8; 9; 10; 11}.\nVậy có 5 giá trị x nên có 5 tam giác thỏa mãn yêu cầu đề bài.\nTa chọn phương án B."
+    }
+]

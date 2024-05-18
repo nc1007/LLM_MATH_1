@@ -1,0 +1,176 @@
+[
+    {
+        "problem": "Câu 1. Cho a, b ∈ ℤ, b ≠ 0, x = \\frac{a}{b}.Nếu a, b khác dấu thì:\nA. x = 0;\nB. x> 0;\nC. x < 0;\nD. Cả B, C đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có x = \\frac{a}{b}; a, b ∈ ℤ, b ≠ 0; a, b khác dấu thì x < 0.\nVì số hữu tỉ  \\frac{a}{b} là phép chia số a cho số b mà hai số nguyên a, b khác dấu nên khi chia cho nhau luôn ra số âm suy ra x < 0)."
+    },
+    {
+        "problem": "Câu 3. Khẳng định nào trong các khẳng định sau là đúng?\nA. Số 0 không phải là số hữu tỉ;\nB. Số 0 là số hữu tỉ nhưng không phải là số hữu tỉ dương cũng không phải là số hữu tỉ âm;\nC. Số 0 là số hữu tỉ âm;\nD. Số 0 là số hữu tỉ dương.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nSố 0 là số hữu tỉ nhưng không phải là số hữu tỉ dương cũng không phải là số hữu tỉ âm."
+    },
+    {
+        "problem": "Câu 4. Số đối của các số hữu tỉ sau: 0,5; −2; 9; \\frac{-7}{9}lần lượt là:\nA. −0,5; 2; 9; \\frac{7}{9};\nB. −0,5; 2; −9; \\frac{7}{-9};\nC. −0,5; 2; −9; \\frac{7}{9};\nD. Tất cả các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHai số hữu tỉ có điểm biểu diễn trên trục số cách đều và nằm về hai phía điểm gốc O là hai số đối nhau. Số đối của số hữu tỉ x là –x.\nNên số đối của các số hữu tỉ sau: 0,5; −2; 9; \\frac{7}{-9}lần lượt là −0,5; 2; −9; \\frac{7}{9}."
+    },
+    {
+        "problem": "Câu 5. Sắp xếp các số hữu tỉ \\frac{−1}{4};\\frac{−3}{2};\\frac{4}{5};0theo thứ tự tăng dần?\nA. \\frac{−1}{4};\\frac{−3}{2};\\frac{4}{5};0;\nB. \\frac{-3}{2};\\frac{-1}{4};0,\\frac{4}{5};\nC. 0,\\frac{-1}{4};\\frac{-3}{2};\\frac{4}{5};\nD. \\frac{-1}{4};0;\\frac{-3}{2};\\frac{4}{5}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\n+ Ta có: \\frac{-1}{4} < 0; \\frac{-3}{2} < 0; 0 < \\frac{4}{5}\n+ So sánh \\frac{-1}{4}và \\frac{-3}{2}\nTa có: \\frac{-3}{2}=\\frac{-6}{4}\nVì \\frac{−6}{4}<\\frac{−1}{4}nên \\frac{−3}{2}<\\frac{−1}{4}.\nDo đó \\frac{−3}{2}<\\frac{−1}{4}<0<\\frac{4}{5}.\nVậy thứ tự sắp xếp tăng dần là \\frac{−3}{2};\\frac{−1}{4};0;\\frac{4}{5}."
+    },
+    {
+        "problem": "Câu 6. Số hữu tỉ \\frac{x}{6}không thỏa mãn điều kiện sau \\frac{−1}{2}<\\frac{x}{6}<\\frac{1}{2}là:\nA. \\frac{−1}{6};\nB. \\frac{1}{6};\nC. \\frac{1}{3};\nD. \\frac{-2}{3};",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: \\frac{−1}{2}<\\frac{x}{6}<\\frac{1}{2} nên \\frac{−3}{6}<\\frac{x}{6}<\\frac{3}{6}.\nSuy ra \\frac{x}{6}∈\\frac{−2}{6};\\frac{−1}{6};0;\\frac{1}{6};\\frac{2}{6}.\nMà \\frac{1}{3}=\\frac{2}{6};\\frac{−2}{3}=\\frac{−4}{6}.\nDo đó \\frac{−2}{3}không thuộc tập hợp các số hữu tỉ \\frac{x}{6}.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 7. Kết quả của phép tính: \\frac{−3}{20}+\\frac{−2}{15}=?\nA. \\frac{−1}{60};                                                        \nB. \\frac{-17}{60};             \nC. \\frac{−5}{35};                                 \nD. \\frac{1}{60}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là:B\nTa có: \n\\frac{−3}{20}+\\frac{−2}{15}=\\frac{−9}{60}+\\frac{−8}{60}=\\frac{−17}{60}"
+    },
+    {
+        "problem": "Câu 8. Giá trị x thỏa mãn: x + \\frac{3}{16}=−\\frac{5}{24}là:\nA. x = \\frac{-19}{48};\nB. x = \\frac{1}{48}; \nC. x = \\frac{-1}{48}; \nD. x = \\frac{19}{48}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: x + \\frac{3}{16}=−\\frac{5}{24}\nx =−\\frac{5}{24}−\\frac{3}{16}\nx = \\frac{−20}{96}+\\frac{−18}{96}\nx = \\frac{−38}{96}\nx = \\frac{-19}{48}.\nVậy x = \\frac{-19}{48}."
+    },
+    {
+        "problem": "Câu 9. Giá trị của biểu thức 7−\\frac{2}{3}−\\frac{1}{4}−\\frac{4}{3}−\\frac{10}{4}−\\frac{5}{4}−\\frac{1}{3}bằng :\nA. 1\\frac{1}{3};\nB. 6\\frac{1}{3};\nC. 8\\frac{1}{3} ;\nD. 10\\frac{1}{3}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: \n  7−\\frac{2}{3}−\\frac{1}{4}−\\frac{4}{3}−\\frac{10}{4}−\\frac{5}{4}−\\frac{1}{3}\n=7−\\frac{2}{3}−\\frac{1}{4}−\\frac{4}{3}+\\frac{10}{4}−\\frac{5}{4}+\\frac{1}{3}\n=−\\frac{2}{3}−\\frac{4}{3}+\\frac{1}{3}+−\\frac{1}{4}+\\frac{10}{4}−\\frac{5}{4}+7\n=\\frac{−5}{3}+\\frac{4}{4}+7\n=\\frac{−5}{3}+8\n=\\frac{19}{3}\n=6\\frac{1}{3}"
+    },
+    {
+        "problem": "Câu 10. Kết quả của phép tính \\frac{−26}{15}:2\\frac{3}{5}=?: \nA. −6;\nB. \\frac{-3}{2} ;\nC. \\frac{-2}{3} ;\nD. \\frac{-3}{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \\frac{−26}{15}:2\\frac{3}{5}=\\frac{−26}{15}:\\frac{13}{5}\n=\\frac{−26}{15}.\\frac{5}{13}=\\frac{−2}{3}"
+    },
+    {
+        "problem": "Câu 11. Kết quả phép tính: \\frac{3}{4}+\\frac{1}{4}.\\frac{−12}{20} là : \nA. \\frac{-12}{20} ;\nB. \\frac{3}{5} ;\nC. \\frac{-3}{5} ;\nD. \\frac{-9}{84} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\n \\frac{3}{4}+\\frac{1}{4}.\\frac{−12}{20}=\\frac{3}{4}+\\frac{−3}{20}\n=\\frac{15}{20}+\\frac{−3}{20}=\\frac{12}{20}=\\frac{3}{5}"
+    },
+    {
+        "problem": "Câu 12. Giá trị x thỏa mãn x:\\frac{1}{12}−\\frac{3}{4}=1 là:\nA. \\frac{-1}{4} ;\nB. \\frac{2}{3} ;\nC. -\\frac{2}{3} ;\nD. \\frac{-3}{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \nx :  \\frac{1}{12}−\\frac{3}{4}=1\n x:\\frac{1}{12}−\\frac{9}{12}=1\n x:−\\frac{2}{3}=1\nx=−\\frac{2}{3}.1\nx=-\\frac{2}{3}\nVậy x=-\\frac{2}{3}."
+    },
+    {
+        "problem": "Câu 13. Một vòi nước chảy vào một bể thì trong 8 giờ đầy bể. Vòi thứ hai chảy 12 giờ thì đầy bể. Hỏi nếu vòi thứ nhất chảy trong 3 giờ và vòi thứ hai chảy trong 5 giờ thì được bao nhiêu phần của bể ?\nA. \\frac{3}{8} ;\nB. \\frac{5}{12};\nC. \\frac{17}{24};\nD. \\frac{19}{24} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTrong 1 giờ vòi thứ nhất chảy vào được \\frac{1}{8}bể, vòi thứ 2 chảy vào được \\frac{1}{12}bể. Do đó:\nSau 3 giờ vòi thứ nhất chảy vào được \\frac{3}{8} (bể).\nSau 5 giờ vòi thứ hai chảy vào được \\frac{5}{12} (bể).\nVậy cả hai vòi chảy vào được: \n\\frac{3}{8}+\\frac{5}{12}=\\frac{9+10}{24}=\\frac{19}{24}  (bể)"
+    },
+    {
+        "problem": "Câu 14. Cho hai số hữu tỉ x = \\frac{a}{m} ; y = \\frac{b}{m} (với a, b, m ∈ ℤ , m ≠ 0). Vậy x + y = ?\nA. \\frac{a+b}{m};\nB.  \\frac{a−b}{m};\nC. \\frac{a.b}{m};\nD. \\frac{a.m}{b}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVới x = \\frac{a}{m} ; y = \\frac{b}{m}(với a, b, m ∈ ℤ , m ≠ 0).\nSuy ra: x+y  =\\frac{a}{m}+\\frac{b}{m}=\\frac{a+b}{m}."
+    },
+    {
+        "problem": "Câu 15. Khi nhân hai lũy thừa cùng cơ số, ta thực hiện:\nA. x^{m} .x^{n}  = x^{m+n} ;\nB. x^{m} .x^{n}  = x^{m−n } ;\nC. x^{m} .x^{n}  = x^{m:n } ;\nD. x^{m} .x^{n}  = x^{m.n}  .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nKhi nhân hai lũy thừa cùng cơ số, ta giữ nguyên cơ số và cộng hai số mũ với nhau: x^{m} .x^{n}  = x^{m+n}"
+    },
+    {
+        "problem": "Câu 16. Số  x^{12}   không phải là kết quả của biểu thức nào sau đây ?\nA.  x^{18}  : x^{6}  (x ≠ 0); \nB. x^{4}  . x^{8 } ;\nC. x^{2}  . x^{6} ; \nD. x34",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có : \nx^{18}  : x^{6 } = x^{18} ^{–} ^{6}  = x^{12}   (x ≠ 0)                                    \nx^{4}  . x^{8 } = x^{4} ^{+} ^{8}  = x^{12}        \nx^{2}  . x^{6}  = x^{2 + 6}  = x^{8} \n x34 = x^{3} ^{.} ^{4}  = x^{12}"
+    },
+    {
+        "problem": "Câu 17.  Giá trị x thỏa mãn 2x=222 là: \nA. 5;\nB. 4;\nC. 2^{6 } ;\nD. 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:  2x=222\n2^{x}  = 2^{2 . 2} \n2^{x}  = 2^{4} \nx = 4\nVậy x = 4."
+    },
+    {
+        "problem": "Câu 18.  Cho A = 1 + 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  . Kết quả biểu thức A là:\nA. 1;\nB. 3^{2021}  – 1;\nC. \\frac{32021–1}{2};\nD. 3^{0 + 1 + 2 + 3 + … + 2020} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có : \n3A = 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  + 3^{2021} \nA = 1 + 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  \n⇒ 3A – A = (3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020}  + 3^{2021} ) – (1 + 3 + 3^{ 2}  + 3^{3}  + …+ 3^{2020} )\n⇒ 2A = 3^{2021} – 1 \n⇒ A = \\frac{32021–1}{2}."
+    },
+    {
+        "problem": "Câu 19.  Kết quả phép tính: \\frac{−2}{5}+\\frac{1}{2}2=?\nA. \\frac{1}{4} ;\nB. \\frac{−1}{100} ;\nC. \\frac{1}{100};\nD. \\frac{81}{100}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \\frac{−2}{5}+\\frac{1}{2}2=\\frac{−4}{10}+\\frac{5}{10}2=\\frac{1}{10}2=\\frac{1}{100}"
+    },
+    {
+        "problem": "Câu 20. Kết quả rút gọn phân số \\frac{210.310−210.39}{29.310}  là:\nA. \\frac{−5}{4} ;\nB. \\frac{3}{4} ;\nC. \\frac{4}{3} ;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có : \\frac{210.310−210.39}{29.310}=\\frac{210.39.(3−1)}{29.310}\n=\\frac{29.2.39.2}{29.39.3}=\\frac{4}{3}"
+    },
+    {
+        "problem": "Câu 21.  Kết quả của phép tính 2022^{2022} : 2022^{2021}  là: \nA. 1;\nB. 2021;\nC. 2022;\nD. 2022^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 2022^{2022} : 2022^{2021} \n= 2022^{2022 – 2021}  = 2022^{1 } = 2022."
+    },
+    {
+        "problem": "Câu 22. Kết quả thực hiện phép tính 5. 5^{19}  có giá trị là:\nA. 5^{20} ;\nB.5^{12} ;\nC.25^{10} ;\nD. Đáp án A và C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nKết quả thực hiện phép tính:\n5. 5^{19}  = 5^{1} ^{+} ^{19 } = 5^{20} = 5210  = 25^{10} \nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 23. Giá trị của x thỏa mãn \\frac{}{}+\\frac{7}{20}=\\frac{73}{60} là:\nA. x = 13;\nB. x = 52;\nC. x = 15; \nD. x = 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có:\n\\frac{}{}+\\frac{7}{20}=\\frac{73}{60}\n\\frac{}{15}=\\frac{73}{60}−\\frac{7}{20}\n\\frac{}{15}=\\frac{13}{15}\nx = 13.\nVậy x = 13."
+    },
+    {
+        "problem": "Câu 24. Cho biểu thức =\\frac{−2}{9}+\\frac{−3}{4}+\\frac{3}{5}+\\frac{1}{15}+\\frac{1}{57}+\\frac{1}{3}+\\frac{−1}{36}. Giá trị của biểu thức A là:\nA. \\frac{1}{-57};\nB. \\frac{1}{57};\nC. \\frac{-1}{36};\nD. 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\n  =\\frac{−2}{9}+\\frac{−3}{4}+\\frac{3}{5}+\\frac{1}{15}+\\frac{1}{57}+\\frac{1}{3}+\\frac{−1}{36}\n=−\\frac{2}{9}+\\frac{−3}{4}+\\frac{−1}{36}+\\frac{3}{5}+\\frac{1}{3}+\\frac{1}{15}+\\frac{1}{57}\n=(−1)+1+\\frac{1}{57}\n=0+\\frac{1}{57}=\\frac{1}{57}"
+    },
+    {
+        "problem": "Câu 25. Tổng phân số sau \\frac{1}{12}+\\frac{1}{23}+\\frac{1}{3.4}+…+\\frac{1}{2033.00}là:\nA. \\frac{2004}{2003};\nB. \\frac{2003}{2004};\nC. \\frac{−2003}{2004};\nD. \\frac{−2004}{2003}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nÁp dụng công thức sau:\n \\frac{1}{n(n+1)}=\\frac{1}{n}−\\frac{1}{n+1}.\nTừ công thức trên, ta phân tích bài toán như sau:\n \\frac{1}{1.2}+\\frac{1}{2.3}+\\frac{1}{3.4}+…+\\frac{1}{2003.2004}\n=\\frac{1}{1}−\\frac{1}{2}+\\frac{1}{2}−\\frac{1}{3}+\\frac{1}{3}−\\frac{1}{4}+...+\\frac{1}{2003}−\\frac{1}{2004}\n=\\frac{1}{1}−\\frac{1}{2}+\\frac{1}{2}−\\frac{1}{3}+\\frac{1}{3}−\\frac{1}{4}+...+\\frac{1}{2003}−\\frac{1}{2004}\n=\\frac{1}{1}+−\\frac{1}{2}+\\frac{1}{2}+−\\frac{1}{3}+\\frac{1}{3}+...+−\\frac{1}{2003}+\\frac{1}{2003}−\\frac{1}{2004}\n=\\frac{1}{1}−\\frac{1}{2004}\n=\\frac{2003}{2004}"
+    },
+    {
+        "problem": "Câu 26. Bỏ dấu ngoặc biểu thức sau: A – (−B + C + D). Ta thu được kết quả là:\nA. C + B – A –D;\nB. D + B – C –A;\nC. A + B – C –D;\nD. B −A – C –D.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nKhi bỏ dấu ngoặc có dấu \"−\" đứng trước, ta phải đối dấu tất cả các số hạng trong dấu ngoặc: dấu \"−\"thành dấu \"+\"và dấu \"+\" thành dấu \"−\".\nKhi bỏ dấu ngoặc có dấu \"+\"đứng trước thì dấu các số hạng trong ngoặc vẫn giữ nguyên.\nDo đó A – (−B + C + D) = A + B – C –D"
+    },
+    {
+        "problem": "Câu 27. Kết quả tìm được của  trong biểu thức \\frac{1}{2}−x=\\frac{1}{2} là:\nA. \\frac{-1}{2}\nB. \\frac{1}{4}\nC. 0\nD. \\frac{3}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \n \\frac{1}{2}−x=\\frac{1}{2}\nx=\\frac{1}{2}-\\frac{1}{2}\nx = 0\nVậy x = 0."
+    },
+    {
+        "problem": "Câu 28. Kết quả tìm được của  trong biểu thức \\frac{−x}{27}−1=\\frac{2}{3} là:\nA. 45\nB. -45\nC. -5\nD. -135",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\n\\frac{−x}{27}−1=\\frac{2}{3}\n\\frac{−x}{27}=\\frac{2}{3}+1\n\\frac{−x}{27}=\\frac{5}{3}\nx=\\frac{5.(−27)}{3}\nx = −45\nVậy x = −45."
+    },
+    {
+        "problem": "Câu 29. Kết quả thực hiện phép tính 2\\frac{2}{3}+1\\frac{1}{3}:\\frac{1}{4}−25là:\nA. 9;\nB. −9;\nC. −24;\nD. 24.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: 2\\frac{2}{3}+1\\frac{1}{3}:\\frac{1}{4}−25\n= 3\\frac{3}{3} :  – 25 \n= 4.4 – 25\n= 16 – 25 = – 9"
+    },
+    {
+        "problem": "Câu 30. Kết quả của biểu thức sau – (–171 – 172 + 223) – (171 + 172) + 223  là: \nA. 1;\nB. 342;\nC. 344;\nD. 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: \n– (–171 – 172 + 223) – (171 + 172) + 223\n= 171 + 172 – 223 – 171 – 172 + 223\n=(171 − 171) + (172 − 172) + (223 − 223)\n= 0 + 0 + 0 = 0."
+    }
+]

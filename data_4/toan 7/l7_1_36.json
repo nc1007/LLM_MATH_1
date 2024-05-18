@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 8. Cho tam giác MNP có 21M^=14N^=6P^. Số đo góc N là:\nA. 30°;\nB. 45°;\nC. 60°;\nD. 105°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nXét tam giác MNP có M^+N^+P^=180°(tổng ba góc trong một tam giác)\nVì 21M^=14N^=6P^ nên \\frac{21M^}{42}=\\frac{14N^}{42}=\\frac{6P^}{42}\n⇒\\frac{M^}{2}=\\frac{N^}{3}=\\frac{P^}{7}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có: \n\\frac{M^}{2}=\\frac{N^}{3}=\\frac{P^}{7}=\\frac{M^+N^+P^}{2+3+7}=\\frac{180°}{12}=15°\nSuy ra N^=15°.3=45°\nVậy số đo góc N bằng 45°."
+    }
+]

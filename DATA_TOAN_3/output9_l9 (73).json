@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "a) Tìm các căn bậc hai của những số sau: \\(100;\\;121;\\;144;\\;169;\\;0.\\)\nb) Tìm các căn bậc hai số học của những số sau và viết theo mẫu: \\(\\sqrt {100}  = 10.\\)\n\\(100;\\;121;\\;196;\\;225;\\;0.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Căn bậc hai của một số a không âm là số x sao cho \\({x^2} = a\\).\nLời giải chi tiết\na) Ta có:\nSố 100 có hai căn bậc hai là 10 và -10.\nSố 121 có hai căn bậc hai là 11 và -11.\nSố 144 có hai căn bậc hai là 12 và -12.\nSố 169 có hai căn bậc hai là 13 và -13.\nSố 0 có một căn bậc hai là 0.\nb) Ta có:\n\\(\\begin{array}{l}\\sqrt {100}  = 10 &  &  & \\sqrt {121}  = 11\\\\\\sqrt {196}  = 14 &  &  & \\sqrt {225}  = 15\\\\\\sqrt 0  = 0.\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính căn bậc hai của các số sau:\na) 36;                   b) 81;           c) 121;\nd) 144;                 e) 0,16;         f) 0,04;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Với mỗi số \\(A \\ge 0\\) có hai căn bậc hai là: \\(\\sqrt A \\) và \\( - \\sqrt A .\\)\nLời giải chi tiết\na) Căn bậc hai của 36 là 6 và -6.\nb) Căn bậc hai của 81 là 9 và -9.\nc) Căn bậc hai của 121 là 11 và -11.\nd) Căn bậc hai của 144 là 12 và -12.\ne) Căn bậc hai của 0,16 là 0,4 và -0,4.\nf) Căn bậc hai của 0,04 là 0,2 và -0,2.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính :\na) \\(\\sqrt {{8^2} + {6^2}} \\);\nb) \\(\\sqrt {{{\\left( {0,3} \\right)}^2}} \\);\nc) \\(\\sqrt {{{\\left( { - 0,3} \\right)}^2}} \\);\nd) \\( - 0,2\\sqrt {{{\\left( { - 0,5} \\right)}^2}} \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức: \\(\\sqrt {{A^2}}  = \\left| A \\right| = \\left\\{ \\begin{array}{l}A\\;\\;khi\\;\\;A \\ge 0\\\\ - A\\;\\;khi\\;\\;A < 0\\end{array} \\right..\\)\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\;\\sqrt {{8^2} + {6^2}}  = \\sqrt {64 + 36} \\\\\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\; = \\sqrt {100}  = 10.\\\\b)\\;\\sqrt {{{\\left( {0,3} \\right)}^2}}  = \\left| {0,3} \\right| = 0,3.\\\\c)\\;\\sqrt {{{\\left( { - 0,3} \\right)}^2}}  = \\left| { - 0,3} \\right| = 0,3.\\\\d)\\; - 0,2\\sqrt {{{\\left( { - 0,5} \\right)}^2}}  =  - 0,2.\\left| { - 0,5} \\right|\\\\\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\;\\ =  - 0,2.0,5 =  - 0,1.\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh :\na) 3 và \\(\\sqrt 8 \\);           b) 7 và \\(\\sqrt {50} \\);\nc) \\(2 + \\sqrt 3 \\) và \\(3 + \\sqrt 2 \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất: Với các số \\(a,\\;b \\ge 0\\) ta có: \\(a > b\\) thì \\(\\sqrt a  > \\sqrt b .\\)\nLời giải chi tiết\na) Ta có: \\(3 = \\sqrt 9 ,\\;\\;9 > 8 \\Rightarrow 3 > \\sqrt 8 .\\)\nb) Ta có: \\(7 = \\sqrt {49} ,\\;\\;49 < 50 \\Rightarrow 7 < \\sqrt {50} .\\)\nc) Ta có:\n\\({\\left( {2 + \\sqrt 3 } \\right)^2} = 4 + 2.2.\\sqrt 3  + {\\left( {\\sqrt 3 } \\right)^2}\\)\\(\\;= 4 + 4\\sqrt 3  + 3 = 7 + 4\\sqrt 3 .\\)\n\\({\\left( {3 + \\sqrt 2 } \\right)^2} = {3^2} + 2.3.\\sqrt 2  + {\\left( {\\sqrt 2 } \\right)^2}\\)\\(\\; = 9 + 6\\sqrt 2  + 2 = 11 + 6\\sqrt 2\\)\\(\\;  = 7 + 4 + 6\\sqrt 2 .\\)\nTa có: \\({\\left( {4\\sqrt 3 } \\right)^2} = 48;\\)\n\\({\\left( {4 + 6\\sqrt 2 } \\right)^2} = 16 + 48\\sqrt 2  + 72 \\)\\(\\;= 88 + 48\\sqrt 2 .\\)\nVì \\(48 < 88 + 48\\sqrt 2  \\Rightarrow 4\\sqrt 3  < 4 + 6\\sqrt 2\\)\n\\(  \\Rightarrow 7 + 4\\sqrt 3  < 7 + 4 + 6\\sqrt 2 \\)\nHay \\({\\left( {2 + \\sqrt 3 } \\right)^2} < {\\left( {3 + \\sqrt 2 } \\right)^2}\\)\n\\(\\Rightarrow 2 + \\sqrt 3  < 3 + \\sqrt 2 .\\)\nVậy \\(2 + \\sqrt 3  < 3 + \\sqrt 2 .\\)\nLoigiaihay.com"
+    }
+]

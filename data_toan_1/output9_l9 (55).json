@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Tìm thương của các phép chia sau:\na) \\(\\left( { - 2020} \\right):2\\)\nb) \\(64:\\left( { - 8} \\right)\\)\nc) \\(\\left( { - 90} \\right):\\left( { - 45} \\right)\\)\nd) \\(\\left( { - 2121} \\right):3\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Tìm q để\na) \\( - 2020 = 2.q\\)\nb) \\(64 = \\left( { - 8} \\right).q\\)\nc) \\( - 90 = \\left( { - 45} \\right).q\\)\nd) \\( - 2121 = 3.q\\)\nCách 2: Thực hiện phép chia số nguyên cho số nguyên.\nChú ý: Hai số nguyên trái dấu có thương mang dấu -\nHai số nguyên cùng dấu có thương mang dấu +\nLời giải chi tiết\nCách 1: a)  \\( - 2020 = 2.\\left( { - 1010} \\right)\\) nên \\(\\left( { - 2020} \\right):2 =  - 1010\\)\nb) \\(64 = \\left( { - 8} \\right).\\left( { - 8} \\right) \\Rightarrow 64:\\left( { - 8} \\right) =  - 8\\)\nc) \\( - 90 = \\left( { - 45} \\right).2 \\Rightarrow \\left( { - 90} \\right):\\left( { - 45} \\right) = 2\\)\nd) \\( - 2121 = 3.\\left( { - 707} \\right) \\Rightarrow \\left( { - 2121} \\right):3 =  - 707\\)\nCách 2: a) \\( - 2020 :2=-(2020:2)=  - 1010\\)\nb)  \\(64:(-8)=-(64:8) =  - 8\\)\nc) \\( -90:(-45)=90:45= 2\\)\nd) \\( - 2121 :3=-(2121:3)=  - 707\\)"
+    },
+    {
+        "problem": "a) \\( - 10\\) có phải là một bội của 2 hay không?\nb) Tìm các ước của 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho \\(a,b \\in \\mathbb{Z}\\). Nếu \\(a : b = k\\) nguyên thì ta nói a là bội của b và b là ước của a.\nLời giải chi tiết\na) \\( - 10:2 =  - 5\\) nên \\( - 10\\) là bội của 2.\nb) \\(5 = 5.1 = \\left( { - 5} \\right).\\left( { - 1} \\right)\\)\nCác ước của 5 là \\(5;1; - 5; - 1\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\(\\left( { - 3} \\right).7\\)\nb) \\(\\left( { - 8} \\right).\\left( { - 6} \\right)\\)\nc) \\(\\left( { + 12} \\right).\\left( { - 20} \\right)\\)\nd) \\(24.\\left( { + 50} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng phương pháp nhân hai số nguyên khác dấu và cùng dấu.\nLời giải chi tiết\na) \\(\\left( { - 3} \\right).7 =  - \\left( {3.7} \\right) =  - 21\\)\nb) \\(\\left( { - 8} \\right).\\left( { - 6} \\right) = 8.6 = 48\\)\nc) \\(\\left( { + 12} \\right).\\left( { - 20} \\right) =  - \\left( {12.20} \\right) =  - 240\\)\nd) \\(24.\\left( { + 50} \\right) = 24.50 = 1200\\)"
+    },
+    {
+        "problem": "Tìm tích 213.3. Từ đó suy ra nhanh kết quả của các tích sau:\na) \\(\\left( { - 213} \\right).3\\)\nb) \\(\\left( { - 3} \\right).213\\)\nc) \\(\\left( { - 3} \\right).\\left( { - 213} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhân hai số nguyên khác dấu ta nhân số dương với số đối của số âm rồi đặt dấu trừ \\(\\left(  -  \\right)\\) trước kết quả nhận được.\nNhân hai số nguyên âm: ta nhân số đối của chúng với nhau.\nLời giải chi tiết\n\\(213.3 = 639\\)\na) \\(\\left( { - 213} \\right).3 =  - \\left( {213.3} \\right) =  - 639\\)\nb) \\(\\left( { - 3} \\right).213 =  - \\left( {3.213} \\right) =  - 639\\)\nc) \\(\\left( { - 3} \\right).\\left( { - 213} \\right) = 3.213 = 639\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy so sánh:\na) \\(\\left( { + 4} \\right).\\left( { - 8} \\right)\\) với 0\nb) \\(\\left( { - 3} \\right).4\\) với 4\nc) \\(\\left( { - 5} \\right).\\left( { - 8} \\right)\\) với \\(\\left( { + 5} \\right).\\left( { + 8} \\right)\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tích của hai số nguyên trái dấu là số âm nhỏ hơn 0.\nTích của hai số nguyên âm là số dương lớn hơn 0.\nLời giải chi tiết\na) \\(\\left( { + 4} \\right).\\left( { - 8} \\right)\\) là tích của hai số nguyên khác dấu nên mang dấu âm. Vậy \\(\\left( { + 4} \\right).\\left( { - 8} \\right) < 0\\)\nb) \\(\\left( { - 3} \\right).4\\) là tích của hai số nguyên khác dấu nên mang dấu âm. Vậy\\(\\left( { - 3} \\right).4 < 4\\)\nc) \\(\\left( { - 5} \\right).\\left( { - 8} \\right)\\) là tích của hai số nguyên âm nên \\(\\left( { - 5} \\right).\\left( { - 8} \\right) = 5.8\\)\n\\(\\left( { + 5} \\right).\\left( { + 8} \\right)\\) là tích của hai số nguyên dương nên \\(\\left( { + 5} \\right).\\left( { + 8} \\right) = 5.8\\)\nVậy \\(\\left( { - 5} \\right).\\left( { - 8} \\right) = \\left( { + 5} \\right).\\left( { + 8} \\right)\\)."
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) \\(\\left( { - 3} \\right).\\left( { - 2} \\right)\\left( { - 5} \\right).4\\)\nb) \\(3.2.\\left( { - 8} \\right).\\left( { - 5} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm hai số nguyên âm với nhau trước.\nLời giải chi tiết\na) \\(\\left( { - 3} \\right).\\left( { - 2} \\right).\\left( { - 5} \\right).4\\)\\( = \\left[ {\\left( { - 3} \\right).\\left( { - 2} \\right)} \\right].\\left( { - 5} \\right).4\\)\\( = 6.\\left( { - 5} \\right).4 =  - 30.4 =  - 120\\).\nb) \\(3.2.\\left( { - 8} \\right).\\left( { - 5} \\right)\\)\\( = 3.2.\\left[ {\\left( { - 8} \\right).\\left( { - 5} \\right)} \\right] = 6.40\\)\\( = 240\\)."
+    },
+    {
+        "problem": "Một kho lạnh đang ở nhiệt độ \\(8^\\circ C\\), một công nhân cần đặt chế độ làm cho nhiệt độ của kho trung bình cứ mỗi phút giảm đi \\(2^\\circ C\\). Hỏi sau 5 phút nữa nhiệt độ trong kho là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhiệt độ giảm là số âm.\nTính nhiệt độ giảm trong 5 phút.\nNhiệt độ trong kho bằng nhiệt độ ban đầu cộng với nhiệt độ giảm.\nLời giải chi tiết\nNhiệt độ giảm trong 1 phút biểu diễn theo số âm là \\( - 2^\\circ C\\)\nSau 5 phút nhiệt độ trong kho là \\(8 + 5.\\left( { - 2} \\right) = 8 - 10 =  - 2^\\circ C\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số nguyên x, biết:\na) \\(\\left( { - 24} \\right).x =  - 120\\)\nb) \\(6.x = 24\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) x là thương của \\( - 120\\) chia cho \\( - 24\\).\nb) x là thương của \\(24\\) chia cho 6.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\left( { - 24} \\right).x =  - 120\\\\ \\Leftrightarrow x =  - 120:\\left( { - 24} \\right)\\\\ \\Leftrightarrow x = 5\\end{array}\\)\nVậy x =5\nb)\n\\(\\begin{array}{l}6.x = 24\\\\ \\Leftrightarrow x = 24:6\\\\ \\Leftrightarrow x = 4\\end{array}\\)\nVậy x= 4\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm tất cả các ước của các số nguyên sau: 6;-1;13;-25\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm ước nguyên dương của chúng. Số đối của các ước vừa tìm được cũng là một ước.\nLời giải chi tiết\nCách 1:\n+) \\(6 = 1.6 = \\left( { - 1} \\right).\\left( { - 6} \\right)\\)\\( = 2.3 = \\left( { - 2} \\right).\\left( { - 3} \\right)\\) nên 6 có 8 ước là 1;-1;2;-2;3;-3;6;-6.\n+) \\( - 1 = \\left( { - 1} \\right).1\\) nên \\( - 1\\) chỉ có 2 ước là 1 và -1.\n+) \\(13 = 13.1 = \\left( { - 13} \\right).\\left( { - 1} \\right)\\) nên 13 có 4 ước là 1;-1;13;-13.\n+) \\( - 25 =  - 25.1 = 25.\\left( { - 1} \\right) = 5.\\left( { - 5} \\right)\\) nên -25 có 6 ước là 1;-1;5;-5;25;-25.\nCách 2:\n+) Ta thấy 6 chia hết cho các số: 1; 2; 3; 6; -1; -2; -3; -6.\nVậy 6 có 8 ước là 1;-1;2;-2;3;-3;6;-6.\n+) Ta thấy -1 chia hết cho 1; -1.\nVậy \\( - 1\\) chỉ có 2 ước là 1 và -1\n+) Ta có 13 chia hết cho 1; -1; 13 và -13.\nVậy 13 có 4 ước là 1;-1;13;-13.\n+) Ta thấy -25 chia hết cho 1; -1; 5; -5; 25; -25.\nVậy -25 có 6 ước là 1;-1;5;-5;25;-25."
+    },
+    {
+        "problem": "Tìm ba bội của : 5;-5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm 3 số chia hết cho 5 .\nTìm 3 số chia hết cho -5.\nSố chia hết cho a thì cũng chia hết cho -a\nLời giải chi tiết\n3 số chia hết cho 5 là: 5;-5;10.\n3 số chia hết cho -5 là 5;-5;10.\nChú ý: Ta có thể chọn 3 số khác chia hết cho 5 và -5 từ tập hợp {-10; -5; 0; 5; 10; ....}"
+    },
+    {
+        "problem": "Sau một quý kinh doanh, bác Ba lãi được 60 triệu đồng, còn chú Tư lại lỗ 12 triệu đồng. Em hãy tính xem bình quân trong một tháng mỗi người lãi hay lỗ bao nhiêu tiền.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu diễn số tiền lãi lỗ bằng số nguyên âm.\nMột quý = 3 tháng.\nLời giải chi tiết\n\\(60:3 = 20\\) nên bình quân một tháng bác Ba lãi được 20 triệu đồng.\n\\( - 12:3 =  - 4\\) nên bình quân một tháng chú Tư lỗ 4 triệu đồng."
+    }
+]

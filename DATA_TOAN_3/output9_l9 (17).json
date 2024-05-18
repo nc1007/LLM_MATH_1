@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Cho đoạn thẳng \\(AB.\\) Đường tròn \\((O)\\) đường kính \\(2cm\\) tiếp xúc với đường thẳng \\(AB.\\) Tâm \\(O\\) nằm trên\n\\((A)\\) Đường vuông góc với \\(AB\\) tại \\(A\\) ;\n\\((B)\\)  Đường vuông góc với \\(AB\\) tại \\(B\\) ;\n\\((C)\\)  Hai đường thẳng song song với \\(AB\\) và cách \\(AB\\) một khoảng \\(1cm \\);\n\\((D)\\) Hai đường thẳng song song với \\(AB\\) và cách \\(AB\\) một khoảng \\(2cm.\\)\nHãy chọn phương án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức: Nếu đường thẳng \\(a\\) và đường tròn \\((O)\\) tiếp xúc với nhau thì \\(d=R\\), với \\(d\\) là khoảng cách từ  tâm đường tròn đến đường thẳng \\(a.\\)\nLời giải chi tiết\nVì \\(AB\\) tiếp xúc với đường tròn \\((O)\\) nên khoảng cách từ \\(O\\) đến đường thẳng \\(AB\\) bằng bán kính là \\(2:2=1cm\\)\nDo đó  điểm \\(O\\) nằm trên hai đường thẳng song song với \\(AB\\) và cách \\(AB\\) một khoảng \\(1cm. \\)\nChọn \\((C).\\)\nLoigiaihay.com"
+    }
+]

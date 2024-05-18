@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Viết các phân số thập phân \\(\\dfrac{{17}}{{10}};\\dfrac{{34}}{{100}};\\dfrac{{25}}{{1000}}\\) dưới dạng số thập phân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết tử số trước.\nMẫu số có bao nhiêu số 0 thì dịch chuyển dấu phấy “,” sang trái từng đấy hàng.\nLời giải chi tiết\n\\(\\begin{array}{l}\\dfrac{{17}}{{10}} = 1,7\\\\\\dfrac{{34}}{{100}} = 0,34\\\\\\dfrac{{25}}{{1000}} = 0,025\\end{array}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Sắp xếp các số sau theo thứ tự từ bé đến lớn 0; -8,152; 0,12; -8,9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân âm nhỏ hơn 0 và số thập phân dương lớn hơn 0.\nSo sánh hai số thập phân âm: Nếu a < b thì -a > -b\nLời giải chi tiết\nTa thấy: 0 < 0,12\n8,9 > 8,152 nên -8,9 < -8,152\nMà -8,152< 0; -8,9 < 0\nNên -8,9<-8,152<0<0,12\nVậy các số trên theo thứ tự từ bé đến lớn là: -8,9; -8,152; 0; 0,12"
+    },
+    {
+        "problem": "Tìm số đối của các số thập phân sau:\n\\( - 1,2;4,15;19,2\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm số đối của số thập phân dương, ta thêm dấu “-” trước số thập phân dương\nMuốn tìm số đối của số thập phân âm, ta bỏ dấu “-” trước số thập phân âm\nLời giải chi tiết\nSố đối của \\( - 1,2\\) là \\(1,2\\)\nSố đối của \\(4,15\\) là \\( - 4,15\\)\nSố đối của \\(19,2\\) là \\( - 19,2\\)"
+    },
+    {
+        "problem": "So sánh các số sau:\na) \\( - 421,3\\) với \\(0,15\\)\nb) \\( - 7,52\\) với \\( - 7,6\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số thập phân âm luôn nhỏ hơn số thập phân dương.\nb) So sánh hai số thập phân âm: Số nào có số đối lớn hơn thì nhỏ hơn.\nLời giải chi tiết\na) \\( - 421,3\\) là số thập phân âm và \\(0,15\\) là số thập phân dương nên \\( - 421,3 < 0,15\\)\nb) Vì \\(7,52 < 7,6\\) nên \\( - 7,52 >  - 7,6\\)"
+    },
+    {
+        "problem": "Nhiệt độ đông đặc của một chất là nhiệt độ mà tại đó chất chuyển từ thể lỏng sang thể rắn.\nNhiệt độ đông đặc của rượu, nước và thủy ngân lần lượt là: \\( - 117^\\circ C;0^\\circ C; - 38,83^\\circ C\\)\nHãy sắp xếp nhiệt độ đông đặc của ba chất này theo thứ tự từ nhỏ đến lớn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân âm luôn nhỏ hơn 0.\nSo sánh hai số thập phân âm: Nếu a < b thì -a > -b\nLời giải chi tiết\nSố thập phân âm: \\( - 117; - 38,83\\)\nSố thập phân âm luôn nhỏ hơn 0 nên \\( - 117 < 0; - 38,83 < 0\\)\nVì \\(117 > 38,83\\) nên \\( - 117 <  - 38,83\\)\nDó đó \\( - 117 <  - 38,83 < 0\\)\nVậy nhiệt độ đông đặc của ba chất này theo thứ tự từ nhỏ đến lớn là: rượu, thủy ngân, nước\nLoigiaihay.com"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1 : Muốn tìm trung bình cộng của các số ta lấy: \nA.\tTổng của các số đó cộng với số các số hạng\nB.\tTổng của các số đó trừ đi số các số hạng\nC.\tTổng của các số đó nhân với số các số hạng\nD.\tTổng của các số đó chia cho số các số hạng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm số trung bình cộng của nhiều số, ta tính tổng của các số đó, rồi chia tổng đó cho số các số hạng"
+    },
+    {
+        "problem": "Câu 3 : Trung bình cộng của các số 25;47;84 là: \nA.\t48\nB.\t52\nC.\t68\nD.\t156",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trung bình cộng của các số 25;47;84 là:\n    (25+47+84):3=52"
+    },
+    {
+        "problem": "Câu 5 : Trung bình cộng của số lớn nhất có 3 chữ số và số lẻ nhỏ nhất có 4 chữ số là: \nA.\t1002\nB.\t1001\nC.\t1000\nD.\t999",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lớn nhất có 3 chữ số là 999.\nSố lẻ nhỏ nhất có 4 chữ số là 1001.\nTrung bình cộng của số chẵn lớn nhất 3 chữ số và số nhỏ nhất có 4 chữ số là: \n                (999+1001):2=1000"
+    },
+    {
+        "problem": "Câu 7 :  Một đội công nhân tham gia trồng cây gồm 3 tổ. Tổ một có 8 người, mỗi người trồng được 12 cây. Tổ hai trồng được 80 cây, tổ ba trồng được nhiều hơn tổ hai 14 cây. Hỏi trung bình mỗi tổ trồng được bao nhiêu cây? \nA.\t90\nB.\t93\nC.\t96\nD.\t102",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổ một trồng được số cây là:\n    12×8=96 (cây)\n\tTổ ba trồng được số cây là:\n          80+14=94 (cây)\nCả ba tổ trồng được số cây là:\n            96+80+94=270 (cây)\nTrung bình mỗi tổ trồng được số cây là:\n           270:3=90 (cây)\n                                Đáp số: 90 cây."
+    },
+    {
+        "problem": "Câu 9 : Trung bình cộng của 2 số bằng 49, biết một trong hai số bằng 33. Vậy số còn lại là: \nA.\t16\nB.\t82\n\tC.\t65\nD.\t98",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng hai số đó là:        49×2=98\t\nSố còn lại là:                98−33=65"
+    },
+    {
+        "problem": "Câu 11 : Trung bình cộng của dãy số lẻ từ 11 đến 2017 là \nA.\t999\nB.\t1014\nC.\t1025\nD.\t1002",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dãy dãy số lẻ từ 11  đến 2017 là dãy số cách đều, hai số liền nhau hơn hoặc kém nhau 2 đơn vị.\nTrung bình cộng của dãy số lẻ từ 11 đến 2017 là:\n            (11+2017):2=1014"
+    },
+    {
+        "problem": "Câu 12 : Điền số thích hợp vào ô trống: \nTrung bình cộng của 5 số lẻ liên tiếp là 45. Vây 5 số viết theo thứ tự từ bé đến lớn lần lượt là:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có trung bình cộng của một dãy số tự nhiên cách đều có lẻ số \n(có 3 số, 5 số, 7 số,…) là số ở chính giữa dãy số đó.\nTheo đề bài, trung bình cộng của 5 số lẻ liên tiếp là 45 nên dãy số cần tìm có \nsố ở chính giữa hay số thứ ba trong dãy số là 45.\nMà các số trong dãy số là số lẻ nên khoảng cách giữa 2 số liên tiếp là 2 đơn vị.\nSố thứ hai trong dãy số là:      45−2=43\nSố thứ nhất trong dãy số là:    43−2=41\nSố thứ tư trong dãy số là:       45+2=47\nSố thứ năm trong dãy số là:    47+2=49\nVậy đáp án đúng cần điền từ trái sang phải, \ntừ trên xuống dưới lần lượt là là: 41;43;45;47;49."
+    },
+    {
+        "problem": "Câu 13 : Năm nay tuổi trung bình của 32 học sinh của một lớp là 9 tuổi.\n Nếu tính cả thầy giáo chủ nhiệm thì tuổi trung bình của thầy giáo và 32 học sinh là 10 tuổi. \nTìm tuổi của thầy giáo chủ nhiệm sau 3 năm nữa. \nA.\t36 tuổi\nB.\t39 tuổi\nC.\t42 tuổi\nD.\t45 tuổi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng số tuổi của 32 bạn học sinh là:\t\n          9×32=288 (tuổi)\t\n\tSố người trong lớp nếu tính cả thầy giáo chủ nhiệm là:\t\n                32+1=33 (người)\t\nTổng số tuổi của 32 học sinh và thầy giáo là:\t\n                 10×33=330 (tuổi)\t\nSố tuổi của thầy giáo hiện nay là:\t\n                 330−288=42 (tuổi)\t\nSố tuổi của thầy giáo chủ nhiệm sau 33 năm nữa là:\t\n                42+3=45 (tuổi)\t\n                                   Đáp số: 45 tuổi."
+    }
+]

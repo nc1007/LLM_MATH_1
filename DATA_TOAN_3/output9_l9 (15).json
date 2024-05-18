@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Hãy nối mỗi ô ở cột trái với mỗi ô ở cột phải để được khẳng định đúng:\n(1)Tập hợp các điểm có khoảng cách đến điểm \\(O\\) cố định bằng \\(3cm\\)\n(4) có khoảng cách đến điểm \\(O\\) nhỏ hơn hoặc bằng \\(3cm.\\)\n(2)Đường tròn tâm \\(O\\) bán kính \\(3cm\\) gồm tất cả những điểm\n(5) cách điểm \\(O\\) một khoảng bằng \\(3cm.\\)\n(3)  Hình tròn tâm \\(O\\) bán kính \\(3cm\\) gồm tất cả những điểm\n(6) là đường tròn tâm \\(O\\) bán kính \\(3cm.\\)\n\n(7) có khoảng cách đến điểm O lớn hơn 3cm.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Đường tròn là tập hợp các điểm cách điểm O cố định một khoảng bằng R không đổi (\\(R>0\\)), O gọi là tâm và R là bán kính.\nLời giải chi tiết\n(1)   nối  với (6)\n(2)   nối với (5)\n(3)    nối với (4).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các câu sau, câu nào đúng? Câu nào sai?\na) Hai đường tròn phân biệt có thể có hai điểm chung.\nb) Hai đường tròn phân biệt có thể có ba điểm chung phân biệt.\nc) Tâm của đường tròn ngoại tiếp một tam giác bao giờ cũng nằm trong tam giác ấy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Cho hai đường tròn (C) và (C') có tâm và bán kính khác nhau. Nếu hai đường tròn cắt nhau thì luôn cắt tại hai điểm phân biệt.\n+ Giao điểm của ba đường trung trực là tâm đường tròn ngoại tiếp tam giác\nLời giải chi tiết\na) Đúng\nb) Sai vì hai đường tròn có ba điểm chung phân biệt thì chúng trùng nhau.\nc) Sai vì tam giác vuông có tâm đường tròn ngoại tiếp nằm trên cạnh huyền, tam giác tù giao điểm của ba đường trung trực nằm ngoài tam giác nên tâm đường tròn ngoại tiếp nằm ngoài tam giác.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Xét tính đúng – sai của mỗi khẳng định sau:\nCho tam giác \\(ABC\\) nội tiếp đường tròn (O).\na)  Nếu \\(BC\\) là đường kính của đường tròn thì \\(\\widehat {BAC} = 90^\\circ \\).\nb)  Nếu \\(AB = AC\\) thì \\(AO\\) vuông góc với \\(BC.\\)\nc)  Nếu tam giác \\(ABC\\) không vuông góc thì điểm \\(O\\) nằm  bên trong tam giác đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu tam giác \\(ABC\\) nội tiếp đường trọn tâm \\(O\\) mà có \\(BC\\) là đường kính thì tam giác \\(ABC\\) vuông tại \\(A\\).\nLời giải chi tiết\na)  Đúng vì tam giác \\(ABC\\) nội tiếp đường tròn tâm \\(O\\) mà có \\(BC\\) là đường kính thì tam giác \\(ABC\\) vuông tại \\(A\\).\nb) Đúng vì \\(AB=AC\\) thì tam giác ABC cân tại A có AO là đường trung trực nên AO cũng là đường cao. Hay \\(AO\\bot BC\\).\nc) Sai. Vì nếu \\(ABC\\) là tam giác tù thì \\(O\\) nằm ngoài tam giác.\nLoigiaihay.com"
+    }
+]

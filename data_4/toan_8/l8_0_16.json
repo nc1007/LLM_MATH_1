@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "2. Chọn kết luận đúng.\nA. ΔBDM ~ ΔCME\nB. ΔBDM ~ ΔEMC\nC. ΔBDM ~ ΔCEM\nD. ΔBDM ~ ΔECM",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐặt B = C = x, góc BDM = góc EDM = y, góc CEM = góc DEM = z\nTứ giác BDCE có: B + C + BDE + CED = 360^{0} \n⇒ 2x + 2y + 2z = 360^{0}  ⇔ x + y + z = 180^{0} \nHay B + góc BDM + góc CEM = 180^{0 } \nMà B + góc BDM + góc BMD = 180^{0}  (tổng ba góc trong tam giác)\nNên góc CEM = góc BMD\nXét ΔBDM và ΔCME có:\n ●   B = C (gt)\n ●   góc BMD = góc CEM (cmt)\n⇒ ΔBDM ~ ΔCME (g - g)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 15: Nếu 2 tam giác ABC và DEF có A = D, C = F thì:\nA. ΔABC ~ ΔDEF\nB. ΔCAB ~ ΔDEF\nC. ΔABC ~ ΔDFE\nD. ΔCBA ~ ΔDFE",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét ΔABC và ΔDEF có:\n ●   A = D (gt)\n ●   C = F (gt)\n⇒ ΔABC ~ ΔDEF (g - g)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 16: Cho hai tam giác ABC và FED có A = F, cần thêm điều kiện gì dưới đây để hai tam giác (thứ tự đỉnh như vậy) đồng dạng theo trường hợp góc - góc?\nA. B = E\nB. C = E\nC. B = F\nD. C = F",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: A = F, B = E thì ΔABC ~ ΔFED (g - g)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 19: Nếu 2 tam giác ABC và DEF có A = 70^{0} , C = 60^{0} , E = 50^{0} , F = 70^{0}  thì chứng minh được:\nA. ΔABC ~ ΔFED\nB. ΔACB ~ ΔFED\nC. ΔABC ~ ΔDEF\nD. ΔABC ~ ΔDFE",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét ΔABC có: A + B + C = 180^{0}  ⇔ 70^{0}  + B + 60^{0}  = 180^{0} \n⇔ B = 180^{0}  - 70^{0 } - 60^{0 } = 50^{0} \nXét ΔABC và ΔFED có:\nA = F = 70^{0} \nB = E = 50^{0} \n⇒ ΔABC ~ ΔFED (g - g)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 20: Cho 2 tam giác ABC và DEF có A = 40^{0} , B = 80^{0} , E = 40^{0} , D = 60^{0} .\nChọn câu đúng.\nA. ΔABC ~ ΔDEF\nB. ΔFED ~ ΔCBA\nC. ΔACB ~ ΔEFD\nD. ΔDFE ~ ΔCBA",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXét ΔABC có: A + B + C = 180^{0}  ⇒ C = 180^{0}  - 40^{0 } - 80^{0 } = 60^{0} \nTam giác DEF có: D + E + F = 180^{0}  ⇒ F = 180^{0}  - D - E = 180^{0}  - 40^{0}  - 60^{0}  = 80^{0} .\nXét ΔABC và ΔFED có:\n ●   A = E = 40^{0} \n ●   C = D = 60^{0} \n⇒ ΔABC ~ ΔEFD (g - g) hay ΔCBA ~ ΔDFE\nĐáp án cần chọn là: D"
+    }
+]

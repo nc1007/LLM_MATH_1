@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1.Điền vào chỗ trống sau: “Đường trung tuyến của tam giác là đoạn thẳng nối một đỉnh của tam giác với ... của cạnh đối diện”. \nA. Trung trực;\nB. Trung điểm;\nC. Trọng tâm;\nD. Giao điểm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐường trung tuyến của tam giác là đoạn thẳng nối một đỉnh của tam giác với trung điểm của cạnh đối diện."
+    },
+    {
+        "problem": "Câu 4. Giao điểm của ba đường trung trực của một tam giác:\nA. Là trực tâm của tam giác đó;\nB. Cách đều ba đỉnh của tam giác đó;\nC. Là trọng tâm của tam giác đó;\nD. Cách đều ba cạnh của tam giác đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTheo định nghĩa: Ba đường trung tuyến của một tam giác cắt nhau tại một điểm. Điểm này được gọi là trọng tâm của tam giác."
+    }
+]

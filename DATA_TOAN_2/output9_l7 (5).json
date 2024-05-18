@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Cho định lí: “Một đường thẳng cắt hai đường thẳng song song thì tạo thành cặp góc lo le trong bằng nhau.”\na) Hãy chỉ ra giả thiết và kết luận của định lí.\nb) Vẽ hình minh hoạ và ghi giả thiết, kết luận bằng kí hiệu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phần trước từ \" thì \" trong định lí là giả thiết của định lí.\nPhần sau từ \" thì \" trong định lí là kết luận của định lí.\nLời giải chi tiết\n\na)\nGiả thiết: Một đường thẳng cắt hai đường thẳng song song\nKết luận: cặp góc so le trong bằng nhau.\nb)\nGT: \\(a// b,c \\cap a =\\){A};\\(c \\cap b =\\){B}\nCặp góc so le trong \\(\\widehat {{A_1}};\\widehat {{B_1}}\\)\nKL: \\(\\widehat {{A_1}} = \\widehat {{B_1}}\\)"
+    },
+    {
+        "problem": "Cho định lí: “ Một đường thẳng cắt hai đường thẳng tạo thành một cặp góc so le trong bằng nhau thì hai đường thẳng đó song song.”\na) Hãy chỉ ra giả thiết và kết luận của định lí.\nb) Vẽ hình minh hoạ và ghi giả thiết, kết luận bằng kí hiệu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phần trước từ \" thì \" trong định lí là giả thiết của định lí.\nPhần sau từ \" thì \" trong định lí là kết luận của định lí.\nLời giải chi tiết\na) Giả thiết: Một đường thẳng cắt hai đường thẳng tạo thành một cặp góc so le trong bằng nhau\nKết luận: hai đường thẳng đó song song.\nb)\n\nGT: c cắt a tại A, c cắt b tại B tạo thành cặp góc so le trong \\(\\widehat {{A_1}};\\widehat {{B_1}}\\)\n\\(\\widehat {{A_1}} = \\widehat {{B_1}}\\)\nKL:\\(a\\parallel b\\)"
+    },
+    {
+        "problem": "Vẽ đường thẳng d và điểm M không thuộc d. Vẽ đường thẳng a đi qua M và song song với d.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vẽ hình theo mô tả\nLời giải chi tiết\n"
+    },
+    {
+        "problem": "Cho định lí: “ Tia đối của tia phân giác của một góc là tia phân giác của góc đối đỉnh của góc đó”. Hãy vẽ hình, ghi giả thiết, kết luận và chứng minh định lí đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chỉ ra các cặp góc đối đỉnh bằng nhau.\nLời giải chi tiết\n\nGT: - \\(\\widehat {xOy};\\widehat {x'Oy'}\\) là 2 góc đối đỉnh\n- Ou là tia phân giác của góc xOy, Ou’ là tia đối của tia Ou.\nKL: Ou’ là tia phân giác của \\(\\widehat {x'Oy'}\\).\nChứng minh:\nTa có: \\(\\left\\{ \\begin{array}{l}\\widehat {x'Ou'} = \\widehat {xOu}\\\\\\widehat {y'Ou'} = \\widehat {yOu}\\end{array} \\right.\\) (2 gốc đối đỉnh)\nMà \\(\\widehat {xOu} = \\widehat {yOu}\\)(Ou là tia phân giác góc xOy)\n\\( \\Rightarrow \\widehat {x'Ou'} = \\widehat {y'Ou'}\\)\n\\( \\Rightarrow \\)Ou’ là tia phân giác của góc x’Oy’ (Ou’ nằm trong góc x’Oy’)."
+    },
+    {
+        "problem": "Trong các phát biểu sau, phát biểu nào diễn đạt đúng nội dung của tiên đề Euclid?\na)Qua điểm A nằm ngoài đường thẳng d có ít nhất một đường thẳng song song với d.\nb) Nếu qua điểm A nằm ngoài đường thẳng d có hai đường thẳng song song với d thì chúng trùng nhau.\nc) Có duy nhất một đường thẳng song song với đường thẳng cho trước.\nd) Cho điểm A nằm ngoài đường thẳng d. Đường thẳng đi qua A và song song với đường thẳng d là duy nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tiên đề Euclid: Qua 1 điểm ở ngoài một đường thẳng, chỉ có 1 đường thẳng song song với đường thẳng đó.\nLời giải chi tiết\nPhát biểu diễn đạt đúng tiên đề Euclid là câu b) và d)."
+    },
+    {
+        "problem": "Vẽ tam giác ABC bất kì. Vẽ đường thẳng xy đi qua điểm A và song song với BC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vẽ hình theo mô tả\nLời giải chi tiết\n"
+    },
+    {
+        "problem": "Vẽ hai đường thẳng xy và mn cắt nhau tại điểm O sao cho \\(\\widehat {xOm} = {120^0}\\). Tính các góc mOy, yOn, xOn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Hai góc đối đỉnh thì bằng nhau\n- Hai góc kề bù có tổng bằng 180 độ\nLời giải chi tiết\n\nTa có: \\(\\widehat {yOm} + \\widehat {mOx} = {180^0}\\) (hai góc kề bù)\n\\(\\begin{array}{l} \\Rightarrow \\widehat {yOm} + {120^0} = {180^0}\\\\ \\Rightarrow \\widehat {yOm} = {180^0} - {120^0}\\\\ \\Rightarrow \\widehat {yOm} = {60^0}\\end{array}\\)\nLại có: \\(\\widehat {mOy} + \\widehat {yOn} = {180^0}\\)(hai góc kề bù)\n\\(\\begin{array}{l} \\Rightarrow {60^0} + \\widehat {yOn} = {180^0}\\\\ \\Rightarrow \\widehat {yOn} = {180^0} - {60^0}\\\\ \\Rightarrow \\widehat {yOn} = {120^0}\\end{array}\\)\nMặt khác: \\(\\widehat {xOn} = \\widehat {yOm} = {60^0}\\) (hai góc đối đỉnh)"
+    },
+    {
+        "problem": "Vẽ hình minh hoạ, ghi giả thiết, kết luận bằng kí hiệu và chứng minh mỗi định lí sau:\na) Hai góc cùng phụ với một góc thứ ba thì bằng nhau.\nb) Hai góc cùng bù với một góc thứ ba thì bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Hai góc phụ nhau có tổng bằng 90 độ\nb)Hai góc bù nhau có tổng bằng 180 độ.\nLời giải chi tiết\na)\n\nGT: \\(\\widehat {xOy} + \\widehat {uHv} = {90^0};\\widehat {x'Oy'} + \\widehat {uHv} = {90^0}\\)\nKL: \\(\\widehat {xOy} = \\widehat {x'Oy'}\\)\nChứng minh:\n\\(\\widehat {xOy} = {90^0} - \\widehat {uHv} = \\widehat {x'Oy'}\\).\nb)\n\nGT: \\(\\widehat {xOy} + \\widehat {uHv} = {180^0};\\widehat {x'Oy'} + \\widehat {uHv} = {180^0}\\)\nKL: \\(\\widehat {xOy} = \\widehat {x'Oy'}\\)\nChứng minh:\n\\(\\widehat {xOy} = {180^0} - \\widehat {uHv} = \\widehat {x'Oy'}\\)."
+    },
+    {
+        "problem": "Cho đường thẳng xx’, điểm A thuộc xx’. Trên tia Ax’ lấy điểm B (điểm B khác điểm A). Vẽ tia By, trên tia By lấy điểm M. Hai điểm N và P thoả mãn \\(\\widehat {NMA} = \\widehat {MAB};\\widehat {PMy} = \\widehat {MBx'}\\) (H.3.21). Giải thích tại sao ba điểm N, M, P thẳng hàng.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chứng minh: \\(MN\\parallel xx'\\),\\(MP\\parallel xx'\\)\n- Áp dụng tiên đề Euclid.\nLời giải chi tiết\nTa có: \\(\\widehat {NMA} = \\widehat {MAB}\\), mà hai góc này ở vị trí so le trong, suy ra \\(MN\\parallel xx'\\)\n\\(\\widehat {PMy} = \\widehat {MBx'}\\), mà hai góc này ở vị trí đồng vị, suy ra \\(MP\\parallel xx'\\)\nTheo tiên đề Euclid, qua điểm M chỉ có một đường thẳng song song với xx’.\nDo đó hai đường thẳng MN và MP trùng nhau\nSuy ra N, M, P thẳng hàng"
+    },
+    {
+        "problem": "Vẽ \\(\\widehat {xAm} = {50^0}\\). Vẽ tia phân giác An của \\(\\widehat {xAm}\\).\na) Tính \\(\\widehat {xAn}\\).\nb) Vẽ tia Ay là tia đối của tia An. Tính \\(\\widehat {mAy}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tia phân giác của 1 góc nằm giữa 2 cạnh của góc và chia góc đó thành 2 góc bằng nhau.\nb) Sử dụng tổng của hai góc kề bù bằng 180 độ.\nLời giải chi tiết\n\na)\nVì tia An là tia phân giác của \\(\\widehat {xAm}\\) nên\n\\(\\widehat {xAn} = \\widehat {nAm} = \\dfrac{{\\widehat {xAm}}}{2} = \\dfrac{{{{50}^0}}}{2} = {25^0}\\)\nVậy \\(\\widehat {xAn} = {25^0}\\).\nb)\nTa có: \\(\\widehat {nAm} + \\widehat {mAy} = {180^0}\\) (hai góc kề bù)\n\\(\\begin{array}{l} \\Rightarrow {25^0} + \\widehat {mAy} = {180^0}\\\\ \\Rightarrow \\widehat {mAy} = {180^0} - {25^0}\\\\ \\Rightarrow \\widehat {mAy} = {155^0}\\end{array}\\)"
+    }
+]

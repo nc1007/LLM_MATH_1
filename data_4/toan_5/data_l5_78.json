@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1: Chọn đáp án đúng nhất:\nA.\tMuốn tính diện tích xung quanh của hình hộp chữ nhật ta lấy chu vi mặt đáy nhân với chiều cao (cùng đơn vị đo)\nB.\tDiện tích xung quanh của hình lập phương bằng diện tích một mặt nhân với 4\nC.\tDiện tích toàn phần của hình lập phương bằng diện tích một mặt nhân với 6.\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính diện tích xung quanh của hình hộp chữ nhật ta lấy chu vi mặt đáy nhân với chiều cao (cùng đơn vị đo). \n-\tDiện tích xung quanh của hình lập phương bằng diện tích một mặt nhân với 4.   \n-\tDiện tích toàn phần của hình lập phương bằng diện tích một mặt nhân với 6.\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 2: Chọn đáp án đúng nhất:\nA.\tMuốn tính thể tích của hình hộp chữ nhật ta lấy chiều dài nhân với chiều rộng rồi nhân với chiều cao (cùng đơn vị đo).\nB.\tMuốn tính thể tích hình lập phương ta lấy cạnh nhân với cạnh rồi nhân với cạnh\nC.\tCả A và B đều đúng\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính thể tích hình hộp chữ nhật ta lấy chiều dài nhân với chiều rộng rồi nhân với chiều cao (cùng đơn vị đo).  \n-\tMuốn tính thể tích hình lập phương ta lấy cạnh nhân với cạnh rồi nhân với cạnh.\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 4: Diện tích toàn phần của hình lập phương cạnh 1,5dm là 9dm^{2} . Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích toàn phần của hình lập phương là:\n(15 x 1,5) x 6 = 13,5 (dm^{2} )\t\nVậy phát biểu diện tích toàn phần của hình lập phương cạnh 1,5dm là 9dm^{2}  là sai."
+    },
+    {
+        "problem": "Câu 6: Người ta dùng gạch vuông có cạnh 20cm để ốp xung quanh và đáy của một cái bể hình hộp chữ nhật cao 1,8m; rộng 2m và dài 35dm. Tính số viên gạch cần dùng.\nA.\t422 viên gạch\nB.\t495 viên gạch\nC.\t670 viên gạch\nD.\t845 viên gạch",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 35dm = 3,5m  \nDiện tích xung quanh của cái bể là:\n (3,5 + 2) x 2 x 1,8 = 19,8 (m^{2} )\nDiện tích đáy của cái bể là:\n 3,5 x 2 = 7 (m^{2} )\nDiện tích cần ốp gạch là:\n 19,8 + 7 = 26,8 (m^{2} )\nDiện tích một viên gạch là:\n 20 x 20 = 400 (cm^{2} )\nĐổi 400cm^{2}  = 0,04m^{2}  \nSố viên gạch cần dùng là:\n26,8 : 0,04 = 670 (viên gạch)\nĐáp số: 670 viên gạch."
+    },
+    {
+        "problem": "Câu 8: Một phòng học dạng hình hộp chữ nhật có chiều dài 65dm, chiều rộng 5m và chiều cao 4m. Người ta muốn quét vôi trần nhà và bốn bức tường phía trong phòng. Biết diện tích các cửa bằng 12,5m^{2} . Tính diện tích cần quét vôi.\nA.\t79,5m^{2}  \nB.\t112m^{2}  \nC.\t124,5m^{2}  \nD.\t872,5m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 65dm = 6,5m \nDiện tích xung quanh của căn phòng đó là:\n(6,5 + 5) x 2 x 4 = 92 (m^{2} )\nDiện tích trần của căn phòng đó là:\n6,5 x 5 = 32,5 (m^{2} )\nDiện tích cần quét vôi là:\n92 + 32,5 - 12,5 = 112 (m^{2} ) \nĐáp số: 112m^{2}"
+    },
+    {
+        "problem": "Câu 9: Đáy của một hình hộp chữ nhật có chiều dài 6dm, chiều rộng 45cm. Tính chiều cao của hình hộp chữ nhật đó, biết diện tích xung quanh của hình hộp đó là 378dm^{2} .\nA.\t14 dm\nB.\t16 dm\nC.\t18 dm\nD.\t36 dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 45cm = 4,5dm \nChu vi đáy của hình hộp chữ nhật đó là:\n (6 + 4,5) x 2 = 21 (dm)\nChiều cao của hình hộp chữ nhật đó là:\n378 : 21 = 18 (dm) \nĐáp số: 18dm."
+    },
+    {
+        "problem": "Câu 10: Một khối kim loại hình lập phương có chu vi một mặt là 4,8dm. Mỗi xăng-ti-mét khối kim loại đó nặng 7,5g. Hỏi khối kim loại đó nặng bao nhiêu ki-lô-gam?\nA.\t0,01296kg\nB.\t12,96kg\nC.\t129,6kg\nD.\t12960kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài cạnh của khối kim loại đó là:\n4,8 : 4 = 1,2 (dm) \nThể tích của khối kim loại đó là:\n1,2 x 1,2 x 1,2 = 1,728 (dm^{3} ) \n1,728dm^{3}  = 1728cm^{3} \nKhối kim loại đó nặng số gam là:\n 7,5 x 1728 = 12960 (g)\n 12960g = 12,96kg\nĐáp số: 12,96kg."
+    },
+    {
+        "problem": "Câu 12: Một cái thùng sắt không nắp dạng hình hộp chữ nhật có chiều rộng kém chiều dài 1,2m và bằng  chiều dài, chiều cao 0,5m. Người ta sơn mặt trong và mặt ngoài của thùng.\nDiện tích đã sơn của thùng sắt là:\nA.\t31,2m^{2} \nB.\t15,6m^{2} \nC.\t10,2m^{2} \nD.\t20,4m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "20,4m^{2}  gấp 2m^{2}  số lần là:\n20,4 : 2 = 10,2 (lần)\nKhối lượng sơn cần dùng để sơn cái thùng:\n0,5 x 10,2 = 5,1 (kg) \nĐáp số: 5,1kg.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13: Một bể nước cao 2m, đáy là hình chữ nhật có chu vi 7,6m, chiều dài hơn chiều rộng 0,8m.\nBể đó chứa được lít nước là:\nA.\t690 lít\nB.\t2856 lít\nC.\t69010 lít\nD.\t28560 lít\n\n\n\\textbf{Hiển thị đáp án}\n\nNửa chu vi của đáy bể hình chữ nhật là:\n7,6 : 2 = 3,8 (m) \nChiều dài đáy bể là:\n(3,8 + 0,8) : 2 = 2,3 (m) \nChiều rộng đáy bể là:\n2,3 - 0,8 = 1,5 (m) \nThể tích của bể nước là:\n2,3 x 1,5 x 2 = 6,9 (m^{3} ) \nĐổi 6,9m^{3}  = 6900dm^{3}  = 6900 lít\nĐáp số: 6900 lít.\n\n\n end nội dung \n\nA.\t690 lít\nB.\t2856 lít\nC.\t69010 lít\nD.\t28560 lít",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nửa chu vi của đáy bể hình chữ nhật là:\n7,6 : 2 = 3,8 (m) \nChiều dài đáy bể là:\n(3,8 + 0,8) : 2 = 2,3 (m) \nChiều rộng đáy bể là:\n2,3 - 0,8 = 1,5 (m) \nThể tích của bể nước là:\n2,3 x 1,5 x 2 = 6,9 (m^{3} ) \nĐổi 6,9m^{3}  = 6900dm^{3}  = 6900 lít\nĐáp số: 6900 lít."
+    }
+]

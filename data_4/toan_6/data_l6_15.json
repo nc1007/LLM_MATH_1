@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Câu 1. Thực hiện các phép tính sau: (-99) + (-11)\nA. – 88\nB. -100\nC. -110\nD. -99",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải (-99) + (-11) = - (99 + 11) =  -110\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Trong các phát biểu sau, có bao nhiêu phát biểu đúng, bao nhiêu phát biểu nào sai?\na) Tổng của một số nguyên âm và một số nguyên dương là một số nguyên âm.\nb) Tổng của một số nguyên dương và một số nguyên âm là một số nguyên dương.\nc) Hai số đối nhau có tổng bằng 0.\nA. 1 phát biểu đúng, 2 phát biểu sai\nB. 2 phát biểu đúng, 1 phát biểu sai\nC. Cả 3 phát biểu đều đúng\nD. Cả 3 phát biểu đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nPhát biểu a) là sai. Vì chẳng hạn ta có -2 là một số nguyên âm và 3 là một số nguyên dương thì tổng (-2) + 3 = 3 – 2 = 1 là một số nguyên dương.\nPhát biểu b) là sai. Vì chẳng hạn ta có – 15 là một số nguyên âm và 10 là một số nguyên dường thì tổng (-15) + 10 = - (15 – 10) = -5 là một số nguyên âm. \nPhát biểu c) là đúng. Vì tổng của hai số nguyên đối nhau có tổng bằng 0.\nVậy có 2 phát biểu đúng, 1 phát biểu sai.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Trong giờ học nhóm, ba bạn An, Bình, Chi đã lần lượt phát biểu như sau:\na) Bạn An: “Tổng của hai số nguyên dương luôn là một số nguyên dương”.\nb) Bạn Bình: “Tổng của hai số nguyên âm luôn là một số nguyên âm”.\nc) Bạn Chi: “Tổng của hai số nguyên cùng dấu luôn cùng dấu với hai số nguyên đó”.\nBạn nào phát biểu đúng, bạn nào phát biểu sai? \nA. Bạn An, Bạn Bình đúng; bạn Chi sai\nB. Bạn An đúng, bạn Bình và bạn Chi sai\nC. Cả ba bạn đều đúng\nD. Cả ba bạn đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \na) Bạn An phát biểu đúng vì nếu a và b là hai số nguyên dương thì a > 0, b > 0 nên tổng a + b > 0\nb) Bạn Bình phát biểu đúng vì nếu a và b là hai số nguyên âm thì a < 0, b < 0 nên tổng a + b < 0\nc) Bạn Chi phát biểu đúng vì nếu a và b cùng là hai số nguyên dương thì tổng a + b cũng là số nguyên dương, nếu a và b cùng là hai số nguyên âm thì tổng a + b cũng là số nguyên âm. \nVậy cả ba bạn đều đúng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Phát biểu nào sau đây đúng về kết quả của phép tính: (-35) – (-60);\nA. Kết quả của phép tính là số nguyên âm\nB. Kết quả của phép tính là số nguyên dương\nC. Kết quả của phép tính là bằng 0\nD. Cả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: (-35) – (-60) = (-35) + 60 = 25;\nKết quả phép tính là một số nguyên dương.\nĐáp án: A"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. So sánh kết quả hai biểu thức sau: A = – (12 – 25) và B = (-12 + 25); \nA. A > B\nB. A < B \nC. A = B\nD. A < B < 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có:\nA =  – (12 – 25) = - [12 + (-25)] = - (-13) =13;\nB = (-12 + 25) = 25 – 12 = 13;\nSuy ra – (12 – 25) = ( -12 + 25).\nVậy A = B.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Tính T = - 9 + (-2) – (-3) + (-8).\nA. T = 4\nB. T = -4\nC. T = 16\nD. T = -16",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nT = - 9 + (-2) – (-3) + (-8)\n= [-9 – (-3)] + [(-2) + (-8)]\n= [ - 9 + 3] + (- 10)\n= -6 + (-10)\n= -16.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Em hãy dùng số nguyên âm để giải bài toán sau:\nMột chiếc tàu ngầm đang ở độ sâu 20 m, tàu tiếp tục lặn thêm 15 m. Hỏi khi đó tàu ngầm ở độ sâu là bao nhiêu mét?\nA. -35m\nB. 35m\nC. 5m\nD. -5m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTàu ngầm đang ở độ sâu 20 m hay tàu đang ở độ cao: - 20 m;\nTàu lặn thêm 15 m nữa được biểu diễn bởi: - 15m;\nKhi đó tàu ngầm ở : (- 20) + (-15) = - 35 (m)\nDo đó tàu ngầm ở độ cao  - 35 m hay tàu ở độ sâu 35 m.\nVậy độ sâu của tàu ngầm ở độ sâu 35 m.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Thẻ tín dụng trả sau của bác Tám đang ghi nợ 2 000 000 đồng, sau khi bác Tám nộp vào 2 000 000 đồng thì bác Tám có bao nhiêu tiền trong tài khoản? Hãy dùng số nguyên để giải thích.\nA. – 2 000 000 đồng\nB. 2 000 000 đồng\nC. 0 đồng\nD. 4 000 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nThẻ tín dụng đang ghi nợ 2 000 000 đồng được biểu diễn là: - 2 000 000 (đồng).\nBác Tám nộp vào tài khoản 2 000 000 đồng được biểu diễn là: + 2 000 000 (đồng).\nSố tiền bác Tám có trong tài khoản là: (+ 2 000 000) + (-2 000 000) = 0 (đồng).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Tính nhanh các tổng sau: S = (45 – 3 756) + 3 756; \nA. 45\nB. 7 467\nC. 3756\nD. – 3 711",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nS = (45 – 3 756) + 3 756 \n= 45 – 3 756 + 3 756 \n= 45 + [(– 3 756) + 3 756] \n= 45 + 0 = 45\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 6.\nMũi khoan một giàn khoan trên biển đang ở độ cao 5m so với mực nước biển, chú công nhân điều khiển nó hạ xuống 10m. Vậy mũi khoan ở độ cao nào (so với mực nước biển) sau khi hạ?\nA. 10m\nB. -10m\nC. 5m\nD. -5m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Mũi khoan đang ở độ cao: 5 – 10 = -5 (m) so với mực nước biển.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Thực hiện các phép tính sau: 4 + (-7) + (-5) + 12;  \nA. - 20\nB. 4   \nC. -4\nD. - 28",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n4 + (-7) + (-5) + 12 \n= 4 + [(-7) + (-5)] + 12  \n= 4 + (-12) + 12\n= 4 + [(-12) + 12]\n= 4 + 0\n= 4\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. Một tòa nhà có tám tầng được đánh số theo thứ tự 0 (tầng mặt đất), 1, 2, 3, ..., 7 và ba tầng hầm được đánh số -1; -2; -3. Em hãy dùng phép cộng các số nguyên để diễn tả hai tình huống sau đây:\nMột thang máy đang ở tầng – 3, nó đi lên 5 tầng. Hỏi thang máy dừng lại ở tầng mấy?\n(Ở một số tòa nhà, tầng mặt đất còn được gọi là tầng G).\nA. Tầng G\nB. Tầng 1\nC. Tầng 2\nD. Tầng 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có (-3) + 5 = 5 – 3 = 2.\nThang máy dừng ở tầng 2.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Bỏ dấu ngoặc rồi tính: (77 + 22 – 65) - (67 +  12 - 75); \nA. 10\nB. 20\nC. 30\nD. 40",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(77 + 22 – 65) - (67 +  12 - 75) \n= 77 + 22 – 65 – 67 – 12 + 75 \n= (77 – 67) + (22 – 12) + ( - 65 + 75) \n= 10 + 10 + 10 \n= 30.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 10. Trong các biểu thức dưới đây, giá trị của biểu thức nào là lớn nhất\nM = [(-3) + 4] + 2;\nN = (-3) + (4 + 2);\nP = [(-3) + 2] + 4.\nA. M\nB. N\nC. P\nD. Không có giá trị biểu thức nào lớn nhất",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: \nM = [(-3) + 4] + 2 = (4 – 3) + 2 = 1 + 2 = 3;\nN = (-3) + (4 + 2) = (-3) + 6 = 6 – 3 = 3;\nP = [(-3) + 2] + 4 = - (3 – 2) + 4 = (-1) + 4 = 4 – 1 = 3.\nSuy ra [(-3) + 4] + 2 = (-3) + (4 + 2) = [(-3) + 2] + 4 = 3.\nVậy M = N = P.\nĐáp án: D"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Bác Hà là khách quen của cửa hàng tạp hóa nhà bác Lan nên có thể mua hàng trước, trả tiền sau. Hôm qua bác Lan đã cho bác Hà nợ 80 nghìn đồng, hôm nay bác Hà lại được bác Lan cho nợ thêm 40 nghìn đồng nữa. Em hãy dùng số nguyên để giúp bác Lan ghi vào sổ số tiền bác Hà còn nợ bác Lan.\nA. 120 000\nB. – 120 000\nC. – 80 000\nD. – 40 000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nBác Hà nợ bác Lan 80 nghìn đồng được biểu diễn là: - 80 000(đồng).\nBác Hà nợ tiếp bác Lan 40 nghìn đồng được biểu diễn là: - 40 000(đồng).\nTổng số tiền bác Hà nợ bác Lan là: (-80) + (-40) = - (80 + 40) = -120 000(đồng).\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Cho a là số nguyên dương nhỏ nhất có hai chữ số chia hết cho 2 và 5; b là số nguyên âm lớn nhất có ba chữ số. Tính tổng a + b.\nA. – 110\nB. 110\nC. – 90 \nD. 90",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì a chia hết cho 2 và 5 nên a có chữ số tận cùng là 0.\nHơn nữa a là số nguyên dương nhỏ nhất có hai chữ số nen a = 10.\nTa có b là số nguyên âm lớn nhất có ba chữ số nên b = -100.\nTổng a + b = 10 + (-100) = -(100 – 10) = -90.\nVậy a + b = -90.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Thực hiện phép tính: (-2) + (-4) + (-6) + (-8) + (-10) + 8 + 10 + 12;\nA. 24\nB – 24\nC. 0\nD 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-2) + (-4) + (-6) + (-8) + (-10) + 8 + 10 + 12\n= (-6) + (-6) + [(-8) + 8] + [(-10) + 10] + 12\n= (-12) + 0 + 0 + 12\n= (-12) + 12\n= 12 – 12\n= 0\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 6. Cho 43 số nguyên, trong đó tổng của 7 số bất kì là một số nguyên âm. Nhận xét nào sau đây đúng về tổng của 43 số đó.\nA. Tổng 43 số đó là số nguyên âm\nB. Tổng của 43 số đó là số nguyên dương\nC. Tổng của 43 số đố là số 0\nD. Tổng của 43 số đó là một số lớn hơn 1 000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrong 43 số nguyên ta có tổng của 7 số nguyên bất kì là một số nguyên âm nên trong đó có ít nhất một số nguyên âm. Gọi số nguyên âm này là a (a < 0). Còn lại 42 số nguyên nghĩa là có 6 tổng của 7 số nguyên âm bất kì mà tổng 7 số nguyên bất kì là một số nguyên âm nên 6 tổng này cũng là một số nguyên âm. \nVì vậy tổng của 43 số đó là số nguyên âm.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 7. Tính tổng sau: (-1) + (-2) + 3 + 4 + … + (-97) + (-98) + 99 + 100.\nA. 50\nB. 100\nC. 20\nD. 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-1) + (-2) + 3 + 4 + … + (-97) + (-98) + 99 + 100\n= [(-1) + 3 + (-5) + … + (-97) + 99] + [(-2) + 4 + (-6) + … + (-98) + 100]\nXét (-1) + 3 + (-5) + … + (-97) + 99\nSố số hạng của tổng là: [99 – (-1)]:2 + 1 = 50.\nKhi đó: (-1) + 3 + (-5) + … + (-97) + 99\n= [(-1) + 3] + [(-5) + 7] + … + [(-97) + 99]\n= 2 + 2 + … + 2 \n= 2.(50:2)\n= 2.25\n= 50.\nXét (-2) + 4 + (-6) + … + (-98) + 100\nSố số hạng của tổng là: (100 – 2):2 + 1 = 50.\nKhi đó: (-2) + 4 + (-6) + … + (-98) + 100\n= [(-2) + 4] + [(-6) + 8] + … + [(-98) + 100]\n= 2 + 2 + … + 2\n= 2.(50:2)\n= 2.25\n= 50.\nSuy ra: (-1) + (-2) + 3 + 4 + … + (-97) + (-98) + 99 + 100\n= [(-1) + 3 + (-5) + … + (-97) + 99] + [(-2) + 4 + (-6) + … + (-98) + 100]\n= 50 + 50\n= 100.\nĐáp án: B"
+    }
+]

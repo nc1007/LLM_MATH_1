@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Muốn trừ hai phân số có cùng mẫu số thì:\nA.\tTa trừ tử số của phân số thứ nhất cho tử số của phân số thứ hai, cộng hai mẫu số với nhau.\nB.\tTa trừ tử số của phân số thứ nhất cho tử số của phân số thứ hai, trừ mẫu số của phân số thứ nhất cho mẫu số của phân số thứ hai\nC.\tTa trừ tử số của phân số thứ nhất cho tử số của phân số thứ hai, giữ nguyên mẫu số\nD.\tTa nhân tử số của phân số thứ nhất với tử số của phân số thứ hai, giữ nguyên mẫu số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn trừ hai phân số có cùng mẫu số, ta trừ tử số của phân số thứ nhất cho mẫu số của phân số thứ hai và giữ nguyên mẫu số.\nChú ý\nHọc sinh có thể nhớ nhầm quy tắc là ta trừ tử số của phân số thứ nhất cho tử số của phân số thứ hai, trừ mẫu số của phân số thứ nhất cho mẫu số của phân số thứ nên có thể chọn đáp án sai là B"
+    },
+    {
+        "problem": "Câu 2: Hoa nói rằng “Muốn trừ hai phân số khác mẫu số, ta quy đồng mẫu số hai phân số, rồi trừ hai phân số đó”. Theo em, Hoa nói đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn trừ hai phân số khác mẫu số, ta quy đồng mẫu số hai phân số, rồi trừ hai phân số đó.\nVậy Hoa nói đúng."
+    }
+]

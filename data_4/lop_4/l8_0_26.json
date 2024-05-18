@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1 : Biểu thức có chứa một chữ gồm có: \nA.\tCác số\nB.\tDấu tính\nC.\tMột chữ\nD.\tCả A,B,C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu thức có chứa một chữ gồm số, dấu tính và một chữ.\nVí dụ: 10 – a; b + 35;..."
+    },
+    {
+        "problem": "Câu 2 : 45 + b được gọi là: \nA.\tBiểu thức\nB.\tBiểu thức có chứa một chữ\nC.\tBiểu thức có chứa hai chữ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu thức có chứa một chữ gồm số, dấu tính và một chữ.\nVậy 45 + b là biểu thức có chứa một chữ."
+    },
+    {
+        "problem": "Câu 3 : Giá trị của biểu thức 75 - a với a = 18 là: \nA.\t57\nB.\t67\nC.\t83\nD.\t93",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a = 18 thì 75 – a = 75 – 18 = 57.\nVậy với a = 18 thì giá trị của biểu thức 75 − a là 57."
+    },
+    {
+        "problem": "Câu 7 : Giá trị của biểu thức 5772:4 + a x 8 với  a = 123 - 17 x 5 là 11848. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: a=123−17×5=123−85=38\nNếu a=38 thì 5772:4+a×8=5772:4+38×8=1443+304=1747.\nMà 1747<11848\nDo đó kết luận giá trị của biểu thức 5772:4+a×8 với a=123−17×5 là 11848 sai.\nChú ý\nHọc sinh có thể thực hiện sai thứ tự thực hiện phép tính, tính lần lượt từ trái sang phải, \ntừ đó tìm được kết quả là 11848 và chọn sai đáp án."
+    },
+    {
+        "problem": "Câu 10 :  Một hình chữ nhật có chiều dài là b, chiều rộng bằng 48cm . Với b = 63cm thì chu vi hình chữ nhật là: \nA.\t111cm\nB.\t174cm\nC.\t222cm\nD.\t3024cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình chữ nhật có chiều dài là b, chiều rộng bằng 48cm\n thì công thức chu vi hình chữ nhật là P=(b+48)×2.\nNếu b=63cm thì P=(b+48)×2=(63+48)×2=222(cm)\nVậy với b=63cm thì chu vi hình chữ nhật là 222cm."
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "problem": "Câu 2. Cho tổng: 15946+?=51612+15946. Dấu “?” trong tổng trên là:\nA. 51612\nB. 15946\nC. 67558\nD. 35666",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nÁp dụng tính chất giao hoán của phép cộng ta có:\n15946+51612=51612+15946 . Suy ra \"?\" có giá trị 51612.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Khẳng định nào sau đây sai?\nA. a + b + c = (a + b) + c\nB. a + b + c = (a + c) + b\nC. a + b + c = (a + b) + b\nD. a + b + c = a + (b + c)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \na + b + c = (a + b) + b sai vì c không thể bằng bb.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. 6 + 6 + 6 + 6 bằng\nA. 6\nB. 6.2\nC. 6.4\nD. 64",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng trên có 4 số 6 nên 6 + 6 + 6 + 6 = 6.4\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Tích 4×a×b×c bằng\nA. 4\nB. 4ab\nC. 4 + abc\nD. 4abc",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n4×a×b×c là tích của 4 thừa số:\nThừa số thứ nhất là một số: 4\nThừa số thứ 2, thứ 3, thứ 4 lần lượt là các chữ a,b,c.\nVậy tích này chỉ có 1 thừa số bằng số nên ta có thể bỏ dấu “××” giữa các thừa số đi, tức là 4×a×b×c = 4abc\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Cho a, b, c là các số tự nhiên tùy ý. Khẳng định nào sau đây sai?\nA. abc = (ab)c\nB. abc = a(bc)\n C. abc  = b(ac)\n D. abc = a + b + c",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(ab)c = (a.b).c\n= a.b.c  = a bca(bc)\n= a.(b.c) = a.b.c\n= abcb(ac) = b.(a.c)\n= b.a.c = a.b.c = abc\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9. a + b bằng?\nA. a + a\nB. b + b\nC. b + a\nD. a",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTính chất phép cộng số tự nhiên:\n+) Tính chất giao hoán: a + b = b + a với a, b là các số tự nhiên.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Tổng (a + b) + c hay a + (b + c) được gọi là tổng của ... và viết gọn là a + b + c.\nA. kết hợp\nB. ba số a, b, c\nC. hai số a, b\nD. giao hoán",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng (a + b) + c hay a + (b + c) được gọi là tổng của ba số a, b, c và viết gọn là a + b + c\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về phép cộng và phép nhân\nCâu 1. Diện tích gieo trồng lúa vụ Thu Đông năm 2019 vùng Đồng bằng sông Cửu Long ước tính đạt 713 200 ha, giảm 14 500 ha so với vụ Thu Đông năm 2018 ( Theo Tổng cục Thống kê 10/2019).\nHãy tính diện tích gieo trồng lúa vụ Thu Đông năm 2018 của Đồng bằng sông Cửu Long.\nA. 727 700\nB. 772 700\nC. 699 700\nD. 722 700",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích gieo trồng năm 2018 nhiều hơn diện tích gieo trồng năm 2019 là 14 500 ha nên diện tích gieo trồng năm 2018 là:\n713 200 + 14 500 = 727 700 (ha)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Tính 127 + 39 + 73\nA. 200\nB. 239\nC. 293\nD. 329",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n  127 + 39 + 73\n= 127 + 73 + 39\n= (127 + 73) + 39\n= 200 + 39\n= 239\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Hoa được mẹ cho 50 nghìn mua đồ dùng học tập. Hoa cần mua một chiếc bút chì, một chiếc tẩy, một chiếc bút bi và một bộ ê ke và giá của những vật dụng này lần lượt là: 4 nghìn, 4 nghìn, 5 nghìn và bộ ê ke thì nhiều hơn chiếc bút bi 15 nghìn. Khẳng định nào sau đây đúng?\nA. Hoa không thể mua hết các vật dụng này.\nB. Hoa mua hết 29 nghìn\nC. Sau khi mua đồ dùng thì Hoa vẫn còn thừa tiền\nD. Hoa mua hết 28 nghìn đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBộ ê ke nhiều hơn bút bi 15 nghìn nên có giá:\n5 + 15 = 20 nghìn\nTổng số tiền để mua hết đồ dùng là: 5 + 4 + 4 + 20 = 33 nghìn  > 50 nghìn.\nDo đó sau khi mua đồ dùng thì Hoa vẫn còn thừa tiền.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Mẹ An mua cho An một bộ đồng phục học sinh gồm áo sơ mi giá 125 000 đồng, áo khoác giá 140 000 đồng, quần âu giá 160 000 đồng. Tính số tiền mẹ An đã mua đồng phục cho An.\nA. 265 000 đồng\nB. 452 000 đồng\nC. 425 000 đồng\nD. 542 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tiền mẹ An đã mua đồng phục cho An:\n125 000 + 140 000 + 160 000\n= 125 000 + (140 000 + 160 000)\n= 125 000 + 300 000 = 425 000 (đồng).\nVậy mẹ An đã mua đồng phục cho An hết 425 000 đồng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Mẹ An mua cho An một bộ đồng phục học sinh gồm áo sơ mi giá 125 000 đồng, áo khoác giá 140 000 đồng, quần âu giá 160 000 đồng. Tính số tiền mẹ An đã mua đồng phục cho An.\nA. 265 000 đồng\nB. 452 000 đồng\nC. 425 000 đồng\nD. 542 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tiền mẹ An đã mua đồng phục cho An:\n125 000 + 140 000 + 160 000\n= 125 000 + (140 000 + 160 000)\n= 125 000 + 300 000 = 425 000 (đồng).\nVậy mẹ An đã mua đồng phục cho An hết 425 000 đồng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Mẹ An mua cho An một bộ đồng phục học sinh gồm áo sơ mi giá 125 000 đồng, áo khoác giá 140 000 đồng, quần âu giá 160 000 đồng. Tính số tiền mẹ An đã mua đồng phục cho An.\nA. 265 000 đồng\nB. 452 000 đồng\nC. 425 000 đồng\nD. 542 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tiền mẹ An đã mua đồng phục cho An:\n125 000 + 140 000 + 160 000\n= 125 000 + (140 000 + 160 000)\n= 125 000 + 300 000 = 425 000 (đồng).\nVậy mẹ An đã mua đồng phục cho An hết 425 000 đồng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7.  Tìm số xy¯ biết xy¯.xyx¯=xyxy¯\nA. 10\nB. 11\nC. 12\nD. 13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\nxy¯.xyx¯=xyxy¯xy¯.xyx¯=xy¯.100+xy¯xy¯.xyx¯=xy¯.100+1xy¯.xyx¯=xy¯.101\nSuy ra xyx¯=101 nên x = 1; y = 0\nVậy xy¯=10\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Tính nhanh tổng 53 + 25 + 47 + 75?\nA. 200   \nB. 201   \nC. 100   \nD. 300",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 53 + 25 + 47 + 75 =(53+47)+(25+75)=100+100=200\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Kết quả của phép tính 1245 + 7011 là\nA. 8625   \nB. 8526          \nC. 8255      \nD. 8256",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 1245+7011=8256.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Tìm số tự nhiên x thỏa mãn: 7 + x = 362.\nA. 300\nB. 355\nC. 305\nD. 362",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \n7 + x = 362\nx = 362 − 7\nx = 355.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 3.Các dạng toán về phép cộng và phép nhân (tiếp)\nCâu 1. Kết quả của phép tính 547.63 + 547.37 là\nA. 54700   \nB. 5470          \nC. 45700      \nD. 54733",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có \n547.63 + 547.37\n= 547.(63 + 37)\n= 547.100 = 54700.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Tích 25.9676.4 bằng với\nA. 1000.9676   \nB. 9676 + 100          \nC. 9676.100      \nD. 9676.10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 25.9676.4 = 9676.25.4 = 9676.100\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Tính  nhanh 125.1975.4.8.25\nA. 1975000000   \nB. 1975000          \nC. 19750000                            \nD. 197500000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 125.1975.4.8.25\n = (125.8).(4.25).1975\n = 1000.100.1975\n = 197500000\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Tổng 1 + 2 + 3 + 4 + ... + 2018 bằng\nA. 4074342   \nB. 2037171          \nC. 2036162      \nD. 2035152",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố các số tự nhiên liên tiếp từ 1 đến 2018 là 2018 – 1 + 1 = 2018 số\nNhư vậy từ 1 đến 2018 có số các số hạng là 2018.\nTổng 1 + 2 + 3 + 4 +...+ 2018\n= (2018 + 1).2018:2 = 2037171.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Không tính giá trị cụ thể, hãy so sánh A = 1987657.1987655  và\n B = 1987656.1987656\nA. A > B   \nB. A < B          \nC. A ≤ B      \nD. A = B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có A = 1987657.1987655\n= (1987656 + 1).1987655\n= 1987656.1987655 + 1987655 (1)\nVà B = 1987656.(1987655 + 1)\n= 1987656.1987655 + 1987656 (2)\nVì 1987655 < 1987656 và từ (1) và (2) suy ra A < B.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Tổng 1+3+5+7+...+95+97 là\nA. Số có chữ số tận cùng là 7.\nB. Số có chữ số tận cùng là 2.\nC. Số có chữ số tận cùng là 3.\nD. Số có chữ số tận cùng là 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố các số tự nhiên lẻ liên tiếp từ 1 đến 97 là (97−1):2 + 1 = 49 số\nDo đó 1 + 3 + 5 + 7 +...+ 95 + 97\n= (97 + 1).49:2 = 2401.\nVậy tổng cần tìm có chữ số tận cùng là 1.1.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Tìm số tự nhiên x biết (x − 4).1000 = 0\nA. x = 4   \nB. x = 3   \nC. x = 0   \nD. x = 1000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (x−4).1000=0\n(x−4).1000=0 \nnên  x − 4 = 0 (vì 1000≠0)\nSuy ra\nx = 0 + 4\nx = 4.\nVậy x = 4.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Số tự nhiên nào dưới đây thỏa mãn 2018(x − 2018) = 2018\nA. x = 2017   \nB. x = 2018   \nC. x = 2019   \nD. x = 2020",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 2018(x − 2018) = 2018\n x−2018 = 2018:2018\nx−2018 = 1\nx=2018 + 1\nx=2019\nVậy x = 2019\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Kết quả của phép tính 879.2a + 879.5a + 879.3a là\nA. 8790           \nB. 87900a   \nC. 8790a      \nD. 879a",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 879.2a + 879.5a + 879.3a\n= 879.a.2 + 879.a.5 + 879.a.3\n= 879a(2 + 5 + 3)\n= 879a.10 = 8790a\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Một tàu hỏa cần chở 1200 khách. Biết rằng mỗi toa có 12 khoang, mỗi khoang có 8 chỗ ngồi. Hỏi tàu hỏa cần  ít nhất bao nhiêu toa để chở hết số khách tham quan.\nA. 13   \nB. 15          \nC. 12      \nD. 14",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMỗi toa chở số người là: 12.8 = 96 người\nVì tàu hỏa cần chở 1200 hành khách mà 1200:96 = 12 dư 48 hành khách nên cần ít nhất 13 toa để chở hết số khách tham quan.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Để đánh số trang của một quyển sách dày 2746 trang, ta cần dùng bao nhiêu chữ số?\nA. 9875   \nB. 9876  \nC. 9877   \nD. 9878",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nQuyển sách có:\n+ Số trang có 11 chữ số là 9 – 1 + 1 = 9\n+ Số trang có 22 chữ số là 99 – 10 + 1 = 90 trang\n+ Số trang có 33 chữ số là  999 – 100 + 1 = 900 trang\n+ Số trang có 4 chữ số là  2746 – 1000 + 1 = 1747 trang\nVậy số chữ số cần dùng là:\n1.9 + 2.90 + 3.900 + 4.1747 = 9877 (chữ số)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Dạng 4.Phép trừ và phép chia\nCâu 1. Phép tính x − 5 thực hiện được khi\nA. x < 5   \nB. x ≥ 5          \nC. x < 4      \nD. x = 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhép tính x − 5 thực hiện được khi x ≥ 5.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Cho phép tính 231 − 87. Chọn câu đúng.\nA. 231 là số trừ \nB. 87 là số bị trừ      \nC. 231 là số bị trừ   \nD. 87 là hiệu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong phép trừ 231 − 87 thì 231 là số bị trừ và 87 là số trừ nên C đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Cho phép tính x:3 = 6, khi đó thương của phép chia là\nA. x   \nB. 6          \nC. 3      \nD. 18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhép chia x:3 = 6 có x là số bị chia; 3 là số chia và 6 là thương.\nNên thương của phép chia là 6.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. Cho phép tính x:3 = 6, khi đó thương của phép chia là\nA. x   \nB. 6          \nC. 3      \nD. 18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhép chia x:3 = 6 có x là số bị chia; 3 là số chia và 6 là thương.\nNên thương của phép chia là 6.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Tính 1 454 - 997\nA. 575\nB. 567\nC. 457\nD. 754",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n1 454 - 997 = (1 454 + 3) - (997 + 3)\n= 1 457 - 1 000 = 457\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Trong phép chia có dư aa chia cho b, trong đó b ≠ 0, ta luôn tìm được đúng hai số tự nhiên q và r  duy nhất sao cho:\na = b.q + r\nKhẳng định nào sau đây đúng?\nA. r ≥ b\nB. 0 < b < r\nC. 0 < r < b\nD. 0 ≤ r < b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nKhi chia a cho b, trong đó b ≠ 0, ta luôn tìm được đúng hai số tự nhiên q và r  duy nhất sao cho:\na = b.q + r  trong đó  0 ≤ r < b\nPhép chia a cho b là phép chia có dư nên r ≠ 0\nVậy 0 < r < b.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Dạng tổng quát của số tự nhiên chia hết cho 3 là:\nA. 3k (k ∈ N)   \nB. 5k + 3 (k ∈ N)          \nC. 3k + 1 (k ∈ N)      \nD. 3k + 2 (k ∈ N)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số hạng chia hết cho 33 có dạng tổng quát là x = 3k(k∈N)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Dạng tổng quát của số tự nhiên chia cho 5 dư 2 là\nA. 2k + 5(k∈N)   \nB. 5k + 2(k∈N)          \nC. 2k(k∈N)      \nD. 5k + 4(k∈N)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDạng tổng quát của số tự nhiên chia cho 5 dư 2 là a = 5k + 2(k∈N).\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 12. Tình nhanh 49.15 − 49.5 ta được kết quả là\nA. 490   \nB. 49          \nC. 59      \nD. 4900",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 49.15 − 49.5 =  49.(15−5) = 49.10 = 490.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13. Kết quả của phép tính 12.100 + 100.36 − 100.19 là\nA. 29000             \nB. 3800          \nC. 290      \nD. 2900",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n12.100 + 100.36 − 100.19\n= 100.(12 + 36 − 19)\n= 100.29 = 2900.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Dạng 5.Các dạng toán về phép trừ và phép chia\nCâu 1. Tính (368 + 764) − (363 + 759), ta được\nA. 10   \nB. 20          \nC. 30      \nD. 100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (368 + 764) − (363 + 759) = 1132 – 1122 = 10.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Thực hiện hợp lý phép tính (56.35 + 56.18):53 ta được\nA. 112   \nB. 28          \nC. 53      \nD. 56",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (56.35 + 56.18):53\n= 56.(35 + 18):53\n= 56.53:53\n= 56.1 = 56\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Kết quả của phép tính (158.129 − 158.39):180 có chữ số tận cùng là\nA. 8   \nB. 79          \nC. 9          \nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (158.129−158.39):180\n= 158.(129−39):180\n= 158.90:180\n= 79.2.90:180\n= 79.180:180\n= 79.\nVậy kết quả của phép tính có chữ số tận cùng là 9.9.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Kết quả của phép tính 90 – 85 + 80 – 75 +70 – 65 + 60 – 55 + 50 − 45 là\nA. 25   \nB. 20   \nC. 30      \nD. 35",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n90 – 85 + 80 – 75 + 70 – 65 + 60 – 55 + 50 − 45\n= 5 + 5 + 5 + 5 + 5\n= 10 + 10 + 5\n= 25.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Tìm số tự nhiên xx biết rằng x − 50:25 = 8\nA. 11   \nB. 250          \nC.10  \nD. 20",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có x − 50:25=8\nx – 2 = 8\nx = 8 + 2\nx = 10.\nx = 10.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Giá trị x nào dưới đây thỏa mãn (x − 50):25 = 8?\nA. 300   \nB. 150          \nC. 200      \nD. 250",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (x−50):25=8\n x−50=25.8\n x−50=200\n x=50+200\n x=250.\n Vậy x=250\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Chọn kết luận đúng về số tự nhiên x thỏa mãn 5x − 46:23 = 18.\nA. x là số chẵn   \nB. x là số lẻ          \nC. x là số có hai chữ số      \nD. x = 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 5x − 46:23 = 18\n 5x – 2 = 18\n 5x = 18 + 2\n 5x = 20\n x = 20:5\n x = 4\nVậy x = 4.\nDo đó x là số chẵn.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Cho x1 là số tự nhiên  thỏa mãn (5x − 38):19 = 13 và x2 là số tự nhiên thỏa mãn  100 − 3(8 + x) = 1. Khi đó x1 + x2 bằng\nA. 80   \nB. 82          \nC. 41      \nD. 164",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Ta có (5x − 38):19 = 13\n5x – 38 = 13.19\n5x – 38 = 247\n5x = 247 + 38\n5x = 285\nx = 285:5\nx = 57\nVậy x1 = 57.\n- Ta có 100 − 3(8 + x) = 1\n3(8 + x) = 99\n 8 + x = 99:3\n 8 + x = 33\n x = 33 − 8\n x = 25.\nVậy x2 = 25\nKhi đó x1 + x2 = 57 + 25 = 82.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Tìm số chia và số dư trong phép chia khi biết số bị chia là 36 và thương là 7.\nA. Số chia là 5, số dư là 2.   \nB. Số chia là 7, số dư là 1.              \nC. Số chia là 5, số dư là 1.          \nD. Số chia là 6, số dư là 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số chia là bb, số dư là r (b∈N∗; 0 ≤ r < b).\nTheo đề bài ta có 36 = 7.b + r suy ra 7b ≤ 36 và 8b > 36  suy ra b = 5 từ đó ta có r = 1.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Trong một phép chia số tự nhiên cho số tự nhiên có số bị chia là 200 và số dư là 13. Khi đó số chia và thương lần lượt là\nA. 197; 1   \nB. 1; 197          \nC. 1; 187      \nD. 187; 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi thương là p; số chia là b(b > 13)\nTheo đề bài ta có 200 = bq + 13 nên bq = 187 = 187.1\nmà b > 13 nên b = 187 và q = 1.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11. Tìm số tự nhiên x, biết: 124 + (118 - x) = 217\nA. 10\nB. 15\nC. 25\nD. 35",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n124 + (118 - x) = 217\n (118 - x) = 217 - 124\n118 – x = 93\nx = 118 - 93\nx = 25\nVậy x = 25.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13. Mẹ em mua một túi 15 kg gạo tám thơm Hải Hậu loại 20 nghìn đồng một ki lô gam. Hỏi mẹ em phải đưa cho cô bán hàng bao nhiêu tờ tiền 50 nghìn đồng để trả tiền gạo?\nA. 300\nB. 4\nC. 5\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tiền gạo là 15.20=300 nghìn đồng\nSố tờ tiền mà mẹ em phải đưa là 300:50 = 6 (tờ)\nVậy mẹ em phải đưa cho cô bán hàng 6 tờ tiền mệnh giá 50 nghìn đồng.\nĐáp án cần chọn là: D"
+    }
+]

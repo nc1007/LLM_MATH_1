@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Cho bảng thống kê sản lượng lúa (triệu tấn) của cả nước và Đồng bằng song Cửu Long qua các năm.\nNăm\n2000\n2005\n2010\n2015\n2020\nCả nước (triệu tấn)\n32,5\n35,8\n40\n45,1\n42,8\nĐồng bằng sông Cửu Long (triệu tấn)\n16,7\n19,3\n21,6\n25,6\n23,8\n(Nguồn: Tổng cục thống kê)\nHãy vẽ biểu đồ thích hợp để biểu diễn bảng thống kê trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về lựa chọn dạng biểu đồ để biểu diễn dữ liệu: Biểu đồ cho chúng ta hình ảnh cụ thể về số liệu. Việc chọn loại biểu đồ phù hợp sẽ giúp ta thể hiện số liệu thống kê một cách rõ ràng, trực quan và dễ hiểu.\n+ Ta thường chọn biểu đồ tranh khi số liệu ở dạng đơn giản và muốn tạo sự lôi cuốn, thu hút bằng hình ảnh\n+ Với những số liệu phức tạp hơn, số liệu lớn, sự sai khác giữa các số liệu cũng lớn và để thuận tiện cho việc so sánh thì ta thường chọn biểu đồ cột\n+ Nếu muốn so sánh một cách trực quan từng cặp số liệu của hai bộ dữ liệu cùng loại, người ta ghép hai biểu đồ cột thành một biểu đồ cột kép.\n+ Để biểu thị tỉ lệ phần trăm của từng loại số liệu so với toàn thể, người ta thường sử dụng biểu đồ hình quạt tròn.\n+ Khi biểu diễn sự thay đổi của từng loại số liệu của một đối tượng theo thời gian, người ta thường dùng biểu đồ đoạn thẳng.\nLời giải chi tiết\nBiểu đồ cột kép là thích hợp để biểu diễn dữ liệu từ bảng thống kê:\n"
+    },
+    {
+        "problem": "Cơ cấu doanh thu du lịch lữ hành theo thành phần kinh tế của nước ta (tỉ lệ %) trong năm 2010 và 2016 được cho trong bảng thống kê sau:\nThành phần kinh tế\n2010\n2016\nKinh tế nhà nước\n32%\n15%\nKinh tế ngoài nhà nước\n60%\n74%\nKhu vực có vốn đầu tư nước ngoài\n8%\n11%\n(Nguồn: Tổng cục thống kê)\na) Biểu diễn dữ liệu thống kê trên dưới dạng biểu đồ cột kép.\nb) Chuyển đổi dữ liệu từ bảng thống kê trên vào hai biểu đồ hình quạt tròn.\nNăm 2010:\n\nNăm 2016:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về chuyển đổi dữ liệu giữa các dạng: Một tập dữ liệu có thể biểu diễn dưới các dạng khác nhau. Chuyển đổi dữ liệu giữa các dạng giúp công việc thuận lợi và đạt hiệu quả hơn.\nLời giải chi tiết\na) Biểu đồ cột kép:\n\nb) Năm 2010:\n\nc) Năm 2016:\n"
+    },
+    {
+        "problem": "Biểu đồ dưới đây cho biết tỉ lệ mỗi loại trái cây bán được của một cửa hàng.\n\na) Hãy chuyển đổi dữ liệu từ biểu đồ trên sang dạng bảng thống kê theo mẫu sau:\nLoại trái cây\nTỉ lệ phần trăm\nCam\n?\nXoài\n?\nMít\n?\nỔi\n?\nSầu riêng\n?\nb) Cho biết của hàng bán được tổng cộng 400kg trái cây. Hãy tính số kilôgam sầu riêng cửa hàng đã bán được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng kiến thức về chuyển đổi dữ liệu giữa các dạng: Một tập dữ liệu có thể biểu diễn dưới các dạng khác nhau. Chuyển đổi dữ liệu giữa các dạng giúp công việc thuận lợi và đạt hiệu quả hơn.\nb) Để tính số kilôgam sầu riêng cửa hàng đã bán được ta lấy tỉ lệ phần trăm của sầu riêng nhân với 400kg trái cây.\nLời giải chi tiết\na) Bảng thống kê biểu diễn dữ liệu thống kê từ biểu đồ:\nLoại trái cây\nTỉ lệ phần trăm\nCam\n18%\nXoài\n24%\nMít\n26%\nỔi\n12%\nSầu riêng\n20%\nb) Số kilôgam sầu riêng cửa hàng đã bán được là: \\(20\\% .400 = 80\\left( {kg} \\right)\\)"
+    }
+]

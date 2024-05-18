@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Trong một tam giác có:\nA.\t3 cạnh\nB.\t3 góc\nC.\t3 đỉnh\nD.\tCả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Một tam giác có 3 cạnh, 3 góc và 3 đỉnh.\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 7: Độ dài cạnh đáy của hình tam giác có chiều cao 24cm và diện tích là 420cm^{2}  là:\nA.\t17,5cm\nB.\t23,5cm\nC.\t35cm\nD.\t396cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài cạnh đáy của hình tam giác đó là:\n420 × 2 : 24 = 35 (cm)\nĐáp số: 35cm"
+    }
+]

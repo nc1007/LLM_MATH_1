@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 7: Chọn số thích hợp để điền vào chỗ chấm:\n15m - 8mm = ...mm\nA.\t7\nB.\t23\nC.\t142\nD.\t14992",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1m = 1000mm nên 15m = 15000mm \nDo đó 15m - 8mm = 15000mm - 8mm = 14992mm \nVậy số thích hợp điền vào chỗ chấm là 14992."
+    },
+    {
+        "problem": "Câu 8: Chọn dấu thích hợp để điền vào chỗ chấm:\n30hm8m ... 3km5m\nA.\t>\nB.\t<\nC.  =",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ 1km = 1000m nên 3km = 3000m\nDo đó: 3km5m = 3000m + 5m = 3005m\n+ 1hm = 100m nên 30hm = 3000m \nDo đó: 30hm8m = 3000m + 8m = 3008m\nTa thấy: 3008m > 3005m\nVậy 30hm8m > 3km5m"
+    },
+    {
+        "problem": "Câu 9: Một đội công nhân trong ba ngày sửa được 2km15m đường. Ngày thứ nhất đội sửa được 425m đường, ngày thứ hai sửa được gấp 2 lần ngày thứ nhất. Hỏi ngày thứ ba đội đó sửa được bao nhiêu mét đường?\nA. 675m\nB. 740m \nC. 850m \nD. 1065m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 2km15m = 2015m\nNgày thứ hai đội sửa được số mét đường là:\n425 x 2 = 850 (m) \nTrong hai ngày đầu đội sửa được số mét đường là:\n425 + 850 = 1275 (m) \nNgày thứ ba đội sửa được số mét đường là:\n2015 - 1275 = 740 (m) \nĐáp số: 740m\n\nNgày thứ hai đội sửa được số mét đường là:\n425 x 2 = 850 (m) \nTrong hai ngày đầu đội sửa được số mét đường là:\n425 + 850 = 1275 (m) \nNgày thứ ba đội sửa được số mét đường là:\n2015 - 1275 = 740 (m) \nĐáp số: 740m"
+    }
+]

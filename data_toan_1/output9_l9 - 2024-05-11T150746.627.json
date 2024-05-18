@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Điền số thích hợp vào bảng sau:\na\n\\(\\dfrac{1}{5}\\)\n\\(\\dfrac{12}{17}\\)\n\\(\\dfrac{3}{4}\\)\n\\(\\dfrac{-7}{30}\\)\n\\(\\dfrac{2}{3}\\)\nb\n\\(\\dfrac{4}{5}\\)\n\\(\\dfrac{-21}{17}\\)\n\\(\\dfrac{5}{12}\\)\n\\(\\dfrac{8}{45}\\)\n\\(\\dfrac{5}{4}\\)\na+b\n\n\n\n\n\na-b\n\n\n\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép cộng, trừ hai phân số\nLời giải chi tiết\na\n\\(\\dfrac{1}{5}\\)\n\\(\\dfrac{12}{17}\\)\n\\(\\dfrac{3}{4}\\)\n\\(\\dfrac{-7}{30}\\)\n\\(\\dfrac{2}{3}\\)\nb\n\\(\\dfrac{4}{5}\\)\n\\(\\dfrac{-21}{17}\\)\n\\(\\dfrac{5}{12}\\)\n\\(\\dfrac{8}{45}\\)\n\\(\\dfrac{5}{4}\\)\na+b\n1\n\\(\\dfrac{-9}{17}\\)\n\\(\\dfrac{7}{6}\\)\n\\(\\dfrac{-1}{18}\\)\n\\(\\dfrac{23}{12}\\)\na-b\n\\(\\dfrac{-3}{5}\\)\n\\(\\dfrac{33}{17}\\)\n\\(\\dfrac{1}{3}\\)\n\\(\\dfrac{-37}{90}\\)\n\\(\\dfrac{-7}{12}\\)\n"
+    },
+    {
+        "problem": "Thực hiện phép tính:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng mẫu số các phân số để đưa các phân số về dạng các phân số có cùng mẫu dương.\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\frac{3}{4} + \\frac{1}{2} + \\frac{{ - 3}}{{32}} = \\frac{{24}}{{32}} + \\frac{{16}}{{32}} + \\frac{{ - 3}}{{32}} = \\frac{{37}}{{32}};\\\\b)\\frac{{ - 5}}{7} - \\frac{3}{8} + \\frac{1}{{28}} = \\frac{{ - 40}}{{56}} - \\frac{{21}}{{56}} + \\frac{2}{{56}} = \\frac{{ - 59}}{{56}}.\\end{array}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lượng cần bổ sung = Lượng cần có – Lượng đã có\nLời giải chi tiết\nCần thêm số phần của cốc bột mì để làm cái bánh đó là:\n\\(\\frac{3}{4} - \\frac{1}{8} = \\frac{5}{8}\\) (cốc bột mì)\n"
+    },
+    {
+        "problem": "Tính một cách hợp lí:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các phân số có cùng mẫu số với nhau\nLời giải chi tiết\n\\(\\begin{array}{l}a)A = \\frac{{ - 5}}{7} + \\frac{8}{{11}} + ( - \\frac{2}{7}) + \\frac{1}{2} + \\frac{3}{{11}}\\\\ = [\\frac{{ - 5}}{7} + ( - \\frac{2}{7})] + (\\frac{8}{{11}} + \\frac{3}{{11}}) + \\frac{1}{2}\\\\ = \\frac{{ - 7}}{7} + \\frac{{11}}{{11}} + \\frac{1}{2}\\\\ = ( - 1) + 1 + \\frac{1}{2}\\\\ = \\frac{1}{2}\\\\b)B = \\frac{{11}}{{17}} + ( - \\frac{8}{{19}}) + ( - \\frac{3}{4}) + \\frac{6}{{17}} - \\frac{{30}}{{19}}.\\\\ = (\\frac{{11}}{{17}} + \\frac{6}{{17}}) + [( - \\frac{8}{{19}}) - \\frac{{30}}{{19}}] + ( - \\frac{3}{4})\\\\ = \\frac{{17}}{{17}} + \\frac{{ - 38}}{{19}} + ( - \\frac{3}{4})\\\\ = 1 + ( - 2) + ( - \\frac{3}{4})\\\\ = \\frac{{ - 7}}{4}\\end{array}\\)\n"
+    },
+    {
+        "problem": "Tìm x biết:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép trừ 2 phân số có cùng mẫu số\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\frac{5}{9} - x = \\frac{{ - 3}}{9};\\\\x = \\frac{5}{9} - (\\frac{{ - 3}}{9})\\\\x = \\frac{8}{9}\\\\b)x + \\frac{{ - 7}}{{13}} = \\frac{{ - 21}}{{13}}\\\\x = \\frac{{ - 21}}{{13}} - (\\frac{{ - 7}}{{13}})\\\\x = \\frac{{ - 14}}{{13}}\\end{array}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính khối lượng công việc mỗi người làm được trong 1 giờ\nKhối lượng công việc khi cả 3 người cùng làm trong 1 giờ = tổng khối lượng công việc mỗi người làm được trong 1 giờ\nLời giải chi tiết\nTrong 1 giờ, 3 người làm được lần lượt: \\(\\frac{1}{6};\\frac{1}{5};\\frac{1}{7}\\) công việc\nNếu 3 người cùng làm thì sau một giờ làm được số phần công việc là:\n\\(\\frac{1}{6} + \\frac{1}{5} + \\frac{1}{7} = \\frac{{107}}{{210}}\\) (công việc)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép cộng hỗn số\n\\(a\\frac{b}{c} + d\\frac{e}{f} = a + \\frac{b}{c} + d + \\frac{e}{f}\\)\nLời giải chi tiết\nGia đình Việt đi từ Hà Nội đến Đà Nẵng hết thời gian là:\n\\(9\\frac{1}{4} + 5\\frac{1}{8} = 9 + \\frac{1}{4} + 5 + \\frac{1}{8} = 14\\frac{3}{8}\\)(giờ)\nChú ý: Ta có thể đổi hỗn số sang phân số rồi thực hiện phép cộng các phân số"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép cộng 3 hỗn số\nTổng độ dài 3 cạnh của tam giác là chu vi của tam giác đó\nLời giải chi tiết\nChu vi của tam giác đó là:\n\\(2\\frac{1}{2} + 3\\frac{3}{5} + 4\\frac{1}{6} = 10\\frac{4}{15}\\)(cm)\nChú ý: Ta có thể đổi hỗn số sang phân số rồi thực hiện phép cộng các phân số\n"
+    },
+    {
+        "problem": "Tính giá trị của các biểu thức sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính giao hoán của phép nhân. Triệt tiêu các thừa số giống nhau ở tử và mẫu số\nLời giải chi tiết\n\\(\\begin{array}{l}a)A = \\frac{{ - 9}}{{10}}.\\frac{7}{{11}}.\\frac{{10}}{9}.( - 22)\\\\ = (\\frac{{ - 9}}{{10}}.\\frac{{10}}{9}).[\\frac{7}{{11}}.( - 22)]\\\\ = ( - 1).( - 14)\\\\ = 14\\\\b)B = \\frac{{ - 5}}{7}.\\frac{6}{{13}}.\\frac{{ - 7}}{5}.( - 39)\\\\ = (\\frac{{ - 5}}{7}.\\frac{{ - 7}}{5}).[\\frac{6}{{13}}.( - 39)]\\\\ = 1.( - 18)\\\\ =  - 18\\end{array}\\)\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính lượng nước ngọt rồi tính lượng nước ngầm và bề mặt\nLời giải chi tiết\nĐổi 1 380 triệu km3 = 1 380 000 000 km3\nCách 1:\nLượng nước ngọt trên Trái Đất là:\n1 380 000 000. \\(\\frac{3}{{100}}\\) = 41 400 000 (km3)\nLượng nước nước ngầm và bề mặt Trái Đất là:\n41 400 000. \\(\\frac{1}{3}\\) = 13 800 000 (km3)\nCách 2:\nLượng nước ngầm và bề mặt Trái Đất là:\n1 380 000 000. \\(\\frac{3}{{100}}\\). \\(\\frac{1}{3}\\) = 13 800 000 (km3)"
+    },
+    {
+        "problem": "Hiện nay, khoảng \\(\\frac{2}{5}\\) diện tích đất của Việt Nam được che phủ bởi rừng. Có khoảng \\(\\frac{7}{{10}}\\) diện tích rừng tự nhiên, còn lại là rừng trồng. Hỏi:\na)    Diện tích rừng tự nhiên bằng mấy phần diện tích đất của Việt Nam?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép nhân, chia phân số\nLời giải chi tiết\na)     Diện tích rừng tự nhiên bằng số phần diện tích đất của Việt Nam là:\n\\(\\frac{2}{5}.\\frac{7}{{10}} = \\frac{7}{{25}}\\)\nb)   Coi diện tích rừng của Việt Nam là 1.\nDiện tích rừng trồng bằng số phần diện tích rừng là:\n\\(1 - \\frac{7}{{10}} = \\frac{3}{{10}}\\)\nDiện tích rừng tự nhiên bằng số phần diện tích rừng trồng là:\n\\(\\frac{7}{{10}}:\\frac{3}{{10}} = \\frac{7}{3}\\)"
+    },
+    {
+        "problem": "Tính giá trị các biểu thức sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chú ý thứ tự thực hiện phép tính\na)     Tính giá trị biểu thức trong ngoặc trước\nb)    Thực hiện phép nhân, chia trước; cộng, trừ sau\nLời giải chi tiết\n\\(\\begin{array}{l}a)A = (\\frac{2}{3} + \\frac{1}{5} - \\frac{4}{9}):(\\frac{1}{3} + \\frac{2}{5} - \\frac{6}{9})\\\\ = (\\frac{{30}}{{45}} + \\frac{9}{{45}} - \\frac{{20}}{{45}}):(\\frac{{15}}{{45}} + \\frac{{18}}{{45}} - \\frac{{30}}{{45}})\\\\ = \\frac{{19}}{{45}}:\\frac{3}{{45}}\\\\ = \\frac{{19}}{{45}}.\\frac{{45}}{3}\\\\ = \\frac{{19}}{3}\\\\b)B = \\frac{1}{2}.\\frac{3}{5} + \\frac{4}{7}:\\frac{4}{5} - \\frac{1}{{70}}\\\\ = \\frac{3}{{10}} + \\frac{4}{7}.\\frac{5}{4} - \\frac{1}{{70}}\\\\ = \\frac{3}{{10}} + \\frac{5}{7} - \\frac{1}{{70}}\\\\ = \\frac{{21}}{{70}} + \\frac{{50}}{{70}} - \\frac{1}{{70}}\\\\ = \\frac{{70}}{{70}}\\\\ = 1\\end{array}\\)"
+    },
+    {
+        "problem": "Tính một cách hợp lí:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối giữa phép nhân với phép cộng và trừ:\na.b - a.c = a.(b-c)\nLời giải chi tiết\n\\(\\begin{array}{l}a)A = \\frac{{10}}{{11}} + \\frac{1}{{11}}.\\frac{3}{{11}} + \\frac{1}{{11}}.\\frac{8}{{11}}\\\\ = \\frac{{10}}{{11}} + \\frac{1}{{11}}.(\\frac{3}{{11}} + \\frac{8}{{11}})\\\\ = \\frac{{10}}{{11}} + \\frac{1}{{11}}.\\frac{{11}}{{11}}\\\\ = \\frac{{10}}{{11}} + \\frac{1}{{11}}.1\\\\= \\frac{{10}}{{11}} + \\frac{1}{{11}}\\\\ = \\frac{{11}}{{11}}\\\\ = 1\\\\b)B = \\frac{5}{7}.\\frac{{40}}{{11}} - \\frac{5}{11}.\\frac{{117}}{7}\\\\ = \\frac{5}{7}.\\frac{{40}}{{11}} - \\frac{5}{7}.\\frac{{117}}{11}\\\\ = \\frac{5}{7}.(\\frac{{40}}{{11}} - \\frac{{117}}{{11}})\\\\ = \\frac{5}{7}.\\frac{{ - 77}}{{11}}\\\\ = \\frac{{5}}{{7}}. (-7)\\\\= ( - 5)\\end{array}\\)"
+    },
+    {
+        "problem": "Vào buổi sáng Chủ nhật, hai bạn Tuấn và Hà cùng đi bộ quanh Hồ Gươm. Lúc 6 giờ 30 phút, bạn Tuấn bắt đầu đi từ đền Ngọc Sơn với vận tốc 4 km/h. Lúc 6 giờ 35 phút, bạn Hà cũng bắt đầu đi từ đền Ngọc Sơn với vận tốc \\(\\frac{9}{2}\\)km/h, nhưng theo chiều ngược lại. Hai bạn gặp nhau ở Bưu điện Hà Nội lúc 6 giờ 45 phút.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính thời gian 2 bạn đi cho đến lúc gặp nhau\nQuãng đường đi = thời gian đi. Vận tốc\nChú ý: đơn vị\nLời giải chi tiết\nCho đến khi gặp nhau, bạn Tuấn đã đi: 6 giờ 45 phút - 6 giờ 30 phút = 15 phút = \\(\\frac{1}{4}\\) giờ; bạn Hà đã đi: 6 giờ 45 phút - 6 giờ 35 phút = 10 phút = \\(\\frac{1}{6}\\) giờ\nQuãng đường bạn Tuấn đã đi được là:\n\\(\\frac{1}{4}\\). 4 = 1 (km)\nQuãng đường bạn Hà đã đi được là:\n\\(\\)\\(\\frac{1}{6}.\\frac{9}{2} = \\frac{3}{4}\\) (km)\nVậy độ dài quãng đường đi bộ một vòng quanhh Hồ Gươm là:\n\\(1 + \\frac{3}{4} = \\frac{7}{4}\\) (km)"
+    },
+    {
+        "problem": "Theo một ngiên cứu của các nhà khoa học Mĩ ( American College of Sport Medicine), đối với người hoạt động bình thường, lượng nước (theo đơn vị mililit) cần cung cấp cho cơ thể trong một ngày được tính theo công thức:\nCÂN NẶNG (theo đơn vị kg) x 30",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính lượng nước cần cung cấp nếu hoạt động bình thường\nTính lượng nước cần uống thêm khi tập thể dục\nTính tổng lượng nước cần dùng\nChú ý đơn vị\nLời giải chi tiết\nVới một người nặng 60 kg, tập thể dục trong 60 phút mỗi ngày thì cần uống:\n60. 30 + 355.(60:30) = 2510 (ml) \\( = 2,51\\) (l)\nVậy người đó cần uống khoảng 2, 51 lít nước mỗi ngày"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay giá trị của a,b vào biểu thức rồi thực hiện phép tính\nLời giải chi tiết\nVới \\(a = \\frac{3}{5};b = \\frac{2}{3}\\) thì\n\\(\\begin{array}{l}A = 10.(\\frac{3}{5} + \\frac{2}{3}) - \\frac{3}{5}.\\frac{2}{3}\\\\ = 10.(\\frac{9}{{15}} + \\frac{{10}}{{15}}) - \\frac{2}{5}\\\\ = 10.\\frac{{19}}{{15}} - \\frac{2}{5}\\\\ = \\frac{{38}}{3} - \\frac{2}{5}\\\\ = \\frac{{190}}{{15}} - \\frac{6}{{15}}\\\\ = \\frac{{184}}{{15}}\\end{array}\\)"
+    }
+]

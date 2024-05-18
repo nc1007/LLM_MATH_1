@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 3. Một mảnh giấy hình chữ nhật có diện tích 96 cm. Một cạnh có độ dài 12 cm. Tính chu vi của mảnh giấy đó?\nA. 8 cm\nB. 20 cm\nC. 40 cm\nD. 80 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều dài cạnh còn lại của mảnh giấy hình chữ nhật là: 96 : 12 = 8 (cm)\nChu vi của mảnh giấy là: 2.(8 + 12) = 40 (cm)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Một hình chữ nhật có chu vi 36 cm và chiều dài gấp đôi chiều rộng thì diện tích của nó bằng bao nhiêu?\nA. 18 cm^{2} \nB. 36 cm^{2} \nC. 72 cm^{2} \nD. 288 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNửa chu vi hình chữ nhật là:\n36:2 = 18(cm)\nChiều dài hình chữ nhật là:\n18:(2 + 1).2 = 12(cm)\nChiều rộng hình chữ nhật là:\n18 – 12 = 6(cm)\nDiện tích hình chữ nhật là:\n12.6 = 72(cm^{2} )\nĐáp án cần chọn là: C"
+    }
+]

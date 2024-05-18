@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 3: Tính nhẩm: \n6,4 × 1000\nA.\t64\nB.\t640\nC.\t6400\nD.\t64000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 6,4 × 1000 = 6,400 × 1000 = 6400\nVậy 6,4 × 1000 = 6400"
+    },
+    {
+        "problem": "Câu 5: Tính\n372,6 × 100 : 9\nA.\t41,4\nB.\t414\nC.\t4140\nD.\t41400",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 372,6 × 100 : 9 = 37260 : 9 = 4140 \nVậy đáp án đúng là 4140"
+    },
+    {
+        "problem": "Câu 7: Số 12,058 nhân với số nào để được 1205,8?\nA.\t10\nB.\t100\nC.\t1000\nD.\t10000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy 1205,8 là số thập phân có dấu phẩy dịch chuyển sang phải hai chữ số so với số thập phân 12,058 nên để được số 1205,8 thì số 12,058 phải nhân với 100."
+    },
+    {
+        "problem": "Câu 9: Chọn dấu thích hợp để điền vào chố chấm:\n3,14 × 10 … 6,15 × 4 + 4,05\nA. =\t \nB. > \nC. <",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+)3,14 x 10 = 31,4\n +)6,15 x 4 + 4,05\n = 24,6 + 4,05\n = 28,65\nMà 31,4 > 28,65 \nVậy 3,14 × 10 > 6,15 × 4 + 4,05"
+    },
+    {
+        "problem": "Câu 13: Một cửa hàng hoa quả có 28 quả dưa hấu, mỗi quả nặng 3,25kg. Biết cửa hàng đã bán hết 18 quả dưa hấu. Hỏi cửa hàng đó còn lại bao nhiêu ki-lô-gam dưa hấu?\nA.\t32,5kg\nB.\t58,5kg\nC.\t91kg\nD.\t325kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sau khi bán, cửa hàng còn lại số quả dưa hấu là:\n28 – 18 = 10 (quả)\nCửa hàng còn lại số ki-lô-gam dưa hấu là:   \n3,25 × 10 = 32,5 (kg) \nĐáp số: 32,5kg"
+    }
+]

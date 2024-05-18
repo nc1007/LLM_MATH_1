@@ -1,0 +1,110 @@
+[
+    {
+        "problem": "Câu 1. Tập hợp A = {0; 1; 2; 3; 4; 5; 6; 7; 8; 9; 10}. Phát biểu nào sau đây là đúng?\nA. 11 ∈ A;\nB. 1 ∉  A;\nC. 10 ∈ A;\nD. 7 ∉  A;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n11 không thuộc tập hợp A, ta viết nên A sai.\n1 thuộc tập hợp A, ta viết nên B sai.\n10 thuộc tập hợp A, ta viết nên C đúng.\n7 thuộc tập hợp A, ta viết nên D sai.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Viết tập hợp các chữ cái trong từ QUY NHƠN.\nA. M = {Q; U; Y; N; H; Ơ; N};\nB. M= {Q; U; Y; N; H; O; N};\nC. M = {Q; U; Y; N; H; O};\nD. M = {Q; U; Y; N; H; Ơ};",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác chữ cái trong từ QUY NHƠN là: Q, U, Y, N, H, Ơ, N.\nKhi viết trong tập hợp các phần tử chỉ được viết 1 lần nên tập hợp các chữ cái là:\nM = {Q; U; Y; N; H; Ơ}.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Cho tập hợp K = {0; 5; 3; 4; 7}. Tập hợp K có bao nhiêu phần tử:\nA. 5\nB. 4\nC. 3\nD. 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nK có tất cả là 5 phần tử.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Các cách để mô tả tập hợp là: \nA. Liệt kê các phần tử của tập hợp.\nB. Nếu dấu hiệu đặc trưng cho các phần tử của tập hợp.\nC. Minh họa bằng sơ đồ Venn\nD. Cả A và B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCó hai cách để mô tả một tập hợp là liệt kê các phần tử của tập hợp và nêu dấu hiệu đặc trưng cho các phần tử của tập hợp.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Bác Nam có một khu vườn trồng hoa quả. Trên khu vườn bác trồng cam, quýt, bơ, chuối và dứa. Gọi E là tập hợp các cây mà bác Nam trồng trên khu vườn đó. Hãy viết E bằng cách liệt kê.\nA. E = {cam; quýt; bơ};\nB. E = {cam; quýt; bơ; dứa};\nC. E = {cam; quýt; bơ; chuối; dứa};\nD. E = {cam; quýt; bơ; chuối; dừa}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác loại cây mà bác Nam trồng trên khu vườn là: cam; quýt; bơ; chuối và dứa.\nE = {cam; quýt; bơ; chuối; dứa}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Tập hợp Ν^{*}  là:\nA. tập hợp số tự nhiên.\nB. tập hợp các số tự nhiên chẵn.\nC. tập hợp các số tự nhiên lẻ.\nD. tập hợp có số tự nhiên khác 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTập hợp Ν^{*}  là tập hợp số tự nhiên khác 0.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 8. Chọn phát biểu sai.\nA. Tập hợp N = {0;1;2;3;4;5;...}\nB. 7 ∈ Ν^{*} \nC. Tập hợp Ν^{* } = {1;2;3;4;5;...}.\nD. 0 ∈ Ν^{*}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTập hợp số tự nhiên: N = {0;1;2;3;4;5;...}. Suy ra A đúng.\nTập hợp số tự nhiên khác 0 là: Ν^{*}  = {1;2;3;4;5;...}. Suy ra C đúng.\n7 là phần tử thuộc tập hợp Ν^{*}  nên 7 ∈ Ν^{*} . Suy ra B đúng.\n0 không là phần tử thuộc tập tập Ν^{*}  hợp nên 0 ∉ Ν^{*} . Suy ra D sai.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Gọi X là tập hợp các chữ cái trong từ “thanh”. Cách viết đúng là:\n(A) X = {t; h; a; n; h}.\n(B) X = {t; h; n};\n(C) X= {t; h; a; n}.\n(D) X = {t; h; a; n; m}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác chữ cái xuất hiện trong từ “thanh” là: t, h, a, n, h.\nVì các phần tử trong tập hợp chỉ xuất hiện một lần .\nSuy ra X = {t, h, a, n}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 10. (Trang 46/SGK Chân trời sáng tạo Toán 6) \nGọi X là tập hợp các số tự nhiên không lớn hơn 5. Cách viết sai là:\n(A) X = {0; 1; 2; 3; 4; 5}.\n(B) X = {0; 2; 4; 1; 3; 5}.\n(C) X= {x ∈N | x %lt; 5}.\n(D) X = {x ∈N | x ≤ 5}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTheo cách liệt kê: X = {0; 1; 2; 3; 4; 5}. Do đó A và B là đúng.\nTheo cách chỉ ra đặc trưng:  X = {x ∈ Ν | x ≤ 5}. Do đó D đúng, C sai.\nĐáp án: C"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu1. Cho tập hợp U = { x ∈ Ν* |x là số lẻ}. Trong các số 3; 5; 6; 0; 7; 9 có bao nhiêu số không thuộc tập hợp U?\nA. 0;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có các phần tử của tập hợp U là các số tự nhiên và là các số lẻ nên \nU = {1; 3; 5; 7; 9; 11; 13; 15; 17; …}\nTrong các số đã cho ta thấy 0 và 6 là hai số không thuộc vào tập U. \nVậy trong các số đã cho có 2 số không thuộc vào tập hợp U.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Tập hợp Q là tập hợp các số tự nhiên lớn hơn 10 và nhỏ hơn 50. Viết tập hợp Q bằng cách chỉ ra tính chất đặc trưng.\nA. Q = { x ∈ N | 10 < x < 50} ;\nB. Q = {11; 12; 13; 14; 15; …48; 49};\nC. Q = {x ∈ Ν | x < 50};\nD. Q = { x ∈ Ν | x > 10};",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi x là phần tử đặc trưng cho tập hợp Q.\nTheo đầu bài ta có: x là số tự nhiên nên và 10 < x < 50.\nBằng cách chỉ ra tính chất đặc trưng, tập hợp A được viết: Q = {x ∈ Ν | 10 < x < 50}.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Cho tập hợp P = {10; 11; 12; 13; 14; 15; 16; 17; 18; 19}. Viết tập hợp P bằng cách chỉ ra tính chất đặc trưng.\nA. P = {x ∈ N*| 10 < x < 19}.\nB. P = {x ∈ N*| 11 < x < 20}.\nC. P = {x ∈ N*| 9 < x < 20}.\nD. P = {x ∈ N*| 9 < x < 19}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác phần tử của P là các số tự nhiên khác 0, vừa lớn hơn 9 vừa nhỏ hơn 20.\nTheo cách chỉ ra tính chất đặc trưng, ta viết: P = {x ∈ N*| 9 < x < 20}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Tập hợp M các chữ cái tiếng Việt trong từ “ĐIỆN BIÊN PHỦ”. Ba bạn An, Bình, Nam, Nhi lần lượt viết được các tập M sau đây. Cho biết bạn nào viết đúng tập hợp M.\nA. Bạn An viết: M = {Đ; I; Ê; N; B; I; Ê; N; P; H; U}.\nB. Bạn Bình viết: M = {Đ; I; Ê; N; B; N; P; H; U}.\nC. Bạn Nam viết: M = {Đ; I; Ê; N; B; P; U}.\nD. Bạn Nhi viết: M = {Đ; I; Ê; N; B; P; H; U}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác chữ cái tiếng Việt trong từ “ĐIỆN BIÊN PHỦ” là Đ; I; Ê: N; B; I; Ê; N; P; H; U.\nVì trong tập hợp mỗi phần tử chỉ được liệt kê đúng một lần nên ta viết:\nM = {Đ; I; Ê; N; B; P; H; U}.\nVậy bạn Nhi viết đúng.\nĐáp án: D"
+    },
+    {
+        "problem": "III. Vận dụng \nCâu 1. Bằng cách liệt kê các phần tử, hãy viết tập hợp sau: Tập hợp K các tháng (dương lịch) có 31 ngày trong năm.\nA. K = {tháng 1; tháng 3; tháng 5; tháng 7; tháng 9; tháng 11};\nB. K = {tháng 1; tháng 3; tháng 5; tháng 7; tháng 8; tháng 10; tháng 12};\nC. K = {tháng 2; tháng 4; tháng 6; tháng 8; tháng 10; tháng 12};\nD. K = {tháng 1; tháng 3; tháng 4; tháng 7; tháng 8; tháng 11; tháng 12};",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác tháng (dương lịch) có 31 ngày trong năm là: tháng 1; tháng 3; tháng 5; tháng 7; tháng 8; tháng 10; tháng 12.\nVậy K = {tháng 1; tháng 3; tháng 5; tháng 7; tháng 8; tháng 10; tháng 12}.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Cho tập hợp U = {x ∈ N | x là số chia hết cho 3 và x nhỏ hơn 10}\nTrong các phát biểu sau có bao nhiêu phát biểu đúng:\n(I) U = {0; 3; 6; 9}.\n(II) 12 ∈  U.\n(III) 5 ∉ U.\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác số tự nhiên nhỏ hơn 10 và chia hết cho 3 là: 0; 3; 6; 9.\nKhi đó, ta viết: U = {0; 3; 6; 9}. Do đó (I) là phát biểu đúng.\nSuy ra 12 không thuộc tập hợp U hay 12 ∉ U. Do đó (II) là phát biểu sai.\n5 không thuộc tập hợp U hay 5 ∉ U. Do đó (III) là phát biểu đúng.\nVậy có 2 phát biểu đúng.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Tập hợp M là tập hợp các loại phương tiện cơ giới đường bộ.\nA. M = {xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự}.\nB. M = {xe ô tô; xe máy; xe đạp; xe tải; xe container}\nC. M = {xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự; xe đạp; xe xích lô; xe xúc vật kéo}..\nD. M = {môtô; xe đạp; xe gắn máy; xe ô tô; xe taxi; xe buýt}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác loại phương tiện cơ giới đường bộ bao gồm:\nXe ô tô\nMáy kéo\nRơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo\nXe mô tô hai bánh\nXe mô tô ba bánh\nXe gắn máy (kể cả xe máy điện) và các loại xe tương tự.\nKhi đó, ta viết: M = {xe ô tô; máy kéo; rơ moóc hoặc sơ mi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự}.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Gọi Q là tập hợp các nước tham gia khối ASEAN. Chọn đáp án đúng.\nA. Việt Nam không thuộc tập hợp Q.\nB. Singapore thuộc tập hợp Q.\nC. Brunei không thuộc tập hợp Q.\nD. Nga thuộc tập hợp Q.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nKhối ASEAN gồm Brunei; Singapore; Indonesia; Lào; Malaysia; Myanmar; Philippines; Thái Lan, Việt Nam; Campuchia.\nQ = {Brunei; Singapore; Indonesia; Lào; Malaysia; Myanmar; Philippines; Thái Lan, Việt Nam; Campuchia}.\nDo đó B là phát biểu đúng.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 5. Cho các tập hợp sau:\nX = {0};\nY = {1; 2; 3; …; 49; 50}.\nN = {0;1;2;3;...}.\nTrong các tập hợp trên tập hợp nào hữu hạn phần tử?\nA. X và N;\nB. Y và N;\nC. N;\nD. X và Y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTập hợp X có 1 phần tử.\nTập hợp Y có 50 phần tử;\nTập hợp có vô số phần tử.\nX và Y là những tập hợp có một số hữu hạn các phần tử. Nên D đúng.\nĐáp án: D"
+    }
+]

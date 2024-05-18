@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "Câu 1. Kết luận nào sau đây là đúng.\nA. Số 0 vừa là số nguyên dương, vừa là số nguyên âm.\nB. Số 1 là số nguyên dương.\nC. Số - 3 đọc là trừ ba.\nB. Số - 25 là số nguyên dương.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố 0 không phải số nguyên dương cũng không phải số nguyên âm nên A sai. \nSố 1 là số nguyên dương nên B đúng.\nSố - 3 đọc là âm ba nên C sai.\nSố -25 là số nguyên âm nên D sai.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Ông M đang nợ ngân hàng 200 triệu đồng. Số nguyên nào sau đây biểu diễn số tiền ông M đang có?\nA. – 200;\nB. 200; \nC. 200 000 000;\nD. – 200 000 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ông M đang nợ ngân hàng 200 000 000 đồng nên số nguyên biểu diễn số tiền ông đang có là – 200 000 000 (đồng).\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Cho bảng nhiệt độ của các thành phố lớn của nước ta:\nThành phố\nHà Nội\nHuế \nPhan Thiết\nHồ Chí Minh\nNhiệt độ\n34^{0} C\n33^{0} C\n31^{0} C\n32^{0} C\nHỏi nhiệt độ của tỉnh thành nào thấp nhất?\nA. Hà Nội;                      \nB. Huế;                           \nC. Phan Thiết;                 \nD. Hồ Chí Minh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố nguyên biểu diễn cho nhiệt độ của Hà Nội là: 34 (độ C).\nSố nguyên biểu diễn cho nhiệt độ của Huế là: 33 (độ C).\nSố nguyên biểu diễn cho nhiệt độ của Phan Thiết là: 31 (độ C).\nSố nguyên biểu diễn cho nhiệt độ của Hồ Chí Minh là: 32 (độ C).\nDựa vào trục số, ta có: 31 < 32 < 33 < 34.\nVậy Phan Thiết là thành phố có nhiệt độ thấp nhất.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 6. Cách đọc số - 12 304 nào sau đây là đúng.\nA. âm mười hai nghìn ba trăm linh tư.\nB. Trừ mười hai nghìn ba trăm linh tư.\nC. Mười hai nghìn ba trăm linh tư.\nD. Âm mười hai ba trăm không bốn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Cách đọc số - 12 304 là: âm mười hai nghìn ba trăm linh tư.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 7. Tập hợp số nguyên được kí hiệu là: \nA. N;\nB. N^{*} ;\nC. Z;\nD. Q.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tập hợp số nguyên được kí hiệu là: Z.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Phát biểu nào sau đây là sai: \nA. – 54 < - 34;\nB. – 3 179 < - 3 279;\nC. 87 < 97.\nD. 1 197 > 1 179.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì 54 > 34 nên – 54 < - 34. Do đó A đúng.\nVì 3 179 < 3 279 nên – 3 179 > - 3 279. Do đó B sai.\nTrên trục số 87 nằm bên trái 97 nên 87 < 97. Do đó C đúng.\nTrên trục số 1 179 nằm bên trái 1 197 nên 1 179 < 1 197. Do đó D đúng.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 10. Số nguyên âm có hai chữ số nhỏ nhất là:\nA. - 99;\nB. - 10;\nC. – 11;\nD. – 98.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số nguyên dương có hai chữ số lớn nhất là 99 thì số nguyên âm có hai chữ số nhỏ nhất là -99.\nĐáp án: A"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Hãy sắp xếp số sau theo thứ tự tăng dần: -3; +4; 7; -7; 0; -1.\nA. – 7; - 3 ; - 1; 0 ; + 4 ; 7.\nB. 7; +4; 0; -1; -3; -7.\nC.7; -7; +4; -3; -1; 0.\nD. 0; -1; -3; +4; - 7; 7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa chia làm 3 nhóm:\n+) Nhóm 1 gồm các số nguyên âm: -3; -7; -1.\n+) Nhóm 2 gồm các số nguyên: 0; +4; 7.\nXét nhóm 1: \nTa có số đối của -3 là 3;\nSố đối của – 7 là 7;\nSố đối của -1 là 1;\nVì 1 < 3 < 7 nên - 7 < - 3 < - 1.\nXét nhóm 2: ta có 0 < 4 < 7.\nMà các số nguyên âm luôn nhỏ hơn 0 nên ta có: - 7 < - 3 < - 1 < 0 < 4 < 7.\nCác số được sắp theo thứ tự tăng dần là: – 7; - 3 ; - 1; 0 ; + 4 ; 7.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Liệt kê các phần tử của mỗi tập hợp: P = {x ∈ ℕ | -2 ≤ x < 4}.\nA. P = { -2; -1; 0; 1; 2; 3; 4}.\nB. P = {-1; 0; 1; 2; 3; 4}.\nC. P = {-1; 0; 1; 2; 3}.\nD. P = {-2; -1; 0; 1; 2; 3}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số tự nhiên thỏa mãn lớn hơn hoặc bằng – 2 nhỏ hơn 4 là: -2; -1; 0; 1; 2; 3.\nVậy P = {-2; -1; 0; 1; 2; 3}.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Cho tập hợp K = {0; 1; 2; 4; 5; 7; 9}. Tập hợp H là tập hợp gồm các số đối của phần tử của tập hợp K.\nA. K = {0; -1; -2; -4; -5; -7; -9}.\nB. K = {- 0; -1; -2; -4; -5; -7; -9}.\nC. K = {-1; -2; -4; -5; -7; -9}.\nD. K = { -1; -2; -4; -5; -7; -9; 0; 1; 2; 4; 5; 7; 9}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố đối của 0 là 0;\nSố đối của 1 là -1;\nSố đối của 2 là – 2;\nSố đối của 4 là -4;\nSố đối của 5 là -5;\nSố đối của 7 là -7;\nSố đối của 9 là -9.\nVậy tập hợp K = {0; -1; -2; -4; -5; -7; -9}.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Cho tập hợp J = {x ∈ ℤ | -13 < x < -12}. Phát biểu nào dưới đây là đúng.\nA. Tập hợp J có 1 phần tử.\nB. Tập hợp J có 2 phần tử.\nC. Tập hợp J có 3 phần tử.\nD. Tập hợp J có 0 phần tử.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nKhông tồn tại số nguyên nào lớn hơn -13 và nhỏ hơn -12.\nVậy J có 0 phần tử.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Tìm các số nguyên x thỏa mãn – 12 < x < 13. Có bao nhiêu số nguyên như vậy?\nA. 23;\nB. 24;\nC. 25;\nD. 26.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số nguyên thỏa mãn – 12 < x < 13 là: -11; -10; -9; -8; -7; -6; -5; -4; -3; -2; -1; 0; 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; 12.\nTất cả có 24 số thỏa mãn.\nĐáp án: B"
+    }
+]

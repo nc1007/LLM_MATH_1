@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Trong không khí, ánh sáng chuyến động với vận tốc khoảng 300 000 km/s, còn âm thanh lan truyền với vận tốc khoảng 343,2 m/s. (Nguồn: https://vi.wikipedia.org)\nTính tỉ số của vận tốc ánh sáng và vận tốc âm thanh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số của số a và số b phải được viết theo đúng thứ tự là \\(\\frac{a}{b}\\) hoặc a : b.\nLời giải chi tiết\nTa có: Vận tốc chuyển động của ánh sáng là: \\(300{\\rm{ }}000{\\rm{ }}km/s = 300{\\rm{ }}000{\\rm{ }}000{\\rm{ }}m/s\\)\nVận tốc chuyển động của âm thanh là: \\(343,2{\\rm{ }}m/s\\)\nVậy tỉ số của vận tốc ánh sáng và vận tốc âm thanh là: \\(\\frac{{300{\\rm{ }}000{\\rm{ }}000}}{{343,2}}\\)\\(\\approx 874125,9\\)"
+    },
+    {
+        "problem": "Tính tỉ số phần trăm của 3 và 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của a và b là \\(\\frac{a}{b}.100\\% \\)\nLời giải chi tiết\nTỉ số phần trăm của 3 và 5 là:\n\\(\\frac{3}{5}.100\\%  = 60\\% \\)\nLời giải hay"
+    },
+    {
+        "problem": "Tính tỉ số phần trăm của a và b với b lần lượt là các số sau: 10; 100; 1 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của a và b là \\(\\frac{a}{b}.100\\% \\)\nLời giải chi tiết\nTỉ số phần trăm của a và b với b = 10 là: \\(\\frac{a}{{10}}.100\\%  = 10a\\% \\)\nTỉ số phần trăm của a và b với b = 100 là: \\(\\frac{a}{{100}}.100\\%  = a\\% \\)\nTỉ số phần trăm của a và b với b = 1000 là: \\(\\frac{a}{{1000}}.100\\%  = \\frac{a}{{10}}\\% \\)\nLời giải hay"
+    },
+    {
+        "problem": "Tính tỉ số phần trăm (làm tròn đến hàng phần mười) của 12 và 35.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi tính tỉ số phần trăm của a và b mà phải làm tròn số thập phân thì ta làm theo cách thứ hai đã nêu ở trên: Nhân a với 100 rồi chia cho b và làm tròn số thập phân nhận được.\nLời giải chi tiết\nTỉ số phần trăm của 12 và 35 là:\n\\(\\frac{{12.100}}{{35}}\\%  \\approx 34,3\\% \\)\nLời giải hay"
+    },
+    {
+        "problem": "Xe ô tô tải đi với vận tốc 45 km/h, xe ô tô con đi với vận tốc 60 km/h.\nVận tốc của xe ô tô tải bằng bao nhiêu phần trăm vận tốc của xe ô tô con?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của đại lượng thứ nhất có số đo (đại lượng) a và đại lượng thứ hai có số đo (đại lượng) b là: \\(\\frac{{a.100}}{b}\\% \\)\nLời giải chi tiết\nTỉ số vận tốc của xe ô tô tải và xe ô tô con là: \\(\\frac{{45.100}}{{60}}\\%  = 75\\% \\).\nLời giải hay"
+    },
+    {
+        "problem": "Theo http://vietnam.unfpa.org ngày 19/12/2017, dân số Việt Nam tính đến 0 giờ ngày 01/4/2019 là 96 208 984 người, trong đó có 47 881 061 nam và 48 327 923 nữ. Hãy tính tỉ số phần trăm của dân số nữ so với dân số cả nước (làm tròn đến hàng phần trăm).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của đại lượng thứ nhất có số đo (đại lượng) a và đại lượng thứ hai có số đo (đại lượng) b là: \\(\\frac{{a.100}}{b}\\% \\)\nLời giải chi tiết\nTỉ số phần trăm của dân số nữ so với dân số cả nước là:\n\\(\\frac{{48{\\rm{ }}327{\\rm{ }}923}}{{96{\\rm{ }}208{\\rm{ }}984}}.100\\%  = 50,2\\% \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính tỉ số của:\na) \\(\\frac{4}{3}m\\) và \\(75\\,cm\\)\nb) \\(\\frac{7}{{10}}\\) giờ và \\(25\\) phút\nc) \\(10\\,\\,kg\\) và \\(10\\) tạ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số của số a và số b là \\(\\frac{a}{b}\\)  hoặc a : b.\nChú ý: Đưa các đại lượng về cùng đơn vị đo.\nLời giải chi tiết\na) Đổi \\(75\\,cm = \\frac{{75}}{{100}} = \\frac{3}{4}\\) m\n=> Tỉ số: \\(\\frac{4}{3}:\\frac{3}{4} = \\frac{4}{3}.\\frac{4}{3} =\\frac{{16}}{9}\\).\nb) Đổi 25 phút = \\(\\frac{{25}}{{60}} = \\frac{5}{{12}}\\) giờ\n=> Tỉ số: \\(\\frac{7}{{10}}:\\frac{5}{{12}} = \\frac{7}{{10}}.\\frac{12}{{5}} = \\frac{{42}}{{25}}\\)\nc) Đổi 10 tạ = 1000 kg\n=> Tỉ số: \\(10:1000 = \\frac{1}{{100}}\\)"
+    },
+    {
+        "problem": "Tính tỉ số phần trăm (làm tròn đến hàng phần mười) của:\na) 16 và 75;\nb) 6,55 và 8,1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của a và b là \\(\\frac{a}{b}.100\\% \\).\nLời giải chi tiết\na) Tỉ số phần trăm của 16 và 75 là:\n\\(\\frac{{16}}{{75}}.100\\%  = 21,3\\% \\)\nb) Tỉ số phần trăm của 6,55 và 8,1 là:\n\\(\\frac{{6,55}}{{8,1}}.100\\%  = 80,9\\% \\)"
+    },
+    {
+        "problem": "Giải đua xe đạp vòng quanh nước Pháp - Tour de France, là giải đua xe đạp khó khăn nhất thế giới với nhiều chặng đua vượt núi cao. Giải đua lần thứ 106 diễn ra trong các ngày 06 - 28/7/2019. Các tay đua đã phải vượt qua 21 chặng đua có tổng chiều dài là 3 365,8 km, trong đó có 7 chặng leo núi. Tổng chiều dài của 7 chặng leo núi xấp xỉ bằng \\(\\frac{304}{1 001}\\) tổng chiều dài của toàn bộ cuộc đua. Tổng chiều dài của 7 chặng leo núi đó khoảng bao nhiêu ki- lô- mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng chiều dài của 7 chặng leo núi xấp xỉ bằng \\(\\frac{304}{1 001}\\) tổng chiều dài của toàn bộ cuộc đua\nLời giải chi tiết\nTổng chiều dài của 7 chặng leo núi đó khoảng:\n\\(3 365,8. \\frac{304}{1001}= 1002,2\\) (km)\nLời giải hay"
+    },
+    {
+        "problem": "Tính:\na) \\(\\frac{3}{8}\\) của \\( - 20\\);\nb) \\(17\\% \\) của 1200.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-  Muốn tìm giá trị \\(\\frac{m}{n}\\) của số a cho trước, ta tính \\(a.\\frac{m}{n}\\,\\left( {m \\in \\mathbb{N},\\,n \\in {\\mathbb{N}^*}} \\right)\\).\n- Muốn tìm giá trị trị \\(m\\% \\) của số a cho trước, ta tính \\(a.\\frac{m}{{100}}\\left( {m \\in \\mathbb{N}*} \\right)\\).\nLời giải chi tiết\na) \\(\\frac{3}{8}\\) của \\( - 20\\) là: \\(\\frac{3}{8}.( - 20) =  - 7,5\\)\nb) \\(17\\% \\) của 1200 là: \\(1200.\\frac{{17}}{{100}} = 204\\).\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "Tìm một số, biết:\na) \\(\\frac{7}{9}\\) của nó bằng -21;\nb) \\(27\\% \\) của nó bằng 18.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn tìm một số biết \\(\\frac{m}{n}\\) của nó bằng \\(a\\), ta tính \\(a:\\frac{m}{n}\\left( {m,n \\in {\\mathbb{N}^*}} \\right)\\).\n- Muốn tìm một số biết \\(m\\% \\) của nó bằng a, ta tính \\(a:\\frac{m}{{100}}\\left( {m \\in \\mathbb{N}} \\right)\\).\nLời giải chi tiết\na) Số đó là: \\( - 21:\\frac{7}{9} =  - 21.\\frac{9}{7} =  - 27\\)\nb) Số đó là: \\(18:\\frac{{27}}{{100}} = 18.\\frac{{100}}{{27}} = \\frac{{200}}{3}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính\na) \\(\\frac{3}{{14}}\\) của - 49;\nb) \\(\\frac{3}{4}\\) của \\(\\frac{{ - 18}}{{25}};\\)\nc) \\(1\\frac{2}{3}\\) của \\(3\\frac{2}{9}\\);\nd) \\(40\\% \\) của \\(\\frac{{20}}{9}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-  Muốn tìm giá trị \\(\\frac{m}{n}\\) của số a cho trước, ta tính \\(a.\\frac{m}{n}\\,\\left( {m \\in \\mathbb{N},\\,n \\in {\\mathbb{N}^*}} \\right)\\).\n- Muốn tìm giá trị trị \\(m\\% \\) của số a cho trước, ta tính \\(a.\\frac{m}{{100}}\\left( {m \\in \\mathbb{N}^*} \\right)\\).\nLời giải chi tiết\na) \\( - 49.\\frac{3}{14} = \\frac{{ - 49.3}}{{14}} = \\frac{{ - 21}}{2}\\)\nb) \\(\\frac{{ - 18}}{{25}}.\\frac{3}{4} = \\frac{{ - 18.3}}{{25.4}} = \\frac{{ - 27}}{{50}}\\)\nc) \\(3\\frac{2}{9}.1\\frac{2}{3} = \\frac{{29}}{9}.\\frac{5}{3} = \\frac{{145}}{{27}}\\)\nd) \\(\\frac{{20}}{9}.\\frac{{40}}{{100}} = \\frac{{20}}{9}.\\frac{2}{5} = \\frac{{40}}{{45}} = \\frac{8}{9}\\)"
+    },
+    {
+        "problem": "Tìm một số, biết:\na) \\(\\frac{2}{{11}}\\) của nó bằng 14;\nb) \\(\\frac{5}{7}\\) của nó bằng \\(\\frac{{25}}{{14}}\\);\nc) \\(\\frac{5}{9}\\) của nó bằng \\(\\frac{{ - 10}}{{27}}\\);\nd) \\(30\\% \\) của nó bằng 90.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn tìm một số biết \\(\\frac{m}{n}\\) của nó bằng \\(a\\), ta tính \\(a:\\frac{m}{n}\\left( {m,n \\in {\\mathbb{N}^*}} \\right)\\).\n- Muốn tìm một số biết \\(m\\% \\) của nó bằng a, ta tính \\(a:\\frac{m}{{100}}\\left( {m \\in \\mathbb{N}} \\right)\\).\nLời giải chi tiết\na) Số đó là: \\(14:\\frac{2}{{11}} = 14.\\frac{{11}}{2} = 77\\)\nb) Số đó là: \\(\\frac{{25}}{{14}}:\\frac{5}{7} = \\frac{{25}}{{14}}.\\frac{7}{5} = \\frac{5}{2}\\)\nc) Số đó là: \\(\\frac{{ - 10}}{{27}}:\\frac{5}{9} = \\frac{{ - 10}}{{27}}.\\frac{9}{5} = \\frac{{ - 90}}{{135}} = \\frac{{ - 2}}{3}\\)\nd) Số đó là: \\(90:\\frac{{30}}{{100}} = 90.\\frac{{100}}{{30}} = 300\\)."
+    },
+    {
+        "problem": "Bạn An tham gia đội hoạt động tình nguyện thu gom và phân loại rác thải trong xóm.\nHết ngày, An thu được 9 kg rác khó phân huỷ và 12 kg rác dễ phân huỷ.\na) An đem \\(\\frac{3}{4}\\) rác dễ phân huỷ đi đổi cây, biết cứ 3 kg rác dễ phân huỷ đổi được một cây sen đá. Vậy An nhận được bao nhiêu cây sen đá?\nb) Số rác khó phân huỷ bạn An thu được bằng \\(\\frac{3}{{20}}\\) số rác khó phân huỷ cả đội thu được. Đội của An thu được tất cả bao nhiêu ki-lô-gam rác khó phân huỷ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị \\(\\frac{m}{n}\\) của số a cho trước, ta tính \\(a.\\frac{m}{n}\\,\\left( {m \\in \\mathbb{N},\\,n \\in {\\mathbb{N}^*}} \\right)\\).\nMuốn tìm một số biết \\(\\frac{m}{n}\\) của nó bằng \\(a\\), ta tính \\(a:\\frac{m}{n}\\left( {m,n \\in {\\mathbb{N}^*}} \\right)\\).\nLời giải chi tiết\na) Số kg rác dễ phân hủy của An để đi đổi sen đá là: \\(12.\\frac{3}{4} = 9\\) (kg)\nTheo bài ra cứ 3 kg rác dễ phân huỷ đối được một cây sen đá.\nVậy An đổi được 9 : 3 = 3 (cây)\nb) Đội của An thu được số ki lô gam rác khó phân hủy là:\n\\(9:\\frac{3}{{20}} = 9.\\frac{{20}}{3} = 60\\,(kg)\\)."
+    },
+    {
+        "problem": "Gấu túi là một loài thú có túi, ăn thực vật, sống ở một số bang của Ô-xtrây-li-a. Nó có chiều dài cơ thể từ 60 cm đến 85 cm và khối lượng từ 4 kg đến 15 kg. Màu lông từ xám bạc đến nâu sô-cô-la. Gấu túi hoạt động vào ban đêm, thức ăn chủ yếu là một vài loại lá cây bạch đàn, khuynh diệp.\nGấu túi dành \\(\\frac{3}{4}\\)  thời gian trong ngày để ngủ. Con người dùng \\(\\frac{1}{3}\\) thời gian trong ngày để ngủ. Trong một ngày gấu túi ngủ nhiều hơn con người là bao nhiêu giờ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị \\(\\frac{m}{n}\\) của số a cho trước, ta tính \\(a.\\frac{m}{n}\\,\\left( {m \\in \\mathbb{N},\\,n \\in {\\mathbb{N}^*}} \\right)\\).\n- Tính số giờ gấu túi ngủ\n- Tính số giờ con người nghĩ\n=> Số giờ gấu túi ngủ nhiều hơn con người số giờ trong một ngày.\nLời giải chi tiết\nSố giờ gấu túi ngủ là: 24 . \\(\\frac{3}{4}\\) = 18 (giờ)\nSố giờ con người ngủ là: 24 . \\(\\frac{1}{3}\\) = 8 (giờ)\nTrong một ngày gấu túi ngủ nhiều hơn con người số giờ là: 18 - 8 = 10 (giờ)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bác Nhung gửi ngân hàng 10 triệu đồng với kì hạn 1 năm, lãi suất 6,8%/năm.\na) Hết kì hạn 1 năm, bác Nhung rút được cả gốc và lãi là bao nhiêu?\nb) Giả sử hết kì hạn 1 năm, bác Nhung không rút gốc và lãi thì sau 2 năm, bác Nhung có cả gốc và lãi là bao nhiêu? Biết rằng lãi suất không thay đổi qua hằng năm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị trị \\(m\\% \\) của số a cho trước, ta tính \\(a.\\frac{m}{{100}}\\left( {m \\in \\mathbb{N}*} \\right)\\).\nLời giải chi tiết\na) Hết kì hạn 1 năm, bác Nhung rút được cả gốc và lãi là:\n10 + 10 . 6,8% = 10,68 (triệu đồng)\nb) Nếu không rút, số tiền bác Nhung nhận lại sau năm thứ 2 là:\n10,68 + (10,68 . 6,8%) = 11,41 (triệu đồng).\nLoigiaihay.com"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Thực vật được cấu tạo bởi các tế bào. Tế bào lớn lên đến một kích thước nhất định thì phân chia ra thành 2 tế bào con. Các tế bào con tiếp tục tăng kích thước và lại phân chia thành 4 tế bào, rồi thành 8 tế bào, ...\nHãy cho biết số tế bào con có được sau lần phân chia thứ tư, thứ năm, thứ sáu từ một tế bào ban đầu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận xét số tế bào con sau các lần phân bào với lũy thừa cơ số 2.\nLời giải chi tiết\nLần 1: Phân chia thành 2 tế bào con\nLần 2: Phân chia thành 4 tế bào con => 4 = 22\nLần 3: Phân chia thành 8 tế bào con => 8 = 23\n=> Ta nhận thấy các tế bào phân chia theo lũy thừa của cơ số 2.\nVậy:\nSố tế bào con có được sau lần phân chia thứ tư là 24 = 16 tế bào\nSố tế bào con có được sau lần phân chia thứ năm là: 25 = 32 tế bào\nSố tế bào con có được sau lần phân chia thứ sáu là: 26 = 64 tế bào.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nhóm các bạn lớp 6B cần chia 48 quyển vở, 32 chiếc thước kẻ và 56 bút chì vào trong các túi quà để mang tặng các bạn trung tâm trẻ mồ côi sao cho số quyển vở, thước kẻ và bút chì ở mỗi túi đều như nhau. Tính số lượng túi quà nhiều nhất mà nhóm các bạn có thể chia được. Khi đó, số lượng vở, thước kẻ, bút chì trong mỗi túi là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số túi quà nhiều nhất có thể chia là ƯCLN của 48; 32 và 56\nLời giải chi tiết\nGọi số túi quà nhiều nhất có thể chia được là x(túi, \\(x \\in {\\mathbb{N}^*}\\)).\nTheo đề bài ta có: \\(48 \\vdots x;\\,\\,32 \\vdots x;\\,\\,56 \\vdots x\\)\n=> \\(x = ƯCLN(48, 32, 56)\\)\nTa có: 48 = 24.3;  32 = 25;  56= 23.7\n=> ƯCLN(48, 32, 56) =23 = 8.\n=> x = 8 ( thỏa mãn)\nVậy số túi quà nhiều nhất có thể chia được là 8 túi.\nKhi đó:\nSố lượng vở trong mỗi túi là: 48:8=6(quyển)\nSố lượng thước kẻ trong mỗi túi là: 32:8=4(chiếc)\nSố lượng bút chì trong mỗi túi là: 64:8=8(chiếc)"
+    },
+    {
+        "problem": "Đố vui:\nTOÁN VÀ THƠ\nTrung thu gió mát trăng trong\nPhố phường đông đúc, đèn lồng sao sa\nRủ nhau đi đếm đèn hoa\nQuẩn quanh, quanh quẩn biết là ai hay\nKết năm, chẵn số đèn này\nBảy đèn kết lại còn hai ngọn thừa\nChín đèn thời bốn ngọn dư\nĐèn hoa bao ngọn mà ngơ ngẩn lòng.\n(Cho biết số đèn từ 600 đến 700 chiếc).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Dựa vào các câu thơ 5, 6, 7 ta suy ra số đèn chia hết cho 5, chia 7 dư 2, chia chín dư 4.\n- Gợi ý cuối cùng ta có số đèn từ 600 đến 700 chiếc.\nLời giải chi tiết\nGọi số đèn hoa là x(chiếc, \\(x \\in {\\mathbb{N}^*}\\))\nVì:\nKết năm, chẵn số đèn này\nBảy đèn kết lại còn hai ngọn thừa\nChín đèn thời bốn ngọn dư\nSuy ra: số đèn chia hết cho 5, chia 7 dư 2, chia 9 dư 4.\n=> \\(x \\vdots 5;\\,\\left( {x - 2} \\right) \\vdots 7;\\,\\,\\left( {x - 4} \\right) \\vdots 9\\)\nTa có: \\(x \\vdots 5\\); \\(\\left( {x - 2} \\right) \\vdots 7;\\,\\,\\left( {x - 4} \\right) \\vdots 9\\)\n\\(\\Rightarrow\\) \\(\\left( {x + 5} \\right) \\vdots 5\\); \\(\\left( {x - 2 + 7} \\right) \\vdots 7;\\,\\,\\left( {x - 4 + 9} \\right) \\vdots 9\\)\n\\(\\Rightarrow \\left( {x + 5} \\right) \\vdots 5;\\,\\,\\left( {x + 5} \\right) \\vdots 7;\\,\\,\\left( {x + 5} \\right) \\vdots 9\\)\n\\(\\Rightarrow \\left( {x + 5} \\right) \\in BC\\left( {5,\\,\\,7,\\,\\,9} \\right)\\)\nMà 5; 7 và 9 là các số đôi một nguyên tố cùng nhau nên BCNN(5, 7, 9) = 5.7.9 = 315.\n\\(\\Rightarrow\\) BC(5, 7, 9) = B(315) = {0; 315; 630; 945;…}\n\\(\\Rightarrow\\) (x + 5)\\( \\in \\) {0; 315; 630; 945;…}\n\\(\\Rightarrow\\) x\\( \\in \\){310; 625; 940;…} (Do \\(x \\in {\\mathbb{N}^*}\\))\nMà 600 < x< 700 nên x = 625.\nVậy có 625 chiếc đèn hoa.\nLoigiaihay.com"
+    }
+]

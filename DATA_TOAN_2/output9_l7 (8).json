@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Hãy viết các góc A, B, C của tam giác ABC theo thứ tự giảm dần trong các trường hợp sau:\na) \\(\\widehat A = {60^0};\\widehat B < \\widehat A\\)\nb)\\(\\widehat A > {90^0};\\widehat B > {45^0}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Tính tổng góc B và C\n- Sử dụng \\(\\widehat A < \\widehat B\\)\nb)\n-Sử dụng \\(\\widehat A + \\widehat B + \\widehat C = {180^0} \\Rightarrow \\widehat B;\\widehat C\\)\nLời giải chi tiết\na)\nÁp dụng định lí tổng ba góc trong tam giác ABC, ta có: \\(\\widehat A + \\widehat B + \\widehat C = {180^0} \\Rightarrow \\widehat B + \\widehat C = 180 - \\widehat A = {180^0} - {60^0} = {120^0}\\)\nVì \\(\\widehat B < \\widehat A = {60^0} \\Rightarrow \\widehat C > {60^0}\\)\nVậy \\(\\widehat C > \\widehat A > \\widehat B\\).\nb)\nÁp dụng định lí tổng ba góc trong tam giác ABC, ta có:\\(\\widehat A + \\widehat B + \\widehat C = {180^0} \\Rightarrow \\widehat C = {180^0} - \\widehat A - \\widehat B < {45^0} < \\widehat B\\)\nMặt khác, \\(\\widehat B = {180^0} - \\widehat A - \\widehat C < {180^0} - \\widehat A < {90^0} < \\widehat A\\)\nNhư vậy \\(\\widehat A > \\widehat B > \\widehat C\\)."
+    },
+    {
+        "problem": "Cho tam giác ABC cân tại đỉnh A. Gọi M là trung điểm của BC. Trên cạnh AB và AC lấy các điểm P, Q sao cho MP, MQ lần lượt vuông góc với AB, AC (H.4.59)\na) Chứng minh rằng MP = MQ và AP = AQ\nb) Đường thẳng PQ có vuông góc với AM không? Vì sao?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chứng minh: \\(\\Delta PBM = \\Delta QCM\\left( {ch - gn} \\right)\\)\nb) Chứng minh: AM là đường trung trực của đoạn thẳng PQ\nLời giải chi tiết\na) Vì tam giác ABC cân tại A nên \\(AB = AC; \\widehat{ABC}=\\widehat{ACB}\\).\nXét \\(\\Delta PBM\\) và \\(\\Delta QCM\\) có:\n\\(\\widehat {BPM} = \\widehat {CQM} = {90^0}\\)\nMB = MC (gt)\n\\(\\begin{array}{l}\\widehat {MBP}= \\widehat {MCQ} (cmt) \\\\ \\Rightarrow \\Delta PBM = \\Delta QCM\\left( {ch - gn} \\right)\\end{array}\\)\n\\( \\Rightarrow MP = MQ\\) (2 cạnh tương ứng)\nTa có:\n\\(\\left\\{ \\begin{array}{l}AP = AB - BP\\\\AQ = AC - CQ\\\\AB=AC;BP=CP\\end{array} \\right. \\Rightarrow AP = AQ\\)\nb)\nTa có: A, M cùng cách đều hai điểm P, Q nên AM là đường trung trực của đoạn thẳng PQ. Do đó AM vuông góc với PQ."
+    },
+    {
+        "problem": "Đường thẳng d trong hình nào dưới đây là đường trung trực của đoạn thẳng AB?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đường trung trực của AB thì vuông góc với AB tại trung điểm của đoạn thẳng.\nLời giải chi tiết\nChỉ có đường thẳng d trong hình 4.53a là đường trung trực của đoạn thẳng AB."
+    },
+    {
+        "problem": "Cho 4 điểm A, B, C, D như hình 4.40 trong đó AB = DC. Chứng minh rằng:\na) AC = BD\nb) \\(AD\\parallel BC\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chứng minh \\(\\Delta ABC = \\Delta DCB\\left( {ch - cgv} \\right)\\)\nb)\n- Chứng minh \\(\\widehat {ABD} = \\widehat {DCA}\\)\n- Chứng minh: \\(\\Delta ABD = \\Delta ACD\\left( {c - g - c} \\right)\\)\n- Chứng minh 2 góc ở vị trí so le trong bằng nhau \\(\\widehat {ADB} = \\widehat {DBC}\\).\nLời giải chi tiết\nXét \\(\\Delta ABC\\) và \\(\\Delta DCB\\) có:\n\\(\\widehat {BAC} = \\widehat {CDB} = {90^0}\\)\nAB = DC (gt)\nBC: Cạnh chung\n\\( \\Rightarrow \\Delta ABC = \\Delta DCB\\left( {ch - cgv} \\right)\\)\n\\(\\Rightarrow AC = DB\\) (2 cạnh tương ứng)\nb)\nTa có: \\(\\Delta ABC = \\Delta DCB\\left( {cmt} \\right) \\Rightarrow \\left\\{ \\begin{array}{l}\\widehat {ACB} = \\widehat {DBC}\\\\\\widehat {ABC} = \\widehat {DCB}\\end{array} \\right.\\) ( cặp góc tương ứng)\nLại có:\\(\\widehat {ABD} = \\widehat {ABC} - \\widehat {DBC}\\\\\\widehat {DCA} = \\widehat {DCB} - \\widehat {ACB}\\)\n\\(\\Rightarrow \\widehat {ABD} = \\widehat {DCA}\\)\nXét \\(\\Delta ABD\\) và \\(\\Delta ACD\\) có:\nBA = CD (gt)\nBD = CA\n\\(\\widehat {ABD} = \\widehat {DCA}\\left( {cmt} \\right)\\)\n\\(\\Rightarrow \\Delta ABD = \\Delta ACD\\left( {c - g - c} \\right)\\)\n\\(\\Rightarrow \\widehat {ADB} = \\widehat {DAC}\\) (2 góc tương ứng)\nNếu gọi E là giao điểm của AC và BD thì ta có:\n\\(\\begin{array}{l}\\widehat {ADB} = \\dfrac{{\\widehat {ADB} + \\widehat {DAC}}}{2} = \\dfrac{{\\widehat {ADE} + \\widehat {DAE}}}{2} = \\dfrac{{{{180}^0} - \\widehat {AED}}}{2} = \\dfrac{{{{180}^0} - \\widehat {BEC}}}{2}\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = \\dfrac{{\\widehat {EBC} + \\widehat {ECB}}}{2} = \\dfrac{{\\widehat {ACB} + \\widehat {DBC}}}{2} = \\widehat {DBC}\\end{array}\\)\nMà 2 góc này ở vị trí so le trong\nNên \\(AD// BC\\). ( Dấu hiệu nhận biết 2 đường thẳng song song)"
+    },
+    {
+        "problem": "Cho tam giác ABC bằng tam giác DEF (h.4.28)\na) Gọi M và N lần lượt là trung điểm các đoạn thẳng BC và EF. Chứng minh rằng\nAM = DN.\nb) Trên hai cạnh AC và DF lấy 2 điểm P và Q sao cho BP, EQ lần lượt là phân giác của các góc ABC và DEF. Chứng minh rằng\nBP = EQ.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chứng minh 2 tam giác ABM và DEN bằng nhau.\nb) Chứng minh 2 tam giác ABP và DEQ bằng nhau\nLời giải chi tiết\na)\nXét \\(\\Delta ABM\\) và \\(\\Delta DEN\\) có:\n\\(\\begin{array}{l}AB = DE\\left( do {\\Delta ABC = \\Delta DEF} \\right)\\\\\\widehat B = \\widehat E\\left( do{\\Delta ABC = \\Delta DEF} \\right)\\\\BM = EN\\left( {gt} \\right)\\end{array}\\)\n\\(\\Rightarrow \\Delta ABM = \\Delta DEN\\left( {c - g - c} \\right)\\)\n\\(\\Rightarrow AM = DN\\) (2 cạnh tương ứng)\nb)\nXét \\(\\Delta ABP\\) và \\(\\Delta DEQ\\) có:\n\\(\\widehat {ABP} = \\widehat {DEQ}\\left( {\\dfrac{1}{2}\\widehat B = \\dfrac{1}{2}\\widehat E} \\right)\\)\n\\(\\widehat A = \\widehat D\\left( {\\Delta ABC = \\Delta DEF} \\right)\\)\nAB = DE (gt)\n\\( \\Rightarrow \\Delta ABP = \\Delta DEQ\\left( {g - c - g} \\right)\\)\n\\( \\Rightarrow BP = EQ\\) (2 cạnh tương ứng)"
+    },
+    {
+        "problem": "Tính tổng số đo \\(\\widehat A + \\widehat C\\) trong hình 4.8.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tổng ba góc trong 1 tam giác bằng 180 độ chỉ ra số đo góc A, C.\nLời giải chi tiết\nCách 1:\nÁp dụng định lí tổng ba góc trong tam giác ABD, ta có:\n\\(\\widehat A+ \\widehat B+ \\widehat C=180^0\\Rightarrow \\widehat A = {180^0} - {50^0} - {30^0} = {100^0}\\)\nÁp dụng định lí tổng ba góc trong tam giác BCD, ta có:\n\\(\\widehat B+ \\widehat C+ \\widehat D=180^0\\Rightarrow \\widehat C = {180^0} - {40^0} - {70^0} = {70^0}\\)\n\\(\\widehat A + \\widehat C = {100^0} + {70^0} = {170^0}\\)\nCách 2:\nÁp dụng định lí tổng ba góc trong tam giác ABD, ta có:\n\\(\\widehat A+ \\widehat B+ \\widehat C=180^0 \\Rightarrow \\widehat A+ 30^0+50^0=180^0\\)\nÁp dụng định lí tổng ba góc trong tam giác BCD, ta có:\n\\(\\widehat B+ \\widehat C+ \\widehat D=180^0 \\Rightarrow \\widehat 70^0+ \\widehat C+40^0=180^0\\)\nDo đó, \\(\\widehat A+ 30^0+50^0+\\widehat 70^0+ \\widehat C+40^0=180^0+180^0\\) nên \\(\\widehat A + \\widehat C =170^0\\)"
+    },
+    {
+        "problem": "Cho đường thẳng d đi qua trung điểm M của đoạn thẳng AB và không vuông góc với AB. Kẻ AP, BQ \\(\\left( {P \\in d,Q \\in d} \\right)\\)vuông góc với đường thẳng d (H 4.60). Chứng minh rằng:\na) AP = BQ\nb)\\(\\Delta APB = \\Delta BQA\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chứng minh: \\(\\Delta PAM = \\Delta QBM\\left( {ch - gn} \\right)\\)\nb) Chứng minh theo trường hợp c – g – c.\nLời giải chi tiết\na)\nXét \\(\\Delta PAM\\) vuông tại P và \\(\\Delta QBM\\) vuông tại Q có:\nAM = BM (gt)\n\\(\\widehat {PMA} = \\widehat {QMB}\\) (2 góc đối đỉnh)\n\\(\\begin{array}{l}\\Rightarrow \\Delta PAM = \\Delta QBM\\left( {ch - gn} \\right)\\end{array}\\)\n\\( \\Rightarrow AP = BQ\\) (2 cạnh tương ứng)\nb)\nXét \\(\\Delta APB\\) và \\(\\Delta BQA\\) có:\nAP = BQ (cmt)\n\\(\\widehat {PAB} = \\widehat {QBA}\\left( {\\text{do} \\Delta PAM = \\Delta QBM} \\right)\\)\nAB: Cạnh chung\n\\( \\Rightarrow \\Delta APB = \\Delta BQA\\left( {c - g - c} \\right)\\)."
+    },
+    {
+        "problem": "Cho A là một điểm tuỳ ý nằm trên đường trung trực của đoạn thẳng BC sao cho A không thuộc BC. Khẳng định nào dưới đây là đúng?\na) AB = AC\nb) Tam giác ABC đều\nc) \\(\\widehat {ABC} = \\widehat {ACB}\\)\nd) Tam giác ABC cân tại đỉnh A.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chất đường trung trực của đoạn thẳng.\nLời giải chi tiết\na), c), d) đúng."
+    },
+    {
+        "problem": "Cho hình chữ nhật ABCD. Trên cạnh AD và BC lần lượt lấy 2 điểm E và F sao cho AE = CF (H.4.41). Chứng minh rằng:\na)\\(AF = CE\\)\nb)\\(AF // CE\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Chứng minh \\(\\Delta ABF = \\Delta CDE\\left( {c - g - c} \\right)\\)\nb)Chứng minh 2 góc ở vị trí đồng vị bằng nhau.\nLời giải chi tiết\nTa có: \\(\\left\\{ \\begin{array}{l}BF = BC - CF\\\\DE = DA - AE\\end{array} \\right. \\Rightarrow BF = DE\\).\nXét \\(\\Delta ABF\\) và \\(\\Delta CDE\\) có:\nBA = DC (2 cạnh đối hình chữ nhật)\n\\( BF = DE\\).\n\\(\\widehat B = \\widehat D = {90^0}\\)\n\\(\\Rightarrow \\Delta ABF = \\Delta CDE\\left( {c - g - c} \\right)\\)\n\\(\\Rightarrow AF = CE\\) ( 2 cạnh tương ứng)\nb)\nTa có: \\(\\Delta ABF = \\Delta CDE\\left( {cmt} \\right) \\Rightarrow \\widehat {AFB} = \\widehat {DEC}\\) ( 2 góc tương ứng)\nVì \\(AD // BC \\Rightarrow \\widehat {DEC} = \\widehat {ECB}\\)(2 góc so le trong)\nDo đó:\\(\\widehat {AFB} =\\widehat {ECB}\\). Mà 2 góc này ở vị trí đồng vị\n\\( \\Rightarrow AF // CE\\)  ( Dấu hiệu nhận biết 2 đường thẳng song song)"
+    },
+    {
+        "problem": "Gọi M, N lần lượt là trung điểm các đoạn thẳng cạnh BC và EF của hai tam giác ABC và DEF. Giả sử rằng AB = DE, BC = EF, AM = DN (H.4.29). Chứng minh rằng \\(\\Delta ABC = \\Delta DEF\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Chứng minh tam giác ABM bằng tam giác DEN\n-Chứng minh tam giác ABC bằng tam giác DEF\nLời giải chi tiết\nXét \\(\\Delta ABM\\) và \\(\\Delta DEN\\) có:\nAB = DE (gt)\nBM = EN (gt)\nAM = DN (gt)\n\\( \\Rightarrow \\Delta ABM = \\Delta DEN\\left( {c - c - c} \\right)\\)\n\\( \\Rightarrow \\widehat B = \\widehat E\\) (góc tương ứng)\nXét \\(\\Delta ABC\\) và \\(\\Delta DEF\\)có:\nAB = DE (gt)\n\\(\\widehat B = \\widehat E\\)(cmt)\nBC = EF (gt)\n\\( \\Rightarrow \\Delta ABC = \\Delta DEF\\left( {c - g - c} \\right)\\)"
+    },
+    {
+        "problem": "Cho tam giác ABC thoả mãn \\(\\widehat A = \\widehat B = 2\\widehat C\\)\na) Tính số đo các góc của tam giác ABC.\nb) Tam giác ABC là tam giác nhọn, tù hay vuông?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\widehat A + \\widehat B + \\widehat C = {180^0}\\). Thay \\(\\widehat A = \\widehat B = 2\\widehat C\\) vào ta tìm được \\(\\widehat C\\).\nLời giải chi tiết\na)\nÁp dụng định lí tổng ba góc trong tam giác ABC, ta có:\n\\(\\begin{array}{l}\\widehat A + \\widehat B + \\widehat C = {180^0}\\\\ \\Rightarrow 2\\widehat C + 2\\widehat C + \\widehat C = {180^0}\\\\ \\Rightarrow 5\\widehat C = {180^0}\\\\ \\Rightarrow \\widehat C = 180^0:5={36^0}\\\\ \\Rightarrow \\widehat A = \\widehat B = 2\\widehat C = {36^0}.2 = {72^0}\\end{array}\\)\nb)\nTam giác ABC có 3 góc đều nhỏ hơn 90 độ nên tam giác ABC nhọn."
+    },
+    {
+        "problem": "Cho tam giác ABC cân tại đỉnh A có đường cao AH. Cho M là một điểm tuỳ ý trên đường thẳng AH sao cho M không trùng với A(H.4.54). Chứng minh rằng: \\(\\widehat {MBA} = \\widehat {MCA}\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chứng minh: \\(\\Delta HAB = \\Delta HAC\\left( {ch - cgv} \\right)\\)\n- Chứng minh:\\(\\Delta MBA = \\Delta MCA\\left( {c - g - c} \\right)\\)\nLời giải chi tiết\nXét \\(\\Delta HAB\\) và \\(\\Delta HAC\\) có:\n\\(\\widehat {AHB} = \\widehat {AHC} = {90^0}\\)\nAB = AC\nAH: Cạnh chung\n\\( \\Rightarrow \\Delta HAB = \\Delta HAC\\left( {ch - cgv} \\right)\\)\n\\( \\Rightarrow \\widehat{HAB}=\\widehat{HAC}\\) (2 góc tương ứng)\nXét \\(\\Delta MBA\\) và \\(\\Delta MCA\\) có:\nAB = AC\n\\(\\widehat {MAB} = \\widehat {MAC}\\)\nAM: Cạnh chung\n\\( \\Rightarrow \\Delta MBA = \\Delta MCA\\left( {c - g - c} \\right)\\)\n\\(\\Rightarrow \\widehat {MBA} = \\widehat {MCA}\\) (2 góc tương ứng)"
+    },
+    {
+        "problem": "Cho 5 điểm A, B, C, D, E như Hình 4.42, trong đó DA = DC, DB = DE\na) Chứng minh rằng AB = CE\nb) Cho đường thẳng CE cắt AB tại F. Chứng minh rằng \\(\\widehat {BFC} = {90^0}\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chứng minh \\(\\Delta DAB = \\Delta DCE\\left( {c - g - c} \\right)\\)\nb) \\(\\Delta DAB = \\Delta DCE\\left( {cmt} \\right) \\Rightarrow \\widehat {BAD} = \\widehat {ECD}\\)\nLời giải chi tiết\na)\nXét \\(\\Delta DAB\\) và \\(\\Delta DCE\\) có:\n\\(DA = DC\\left( {gt} \\right)\\\\\\widehat {ADB} = \\widehat {CDE} (= {90^0})\\\\DB = DE\\left( {gt} \\right)\\\\ \\Rightarrow \\Delta DAB = \\Delta DCE\\left( {c - g - c} \\right)\\)\n\\(\\Rightarrow AB = CE\\) ( 2 cạnh tương ứng)\nb)\nTa có: \\(\\Delta DAB = \\Delta DCE\\left( {cmt} \\right)\\)\n\\(\\Rightarrow \\widehat {BAD} = \\widehat {ECD}\\) ( 2 góc tương ứng)\nDo vậy :\n\\(\\begin{array}{l}\\widehat {BFC} = {180^0} - \\widehat {FCB} - \\widehat {CBF} = {180^0} - \\widehat {ECD} - \\widehat {DBA}\\\\\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = {180^0} - \\widehat {BAD} - \\widehat {DBA} = \\widehat {ADB} = {90^0}\\end{array}\\)\nVậy \\(\\widehat {BFC} = {90^0}\\)"
+    },
+    {
+        "problem": "Cho các điểm A, B, C, D, E như hình 4.18, biết rằng AB = AC, AD = AE, BD = CE. Chứng minh rằng \\(\\widehat {AEB} = \\widehat {ADC}\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Chứng minh \\(\\Delta AEB\\)= \\(\\Delta ADC\\)\nLời giải chi tiết\nXét \\(\\Delta AEB\\)và \\(\\Delta ADC\\) có:\nAB = AC (gt)\nAE = AD (gt)\n\\(\\left\\{ \\begin{array}{l}EB = BD + DE\\\\CD = CE + DE\\end{array} \\right. \\Rightarrow EB = CD\\left( {do\\,BD = CE} \\right)\\)\n\\( \\Rightarrow \\Delta AEB = \\Delta ADC\\left( {c - c - c} \\right)\\)\n\\( \\Rightarrow \\widehat {AEB} = \\widehat {ADC}\\)(góc tương ứng)"
+    },
+    {
+        "problem": "Cho hình thang cân ABCD có đáy lớn AD đáy nhỏ BC thoả mãn AD = 4 cm và AB = BC = CD = 2 cm (H.4.62). Tính các góc của hình thang ABCD.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Gọi O là trung điểm của AD.\n-Chứng minh \\(\\Delta ABO = \\Delta CBO\\left( {c - g - c} \\right)\\)\n-Chứng minh tam giác OCD đều.\nLời giải chi tiết\n\nGọi O là trung điểm của AD.\nKhi đó, AO = OD = \\(\\dfrac{1}{2}.AD= \\dfrac{1}{2}.4=2 cm\\)\nVì vậy \\(\\widehat {CBO} = \\widehat {BOA} = \\widehat {OBA}\\)\nXét \\(\\Delta ABO\\) và \\(\\Delta CBO\\) có:\nBA = BC (= 2cm)\n\\(\\widehat {OBA} = \\widehat {OBC}\\left( {cmt} \\right)\\)\nBO: Cạnh chung\n\\( \\Rightarrow \\Delta ABO = \\Delta CBO\\left( {c - g - c} \\right)\\)\n\\(\\Rightarrow OC = OA\\) (2 cạnh tương ứng)\nDo đó, OA = OC = OD = 2 cm\nVậy tam giác OCD là tam giác đều.\nNhư vậy\n\\(\\widehat A = \\widehat D = {60^0}\\)\nVì ABCD là hình thang có 2 đáy là BC và AD nên BC // AD nên \\(\\widehat B + \\widehat A = 180^0;\\widehat C + \\widehat D = 180^0 \\) (2 góc trong cùng phía)\nDo đó, \\(\\widehat B = \\widehat C = {180^0} - {60^0} = {120^0}.\\)"
+    },
+    {
+        "problem": "Cho hình bình hành ABCD có hai đường chéo AC và BD bằng nhau (H.4.19)\na) Chứng minh \\(\\Delta ABD = \\Delta DCA;\\Delta ADC = \\Delta BCD\\).\nb) Bằng cách tính số đo góc ADC, hãy cho biết ABCD có phải là hình chữ nhật không.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chỉ ra các cạnh tương ứng bằng nhau.\nb)\n-Chứng minh \\(\\widehat {DAB} = \\widehat {ADC}\\)\n-Chứng minh \\(\\widehat {ADC} = {90^0}\\).\nLời giải chi tiết\na)\nXét \\(\\Delta ABD\\)và \\(\\Delta DCA\\)có:\nAB = DC (2 cạnh đối của hình bình hành)\nBD = CA (gt)\nAD: Cạnh chung\n\\( \\Rightarrow \\Delta ABD = \\Delta DCA\\left( {c - c - c} \\right)\\)\nXét \\(\\Delta ADC\\) và \\(\\Delta BCD\\) có:\nAD = BC (2 cạnh đối của hình bình hành)\nAC = BD (gt)\nDC: Cạnh chung\n\\( \\Rightarrow \\Delta ADC = \\Delta BCD\\left( {c - c - c} \\right)\\)\nb)\nTa có: \\(\\Delta ABD = \\Delta BCD\\left( {cmt} \\right) \\Rightarrow \\widehat {DAB} = \\widehat {ADC}\\) (góc tương ứng).\nMặt khác vì ABCD là hình bình hành nên \\(\\widehat {DAB} + \\widehat {ADC} = {180^0} \\Rightarrow \\widehat {DAB} = \\widehat {ADC} = \\dfrac{{{{180}^0}}}{2} = {90^0}\\)\nHình bình hành ABCD có một góc vuông nên là hình chữ nhật."
+    }
+]

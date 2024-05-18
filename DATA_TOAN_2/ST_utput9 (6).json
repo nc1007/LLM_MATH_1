@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Từ các số 5, 0, 1, 3, viết các số tự nhiên có ba chữ số khác nhau thỏa mãn điều kiện:\na) Các số đó chia hết cho 5;\nb) Các số đó chia hết cho 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Dấu hiệu chia hết cho 5 là số đó có chữ số tận cùng là 0 hoặc 5\n- Dấu hiệu chia hết cho 3 là số đó có tổng các chữ số là 1 số chia hết cho 3\nLời giải chi tiết\na) Gọi số tự nhiên cần tìm có ba chữ số khác nhau là\n\\(\\overline {abc} \\)( \\(a \\ne 0; a,b,c \\in N; a,b,c \\le 9; a,b,c\\) khác nhau)\nVì số đó chia hết cho 5 nên chữ số tận cùng là 0 hoặc 5. Do đó c = 0 hoặc c = 5.\n+) Với c = 0, ta có bảng chữ số a, b khác nhau và khác 0 thỏa mãn là:\na\n1\n5\n3\n5\n1\n3\nb\n5\n1\n5\n3\n3\n1\nDo đó ta thu được các số: 150; 510; 350; 530; 130; 310.\n+) Với c = 5, \\(a \\ne 0\\) nên a = 1 hoặc 3, ta có bảng chữ số a, b khác nhau thỏa mãn là:\na\n1\n3\n1\n3\nb\n0\n0\n3\n1\n\nDo đó ta thu được các số: 105; 305; 135; 315\nVậy các số tự nhiên có ba chữ số khác nhau chia hết cho 5 được viết từ các chữ số đã cho: 130; 135; 105; 150; 310; 315; 350; 305; 510; 530.\nb) Gọi số tự nhiên cần tìm có ba chữ số khác nhau là\n\\(\\overline {abc} \\)( \\(a \\ne 0; a,b,c \\in N; a,b,c \\le 9; a,b,c\\) khác nhau)\nVì số đó chia hết cho 3 nên tổng các chữ số của nó phải chia hết cho 3 hay (a + b + c) chia hết cho 3.\nTa thấy bộ 3 chữ số khác nhau có tổng chia hết cho 3 là: (5, 0, 1); (5, 1, 3) vì (5 + 0 + 1 = 6 chia hết cho 3 và 5 + 1 + 3 = 9 chia hết cho 3)\n+) Khi a,b,c gồm 3 chữ số 5, 0, 1 thì ta có các số cần tìm là: 105; 150; 510; 501\n+) Khi a,b,c gồm 3 chữ số 5, 1, 3 thì ta có các số cần tìm là: 135; 153; 351; 315; 513; 531\nVậy các số tự nhiên có ba chữ số khác nhau chia hết cho 3 được viết từ các chữ số đã cho: 135; 153; 351; 315; 513; 531; 105; 150; 510; 501."
+    },
+    {
+        "problem": "Hãy phân tích các số A, B ra thừa số nguyên tố: A = \\(4^2.6^3\\) B =\\(9^2.15^2\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Theo định nghĩa tách được lũy thừa thành tích các thừa số.\nBước 2: Phân tích thừa số ở trên thành tích các thừa số nguyên tố.\nBước 3: Nhân các lũy thừa có cùng cơ số\nLời giải chi tiết\nA= \\(4^2.6^3= 4.4.6.6.6\\)\n\\(=(2^2).(2^2).(2.3).(2.3).(2.3)\\)\n\\(=2^{2+2+1+1+1}.3^{1+1+1}=2^7.3^3\\)\nB =\\(9^2.15^2\\)\n\\(=9.9.15.15\\)\n\\(=3^2.3^2.3.5.3.5\\)\n\\(=3^{2+2+1+1}.5^{1+1}\\)\n=\\(3^6.5^2\\)"
+    },
+    {
+        "problem": "Tìm số tự nhiên x không vượt quá 22 sao cho:a) 100 - x chia hết cho 4b) 18 + 90 + x chia hết cho 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng, hiệu của các số chia hết cho cùng 1 số a thì cũng chia hết cho a\nLời giải chi tiết\na) 100 - x chia hết cho 4. Mà 100 chia hết cho 4 nên x chia hết cho 4\nDo đó x là bội của 4 và x là số tự nhiên\nTa có: B(4) = {0; 4; 8; 12; 16; 20; 24;…}\nVì x không vượt quá 22 nên x ∈ {0; 4; 8; 12; 16; 20}\nVậy x ∈ {0; 4; 8; 12; 16; 20}.\nb) 18 + 90 + x chia hết cho 9. Mà 18 và 90 chia hết cho 9 nên x chia hết cho 9\nDo đó x là bội của 9 và x là số tự nhiên\nTa có: B(9) = {0; 9; 18; 27;…}\nVì x không vượt quá 22 nên x ∈ {0; 9; 18}\nVậy x ∈ {0; 9; 18}."
+    },
+    {
+        "problem": "Lớp 6B có 40 học sinh. Để thực hiện dự án học tập nhỏ, cô giáo muốn chia lớp thành các nhóm có số người như nhau, mỗi nhóm có nhiều hơn 3 người. Hỏi mỗi nhóm có thể có bao nhiêu người?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nhóm là ước của số học sinh\nLời giải chi tiết\nGọi số nhóm là x (nhóm),( x ∈ N; 3 < x < 40)\nVì cô giáo muốn chia lớp có 40 học sinh thành nhiều nhóm có số người như nhau nên\n40 ⁝ x hay X ∈ Ư(40)\nƯ(40) = {1; 2; 4; 5; 8; 10; 20; 40}\nTa có bảng sau:\nSố nhóm\n\\(1\\)\n\\(2\\)\n\\(4\\)\n\\(5\\)\n\\(8\\)\n\\(10\\)\n\\(20\\)\n\\(40\\)\nSố người mỗi nhóm\n\\(40\\)\n\\(20\\)\n\\(10\\)\n\\(8\\)\n\\(5\\)\n\\(4\\)\n\\(2\\)\n\\(1\\)\nVì mỗi nhóm có nhiều hơn 3 người nên mỗi nhóm có thể có 4 người; 5 người; 8 người; 10 người hoặc 20 người.\nVậy mỗi nhóm có thể có 4 người; 5 người; 8 người; 10 người hoặc 20 người."
+    },
+    {
+        "problem": "Hai số nguyên tố được gọi là sinh đôi nếu chúng hơn kém nhau hai đơn vị. Ví dụ 17 và 19 là hai số nguyên tố sinh đôi. Em hãy liệt kê các cặp số nguyên tố sinh đôi nhỏ hơn 40.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào bảng các số nguyên tố\nLời giải chi tiết\nCác cặp số nguyên tố sinh đôi nhỏ hơn 40 là: (3;5);(5;7);(11;13);(17;19);(29;31)."
+    }
+]

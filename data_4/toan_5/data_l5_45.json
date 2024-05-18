@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Muốn tính diện tích của hình tròn ta lấy bán kính nhân với bán kính rồi nhân với số 31,4. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính diện tích của hình tròn ta lấy bán kính nhân với bán kính rồi nhân với số 3,14.\nVậy phát biểu đã cho là sai."
+    },
+    {
+        "problem": "Câu 2: Diện tích hình tròn có bán kính r = 4cm là:\nA.\t12,56cm^{2}  \nB.\t25,12cm^{2}  \nC.\t37,68cm^{2}  \nD.\t50,24cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình tròn đó là:\n4 x 4 x 3,14 = 50,24 (cm^{2} ) \nĐáp số: 50,24cm^{2} ."
+    },
+    {
+        "problem": "Câu 5: Diện tích của hình tròn có chu vi C = 25,12cm là:\nA.\t4cm^{2}  \nB.\t25,12cm^{2}  \nC.\t50,24cm^{2}  \nD.\t100,48cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bán kính hình tròn đó là: \n25,12 : 3,14 : 2 = 4 (cm)\nDiện tích hình tròn đó là: \n4 × 4 × 3,14 = 50,24 (cm^{2} )\nĐáp số: 50,24 cm^{2} ."
+    },
+    {
+        "problem": "Câu 8: Trong sân trường người ta trồng hai bồn hoa hình tròn. Bồn trồng hoa cúc có đường kính 5m. Bồn trồng hoa hồng có chu vi 9,42m. Hỏi bồn hoa nào có diện tích lớn hơn?\nA.\tBồn trồng hoa cúc\nB.\tBồn trồng hoa hồng\nC.\tHai bồn có diện tích bằng nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bán kính của bồn trồng hoa cúc là: \n5 : 2 = 2,5 (m)\nDiện tích của bồn trồng hoa cúc là:  \n2,5 × 2,5 × 3,14 = 19,625 (m^{2} )\nBán kính của bồn trồng hoa hồng là: \n9,42 : 3,14 : 2 = 1,5 (m)\nDiện tích của bồn trồng hoa hồng là:   \n1,5 × 1,5 × 3,14 = 7,065 (m^{2} )\nTa có 19,625m^{2}  > 7,065m^{2} .\nVậy bồn trồng hoa cúc có diện tích lớn hơn."
+    },
+    {
+        "problem": "Câu 11: Biết hai hình tròn có cùng tâm O ta có bán kính lần lượt là 5dm và 7,5dm.\nVậy diện tích phần đã tô màu của hình tròn là:\n\nA.\t490,625dm^{2}  \nB.\t255,125dm^{2}  \nC.\t176,625dm^{2}  \nD.\t98,125dm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình tròn tâm O bán kính 7,5dm là:  \n7,5 × 7,5 × 3,14 = 176,625 (dm^{2} )\nDiện tích hình tròn tâm O bán kính 5dm là: \n5 × 5 × 3,14 = 78,5 (dm^{2} )\nDiện tích phần đã tô màu của hình tròn là:\n176,625 − 78,5 = 98,125 (dm^{2} )\nĐáp số: 98,125dm^{2} .\n\nDiện tích hình tròn tâm O bán kính 5dm là: \n5 × 5 × 3,14 = 78,5 (dm^{2} )\nDiện tích phần đã tô màu của hình tròn là:\n176,625 − 78,5 = 98,125 (dm^{2} )\nĐáp số: 98,125dm^{2} ."
+    }
+]

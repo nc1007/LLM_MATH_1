@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Cho đường thẳng \\({(d_1)}\\) và \\({(d_2)}\\) xác định bởi các hàm số bậc nhất sau:\n\\(y = 0,5x - 3\\)  \\(({d_1})\\); \\(y = -1,5x + 5 \\)  \\(({d_2})\\)\nĐường thẳng  \\({(d_1)}\\) và đường thẳng  \\({(d_2)}\\) cắt nhau tại điểm :\n(A) (\\(  2;- 2\\));    (B)  (\\( 4; - 1\\));\n(C) (\\( - 2;-4\\));   (D) (\\( 8; 1\\)).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét đường thẳng (\\({d_1}\\)): \\(y = {a_1}x + {b_1}\\) và đường thẳng (\\({d_2}\\)): \\(y = {a_2}x + {b_2}\\)\nĐể tìm giao điểm giữa hai đường thẳng ta xét phương trình hoành độ giao điểm:\n\\({a_1}x + {b_1} = {a_2}x + {b_2}\\).\nTìm \\(x_0\\) là nghiệm của phương trình trên và thay vào một trong hai phương trình đường thẳng để tìm \\(y_0\\). Vậy (\\(x_0; y_0\\)) là giao điểm cần tìm.\nLời giải chi tiết\nXét phương trình hoành độ giao điểm của \\({(d_1)}\\) và \\({(d_2)}\\):\n\\(\\begin{array}{l}0,5x - 3 = - 1,5x + 5\\\\ \\Leftrightarrow 2x = 8\\\\ \\Leftrightarrow x = 4\\end{array}\\)\nThay \\(x = 4\\) vào hàm số \\(y = 0,5x - 3,\\) ta có: \\(y = 0,5.4 - 3 =  - 1\\).\nVậy giao điểm của hai đường thẳng là: \\(B ( 4; - 1).\\) Đáp án (B).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho ba đường thẳng \\(y = \\dfrac{2}{5}x + \\dfrac{1}{2}\\) (\\({d_1}\\));\n\\(y = \\dfrac{3}{5}x - \\dfrac{5}{2}\\) (\\({d_2}\\));  \\(y = kx + 3,5\\) (\\({d_3}\\))\nHãy tìm giá trị của k để sao cho ba đường thẳng đồng quy tại một điểm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét đường thẳng (\\({d_1}\\)): \\(y = {a_1}x + {b_1}\\) và đường thẳng (\\({d_2}\\)): \\(y = {a_2}x + {b_2}\\)\nĐể tìm giao điểm giữa hai đường thẳng, ta xét phương trình hoành độ giao điểm:\n\\({a_1}x + {b_1} = {a_2}x + {b_2}\\).\nTìm \\(x_0\\) là nghiệm của phương trình trên và thay vào một trong hai phương trình đường thẳng để tìm \\(y_0\\). Vậy (\\(x_0; y_0\\)) là giao điểm cần tìm.\nThay tọa độ giao điểm vừa tìm được vào phương trình đường thẳng \\((d_3)\\) để tìm \\(k.\\)\nLời giải chi tiết\n* Trước hết tìm giao điểm của hai đường thẳng \\((d_1)\\) và \\((d_2).\\)\n+) Xét phương trình hoành độ giao điểm của \\((d_1)\\) và \\((d_2)\\):\n\\(\\begin{array}{l}\\dfrac{2}{5}x + \\dfrac{1}{2} = \\dfrac{3}{5}x - \\dfrac{5}{2}\\\\⇔ \\dfrac{2}{5}x - \\dfrac{3}{5}x = - \\dfrac{5}{2} - \\dfrac{1}{2}\\\\ ⇔ - \\dfrac{1}{5}x = - 3\\\\⇔ x = 15\\end{array}\\)\n+) Tìm tung độ giao điểm: Thay \\( x=15\\) vào hàm số \\(y = \\dfrac{2}{5}x + \\dfrac{1}{2},\\) ta có:\n\\(y = \\dfrac{2}{5}.15 + \\dfrac{1}{2} = 6,5\\)\n+) Thay \\( x= 15\\) và \\( y= 6,5\\) vào phương trình  (\\({d_3}\\)):\n\\(\\begin{array}{l}6,5 = k.15 + 3,5\\\\ \\Leftrightarrow 15k = 3\\Leftrightarrow k = 0,2\\end{array}\\)\nVậy với \\( k=0,2\\) thì ba đường thẳng đồng quy tại điểm \\((15; 6,5).\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm hệ số \\(a\\) của hàm số \\(y = ax + 1\\) biết rằng khi \\(x = 1 + \\sqrt 2\\) thì \\(y = 3 + \\sqrt 2 \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Điểm \\(M({x_0};{y_0})\\) thuộc đồ thị \\(y = ax + b\\) khi \\({y_0} = a{x_0} + b\\).\nLời giải chi tiết\nKhi \\(x = 1 + \\sqrt 2 \\) thì hàm số \\(y = ax + 1\\) có giá trị bằng \\(3 + \\sqrt 2 \\) nên ta có:\n\\(3 + \\sqrt 2  = a\\left( {1 + \\sqrt 2 } \\right)+1\\)\\( \\Leftrightarrow a\\left( {1 + \\sqrt 2 } \\right) = 2 + \\sqrt 2 \\)\n\\(\\Leftrightarrow a = \\dfrac{{2 + \\sqrt 2 }}{{1 + \\sqrt 2 }}\\)\\( = \\dfrac{{\\sqrt 2 \\left( {1 + \\sqrt 2 } \\right)}}{{1 + \\sqrt 2 }} = \\sqrt 2 \\)\nVậy \\(a = \\sqrt 2 \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Xác định hàm số \\(y = ax + b\\) biết đồ thị cắt trục tung tại điểm có tung độ bằng \\(3\\) và cắt trục hoành tại điểm có hoành độ bằng \\(-2\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đồ thị của hàm số  \\(y = ax + b\\) \\((a \\ne 0)\\) là đường thẳng \\(d\\) cắt trục hoành tại \\(B\\left( { - \\dfrac{b}{a};0} \\right)\\) và cắt trục tung tại \\(A\\left( {0;b} \\right)\\).\nĐiểm \\(M({x_0};{y_0})\\) thuộc \\((d)\\) khi và chỉ khi \\(y_0 = ax_0 + b\\).\nLời giải chi tiết\nĐồ thị hàm số \\(y = ax + b\\) cắt trục tung tại điểm có tung độ bằng \\(3\\) nên \\(b=3\\)\nVì đồ thị hàm số \\(y = ax + b\\) cắt trục hoành tại điểm có hoành độ bằng \\(-2\\) nên khi đó tung độ của giao điểm bằng 0.\nThay \\(x=-2;y=0\\) vào hàm số \\(y = ax + b,\\) ta có :\n\\(0 = a\\left( { - 2} \\right) + 3 \\Leftrightarrow -2a = -3 \\Leftrightarrow a = 1,5\\)\nVậy hàm số đã cho là \\(y = 1, 5x + 3.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Xác định hàm số trong mỗi trường hợp sau, biết đồ thị của hàm số là đường thẳng đi qua gốc tọa độ:\na) Đi qua điểm \\(A(3;2)\\) ;\nb) Có hệ số \\(a\\) bằng \\(\\sqrt 3 \\) ;\nc)  Song song với đường thẳng \\(y =3x + 1.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Đồ thị hàm số đi qua gốc tọa độ có dạng \\(y = ax\\)\nĐiểm \\(M({x_0};{y_0})\\) thuộc đồ thị hàm số  \\(y = ax + b\\) khi và chỉ khi \\(y_0 = ax_0 + b\\).\n- Hai đường thẳng \\(y = ax + b\\) và \\(y = a'x + b'\\) song song với nhau khi và chỉ khi \\(a = a';b \\ne b'\\).\nLời giải chi tiết\nĐồ thị hàm số đi qua gốc tọa độ có dạng \\(y = ax\\)\na) Đồ thị hàm số \\(y = ax\\)  đi qua điểm \\(A(3;2)\\) nên tọa độ A nghiệm đúng phương trình hàm số.\nTa có: \\(2 = a.3 \\Leftrightarrow a = \\dfrac{2 }{ 3}\\)\nVậy hàm số đã cho là \\(y = \\dfrac{2 }{ 3}x\\).\nb) Vì \\(a = \\sqrt 3 \\) nên ta có hàm số cần tìm là: \\(y = \\sqrt 3 x\\)\nc) Đồ thị hàm số \\(y = ax\\) song song với đường thẳng \\(y = 3x + 1\\) nên hệ số \\(a = 3.\\)\nVậy hàm số đã cho là \\(y = 3x.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trên mặt phẳng tọa độ \\(Oxy\\) cho hai điểm \\(A(1;2) ,\\) \\(B(3;4).\\)\na) Tìm hệ số \\(a\\) của đường thẳng đi qua \\(A\\) và \\(B;\\)\nb) Xác định hàm số biết đồ thị của nó là đường thẳng đi qua \\(A\\) và \\(B.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để viết phương trình đường thẳng đi qua hai điểm cho trước ta thực hiện các bước sau:\nBước 1: Gọi phương trình đường thẳng là \\(y = ax + b\\).\nBước 2: Thay tọa độ các điểm thuộc đường thẳng, lập các phương trình hai ẩn của \\(a\\) và \\(b\\).\nBước 3: Từ các phương trình trên ta tìm \\(a\\) và \\(b\\)\nBước 4: Kết luận phương trình đường thẳng với \\(a\\) và \\(b\\) đã tìm được.\nLời giải chi tiết\nĐường thẳng đi qua hai điểm \\(A\\) và \\(B\\) có dạng : \\(y = ax + b\\) với \\(a\\ne 0\\).\na) Đường thẳng đi qua hai điểm \\(A\\) và \\(B\\) nên tọa độ \\(A\\) và \\(B\\) nghiệm đúng phương trình.\nVới điểm \\(A(1;2)\\) ta có: \\(2 = a + b \\Leftrightarrow b = 2 - a\\) (1)\nVới điểm \\(A(3;4)\\) ta có: \\(4 = 3a + b\\)  (2)\nThay (1) vào (2) ta có: \\(4 = 3a + 2 - a \\Leftrightarrow 2a = 2 \\Leftrightarrow a = 1\\) (thỏa mãn)\nVậy hệ số \\(a\\) của đường thẳng đi qua \\(A\\) và \\(B\\) là 1.\nb) Thay \\(a = 1\\) (ở câu a) vào (1) ta được : \\(b = 2 – 1 = 1\\)\nVậy phương trình đường thẳng \\(AB\\) là \\(y = x + 1.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đường thẳng  \\(y = kx + \\dfrac{1}{2}\\) song song với đường thẳng \\(y = \\dfrac{2}{3} - \\dfrac{{5x}}{7}\\) khi \\(k\\) có giá trị là:\n(A) \\(\\dfrac{2}{3}\\);                  (B) \\(5\\);\n(C)  \\(\\dfrac{5}{7}\\);                 (D)  \\(-\\dfrac{5}{7}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai đường thẳng \\(y = ax + b\\) và \\(y = a'x + b'\\) song song với nhau khi và chỉ khi \\(a = a';b \\ne b'\\).\nLời giải chi tiết\nĐể đường thẳng  \\(y = kx + \\dfrac{1}{2}\\) song song với đường thẳng \\(y = \\dfrac{2}{3} - \\dfrac{{5x}}{7}= - \\dfrac{{5}}{7}x+\\dfrac{2}{3}\\) thì \\(k = -\\dfrac{5}{7}\\).\nVậy đáp án (D).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đường thẳng \\(y = \\dfrac{{2m + 3}}{5}x + \\dfrac{4}{7}\\) và đường thẳng \\(y = \\dfrac{{5m + 2}}{3}x - \\dfrac{1}{2}\\) song song với nhau khi m có giá trị là:\n(A) \\(1\\);                                    (B) \\(\\dfrac{2}{3}\\);\n(C) \\(-\\dfrac{1}{19}\\);                             (D) \\(\\dfrac{1}{3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai đường thẳng \\(y = ax + b\\) và \\(y = a'x + b'\\) song song với nhau khi và chỉ khi \\(a = a';b \\ne b'\\);\nLời giải chi tiết\nVì \\( \\dfrac{{4}}{7}\\ne -\\dfrac{{1}}{2}\\) nên hai đường thẳng trên song song với nhau khi:\n\\(\\begin{array}{l}\\dfrac{{2m + 3}}{5} = \\dfrac{{5m + 2}}{3}\\\\\\Leftrightarrow \\dfrac{2}{5}m+ \\dfrac{3}{5} = \\dfrac{5}{3}m + \\dfrac{2}{3} \\\\ \\Leftrightarrow \\dfrac{2}{5}m - \\dfrac{5}{3}m = \\dfrac{2}{3} - \\dfrac{3}{5}\\\\ \\Leftrightarrow - \\dfrac{{19}}{{15}}m = \\dfrac{1}{{15}}\\\\ \\Leftrightarrow m = - \\dfrac{1}{{19}}\\end{array}\\)\nVậy đáp án là (C).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hai đường thẳng \\(y = (2m + 1)x - \\dfrac{2}{3}\\) và \\(y = (5m - 3)x + \\dfrac{3}{5}\\) cắt nhau khi \\(m\\) có giá trị khác với giá trị sau:\n(A) \\(\\dfrac{4}{7}\\);                                 (B) \\(\\dfrac{4}{3}\\);\n(C) \\(-\\dfrac{2}{7}\\);                             (D) \\(-\\dfrac{4}{3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai đường thẳng \\(y = ax + b\\) và \\(y = a'x + b'\\) cắt nhau khi và chỉ khi \\(a \\ne a'\\).\nLời giải chi tiết\nHai đường thẳng trên cắt nhau khi:\n\\(\\begin{array}{l}2m + 1 \\ne 5m - 3\\\\ \\Leftrightarrow 5m - 2m \\ne 1 + 3\\\\ \\Leftrightarrow 3m \\ne 4\\\\ \\Leftrightarrow m \\ne \\dfrac{4}{3}\\end{array}\\)\nVậy đáp án là (B)\nLoigiaihay.com"
+    }
+]

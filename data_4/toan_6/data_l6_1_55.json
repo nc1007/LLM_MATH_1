@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "B.Số ghi trên lá thư là số 5\nC.Số ghi trên lá thư là số nhỏ hơn 1\nD.Số ghi trên lá thư là số lớn hơn 13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số có thể ghi trên lá thư là 1; 2; 3; 4; 5; 6; 7; 8; 9; 10.\nTrong 10 khả năng trên có số 5 nên số 5 có thể xuất hiện trên lá thư.\nVậy sự kiện “Số ghi trên lá thư là số 5” là sự kiện có thể xảy ra.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2: Trong một hộp có 1 quả bóng xanh và 9 bóng vàng có kích thước giống nhau. An lấy ra đồng thời 2 bóng từ hộp. Có các sự kiện sau:\n1- An lấy được 2 bóng màu xanh\n2- An lấy được ít nhất một bóng màu vàng\n3- An lấy được 2 bóng màu vàng.\nSự kiện chắc chắn, không thể và có thể xảy ra lần lượt là\nA.1 – 2 – 3\nB.2 – 3 – 1\nC.3 – 2 – 1\nD.2 – 1 – 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác kết quả có thể xảy ra là: (1 xanh + 1 vàng) ; (2 vàng).\nCả hai kết quả này luôn có xuất hiện quả màu vàng nên sự kiện 2 chắc chắn xảy ra.\nTa không bao giờ có thể lấy được 2 quả bóng màu xanh cùng một lúc được vì tổng số bóng xanh chỉ có 1 quả. Sự kiện 1 là sự kiện không thể xảy ra.\nTrong hai kết quả trên có một kết quả là 2 vàng nên sự kiện 3 có thể xảy ra.\nVậy sự kiện chắc chắn, không thể và có thể xảy ra lần lượt là 2 – 1 – 3 .\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3: Một hộp có 5 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, 4, 5; hai thẻ khác nhau thì ghi số khác nhau. Rút ngẫu nhiên một thẻ.\nSố xuất hiện trên thẻ được rút có phải là phần tử của tập hợp {1; 2; 3; 4; 5} hay không?\nA. Không\nB. Có",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố có thể xuất hiện trên thẻ là một trong năm số: 1; 2; 3; 4; 5.\nCác số này đều là phần tử của tập hợp {1; 2; 3; 4; 5}.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4:\nMột hộp có 5 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, 4, 5; hai thẻ khác nhau thì ghi số khác nhau. Rút ngẫu nhiên một thẻ.\nHai điều cần chú ý trong mô hình xác suất của trò chơi trên là\n1. Rút ngẫu nhiên ... thẻ;\n2. Tập hợp các kết quả có thể xảy ra đối với ... xuất hiện trên thẻ là {1, 2, 3, 4, 5} .Ở đây, 1, 2, 3, 4, 5 là các số xuất hiện trên thẻ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHai điều cần chú ý trong mô hình xác suất của trò chơi trên là\n1. Rút ngẫu nhiên 1 thẻ;\n2. Tập hợp các kết quả có thể xảy ra đối với số xuất hiện trên thẻ là {1, 2, 3, 4, 5}. Ở đây, 1, 2, 3, 4, 5 là các số xuất hiện trên thẻ."
+    },
+    {
+        "problem": "Câu 5: Cho phép thử nghiệm gieo con xúc xắc 6 mặt. Sự kiện nào trong các sự kiện sau có thể xảy ra:\nA.“Số chấm nhỏ hơn 5”\nB.“Số chấm lớn hơn 6”\nC.“Số chấm bằng 0”\nD.“Số chấm bằng 7”",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác kết quả có thể xảy ra khi gieo một con xúc xắc 6 mặt là: 1 chấm, 2 chấm, 3 chấm, 4 chấm, 5 chấm, 6 chấm.\nKhi đó số chấm nhỏ hơn 5 có thể xảy ra. Đáp án A đúng.\nSố chấm tối đa là 6 nên B sai.\nKhông có số chấm bằng 0 trong các kết quả có thể xảy ra nên C sai.\nKhông có số chấm bằng 7 trong các kết quả có thể xảy ra nên D sai.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6: Phép thử nghiệm: Bạn Ngô chọn một ngày trong tuần để đá bóng. Có tất cả bao nhiêu kết quả có thể xảy ra của phép thử nghiệm này.\nA.5\nB.6\nC.7\nD.4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMột tuần có 7 ngày nên Ngô có thể chọn một trong 7 ngày đó để đi đá bóng. Hay số kết quả có thể xảy ra là 7.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7: Gieo một con xúc xắc 6 mặt 50 lần ta được kết quả như sau:\nMặt\n1 chấm\n2 chấm\n3 chấm\n4 chấm\n5 chấm\n6 chấm\nSố lần\n8\n7\n3\n12\n10\n10\nHãy tính xác suất thực nghiệm của sự kiện gieo được mặt có số lẻ chấm trong 50 lần gieo trên.\nA.0,21\nB.0,44\nC.0,42\nD.0,18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng số lần gieo là 50.\nCác mặt có số lẻ chấm của con xúc xắc là mặt 1, 3 và 5.\nSố lần được mặt 1 chấm là 8 lần, mặt 3 chấm là 3 lần, mặt 5 chấm là 10 lần.\nSố lần được mặt có số lẻ chấm là 8 + 3 + 10 = 21 lần\nXác suất thực nghiệm của sự kiện gieo được mặt có số lẻ chấm trong 50 lần là: \\frac{21}{50}=0,42\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11: Trong hộp có một số bút xanh, một số bút vàng và một số bút đỏ. lấy ngẫu nhiên 1 bút từ hộp, xem màu gì rồi trả lại. Lặp lại hoạt động trên 40 lần ta được kết quả như sau:\nMàu bút\nBút xanh\nBút vàng\nBút đỏ\nSố lần\n14\n10\n16\nTính xác suất thực nghiệm của sự kiện lấy được màu đỏ\nA.0,16\nB.0,6\nC.0,4\nD.0,45",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng số lần lấy là 40.\nSố lần lấy được màu đỏ là 16.\nXác suất thực nghiệm của sự kiện lấy được màu đỏ là: \\frac{16}{40}=0,4\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12: Trong hộp có một số bút xanh, một số bút vàng và một số bút đỏ. lấy ngẫu nhiên 1 bút từ hộp, xem màu gì rồi trả lại. Lặp lại hoạt động trên 40 lần ta được kết quả như sau:\nMàu bút\nBút xanh\nBút vàng\nBút đỏ\nSố lần\n14\n10\n16\nTính xác suất thực nghiệm của sự kiện không lấy được màu vàng\nA.0,25\nB.0,75\nC.0,1\nD.0,9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng số lần lấy bút là 40.\nSố lần lấy được màu vàng là 10\nSố lần không lấy được màu vàng là 40 – 10 = 30.\nXác suất suất thực nghiệm của sự kiện không lấy được màu vàng là:  \\frac{30}{40}=0,75\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 13: Tung đồng xu 15 lần liên tiếp và kết quả thu được ghi lại trong bảng sau:\nLần tung\nKết quả\nLần tung\nKết quả\nLần tung\nKết quả\n1\nS\n6\nN\n11\nN\n2\nS\n7\nS\n12\nS\n3\nN\n8\nS\n13\nN\n4\nS\n9\nN\n14\nN\n5\nN\n10\nN\n15\nN\nN: Ngửa\nS: Sấpbiết\nSố lần xuất hiện mặt ngửa (N) là\nA.6\nB.7\nC.8\nD.9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố lần xuất hiện mặt ngửa là 9 lần.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14: Tung đồng xu 15 lần liên tiếp và kết quả thu được ghi lại trong bảng sau:\nLần tung\nKết quả\nLần tung\nKết quả\nLần tung\nKết quả\n1\nS\n6\nN\n11\nN\n2\nS\n7\nS\n12\nS\n3\nN\n8\nS\n13\nN\n4\nS\n9\nN\n14\nN\n5\nN\n10\nN\n15\nN\nN: Ngửa\nS: Sấphiểu\nXác suất thực nghiệm xuất hiện mặt ngửa là\nA.0,9\nB.0,6\nC.0,4\nD.0,7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng số lần tung là 15 lần\nSố lần xuất hiện mặt N là 9 lần.\nXác suất thực nghiệm xuất hiện mặt ngửa là \\frac{9}{15}=\\frac{3}{5}=0,6\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15: Tung đồng xu 15 lần liên tiếp và kết quả thu được ghi lại trong bảng sau:\nLần tung\nKết quả\nLần tung\nKết quả\nLần tung\nKết quả\n1\nS\n6\nN\n11\nN\n2\nS\n7\nS\n12\nS\n3\nN\n8\nS\n13\nN\n4\nS\n9\nN\n14\nN\n5\nN\n10\nN\n15\nN\nN: Ngửa\nS: Sấp\nXác suất thực nghiệm xuất hiện mặt S là\nA.0,9\nB.0,6\nC.0,4\nD.0,7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng số lần tung là 15 lần\nSố lần xuất hiện mặt S là 15 – 9 = 6 lần.\nXác suất thực nghiệm xuất hiện mặt ngửa là \\frac{6}{15}=\\frac{2}{5}=0,4\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 16: Tổng hợp kết quả xét nghiệm bệnh viêm gan ở một phòng khám trong một năm ta được bảng sau:\nQuý\nSố ca xét nghiệm\nSố ca dương tính\nI\n210\n21\nII\n150\n15\nIII\n180\n9\nIV\n240\n48\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính quý I” là\nA.0,1                    \nB.0,25                             \nC.0,15                             \nD.0,125",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố ca xét nghiệm quý I là 210.\nSố ca dương tính là 21 ca.\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính quý I” là  \\frac{21}{210}=0,1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 17: Tổng hợp kết quả xét nghiệm bệnh viêm gan ở một phòng khám trong một năm ta được bảng sau:\nQuý\nSố ca xét nghiệm\nSố ca dương tính\nI\n210\n21\nII\n150\n15\nIII\n180\n9\nIV\n240\n48\nCó bao nhiêu quý có xác suất thực nghiệm của sự kiện “một ca có kết quả dương tính” dưới 0,1? \nA.1                       \nB.2                        \nC.3                        \nD.0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBước 1:\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính” của quý I là \\frac{21}{210}=0,1\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính” của quý II là \\frac{15}{200}=0,075\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính” của quý III là \\frac{9}{180}=0,05\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính” của quý IV là \\frac{48}{240}=0,2\nBước 2:\nTa có hai số nhỏ hơn 0,1 là 0,05 và 0,075.\nVậy có 2 quý có xác suất thực nghiệm của sự kiện “một ca có kết quả dương tính” dưới 0,1.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 18: Tổng hợp kết quả xét nghiệm bệnh viêm gan ở một phòng khám trong một năm ta được bảng sau:\nQuý\nSố ca xét nghiệm\nSố ca dương tính\nI\n210\n21\nII\n150\n15\nIII\n180\n9\nIV\n240\n48\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính sau quý III tính từ đầu năm” là\nA.0,05                            \nB.0,15                             \nC. \\frac{1}{12}\nD. \\frac{1}{15}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố ca xét nghiệm sau quý III tính từ đầu năm là 210 + 150 + 180 = 540.\nSố ca dương tính sau quý III tính từ đầu năm là 21 + 15 + 9 = 45.\nXác suất thực nghiệm của sự kiện “một ca có kết quả dương tính sau quý III tính từ đầu năm” là \\frac{45}{540}=\\frac{1}{12}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 19:  Nếu tung một đồng xu 22 lần liên tiếp thì, có 14 lần xuất hiện mặt N thì xác suất thực nghiệm xuất hiện mặt N bằng bao nhiêu?\nA. \\frac{7}{11}\nB.  \\frac{4}{11}\nC.  \\frac{4}{7}\nD.  \\frac{3}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng số lần gieo là 22.\nSố lần gieo được mặt N là 14.\nXác suất thực nghiệm xuất hiện mặt N là: \\frac{14}{22}=\\frac{7}{11} \nĐáp án cần chọn là: A"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Dùng số nguyên âm hoặc số nguyên dương để diễn tả các thông tin sau:a) Khi đọc sách, bạn Quang thường đưa trang sách lại quá gần mắt. Bạn ấy đã phải mang kính cận 1 dioptre.b) Ông của bạn Quang đã già nên phải dùng kính lão 2 dioptre để đọc sách báo.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Số âm biểu diễn độ cận thị\n+ Số dương biểu diễn độ viễn thị\nLời giải chi tiết\na) Khi đọc sách, bạn Quang thường đưa trang sách lại quá gần mắt. Bạn ấy đã phải đeo kính -1 dioptre.\nb) Ông của bạn Quang đã già nên phải đeo kính 2 dioptre (hay +2 dioptre) để đọc sách báo"
+    },
+    {
+        "problem": "Điểm A nằm trên trục số và cách gốc O một khoảng bằng 12 đơn vị (trục số nằm ngang và có chiều dương từ trái sang phải). Hỏi điểm A biểu diễn số nguyên nào nếu:\na) A nằm bên phải gốc O.\nb) A nằm ở bên trái gốc O.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bên phải gốc O biểu diễn số dương\nBên trái gốc O biểu diễn số âm\nLời giải chi tiết\na) Vì A nằm bên phải gốc O và cách O một khoảng bằng 12 đơn vị nên điểm A biểu diễn số +12.\nb) Vì A nằm bên trái gốc O và cách O một khoảng bằng 12 đơn vị nên điểm A biểu diễn số -12."
+    },
+    {
+        "problem": "Liệt kê các phần tử của tập hợp sau rồi tính tổng của chúng:\na) {x ∈ Z;|-3 < x ≤ 3}\nb) {x ∈ Z;|-7 < x ≤ -2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mô tả lại tập hợp bằng cách liệt kê rồi tính tổng các phần tử\nLời giải chi tiết\na) Các số nguyên lớn hơn -3 và nhỏ hơn hoặc bằng 3 là: -2; -1; 0; 1; 2; 3\nDo đó: S = {-2; -1; 0; 1; 2; 3}\nTổng các phần tử của S là: (-2) + (-1) + 0 + 1 + 2 + 3 = [(-2) + 2] + [(-1) + 1)] + 3\n= 0 + 0 + 3 = 3.\nb) Các số nguyên lớn hơn -7 và nhỏ hơn hoặc bằng -2 là: -6; -5; -4; -3; -2\nDo đó: T = {-6; -5; -4; -3; -2}\nTổng các phần tử của T là:(-6) + (-5) + (-4) + (-3) + (-2) = - (6 + 5 + 4 + 3 + 2)\n= - 20."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na) (27 + 86) - (29 - 5 + 84);\nb) 39 - (298 - 89) + 299.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Tính trong ngoặc trước\nCách 2: Phá ngoặc rồi nhóm các hạng tử sao cho phù hợp lại và cộng, trừ\nLời giải chi tiết\na) (27 + 86) - (29 - 5 + 84)\n= 27 + 86 - 29 + 5 - 84\n= (27 – 29) + (86 – 84) + 5\n= (- 2) + 2 + 5\n= 0 + 5\n= 5\nb) 39 - (298 - 89) + 299\n= 39 - 298 + 89 + 299\n= (39 + 89) + (299 – 298)\n= 39 + 89 + 1\n= 39 + (89 + 1)\n= 39 + 90\n= 129"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức (-314) - (75 + x) nếu:\na) x = 25\nb) x = - 313.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay từng giá trị của x vào biểu thức rồi tính\nLời giải chi tiết\na) Khi x = 25 thì\n(-314) - (75 + x)\n= (-314) - (75 + 25)\n= (- 314) – 100\n= (-314) + (-100)\n= - (314 + 100)\n= - 414.\nb) Khi x = -313 thì\n(-314) - (75 + x)\n= (-314) - [75 +(-313)]\n= -314 – 75 + 313\n= -75 + (313 – 314)\n= -75 + [-(314 - 313)]\n= -75 +(-1)\n= - (75 +1)\n= - 76."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 2 834 + 275 – 2 833 – 265;\nb) (11 + 12 + 13) – (1 + 2 + 3).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhóm các hạng tử mà khi cộng(hoặc trừ) được một kết quả \"đẹp\"\n- Nếu có ngoặc thì có thể thực hiện phá ngoặc rồi nhóm\nLời giải chi tiết\na) 2 834 + 275 - 2 833 - 265\n= (2 834 - 2 833) + (275 - 265)\n= 1 + 10\n= 11\nb) (11 + 12 + 13) - (1 + 2 + 3)\n= 11 + 12 + 13 - 1 - 2 - 3\n= (11 - 1) + (12 - 2) + (13 - 3)\n= 10 + 10 + 10\n= 20 + 10\n= 30"
+    },
+    {
+        "problem": "Có ba chiếc hộp đựng những miếng bìa. Trên mỗi miếng bìa có ghi một số như đã cho trong hình dưới đây. Hãy chuyển một miếng bìa từ hộp này sang hộp khác sao cho tổng các số ghi trên các miếng bìa trong mỗi hộp đều bằng nhau.\n\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Tổng các chữ số trước và sau khi chuyển là không đổi\n*Để mỗi hộp có tổng các số bằng nhau thì tổng mỗi bộ số trong mỗi hộp= Tổng các chữ số ở 3 hộp :3\nLời giải chi tiết\nTổng các chữ số ghi trên hộp thứ nhất tính từ trái sang là:\n6 + (– 1) + (– 3) = 6 – 1 - 3 = 5 – 3 = 2\nTổng các chữ số ghi trên hộp ở giữa là:\n5 + (- 4) + 3 = 5 – 4 + 3 = 1 + 3 = 4\nTổng các chữ số ghi trên hộp thứ ba tính từ trái sang là:\n-5 + 9 + 2 = - 5 + (9 + 2) = -5 + 11 = 11 – 5 = 6\nTổng các chữ số trên cả ba hộp là:\n2 + 4 + 6 = 12\nĐể mỗi hộp có tổng các số bằng nhau thì tổng mỗi bộ số trong mỗi hộp là:\n12 : 3 = 4\n+) Vì tổng các số ghi trên hộp ở giữa là 4 nên các miếng bìa được giữ nguyên\n+) Vì tổng các số ghi trên hộp thứ nhất tính từ trái sang là 2 nên hộp thứ nhất cần thêm miếng bìa có chữ số 2 để có tổng là 4.\n+) Vì tổng các số ghi trên hộp thứ ba tính từ trái sang là 6 nên hộp cần bỏ miếng bìa có chữ số 2 để có tổng là 4.\nVậy ta di chuyển miếng bìa có chữ số 2 từ hộp thứ ba sang hộp thứ nhất tính từ trái sang."
+    },
+    {
+        "problem": "Trong một trò chơi, bạn Minh nhận được yêu cầu: “Hãy tính tổng của tất cả các số trong tập hợp\n{x ∈ N|-25 ≤ x ≤ 25}\nMinh trả lời ngay: “Bằng 0”. Em có thể giải thích tại sao Minh tính nhanh thế không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng của 2 số đối nhau là 0\nLời giải chi tiết\nMinh trả lời nhanh như thế là vì trong tập hợp đã cho, ta đều nhóm thành từng cặp số đối nhau ( có tổng bằng 0). Ví dụ như 2 và -2 là hai số đối nhau đều thuộc tập hợp, tổng của chúng bằng 0.\nTa được tổng của các nhóm này và số 0 vẫn bằng 0."
+    }
+]

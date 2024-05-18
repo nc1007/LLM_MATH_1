@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "A. Có hai đường cao bằng nhau; \nB. Có hai đường trung tuyến bằng nhau; \nC. Có hai cạnh bằng nhau; \nD. Có hai tia phân giác trong bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐịnh nghĩa: Tam giác cân là tam giác có hai cạnh bằng nhau.\nVậy ta chọn đáp án C."
+    },
+    {
+        "problem": "Câu 8. Cho ∆PQR có P^=52°, R^=76°. ∆PQR là tam giác gì?\nA. Tam giác đều; \nB. Tam giác vuông; \nC. Tam giác cân; \nD. Tam giác vuông cân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n∆PQR có: P^+Q^+R^=180° (định lí tổng ba góc của tam giác)\nSuy ra Q^=180°-P^-R^=180°-52°-76°=52°.\nDo đó ta có P^=Q^=52°.\nSuy ra ∆PQR cân tại R (dấu hiệu nhận biết)\nDo đó đáp án C đúng.\nVì cả ba góc của ∆PQR đều không bằng nhau và không bằng 60° nên ∆PQR không thể là tam giác đều.\nDo đó đáp án A sai.\nVì ∆PQR không có góc nào bằng 90° nên ∆PQR không thể là tam giác vuông.\nDo đó đáp án B, D sai.\nVậy ta chọn đáp án C."
+    }
+]

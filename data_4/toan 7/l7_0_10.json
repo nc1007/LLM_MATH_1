@@ -1,0 +1,194 @@
+[
+    {
+        "problem": "Câu 1. Trong các số  4687 ; \\frac{1}{3}; \\frac{3}{2}; 36; 3(2); 5 có bao nhiêu số là số hữu tỉ?\nA. 2;\nB. 3; \nC. 4;\nD. 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\n 11= 3,316…. Ta có 3,316… là số thập phân vô hạn không tuần hoàn nên 11 là số vô tỉ.\n \\frac{1}{3}= 0,(3). Ta có 0,(3) là số thập phân vô hạn tuần hoàn nên \\frac{1}{3} là số hữu tỉ.\n \\frac{3}{2} = 1,5. Ta có 1,5 là số thập phân hữu hạn nên \\frac{3}{2} là số hữu tỉ.\n 36 = 6. Ta có 6 là số thập phân hữu hạn nên 36 là số hữu tỉ.\n3,(2) là số thập phân vô hạn tuần hoàn nên 3,(2) là số hữu tỉ.\n5 là số thập phân hữu hạn nên 5 là số hữu tỉ.\nVậy có 5 số là số hữu tỉ là: \\frac{1}{3}; \\frac{3}{2}; 36; 3(2); 5.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 2. Chọn đáp án đúng.\nA. 34∈ℚ;\nB. 5∈𝕀;\nC.  \\frac{5}{3}∈ℚ ;\nD. 5,(3) ∈ℤ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n 34 = 5,83…. Ta có 5,83… là số thập phân vô hạn không tuần hoàn nên 34 là số vô tỉ. Suy ra 34∉ℚ. Do đó, đáp án A sai.\n5 là số thập phân hữu hạn nên 5 là số hữu tỉ. Suy ra 5∉𝕀. Do đó đáp án B sai.\n \\frac{5}{3} = 1,666… là số thập phân vô hạn tuần hoàn nên \\frac{5}{3} là số hữu tỉ. Suy ra \\frac{5}{3}∈ℚ. Do đó đáp án C đúng.\n5,(3) là số thập phân vô hạn tuần hoàn nên 5,(3) là số hữu tỉ. Suy ra 5,(3) ∉ℤ. Do đó, đáp án D sai.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 3. Độ dài một cạnh của một mảnh đất hình vuông có diện tích 225 m^{2}  là:\nA. 56,25 m;\nB. 10 m;\nC. 15 m;\nD. 13 m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGọi cạnh của mảnh đất là a (cm)\nDiện tích của mảnh đất là: a^{2}  = 225\nSuy ra a = ± 15\nMà a > 0 nên a = 15\nVậy cạnh của mảnh đất là 15 m.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 4. So sánh 39và 30+9\nA. 39>30+9;\nB.  39<30+9;\nC.  39=30+9;\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nSử dụng máy tính cầm tay ta có  39 = 6,244…; 30+9 = 8,477…\nTa có phần nguyên của số 6,244… là 6, phần nguyên của số 8,477 là 8 mà 6 < 8 nên  6,244… < 8,477…. Do đó  39<30+9 .\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 4. Cho một hình vuông có cạnh 6,5 m và một hình chữ nhật có chiều dài 7,5 m, chiều rộng 3,5 m. So sánh diện tích của hai hình trên.\nA. Diện tích hình chữ nhật lớn hơn hình vuông;\nB. Diện tích hình chữ nhật bé hơn hình vuông;\nC. Diện tích hình chữ nhật bằng hình vuông;\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nDiện tích hình vuông là:\n6,5 . 6,5 = 42,25 (m^{2} )\nDiện tích hình chữ nhật là:\n7,5 . 3,5 = 26,25 (m^{2} )\nTa có phần nguyên của số 42,25 là 42, phần nguyên của số 26,25 là 26 mà 42 > 26 nên 42,25 > 26,25. \nDo đó, diện tích hình chữ nhật bé hơn diện tích hình vuông."
+    },
+    {
+        "problem": "Câu 5. Chọn từ thích hợp điền vào chỗ chấm. Căn bậc hai số học của số a không âm là số x không âm sao cho …\nA. x = a;\nB. x^{2}  = a;\nC. x = a^{2} ;\nD. x = a;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCăn bậc hai số học của số a không âm là số x không âm sao cho x = a^{2} .\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 6. Sử dụng máy tính để tính 4687và làm tròn đến hàng phần trăm\nA. 68,46;\nB. 86,462;\nC. 86,5;\nD. 86,47.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có  4687 = 68,46166…\nChữ số hàng phần trăm của số 68,46166…là chữ số 6\nTa thấy chữ số bên phải của chữ số 6 là chữ số 1 mà 1 < 5 nên giữ nguyên chữ số hàng phần trăm và bỏ các chữ số từ hàng phần nghìn trở đi.\nDo đó, làm tròn số 4687 đến hàng phần trăm được số 68,46.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 7. So sánh giá trị tuyệt đối của số 2  và –1,5.\nA. 2  > |–1,5|;\nB. 2 < |–1,5|;\nC. 2 = |–1,5|;\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nGiá trị tuyệt đối của một số thực x luôn là số không âm nên 2=2;|–1,5| = 1,5.\nTa có: 2≈1,414...\nVì 1,414... < 1,5 nên 2<1,5.\nDo đó 2 < |–1,5|."
+    },
+    {
+        "problem": "Câu 8. Một khu đất hình vuông có diện tích 196 m^{2} . Người rào xung quanh khu đất đó. Cần dùng bao nhiêu mét rào để rào xung quanh khu đất đó, biết người ta để ra 1,5 m để làm lối đi?\nA. 194,5 m;\nB. 54,5 m;\nC. 12,5 m;\nD. 56 m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nGọi cạnh của khu đất là a (m)\nDiện tích khu đất là: a^{2}  = 196 \nSuy ra a = ± 14\nMà a > 0 nên a = 14\nChu vi khu đất đó là:\n14 . 4 = 56 (m)\nCần dùng số mét rào để rào xung quanh khu đất đó là:\n56 – 1,5 = 54,5 (m)\nVậy cần dùng 54,5 m rào để rào xung quanh khu đất đó.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 9. Có bao nhiêu giá trị của a thoả mãn 9 = a^{2} ?\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: 3^{2}  = 9; (−3)^{2}  = 9\nVậy có 2 giá trị của a thoả mãn 9 = a^{2} .\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 10. Giá trị của biểu thức B = -16+-25 là:\nA. 41;\nB. – 41;\nC. 9;\nD. – 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có \nB  = -16+-25= |− 4| + 25 = 4 + 5 = 9.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 10. Chọn đáp án đúng. Cho biểu thức C = \\frac{1}{|−16|}.\nA. Giá trị của biểu thức C là một số nguyên;\nB. Giá trị của biểu thức C là một số vô tỉ;\nC. Giá trị của biểu thức C là một số hữu tỉ;\nD. Giá trị của biểu thức C là số tự nhiên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có\nC = \\frac{1}{|−16|} = \\frac{1}{16} = \\frac{1}{4} = 0,25.\nVì 0,25 là số thập phân hữu hạn nên \\frac{1}{4} là số hữu tỉ.\nDo đó giá trị của biểu thức C là số hữu tỉ. \nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 11. Một khu vườn hình chữ nhật có chiều dài 10 m, chiều rộng 7,5 m. Người ta đào một cái ao hình tròn có bán kính 2 m, phần còn lại dùng để trồng rau. Tính diện tích dùng để trồng rau và làm tròn đến hàng phần trăm.\nA. 75 m^{2} ;\nB. 4p m^{2} ;\nC. 62,43 m^{2} ;\nD. 87, 57 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích khu vườn là:\n10 . 7,5 = 75 (m^{2} )\nDiện tích cái ao là:\n2^{2}  . π = 4π (m^{2} )\nDiện tích đất dùng để trồng rau là:\n75 – 4π ≈ 62,4336…. (m^{2} )\nChữ số hàng phần trăm của số 62,4336 là chữ số 3.\nTa thấy chữ số bên phải của chữ số 3 là chữ số 3 mà 3 < 5 nên giữ nguyên chữ số 3 và bỏ các chữ số từ hàng phần nghìn trở đi. \nDo đó làm tròn số 62,4336… đến hàng phần trăm được số 62,43.\nVậy diện tích đất dùng để trồng rau khoảng 62,43 m^{2} .\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 12. Sử dụng máy tính cầm tay, tính kết quả của phép tính 13+132và làm tròn đến hàng phần mười.\nA. 21,99;\nB. 22;\nC. 21,99…;\nD. 21.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nSử dụng máy tính cầm tay ta có 13+132= 21,9903…\nChữ số hàng phần mười của số 21,9903… là chữ số 9.\nTa thấy chữ số bên phải của chữ số 9 là chữ số 9 mà 9 > 5 nên chữ số hàng phần mười tăng thêm một đơn vị là 10 và bỏ các chữ số từ hàng phần trăm trở đi.\nDo đó làm tròn số 21,9903… đến hàng phần mười được số 22.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 13. So sánh 4(3) và 4,3367…\nA. 4(3) > 4,3367…;\nB. 4(3) < 4,3367…;\nC. 4(3) = 4,3367…;\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có 4,(3) = 4,3333…\nTa thấy phần nguyên, phần thập phân thứ nhất và phần thập phân thứ hai của số 4,(3) và số 4,3367… đều giống nhau nên ta so sánh phần thập phân thứ ba.\nPhần thập phân thứ ba của số 4,(3) là 3, phần thập phân thứ ba của 4,3367… là 6 \nMà 3 < 6 nên 4,(3) < 4,3367…\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 14. So sánh số đối của 7và 8\nA. Số đối của 7lớn hơn số đối của 8;\nB. Số đối của 7bé hơn số đối của 8;\nC. Số đối của 7bằng số đối của 8;\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có số đối của 7 là – 7; số đối của 8 là –8 \nDo 7 < 8 nên 7 < 8. Suy ra –7 > –8 \nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 15. Chọn câu đúng.\nA. 5+−5=25 ;\nB. 5+−5= 0;\nC. 5+−5= 1 ;\nD. 5+−5= – 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có 5và -5là hai số đối nhau nên 5+−5= 0.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 16. Chọn đáp án đúng:\nA. Mỗi số vô tỉ được biểu diễn bởi một số thập phân hữu hạn hoặc vô hạn tuần hoàn;\nB. Số vô tỉ là số thập phân vô hạn không tuần hoàn, tập hợp số vô tỉ được kí hiệu 𝕀; \nC. Mỗi số hữu tỉ được biểu diễn bởi một số thập phân vô hạn không tuần hoàn;\nD. Số vô tỉ là số thập phân vô hạn không tuần hoàn, tập hợp số vô tỉ được kí hiệu ℚ  .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nMỗi số hữu tỉ được biểu diễn bởi một số thập phân hữu hạn hoặc vô hạn tuần hoàn.\nDo đó, đáp án A và C sai.\nMỗi số vô tỉ được biểu diễn bởi một số thập phân vô hạn không tuần hoàn.\nDo đó, đáp án B đúng.\nSố vô tỉ là số thập phân vô hạn không tuần hoàn, tập hợp số vô tỉ được kí hiệu 𝕀.\nDo đó, đáp án D sai.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 17. Trong các số \\frac{2}{11};0,232323...;0,20022...;\\frac{1}{4} ,số vô tỉ?\nA. \\frac{2}{11} ;                   \nB. 0,232323…;     \nC.0,20022…;                  \nD. \\frac{1}{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có\n \\frac{2}{11}=0,18. Vậy \\frac{2}{11} là số thập phân vô hạn tuần hoàn nên \\frac{2}{11} là số hữu tỉ không phải là số vô tỉ.\nSố 0,232323… là số thập phân vô hạn tuần hoàn nên 0,232323… là số hữu tỉ không phải số vô tỉ.\n0,20022… là số thập phân vô hạn không tuần hoàn nên 0,20022… là số vô tỉ.\n \\frac{1}{4}=\\frac{1}{2}=0,5. Vì \\frac{1}{4} là số thập phân hữu hạn nên \\frac{1}{4} là số hữu tỉ không phải là số vô tỉ.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 18. Khẳng định nào sau đây sai?\nA. 0,36=0,6 ;\nB. −62=6 ;\nC. 150=100+50 ;\nD. \\frac{81}{225}=\\frac{3}{5} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có \n0,36=0,6 nên đáp án A đúng.\n −62=36=6 nên đáp án B đúng.\nSử dụng máy tính cầm tay ta có 150= 12,247…; 100+50=17,071…\nVì  12,247… ≠  17,071…nên 150≠100+50. Do đó, đáp án C sai.\n \\frac{81}{225}=\\frac{9}{15}=\\frac{3}{5} nên đáp án D đúng.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 19. Chọn phát biểu đúng trong các các phát biểu sau:\nA. 3∈ℕ ;\nB. 16∈𝕀 ;\nC. π∈ℤ ;\nD. 81∈ℚ .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có\n 3=1,732... Vì 3là số thập phân vô hạn không tuần hoàn nên 3  là số vô tỉ suy ra 3∉ℕ. Do đó, đáp án A sai.\n 16=4. Vì đưa được về dạng số thập phân hữu hạn nên 16 là số hữu tỉ suy ra 16∉𝕀. Do đó, đáp án B sai.\n π = 3,14.... Vì π là số thập phân vô hạn không tuần hoàn nên π là số vô tỉ suy ra π∉ℤ . Do đó, đáp án C sai.\n 81=9. Vì 81đưa được về dạng số thập phân hữu hạn nên 81 là số hữu tỉ nên 81∈ℚ . Do đó, đáp án D đúng.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 20. Tìm x nguyên để A=\\frac{35−x}{9+2}  có giá trị nguyên biết x < 30?\nA. 4;\nB. 9;\nC.16;\nD. 25.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: \nA=\\frac{35−x}{9+2}=\\frac{35−x}{3+2}=\\frac{35−x}{5}\nĐể A nhận giá trị nguyên thì (35−x)⋮5 .\nMà 35 ⋮ 5 nên x⋮5\nMặt khác, x < 30 nên x = 25.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 21. Khẳng định nào sau đây đúng?\nA. Tập số thực được kí hiệu là ℚ  ;\nB. Số tự nhiên không phải là số thực;\nC. Quan hệ giữa các tập số ℕ⊂ℤ⊂ℚ⊂ℝ ;\nD. Mọi số thực đều là số vô tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\nTập số thực được kí hiệu là ℝ . Do đó, đáp án A sai.\nℕ⊂ℚ⊂ℝ . Do đó, đáp án B sai.\nVì ℕ⊂ℤ;ℤ⊂ℚ;ℚ⊂ℝ nên ℕ⊂ℤ⊂ℚ⊂ℝ . Do đó, đáp án C đúng.\nMọi số vô tỉ đều là số thực. Do đó, đáp án D sai.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 22. Khẳng định nào sau đây sai?\nA. 4∈ℕ ; \nB. 3∈ℚ ;\nC. \\frac{2}{3}∈ℝ ;\nD. −9∈ℤ .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\n 4=2. Vì 2 là số tự nhiên nên 4∈ℕ . Do đó, đáp án A đúng.\n 3=1,732.... Vì 1,732… là số thập phân vô hạn không tuần hoàn nên 3 là số vô tỉ. Suy ra 3∈𝕀 . Do đó, đáp án B sai.\n \\frac{2}{3}=0,66.... Vì 0,66… là số thập phân vô hạn tuần hoàn nên \\frac{2}{3}  là số hữu tỉ. Mà số vô tỉ là số thực. Suy ra \\frac{2}{3}∈ℝ . Do đó, đáp án C đúng.\n−9 là số nguyên âm nên −9∈ℤ . Do đó, đáp án D đúng.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 23. Chọn chữ số thích hợp điền vào chỗ chấm: −9,08 < 9,…1\nA. 0; 1; 2; …; 9;\nB. 1; 2; …; 9;\nC. 0;\nD. 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì −9,08 là số thập phân âm và 9,…1 số thập phân dương.\nMà số thập phân âm luôn bé hơn số thập phân dương."
+    },
+    {
+        "problem": "Câu 24. So sánh 0,(31) và 0,3(12).\nA. 0,(31) = 0,3(12);\nB. 0,(31) > 0,3(12); \nC. 0,(31) < 0,3(12);\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\n0,(31) = 0,3131…;\n0,3(12) = 0,3121…\nMà 0,3131…>0,3121… nên 0,(31) > 0,3(12).\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 25. Trong các số |− 9,35|; 50 ; 6,(23); 3 số lớn nhất là:\nA. |− 9,35|;\nB. 6,(23);\nC. \\frac{1}{3} ;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì giá trị tuyệt đối của một số thực x luôn là số không âm: |x| ≥ 0 với mọi số thực x.\nDo đó, |− 9,35| = 9,35.\n \\frac{1}{3}= 0,(3)\nSử dụng máy tính cầm tay, ta có 3= 1,732…\nSuy ra 0,(3) < 1,732…< 6,(23) < 9,35\nDo đó,  \\frac{1}{3}<  3< 6,(23) < |− 9,35|\nVậy số lớn nhất là |− 9,35|."
+    },
+    {
+        "problem": "Câu 26. Làm tròn số  5 đến hàng phần nghìn được số:\nA. 2,23;\nB. 2,2361;\nC. 2,236;\nD. 2,237.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có  5= 2,23606…\nChữ số hàng phần nghìn của số 2,23606… là chữ số 6.\nTa thấy chữ số bên phải chữ số 6 là 0 mà 0 < 5 nên ta giữ nguyên chữ số hàng phần nghìn là 6 đồng thời bỏ tất cả các chữ số hàng phần chục nghìn trở đi.\nDo đó, làm tròn số 5 đến hàng phần nghìn được số 2,236.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 27. Làm tròn số \\frac{-19}{3} đến hàng phần trăm được số:\nA. − 6,34;\nB. − 6,33;\nC. − 6,4;\nD. − 6,3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có  \\frac{-19}{3}= 6,3333…\nChữ số hàng phần trăm của số 6,3333… là chữ số 3.\nTa thấy chữ số bên phải của chữ số 3 là chữ số 3 mà 3 < 5 nên ta giữ nguyên chữ số hàng phần trăm là 3 đồng thời bỏ tất cả các chữ số hàng phần nghìn trở đi. \nDo đó, làm tròn số  \\frac{-19}{3} đến hàng phần trăm được số − 6,33.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 28. Làm tròn số π đến hàng phần mười được số:\nA. 3,14;\nB. 3,15;\nC. 3,2;\nD. 3,1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có π = 3,14159…\nChữ số hàng phần mười của số 3,14159… là chữ số 1\nTa thấy chữ số bên phải của chữ số 1 là chữ số 4 mà 4 < 5 nên ta giữ nguyên chữ số hàng phần mười là 1 đồng thời bỏ tất cả các chữ số hàng phần trăm trở đi. \nDo đó, làm tròn số π đến hàng phần mười được số 3,1.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 29. Làm tròn số 183,(1) đến hàng đơn vị được số:\nA. 183,1;\nB. 183,11;\nC. 183;\nD. 184.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có 183,(1) = 183,111…\nChữ số hàng đơn vị của số 183,(1) là chữ số 3 \nTa thấy chữ số bên phải của chữ số 3 là chữ số 1 mà 1 < 5 nên giữ nguyên chữ số hàng đơn vị và bỏ các chữ số từ hàng phần mười trở đi.\nDo đó, làm tròn số 183,(1) đến hàng đơn vị được số 183.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 30. Làm tròn số 5 000π đến hàng trăm được số:\nA. 15 707;\nB. 15 708;\nC. 15 800;\nD. 15 700.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: 5 000π = 15 707,96…\nHàng trăm của số 5 000π là chữ số 7.\nTa thấy chữ số bên phải của chữ số 7 là chữ số 0 mà 0 < 5 \nDo đó, làm tròn số 5 000π đến hàng trăm được số 15 700.\nVậy chọn đáp án D."
+    }
+]

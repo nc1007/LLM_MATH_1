@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Bài 1: Chọn câu đúng.\nA. Đường trung bình của hình thang là đường nối trung điểm hai cạnh đáy hình thang.\nB. Đường trung bình của tam giác là đoạn nối trung điểm hai cạnh của tam giác.\nC. Trong một tam giác chỉ có một đường trung bình.\nD. Đường trung bình của tam giác là đường nối từ một đỉnh đến trung điểm cạnh đối diện.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Đường trung bình của tam giác là đoạn nối trung điểm hai cạnh của tam giác nên B đúng.\n+ Đường trung bình của hình thang là đoạn thẳng nối trung điểm hai cạnh bên của hình thang nên A, D sai.\n+ Trong một tam giác có ba đường trung bình nên C sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 3: Hãy chọn câu sai.\nA. Độ dài đường trung bình của hình thang bằng nửa tổng hai đáy.\nB. Độ dài đường trung bình của hình thang bằng nửa hiệu hai đáy.\nC. Đường trung bình của hình thang thì song song với hai đáy.\nD. Đường trung bình của tam giác song song với cạnh thứu ba bằng nửa cạnh ấy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Độ dài đường trung bình hình thang bằng nửa tổng hai đáy nên đáp án B sai.\nĐáp án cần chọn là: B"
+    }
+]

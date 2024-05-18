@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Tính:\n\\(\\begin{array}{*{20}{l}}{a){\\rm{ }}200.0,8}\\\\{b){\\rm{ }}\\left( { - 0,5} \\right).\\left( { - 0,7} \\right)}\\\\{c){\\rm{ }}\\left( { - 0,8} \\right).0,006}\\\\{d){\\rm{ }}\\left( { - 0,4} \\right).\\left( { - 0,5} \\right).\\left( { - 0,2} \\right)\\;}\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn nhân hai số nguyên khác dấu, ta nhân hai giá trị tuyệt đối của chúng rồiđặt dấu \"-\" trước kết quả nhận được.\n- Muốn nhân hai số nguyên cùng dấu, ta nhân hai giá trị tuyệt đối của chúng rồi đặt dấu “+” trước kết quả của chúng.\nLời giải chi tiết\n\\(\\begin{array}{l}a){\\rm{ }}200.0,8 = 200.0,2{\\rm{ }}.4\\\\ = 40.4 = 160\\end{array}\\)\n\\(\\begin{array}{l}b){\\rm{ }}\\left( { - 0,5} \\right).\\left( { - {\\rm{ }}0,7} \\right)\\\\ = 0,5.0,7 = 0,35\\end{array}\\)\n\\(\\begin{array}{l}c){\\rm{ }}\\left( { - 0,8} \\right).0,006\\\\ = \\left( {0,1.\\;0.001} \\right).\\;\\left( { - 8} \\right).6{\\rm{ }}\\\\ = 0,001.\\left( { - 48} \\right) =  - 0,0048\\end{array}\\)\n\\(\\begin{array}{l}d){\\rm{ }}\\left( { - 0,4} \\right).\\left( { - 0,5} \\right).\\left( { - 0,2} \\right)\\\\ = \\left( { - 0,4} \\right).0,1 =  - 0,04\\;\\end{array}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Cho \\(23,456 = 10{\\rm{ }}488.\\) Tính nhẩm:\n\\(\\begin{array}{*{20}{l}}{a){\\rm{ }}2,3.456\\;}\\\\{b){\\rm{ }}2,3.45,6\\;}\\\\{c){\\rm{ }}\\left( { - 2,3} \\right).\\left( { - 4,56} \\right)\\;}\\\\{d){\\rm{ }}\\left( { - 2,3} \\right).45{\\rm{ }}600}\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1) Tính chất giao hoán: a.b = b.a\n2) Tính chất kết hợp: (a.b).c = a.(b.c)\nLời giải chi tiết\n\\(\\begin{array}{l}a){\\rm{ }}2,3{\\rm{ }}.{\\rm{ }}456 = 23.0,1.456{\\rm{ }}\\\\ = 23.456.0,1 =10488.0,1= 10{\\rm{ }}48,8.\\end{array}\\)\n\\(\\begin{array}{l}b){\\rm{ }}2,3.45,6 = \\left( {23.0,1} \\right).\\left( {456.0,1} \\right)\\\\ = \\left( {23.456} \\right).\\left( {0,1.0,1} \\right){\\rm{ }}\\\\ = 10{\\rm{ }}488.0,01\\\\ = 104,88\\end{array}\\)\n\\(\\begin{array}{l}c){\\rm{ }}\\left( { - 2,3} \\right).\\left( { - 4,56} \\right){\\rm{ }}\\\\ = \\left( { - 23.0,1} \\right).\\left( { - 456.0,01} \\right){\\rm{ }}\\\\ = 10{\\rm{ }}488.0,001\\\\ = 10,488\\end{array}\\)\n\\(\\begin{array}{l}d){\\rm{ }}\\left( { - 2,3} \\right).45{\\rm{ }}600{\\rm{ }}\\\\ = \\left( { - 23.0,1} \\right).\\left( {456.100} \\right){\\rm{ }}\\\\ = \\left( { - 23.456} \\right).\\left( {0,1.100} \\right){\\rm{ }}\\\\ =  - 10{\\rm{ }}488.10{\\rm{ }}\\\\ =  - 104{\\rm{ }}880\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho \\(182:13 = 14.\\) Tính nhẩm:\n\\(\\begin{array}{*{20}{l}}{a){\\rm{ }}182:1,3;}\\\\{b){\\rm{ }}18,2:13.}\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biến đổi các phép tính đã cho để xuất hiện phép tính \\(182:13\\)\nLời giải chi tiết\na)\n\\(\\begin{array}{l}182:1,3 = 182:\\frac{{13}}{{10}}\\\\ = 182.\\frac{10}{13}= \\frac{{182.10}}{{13}} = 14.10 = 140 \\end{array}\\)\nb)\n\\(\\begin{array}{l}18,2:13{\\rm{ }} = \\left( {182:10} \\right):13\\\\ = \\left( {182:13} \\right):10\\\\ = 14:10\\\\ = 1,4\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một căn phòng có dạng hình hộp chữ nhật với chiều dài 4,2 m, chiều rộng 3,5 m và chiều cao 3,2 m. Người ta muốn sơn lại trần nhà và bốn bức tường bên trong phòng.\nBiết rằng tổng diện tích các cửa là 5,4 m2.\na) Tính diện tích cần sơn lại.\nb) Giá tiền công sơn lại tường và trần nhà đều là 12 000 đồng/m2. Tính tổng số tiền công để sơn lại căn phòng đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Diện tích cần sơn = Diện tích xung quanh + diện tích trần nhà – tổng diện tích các cửa.\nb) Tổng số tiền công để sơn lại căn phòng = Diện tích cần sơn. 12 000 đồng\nLời giải chi tiết\nDiện tích trần nhà và diện tích xung quanh căn phòng là:\n\\(2.\\left( {4,2 + 3,5} \\right).3,2 + 4,2.3,5 = 63,98\\) (m2)\na) Diện tích phần cần sơn là:\n\\(63,98 - 5,4 = 58,58\\) (m2)\nb) Tổng tiền công để sơn lại căn phòng là:\n\\(58,58.12{\\rm{ }}000 = 702\\,\\,\\,960\\)(đồng)"
+    },
+    {
+        "problem": "Một thửa ruộng dạng hình chữ nhật có chiều dài 110 m, chiều rộng 78 m. Người ta cấy lúa trên thửa ruộng đó, cứ 1 ha thu hoạch được 71,5 tạ thóc. Cả thửa ruộng đó thu hoạch được bao nhiêu tạ thóc?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính diện tích thửa ruộng (ha)\n=> Lượng thóc thu hoạch được = Diện tích thửa ruộng . 71,5\nLời giải chi tiết\nDiện tích thửa ruộng là:\\(110.78 = 8580\\) (m2)\nTa có: \\(8580\\;{m^2} = 8580.0,0001 ha = 0,858{\\rm{ }}ha\\)\nCả thửa ruộng đó thu hoạch được số thóc là:\n\\(0,858.71,5 = 61,347\\) (tạ)"
+    },
+    {
+        "problem": "Bác Hà có hai tấm kính hình chữ nhật. Chiều rộng của mỗi tấm kính bằng \\(\\frac{1}{2}\\) chiều dài của nó và chiều dài của tấm kính nhỏ đúng bằng chiều rộng của tấm kính lớn. Bác ghép hai tấm kính sát vào nhau và đặt lên mặt bàn có diện tích 0,9 m2 thì vừa khít. Tính diện tích của mỗi tấm kính.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi chiều rộng của tấm nhỏ là: x (m, x > 0)\nDựa vào đề bài biểu diễn chiều rộng và chiều dài hai tấm kính theo x. Từ đó suy ra diện tích các tấm theo x\nCho tổng diện tích 2 tấm bằng 0,9 \\(m^2\\), tìm x.\n=> Diện tích của mỗi tấm kính.\nLời giải chi tiết\nGọi chiều rộng của tấm nhỏ là: x (m, x > 0). Ta có chiều dài của tấm nhỏ là 2x; chiều rộng của tấm lớn là 2x; chiều dài của tấm lớn là 4x.\nGhép hai tấm kính sát vào nhau và đặt lên mặt bàn có diện tích 0,9 m2 thì vừa khít nên:\n\\(\\begin{array}{l}2{x^2} + 8{x^2} = 0,9\\\\ \\Leftrightarrow 10{x^2} = 0,9\\\\ \\Leftrightarrow {x^2} = 0,09\\\\ \\Leftrightarrow x = 0,3\\,(Do\\,\\,x > 0)\\end{array}\\)\n=> Chiều rộng và chiều dài của tấm nhỏ là: 0,3 (m) và 0,6 (m)\nChiều rộng và chiều dài của tấm lớn là: 0,6 (m) và 1,2 (m)\n=> Diện tích của tấm kính nhỏ là: \\(0,3.0,6 = 0,18\\,\\,\\left( {{m^2}} \\right)\\)\nDiện tích của tấm kính lớn là: \\(0,6.1,2 = 0,72\\,\\,\\left( {{m^2}} \\right)\\)"
+    },
+    {
+        "problem": "Một chiếc bàn ăn có mặt bàn hình tròn đường kính 150 cm. Dùng một khăn vải hình tròn để phủ lên mặt bàn thì thấy khăn rủ xuống khỏi mép bàn dài 20 cm. Tính diện tích phần khăn rủ xuống khỏi mép bàn, lấy \\(\\pi \\) = 3,14.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính diện tích khăn trải bàn\n- Tính diện tích phần mặt bàn\n=> Diện tích phần khăn rủ xuống khỏi mép bàn = Tính diện tích khăn trải bàn - Tính diện tích phần mặt bàn.\nLời giải chi tiết\nMặt bàn hình tròn đường kính 150 cm\n=> Bán kính mặt bàn ăn là: 150 : 2 = 75 (cm)\nĐường kính khăn trải bàn là: 150+20+20 = 190 (cm)\n=> Bán kính khăn trải bàn là: 190:2 = 95 (cm)\nDiện tích khăn trải bàn là: 952 . 3,14 = 28338,5 (cm2)\nDiện tích phần mặt bàn là: 752 . 3,14 = 17662,5 (cm2)\nDiện tích phần khăn rủ xuống khỏi mép bàn là: 28338,5 - 17662,5 = 10 676 (cm2)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bản tin của Tổng cục Du lịch ngày 30/0/2019 nêu như sau:\" Tính chung 9 tháng đầu năm 2019, tổng lượng khách quốc tế đến Việt Nam ước đạt 12,9 triệu lượt khách\". Theo thống kê chi tiết, số lượng khách trong chín tháng đầu năm 2019 là 12 870 506. Tại sao trong bản tin có thể dùng số 12,9 triệu thay thế cho số 12 870 506?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "2 con số xấp xỉ nhau\nLời giải chi tiết\nBản tin có thể dùng số 12,9 triệu thay thế cho số 12 870 506 do 12 870 506 sau khi làm tròn đến chữ số hàng trăm nghìn, ta được số 12 900 000\nLời giải hay"
+    },
+    {
+        "problem": "a) Làm tròn số 321 912 đến hàng chục nghìn.\nb) Làm tròn số - 25 167 914 đến hàng chục triệu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để làm tròn một số nguyên (có nhiều chữ số) đến một hàng nào đó, ta làm như sau:\n- Nếu chữ số đứng ngay bên phải hàng làm tròn nhỏ hơn 5 thì ta thay lần lượt các chữ số đứng bên phải hàng làm tròn bởi chữ số 0.\n- Nếu chữ số đứng ngay bên phải hàng làm tròn lớn hơn hoặc bằng 5 thì ta thay lần lượt các chữ số đứng bên phải hàng làm tròn bởi chữ số 0 rồi cộng thêm 1 vào chữ số của hàng làm tròn.\nLời giải chi tiết\na) Do chữ số hàng nghìn là 1 nên\n\\(321{\\rm{ }}912 \\approx 320\\,\\,000\\)\nb) Do chữ số hàng triệu là 5 nên:\n\\( - 25{\\rm{ }}167{\\rm{ }}914 \\approx  - 30\\,\\,000\\,\\,000\\)\n"
+    },
+    {
+        "problem": "a) Làm tròn số - 23,567 đến hàng phần mười.\nb) Làm tròn số – 25,1649 đến hàng phần trăm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Để làm tròn số thập phân âm, ta làm tròn số thập phân đối của số thập phân âm rồi thêm dấu \"-\" trước kết quả\n*Để làm tròn một số thập phân dương đến một hàng nào đó, ta làm như sau:\n- Nếu chữ số đứng ngay bên phải hàng làm tròn nhỏ hơn 5 thì ta thay lần lượt các chữ số đứng bên phải hàng làm tròn bởi chữ số 0.\n- Nếu chữ số đứng ngay bên phải hàng làm tròn lớn hơn hoặc bằng 5 thì ta thay lần lượt các chữ số đứng bên phải hàng làm tròn bởi chữ số 0 rồi cộng thêm 1 vào chữ số của hàng làm tròn.\nSau đó bỏ đi những chữ số 0 ở tận cùng bên phải phần thập phân.\nLời giải chi tiết\na) Ta có: \\(23,567 \\approx 23,6\\) nên \\( - {\\rm{ }}23,567 \\approx  - 23,6\\)\nb) Ta có: \\(25,1649 \\approx 25,16\\) nên \\(-{\\rm{ }}25,1649 \\approx  - 25,16\\)\n"
+    },
+    {
+        "problem": "Theo https://danso.org/dan-so-the-gioi, vào ngày 11/02/2020, dân số thế giới là 7 762 912 358 người. Sử dụng số thập phân để viết dân số thế giới theo đơn vị tính: tỉ người. Sau đó làm tròn số thập phân đó đến:\na) Hàng thập phân thứ nhất;\nb) Hàng thập phân thứ hai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để làm tròn một số thập phân đến một hàng nào đó, ta làm như sau:\n- Nếu chữ số đứng ngay bên phải hàng làm tròn nhỏ hơn 5 thì ta thay lần lượt các chữ số đứng bên phải hàng làm tròn bởi chữ số 0.\n- Nếu chữ số đứng ngay bên phải hàng làm tròn lớn hơn hoặc bằng 5 thì ta thay lần lượt các chữ số đứng bên phải hàng làm tròn bởi chữ số 0 rồi cộng thêm 1 vào chữ số của hàng làm tròn.\nSau đó bỏ đi những chữ số 0 ở tận cùng bên phải phần thập phân.\nLời giải chi tiết\n\\(7{\\rm{ }}762{\\rm{ }}912{\\rm{ }}358 = 7,762{\\rm{ }}912{\\rm{ }}358\\)(tỉ người)\na) \\(7,762{\\rm{ }}912{\\rm{ }}358 \\approx 7,8\\) tỉ người\nb) \\(7,762{\\rm{ }}912{\\rm{ }}358 \\approx 7,76\\) tỉ người.\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "Một bánh xe hình tròn có đường kính là 700 mm chuyển động trên một đường thẳng từ điểm A đến điểm B sau 875 vòng. Quãng đường AB dài khoảng bao nhiêu ki-lô-mét (làm tròn kết quả đến hàng phần mười và lấy \\(\\pi = 3,14\\))?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính chu vi bánh xe: Chu vi hình tròn = đường kính. 3,14\n=> Quãng đường AB = Chu vi bánh xe . 875\nLời giải chi tiết\nChu vi bánh xe là: 700. 3,14 = 2198 (mm)\nQuãng đường AB dài là:\n2198 . 875 = 1 923 250 (mm) \\( \\approx \\) 1,9 km.\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "Ước lượng kết quả của các tổng sau theo mẫu:\nMẫu: 119 + 52 = 120 + 50 = 170;\n185,91 + 14,1 = 185,9 + 14,1 = 200.\na) 221 + 38;\nb) 6,19 + 3,82;\nc) 11,131 + 9,868;\nd) 31,189 + 27,811.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Làm tròn rồi tính các tổng đã cho.\nLời giải chi tiết\n\\(\\begin{array}{*{20}{l}}{a){\\rm{ }}221 + 38 \\approx 220 + 40 = 260\\;}\\\\{b){\\rm{ }}6,19 + 3,82 \\approx 6,2 + 3,8 = 10}\\\\{c){\\rm{ }}11,131 + 9,868 \\approx 11,1+ 9,9 = 21}\\\\{d){\\rm{ }}31,189 + 27,811 \\approx 31,2 + 27,8 = 59}\\end{array}\\)\n"
+    },
+    {
+        "problem": "Ước lượng kết quả của các tích sau theo mẫu:\nMẫu: 81.49 = 80.50 = 4 000;  8,19.4,95 = 8.5 = 40.\na) 21.39;\nb) 101.95;\nc) 19,87.30,106;\nd) (- 10,11).(-8,92).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Làm tròn và tính các tích theo mẫu.\nLời giải chi tiết\n\\(\\begin{array}{l}a){\\rm{ }}21.39\\; \\approx \\;20.40 = 800\\\\b){\\rm{ }}101.95\\; \\approx \\;100.100 = 10{\\rm{ }}000\\\\c){\\rm{ }}19,87.{\\rm{ }}30,106\\; \\approx \\;20.30 = 600\\\\d){\\rm{ }}\\left( { - {\\rm{ }}10,11} \\right).\\left( { - {\\rm{ }}8,92} \\right)\\; \\approx \\;\\left( { - 10} \\right).\\left( { - 9} \\right) = 90\\end{array}\\)\n"
+    },
+    {
+        "problem": "Số Pi được người Ba-bi-lon(Babylon) cổ đại phát hiện gần bốn nghìn năm trước và được biểu diễn bằng chữ cái Hy Lạp \\(\\pi\\) từ giữa thế kỉ XVIII. Số \\(\\pi\\) thể hiện mối liên hệ đặc biệt giữa độ dài của một đường tròn với độ dài đường kính của đường tròn đó. Mối liên hệ đặc biệt giữa độ dài của một đường tròn với độ dài đường kính của đường tròn đó là gì?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài đường tròn= Chu vi đường tròn= \\(\\pi.d\\), với d là đường kính của đường tròn đó\nLời giải chi tiết\nTỉ lệ giữa độ dài của một đường tròn với độ dài đường kính của đường tròn đó là:\n\\(\\pi.d : d\\)= \\(\\pi\\)\nVậy tỉ lệ độ dài của một đường tròn với độ dài đường kính của đường tròn đó luôn bằng \\(\\pi\\)\nLời giải hay"
+    },
+    {
+        "problem": "a) Viết tỉ số của: -5 và -7; 23,7 và 89,6; 4 và \\(\\frac{3}{7}\\)\nb) Trong các tỉ số đã viết, tỉ số nào là phân số?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số của số a và số b phải được viết theo đúng thứ tự là \\(\\frac{a}{b}\\) hoặc a : b.\nPhân số có dạng \\(\\frac{a}{b}(a,b \\in Z, b \\ne 0\\))\nLời giải chi tiết\na) \\(\\frac{{ - 5}}{{ - 7}}\\);  \\(\\frac{{23,7}}{{89,6}}\\);  \\(4:\\frac{3}{7}\\)\nb) Trong các tỉ số trên có \\(\\frac{-5}{-7}\\) là phân số."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 4: Tính: \n4 giờ 36 phút + 18 phút :3 \nA.\t1 giờ 36 phút\nB.\t1 giờ 38 phút\nC.\t4 giờ 54 phút\nD.\t4 giờ 42 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n(4 giờ 36 phút  + 18 phút) : 3\n= 4 giờ 54 phút : 3\n= 3 giờ 114 phút : 3\n= 1 giờ 38 phút"
+    },
+    {
+        "problem": "Câu 6: Lan gấp hoa từ 8 giờ 12 phút đến 8 giờ 40 phút được 8 bông hoa. Hỏi trung bình Lan gấp 1 bông hoa trong thời gian bao lâu?\nA.\t3,5 phút\nB.\t4,5 phút\nC.\t28 phút\nD.\t40 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lan gấp được 8 bông hoa trong số thời gian là: \n8 giờ 40 phút − 8 giờ 12 phút = 28 phút\nLan gấp được 1 bông hoa trong số thời gian là:  \n28 : 8 = 3,5 (phút)  \nĐáp số: 3,5 phút."
+    },
+    {
+        "problem": "Câu 7: Một người thợ làm xong 5 sản phẩm trong 18 giờ 35 phút. Hỏi người đó làm xong 8 sản phẩm như thế trong bao lâu?\nA.\t21 giờ 43 phút\nB.\t24 giờ 44 phút\nC.\t28 giờ 23 phút\nD.\t29 giờ 44 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian người đó làm xong 1  sản phẩm là:   \n18 giờ 35 phút : 5 = 3 giờ 43 phút\nThời gian người đó làm xong 8 sản phẩm là: \n3 giờ 43 phút × 8 = 24 giờ 344 phút = 29 giờ 44 phút (vì 344 phút = 5 giờ 44 phút)  \nĐáp số: 29 giờ 44 phút."
+    },
+    {
+        "problem": "Câu 9: Máy thứ nhất sản xuất ra 10 dụng cụ trong 1 giờ 20 phút. Máy thứ hai sản xuất ra 12 dụng cụ như thế trong 1,5 giờ. Hỏi máy nào sản xuất 1 dụng cụ nhanh hơn và nhanh hơn bao nhiêu thời gian?\nA.\tMáy thứ nhất; 5 phút\nB.\tMáy thứ nhất; 0,5 phút\nC.\tMáy thứ hai; 5 phút\nD.\tMáy thứ hai; 0,5 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 1 giờ 20 phút = 80 phút; 1, 5 giờ = 90 phút.\nMáy thứ nhất sản xuất 1 dụng cụ trong số phút là:\n80 : 10 = 8 (phút)\nMáy thứ hai sản xuất 1 dụng cụ trong số phút là\n90 : 12 = 7,5 (phút)\nTa có: 8 phút > 7,5 phút nên máy thứ hai sản xuất 1 dụng cụ nhanh hơn và nhanh hơn số thời gian là:\n8 phút − 7,5 phút = 0,5 (phút)\nĐáp số: Máy thứ hai;  0,5 phút."
+    }
+]

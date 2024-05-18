@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "a) Nếu gieo một xúc xắc 11 lần liên tiếp, có 5 lần xuất hiện mặt 2 chấm thì xác suất thực nghiệm xuất hiện mặt 2 chấm bằng bao nhiêu?\nb) Nếu gieo một xúc xắc 14 lần liên tiếp, có 3 lần xuất hiện mặt 6 chấm thì xác suất thực nghiệm xuất hiện mặt 6 chấm bằng bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm xuất hiện mặt X bằng\nSố lần xuất hiện mặt X : Tổng số lần gieo xúc xắc\nLời giải chi tiết\na)  Nếu gieo một xúc xắc 11 lần liên tiếp, có 5 lần xuất hiện mặt 2 chấm thì xác suất thực nghiệm xuất hiện mặt 2 chấm bằng: \\(\\frac{5}{11}\\)\nb) Nếu gieo một xúc xắc 14 lần liên tiếp, có 3 lần xuất hiện mặt 6 chấm thì xác suất thực nghiệm xuất hiện mặt 6 chấm bằng: \\(\\frac{3}{14}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Cuối học kì I, nhà trường khen thưởng mỗi lớp ba học sinh tiêu biểu. Lớp 6A có nhiều bạn vừa học giỏi vừa tích cực tham gia các hoạt động. Cô giáo chủ nhiệm chọn năm bạn xứng đáng nhất để lớp bình chọn. Cô giáo lập phiếu bầu theo mẫu như ở Hình 17. Mỗi học sinh được nhận một phiếu, trên mỗi dòng của phiếu chọn đúng một trong hai ô “Đồng ý” hoặc “Không đồng ý”.\nKết quả bình chọn của cả lớp được cô giáo thống kê lại trong Hình 18\nHãy lập danh sách ba bạn của lớp 6A được khen thưởng.\nSTT\nHọ và tên\nĐồng ý\nKhông đồng ý\n1\nNguyễn Thị An\n\n\n2\nVũ Văn Cường\n\n\n3\nPhạm Thu Hoài\n\n\n4\nBùi Bình Minh\n\n\n5\nNguyễn Văn Nam\n\n\nHình 17\nSTT\nHọ và tên\nĐồng ý\nKhông đồng ý\n1\nNguyễn Thị An\n31\n5\n2\nVũ Văn Cường\n20\n16\n3\nPhạm Thu Hoài\n33\n3\n4\nBùi Bình Minh\n27\n9\n5\nNguyễn Văn Nam\n18\n18\nHình 18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chọn 3 bạn có số phiếu đồng ý nhiều nhất\nLời giải chi tiết\nDanh sách 3 bạn được thưởng của lớp 6A là:\nSTT\nHọ và tên\n1\nPhạm Thu Hoài\n2\nNguyễn Thị An\n3\nBùi Bình Minh\nLời giải hay"
+    },
+    {
+        "problem": "Một câu lạc bộ có 24 thành viên. Người phụ trách thống kê những thành viên có mặt tại câu lạc bộ trong một tuần như ở bảng bên\na) Hãy nêu đối tượng thống kê và tiêu chí thống kê.\nb) Ngày nào có mặt đầy đủ tất cả các thành viên của câu lạc bộ?\nc) Tính tổng số lượt người vắng mặt tại câu lạc bộ trong tuần.\nThứ\nSố thành viên có mặt\n2\nllll   llll   llll   lll\n3\nllll   llll   llll   llll\n4\nllll   llll   llll   llll  llll\n5\nllll   llll   llll   llll  lll\n6\nllll   llll   llll   llll  l\nllll  : 5 người   l : 1 người",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số thành viên có mặt\nTổng số lượt vắng mặt = tổng số lượt vắng mặt ở các ngày\nLời giải chi tiết\na) Đối tượng thống kê là 24 thành viên của câu lạc bộ\nTiêu chí thống kê là những thành viên có mặt tại câu lạc bộ trong một tuần\nb) Thứ tư, tất cả các thành viên có mặt đầy đủ\nc)\nVậy tổng số người vắng trong tuần là: 6 + 4 + 0 + 1 + 3 = 14 (người)"
+    },
+    {
+        "problem": "Tung một đồng xu 15 lần liên tiếp. Hãy ghi kết quả thống kê theo mẫu sau:\nLần tung\nKết quả tung\nSố lần xuất hiện mặt N\nSố lần xuất hiện mặt S\n1\n?\n\n?\n\n?\n...\n?\nTính xác suất thực nghiệm:\na) Xuất hiện mặt N;                                       b) Xuất hiện mặt S.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm xuất hiện mặt N bằng\nSố lần xuất hiện mặt N : Tổng số lần tung đồng xu\n*Xác suất thực nghiệm xuất hiện mặt S bằng\nSố lần xuất hiện mặt S : Tổng số lần tung đồng xu\nLời giải chi tiết\nLần tung\nKết quả tung\nSố lần xuất hiện mặt N\nSố lần xuất hiện mặt S\n1\nN\n8\n7\n2\nS\n3\nN\n4\nN\n5\nS\n6\nS\n7\nN\n8\nS\n9\nN\n10\nN\n11\nS\n12\nS\n13\nN\n14\nN\n15\nS\na)Xác suất thực nghiệm xuất hiện mặt N là: \\(\\dfrac{8}{15}\\)\nb) Xác suất thực nghiệm xuất hiện mặt S là: \\(\\dfrac{7}{15}\\)"
+    },
+    {
+        "problem": "Gieo một xúc xắc 10 lần liên tiếp. Hãy ghi kết quả thống kê theo mẫu sau:\nLần gieo\nKết quả gieo\nTổng số lần xuất hiện\nMặt 1 chấm\nMặt 2 chấm\nMặt 3 chấm\nMặt 4 chấm\nMặt 5 chấm\nMặt 6 chấm\n1\n?\n?\n?\n?\n?\n?\n?\n...\n?\nTính xác suất thực nghiệm:\na) Xuất hiện mặt 1 chấm;                        b) Xuất hiện mặt 2 chấm;\nc) Xuất hiện mặt 3 chấm;                        d) Xuất hiện mặt 4 chấm;\ne) Xuất hiện mặt 5 chấm;                        g) Xuất hiện mặt 6 chấm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm xuất hiện mặt X bằng\nSố lần xuất hiện mặt X : Tổng số lần gieo xúc xắc\nLời giải chi tiết\na)   Xác suất thực nghiệm xuất hiện mặt 1 chấm là:\nSố lần xuất hiện mặt 1 chấm : 10\nb)  Xác suất thực nghiệm xuất hiện mặt 2 chấm là: Số lần xuất hiện mặt 2 chấm : 10\nc) Xác suất thực nghiệm xuất hiện mặt 3 chấm là Số lần xuất hiện mặt 3 chấm : 10\nd)  Xác suất thực nghiệm xuất hiện mặt 4 chấm là: Số lần xuất hiện mặt 4 chấm : 10\ne) Xác suất thực nghiệm xuất hiện mặt 5 chấm là: Số lần xuất hiện mặt 5 chấm : 10\ng)  Xác suất thực nghiệm xuất hiện mặt 6 chấm là: Số lần xuất hiện mặt 6 chấm : 10\nLời giải hay"
+    }
+]

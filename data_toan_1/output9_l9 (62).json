@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Viết mỗi phân số dưới đây thành phân số bằng nó có mẫu số dương:\n\\(\\frac{1}{{ - 2}}\\); \\(\\frac{{ - 3}}{{ - 5}}\\); \\(\\frac{2}{{ - 7}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhân hoặc chia cả tử và mẫu của các phân số đã cho cho \\(( - 1)\\).\nLời giải chi tiết\nTa có: \\(\\frac{1}{{ - 2}} = \\frac{{1.( - 1)}}{{ - 2.( - 1)}} = \\frac{{ - 1}}{2}\\)\n\\(\\frac{{ - 3}}{{ - 5}} = \\frac{{ - 3.( - 1)}}{{ - 5.( - 1)}} = \\frac{3}{5}\\)\n\\(\\frac{2}{{ - 7}} = \\frac{{2.( - 1)}}{{ - 7.( - 1)}} = \\frac{{ - 2}}{7}\\)."
+    },
+    {
+        "problem": "Dùng phân số có mẫu số dương nhỏ nhất để biểu thị xem số phút sau đây chiếm bao nhiêu phần của một giờ?\na) 15 phút;    b) 20 phút;    c) 45 phút;   d) 50 phút.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số cần tìm = Số phút : 60\nSau đó rút gọn phân số trên.\nLời giải chi tiết\na) \\(\\frac{{15}}{{60}} = \\frac{{15:15}}{{60:15}} = \\frac{1}{4}\\)\nVậy 15 phút chiếm \\(\\frac{1}{4}\\) giờ.\nb) \\(\\frac{{20}}{{60}} = \\frac{{20:20}}{{60:20}} = \\frac{1}{3}\\)\nVậy 20 phút chiếm \\(\\frac{1}{3}\\) giờ\nc) \\(\\frac{{45}}{{60}} = \\frac{{45:15}}{{60:15}} = \\frac{3}{4}\\)\nVậy 45 phút chiếm \\(\\frac{3}{4}\\) giờ.\nd) \\(\\frac{{50}}{{60}} = \\frac{{50:10}}{{60:10}} = \\frac{5}{6}\\)\nVậy 50 phút chiếm \\(\\frac{5}{6}\\) giờ.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng phân số để viết mỗi khối lượng sau theo tạ, theo tấn.\na) 20 kg;   b) 55 kg;   c) 87 kg    d) 91 kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1 tạ = 100 kg,  1 tấn = 1000 kg.\nLời giải chi tiết\na) Ta có: \\(\\frac{{20}}{{100}} = \\frac{1}{5}\\) nên \\(20kg = \\frac{1}{5}\\) tạ\n\\(\\frac{{20}}{{1000}} = \\frac{1}{{50}}\\) nên 20 kg = \\(\\frac{1}{{50}}\\) tấn\nb) Ta có:\n\\(\\frac{{55}}{{100}} = \\frac{{55:5}}{{100:5}} = \\frac{{11}}{{20}}\\)\nnên \\(55kg = \\frac{{11}}{{20}}\\) tạ\n\\(\\frac{{55}}{{1000}} = \\frac{{11}}{{200}}\\) nên 55kg = \\(\\frac{{11}}{{200}}\\) tấn\nc) Ta có:\n87 kg = \\(\\frac{{87}}{{100}}\\) tạ\n87kg = \\(\\frac{{87}}{{1000}}\\) tấn\nd) Ta có:\n91kg = \\(\\frac{{91}}{{100}}\\) tạ\n91kg = \\(\\frac{{91}}{{1000}}\\) tấn\nLoigiaihay.com"
+    },
+    {
+        "problem": "Do dịch bệnh Covid-19, trung bình mỗi tháng trong 3 tháng đầu năm 2019, công ti A đạt lợi nhuận \\(\\frac{{ - 5}}{3}\\)  tỉ đồng, công ti B đạt lợi nhuận \\(\\frac{{ - 2}}{3}\\) tỉ đồng. Công ti nào đạt lợi nhuận ít hơn?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh hai phân số biểu thị lợi nhuận của hai công ty và kết luận.\nLời giải chi tiết\nDo \\(\\frac{{ - 5}}{3} < \\frac{{ - 2}}{3}\\) nên công ty A đạt lợi nhuận ít hơn công ty B."
+    },
+    {
+        "problem": "So sánh \\(\\frac{{ - 4}}{{ - 5}}\\) và \\(\\frac{2}{{ - 5}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh hai phân số đã cho với 0 từ đó so sánh hai phân số.\nLời giải chi tiết\nCách 1:\nTa có: \\(\\frac{{ - 4}}{{ - 5}} = \\frac{4}{5}\\)  và \\(\\frac{2}{{ - 5}} = \\frac{{ - 2}}{5}\\)\nDo \\(4 >  - 2\\) nên \\(\\frac{4}{5} > \\frac{{ - 2}}{5}\\)\nCách 2:\nTa có: \\(\\frac{{ - 4}}{{ - 5}} = \\frac{4}{5} > 0\\) và \\(\\frac{2}{{ - 5}} < 0\\)\nSuy ra \\( \\frac{{ - 4}}{{ - 5}} > \\frac{2}{{ - 5}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đưa hai phân số \\(\\frac{{ - 4}}{{ - 15}}\\) và \\(\\frac{{ - 2}}{{ - 9}}\\) về dạng hai phân số có mẫu dương rồi quy đồng mẫu của chúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Đưa hai phân số về dạng hai phân số có mẫu dương rồi quy đồng mẫu của chúng.\n- Với hai phân số có cùng một mẫu dương: Phân số nào có tử nhỏ hơn thì phân số đó nhỏ hơn, phân số nào có tử lớn hơn thì phân số đó lớn hơn.\nLời giải chi tiết\nTa có:\n\\(\\frac{{ - 4}}{{ - 15}} = \\frac{4}{{15}} = \\frac{{4.3}}{{15.3}} = \\frac{{12}}{{45}}\\)\n\n\\(\\frac{{ - 2}}{{ - 9}} = \\frac{2}{9} = \\frac{{2.5}}{{9.5}} = \\frac{{10}}{{45}}\\).\nDo \\(\\frac{{12}}{{45}} > \\frac{{10}}{{45}}\\) nên \\(\\frac{{ - 4}}{{ - 15}} > \\frac{{ - 2}}{{ - 9}}\\)"
+    },
+    {
+        "problem": "So sánh \\(\\frac{{ - 7}}{{18}}\\) và \\(\\frac{5}{{ - 12}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để so sánh hai phân số có mẫu khác nhau, ta viết hai phân số đó ở dạng hai phân số có cùng một mẫu dương rồi so sánh hai phân số mới nhận được.\nLời giải chi tiết\nTa có:\n\\(\\frac{{ - 7}}{{18}} = \\frac{{ - 7.2}}{{18.2}} = \\frac{{ - 14}}{{36}}\\)\n\\(\\frac{5}{{ - 12}} = \\frac{{ - 5}}{{12}} = \\frac{{ - 5.3}}{{12.3}} = \\frac{{ - 15}}{{36}}\\)\nVì \\(\\frac{{ - 14}}{{36}} > \\frac{{ - 15}}{{36}}\\) nên \\(\\frac{{ - 7}}{{18}} > \\frac{5}{{ - 12}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết số nguyên dưới dạng phân số rồi so sánh.\na) \\(\\frac{{31}}{{15}}\\) và 2;    b) \\( - 3\\) và \\(\\frac{7}{{ - 2}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết số nguyên dưới dạng phân số rồi quy đồng mẫu số hai phân số và so sánh.\nLời giải chi tiết\na) Ta có: \\(2 = \\frac{2}{1} = \\frac{{2.15}}{{1.15}} = \\frac{{30}}{{15}} < \\frac{{31}}{{15}}\\).\nSuy ra \\(\\frac{{31}}{{15}} > 2\\).\nb) Ta có: \\( - 3 = \\frac{{ - 3}}{1} = \\frac{{ - 3.2}}{{1.2}} = \\frac{{ - 6}}{2}\\)\nvà \\(\\frac{7}{{ - 2}} = \\frac{{ - 7}}{2}\\)\nDo \\(\\frac{{ - 6}}{2} > \\frac{{ - 7}}{2}\\) nên \\( - 3 > \\frac{7}{{ - 2}}\\)."
+    },
+    {
+        "problem": "Thực hiện quy đồng mẫu số ba phân số \\(\\frac{{ - 2}}{5};\\frac{{ - 3}}{8};\\frac{3}{{ - 4}}\\)  rồi sắp xếp các phân số đó theo thứ tự tăng dần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa các phân số về mẫu dương rồi quy đồng, so sánh và sắp xếp.\nLời giải chi tiết\nTa có:\n\\(\\frac{{ - 2}}{5} = \\frac{{ - 2.8}}{{5.8}} = \\frac{{ - 16}}{{40}}\\)\n\\(\\frac{{ - 3}}{8} = \\frac{{ - 3.5}}{{8.5}} = \\frac{{ - 15}}{{40}}\\)\n\\(\\frac{3}{{ - 4}} = \\frac{{ - 3}}{4} = \\frac{{ - 3.10}}{{4.10}} = \\frac{{ - 30}}{{40}}\\)\nDo -30 < -16 < -15 nên \\(\\frac{{ - 30}}{{40}} < \\frac{{ - 16}}{{40}} < \\frac{{ - 15}}{{40}}\\). Do đó \\(\\frac{3}{{ - 4}} < \\frac{{ - 2}}{5} < \\frac{{ - 3}}{8}\\)."
+    },
+    {
+        "problem": "So sánh:\na) \\(\\frac{{ - 21}}{{10}}\\) và 0;\nb) \\(0\\) và \\(\\frac{{ - 5}}{{ - 2}}\\)\nc) \\(\\frac{{ - 21}}{{10}}\\) và \\(\\frac{{ - 5}}{{ - 2}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số âm luôn nhỏ hơn 0, các số dương luôn lớn hơn 0.\nLời giải chi tiết\na) \\(\\frac{{ - 21}}{{10}}\\) < 0\nb) \\(\\frac{{ - 5}}{{ - 2}} = \\frac{5}{2} > 0\\). Vậy \\(\\frac{{ - 5}}{{ - 2}} > 0\\).\nc) \\(\\frac{{ - 5}}{{ - 2}} = \\frac{5}{2} > 0\\), mà \\(\\frac{{ - 21}}{{10}} < 0\\)\nVậy \\(\\frac{{ - 5}}{{ - 2}} > \\frac{{ - 21}}{{10}}\\)."
+    },
+    {
+        "problem": "Bạn Nam rất thích ăn sô cô la. Mẹ Nam có một thanh sô cô la, mẹ cho Nam chọn \\(\\frac{1}{2}\\) hoặc \\(\\frac{2}{3}\\) thanh sô cô la đó Theo em bạn Nam sẽ chọn phần nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh hai phần từ đó suy ra phần bạn Nam sẽ chọn.\nLời giải chi tiết\nTa có: \\(\\frac{1}{2} = \\frac{{1.3}}{{2.3}} = \\frac{3}{6}\\)\n\\(\\frac{2}{3} = \\frac{{2.2}}{{3.2}} = \\frac{4}{6}\\)\nDo \\(\\frac{3}{6} < \\frac{4}{6}\\) nên \\(\\frac{1}{2} < \\frac{2}{3}\\).\nVậy bạn Nam sẽ chọn phần \\(\\frac{2}{3}\\) thanh Sô cô la.\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh hai phân số.\na) \\(\\frac{{ - 3}}{8}\\) và \\(\\frac{{ - 5}}{{24}}\\)      b) \\(\\frac{{ - 2}}{{ - 5}}\\) và \\(\\frac{3}{{ - 5}}\\)\nc) \\(\\frac{{ - 3}}{{ - 10}}\\) và \\(\\frac{{ - 7}}{{20}}\\)    c) \\(\\frac{{ - 5}}{4}\\) và \\(\\frac{{23}}{{ - 20}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Đưa các phân số về mẫu dương rồi quy đồng mẫu số các phân số hoặc so sánh với 0.\nLời giải chi tiết\na) \\(\\frac{{ - 3}}{8} = \\frac{{ - 3.3}}{{8.3}} = \\frac{{ - 9}}{{24}}\\)\nVì -9 < -5 nên \\(\\frac{{ - 9}}{{24}} < \\frac{{ - 5}}{{24}}\\)\nVậy \\(\\frac{{ - 3}}{8} < \\frac{{ - 5}}{{24}}\\).\nb) Cách 1: \\(\\frac{{ - 2}}{{ - 5}} = \\frac{2}{5}; \\frac{3}{{ - 5}} = \\frac{-3}{{5}}\\)\nVì 2 > -3 nên \\(\\frac{2}{5} > \\frac{-3}{{5}}\\)\nVậy \\(\\frac{{ - 2}}{{ - 5}} > \\frac{3}{{ - 5}}\\).\nCách 2: \\(\\frac{{ - 2}}{{ - 5}} = \\frac{2}{5} > 0\\) mà \\(\\frac{3}{{ - 5}} < 0\\)\n\\(\\Rightarrow\\) \\(\\frac{{ - 2}}{{ - 5}} > \\frac{3}{{ - 5}}\\).\nc) \\(\\frac{{ - 3}}{{ - 10}} = \\frac{3}{{10}} = \\frac{{3.2}}{{10.2}} = \\frac{6}{{20}}\\)\n\\(\\frac{{ - 7}}{{ - 20}} = \\frac{7}{{20}}\\)\nVì 6 < 7 nên \\(\\frac{6}{{20}} < \\frac{7}{{20}}\\) nên \\(\\frac{{ - 3}}{{ - 10}} < \\frac{{ - 7}}{{ - 20}}\\).\nd) \\(\\frac{{ - 5}}{4} = \\frac{{ - 5.5}}{{4.5}} = \\frac{{ - 25}}{{20}}; \\frac{{ 23}}{{-20}}=\\frac{{-23}}{{20}} \\)\nVì -25 < -23 nên \\( \\frac{{ - 25}}{{20}} < \\frac{{-23}}{{20}} \\)\nVậy \\(\\frac{{ - 5}}{4} < \\frac{{23}}{{ - 20}}\\)."
+    },
+    {
+        "problem": "Tổ 1 gồm 8 bạn có tổng chiều cao là 115 dm. Tổ 2 gồm 10 bạn có tổng chiều cao là 138 dm. Hỏi chiều cao trung bình của các bạn ở tổ nào lớn hơn?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính chiều cao trung bình của các bạn ở mỗi tổ = Tổng chiều cao : số bạn\nSo sánh 2 chiều cao trung bình của 2 tổ\nLời giải chi tiết\nTổ 1 có chiều cao trung bình là:  \\(\\frac{115}{8}\\) (dm)\nTổ 2 có chiều cao trung bình là:\\(\\frac{138}{10}\\) (dm)= \\(\\frac{69}{5}\\) (dm)\nTa có: \\(\\frac{115}{8} = \\frac{115.5}{8.5}=\\frac{575}{40}\\)\n\\(\\frac{69}{5} = \\frac{69.8}{5.8}=\\frac{552}{40}\\)\nVì 575 > 552 nên \\(\\frac{575}{40} > \\frac{552}{40}\\) hay \\(\\frac{115}{8}\\) > \\(\\frac{138}{10}\\)\nVậy chiều cao trung bình của các bạn ở tổ 1 là lớn hơn."
+    },
+    {
+        "problem": "a) So sánh \\(\\frac{{ - 11}}{5}\\) với \\(\\frac{{ - 7}}{4}\\)  bằng cách viết –2 ở dạng phân số có mẫu số thích hợp.\nTừ đó suy ra kết quả so sánh \\(\\frac{{ - 11}}{5}\\) với \\(\\frac{{ - 7}}{4}\\).\nb) So sánh \\(\\frac{{2020}}{{ - 2021}}\\) với \\(\\frac{{ - 2022}}{{2021}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Nếu \\(\\frac{a}{b} < \\frac{c}{d}\\) và \\(\\frac{c}{d} < \\frac{m}{n}\\) thì \\(\\frac{a}{b} < \\frac{m}{n}\\).\nb) Đưa hai phân số đã cho về cùng mẫu dương rồi so sánh tử số của chúng. Tử số của phân số nào lớn hơn thì phân số đó lớn hơn\nLời giải chi tiết\na) Ta có: \\( - 2 = \\frac{{ - 2}}{1} = \\frac{{ - 40}}{{20}}\\)\n\\(\\frac{{ - 11}}{5} = \\frac{{ - 44}}{{20}} < \\frac{{ - 40}}{{20}}\\) nên \\(\\frac{{ - 11}}{5} < -2\\).\n\\(\\frac{{ - 7}}{4} = \\frac{{ - 7.5}}{{4.5}} = \\frac{{ - 35}}{{20}} > \\frac{{ - 40}}{{20}}\\) nên \\(\\frac{{ - 7}}{4} > -2\\)\nVậy \\(\\frac{{ - 11}}{5} < \\frac{{ - 7}}{4}\\).\nb) Ta có: \\(\\frac{{2020}}{{ - 2021}} = \\frac{{ - 2020}}{{2021}} > \\frac{{ - 2022}}{{2021}}\\)\nVậy \\(\\frac{{2020}}{{ - 2021}} > \\frac{{ - 2022}}{{2021}}\\)"
+    },
+    {
+        "problem": "Sắp xếp các số \\(2;\\,\\frac{5}{{ - 6}}; \\frac{3}{5};\\, - 1;\\,\\frac{{ - 2}}{5};\\,0\\) theo thứ tự tăng dần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quy đồng mẫu số và so sánh các số âm từ đó sắp xếp các số đã cho theo thứ tự tăng dần.\nLời giải chi tiết\nTa có: \\(\\frac{5}{{ - 6}} = \\frac{{ - 5}}{6} = \\frac{{ - 5.5}}{{6.5}} = \\frac{{ - 25}}{{30}}\\)\n\\(\\frac{{ - 2}}{5} = \\frac{{ - 2.6}}{{5.6}} = \\frac{{ - 12}}{{30}}\\)\n\\( - 1 = \\frac{{ - 30}}{{30}}\\)\nDo \\(\\frac{{ - 30}}{{30}} < \\frac{{ - 25}}{{30}} < \\frac{{ - 12}}{{30}}<0\\) nên \\( - 1 < \\frac{5}{{ - 6}} < \\frac{{ - 2}}{5}<0\\)\nMặt khác, \\(0 < \\frac{3}{5} < 2\\)\nSắp xếp theo thứ tự tăng dần:\n\\( - 1;\\,\\frac{5}{{ - 6}};\\frac{{ - 2}}{5};\\,0; \\frac{3}{5}; \\,2\\)."
+    },
+    {
+        "problem": "Năm người chung nhau làm kinh doanh, mỗi người đóng góp như nhau. Tháng đầu họ lỗ 2 triệu đồng, tháng thứ hai họ lãi 3 triệu đồng.\na) Em hãy dùng phân số chỉ số tiền thu được của mỗi người trong tháng đầu và tháng thứ hai.\nb) Gọi \\(\\dfrac{-2}{5}\\) là số chỉ số tiền thu được (triệu đồng) của mỗi người trong tháng đầu, và \\(\\dfrac{3}{5}\\) là số chỉ số tiền thu được (triệu đồng) của mỗi người trong tháng thứ hai, thì số tiền thu được của mỗi người trong hai tháng được biểu thị bằng phép toán nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền lỗ được biểu thị bằng số âm.\nSố tiền lãi được biểu thị bằng số dương.\nLời giải chi tiết\na) Tháng đầu mỗi người thu được: \\(\\dfrac{{ - 2}}{5}\\), tháng thứ hai thu được \\(\\dfrac{3}{5}\\).\nb) Số tiền thu được của mỗi người trong hai tháng được biểu thị: \\(\\dfrac{{ - 2}}{5} + \\dfrac{3}{5}\\)."
+    },
+    {
+        "problem": "Tính: a) \\(\\frac{4}{{ - 3}} + \\frac{{ - 22}}{5}\\)\nb) \\(\\frac{{ - 5}}{{ - 6}} + \\frac{7}{{ - 8}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai phân số có mẫu khác nhau, ta quy đồng mẫu số của chúng, sau đó cộng hai phân số có cùng mẫu.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\frac{4}{{ - 3}} + \\frac{{ - 22}}{5} =\\frac{-4}{{3}} + \\frac{{ - 22}}{5}= \\frac{{-4.5}}{{3.5}} + \\frac{{ - 22.3}}{{5.3}}\\\\ = \\frac{{-20}}{{15}} + \\frac{{-66}}{{15}} = \\frac{{ - 86}}{{  15}}\\end{array}\\)\nb)\n\\(\\begin{array}{l}\\frac{{ - 5}}{{ - 6}} + \\frac{7}{{ - 8}} = \\frac{{5}}{{6}} + \\frac{-7}{{8}}= \\frac{{5.4}}{{6.4}} + \\frac{{-7.3}}{{8.3}}\\\\ = \\frac{{20}}{{24}} + \\frac{{-21}}{{24}} = \\frac{-1}{{24}}\\end{array}\\)."
+    }
+]

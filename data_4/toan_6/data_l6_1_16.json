@@ -1,0 +1,344 @@
+[
+    {
+        "problem": "A. −210\nB. 210\nC. −47\nD. 37",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nÁp dụng quy tắc nhân hai số nguyên cùng dấu ta có:\n (−42).(−5) = 42.5 = 210\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Chọn câu sai.\nA. (−5).25 = −125 \nB. 6.(−15) = −90\nC. 125.(−20) = −250\nD. 225.(−18) = −4050",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: (−5).25 = −125 nên A đúng.\nĐáp án B: 66.(−15) = −90 nên B đúng.\nĐáp án C: 125.(−20) = −2500 ≠ −250 nên CC sai.\nĐáp án D: 225.(−18) = −4050 nên D đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Chọn câu đúng.\nA. (−20).(−5) = −100\nB. (−50).(−12) = 600\nC. (−18).25 = −400 \nD. 11.(−11) = −1111",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: (−20).(−5) = 100 nên A sai.\nĐáp án B: (−50).(−12) = 600 nên B đúng.\nĐáp án C: (−18).25 = −450 ≠ −400 nên C sai.\nĐáp án D: 11.(−11) = −121 ≠ −1111 nên D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. Tích (−3).(−3).(−3).(−3).(−3).(−3).(−3) bằng\nA. 38 \nB. −37 \nC. 37\nD. (−3)8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n(−3).(−3).(−3).(−3).(−3).(−3).(−3)\n= (−3)7\n= −37\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Tính nhanh (−5).125.(−8).20.(−2) ta được kết quả là\nA. −200000\nB. −2000000\nC. 200000\nD. −100000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(−5).125.(−8).20.(−2)\n= [125.(−8)].[(−5).20].(−2)\n= −(125.8).[−(5.20)].(−2)\n= (−1000).(−100).(−2)\n= 100000.(−2)\n= −200000\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Chọn câu đúng.\nA. (−23).(−16)> 23.(−16)\nB. (−23).(−16) = 23.(−16) \nC. (−23).(−16) < 23.(−16) \nD. (−23).16> 23.(−6)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \n(−23).(−16) > 23.(−16) đúng vì VT > 0, VP < 0\nĐáp án B: \n(−23).(−16) = 23.(−16) sai vì VT > 0, VP < 0 nên VT ≠ VP\nĐáp án C: \n(−23).(−16) < 23.(−16) sai vì VT > 0, VP < 0 nên VT > VP\nĐáp án D:\n(−23).16 > 23.(−6) sai vì: (−23).16 = −368 và 23.(−6) = −138\n mà −368 < −138 nên (−23).16 < 23.(−6)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Tính hợp lý A = −43.18 − 82.43 − 43.100\nA. 0\nB. −86000\nC. −8600 \nD. −4300",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = −43.18 − 82.43 − 43.100\nA = 43.(−18 – 82 − 100)\nA = 43.[−(18 + 82 + 100)]\nA = 43.(−200)\nA = −8600\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Cho Q = −135.17 − 121.17 − 256.(−17), chọn câu đúng.\nA. −17\nB. 0\nC. 1700\nD. −1700",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nQ = −135.17 − 121.17 − 256.(−17)\nQ = −135.17 − 121.17 + 256.17\nQ = 17.(−135 – 121 + 256)\nQ = 17.(−256 + 256)\nQ = 17.0\nQ = 0\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Cho (−4).(x − 3) = 20. Tìm x:\nA. 8\nB. −5\nC. −2 \nD. Một kết quả khác",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì (−4).(−5) = 4.5= 20 nên để (−4).(x−3) = 20 thì x – 3 = −5\nKhi đó ta có:\nx −3 = −5\nx = −5 + 3\nx = −2\nVậy x = −2.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Tìm x∈Z biết (1 − 3x)^{3 }  = −8.\nA. x = 1\nB. x = −1\nC. x = −2\nD. Không có x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(1−3x)^{3 } = −8\n(1−3x)^{3 } = (−2)^{3} \n1 − 3x = −2\n3x = 1 − (−2)\n3x = 3\nx = 3:3\nx =1\nVậy x = 1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Công ty Ánh Dương có lợi nhuận ở mỗi tháng trong Quý I là – 30 triệu đồng. Trong Quý II, lợi nhuận mỗi tháng của công ty là 70 triệu đồng. Sau 6 tháng đầu năm, lợi nhuận của công ty Ánh Dương là?\nA. 120 triệu\nB. −120 triệu\nC. 300 triệu\nD. 40 triệu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n* Lợi nhuận Quý I là (−30).3 = −90 triệu đồng.\n* Lợi nhuận Quý II là 70.3 = 210 triệu đồng.\nSau 6 tháng đầu năm, lợi nhuận của công ty Ánh Dương là: \n(−90) + 210 = 120 triệu đồng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12.\n+) Tích ba số nguyên âm là một số nguyên ..(1)..\n+) Tích hai số nguyên âm với một số nguyên dương là một số nguyên …(2)…\nTừ thích hợp để điền vào hai chỗ chấm trên lần lượt là:\nA. âm, âm\nB. dương, âm\nC. âm, dương\nD. dương, dương",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTích ba số nguyên âm là một số nguyên âm.\nTích hai số nguyên âm với một số nguyên dương là một số nguyên dương\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13. Khẳng định nào sau đây đúng:\nA. (−2).(−3).4.(−5) > 0\nB. (−2).(−3).4.(−5) < 0\nC. (−2).(−3).4.(−5) = 120\nD. (−2).(−3).4.(−5) = 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−2).(−3).4.(−5)\n= (−2).(−5).(−3).4\n= 10.(−12)\n= −120 < 0\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2.Phép chia hết bội và ước của một số nguyên\nCâu 1. Các bội của 6là:\nA. −6; 6; 0; 23; −23\nB. 132; −132; 16\nC. −1; 1; 6; −6\nD. 0; 6; −6; 12; −12;...",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBội của 6 là số 0 và những số nguyên có dạng 6k( k ∈ Z∗)\nCác bội của 6 là: 0; 6; −6; 12; −12;...\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Tập hợp tất cả các bội của 7 có giá trị tuyệt đối nhỏ hơn 50 là:\nA. {0; ±7; ±14; ±21; ±28; ±35; ±42; ±49} \nB. {±7; ±14; ±21; ±28; ±35; ±42; ±49}\nC. {0; 7; 14; 21; 28; 35; 42; 49}\nD. {0; 7; 14; 21; 28; 35; 42; 49; −7; −14; −21; −28; −35; −42; −49; −56;...}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBội của 7 gồm số 0 và các số nguyên có dạng 7k, k∈Z∗\nKhi đó các bội nguyên dương của 7 mà nhỏ hơn 50 là:\n7; 14; 21; 28; 35; 42; 49\nVậy tập hợp các bội của 7 có giá trị tuyệt đối nhỏ hơn 50 là:\n{0; ±7; ±14; ±21; ±28; ±35; ±42; ±49} \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Cho a, b∈Z và b ≠ 0. Nếu có số nguyên q sao cho a = bqthì\nA. a là ước của b\nB. b là ước của a\nC. a là bội của b\nD. Cả B, C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVới a, b∈Z và b ≠ 0. Nếu có số nguyên qq sao cho a = bqthì aa là bội của b và b là ước của a.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Tìm x, biết: 12⋮xvà x < −2\nA. {−1}\nB. {−3; −4; −6; −12}\nC. {−2; −1} \nD. {−2; −1; 1; 2; 3; 4; 6; 12}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTập hợp ước của 12 là: A = {±1; ±2; ±3; ±4; ±6; ±12}\nVì x < −2 nên x∈{−3; −4; −6; −12}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Tìm xbiết: 25.x = −225\nA. x = −25 \nB. x = 5\nC. x = −9\nD. x = 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n25.x = −225\nx = −225:25\nx = −9\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6\nTìm số nguyên x thỏa mãn (−9)^{2} .x = 150 + 12.13x\nA. x = 2\nB. x = −2\nC. x = 75 \nD. x = −75",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(−9)^{2} .x = 150 + 12.13x\n81x = 150 + 156x\n81x − 156x = 150\n−75x = 150\nx = 150:(−75)\nx = −2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Nhiệt độ đầu tuần tại một trạm nghiên cứu ở Nam Cực là C−25^{0} C. Sau 7 ngày nhiệt độ tại đây là −39^{0} C. Hỏi trung bình mỗi ngày nhiệt độ thay đổi bao nhiêu độ C?\nA. giảm 2^{0} C\nB. tăng 2^{0} C\nC. giảm 14^{0} C\nD. tăng 14^{0} C",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNhiệt độ thay đổi trong 7 ngày là (−39) − (−25) = −14\nNhiệt độ thay đổi trung bình mỗi ngày là −14:7 = −2\nVậy trung bình mỗi ngày nhiệt độ giảm 2^{0} C\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Trong các phát biểu sau đây, phát biểu nào đúng?\nA. −24 chia hết cho 5\nB. 36 không chia hết cho −12\nC. −18 chia hết cho −6\nD. −26 không chia hết cho −13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: −18 = (−6).3 nên −18 chia hết cho −6 => C đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Phát biểu nào sau đây đúng?\nA. Ước của một số nguyên âm là các số nguyên âm\nB. Ước của một số nguyên dương là một số nguyên dương.\nC. Nếu a là bội của bb thì −a cũng là bội của bb.\nD. Nếu b là ước của a thì −b là bội của aa.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nƯớc của một số nguyên âm bao gồm cả số nguyên âm và nguyên dương => A, B sai\nNếu b là ước của a thì −b cũng là ước của a => D sai\nNếu a là bội của bb thì −a cũng là bội của b => C đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Số các ước nguyên của số nguyên tố p là:\nA. 1\nB. 2\nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố nguyên tố pp có các ước là: −1; 1; p; −p\nVậy số nguyên tố pp có 44 ước nguyên.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11. Các số nguyên x thỏa mãn: −8 chia hết cho x là:\nA. −1; −2; −4; −8\nB. 1; −1; 2; −2; 4; −4\nC. 1; 2; 4; 8\nD. 1; −1; 2; −2; 4; −4; 8; −8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−8 chia hết cho x => x là các ước của −8.\nSuy ra x∈{1; −1; 2; −2; 4; −4; 8; −8}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Dạng 3.Các dạng toán về phép nhân và phép chia hai số nguyên\nB.11. Các dạng toán về phép nhân và phép chia hai số nguyên\nCâu 1. Kết quả của phép tính (−125).8 là:\nA. 1000\nB. −1000\nC. −100\nD. −10000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−125).8 = −(125.8) = −1000\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Khi x = −12 , giá trị của biểu thức (x − 8).(x + 7) là số nào trong bốn số sau:\nA. −100\nB. 100\nC. −96\nD. −196",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = −12 vào biểu thức (x − 8).(x + 7), ta được:\n(−12 − 8).(−12 + 7)\n= (−20).(−5)\n= 20.5\n= 100\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Giá trị biểu thức M = (−192873).(−2345).(−4)^{5} .0là\nA. −192873\nB. 1\nC. 0\nD. (−192873).(−2345).(−4)^{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì trong tích có một thừa số bằng 0 nên M = 0\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Tính giá trị biểu thức P = (−13)^{2} .(−9) ta có\nA. 117\nB. −117 \nC. 1521\nD. −1521",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nP = (−13)^{2} .(−9) = 169.(−9) = −1521\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Tính giá trị biểu thức P = (x − 3).3 − 20.xkhi x=5.\nA. −94\nB. 100\nC. −96 \nD. −104",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = 5 vào P ta được:\nP = (5 − 3).3 − 20.5\n= 2.3 – 100\n= 6 – 100\n= −94\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Có bao nhiêu giá trị x nguyên dương thỏa mãn (x − 3).(x + 2) = 0 là:\nA. 3\nB. 2\nC. 0\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (x − 3).(x + 2) = 0\nTH1:\nx – 3 = 0\nx = 0 + 3\nx = 3(TM)\nTH2:\nx + 2 = 0\nx = 0 – 2\nx = −2(L)\nVậy có duy nhất 1 giá trị nguyên dương của xx thỏa mãn là x = 3\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Cho B = (−8).25.(−3)^{2}  và C = (−30).(−2)^{3} .(5^{3} ) . Chọn câu đúng.\nA. 3.B = 50.C\nB. B.50 = C.(−3)\nC. B.60 = −C\nD. C = −B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nB = (−8).25.(−3)^{2} \n= −200.9\n= −1800\nC = (−30).(−2)^{3} .(5^{3} )\n= (−30).(−8).125\n= (−30).(−1000)\n= 30000\nKhi đó:\n B.50 = −1800.50 = −90000;\nC.(−3) = 30000.(−3) = −90000\nVậy B.50 = C.(−3)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Tìm x biết 2(x − 5) − 3(x − 7) = −2.\nA. x = 13\nB. x = 5\nC. x = 7 \nD. x = 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n2(x − 5) − 3(x − 7) = −2\n2x – 10 − 3.x + 3.7 = −2\n2x – 10 − 3x + 21 = −2\n(2x − 3x) + (21 − 10) = −2\n(2 − 3)x + 11 = −2\n−x + 11 = −2\n−x = −2 − 11\n−x = −13\nx = 13\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Có bao nhiêu giá trị x thỏa mãn (x − 6)(x^{2 } + 2) = 0?\nA. 0\nB. 2\nC. 3 \nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (x − 6)(x^{2 } + 2) = 0\nVì x^{2 } ≥ 0 với mọi x nên x^{2 } + 2 ≥ 0 + 2 = 2 hay x^{2 } + 2 > 0 với mọi x\nSuy ra:\n x – 6 = 0\nx = 0 + 6\nx = 6\nVậy chỉ có 1 giá trị của x thỏa mãn là x = 6\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Cho A = (135 − 35).(−47) + 53.(−48 − 52) và B = 25.(75 − 49) + 75.|25 − 49|.\nChọn câu đúng.\nA. A và B đối nhau\nB. A và B bằng nhau\nC. A và B cùng dấu \nD. A và B trái dấu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = (135 − 35).(−47) + 53.(−48 − 52)\n= 100.(−47) + 53.(−100)\n= (−100).47 + 53.(−100)\n= (−100).(47 + 53)\n= (−100).100\n= −10000\nVì 25 − 49 < 0 nên |25−49| = −(25 − 49) = 49 − 25\nB = 25.(75 − 49) + 75.|25 − 49|\n= 25.(75 − 49) + 75.(49 − 25)\n= 25.75 − 25.49 + 75.49 − 75.25\n= (25.75 − 75.25) + (−25.49 + 75.49)\n= 0 + 49.(−25 + 75)\n= 49.50\n= 2450\nDo đó A và B là hai số nguyên trái dấu.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11. Số cặp số nguyên (x; y) thỏa mãn x.y = −28 là:\nA. 3\nB. 6 \nC. 8\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì −28 = −1.28 = 1.(−28) = −2.14 = 2.(−14) = −4.7 = 4.(−7)\nNên ta có các bộ (x; y) thỏa mãn bài toán là:\n(−1;28),(28;−1), (1;−28),(−28;1), (−2;14),(14;−2), (2;−14),(−14;2), (−4;7),(7;−4),(4;−7),(−7;4).\nCó tất cả 12 bộ số (x;y) thỏa mãn bài toán.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12. Giá trị nhỏ nhất của biểu thức 3(x + 1)2 + 7 là\nA. 0 \nB. 7\nC. 10\nD. −7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n(x + 1)2 ≥ 0 với mọi x\n⇒ 3.(x + 1)2 ≥ 0 với mọi x\n⇒ 3(x + 1)2 + 7 ≥ 0 + 7\n⇒ 3(x + 1)2 + 7 ≥ 7\nVậy GTNN của biểu thức là 7 đạt được khi x = −1.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 13. Tính giá trị của biểu thức: A = ax – ay + bx − by biết a + b = −5; x – y = −2\nA. 7\nB. 10\nC. −7\nD. −3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = ax – ay + bx − by\n= (ax − ay) + (bx − by)\n= a.(x − y) + b.(x − y)\n= (a + b).(x − y)\nThay a + b = −5; x – y = −2ta được:\nA = (−5).(−2) = 10\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 14. Tìm x∈Z biết (x + 1) + (x + 2) +...+ (x + 99) + (x + 100) = 0\nA. 90,6\nB. Không có x thỏa mãn.\nC. 50,5 \nD. −50,5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (x + 1) + (x + 2) +...+ (x + 99) + (x + 100) = 0\n(x + x +....+ x) + (1 + 2 +...+ 100) = 0\n100x + (100 + 1).100:2 = 0\n100x + 5050 = 0\n100x = −5050\nx = −50,5\nMà x∈Z nên không có x thỏa mãn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15. Có bao nhiêu cặp số x; y∈Z thỏa mãn xy + 3x − 7y = 23?\nA. 1\nB. 2\nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nxy + 3x − 7y – 23 = 0\nxy + 3x − 7y – 21 − 2= 0\nx(y + 3) − 7(y + 3) = 2\n(x − 7)(y + 3) = 2\nTa có các trường hợp:\nVậy các cặp số (x, y) là {(8; −1); (9; −2); (6; −5); (−5; −4)}Vậy có 4 cặp số thỏa mãn bài toán.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 16. Giá trị biểu thức: 15x − 23 với x = −1 là:\nA. −8\nB. 8\nC. 38\nD. −38",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = −1 vào biểu thức ta được:\n15.(−1)−23 = (−15)−23 = (−15)+(−23) = −38\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 17. Công ty Ánh Dương có lợi nhuận ở mỗi tháng trong Quý I là – 30 triệu đồng. Trong Quý II, lợi nhuận mỗi tháng của công ty là 70 triệu đồng. Sau 6 tháng đầu năm, lợi nhuận của công ty Ánh Dương là?\nA. 120 triệu\nB. −120 triệu\nC. 300 triệu\nD. 40 triệu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n* Lợi nhuận Quý I là (−30).3 = −90 triệu đồng.\n* Lợi nhuận Quý II là 70.3 = 210 triệu đồng.\nSau 6 tháng đầu năm, lợi nhuận của công ty Ánh Dương là:\n(−90)+210=120 triệu đồng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 18. Giá trị nào dưới đây của xx thỏa mãn −6(x + 7) = 96?\nA. x = 95 \nB. x = −16\nC. x = −23\nD. x = 96",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−6(x + 7) = 96\nx + 7= 96:(−6)\nx + 7= −16\nx = −16 − 7\nx = −23\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 19. Có bao nhiêu cặp số (x; y) nguyên biết: (x − 1)(y + 1) = 3?\nA. 1\nB. 3\nC. 2\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 3 = 1.3 = 3.1 = (−1).(−3) = (−3).(−1)\nTa có bảng:\nVậy có 4 cặp số (x; y) thỏa mãn là:\n (2;2), (4;0), (0;−4), (−2;−2)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 20. Bạn Hồng đang ngồi trên máy bay, bạn ấy thấy màn hình thông báo nhiệt độ bên ngoài máy bay là −28^{0} C. Máy bay đang hạ cánh, nhiệt độ bên ngoài trung bình mỗi phút tăng lên 4^{0} C. Hỏi sau 10 phút nữa nhiệt độ bên ngoài máy bay là bao nhiêu độ C?\nA. 24^{0} C\nB. 12^{0} C\nC. – 24^{0} C\nD. 12^{0} C",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNhiệt độ bên ngoài sau 10 phút là:\n −28 + 10.4 = −28 + 40 = 12^{0} C\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Dạng 4.Các dạng toán về phép nhân và phép chia hết hai số nguyên (tiếp)\nCâu 1. Chọn câu sai.\nA. (−19).(−7) > 0\nB. 3.(−121) < 0\nC. 45.(−11) < −500\nD. 46.(−11) < −500",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: (−19).(−7) > 0đúng vì tích hai số nguyên cùng dấu là một số nguyên dương.\nĐáp án B: 3.(−121) < 0 đúng vì tích hai số nguyên khác dấu là một số nguyên âm.\nĐáp án C: 45.(−11) = −495 > −500 nên C sai.\nĐáp án D: 46.(−11) = −506 < −500 nên D đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Có bao nhiêu số nguyên x thỏa mãn (x − 7)(x + 5) < 0?\nA. 4\nB. 11\nC. 5\nD. Không tồn tại x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(x − 7)(x + 5) < 0 nên x − 7 và x + 5 khác dấu.\nMà x + 5 > x − 7 nên x + 5 > 0 và x – 7 < 0\nSuy ra x > −5 và x < 7\nDo đó x∈{−4,−3,−2,−1,0,1,2,3,4,5,6}\nVậy có 11 giá trị nguyên của x thỏa mãn bài toán.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Tập hợp các ước của −8 là:\nA. A = {1; −1; 2; −2; 4; −4; 8; −8}\nB. A = {0; ±1; ±2; ±4; ±8}\nC. A = {1; 2; 4; 8}\nD. A = {0; 1; 2; 4; 8}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: −8 = −1.8 = 1.(−8) = −2.4 = 2.(−4)\nTập hợp các ước của −8 là: A = {1; −1; 2; −2; 4; −4; 8; −8}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Có bao nhiêu ước của −24.\nA. 9\nB. 17\nC. 8\nD. 16",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCó 8 ước tự nhiên của 24 là: 1; 2; 3; 4; 6; 8; 12; 24\nCó 8 ước nguyên âm của 24 là: −1; −2; −3; −4; −6; −8; −12; −24\nVậy có 8.2 = 16 ước của 24 nên cũng có 16 ước của −24.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Giá trị lớn nhất của a thỏa mãn a + 4 là ước của 9 là:\nA. a = 5\nB. a = 13\nC. a = −13\nD. a = 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \na + 4 là ước của 9⇒ (a + 4)∈U(9) = {±1; ±3; ±9}Ta có bảng giá trị như sau:\nVậy giá trị lớn nhất của aa là a = 5\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Cho x∈Z và (−154 + x)⋮3 thì:\nA. xchia 3 dư 1  \nB. x⋮3 \nC. x chia 3 dư 2  \nD. không kết luận được tính chia hết cho 3 của x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n(−154 + x)⋮3\n(−154 + x)⋮3\n(−153 – 1 + x)⋮3\n(−153 – 1 + x)⋮3\nSuy ra (x − 1)⋮3 (do −153⋮3)\nDo đó x – 1 = 3k ⇒ x = 3k + 1\nVậy x chia cho 3 dư 1.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Tìm n∈Z, biết: (n + 5)⋮(n + 1)\nA. n∈{±1; ±2; ±4} \nB. n∈{−5; −3; −2; 0; 1; 3}\nC. n∈{0; 1; 3} \nD. n∈{±1; ±5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (n + 5)⋮(n + 1) ⇒ (n + 1) + 4⋮(n + 1)\nVì n+1⋮n+1 và n∈Z nên để n+5⋮n+1 thì 4⋮n+1\nHay n+1∈U(4) = {±1;±2;±4}\nTa có bảng:\nVậy n∈{−5;−3;−2;0;1;3}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Tìm x, biết: x⋮6 và 24⋮x\nA. x∈{±6; ±24}\nB. x∈{±6; ±12; ±24} \nC. x∈{±6; ±12} \nD. {±6; ±12; ±8; ±24}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\nA = B(6) = {0; ±6; ±12; ±18; ±24;...}\nB = Ư(24) = {±1; ±2; ±3; ±4; ±6; ±8; ±12; ±24}\nVậy x∈A∩B = {±6; ±12; ±24}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Cho a và b là hai số nguyên khác 0. Biết a⋮b và b⋮a. Khi đó\nA. a = b \nB. a = −b\nC. a = 2b \nD. Cả A, B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\na⋮b ⇒ a = b.q1(q1∈Z)\nb⋮a ⇒ b = a.q2(q2∈Z)\nSuy ra a = b.q1 = (a.q2).q1 = a. (q1q2)\nVì a ≠ 0 nên a=a(q1q2) ⇒ 1 = q1q2\nMà q1,q2∈Z\n nên q1 = q2 = 1 hoặc q1 = q2 = −1\nDo đó a = b hoặc a = −b\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11. Gọi A là tập hợp các giá trị n∈Z để (n2 − 7) là bội của (n + 3). Tổng các phần tử của A bằng:\nA. −12 \nB. −10\nC. 0 \nD. −8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:n^{2 } – 7 = n^{2 } + 3n − 3n – 9 + 2\n= n(n + 3) − 3(n + 3) + 2\n= (n − 3)(n + 3) + 2\nVì n∈Z nên để n^{2 } − 7 là bội của n + 3 thì 2 là bội của n + 3 hay n + 3 là ước của 2\nƯ(2) = {±1; ±2} nên n +3∈{±1; ±2}\nTa có bảng:\nVậy n∈A = {−5; −4; −2; −1}\nDo đó tổng các phần tử của A là (−5) + (−4) + (−2) + (−1) = −12\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12. Cho x; y∈Z.Nếu 5x + 46y chia hết cho 16thì x + 6y chia hết cho\nA. 6 \nB. 46\nC. 16 \nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n5x + 46y= 5x + 30y + 16y = (5x + 30y) + 16y = 5(x + 6y) + 16y\nVì 5x + 46y chia hết cho 16và 16y chia hết cho 1616 nên suy ra 5(x + 6y) chia hết cho 16.\nMà 5không chia hết cho 16 nên suy ra x+6y chia hết cho 16\nVậy nếu 5x + 46y chia hết cho 16 thì x + 6y cũng chia hết cho 16.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13. Có bao nhiêu số nguyên nn thỏa mãn (n − 1) là bội của (n + 5) và (n + 5) là bội của (n − 1)? \nA. 0\nB. 2\nC. 1\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì (n−1) là bội của (n+5) và (n+5) là bội của n−1,\nNên n−1 khác 0 và n+5 khác 0\nNên n+5, n−1 là hai số đối nhau\nDo đó:\n (n + 5) + (n − 1) = 0\n2n + 5 – 1 = 0\n2n + 4 = 0\n2n = −4\nn = −2\nVậy có 1 số nguyên n thỏa mãn bài toán.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 14. Trong các phát biểu sau đây, phát biểu nào đúng?\nA. −24 chia hết cho 5\nB. 36 không chia hết cho −12\nC. −18 chia hết cho −6\nD. −26 không chia hết cho −13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: −18 = (−6).3 nên −18 chia hết cho −6 => C đúng\nĐáp án cần chọn là: C"
+    }
+]

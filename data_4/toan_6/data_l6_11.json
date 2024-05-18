@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Câu 1. Cho tập Ư(8) = {1; 2; 4; 8} và Ư(20) = {1; 2; 4; 5; 10; 20}. Tập hợp ƯC(8; 20) là:\nA. ƯC(8; 20) = {1; 2; 4}.\nB. ƯC(8;20) = {1; 2}.\nC. ƯC(8; 20) = {1;4}.\nD. ƯC(8; 20) = {2;4}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác phần tử chung của tập Ư(8) và Ư(20) là: 1; 2; 4.\nDo đó ƯC(8; 20) = {1;2;4}.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Chọn phát biểu đúng.\nA. Ước chung của hai hay nhiều số chỉ có thể là số 1.\nB. Ước chung lớn nhất của hai hay nhiều số là ước lớn nhất của số lớn nhất trong các số đó.\nC. Ước chung lớn nhất của hai hay nhiều số là số lớn nhất trong tập hợp các ước chung cuả các số đó.\nD. Cả A, B, C đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nƯớc chung của hai hay nhiều số là ước của tất cả các số đó, không nhất thiết là chỉ có số 1. Do đó A sai.\nƯớc chung lớn nhất của hai hay nhiều số là số lớn nhất trong tập hợp các ước chung cuả các số đó. Do đó B sai, C đúng, D sai.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Sắp xếp các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1 là:\n1 – Chọn ra các thừa số nguyên tố chung.\n2 – Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\n3 – Phân tích mỗi số ra thừa số nguyên tố.\nA. 1 – 3 – 2;\nB. 1 – 2 – 3;\nC. 3 – 2 – 1;\nD. 3 – 1 – 2;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác bước tìm ƯCLN của hai hay nhiều số lớn hơn 1 là: \n3 – Phân tích mỗi số ra thừa số nguyên tố.\n1 – Chọn ra các thừa số nguyên tố chung.\n2 – Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\nThứ tự đúng là: 3 – 1 – 2.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Tìm ƯCLN(90; 10)\nA. ƯCLN(90; 10) = 10; \nB. ƯCLN(90; 10) = 5; \nC. ƯCLN(90; 10) = 90;\nD. ƯCLN(90;10) = 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì 90 = 9.10 nên 90 chia hết cho 10. Do đó ƯCLN(90; 10) = 10.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 6. Cho tập ƯC(24; 28) = {1; 2; 4}. Vậy ƯCLN(24; 28) là: \nA. 1;\nB. 2;\nC. 4;\nD.24.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTập ƯC(24; 28) = {1; 2; 4}.\nMà 4 là số lớn nhất trong tập này nên ƯCLN(24, 28) = 4.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Tìm ƯCLN(72, 63, 1):\nA. 63;\nB. 72;\nC. 9;\nD. 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có ƯCLN(a, b, 1) = 1 với a, b là các số tự nhiên.\nVậy ƯCLN(72, 63, 1) = 1.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 8. Muốn tìm tập hợp ước chung chung của hai hay nhiều số tự nhiên, ta thực hiện:\nA. Tìm ƯCLN của các số đó. Khi đó tập hợp ước chung của các số đó chính là tập hợp ước của ƯCLN.\nB. Viết tập hợp các ước của các số đó ra. Tìm trong số đó các phần tử chung. Tập các phần tử đó chính là tập hợp ước chung của các số đó.\nC. Cả A và B đều sai.\nD. Cả A và B đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nMuốn tìm tập hợp ước chung chung của hai hay nhiều số tự nhiên, ta có hai cách để tìm như sau:\nCách 1. \n- Tìm ƯCLN của các số đó.\n- Tìm các ước của ƯCLN đó.\n- Kết luận tập hợp ƯC là tập các ước của ƯCLN.\nCách 2. \n- Liệt kê tập hợp ước của các số.\n- Tìm các phần tử chung của các tập hợp đó.\n- Tập hợp ƯC là tập các phần tử chung đó.\nVậy cả A và B đều đúng. \nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Nếu 9 là số lớn nhất sao cho a ⋮ 9 và a ⋮ 9 thì 9 là ………… của a và b. Chọn câu trả lời đúng nhất. \nA. ước;\nB. ước chung;\nC. ước chung lớn nhất;\nD. bội.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nNếu 9 là số lớn nhất sao cho a ⋮ 9 và b ⋮ 9 thì 9 là ước chung lớn nhất của a và b. \nĐáp án: C"
+    },
+    {
+        "problem": "Câu 10. Nếu a ⋮ 7 và a ⋮ 7 thì 7 là ……………… của a và b.\nA. ước\nB. ước chung;\nC. ước chung lớn nhất;\nD. bội.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nNếu a ⋮ 7 và b ⋮ 7 thì 7 là ước chung của a và b.\nĐáp án: B"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Tìm ƯCLN(36, 84)\nA. 2;\nD. 4;\nC. 3;\nD. 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 36 = 2^{2} .3^{2} ; 84 = 2^{2} .3.7.\nTích các nhân tử chung với số mũ nhỏ nhất là: 2^{2} .3.\n ƯCLN(36, 84) = 2^{2} .3 = 12.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Biết ƯCLN(75, 105) = 15. Hãy tìm ƯC(15, 105).\nA. ƯC(15, 105) = Ư(15) = {1; 3; 5}.\nB. ƯC(15, 105) = Ư(15) = {1; 5; 15}.\nC. ƯC(15, 105) = Ư(15) = {1; 3; 5;15}.\nD. ƯC(15, 105) = Ư(15) = {1; 15}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nLần lượt chia 15 cho các số tự nhiên từ 1 đến 15 ta thấy 15 chia hết cho các số 1; 3; 5 và 15.\nSuy ra Ư(15) = {1; 3; 5;15}.\nTa có: ƯC(15, 105) = Ư(15) = {1; 3; 5; 15}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Tìm ƯCLN(56, 140, 168).\nA. 56;\nB. 28;\nC. 7;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 56 = 2^{3} .7; 140 = 2^{2} .5.7; 168 = 2^{3} .3.7.\nTích các thừa số chung với số mũ nhỏ nhất là: 2^{2} .7.\nVậy ƯCLN(56, 140, 168) = 2^{2} .7 = 28.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 7. Phát biểu nào dưới đây là sai:\nA. ƯCLN(35, 21) = 7.\nB. ƯCLN(72, 90) = 18.\nC. Cả A và B đều đúng.\nD. Cả A và B đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n+) Ta có 35 = 5.7, 21 = 3.7 \nNên ƯCLN(35, 21) = 7. Do đó A đúng.\n+) Ta có 72 = 2^{3} .3^{2} ; 90 = 2.3^{2} .5.\nƯCLN(72, 90) = 2.3^{2}  = 18. Do đó B đúng.\nSuy ra C đúng.\nVậy D sai.\nĐáp án: D"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Tuấn và Hà mỗi người mua một số hộp bút chì màu, trong mỗi hộp đều có từ hai chiếc bút trở lên và số bút trong mỗi hộp là như nhau. Tính ra Tuấn mua 25 bút, Hà mua 20 bút. Hỏi mỗi hộp bút chì màu có bao nhiêu chiếc.\nA. 1;\nB. 20;\nC. 25;\nD. 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố bút chì trong mỗi hộp là như nhau nên số bút trong mỗi hộp chính là ước chung của 25 và 20.\nTa có 25 = 5^{2} ; 20 = 2^{2} .5\nKhi đó ƯCLN(25, 20) = 5.\nƯC(25, 20) = Ư(5) = {1;5}.\nMà mỗi hộp đều có từ hai chiếc bút trở lên nên số bút trong mỗi hộp là 5.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2. Tìm tất cả các số tự nhiên khác 0, không vượt quá 60 sao cho ƯCLN của hai số đó là 17. \nA. 17; 34 và 51.\nB. 17; 34 và 41.\nC. 17 và 51.\nD. 17 và 34.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số tự nhiên có ƯCLN là 17 nên các số đó là bội của 17.\nMuốn tìm bội của 17, ta nhân lần lượt 17 với các số tự nhiên 0; 1; 2; 3; 4; 5; 6; …\nB(17) = {0; 17; 34; 51; 68; …}.\nMà các số tự nhiên cần tìm khác 0 và không vượt quá 60 nên các số đó là: 17; 34 và 51.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Một số bằng tổng các ước của nó (không kể chính nó) gọi là số hoàn hảo. Chẳng hạn, các ước của 6 (không kể chính nó) là 1; 2; 3 ta có 1 + 2 + 3 = 6. Vậy 6 là số hoàn hảo. Hãy chỉ ra trong các số 10; 28; 49 số nào là số hoàn hảo.\nA. 10;\nB. 28;\nC. 49;\nD. 10; 28 và 49.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n+) Lấy 10 chia cho các số tự nhiên từ 1 đến 10 ta thấy 10 chia hết cho 1; 2; 5; 10.\nCác ước của 10 không kể chính nó là: 1; 2 và 5.\nTa có: 1 + 2 + 5 = 8 (khác 10).\nVậy 10 không phải là số hoàn hảo.\n+) Lấy 28 chia cho các số tự nhiên từ 1 đến 28 ta thấy 28 chia hết cho 1; 2; 4; 7; 14; 28.\nCác ước của 28 không kể chính nó là: 1; 2; 4; 7; 14.\nTa có: 1 + 2 + 4 + 7 + 14  = 28.\nVậy 28 là số hoàn hảo.\n+) Lấy 49 chia cho các số tự nhiên từ 1 đến 49 ta thấy 49 chia hết cho 1; 7; 49.\nCác ước của 49 không kể chính nó là: 1; 7.\nTa có 1 + 7 = 8 (khác 49) \nVậy 49 không phải số hoàn hảo.\nĐáp án: B"
+    }
+]

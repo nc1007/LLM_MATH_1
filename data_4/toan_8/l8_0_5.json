@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Bài 1: Chọn câu sai\nA. Phương trình bậc nhất một ẩn có dạng ax + b = 0, a ≠ 0\nB. Phương tình có một nghiệm duy nhất được gọi là phương trình bậc nhất một ẩn\nC. Trong một phương trình ta có thể nhân cả 2 vế với cùng một số khác 0\nD. Phương trình 3x + 2 = x + 8 và 6x + 4 = 2x + 16 là hai phương trình tương đương",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nCác câu A, C, D đúng\nCâu B sai vì phương trình có 1 nghiệm duy nhất còn có thể là phương trình chứa ẩn ở mẫu, phương trình tích\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 2: Hãy chọn câu đúng.\nA. Phương trình x = 0 và x(x + 1) là hai phương trình tương đương\nB. Phương trình x = 2 và |x| = 2 là hai phương trình tương đương\nC. kx + 5 = 0 là phương trình bậc nhất một ẩn số\nD. Trong một phương trình ta có thể chuyển một hạng tử vế này sang vế kia đồng thời đổi dấu của hạng tử đó",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nA, B sai vì chúng đều không có cùng tập nghiệm\nC sai vì thiếu điều kiện k ≠ 0\nD đúng với quy tắc chuyển vế\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 5: Phương trình 2x + k = x – 1 nhận x = 2 là nghiệm khi\nA. k = 3\nB. k = -3\nC. k = 0\nD. k = 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThay x = 2 vào phương trình ta được: 2.2 + k = 2 – 1 ⇒ k = -3\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 8: Hãy chọn bước giải đúng đầu tiên cho phương trình \nA. ĐKXĐ: x ≠ 0; x ≠ 1\nB. (x – 1)(3x + 3) = x(3x + 2)\nC. 3x^{2}  – 3 = 3x^{2}  + 2x\nD. ⇔ 2x = -3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐKXĐ: x ≠ 0; x ≠ 1\nDo đó bước giải đúng đầu tiên cho phương trình là ĐKXĐ: x ≠ 0; x ≠ 1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 14: Hai biểu thức P = (x – 1)(x + 1) + x^{2} ; Q = 2x(x – 1) có giá trị bằng nhau khi:\nA. x = 0\nB. x = 1\nC. x = 0,5\nD. x = -1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐể P = Q thì: (x – 1)(x + 1) + x^{2}  = 2x(x – 1)\n⇔ x^{2}  – 1 + x^{2}  = 2x^{2}  – 2x\n⇔ x^{2}  + x^{2}  – 2x^{2}  + 2x = 1\n⇔ 2x = 1\n⇔ x = 0,5\nVậy với x = 0,5 thì P = Q\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 15: Giải phương trình: 2x(x – 5) + 21 = x(2x + 1) -12 ta được nghiệm x0. Chọn câu đúng\nA. x0 = 4\nB. x0 < 4\nC. x0 > 4\nD. x0 > 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n2x(x – 5) + 21 = x(2x + 1) -12\n⇔ 2x^{2}  – 10x + 21 = 2x^{2}  + x – 12\n⇔ 2x^{2}  – 10x – 2x^{2}  – x = -12 – 21\n⇔ -11x = -33\n⇔ x = 3\nVậy phương trình có tập nghiệm là S = {3} hay x0 3 < 4\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 19: Một hình chữ nhật có chu vi 372m nếu tăng chiều dài 21m và tăng chiều rộng 10m thì diện tích tăng 2862m^{2} . Chiều dài của hình chữ nhất là:\nA. 72m\nB. 144m\nC. 228m\nD. 114m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNửa chu vi hình chữ nhật là: 372 : 2 = 186 (m)\nGọi chiều dài hình chữ nhật là x (m), (0 < x < 186).\n⇒ Chiều rộng hình chữ nhật là: 186 – x (m)\nDiện tích hình chữ nhật là: x(186 – x) = 186x – x^{2}  (m^{2} )\nTăng chiều dài lên 21m thì chiều dài mới là: x + 21 (m)\nTăng chiều rộng lên 10m thì chiều rộng mới là: 186 – x + 10 = 196 – x (m)\nDiện tích hình chữ nhật mới là: (x + 21)(196 – x) = 175x – x^{2}  + 4116 (m^{2} )\nTheo đề bài ta có phương trình: 186x – x^{2}  + 2862 = 175x – x^{2}  + 4116\n⇔ 11x = 1254 ⇔ x = 114 (tm)\nVậy chiều dài hình chữ nhật là 114m\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 21: Mộ xe du lịch khởi hành từ A để đến B. Nửa giờ sau, một xe tải xuất phát từ B để về A. Xe tải đi được 1 giờ thì gặp xe du lịch. Tính vận tốc của mỗi xe, biết rằng xe du lịch có vận tốc lớn hơn xe tải là 10km/h và quãng đường AB dài 90km.\nA. Vận tốc xe du lịch là 40 (km/h), vận tốc xe tải là 30 (km/h)\nB. Vận tốc xe du lịch là 30 (km/h), vận tốc xe tải là 40 (km/h)\nC. Vận tốc xe du lịch là 40 (km/h), vận tốc xe tải là 50 (km/h)\nD. Vận tốc xe du lịch là 50 (km/h), vận tốc xe tải là 40 (km/h)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi vận tốc của xe tải là x, đơn vị km/h, điều kiện: x > 0\nKhi đó ta có:\nVận tốc xe du lịch là x + 10 (km/h)\nThời gian xe du lịch đi từ A đến lúc gặp xe tải là: 0,5 + 1 = 1,5 (h)\nQuãng đường xe du lịch và xe tải đi được đến lúc gặp nhau lần lượt là: (x + 10).1,5 (km) và x.1 (km)\nVì hai xe đi ngược chiều nên quãng đường AB và tổng quãng đường mà hai xe đi được. Ta có phương trình: (x + 10).1,5 + x.1 = 90\n⇔ 2,5x = 75 ⇔ x = 30 (tm)\nVậy vận tốc của xe du lịch và xe tải lần lượt là 40 (km/h) và 30 (km/h)\nĐáp án cần chọn là: A"
+    }
+]

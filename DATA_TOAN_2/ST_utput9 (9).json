@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Tìm ƯCLN và BCNN của:a) \\(3.5^2 và 5^2.7\\)b) \\(2^2.3.5; 3^2.7\\) và \\(3.5.11\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số đã ở dạng tích các thừa số nguyên tố.\n* Tìm ƯCLN:\nTa chọn ra các thừa số nguyên tố chung, lập tích các thừa số vừa chọn, mỗi thừa số lấy với số mũ nhỏ nhất.\n* Tìm BCNN:\nTa chọn ra các thừa số chung và riêng, lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất.\nLời giải chi tiết\na) \\(3.5^2 \\) và \\(5^2.7\\)\n+) Thừa số nguyên tố chung là 5 và thừa số nguyên tố riêng là 3 và 7\n+) Số mũ nhỏ nhất của 5 là 2 nên ƯCLN cần tìm là \\(5^2 = 25\\)\n+) Số mũ lớn nhất của 3 là 1, của 5 là 2, của 7 là 1 nên BCNN cần tìm là \\(3.5^2.7=525\\)\nVậy ƯCLN cần tìm là 25; BCNN cần tìm là 525.\nb) \\(2^2.3.5; 3^2.7\\) và \\(3.5.11\\)\n+) Thừa số nguyên tố chung là 3 và thừa số nguyên tố riêng là 2; 5; 7; 11\n+) Số mũ nhỏ nhất của 3 là 1 nên ƯCLN cần tìm là 3\n+) Số mũ lớn nhất của 2 là 2, của 3 là 2, của 5 là 1, của 7 là 1, của 11 là 1 nên BCNN cần tìm là \\(2^2. 3^2. 5. 7.11=13 860\\)\nVậy ƯCLN cần tìm là 3; BCNN cần tìm là 13 860."
+    },
+    {
+        "problem": "Các phân số sau đã tối giản chưa? Nếu chưa, hãy rút gọn về phân số tối giản\na) \\(\\frac{15}{17}\\)\nb) \\(\\frac{70}{105}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số tối giản là phân số có ước chung lớn nhất của tử số và mẫu số là 1\nLời giải chi tiết\na) \\(\\frac{15}{17}\\)\nVì ƯCLN(15, 17)=1 nên phân số \\(\\frac{15}{17}\\) đã tối giản\nb) \\(\\frac{70}{105}\\)\nTa có: 70 = 2.5.7;    105= 3.5.7\n+ Thừa số nguyên tố chung là 5 và 7\n+ Số mũ nhỏ nhất của 5 là 1, số mũ nhỏ nhất của 7 là 1 nên \\(ƯCLN(70, 105) = 35 \\ne 1\\) nên phân số chưa tối giản.\n\\(\\frac{70}{105}=\\frac{70:35}{105:35}=\\frac{2}{3}\\)\nƯCLN(2, 3)=1 nên \\(\\frac{70}{105}\\) đã rút gọn về \\(\\frac{2}{3}\\) tối giản"
+    },
+    {
+        "problem": "Hai vận động viên chạy xung quanh một sân vận động. Hai vận động viên xuất phát tại cùng một thời điểm, cùng vị trí và chạy cùng chiều. Vận động viên thứ nhất chạy một vòng sân hết 360 giây, vận động viên thứ hai chạy một vòng sân mất 420 giây. Hỏi sau bao nhiêu phút họ lại gặp nhau, biết tốc độ di chuyển của họ không đổi?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Các bước tìm BCNN:\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\nĐổi 360 giây = 6 phút, 420 giây = 7 phút\nGiả sử họ lại gặp nhau sau x (phút)( x > 0)\nVận động viên thứ nhất chạy một vòng sân hết 6 phút nên x là bội của 6.\nVận động viên thứ hai chạy một vòng sân hết 7 phút nên x là bội của 7.\nNên x ∈ BC(6, 7).\nMà x ít nhất nên x = BCNN(6, 7).\nTa có: 6 = 2.3; 7 = 7\nx = BCNN(6, 7) = 2.3.7 = 42\nVậy sau 42 phút họ lại gặp nhau."
+    },
+    {
+        "problem": "Quy đồng mẫu các phân số sau:\na) \\(\\frac{4}{9}\\)và \\(\\frac{7}{15}\\);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mẫu số chung là BCNN của các mẫu số của các phân số\nLời giải chi tiết\na) \\(\\frac{4}{9}\\)và \\(\\frac{7}{15}\\)\nTa có: \\(9 = 3^2 ; 15 = 3.5\\) nên \\(BCNN (9,15) = 3^2. 5 = 45\\). Do đó ta có thể chọn mẫu chung là 45.\n\\(\\frac{4}{9}=\\frac{4.5}{9.5}=\\frac{20}{45}\\)\n\\(\\frac{7}{15}=\\frac{7.3}{15.3}=\\frac{21}{45}\\)\nb) \\(\\frac{5}{12}; \\frac{7}{15}\\) và \\(\\frac{4}{27}\\)\nTa có: \\(12=2^2.3\\);   \\(15 = 3.5\\) ; \\(27=3^3\\) nên BCNN(12, 15, 27) =\\(2^2.3^3.5=540\\). Do đó ta có thể chọn mẫu chung là 540.\n\\(\\frac{5}{12}=\\frac{5.45}{12.45}=\\frac{225}{540}\\)\n\\(\\frac{7}{15}=\\frac{7.36}{15.36}=\\frac{252}{540}\\)\n\\(\\frac{4}{27}=\\frac{4.20}{27.20}=\\frac{80}{540}\\)"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài 3 tấm phải chia hết cho độ dài thanh. Do đó độ dài mỗi thanh phải là ước chung của độ dài 3 thanh\nLời giải chi tiết\nCác thanh gỗ có độ dài lớn nhất được cắt ra là ƯCLN(56, 48, 40)\nTa có: \\(56=2^3.7\\)\n\\(48 = 2^4. 3\\)\n\\(40=2^3.5\\)\nTa thấy thừa số nguyên tố chung là 2 và có số mũ nhỏ nhất là 3\nDo đó \\(ƯCLN(56, 48, 40) =2^3\\)\nVậy chiều dài các thanh gỗ lớn nhất có thể cắt là 8 dm."
+    },
+    {
+        "problem": "Học sinh lớp 6A khi xếp thành hàng 2, hàng 3, hàng 7 đều vừa đủ hàng. Hỏi số học sinh lớp 6A là bao nhiêu, biết rằng số học sinh nhỏ hơn 45.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Học sinh lớp 6A khi xếp thành hàng 2, hàng 3, hàng 7 đều vừa đủ hàng nên số học sinh lớp 6A là BC(2, 3, 7)\nLời giải chi tiết\nHọc sinh lớp 6A khi xếp thành hàng 2, hàng 3, hàng 7 đều vừa đủ hàng nên số học sinh lớp 6A là BC(2, 3, 7)\nBCNN(2, 3, 7) = 2.3.7 = 42 nên BC(2, 3, 7) = B(42) = {0; 42; 84, ...}\nMà số học sinh nhỏ hơn 45 nên số học sinh lớp 6A là 42.\nVậy số học sinh lớp 6A là 42 học sinh."
+    },
+    {
+        "problem": "Hai số có BCNN là \\(2^3.3.5^3\\) và ƯCLN là \\(2^2.5\\). Biết một trong hai số bằng \\(2^2.3.5\\), tìm số còn lại.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kết luận ở bài tập 2.45, ta có tích của BCNN và ƯCLN của hai số tự nhiên bất kì thì bằng tích của hai số đó.\nLời giải chi tiết\nGọi số cần tìm là \\(x.\\)\nTích của hai số đã cho là \\(x.2^2.3.5\\)\nTích của BCNN và ƯCLN của hai số đã cho là:\n\\(2^3.3.5^3.2^2.5=2^5.3.5^4\\)\nÁp dụng kết luận ở bài tập 2.45, ta có tích của BCNN và ƯCLN của hai số tự nhiên bất kì thì bằng tích của hai số đó.\nDo đó: \\(x.2^2.3.5\\)=\\(2^5.3.5^4\\)\n\\(x=\\frac{2^5.3.5^4}{2^2.3.5}\\)\n\\(x= 2^3.5^3\\)\nVậy \\(x= 2^3.5^3\\)"
+    }
+]

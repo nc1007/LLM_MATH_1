@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1\n1. Thực hiện phép chia 135 : 9. Từ đó suy ra thương của các phép chia 135 : (-9) và (-135): (-9)\n2. Tính: a) (-63): 9;        b) (-24): (-8).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(-m) : (-n) = m:n\nLời giải chi tiết:\n1.\n\nVậy 135 : 9 = 15\nTừ đó ta có: 135 : (-9) = -15   ;   (-135) : (-9) = 15\n2. a) (-63) : 9 = -7   ;   (-24) : (-8) = 3\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Tìm các ước của -9;\nb) Tìm các bội của 4 lớn hơn -20 và nhỏ hơn 20.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi a \\( \\vdots \\) b (\\(a,b \\in \\mathbb{Z},\\,\\,b \\ne 0\\)), ta còn gọi a là một bội của b và b là một ước của a.\nLời giải chi tiết\na) Các ước nguyên dương của 9 là 1;3;9 nên\nTa có: Các ước của -9 là: -9; -3; -1; 1; 3; 9\nb) Các bội nguyên dương của 4 là: 0;4;8;12;16;20;... nên các bội của 4 là: ...; -20; -16; -12; -8; -4; 0; 4; 8; 12; 16; 20; ....\nTa có: Các bội của 4 lớn hơn -20 và nhỏ hơn 20 là: -16; -12; -8; -4; 0; 4; 8; 12; 16."
+    },
+    {
+        "problem": "Có hai số nguyên a, b khác nhau nào mà a \\( \\vdots \\) b và b \\( \\vdots \\) a không?\nBạn vuông:”Sao mà thế được!”\nBạn tròn: “A ha, tớ vừa tìm thấy hai số như vậy đấy!...”\nKhông biết tròn tìm được hai số nguyên nào nhỉ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét trường hợp đặc biệt hai số nguyên đối nhau.\nLời giải chi tiết\nHai số nguyên đối nhau thì thỏa mãn đề bài, ví dụ: 2\\( \\vdots \\)(-2)và (-2)\\( \\vdots \\)2\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính các thương:\na) 297 :(-3);\nb) (-396): (-12);\nc) (-600): 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dấu của thương\n(-) : (-) = (+)\n(+) : (-) = (-)\n(-) : (+) = (-)\nLời giải chi tiết\na) 297 : (-3) = -99\nb) (-396) : (-12) = 33\nc) (-600) : 15 = -40\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Tìm các ước của mỗi số: 30; 42, -50;\nb) Tìm các ước chung của 30 và 42.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Khi a \\( \\vdots \\) b (\\(a,b \\in \\mathbb{Z},\\,\\,b \\ne 0\\)), ta còn gọi a là một bội của b và b là một ước của a.\n+ Số m được gọi là ước chung của a và b nếu m vừa là ước của a, vừa là ước của b\nLời giải chi tiết\na) Các ước của 30 là: -30; -15; -10; -6; -5; -3; -2; -1; 1; 2; 3; 5; 6; 10; 15; 30\nCác ước của 42 là: -42; -21; -14; -7; -6; -3; -2; -1; 1; 2; 3; 6; 7; 14; 21; 42\nCác ước của -50 là: -50; -25; -10; -5; -2; -1; 1; 2; 5; 10; 25; 50\nb) Các ước chung của 30 và 42 là: -6; -3; -2; -1; 1; 2; 3; 6"
+    },
+    {
+        "problem": "Viết tập hợp sau bằng cách liệt kê phần tử\nM = \\({\\rm{\\{ }}x \\in \\mathbb{Z}|x \\vdots 4\\,\\)và \\( - 16 \\le x < 20\\} \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các bội của 4 lớn hơn hoặc bằng 16 và nhỏ hơn 20.\nLời giải chi tiết\nM = {-16; -12; -8; -4; 0; 4; 8; 12; 16}."
+    },
+    {
+        "problem": "Tìm hai ước của 15 có tổng bằng -4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các ước của 15 rồi tìm hai ước có tổng bằng -4.\nLời giải chi tiết\nCác ước của 15 là: -15; -5; -3; -1; 1; 3; 5; 15\nTa thấy: (-5) + 1 = (-1) + (-3) = -4\nVậy hai ước có tổng bằng -4 là: -5 và 1 hoặc -1 và -3\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giải thích tại sao: Nếu hai số cùng chia hết cho -3 thì tổng và hiệu của hai số đó cũng chia hết cho -3. Hãy thử phát biểu một kết luận tổng quát.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi a\\( \\vdots \\)b thì ta có thể viết a = b.q (\\(b \\ne 0, a,b,q \\in Z\\))\nLời giải chi tiết\nHai số cùng chia hết cho -3 thì được viết dưới dạng (-3).a và (-3).b (a, b \\(\\in\\) Z)\nKhi đó:\nTổng 2 số là: (-3).a + (-3).b =  (-3).(a + b) \\( \\vdots \\) (-3)\nHiệu 2 số là: (-3).a - (-3).b = (-3).(a - b)\\( \\vdots \\) (-3)\nTổng quát: Cho các số a, b, c \\(\\in\\) Z, a và b cùng chia hết cho c thì tổng và hiệu của chúng cũng chia hết cho c."
+    }
+]

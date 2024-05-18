@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Chọn phát biểu đúng nhất trong các phát biểu sau?\nA.\tHai đại lượng tỉ lệ thuận tức là đại lượng này tăng lên bao nhiêu lần thì đại lượng kia cũng tăng lên bấy nhiêu lần.\nB.\tHai đại lượng tỉ lệ thuận tức là đại lượng này giảm bao nhiêu lần thì đại lượng kia cũng giảm đi bấy nhiêu lần.\nC.\tHai đại lượng tỉ lệ nghịch tức là đại lượng này tăng lên bao nhiêu lần thì đại lượng kia giảm đi bấy nhiêu lần và ngược lại đại lượng này giảm bao nhiêu lần thì đại lượng kia lại tăng bấy nhiêu lần.\nD.\tCả ba đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+\tHai đại lượng tỉ lệ thuận tức là đại lượng này tăng lên bao nhiêu lần thì đại lượng kia cũng tăng lên bấy nhiêu lần và ngược lại đại lượng này giảm đi bao nhiêu lần thì đại lượng kia cũng giảm đi bấy nhiêu lần.\n+\tHai đại lượng tỉ lệ nghịch tức là đại lượng này tăng lên bao nhiêu lần thì đại lượng kia lại giảm đi bấy nhiêu lần và ngược lại đại lượng này giảm đi bao nhiêu lần thì đại lượng kia tăng lên bấy nhiêu lần.\nVậy cả ba phát biểu A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 2: Biết Lan mua 3 quyển vở hết 12000 đồng, mua 6 quyển vở hết 24000 đồng. Hỏi đại lượng “số quyển vở” và “số tiền” có quan hệ gì với nhau?\nA.\tLà hai đại lượng tỉ lệ thuận\nB.\tLà hai đại lượng tỉ lệ nghịch",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy mua càng nhiều quyển vở thì số tiền càng tăng lên và số quyển vở tăng lên bao nhiêu lần thì số tiền cũng tăng lên bấy nhiêu lần. Vậy hai đại lượng “số quyển vở” và “số tiền” là hai đại lượng tỉ lệ thuận."
+    },
+    {
+        "problem": "Câu 3: Cho bài toán: 8 người làm xong một công việc phải hết 5 ngày. Hỏi nếu 4 người thì làm xong một công việc đó trong bao lâu? (Biết mỗi người đều làm việc như nhau).\nHỏi có mấy phương pháp để giải bài toán trên?\nA.\t1 phương pháp \nB.\t2 phương pháp\nC.\t3 phương pháp\nD.\t4 phương pháp",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đối với dạng bài về quan hệ tỉ lệ, ta có thể làm theo 2 cách sau:\nCách 1: dùng phương pháp rút về đơn vị.\nCách 2: dùng phương pháp tìm tỉ số."
+    },
+    {
+        "problem": "Câu 5: Có 15 người làm xong một công việc trong 16 ngày. Hỏi nếu có 24 người thì sẽ làm xong công việc đó trong bao nhiêu ngày? (Biết mức làm của mỗi người là như nhau).\nA.\t8 ngày\nB.\t10 ngày\nC.\t12 ngày\nD.\t14 ngày",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(Phương pháp rút về đơn vị)\nMột người làm xong công việc đó trong số ngày là:\n15 x 16 = 240 (ngày)\nNếu có 24 người thì sẽ làm xong công việc đó trong số ngày là:\n240 : 24 = 10 (ngày)\nĐáp số: 10 ngày."
+    },
+    {
+        "problem": "Câu 9: Một đội công nhân có 12 người dự kiến sửa xong một con đường trong 15 ngày. Đến khi bắt đầu làm thì đội công nhân được bổ sung thêm 6 người nữa. Hỏi đội công nhân sửa xong con đường đó trước bao nhiêu ngày so với dự kiến? (Biết mức làm của mỗi người như nhau)\nA.\t2 ngày\nB.\t5 ngày\nC.\t10 ngày\nD.\t30 ngày",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(phương pháp rút về đơn vị)\n1 người sửa xong con đường đó trong số ngày là:\n12 x 15 = 180 (ngày)\nĐến khi bắt đầu làm, đội công nhân có số người làm là:\n12 + 6 = 18 (người)\nTrên thực tế, đội công nhân sửa xong con đường đó trong số ngày là:\n180 : 18 = 10 (ngày)\nĐội công nhân sửa xong con đường đó trước số ngày so với dự kiến là:\n15 - 10 = 5 (ngày)\nĐáp số: 5 ngày."
+    }
+]

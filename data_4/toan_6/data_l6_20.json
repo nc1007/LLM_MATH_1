@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 2. Cho phát biểu sau: “……….. là hình có ba cạnh bằng nhau và ba góc bằng nhau bằng 60^{0} . Điền từ thích hợp vào chỗ trống.\nA. Hình vuông\nB. Hình lục giác đều\nC. Hình tam giác đều\nD. Cả A, B và C đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tam giác đều là hình có ba cạnh bằng nhau và ba góc bằng nhau bằng 60^{0} .\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Có bao nhiêu tính chất dưới đây là của hình vuông?\ni) Hình vuông có bốn cạnh bằng nhau.\nii) Hình vuông có bốn góc bằng nhau và bằng 60^{0} .\niii) Hình vuông có hai đường chéo bằng nhau.\nA. 0   \nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrong hình vuông:\n- Bốn cạnh bằng nhau.\n- Bốn góc bằng nhau và bằng 90^{0} .\n- Hai đường chéo bằng nhau.\nSuy ra i) và iii) là tính chất của hình vuông. \nVậy có 2 tính chất thỏa mãn của hình vuông.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Hình lục giác đều là hình:\nA. Có 6 cạnh.\nB. Có 5 cạnh bằng nhau.\nC. Có 4 cạnh bằng nhau.\nD. Có 6 cạnh bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hình lục giác đều là hình có 6 cạnh bằng nhau.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 8. Hình lục giác đều có bao nhiêu đường chéo?\nA. 1\nB. 2\nC. 3\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hình lục giác đều có tất cả ba đường chéo.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Hình nào có số cạnh ít nhất trong các hình sau:\nA. Hình tam giác đều\nB. Hình vuông\nC. Hình lục giác đều\nD. Cả ba hình có số cạnh bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n- Số cạnh của tam giác đều là 3;\n- Số cạnh của hình vuông là: 4;\n- Số cạnh của hình lục giác đều là: 6;\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 10. Phát biểu nào dưới đây là sai?\nA. Hình vuông có hai đường chéo vuông góc với nhau.\nB. Hình lục giác đều có sáu góc bằng nhau.\nC. Hình tam giác đều có ba đường chéo bằng nhau.\nD. Hình vuông có bốn góc bằng nhau bằng 90^{0} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hình tam giác đều không có đường chéo nên phát biểu C là sai.\nĐáp án: C"
+    },
+    {
+        "problem": "II. Thông hiểu \nCâu 1. Sắp xếp các bước vẽ hình tam giác đều cạnh 2cm: \n1) Vẽ đường tròn tâm A bán kính 2cm và đường tròn tâm B bán kính 2cm.\n2) Vẽ đoạn thẳng AB bằng 2cm.\n3) Nối các điểm A với C, B với C ta được tam giác đều ABC cạnh 2 cm.\n4) Hai đường tròn tâm A và tâm B cắt nhau tại điểm C. \nA. 1 – 3 – 2 – 4 \nB. 1 – 2 – 4 – 3 \nC. 2 – 3 – 1 – 4 \nD. 2 – 1 – 4 – 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác bước để vẽ tam giác đều như sau: \n2) Vẽ đoạn thẳng AB bằng 2cm.\n1) Vẽ đường tròn tâm A bán kính 2cm và đường tròn tâm B bán kính 2cm.\n4) Hai đường tròn tâm A và tâm B cắt nhau tại điểm C. \n3) Nối các điểm A với C, B với C ta được tam giác đều ABC cạnh 2 cm.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Phát biểu nào dưới đây là sai?\nA. Nếu tam giác MNP có MN = NP thì tam giác MNP là tam giác đều.\nB. Nếu tam giác MNP có góc M bằng góc N bằng góc P bằng 60^{0}  thì tam giác MNP là tam giác đều.\nC. Nếu tam giác MNP có MN = NP = PQ thì tam giác MNP đều.\nD. Nếu tam giác MNP có NP = PQ thì chưa chắc tam giác MNP đã là tam giác đều.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nNếu tam giác MNP có ba cạnh MN = NP = PQ thì tam giác MNP đều hoặc nếu tam giác MNP có ba góc M, góc N, góc P đều bằng 60^{0}  thì tam giác MNP đều.  Do đó B, C đúng.\nCòn nếu tam giác MNP chỉ có hai cạnh bằng nhau thì chưa chắc là tam giác đều. Do đó D đúng và A sai.\nĐáp án: A"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Trong bảng đơn vị đo diện tích, đơn vị lớn gấp bao nhiêu lần đơn vị bé tiếp liền?\nA.\t10 lần\nB.\t100 lần\nC.\t1000 lần\nD.\t10000 lần",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong bảng đơn vị đo diện tích, đơn vị lớn gấp 100 lần đơn vị bé tiếp liền."
+    },
+    {
+        "problem": "Câu 12: Hình vẽ một mảnh đất hình chữ nhật trên bản đồ tỉ lệ 1:1000 có chiều dài 8cm, chiều rộng 6cm. Vậy diện tích thực tế của mảnh đất đó là:\nA.\t4800cm^{2} \nB.\t48000cm^{2}  \nC.\t4800000cm^{2}  \nD.\t48cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều dài thực tế của mảnh đất đó là:\n8 x 1000 = 8000 (cm) \nChiều rộng thực tế của mảnh đất đó là:\n6 x 1000 = 6000 (cm)\nDiện tích thực tế của mảnh đất đó là:\n8000 x 6000 = 48000000 (cm^{2} ) \n48000000cm^{2}  = 4800m^{2} \nĐáp số: 4800m^{2} ."
+    }
+]

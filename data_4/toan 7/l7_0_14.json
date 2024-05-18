@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1. Công thức tính diện tích xung quanh của hình lăng trụ đứng là:\nA. 2 . Cđáy. h;\nB. Cđáy. h;\nC. Sđáy. h;\nD. 2 . Sđáy.h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nCông thức tính diện tích xung của hình lăng trụ đứng là: Cđáy. h."
+    },
+    {
+        "problem": "Câu 2. Công thức tính thể tích của hình lăng trụ đứng là:\nA. 2 . Cđáy. h;\nB. Cđáy. h;\nC. Sđáy. h;\nD. 2 . Sđáy. h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCông thức tính thể tích của hình lăng trụ đứng là: Sđáy . h."
+    },
+    {
+        "problem": "Câu 7. Chiều cao hình lăng trụ đứng tứ giác ABCD.A’B’C’D’ có đáy là hình vuông cạnh 5 cm, thể tích là 160 cm^{3}  là:\nA. 32 cm;\nB. 8 cm;\nC. 6,4 cm;\nD. 10 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích đáy của hình lăng trụ đứng tứ giác ABCD.A’B’C’D’ là:\n5 . 5 = 25 (cm^{2} )\nChiều cao của hình lăng trụ đứng tứ giác ABCD.A’B’C’D’ là:\n160 : 25 = 6,4 (cm)\nVậy chiều cao của hình lăng trụ đứng tứ giác ABCD.A’B’C’D’ là 6,4 cm."
+    },
+    {
+        "problem": "Câu 8. Cạnh đáy của hình lăng trụ đứng tứ giác có đáy là hình vuông, chiều cao bằng 20 cm và diện tích xung quanh bằng 64 cm^{2}  là:\nA. 3,2 cm ;\nB. ± 4 cm ;\nC. 4 cm ;\nD. 16 cm .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGọi độ dài cạnh đáy của hình lăng trụ đứng tứ giác là a (cm)\nTa có Sxq = 4 . a^{2} \n64 = 4 . a^{2} \na^{2}  = 16\nNên a = ± 4. \nMà a > 0 nên a = 4 (cm).\nVậy độ dài cạnh đáy của hình lăng trụ đứng tứ giác là 4 cm."
+    },
+    {
+        "problem": "Câu 9. Công thức Sxq = 2. a . h, trong đó a là nửa chu vi đáy, h là chiều cao là công thức tính diện tích xung quanh của hình nào sau đây?\nA. Hình lăng trụ đứng tam giác;\nB. Hình hộp chữ nhật; \nC. Hình lăng trụ đứng tứ giác;\nD. Cả 3 câu đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDiện tích xung quanh của hình lăng trụ đứng là: Sxq = Cđáy . h = 2. a . h (trong đó a là nửa chu vi đáy, h là chiều cao).\nMà hình hộp chữ nhật cũng là một hình lăng trụ đứng tứ giác.\nVậy chọn đáp án D."
+    }
+]

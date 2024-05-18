@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Với giá trị nào của \\(a\\) thì mỗi căn thức sau có nghĩa:\na) \\( \\sqrt{\\dfrac{a}{3}}\\),         b) \\(\\sqrt{-5a}\\);       c) \\( \\sqrt{4 - a}\\);     d) \\( \\sqrt{3a + 7}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) \\(\\sqrt{A}\\) xác định (hay có nghĩa) khi \\(A\\ge 0\\).\nLời giải chi tiết\na) Ta có:  \\( \\sqrt{\\dfrac{a}{3}}\\) có nghĩa khi \\(\\dfrac{a}{3}\\geq 0\\Leftrightarrow a\\geq 0\\)\nb) Ta có: \\(\\sqrt{-5a}\\) có nghĩa khi \\(-5a\\geq 0\\Leftrightarrow a\\leq \\dfrac{0}{-5}\\Leftrightarrow a\\leq 0\\)\nc) Ta có: \\( \\sqrt{4 - a}\\) có nghĩa khi \\(4-a\\geq 0  \\Leftrightarrow -a\\geq -4 \\Leftrightarrow a\\leq 4\\)\nd) Ta có: \\( \\sqrt{3a + 7}\\) có nghĩa khi \\(3a+7\\geq 0\\Leftrightarrow 3a \\geq -7 \\Leftrightarrow a\\geq \\dfrac{-7}{3}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\(\\sqrt{16}.\\sqrt{25} + \\sqrt{196}:\\sqrt{49}\\);\nb) \\(36:\\sqrt{2.3^2.18}-\\sqrt{169}\\);\nc) \\(\\sqrt{\\sqrt{81}}\\);\nd) \\( \\sqrt{3^{2}+4^{2}}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng hằng đẳng thức \\(\\sqrt{A^2}=\\left| A \\right| \\).\n+) Sử dụng định nghĩa giá trị tuyệt đối của số \\(a\\): Nếu \\(a \\ge 0\\) thì \\( \\left| a \\right| =a\\). Nếu \\( a< 0\\) thì \\( \\left| a \\right| = -a\\).\nLời giải chi tiết\na) Ta có: \\(\\sqrt{16}.\\sqrt{25} + \\sqrt{196}:\\sqrt{49}\\)\n\\(=\\sqrt{4^2}.\\sqrt{5^2}+\\sqrt{14^2}:\\sqrt{7^2}\\)\n\\(=\\left| 4 \\right| . \\left| 5 \\right| + \\left| {14} \\right| : \\left| 7 \\right|\\)\n\\(=4.5+14:7 \\)\n\\(=20+2=22 \\).\nb) Ta có:\n\\(36:\\sqrt{2.3^2.18}-\\sqrt{169} \\)\n\\(=36:\\sqrt{(2.9).18} - \\left| 13 \\right| \\)\n\\(=36:\\sqrt{18.18}-13\\)\n\\(=36:\\sqrt{18^2}-13 \\)\n\\(=36: \\left|18 \\right| -13\\)\n\\(=36:18-13 \\)\n\\(=2-13=-11\\).\nc) Ta có: \\(\\sqrt{81}=\\sqrt{9^2}=\\left| 9 \\right| = 9\\).\n\\( \\Rightarrow \\sqrt{\\sqrt{81}}\\)\\(=\\sqrt{9}= \\sqrt{3^2}=\\left| 3 \\right| =3\\).\nd) Ta có: \\(\\sqrt{3^{2}+4^{2}}=\\sqrt{9+16}=\\sqrt{25}\\)\\(=\\sqrt{5^2}=\\left|5 \\right| =5\\)."
+    },
+    {
+        "problem": "Tìm x để mỗi căn thức sau có nghĩa:\na)\\( \\sqrt{2x + 7}\\);                         c) \\(\\displaystyle \\sqrt {{1 \\over { - 1 + x}}} \\)\nb) \\( \\sqrt{-3x + 4}\\)                      d) \\( \\sqrt{1 + x^{2}}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) \\(\\sqrt A \\) xác định (hay có nghĩa) khi \\( A \\ge 0 \\).\n+) Các tính chất của bất đẳng thức:\n1) \\(a < b \\Leftrightarrow a.c < b.c\\), nếu \\(c > 0\\).\n2) \\(a< b \\Leftrightarrow a.c > b.c\\), nếu \\(c <0\\).\n3) \\(a < b \\Leftrightarrow a+c < b+c\\), với mọi \\( c\\).\nLời giải chi tiết\na) Ta có:\n\\(\\sqrt{2x + 7}\\) có nghĩa \\(\\Leftrightarrow\\) \\(2x + 7\\geq 0 \\)\n\\( \\Leftrightarrow 2x \\geq -7\\)\n\\(\\displaystyle \\Leftrightarrow x \\geq {{ - 7} \\over 2}\\).\nb) Ta có\n\\(\\sqrt{-3x + 4}\\) có nghĩa \\(\\Leftrightarrow\\) \\(-3x + 4\\geq 0\\)\n\\(\\Leftrightarrow -3x\\geq -4\\)\n\\(\\displaystyle \\Leftrightarrow x\\leq {-4 \\over {- 3}}\\)\n\\(\\displaystyle \\Leftrightarrow x\\leq {4 \\over { 3}}\\)\nc) Ta có:\n\\(\\sqrt{\\dfrac{1}{-1 + x}}\\) có nghĩa\n\\(\\Leftrightarrow\\)\\(\\displaystyle {1 \\over \\displaystyle { - 1 + x}} \\ge 0\\)\nVì 1 > 0 nên để \\(\\displaystyle {1 \\over \\displaystyle { - 1 + x}} \\ge 0\\) thì \\(- 1 + x > 0\\)\n\\(  \\Leftrightarrow x > 1\\)\nd) \\(\\sqrt{1 + x^{2}}\\)\nTa có:    \\(x^2\\geq 0\\), với mọi số thực \\(x\\)\n\\(\\Leftrightarrow x^2+1 \\geq 1 >0\\), với mọi số thực \\(x\\)\nVậy căn thức trên luôn có nghĩa với mọi số thực \\(x\\)."
+    },
+    {
+        "problem": "Rút gọn các biểu thức sau:\na) \\(2\\sqrt {{a^2}}  - 5a\\) với \\(a < 0\\).\nb) \\( \\sqrt{25a^{2}}+ 3a\\) với \\(a ≥ 0\\).\nc) \\(\\sqrt {9{a^4}}  + 3{a^2}\\),\nd) \\( 5\\sqrt{4a^{6}}\\) - \\( 3a^{3}\\) với \\(a < 0\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng hằng đẳng thức \\(\\sqrt{A^2}=\\left| A \\right|\\).\n+) Sử dụng định nghĩa giá trị tuyệt đối của số \\(a\\): Nếu \\(a \\ge 0\\) thì \\( \\left| a \\right| =a\\). Nếu \\( a< 0\\) thì \\( \\left| a \\right| = -a\\).\nLời giải chi tiết\na) Ta có: \\(2\\sqrt{a^2}-5a=2|a|-5a\\)\n\\(=2.(-a)-5a\\) (vì \\(a<0\\) nên \\( \\left| a \\right| =-a \\))\n\\(=-2a-5a\\)\n\\(=(-2-5)a\\)\n\\(=-7a\\)\nVậy \\(2 \\sqrt{a^2}-5a=-7a\\).\nb) Ta có:  \\(\\sqrt{25a^{2}} + 3a= \\sqrt{5^2.a^2}+3a\\)\n\\(=\\sqrt{(5a)^2}+3a\\)\n\\(=\\left| 5 a\\right| +3a\\)\n\\(=5a+3a\\) (vì \\(a\\geq 0\\Rightarrow |5a|=5a\\) )\n\\(=(5+3)a\\)\n\\(=8a\\).\nc) Ta có: \\(\\sqrt{9a^{4}}+3a^2= \\sqrt{3^2.(a^2)^2}+ 3a^2\\)\n\\(=\\sqrt{(3a^2)^2}+3a^2\\)\n\\(=\\left| 3 a^2\\right| +3a^2\\)\n\\(=3a^2 + 3a^2\\) (Vì \\(a^2\\geq 0\\) với mọi \\( a\\,\\,\\in\\,\\,\\mathbb{R}\\Rightarrow |3a^2|=3a^2\\)).\n\\(=(3+3)a^2\\)\n\\(=6a^2\\).\nd) Ta có:\n\\(5\\sqrt{4a^{6}} - 3a^3=5\\sqrt{2^2.(a^3)^2} -3a^3\\)\n\\(=5.\\sqrt{(2a^3)^2}-3a^3\\)\n\\(=5.\\left| 2a^3 \\right| -3a^3\\)\n\\(=5.2.(-a^3)-3a^3\\)  (vì \\(a<0\\) nên \\(|2a^3|=-2a^3\\) )\n\\(=10.(-a^3) - 3a^3\\)\n\\(=-10a^3-3a^3\\)\n\\(=(-10-3)a^3\\)\n\\(=-13a^3\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Phân tích thành nhân tử:\na) \\( x^{2}- 3\\).\nb) \\( x^{2}- 6\\);\nc) \\( x^{2}\\) + \\( 2\\sqrt{3}x + 3\\);\nd) \\( x^{2}\\) - \\( 2\\sqrt{5}x + 5\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Với \\(a \\ge 0\\) ta luôn có: \\(a={\\left( {\\sqrt a } \\right)^2}\\)\n+) Sử dụng các hằng đẳng thức:\n1) \\({\\left( {a + b} \\right)^2} = {a^2} + 2ab + {b^2}\\)\n2) \\({\\left( {a - b} \\right)^2} = {a^2} - 2ab + {b^2}\\)\n3) \\({a^2} - {b^2} = \\left( {a - b} \\right).\\left( {a + b} \\right)\\)\nLời giải chi tiết\na) Ta có:\n\\(x^{2} - 3=x^2-(\\sqrt{3})^2\\)\n\\(=(x-\\sqrt{3})(x+\\sqrt{3})\\)  (Áp dụng hằng đẳng thức số 3)\nb) Ta có:\n\\(x^{2}- 6=x^2-(\\sqrt{6})^2\\)\n\\(=(x-\\sqrt{6})(x+\\sqrt{6})\\)  (Áp dụng hằng đẳng thức số 3)\nc) Ta có:\n\\(x^2+2\\sqrt{3}x + 3=x^2+2.x.\\sqrt{3}+(\\sqrt{3})^2\\)\n\\(=(x+\\sqrt{3})^2\\) (Áp dụng hằng đẳng thức số 1)\nd) Ta có:\n\\(x^2-2\\sqrt{5}x+5=x^2-2.x.\\sqrt{5}+(\\sqrt{5})^2\\)\n\\(=(x-\\sqrt{5})^2\\)  (Áp dụng hằng đẳng thức số 2).\nLoigiaihay.com"
+    }
+]

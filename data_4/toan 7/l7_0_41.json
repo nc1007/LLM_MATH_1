@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1.Điền vào chỗ trống sau: “Đoạn thẳng vuông góc kẻ từ một đỉnh của một tam giác đến đường thẳng chứa cạnh đối diện gọi là … của tam giác đó”. \nA. Đường trung trực;\nB. Đường cao;\nC. Đường trung tuyến;\nD. Đường phân giác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐoạn thẳng vuông góc kẻ từ một đỉnh của một tam giác đến đường thẳng chứa cạnh đối diện gọi là đường cao của tam giác đó."
+    },
+    {
+        "problem": "Câu 2. Điền vào chỗ trống sau: “Ba đường cao của một tam giác cùng đi qua một điểm. Điểm này được gọi là … của tam giác”.\nA. Trọng tâm;\nB. Trực tâm;\nC. Trung điểm; \nD. Trung trực.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBa đường cao của một tam giác cùng đi qua một điểm. Điểm này được gọi là trực tâm của tam giác."
+    },
+    {
+        "problem": "Câu 9. Vị trí trực tâm của tam giác tù:\nA. Nằm bên trong tam giác;\nB. Nằm bên ngoài tam giác;\nC. Nằm trùng với đỉnh bất kì;\nD. Tất cả đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVị trí trực tâm của tam giác tù nằm bên ngoài tam giác."
+    },
+    {
+        "problem": "Câu 12. Tam giác nhọn có trực tâm:\nA. Nằm bên trong của tam giác;\nB. Năm bên ngoài của tam giác;\nC. Nằm trên đỉnh của tam giác;\nD. Nằm trên cạnh của tam giác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTam giác nhọn có trực tâmnằm bên trong của tam giác."
+    },
+    {
+        "problem": "Câu 15. Ba đường cao của một tam giác tù:\nA. Đồng quy tại một điểm nằm ngoài tam giác;\nB. Đồng quy tại một điểm nằm trog tam giác;\nC. Đồng quy tại một điểm nằm trên đỉnh tam giác;\nD. Đồng quy tại một điểm nằm tại trọng tâm tam giác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBa đường cao của một tam giác tù đồng quy tại một điểm nằm ngoài tam giác."
+    }
+]

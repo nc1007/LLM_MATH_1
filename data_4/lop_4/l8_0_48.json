@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : (a x b) x c = a x (b x c). Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một tích hai số với số thứ ba, ta có thể nhân số thứ nhất với tích của số thứ hai và số thứ ba.\nDo đó ta có: (a×b)×c=a×(b×c)\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2 : (148 x 4) x 25 = 148 x (4 x 25). Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một tích hai số với số thứ ba, ta có thể nhân số thứ nhất với tích của số thứ hai và số thứ ba.\nDo đó ta có: (148×4)×25=148×(4×25)\nVậy phép tính đã cho là đúng."
+    },
+    {
+        "problem": "Câu 5 : Điền số thích hợp vào ô trống để tính bằng cách thuận tiện:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n135×5×2=135×(5×2)=135×10=1350\nVậy đáp án đúng điền vào ô trống theo thứ tự từ trên xuống dưới, \ntừ trái sang phải là 135; 2; 135; 10; 1350."
+    },
+    {
+        "problem": "Câu 6 : Điền số thích hợp vào ô trống để tính bằng cách thuận tiện:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "25×9×4×7=(9×7)×(25×4)=63×100=6300\nVậy đáp án đúng điền vào ô trống theo thứ tự từ trên xuống dưới, \ntừ trái sang phải là 9; 4; 63; 100; 6300"
+    },
+    {
+        "problem": "Câu 8 :  Chọn dấu thích hợp để điền vào chỗ chấm: 36 x 125 x 8 ... 25 x 325 x 4 \nA.\t=\nB.\t< \nC.\t>",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "36×125×8=36×(125×8)=36×1000=36000\n25×325×4=25×4×325=(25×4)×325=100×325=32500\nMà 36000>32500\nVậy: 36×125×8>25×325×4."
+    },
+    {
+        "problem": "Câu 9 :  Có 5 phòng học, mỗi phòng có 15 bộ bàn ghế, mỗi bộ bàn ghế có 2 học sinh đang ngồi học. \nHỏi có tất cả bao nhiêu học sinh đang ngồi học? \nA.\t30 học sinh\nB.\t75 học sinh\nC.\t120 học sinh\nD.\t150 học sinh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số học sinh đang ngồi học là:\n          (15×2)×5=150 (học sinh)\n                    Đáp số:  150 học sinh."
+    },
+    {
+        "problem": "Câu 11 : Tìm y, biết: 12160 - y = 5 x 67 x 20. \nA.\ty = 5460\nB.\ty = 4560\nC.\ty = 11490\nD.\ty = 18860",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "12160−y=5×67×20\n12160−y=67×(5×20)\n12160−y=67×100\n12160−y=6700\ny=12160−6700\ny=5460"
+    }
+]

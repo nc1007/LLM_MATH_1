@@ -1,0 +1,128 @@
+[
+    {
+        "problem": "B. <    \nC. =  \nD.Tất cả các đáp án trên đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì – 5 > −7  nên \\frac{−5}{13}>\\frac{−7}{13}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2: Chọn câu đúng\nA.\\frac{1123}{1125}>1\nB.\\frac{−154}{−156}<1\nC.\\frac{−123}{345}>0\nD.\\frac{−657}{−324}<0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: Vì 1123 < 1125 nên \\frac{1123}{1125}<1⇒A sai.\nĐáp án B: \\frac{−154}{−156}=\\frac{154}{156}\n Vì 154 < 156  nên \\frac{154}{156}<1 hay \\frac{−154}{−156}<1⇒B đúng.\nĐáp án C:  \\frac{−123}{345}<0 vì nó là phân số âm.⇒C sai.\nĐáp án D: \\frac{−657}{−324}>0 vì nó là phân số dương. =>D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3: Sắp xếp các phân số \\frac{29}{41};\\frac{28}{41};\\frac{29}{40} theo thứ tự tăng dần ta được\nA. \\frac{29}{41};\\frac{28}{41};\\frac{29}{40}\nB. \\frac{29}{40};\\frac{29}{41};\\frac{28}{41}\nC. \\frac{28}{41};\\frac{29}{41};\\frac{29}{40}\nD. \\frac{28}{41};\\frac{29}{40};\\frac{29}{41}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n+) 28 < 29 nên  \\frac{28}{41}<\\frac{29}{41}\n+) 41 > 40 nên  \\frac{29}{41}<\\frac{29}{40}\nDo đó  \\frac{28}{41}<\\frac{29}{41}<\\frac{29}{40}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4: Có bao nhiêu phân số lớn hơn \\frac{1}{6} nhưng nhỏ hơn \\frac{1}{4} mà có tử số là 5.\nA.9 \nB.10  \nC.11\nD.12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi phân số cần tìm là \\frac{5}{x}(x∈N∗)\nTa có:  \\frac{1}{6}<\\frac{5}{x}<\\frac{1}{4}\n⇒\\frac{5}{30}<\\frac{5}{x}<\\frac{5}{20}⇒30>x>20 hay  x∈21;22;...;29\n Số giá trị của xx là: (29 − 21) : 1 + 1 = 9 \nVậy có tất cả 9 phân số thỏa mãn bài toán.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5: So sánh \\frac{25.7+25}{25.52−25.3} và \\frac{34.5−36}{34.13+34} với 1.\nA. A < 1 < B\nB. A = B = 1\nC. A > 1 > B\nD. 1 > A > B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{25.7+25}{25.52−25.3}=\\frac{25.(7+1)}{25.(52−3)}=\\frac{25.(7+1)}{25.(25−3)}=\\frac{25.8}{25.22}=\\frac{8}{22}=\\frac{4}{11}\\frac{34.5−36}{34.13+34}=\\frac{34.(5−32)}{34.(13+1)}=\\frac{34.(5−9)}{34.14}=\\frac{34.(−4)}{34.14}=\\frac{−4}{14}=\\frac{−2}{7}\nMSC = 77\n \\frac{4}{11}=\\frac{4.7}{11.7}=\\frac{28}{77};\\frac{−2}{7}=\\frac{−2.11}{7.11}=\\frac{−22}{77}\nDo đó \\frac{−22}{77}<\\frac{28}{77}<1 hay B < A < 1\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6: Chọn câu đúng:\nA.  \\frac{11}{12}<\\frac{−22}{12}\nB.  \\frac{8}{3}<\\frac{−9}{3}\nC.  \\frac{7}{8}<\\frac{9}{8}\nD.  \\frac{6}{5}<\\frac{4}{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n11 > (−22)  nên \\frac{11}{12}>\\frac{−22}{12}\n8 > (−9) nên \\frac{8}{3}>\\frac{−9}{3}\n7 < 9  nên \\frac{7}{8}<\\frac{9}{8}\n6 > 4  nên \\frac{6}{5}>\\frac{4}{5}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7: Chọn số thích hợp điền vào chỗ trống sau: \\frac{7}{23}<\\frac{...}{23}\nA.9\nB.7\nC.5\nD.4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n7 < 9 nên \\frac{7}{23}<\\frac{9}{23}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8: Không quy đồng mẫu số, em hãy so sánh \\frac{34}{111} và \\frac{198}{54} :\nA.  \\frac{34}{111}<\\frac{198}{54}\nB.  \\frac{34}{111}>\\frac{198}{54}\nC.  \\frac{34}{111}≥\\frac{198}{54}\nD.  \\frac{34}{111}=\\frac{198}{54}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:  \\frac{34}{111}<1\nVà  \\frac{198}{54}>1\nDo vậy:  \\frac{34}{111}<\\frac{198}{54}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9: Điền dấu thích hợp vào chỗ chấm \\frac{−12}{25}...\\frac{17}{−25}\nA. >  \nB. <  \nC. =  \nD.Tất cả các đáp án trên đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n \\frac{17}{−25}=\\frac{−17}{25}\nVì -12 > -17 nên \\frac{−12}{25}>\\frac{−17}{25} hay  \\frac{−12}{25}>\\frac{17}{−25}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10: Chọn câu sai\nA.  \\frac{2}{−3}>\\frac{−7}{8}\nB.  \\frac{−22}{33}=\\frac{200}{−300}\nC.  −\\frac{2}{5}<\\frac{196}{294}\nD.  \\frac{−3}{5}<\\frac{39}{−65}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: Ta có:\n\\frac{2}{−3}=\\frac{−2}{3}=\\frac{−2.8}{3.8}=\\frac{−16}{24};\\frac{−7}{8}=\\frac{−7.3}{8.3}=\\frac{−21}{24}\nVì \\frac{−16}{24}>\\frac{−21}{24} nên suy ra \\frac{2}{−3}>\\frac{−7}{8} nên A đúng.\nĐáp án B: Ta có:\n \\frac{−22}{33}=\\frac{−22:11}{33:11}=\\frac{−2}{3};\\frac{200}{−300}=\\frac{−200}{300}=\\frac{−200:100}{300:100}=\\frac{−2}{3}\nVì \\frac{−2}{3}=\\frac{−2}{3} nên suy ra \\frac{−22}{33}=\\frac{200}{−300} nên B đúng.\nĐáp án C: Ta có:\n −\\frac{2}{5}<0;\\frac{196}{294}>0⇒\\frac{−2}{5}<0<\\frac{196}{294}⇒\\frac{−2}{5}<\\frac{196}{294}nên C đúng.\nĐáp án D: Ta có:\n\\frac{39}{−65}=\\frac{39:(−13)}{(−65):(−13)}=\\frac{−3}{5}\nVì \\frac{−3}{5}=\\frac{−3}{5} nên suy ra \\frac{−3}{5}=\\frac{39}{−65} nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11: Cho A=\\frac{25.9−25.17}{−8.80−8.10} và B=\\frac{48.12−48.15}{−3.270−3.30} . Chọn câu đúng.\nA. A < B \nB. A = B  \nC. A > 1; B < 0\nD. A > B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n A=\\frac{25.9−25.17}{−8.80−8.10}=\\frac{25.(9−17)}{−8.(80+10)}=\\frac{25.(−8)}{(−8).90}=\\frac{25}{90}=\\frac{5}{18}\nB=\\frac{48.12−48.15}{−3.270−3.30}=\\frac{48.(12−15)}{(−3).(270+30)}=\\frac{48.(−3)}{(−3).300}=\\frac{48}{300}=\\frac{4}{25}\nVì A < 1  nên loại đáp án C.\nSo sánh A và B:\nMSC = 450\n\\frac{5}{18}=\\frac{5.25}{18.25}=\\frac{125}{450};\\frac{4}{25}=\\frac{4.18}{25.18}=\\frac{72}{450}\nVì 125 > 72 nên \\frac{125}{450}>\\frac{72}{450} hay  \\frac{5}{18}>\\frac{4}{25}\nVậy A > B\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12: Số các cặp số nguyên (x;y) thỏa mãn \\frac{1}{18}<\\frac{x}{12}<\\frac{y}{9}<\\frac{1}{4} là:\nA.2 \nB.3  \nC.1            \nD.4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMSC:36MSC:36\nKhi đó:\n⇒\\frac{2}{36}<\\frac{x.3}{36}<\\frac{y.4}{36}<\\frac{9}{36}⇒2<x.3<y.4<9\nMà (x.3) ⋮ 3  và (y.4) ⋮ 4  nên x.3 ∈ {3; 6} và y.4 ∈ {4; 8} \nMà x.3 < y.4  nên:\n+ Nếu x.3 = 3 thì y.4 = 4 hoặc y.4 = 8 \nHay nếu x = 1 thì y = 1  hoặc y = 2 \n+ Nếu x.3 = 6  thì y.4 = 8 \nHay nếu x = 2  thì y = 2 \nVậy các cặp số nguyên (x; y)  là (1; 1), (1; 2), (2; 2) \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 13: Tìm một phân số có mẫu là 13, biết rằng giá trị của nó không thay đổi khi ta cộng tử với −20 và nhân mẫu với 5.\nA. \\frac{10}{13}\nB. \\frac{7}{13}\nC. \\frac{−5}{13}\nD. \\frac{−10}{13}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi phân số cần tìm là  \\frac{a}{13}a∈Z\nTheo yêu cầu bài toán:\n\\frac{a}{13}=\\frac{a+−20}{13.5}\\frac{a.5}{13.5}=\\frac{a+−20}{13.5}a.5=a+−20a.5−a=−20a.4=−20a=−20:4a=−5\nVậy phân số cần tìm là \\frac{−5}{13}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 14: So sánh các phân số A=\\frac{3535.232323}{353535.2323}; B=\\frac{3535}{3534} ; C=\\frac{2323}{2322}\nA. A < B < C \nB. A = B < C\nC. A > B > C        \nD. A = B = C",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n A=\\frac{3535.232323}{353535.2323}=\\frac{35.101.23.10101}{35.10101.23.101}=1B=\\frac{3535}{3534}=\\frac{3534+1}{3534}=\\frac{3534}{3534}+\\frac{1}{3534}=1+\\frac{1}{3534}C=\\frac{2323}{2322}=\\frac{2322+1}{2322}=\\frac{2322}{2322}+\\frac{1}{2322}=1+\\frac{1}{2322}\nVì  nên B < C\nMà B > 1 nên B > A\nVậy A < B < C\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 15: So sánh A=\\frac{20182018+1}{20182019+1}  và  B=\\frac{20182017+1}{20182018+1}\nA. A < B\nB. A = B\nC. A > B\nD. Không kết luận được",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDễ thấy A < 1 nên:\nA=\\frac{20182018+1}{20182019+1}<\\frac{20182018+1+2017}{20182019+1+2017}=\\frac{20182018+2018}{20182019+2018}=\\frac{2018.20182017+1}{2018.20182018+1}\n=\\frac{20182017+1}{20182018+1}=B\nVậy A < B\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 16: Chọn câu đúng\nA.  \\frac{10}{11}>\\frac{14}{5}\nB.  \\frac{8}{13}>\\frac{5}{2}\nC.  \\frac{7}{5}>\\frac{7}{8}\nD.  \\frac{1}{5}>\\frac{2}{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n \\frac{10}{11}=\\frac{50}{55}và \\frac{14}{5}=\\frac{154}{55} . Vì \\frac{50}{55}<\\frac{154}{55} nên  \\frac{10}{11}<\\frac{14}{5}\n \\frac{8}{13}=\\frac{16}{26}và \\frac{5}{2}=\\frac{65}{26} . Vi \\frac{16}{26}<\\frac{65}{26} nên  \\frac{8}{13}<\\frac{5}{2}\n \\frac{7}{5}=\\frac{56}{40} và \\frac{7}{8}=\\frac{35}{40} . Vì \\frac{56}{40}>\\frac{35}{40} nên  \\frac{7}{5}>\\frac{7}{8}\n\\frac{1}{5}=\\frac{3}{15} và \\frac{2}{3}=\\frac{10}{15} . Vì  \\frac{3}{15}<\\frac{10}{15} nên  \\frac{1}{5}<\\frac{2}{3}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 17: C\\frac{4}{15}<\\frac{7}{15}<\\frac{8}{15}họn câu đúng\nA.  \\frac{6}{7}<\\frac{8}{7}<\\frac{7}{7}\nB.  \\frac{9}{22}<\\frac{13}{22}<\\frac{18}{22}\nC.  \\frac{7}{15}<\\frac{8}{15}<\\frac{4}{15}\nD.  \\frac{5}{11}>\\frac{7}{11}>\\frac{4}{11}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n6 < 7 < 8 nên  \\frac{6}{7}<\\frac{7}{7}<\\frac{8}{7}\n9 < 13 < 18 nên \\frac{9}{22}<\\frac{13}{22}<\\frac{18}{22}\n4 < 7 < 8 nên  \\frac{4}{15}<\\frac{7}{15}<\\frac{8}{15}\n4 < 5 < 7 nên  \\frac{4}{11}<\\frac{5}{11}<\\frac{7}{11}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 18: Chọn số thích hợp điền vào chỗ trống sau:  \\frac{17}{19}<\\frac{...}{19}<1\nA.16\nB.17\nC.18\nD.19",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:  1=\\frac{19}{19}\n17 < 18 < 19 nên \\frac{17}{19}<\\frac{18}{19}<\\frac{19}{19} hay  \\frac{17}{19}<\\frac{18}{19}<1\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 19: Lớp 6B gồm 35 học sinh có tổng chiều cao là 525 dm. Lớp 6B gồm 30 học sinh có tổng chiều cao là 456 dm. Nhận xét nào sau đây là đúng khi nói về chiều cao trung bình của các học sinh ở 2 lớp?\nA.Chiều cao trung bình của các học sinh ở lớp 6A lớn hơn lớp 6B.\nB.Chiều cao trung bình của các học sinh lớp 6B lớn hơn lớp 6A.\nC.Chiều cao trung bình của các học sinh ở hai lớp bằng nhau.\nD.Chưa đủ dữ liệu để so sánh chiều cao trung bình của học sinh ở hai lớp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều cao trung bình của các học sinh ở lớp 6A là: \\frac{525}{35}\n Chiều cao trung bình của các học sinh ở lớp 6B là: \\frac{456}{30}\nTa có:\n\\frac{525}{35}=15=\\frac{75}{5}  và \\frac{456}{30}=\\frac{76}{5}\nVì \\frac{75}{5}<\\frac{76}{5} nên \\frac{525}{35}<\\frac{456}{30}\nVậy chiều cao trung bình của các học sinh lớp 6B lớn hơn lớp 6A.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 20: Em hãy sắp xếp các phân số sau theo thứ tự giảm dần: \\frac{1}{4};\\frac{2}{3};\\frac{1}{2};\\frac{4}{3};\\frac{5}{2}\nA.  \\frac{4}{3}>\\frac{5}{2}>\\frac{2}{3}>\\frac{1}{2}>\\frac{1}{4}\nB. \\frac{5}{2}>\\frac{4}{3}>\\frac{2}{3}>\\frac{1}{2}>\\frac{1}{4}  \nC. \\frac{5}{2}>\\frac{4}{3}>\\frac{2}{3}>\\frac{1}{4}>\\frac{1}{2}\nD. \\frac{4}{3}>\\frac{5}{2}>\\frac{2}{3}>\\frac{1}{4}>\\frac{1}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: các phân số có tử số nhỏ hơn mẫu số là các phân số nhỏ hơn 1 là: \\frac{1}{4};\\frac{2}{3};\\frac{1}{2}\nQuy đồng chung mẫu số các phân số này, ta được:  \\frac{1}{4}=\\frac{3}{12};\\frac{1}{4}=\\frac{3}{12};\\frac{1}{2}=\\frac{6}{12}\n Nhận thấy: \\frac{3}{12}<\\frac{6}{12}<\\frac{8}{12} suy ra  \\frac{1}{4}<\\frac{1}{2}<\\frac{2}{3}\nCác phân số lớn hơn , nhỏ hơn là \nPhân số lớn hơn 1 nhỏ hơn 2 là: \\frac{4}{3}\n Phân số lớn hơn 2 là: \\frac{5}{2}Như vậy, sắp xếp các phân số theo thứ tự giảm dần là:\n\\frac{5}{2}>\\frac{4}{3}>\\frac{2}{3}>\\frac{1}{2}>\\frac{1}{4}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 21: Lớp 6A có \\frac{9}{35} số học sinh thích bóng bàn, \\frac{3}{4}  số học sinh thích bóng chuyền,  \\frac{4}{7} số học sinh thích bóng đá. Môn bóng nào được các bạn học sinh lớp 6A yêu thích nhất?\nA.Môn bóng bàn.\nB.Môn bóng chuyền.\nC.Môn bóng đá.\nD.Cả 3 môn bóng được các bạn yêu thích như nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có :\n\\frac{3}{7}=\\frac{15}{35};\\frac{4}{7}=\\frac{20}{35}\n\\frac{9}{35}<\\frac{15}{35}<\\frac{20}{35}\n\\frac{9}{35}<\\frac{3}{7}<\\frac{4}{7}\nVậy môn bóng đá được các bạn lớp 6A yêu thích nhất.\nĐáp án cần chọn là: C"
+    }
+]

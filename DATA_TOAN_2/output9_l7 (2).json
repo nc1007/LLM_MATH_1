@@ -1,0 +1,111 @@
+[
+    {
+        "problem": "Kí hiệu \\(\\mathbb{N},\\mathbb{Z},\\mathbb{Q},\\mathbb{I},\\mathbb{R}\\) theo thứ tự là tập hợp các số tự nhiên, tập hợp các số nguyên, tập hợp các số hữu tỉ, tập hợp các số vô tỉ và tập hợp các số thực. Khẳng định nào sau đây là sai?\nA. Nếu \\(x \\in \\mathbb{N}\\) thì \\(x \\in \\mathbb{Z}\\)\nB. Nếu \\(x \\in \\mathbb{R},x \\notin \\mathbb{Q}\\) thì \\(x \\in I\\)\nC. \\(1 \\in \\mathbb{R}\\)\nD. Nếu \\(x \\notin I\\) thì x viết được thành số thập phân hữu hạn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số vô tỉ là số thập phân vô hạn không tuần hoàn.\nLời giải chi tiết\nNếu \\(x \\notin I\\)thì x viết được thành số thập phân hữu hạn hoặc số thập phân vô hạn tuần hoàn nên D là khẳng định sai.\nChọn D"
+    },
+    {
+        "problem": "Những số nào sau đây có căn bậc hai số học?\n\\(0,9; - 4;11; - 100;\\dfrac{4}{5};\\pi \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chỉ các số không âm mới có căn bậc hai (số học).\nLời giải chi tiết\nChỉ các số không âm mới có căn bậc hai (số học).\nVì vậy trong các số đã nêu, các số có căn bậc hai số học là:\n\\(0,9;11;\\dfrac{4}{5};\\pi \\)"
+    },
+    {
+        "problem": "Trong các phân số sau, phân số nào viết được thành số thập phân vô hạn tuần hoàn? Vì sao?\n\\(\\dfrac{{21}}{{60}};\\,\\,\\,\\,\\dfrac{{ - 8}}{{125}};\\,\\,\\,\\dfrac{{28}}{{ - 63}};\\,\\,\\,\\,\\dfrac{{37}}{{800}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Viết các phân số đã cho dưới dạng tối giản và có mẫu dương\n-Tìm các ước nguyên tố của mẫu\n-Số thập phân vô hạn tuần hoàn khi mẫu có ước nguyên tố khác 2 và 5\nLời giải chi tiết\nViết các phân số đã cho dưới dạng tối giản và có mẫu dương:\n\\(\\dfrac{{21}}{{60}} = \\dfrac{7}{{20}};\\,\\,\\dfrac{{ - 8}}{{125}};\\,\\,\\,\\dfrac{{28}}{{ - 63}} = \\dfrac{{ - 4}}{9};\\,\\,\\,\\,\\dfrac{{37}}{{800}}\\)\nTa có:\n\\(\\begin{array}{l}20 = {2^2}.5\\\\125 = {5^3}\\\\9 = {3^2}\\\\800 = {2^5}{.5^2}\\end{array}\\)\nVì 9 có ước nguyên tố là 3 (khác 2 và 5) nên \\(\\dfrac{{28}}{{ - 63}}\\)viết được thành số thập phân vô hạn tuần hoàn."
+    },
+    {
+        "problem": "Bằng cách ước lượng tích, giải thích vì sao kết quả phép nhân sau đây là sai:\n\\(6,238.3,91 = 21,39058.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ước lượng 2 thừa số trên\nLời giải chi tiết\nƯớc lượng hai thừa số của tích xấp xỉ 6 và 4 nên ta ước lượng \\(6,238.3,91\\approx 24\\). Do đó phép tính trên không đúng. Đặt tính ta thấy tích đúng là \\(6,238.3,91 = 23,39058\\)."
+    },
+    {
+        "problem": "Xét tính đúng, sai của các khẳng định sau:\na) Nếu x là số hữu tỉ thì x là số thực;\nb) 2 không phải là số hữu tỉ;\nc) Nếu x là số nguyên thì \\(\\sqrt x \\) là số thực;\nd) Nếu x là số tự nhiên thì \\(\\sqrt x \\) là số vô tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Với các khẳng định sai, chỉ ra ví dụ chứng tỏ khẳng định sai.\nLời giải chi tiết\na) Đúng\nb) Sai: \\(2 = \\dfrac{2}{1}\\) nên 2 là số hữu tỉ\nc) Sai: -2 là số nguyên nhưng \\(\\sqrt { - 2} \\) không tồn tại\nd) Sai: 4 là số tự nhiên nhưng \\(\\sqrt 4  = 2\\) là số hữu tỉ (không là số vô tỉ)"
+    },
+    {
+        "problem": "Trong các kết quả sau, kết quả nào đúng?\nA.\\(\\sqrt {0,1}  = 0,01\\)\nB.\\(\\sqrt {16}  =  - 4\\)\nC.\\(\\sqrt { - 0,09}  = 0,3\\)\nD.\\(\\sqrt {0,04}  = 0,2\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Căn bậc hai số học của một số a không âm, kí hiệu là \\(\\sqrt a \\), là số không âm x thoả mãn: \\({x^2} = a\\)\nLời giải chi tiết\nSố âm không có căn bậc hai nên C sai.\nCăn bậc hai số học là không âm nên B sai.\n\\(0,{01^2} = 0,0001 \\ne 0,1\\) nên A sai.\n\\(0,{2^2} = 0,04\\) nên D đúng\nChọn D"
+    },
+    {
+        "problem": "Viết số thập phân 2,75 dưới dạng phân số tối giản.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biến đổi \\(2,75 = \\dfrac{{275}}{{100}}\\)\nLời giải chi tiết\n\\(2,75 = \\dfrac{{275}}{{100}} = \\dfrac{{275:25}}{{100:25}} = \\dfrac{{11}}{4}\\)"
+    },
+    {
+        "problem": "Giải thích vì sao kết quả phép tính: \\(28,1.1,\\left( 8 \\right) = 55,0\\left( 7 \\right)\\)không đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Ước lượng thừa số thứ hai là 2\n-Tính kết quả đúng\nLời giải chi tiết\nƯớc lượng thừa số thứ hai là 2 nên tích đã cho xấp xỉ bằng 56,2. Kết quả 55,0(7) khác xa 56,2 nên phép tính trên sai.\nCó thể tính giá trị đúng của tích trên như sau:\n\\(\\begin{array}{l}0,\\left( 1 \\right) = \\dfrac{1}{9} \\Rightarrow 1,8 = 1 + 0,\\left( 8 \\right) = 1 + \\dfrac{8}{9} = \\dfrac{{17}}{9}\\\\28,1.1,\\left( 8 \\right) = 28,1.\\dfrac{{17}}{9} = 53,0\\left( 7 \\right)\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm số đối của các số thực sau:\n\\( - 2,1; - 0,\\left( 1 \\right);\\dfrac{2}{\\pi };3 - \\sqrt 2 \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi số thực a đều có 1 số đối, kí hiệu là – a\nLời giải chi tiết\nSố đối của các số thực trên lần lượt là: \\(2,1;0,\\left( 1 \\right); - \\dfrac{2}{\\pi }; - \\left( {3 - \\sqrt 2 } \\right) =  - 3 + \\sqrt 2 \\)"
+    },
+    {
+        "problem": "Những biểu thức nào sau đây có giá trị bằng \\(\\dfrac{3}{7}\\)?\n\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính từng biểu thức rồi so sánh giá trị với \\(\\dfrac{3}{7}\\)\nChú ý:\n\\(\\sqrt{a^2}=a\\) với \\(a \\ge 0\\)\nLời giải chi tiết\nTa có:\n\\(\\sqrt {\\dfrac{{{3^2}}}{{{7^2}}}}  = \\sqrt {{{\\left( {\\dfrac{3}{7}} \\right)}^2}}  = \\dfrac{3}{7}\\\\\\dfrac{{39}}{{91}} = \\dfrac{{39:13}}{{91:13}} = \\dfrac{3}{7}\\)\n\\(\\begin{array}{l}\\dfrac{{\\sqrt {{3^2}}  + \\sqrt {{{39}^2}} }}{{\\sqrt {{7^2}}  + \\sqrt {{{91}^2}} }} = \\dfrac{{3 + 39}}{{7 + 91}} = \\dfrac{{42}}{{98}} = \\dfrac{3}{7}\\\\\\dfrac{{\\sqrt {{3^2}}  - \\sqrt {{{39}^2}} }}{{\\sqrt {{7^2}}  - \\sqrt {{{91}^2}} }} = \\dfrac{{3 - 39}}{{7 - 91}} = \\dfrac{{ - 36}}{{ - 84}} = \\dfrac{3}{7}\\end{array}\\)\nVậy cả 4 biểu thức đã cho đều bằng \\(\\dfrac{3}{7}\\)"
+    },
+
+    {
+        "problem": "Chứng tỏ rằng \\(0,{\\left( 3 \\right)^2} = 0,\\left( 1 \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt \\(x = 0,\\left( 3 \\right),y = 0,\\left( 1 \\right)\\). Tìm y suy ra x\nLời giải chi tiết\nĐặt \\(x = 0,\\left( 3 \\right),y = 0,\\left( 1 \\right)\\)\nTa có: \\(10y = 1,\\left( 1 \\right) \\Rightarrow 10y = 1 + y \\Rightarrow 9y = 1 \\Rightarrow y = \\dfrac{1}{9}\\)\n\\(0,\\left( 3 \\right) = 3.0,\\left( 1 \\right) = 3.\\dfrac{1}{9} = \\dfrac{1}{3}\\)\nTừ đó: \\({x^2} = y \\Rightarrow 0,{\\left( 3 \\right)^2} = 0,1\\)"
+    },
+    {
+        "problem": "So sánh \\(a = 1,\\left( {41} \\right)\\) và \\(\\sqrt 2 \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \\(\\sqrt 2  = 1,4142135623730....\\)\nLời giải chi tiết\nTa có: \\(\\sqrt 2  = 1,4142135623730.... > 1,4142 > 1,4141... = 1,\\left( {41} \\right) = a\\)\nVậy \\(a < \\sqrt 2 \\)"
+    },
+    {
+        "problem": "Số nào trong các số:\\( - \\dfrac{{16}}{3};\\sqrt {36} ;\\sqrt {47} ; - 2\\pi ;\\sqrt {0,01} ;2 + \\sqrt 7 \\) là số vô tỉ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số vô tỉ là số viết được dưới dạng thập phân vô hạn không tuần hoàn.\n+ Tích của một số hữu tỉ với một số vô tỉ là số vô tỉ\n+ Tổng của một số hữu tỉ với một số vô tỉ là số vô tỉ\nLời giải chi tiết\nCác số \\( - \\dfrac{{16}}{3};\\sqrt {36}  = 6;\\sqrt {0,01}  = 0,1\\) đều là số hữu tỉ.\nSố 47 là số tự nhiên không chính phương nên \\(\\sqrt {47} \\) là số vô tỉ.\nCác số \\( - 2\\pi ;2 + \\sqrt 7 \\) cũng số vô tỉ.\nThật vậy, vì \\(\\pi \\) là số vô tỉ nên \\( - 2\\pi \\) là số vô tỉ.\nVì số 7 là số tự nhiên không chính phương nên \\(\\sqrt 7 \\) là số vô tỉ, do đó \\(2 + \\sqrt 7 \\) cũng là số vô tỉ."
+    },
+    {
+        "problem": "Trong các phân số:\\(\\dfrac{{13}}{{15}};\\dfrac{{13}}{4};\\dfrac{{ - 1}}{{18}};\\dfrac{{11}}{6};\\dfrac{7}{{20}};\\dfrac{{ - 19}}{{50}}\\), gọi A là tập hợp các phân số viết được thành số thập phân hữu hạn và B là tập hợp các phân số viết được thành số thập phân vô hạn tuần hoàn. Liệt kê và viết các phần tử của hai tập hợp đó theo thứ tự từ nhỏ đến lớn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các phân số tối giản với mẫu dương mà mẫu chỉ có ước nguyên tố là 2 và 5 đều viết được dưới dạng số thập phân hữu hạn\nCác phân số tối giản với mẫu dương mà mẫu có ước nguyên tố khác 2 và 5 đều viết được dưới dạng số thập phân vô hạn tuần hoàn.\nLời giải chi tiết\nCác phân số trên đã tối giản.\nTa có:\n\\(\\begin{array}{l}15 = 3.5;\\\\4 = {2^2}\\\\18 = {2.3^2}\\\\6 = 2.3\\\\20 = {2^2}.5\\\\50 = {2.5^2}\\end{array}\\)\nNhư vậy: Tập hợp A gồm các phân số viết được thành số thập phân hữu hạn (mẫu chỉ có ước nguyên tố là 2 và 5) gồm các phần tử: \\( - \\dfrac{19}{50};\\dfrac{7}{20};\\dfrac{13}{4}\\)\nTập hợp B gồm các phân số viết được thành số thập phân vô hạn tuần hoàn (mẫu có ước nguyên tố khác 2 và 5) gồm các phần tử: \\(\\dfrac{1}{{18}};\\dfrac{{13}}{{15}};\\dfrac{{11}}{6}\\)\nVì \\( - \\dfrac{19}{50}<0<\\dfrac{7}{20}<1<\\dfrac{13}{4}\\) nên \\( - \\dfrac{19}{50}<\\dfrac{7}{20}<\\dfrac{13}{4}\\)\nVì \\(\\dfrac{1}{{18}}<\\dfrac{1}{2}<\\dfrac{{13}}{{15}}<1<\\dfrac{{11}}{6}\\) nên \\(\\dfrac{1}{{18}}<\\dfrac{{13}}{{15}}<\\dfrac{{11}}{6}\\)\nTừ đó ta được:\n\\(\\begin{array}{l}A = \\left\\{ { - \\dfrac{{19}}{{50}};\\dfrac{7}{{20}};\\dfrac{{13}}{4}} \\right\\}\\\\B = \\left\\{ { - \\dfrac{1}{{18}};\\dfrac{{13}}{{15}};\\dfrac{{11}}{6}} \\right\\}\\end{array}\\)"
+    },
+    {
+        "problem": "Viết số \\(0,1\\left( {235} \\right)\\) dưới dạng phân số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(0,1\\left( {235} \\right) = 1,\\left( {235} \\right):10 = \\left( {1 + 0,\\left( {235} \\right)} \\right):10\\)\nTính 0,(235) tương tự như bài trên\nLời giải chi tiết\nTa có: \\(0,1\\left( {235} \\right) = 1,\\left( {235} \\right):10 = \\left( {1 + 0,\\left( {235} \\right)} \\right):10\\)\nĐặt \\(x = 0,\\left( {235} \\right) \\Rightarrow 1000x = 235,\\left( {235} \\right) = 235 + x \\Rightarrow 999x = 235 \\Rightarrow x = \\dfrac{{235}}{{999}}\\).\nDo đó: \\(0,1\\left( {235} \\right) = \\left( {1 + \\dfrac{{235}}{{999}}} \\right):10 = \\dfrac{{1234}}{{9990}}\\)"
+    },
+    {
+        "problem": "Viết các số thực sau theo thứ tự từ bé đến lớn:\n\\(\\sqrt 5 ; - 1,7\\left( 5 \\right);\\pi ; - 2;\\dfrac{{22}}{7};0\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- So sánh các số âm: Nếu a < b thì -a > -b\n- So sánh các số dương.\n- Sắp xếp các số theo theo thứ tự từ bé đến lớn.\nLời giải chi tiết\nTa có: \\(0<1,7\\left( 5 \\right) = 1,75555... < 2 \\Rightarrow  - 2 <  - 1,7\\left( 5 \\right) < 0\\)\nMặt khác ta có:\n\\(\\sqrt 5  < \\sqrt 9  = 3 < \\pi  = 3,14159....< 3,\\left( {142857} \\right) = \\dfrac{{22}}{7}\\)\nVậy các số thực đã cho sắp theo thứ tự từ bé đến lớn là:\n\\( - 2; - 1,7\\left( 5 \\right);0;\\sqrt 5 ;\\pi ;\\dfrac{{22}}{7}\\)"
+    },
+    {
+        "problem": "Số nào trong các số sau là số vô tỉ?\n\\(a = 0,7777...\\); \\(b = 0,70700700070000....\\); \\(c = \\dfrac{{ - 1}}{7}\\); \\(d = \\sqrt {{{\\left( { - 7} \\right)}^2}} \\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Số vô tỉ là các số thập phân vô hạn không tuần hoàn.\nLời giải chi tiết\nCó \\(a = 0,7777..... = 0,\\left( 7 \\right)\\) là số thập phân vô hạn tuần hoàn nên a là số hữu tỉ\nc là phân số nên c là số hữu tỉ\n\\(d = \\sqrt {{{\\left( { - 7} \\right)}^2}}  = \\sqrt {{7^2}}  = 7\\) cũng là số hữu tỉ.\n\\(b = 0,70700700070000......\\) được tạo thành bằng cách viết liên tiếp các số 70; 700; 7000;… sau dấu phẩy. Số b là số vô tỉ, vì nếu ngược lại thì b là số thập phân vô hạn tuần hoàn. Gọi n là số chữ số của chu kì và m là số chữ số thập phân đứng trước chu kì. Trong dãy 70; 700; 7000;….  Đến một lúc nào đó sẽ gặp số \\(7\\underbrace {000...0}_{n + m\\,chữ\\,số\\,0}\\), nghĩa là trong phần thập phân của số b có n + m chữ số 0 đứng cạnh nhau, suy ra chu kì của số b gồm toàn chữ số 0, do đó b là số thập phân hữu hạn. Vô lí\nVậy trong các số đã cho chỉ có b là vô tỉ."
+    },
+    {
+        "problem": "Viết số thập phân 3,(5) dưới dạng phân số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt \\(x = 0,\\left( 5 \\right)\\)\nNhân cả hai vế với 10 và tìm x\nLời giải chi tiết\nTa có: \\(3,(5) = 3 + 0,\\left( 5 \\right)\\)\nĐặt \\(x = 0,\\left( 5 \\right)\\) thì \\(10x = 5,\\left( 5 \\right) \\Rightarrow 10x = 5 + x \\Rightarrow 9x = 5 \\Rightarrow x = \\dfrac{5}{9}\\)\nDo đó: \\(3,\\left( 5 \\right) = 3 + \\dfrac{5}{9} = \\dfrac{{32}}{9}\\)."
+    }
+]

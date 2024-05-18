@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "A. M ∈ a; P ∉ a; O ∈ a; O ∉ b\nB. M ∈ a; P ∉ a; O ∉ a; O ∉ b\nC. M ∉ a; P ∈ a; O ∈ a; O ∉ b\nD. M ∉ a; P ∉ a; O ∈ a; O ∈ b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nKí hiệu cho cách diễn đạt “ Đường thẳng a chứa điểm M và không chứa điểm P . Điểm O thuộc đường thẳng a và không thuộc đường thẳng b” là:\nM ∈ a,P ∉ a,O ∈ a,O ∉ b \nĐáp án cần chọn là: A"
+    }
+]

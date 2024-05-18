@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Con hãy chọn đáp án đúng nhất:\nA.\tNếu nhân cả tử số và mẫu số của một phân số với cùng một số tự nhiên khác 0 thì được một phân số bằng phân số đã cho\nB.\tNếu cả tử số và mẫu số của một phân số cùng chia hết cho một số tự nhiên khác 0 thì sau khi chia được một phân số bằng phân số đã cho\nC.\tPhân số có tử số bé hơn mẫu số thì bé hơn 1\nD.\tTất cả các đáp án đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu nhân cả tử số và mẫu số của một phân số với cùng một số tự nhiên khác 00 thì được một phân số bằng phân số đã cho.   \n- Nếu cả tử số và mẫu số của một phân số cùng chia hết cho một số tự nhiên khác 00 thì sau khi chia ta được một phân số bằng phân số đã cho.\n- Phân số có tử số bé hơn mẫu số thì bé hơn 1.\nVậy tất cả các đáp án trên đều đúng."
+    },
+    {
+        "problem": "Câu 2: Hoa nói: “Trong hai phân số có cùng mẫu số, phân số nào có tử số lớn hơn thì bé hơn”. Theo con, Hoa nói đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hai phân số có cùng mẫu số:\n+) Phân số nào có tử số bé hơn thì phân số đó bé hơn.\n+) Phân số nào có tử số lớn hơn thì phân số đó lớn hơn.\n+) Nếu tử số bằng nhau thì hai phân số đó bằng nhau.\nVậy Hoa đã nói sai."
+    }
+]

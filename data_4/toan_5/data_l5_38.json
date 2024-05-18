@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 1: Để tìm 25% của 50 ta làm như sau:\nA.\tNhân 50 với 25\nB.\tChia 50 cho 25\nC.\tNhân 50 với 100 rồi lấy tích chia cho 25\nD.\tNhân 50 với 25 rồi lấy tích chia cho 100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm 25% của 50 ta có thể lấy 50 chia cho 100 rồi nhân với 25 hoặc lấy  50 nhân với 25 rồi chia cho 100."
+    },
+    {
+        "problem": "Câu 2: Tìm 18% của 235\nA.\t13,05\nB.\t42,3\nC.\t1305,55\nD.\t4230",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "18% của 235 là:\t235 : 100 × 18 = 42,3\nHay 18% của 235 là:\t235 × 18 : 100 = 42,3"
+    },
+    {
+        "problem": "Câu 4: Một tổ sản xuất được 900 sản phẩm. Bác Minh làm được 16% tổng số sản phẩm của tổ đó. Hỏi bác Minh làm được bao nhiêu sản phẩm?\nA.\t142 sản phẩm\nB.\t144 sản phẩm\nC.\t146 sản phẩm\nD.\t148 sản phẩm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bác Minh làm được bao số sản phẩm là:\n900 : 100 × 16 = 144 (sản phẩm)\nĐáp số: 144 sản phẩm."
+    },
+    {
+        "problem": "Câu 5: Một xưởng may đã dùng hết 780m vải để may quẩn áo, trong đó số vải may áo chiếm 52,5%. Hỏi số vải may áo là bao nhiêu mét?\nA.\t370,5m\nB.\t375m\nC.\t495m\nD.\t409,5m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số vải dùng để may áo là:      \n780 : 100 × 52,5 = 409,5 (m)\nĐáp số: 409,5m."
+    },
+    {
+        "problem": "Câu 7: Đoạn đường từ huyện về xã dài 7,5km. Người ta đã trải nhựa được 32,5% đoạn đường đó. Hỏi đoạn đường chưa được trải nhựa dài bao nhiêu mét?\nA.\t2437,5m\nB.\t2860m\nC.\t5062,5m\nD.\t5250m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 7,5km = 7500m\nĐoạn đường chưa được trải nhựa chiếm số phần trăm so với cả đoạn đường là: \n100% − 32,5% = 67,5% đoạn đường\nĐoạn đường chưa được trải nhựa dài số mét là:  \n7500 : 100 × 67,5 = 5062,5 (m)\nĐáp số: 5062,5m."
+    },
+    {
+        "problem": "Câu 8: Một người gửi tiết kiệm 5000000 đồng, biết lãi suất tiết kiệm là 0,6% một tháng.\nTính số tiền người đó nhận được sau một tháng.\nA.\t5300000 đồng\nB.\t5030000 đồng\nC.\t5003000 đồng\nD.\t53000000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền lãi sau một tháng là:   \n5000000 : 100 × 0,6 = 30000 (đồng)\nSố tiền người đó nhận được sau một tháng là: \n5000000 + 30000 = 5030000 (đồng)\nĐáp số: 5030000 đồng."
+    },
+    {
+        "problem": "Câu 10: Một trại nuôi có 250 con. Trong đó số gà chiếm 20% tổng số con, số vịt chiếm 28,8% tổng số con, còn lại là ngan. Hỏi trại chăn nuôi đó có bao nhiêu con ngan?\nA.\t50 con\nB.\t72 con\nC.\t122 con\nD.\t128 con",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ lệ phần trăm của số ngan so với tổng số con của trại chăn nuôi đó là:  \n100% − 20% − 28,8% = 51,2%\nTrại chăn nuôi đó có số con ngan là: \n250 : 100 × 51,2 = 128 (con)\nĐáp số: 128 con."
+    },
+    {
+        "problem": "Câu 12: Giá bán một quyển sách là 12000 đồng. Nhân dịp Trung thu, nhà sách giảm giá 15%. Sau khi giảm giá, giá của quyển sách đó còn lại là bao nhiêu?\nA.\t18000 đồng\nB.\t48000 đồng\nC.\t102000 đồng\nD.\t108000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của giá sách sau khi giảm và giá bán ban đầu của quyển sách là:\n100% − 15% = 85%\nGiá của quyển sách sau khi giảm giá là: \n120000 : 100 × 85 = 102000 (đồng)\nĐáp số: 102000 đồng."
+    },
+    {
+        "problem": "Câu 13: Một người gửi tiết kiệm 20000000 đồng với lãi suất 0,5% mỗi tháng. Tính số tiền người đó nhận được sau 2 tháng. Biết rằng tiền lãi tháng trước được nhập vào làm tiền gửi của tháng sau.\nA.\t20100000 đồng\nB.\t20200200 đồng\nC.\t20200000 đồng\nD.\t2520000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền lãi nhận được sau tháng thứ nhất là: \n20000000 : 100 × 0,5 = 100000 (đồng)\nSố tiền người đó nhận được sau tháng thứ nhất là:\n20000000 + 100000 = 20100000 (đồng)\nSố tiền lãi nhận được sau tháng thứ hai là: \n20100000 : 100 × 0,5 = 100500 (đồng)\nSố tiền người đó nhận được sau 2 tháng là:  \n20100000 + 100500 = 20200500 (đồng)\nĐáp số: 20200500 đồng."
+    },
+    {
+        "problem": "Câu 14: Giá bán một quyển sách là 160000 đồng. Hỏi sau 2 lần liên tiếp, mỗi lần 5% giá trước đó thì quyển sách đó còn lại bao nhiêu tiền?\nA.\t152000 đồng\nB.\t148500 đồng\nC.\t144000 đồng\nD.\t144400 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của giá bán sau khi giảm giá và giá bán trước đó là:  \n100% − 5% = 95%\nGiá của quyển sách sau khi giảm giá lần thứ nhất là: \n160000 : 100 × 95 = 152000 (đồng)\nGiá của quyển sách sau khi giảm giá lần thứ hai là: \n152000 : 100 × 95 = 144400 (đồng)\nĐáp số: 144400 đồng."
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Cho hai đa thức: \\(M = 23{x^{23}}y - 22x{y^{23}} + 21y - 1\\) và \\(N =  - 22x{y^3} - 42y - 1\\)\na) Tính giá trị của mỗi đa thức \\(M,N\\) tại \\(x = 0;y =  - 2\\)\nb) Tính \\(M + N;M - N\\)\nc) Tìm đa thức \\(P\\) sao cho \\(M - N - P = 63y + 1\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các phương pháp cộng, trừ, nhân, chia đa thức cho đa thức.\nLời giải chi tiết\na) Ta có:\nTại \\(x = 0;y =  - 2\\) thì biểu thức \\(M\\) có giá trị:\n\\({23.0^{23}}.\\left( { - 2} \\right) - 22.0.{\\left( { - 2} \\right)^{23}} + 21\\left( { - 2} \\right) - 1 =  - 43\\)\nTại \\(x = 0;y =  - 2\\) thì biểu thức \\(N\\) có giá trị:\n\\( - 22.0.{\\left( { - 2} \\right)^3} - 42.\\left( { - 2} \\right) - 1 = 83\\).\nb) Ta có:\n\\(\\begin{array}{l}M - N = \\left( {23{x^{23}}y - 22x{y^{23}} + 21y - 1} \\right) - \\left( { - 22x{y^3} - 42y - 1} \\right)\\\\ = 23{x^{23}}y - 22x{y^{23}} + 21y - 1 + 22x{y^3} + 42y + 1\\\\ = 23{x^{23}}y - 22x{y^{23}} + 22x{y^3} + 63y\\end{array}\\)\n\\(\\begin{array}{l}M + N = \\left( {23{x^{23}}y - 22x{y^{23}} + 21y - 1} \\right) + \\left( { - 22x{y^3} - 42y - 1} \\right)\\\\ = 23{x^{23}}y - 22x{y^{23}} + 21y - 1 - 22x{y^3} - 42y - 1\\\\ = 23{x^{23}}y - 22x{y^{23}} - 22x{y^3} - 21y - 2\\end{array}\\)\nc) Ta có:\n\\(\\begin{array}{l}P = \\left( {M - N} \\right) - \\left( {63y + 1} \\right)\\\\ = \\left( {23{x^{23}}y - 22x{y^{23}} + 22x{y^3} + 63y} \\right) - \\left( {63y + 1} \\right)\\\\ = 23{x^{23}}y - 22x{y^{23}} + 22x{y^3} + 63y - 63y - 1\\\\ = 23{x^{23}}y - 22x{y^{23}} + 22x{y^3} - 1\\end{array}\\)"
+    },
+    {
+        "problem": "Cho tam giác \\(ABC\\) có cạnh \\(BC = 2x\\left( {dm} \\right)\\), đường cao \\(AH = x\\left( {dm} \\right)\\) với \\(x > 0\\) và hình vuông \\(MNPQ\\) có cạnh \\(MN = y\\left( {dm} \\right)\\) với \\(y > 0\\) (Hình 4).\na) Viết công thức tính tổng diện tích của các tam giác \\(AMN,BMQ,CNP\\) dưới dạng tích.\nb) Tính tổng diện tích của các tam giác \\(AMN,BMQ,CNP\\), biết \\(x - y = 2\\) và \\(x + y = 10\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức tính diện tích tam giác, công thức tính diện tích hình vuông và các phương pháp phân tích đa thức thành nhân tử để tính tổng diện tích các tam giác  \\(AMN,BMQ,CNP\\).\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}{S_{AMN + BMQ + NCP}} = {S_{ABC}} - {S_{MNPQ}}\\\\ = \\frac{1}{2}\\left( {x.2x} \\right) - {y^2} = {x^2} - {y^2}\\\\ = \\left( {x - y} \\right)\\left( {x + y} \\right)\\left( {d{m^2}} \\right)\\end{array}\\)\nb) Ta có:\n\\({S_{AMN + BMQ + NCP}} = 2.10 = 20\\left( {d{m^2}} \\right)\\)"
+    },
+    {
+        "problem": "Không tính giá trị của biểu thức, hãy so sánh:\na) \\(M = 2021.2023\\) và \\(N = {2022^2}\\)\nb) \\(P = 3\\left( {{2^2} + 1} \\right)\\left( {{2^4} + 1} \\right)\\left( {{2^8} + 1} \\right) + 2\\) và \\(Q = {\\left( {{2^2}} \\right)^8}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các hằng đẳng thức đáng nhớ để so sánh.\nLời giải chi tiết\na) Ta có:\n\\(2021.2023 = \\left( {2022 - 1} \\right)\\left( {2022 + 1} \\right) = {2022^2} - {1^2} < {2022^2}\\)\nVậy \\(M < N\\)\nb) Ta có:\n\\(\\begin{array}{l}3\\left( {{2^2} + 1} \\right)\\left( {{2^4} + 1} \\right)\\left( {{2^8} + 1} \\right) + 2\\\\ = \\left( {{2^2} - 1} \\right)\\left( {{2^2} + 1} \\right)\\left( {{2^4} + 1} \\right)\\left( {{2^8} + 1} \\right) + 2\\\\ = \\left( {{2^4} - 1} \\right)\\left( {{2^4} + 1} \\right)\\left( {{2^8} + 1} \\right) + 2\\\\ = \\left( {{2^8} - 1} \\right)\\left( {{2^8} + 1} \\right) + 2 = {2^{16}} - 1 + 2 = {2^{16}} + 1\\\\{\\left( {{2^2}} \\right)^8} = {2^{2.8}} = {2^{16}} < {2^{16}} + 1\\end{array}\\)\nVậy \\(P > Q\\)"
+    },
+    {
+        "problem": "Chứng minh rằng biểu thức \\(P = \\left( {2y - x} \\right)\\left( {x + y} \\right) + x\\left( {y - x} \\right) - 2y\\left( {x + 5y} \\right) - 1\\) luôn nhận giá trị âm với mọi giá trị của biến \\(x\\) và \\(y\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các phương pháp cộng, trừ, nhân, chia đa thức để rút gọn biểu thức sau đó chứng minh biểu thức luôn nhận giá trị âm.\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}P = \\left( {2y - x} \\right)\\left( {x + y} \\right) + x\\left( {y - x} \\right) - 2y\\left( {x + 5y} \\right) - 1\\\\ = 2xy + 2{y^2} - {x^2} - xy + xy - {x^2} - 2xy - 10{y^2} - 1\\\\ =  - 2{x^2} - 8{y^2} - 1\\end{array}\\)\nDo \\({x^2} \\ge 0,{y^2} \\ge 0\\) nên \\( - 2{x^2} - 8{y^2} - 1 < 0\\) với mọi giá trị của biến \\(x,y\\).\nVậy \\(P\\) luôn nhận giá trị âm với mọi giá trị của biến \\(x\\) và \\(y\\)."
+    },
+    {
+        "problem": "Tính giá trị của mỗi biểu thức sau:\na) \\(A =  - {x^3}{y^2} + 2{x^2}{y^5} - \\frac{1}{2}xy\\) tại \\(x = 2;y = \\frac{1}{2}\\).\nb) \\(B = {y^{12}} + {x^5}{y^5} - 100{x^4}{y^4} + 100{x^3}{y^3} - 100{x^2}{y^2} + 100xy - \\sqrt {36} \\) tại \\(x = 99;y = 0\\).\nc) \\(C = x{y^2} + {5^2}xz - \\sqrt 3 xy{z^3} + 25\\) tại \\(x = \\frac{{ - 1}}{2};y =  - \\sqrt 3 ;z = 2\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thu gọn các đa thức sau đó thay các giá trị \\(x,y\\) vào biểu thức để tính giá trị của mỗi biểu thức.\nLời giải chi tiết\na) Thay \\(x = 2;y = \\frac{1}{2}\\) vào biểu thức \\(A\\), ta có:\n\\(A =  - {2^3}.{\\frac{1}{2}^2} + {2.2^2}.{\\frac{1}{2}^5} - \\frac{1}{2}.2.\\frac{1}{2} =  - \\frac{9}{4}\\)\nVậy với \\(x = 2;y = \\frac{1}{2}\\) đa thức có giá trị \\(A =  - \\frac{9}{4}\\)\nb) Thay \\(x = 99;y = 0\\) vào biểu thức \\(B\\), ta có:\n\\(B = {0^{12}} + {99^5}{.0^5} - {100.99^4}{.0^4} + {100.99^3}{.0^3} - {100.99^2}{.0^2} + 100.99.0 - \\sqrt {36}  =  - \\sqrt {36}  =  - 6\\)\nVậy với \\(x = 99;y = 0\\) đa thức có giá trị \\(B =  - 6\\)\nc) Thay \\(x = \\frac{{ - 1}}{2};y =  - \\sqrt 3 ;z = 2\\) vào biểu thức \\(C\\), ta có:\n\\(C =  - \\frac{1}{2}.{\\left( { - \\sqrt 3 } \\right)^2} + {5^2}. - \\frac{1}{2}.2 - \\sqrt 3 . - \\frac{1}{2}.\\left( { - \\sqrt 3 } \\right){.2^3} + 25 =  - \\frac{{27}}{2}\\)\nVậy với \\(x = \\frac{{ - 1}}{2};y =  - \\sqrt 3 ;z = 2\\) đa thức có giá trị \\(C = \\frac{{ - 27}}{2}\\)."
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) \\(7{x^2}{y^5} - \\frac{7}{3}{y^2}\\left( {3{x^2}{y^3} + 1} \\right)\\)\nb) \\(\\frac{1}{2}x\\left( {{x^2} + {y^2}} \\right) - \\frac{3}{2}{y^2}\\left( {x + 1} \\right) - \\frac{1}{{\\sqrt 4 }}{x^3}\\)\nc) \\(\\left( {x + y} \\right)\\left( {{x^2} + {y^2} + 3xy} \\right) - {x^3} - {y^3}\\)\nd) \\(\\left( { - 132{x^{n + 2}}{y^{10}}{z^{n + 2}} + 143{x^{n + 2}}{y^{12}}{z^n}} \\right):\\left( {11{x^n}{y^9}{z^n}} \\right)\\) với \\(n\\) là số tự nhiên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các phương pháp cộng, trừ, nhân, chia đa thức cho đa thức.\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}7{x^2}{y^5} - \\frac{7}{3}{y^2}\\left( {3{x^2}{y^3} + 1} \\right)\\\\ = 7{x^2}{y^5} - 7{x^2}{y^5} - \\frac{7}{3}{y^2}\\\\ = \\frac{{ - 7}}{3}{y^2}\\end{array}\\)\nb) Ta có:\n\\(\\begin{array}{l}\\frac{1}{2}x\\left( {{x^2} + {y^2}} \\right) - \\frac{3}{2}{y^2}\\left( {x + 1} \\right) - \\frac{1}{{\\sqrt 4 }}{x^3}\\\\ = \\frac{1}{2}{x^3} + \\frac{1}{2}x{y^2} - \\frac{3}{2}x{y^2} - \\frac{3}{2}{y^2} - \\frac{1}{{\\sqrt 4 }}{x^3}\\\\ = \\left( {\\frac{1}{2}{x^2} - \\frac{1}{{\\sqrt 4 }}{x^3}} \\right) + \\left( {\\frac{1}{2}x{y^2} - \\frac{3}{2}x{y^2}} \\right) - \\frac{3}{2}{y^2}\\\\ =  - x{y^2} - \\frac{3}{2}{y^2}\\end{array}\\)\nc) Ta có:\n\\(\\begin{array}{l}\\left( {x + y} \\right)\\left( {{x^2} + {y^2} + 3xy} \\right) - {x^3} - {y^3}\\\\ = \\left( {x + y} \\right)\\left( {{x^2} + {y^2} + 3xy} \\right) - \\left( {{x^3} + {y^3}} \\right)\\\\ = \\left( {x + y} \\right)\\left( {{x^2} + {y^2} + 3xy} \\right) - \\left( {x + y} \\right)\\left( {{x^2} - xy + {y^2}} \\right)\\\\ = \\left( {x + y} \\right)\\left( {{x^2} + {y^2} + 3xy - {x^2} + xy - {y^2}} \\right)\\\\ = \\left( {x + y} \\right).4xy\\\\ = 4{x^2}y + 4{y^2}\\end{array}\\)\nd) Ta có:\n\\(\\begin{array}{l}\\left( { - 132{x^{n + 2}}{y^{10}}{z^{n + 2}} + 143{x^{n + 2}}{y^{12}}{z^n}} \\right):\\left( {11{x^n}{y^9}{z^n}} \\right)\\\\ =  - 12xy{z^2} + 13{x^2}{y^3}\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm giá trị nhỏ nhất của mỗi biểu thức sau:\na) \\(A = 4{x^2} - 4x + 23\\)\nb) \\(B = 25{x^2} + {y^2} + 10x - 4y + 2\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các hằng đẳng thức đáng nhớ để tìm giá trị nhỏ nhất của mỗi biểu thức.\nLời giải chi tiết\na) Ta có:\n\\(A = 4{x^2} - 4x + 23 = \\left( {4{x^2} - 4x + 1} \\right) + 22 = {\\left( {2x - 1} \\right)^2} + 22\\)\nMà \\({\\left( {2x - 1} \\right)^2} \\ge 0\\) với mọi \\(x\\), suy ra \\({\\left( {2x - 1} \\right)^2} + 22 \\ge 22\\) với mọi \\(x\\)\nVậy giá trị nhỏ nhất của \\(A\\) là \\(22\\) khi \\(2x - 1 = 0\\) hay \\(x = \\frac{1}{2}\\).\nb) Ta có:\n\\(\\begin{array}{l}B = 25{x^2} + {y^2} + 10x - 4y + 2 = \\left( {25{x^2} + 10x + 1} \\right) + \\left( {{y^2} - 4y + 4} \\right) - 3\\\\ = {\\left( {5x + 1} \\right)^2} + {\\left( {y - 2} \\right)^2} - 3\\end{array}\\)\nMà \\({\\left( {5x + 1} \\right)^2} \\ge 0;{\\left( {y - 2} \\right)^2} \\ge 0\\) với mọi \\(x\\) và \\(y\\), suy ra \\({\\left( {5x + 1} \\right)^2} + {\\left( {y - 2} \\right)^2} - 3 \\ge  - 3\\) với mọi \\(x\\) và \\(y\\).\nVậy giá trị nhỏ nhất của \\(B\\) là -3 khi \\(5x + 1 = 0\\) và \\(y - 2 = 0\\) hay \\(x =  - \\frac{1}{5}\\) và \\(y = 2\\)."
+    },
+    {
+        "problem": "Cho hai đơn thức: \\(A =  - 123{x^{n + 1}}{y^{10}}{z^{n + 2}};B = 1,2{x^5}{y^n}{z^{n + 1}}\\) với \\(n\\) là số tự nhiên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đơn thức \\(A\\) chia hết cho đơn thức \\(B\\) \\(\\left( {B \\ne 0} \\right)\\) khi mỗi biến của \\(B\\) đều là biến của \\(A\\) với số mũ không lớn hơn số mũ của nó trong \\(A\\).\nLời giải chi tiết\na) Đơn thức \\(A\\) chia hết cho đơn thức \\(B\\) khi mỗi biến của \\(B\\) đều là biến của \\(A\\) với số mũ không lớn hơn số mũ của nó trong \\(A\\).\nSuy ra \\(5 \\le n + 1;n \\le 10;n + 1 \\le n + 2\\) hay \\(4 \\le n \\le 10\\).\nVậy \\(n \\in \\left\\{ {4;5;6;7;8;9;10} \\right\\}\\) thì đơn thức \\(A\\) chia hết cho đơn thức \\(B\\).\nb) \\(P = A:B = \\left( { - 123{x^{n + 1}}{y^{10}}{z^{n + 2}}} \\right):\\left( {1,2{x^5}{y^n}{z^{n + 1}}} \\right) =  - 110{x^{n - 4}}{y^{10 - n}}z\\)\nc) Giá trị của đa thức \\(P\\) tại \\(n = 9;x = 2;y =  - 1;z = 5,8\\) là:\n\\( - {110.2^{9 - 4}}.{\\left( { - 1} \\right)^{10}}.5,8 = 20416\\)"
+    },
+    {
+        "problem": "Tìm số nguyên y sao cho giá trị của đa thức \\(H =  - 54{y^6} + 36{y^4} + 12{y^2} - 6y + 23\\) là số lẻ tại các giá trị y đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tính giá trị của một đa thức tại những giá trị cho trước của các biến, ta thay những giá trị cho trước đó vào biểu thức xác định đa thức rồi thực hiện các phép tính.\nLời giải chi tiết\nDo \\(54 \\vdots 2;36 \\vdots 2;12 \\vdots 2;6 \\vdots 2\\) nên \\( - 54{y^6} + 36{y^4} + 12{y^2} - 6y \\vdots 2\\). Suy ra giá trị của đa thức \\(K =  - 54{y^6} + 36{y^4} + 12{y^2} - 6y\\) là số chẵn tại mọi số nguyên \\(y\\). Mà 23 là số lẻ, suy ra giá trị của đa thức \\(H =  - 54{y^6} + 36{y^4} + 12{y^2} - 6y + 23\\) là số lẻ tại mọi số nguyên \\(y\\)."
+    },
+    {
+        "problem": "Cho \\(a,b,c\\) là ba số tùy ý. Chứng minh: Nếu \\(a + b + c = 0\\) thì \\({a^3} + {b^3} + {c^3} = 3abc\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các phương pháp cộng, trừ, nhân, chia đa thức cho đa thức.\nLời giải chi tiết\nDo \\(a + b + c = 0\\) nên \\(x =  - a - b\\)\nKhi đó\n\\(\\begin{array}{l}{a^3} + {b^3} + {c^3} = {a^3} + {b^3} + {\\left( { - a - b} \\right)^3}\\\\ = {a^3} + {b^3} - {a^3} - 3.{a^2}b - 3.a{b^2} - {b^2}\\\\ =  - 3{a^2}b - 3a{b^2}\\\\ = 3ab\\left( { - a - b} \\right)\\\\ = 3abc\\end{array}\\)\nVậy \\({a^3} + {b^3} + {c^3} = 3abc\\)."
+    },
+    {
+        "problem": "Tìm giá trị lớn nhất của mỗi biểu thức sau:\na) \\(C =  - {\\left( {5x - 4} \\right)^2} + 2023\\)\nb) \\(D =  - 36{x^2} + 12xy - {y^2} + 7\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các hằng đẳng thức đáng nhớ để tìm giá trị lớn nhất của mỗi biểu thức.\nLời giải chi tiết\na) Do \\( - {\\left( {5x - 4} \\right)^2} \\le 0\\) với mọi \\(x\\) nên \\( - {\\left( {5x - 4} \\right)^2} + 2023 \\le 2023\\) với mọi \\(x\\).\nVậy giá trị lớn nhất của \\(C\\) là 2023 khi \\(5x - 4 = 0\\) hay \\(x = \\frac{4}{5}\\).\nb) Ta có:\n\\(D =  - 36{x^2} + 12xy - {y^2} + 7 =  - \\left( {36{x^2} - 12xy + {y^2}} \\right) + 7 =  - {\\left( {6x - y} \\right)^2} + 7\\)\nMà \\( - {\\left( {6x - y} \\right)^2} \\le 0\\) với mọi \\(x\\) và \\(y\\), suy ra \\( - \\left( {6x - y} \\right) + 7 \\le 7\\) với mọi \\(x\\) và \\(y\\).\nVậy giá trị lớn nhất của \\(D\\) là 7 khi \\(6x - y = 0\\)."
+    },
+    {
+        "problem": "Một mảnh đất có dạng hình chữ nhật với chiều dài là \\(x\\)(m), chiều rộng là \\(y\\) (m) với \\(1 < y < x\\). Người ta để lối đi có độ rộng 1 (m) (phần không tô màu) như Hình 2.\na) Viết đa thức \\(S\\) biểu thị diện tích phần còn lại của mảnh đất đó.\nb) Tính giá trị của \\(S\\) tại \\(x = 9;y = 5,4\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức tính diện tích hình chữ nhật và phương pháp cộng trừ nhân chia đa thức để tính diện tích phần còn lại của mảnh đất đó.\nLời giải chi tiết\nPhần còn lại của mảnh đất gồm bốn miếng đất bằng nhau có dạng hình chữ nhật với chiều dài bằng \\(\\frac{{x - 1}}{2}\\left( m \\right)\\), chiều rộng bằng \\(\\frac{{y - 1}}{2}\\left( m \\right)\\). Vậy đa thức biểu thị diện tích phần còn lại của mảnh đất đó là:\n\\(S = 4.\\frac{{x - 1}}{2}.\\frac{{y - 1}}{2} = xy - x - y + 1\\left( {{m^2}} \\right)\\)\nb) Giá trị của \\(S\\) tại \\(x = 9;y = 5,4\\) là:\n\\(9.5,4 - 9 - 5,4 + 1 = 35,2\\left( {{m^2}} \\right)\\)"
+    },
+    {
+        "problem": "Cho đa thức \\(G = \\frac{1}{2}{x^2} + bx + 23\\) với \\(b\\) là một số cho trước sao cho \\(\\frac{1}{2} + b\\) là số nguyên. Chứng tỏ rằng: \\(G\\) luôn nhận giá trị nguyên tại mọi số nguyên \\(x\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thu gọn đa thức sau đó chứng minh \\(G\\) luôn nhận giá triij nguyên tại mọi số nguyên \\(x\\).\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}G = \\frac{1}{2}{x^2} + bx + 23 = \\frac{1}{2}{x^2} - \\frac{1}{2}x + \\frac{1}{2}x + bx + 23\\\\ = \\left( {\\frac{1}{2}{x^2} - \\frac{1}{2}x} \\right) + \\left( {\\frac{1}{2}x + bx} \\right) + 23\\\\ = \\frac{{{x^2} - x}}{2} + \\left( {\\frac{1}{2} + b} \\right)x + 23\\\\ = \\frac{{\\left( {x - 1} \\right)x}}{2} + \\left( {\\frac{1}{2} + b} \\right)x + 23\\end{array}\\)\nDo trong hai số nguyên liên tiếp luôn có một số chia hết cho 2 nên \\(\\frac{{\\left( {x - 1} \\right)x}}{2}\\) luôn nhận giá trị nguyên tại mọi số nguyên \\(x\\). Mà \\(\\frac{1}{2} + b\\) là số nguyên, suy ra \\(\\frac{{\\left( {x - 1} \\right)x}}{2} + \\left( {\\frac{1}{2} + b} \\right)x + 23\\) luôn nhận giá trị nguyên tại mọi số nguyên \\(x\\).\nVậy \\(G\\) luôn nhận giá trị nguyên tại mọi số nguyên \\(x\\)."
+    },
+    {
+        "problem": "Tính giá trị của mỗi biểu thức sau:\na) \\(A = 16{x^2} - 8xy + {y^2} - 21\\) biết \\(4x = y + 1\\)\nb) \\(B = 25{x^2} + 60xy + 36{y^2} + 22\\) biết \\(6y = 2 - 5x\\)\nc) \\(C = 27{x^3} - 27{x^2}y + 9x{y^2} - {y^3} - 121\\) biết \\(3x = 7 + y\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hằng đẳng thức đáng nhớ để rút gọn đa thức sau đó thay các giá trị vào để tìm giá trị biểu thức.\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}A = 16{x^2} - 8xy + {y^2} - 21\\\\ = \\left( {16{x^2} - 8xy + {y^2}} \\right) - 21\\\\ = \\left( {{{\\left( {4x} \\right)}^2} - 2.4x.y + {y^2}} \\right) - 21\\\\ = {\\left( {4x - y} \\right)^2} - 21\\end{array}\\)\nGiá trị của biểu thức \\(A\\) khi \\(4x = y + 1\\) là:\n\\(\\left( {y + 1 - y} \\right) - 21 =  - 20\\)\nb) Ta có:\n\\(\\begin{array}{l}B = 25{x^2} + 60xy + 36{y^2} + 22\\\\ = \\left( {25{x^2} + 60xy + 36{y^2}} \\right) + 22\\\\ = \\left( {{{\\left( {5x} \\right)}^2} + 2.5x.6y + {{\\left( {6y} \\right)}^2}} \\right) + 22\\\\ = {\\left( {5x + 6y} \\right)^2} + 22\\end{array}\\)\nGiá trị của biểu thức \\(B\\) khi \\(6y = 2 - 5x\\) là:\n\\(\\left( {2 - 5x + 5x} \\right)^2 + 22 = 26\\).\nc) Ta có:\n\\(\\begin{array}{l}C = 27{x^3} - 27{x^2}y + 9x{y^2} - {y^3} - 121\\\\ = \\left( {27{x^3} - 27{x^2}y + 9x{y^2} - {y^3}} \\right) - 121\\\\ = \\left( {{{\\left( {3x} \\right)}^3} - 3.\\left( {3{x^2}} \\right).y + 3.3x.{y^2} - {y^2}} \\right) - 121\\\\ = {\\left( {3x - y} \\right)^3} - 121\\end{array}\\)\nGiá trị của biểu thức \\(C\\) khi \\(3x = 7 + y\\) là:\n\\({\\left( {7 + y - y} \\right)^3} - 121 = 222\\)"
+    },
+    {
+        "problem": "Phân tích mỗi đa thức sau thành nhân tử:\na) \\(3{x^2} - \\sqrt 3 x + \\frac{1}{4}\\)\nb) \\({x^2} - x - {y^2} + y\\)\nc) \\({x^3} + 2{x^2} + x - 16x{y^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hằng đẳng thức, ta có thể phân tích đa thức thành nhân tử bằng cách vận dụng trực tiếp hằng đẳng thức hoặc bằng cách vận dụng hằng đẳng thức thông qua nhóm số hạng và đặt nhân tử chung.\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}3{x^2} - \\sqrt 3 x + \\frac{1}{4}\\\\ = {\\left( {\\sqrt 3 x} \\right)^2} - 2.\\sqrt 3 x.\\frac{1}{2} + {\\left( {\\frac{1}{2}} \\right)^2}\\\\ = {\\left( {\\sqrt 3 x - \\frac{1}{2}} \\right)^2}\\end{array}\\)\nb) Ta có:\n\\(\\begin{array}{l}{x^2} - x - {y^2} + y\\\\ = \\left( {{x^2} - {y^2}} \\right) - \\left( {x - y} \\right)\\\\ = \\left( {x - y} \\right)\\left( {x + y} \\right) - \\left( {x - y} \\right)\\\\ = \\left( {x - y} \\right)\\left( {x + y - 1} \\right)\\end{array}\\)\nc) Ta có:\n\\(\\begin{array}{l}{x^3} + 2{x^2} + x - 16x{y^2}\\\\ = x\\left( {{x^2} + 2x + 1 - 16{y^2}} \\right)\\\\ = x\\left[ {\\left( {{x^2} + 2x + 1} \\right) - 16{y^2}} \\right]\\\\ = x\\left[ {{{\\left( {x + 1} \\right)}^2} - 16{y^2}} \\right]\\\\ = x\\left( {x - 4y + 1} \\right)\\left( {x + 4y + 1} \\right)\\end{array}\\)"
+    },
+    {
+        "problem": "Một chiếc khăn trải bàn có dạng hình chữ nhật \\(ABCD\\) được thêu một họa tiết có dạng hình thoi \\(MNPQ\\) ở giữa với \\(MP = x\\left( {cm} \\right);NQ = y\\left( {cm} \\right)\\left( {x > y > 0} \\right)\\) như Hình 5. Viết đa thức biểu thị diện tích phần còn lại của chiếc khan trải bàn đó.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức tính diện tích hình chữ nhật và diện tích hình thoi để viết đa thức biểu thị diện tích phần còn lại của chiếc khăn trải bàn đó.\nLời giải chi tiết\nDiện tích của khăn trải bàn là:\n\\(\\left( {x + 15 + 15} \\right)\\left( {y + 20 + 20} \\right) = xy + 40x + 30y + 1200\\left( {c{m^2}} \\right)\\)\nDiện tích của phần họa tiết là: \\(\\frac{1}{2}xy\\left( {c{m^2}} \\right)\\)\nĐa thức biểu thị phần còn lại của chiếc khăn trải bàn đó là:\n\\(\\begin{array}{l}xy + 40x + 30y + 1200 - \\frac{1}{2}xy\\\\ = \\frac{1}{2}xy + 40x + 30y + 1200\\left( {c{m^2}} \\right)\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm số tự nhiên \\(n\\) để \\({n^3} - {n^2} + n - 1\\) là số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các phương pháp phân tích đa thức thành nhân tử để tìm số tự nhiên \\(n\\) là số nguyên tố.\nLời giải chi tiết\nTa có:\n\\({n^3} - {n^2} + n - 1 = \\left( {{n^3} - {n^2}} \\right) + \\left( {n - 1} \\right) = {n^2}\\left( {n - 1} \\right) + \\left( {n - 1} \\right) = \\left( {{n^2} + 1} \\right)\\left( {n - 1} \\right)\\)\nVới mọi số tự nhiên \\(n\\), ta có: \\(n - 1 < {n^2} + 1\\). Do đó, để \\({n^3} - {n^2} + n - 1\\) là số nguyên tố thì \\(n - 1 = 1\\). Suy ra \\(n = 2\\). Khi đó \\({n^3} - {n^2} + n - 1 = 5\\) là số nguyên tố.\nVậy \\(n = 2\\) thỏa mãn yêu cầu của đề bài."
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Câu 1. Chọn câu trả lời đúng nhất. \nPhân tích đa thức thành nhân tử {x}^{2}{y}^{2}z+x{y}^{2}{z}^{2}+{x}^{2}y{z}^{2}.\nA. x{xy}^{2}{z + y}^{2}{z}^{2}{+ xyz}^{2}\nB. y{x}^{2}{yz + xyz}^{2}{+ x}^{2}{z}^{2}\nC. z{x}^{2}{y}^{2}{+ xy}^{2}{z + x}^{2}yz\nD. xyzxy + yz + xz",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa thấy nhân tử chung của các đơn thức thành phần của đa thức trên là xyz.\nKhi đó {x}^{2}{y}^{2}z+x{y}^{2}{z}^{2}+{x}^{2}y{z}^{2}\n=xyzxy + yz + xz."
+    },
+    {
+        "problem": "Câu 2.  Kết quả phân tích đa thức {x}^{2} −xy+x−ythành nhân tử là:\nA. x+1x−y\nB. x−yx−1\nC. x−yx+y\nD. xx−y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có:{x}^{2} −xy+x−y\n= xx−y+x−y\n=x+1x−y"
+    },
+    {
+        "problem": "Câu 3. Tìm x, biết: 2−25{x}^{2}=0.\nA. x=\\frac{2}{5}\nB. x=\\frac{−2}{5}\nC. \\frac{2}{25}\nD. x=\\frac{2}{5}hoặc x=\\frac{−2}{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\n2−25{x}^{2}=0\n⇔2−5x2+5x=0\n2−5x=0 hoặc 2+5x=0\nx=\\frac{2}{5} hoặc x=\\frac{− 2}{5}."
+    },
+    {
+        "problem": "Câu 4. Tính giá trị của biểu thức A={x}^{6}−{x}^{4}−x{x}^{3}−xbiết {x}^{3}−x=9\nA. A = 0\nB. A = 9\nC. A = 81\nD. A = 27",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: A={x}^{6}−{x}^{4}−x{x}^{3}−x\n={x}^{3}.{x}^{3}−{x}^{3}.x−x{x}^{3}−x\n={x}^{3}({x}^{3}−x)−x({x}^{3}−x)\n={x}^{3}−x{x}^{3}−x={{x}^{3}−x}^{2}\nVới {x}^{3}−x=9 giá trị của biểu thức A={9}^{2}=81."
+    },
+    {
+        "problem": "Câu 5. Hiệu bình phương các số lẻ liên tiếp thì luôn chia hết cho \nA. 7.\nB. 8.\nC. 9.\nD. 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nGọi hai số lẻ liên tiếp là 2k−1;  2k+1  (k∈ℕ*)\nTheo bài ra ta có:\n{2k+1}^{2}−{2k−1}^{2}=4{k}^{2}+4k+1−4{k}^{2}+4k−1=8k  ⋮  8,  ∀k∈ℕ*"
+    },
+    {
+        "problem": "Câu 6. Có bao nhiêu giá trị của x thỏa mãn {x}^{3} +2{x}^{2} −9x−18=0?\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: {x}^{3} +2{x}^{2} −9x−18=0\n{x}^{3}+2{x}^{2}−9x−18=0\n{x}^{2}x+2−9x−2=0\n{x}^{2}−9x+2=0\nx−3x+3x+2=0\nx−3=0 hoặc x+3=0 hoặc x−2=0\nx=3 hoặc x=−3 hoặc x=2\nDo đó có 3 giá trị thỏa mãn biểu thức."
+    },
+    {
+        "problem": "Câu 7.  Tính nhanh biểu thức {37}^{2}−{13}^{2}.\nA. 1200\nB. 800\nC. 1500\nD. 1800",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\n{37}^{2}−{13}^{2}=37−1337+13\n=24 . 50=1200."
+    },
+    {
+        "problem": "Câu 8. Nhân tử chung của biểu thức 30{4−2x}^{2} +3x−6 có thể là\nA. x + 2\nB. 3(x – 2)\nC. {x−2}^{2}\nD. {x+2}^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có 30{4−2x}^{2} +3x−6=30{2x−4}^{2}+3x−2\n=30 . {2}^{2}x−2+3x−2\n=120{x−2}^{2}+3x−2\n=3x−240x−2+1\n=3x−240x−79\nDo đó, nhân tử chung có thể là 3x−2."
+    },
+    {
+        "problem": "Câu 9. Cho x1 và x2 là hai giá trị thỏa mãn 4x−5−2x5−x=0. Khi đóx1 +x2 bằng\nA. 5.\nB. 7.\nC. 3.\nD. – 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 4x−5−2x5−x=0\n4x−5+2xx−5=0\nx−54+2x=0\nx−5=0 hoặc 4+2x=0\nx=5 hoặc x=−2\nDo đó x1+x2=5−2=3"
+    },
+    {
+        "problem": "Câu 10. Tính nhanh giá trị của biểu thức {x}^{2}+2x+1−{y}^{2}tại x = 94,5 và y = 4,5.\nA. 8900\nB. 9000\nC. 9050\nD. 9100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\n{x}^{2}+2x+1−{y}^{2}={x}^{2}+2x+1−{y}^{2}\n={x+1}^{2}−{y}^{2}=x+1−yx+1+y.\nThay x = 94,5 và y = 4,5 vào biểu thức, ta được:\n94,5+1−4,594,5+1+4,5\n=91  .  100=9100."
+    },
+    {
+        "problem": "Câu 11. Cho {3{x}^{2}+3x−5}^{2}−{3{x}^{2}+3x+5}^{2}=mx(x+1)với m∈ℝ. Chọn câu đúng.\nA. m > −59 \nB. m < 0\nC. m  ⋮  9\nD. m là số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: {3{x}^{2}+3x−5}^{2}−{3{x}^{2}+3x+5}^{2}\n=3{x}^{2}+3x−5−3{x}^{2}−3x−53{x}^{2}+3x−5+3{x}^{2}+3x+5\n=−106{x}^{2}+6x=−10 . 6xx+1\n=− 60xx+1=mxx+1\nDo đó m=−60<0"
+    }
+]

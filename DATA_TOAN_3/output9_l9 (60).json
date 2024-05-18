@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Rút gọn\na) \\(\\sqrt {\\dfrac{{2{a^2}{b^4}}}{{50}}} \\)         b) \\(\\dfrac{{\\sqrt {2a{b^2}} }}{{\\sqrt {162} }}\\)  với \\(a \\ge 0.\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các công thức \\(\\sqrt {\\dfrac{A}{B}}  = \\dfrac{{\\sqrt A }}{{\\sqrt B }}\\,\\left( {A \\ge 0;B > 0} \\right)\\); \\(\\sqrt {AB}  = \\sqrt A .\\sqrt B ;\\,\\sqrt {{A^2}}  = \\left| A \\right|\\); \\(\\sqrt {A^2}=|A|.\\)\nLời giải chi tiết\na) Ta có \\(\\sqrt {\\dfrac{{2{a^2}{b^4}}}{{50}}}  = \\sqrt {\\dfrac{{{a^2}{b^4}}}{{25}}}  = \\dfrac{{\\sqrt {{a^2}{b^4}} }}{{\\sqrt {25} }} = \\dfrac{{\\sqrt {{a^2}} .\\sqrt {{b^4}} }}{5}\\)\\(= \\dfrac{{\\sqrt {{a^2}} .\\sqrt {{(b^2)^2}} }}{5} = \\dfrac{{|a|{b^2}}}{5}\\)\nb) Ta có \\(\\dfrac{{\\sqrt {2a{b^2}} }}{{\\sqrt {162} }} = \\sqrt {\\dfrac{{2a{b^2}}}{{162}}}  = \\sqrt {\\dfrac{{a{b^2}}}{{81}}}  = \\dfrac{{\\sqrt {a{b^2}} }}{{\\sqrt {81} }} \\)\\(= \\dfrac{{\\sqrt a .\\sqrt {{b^2}} }}{9} = \\dfrac{{\\left| b \\right|\\sqrt a }}{9}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\( \\sqrt{\\dfrac{289}{225}}\\);                                 b) \\( \\sqrt{2\\dfrac{14}{25}}\\);\nc) \\( \\sqrt{\\dfrac{0,25}{9}}\\) ;                               d) \\( \\sqrt{\\dfrac{8,1}{1,6}}\\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Sử dụng định lí: Với số \\(a\\) không âm và số \\(b\\) dương, ta có:\n\\( \\sqrt{\\dfrac{a}{b}}=\\dfrac{\\sqrt a}{\\sqrt b} \\).\n+) Cách đổi hỗn số dương ra phân số:\n\\(a \\dfrac{b}{c}=\\dfrac{a.c+b}{c} \\),  với \\(c \\ne 0\\).\nLời giải chi tiết\na) Ta có:\n\\(\\sqrt{\\dfrac{289}{225}}=\\dfrac{\\sqrt{289}}{\\sqrt{225}}=\\dfrac{\\sqrt {17^2}}{\\sqrt{15^2}}=\\dfrac{17}{15}\\).\nb) Ta có:\n\\(\\sqrt{2\\dfrac{14}{25}}=\\sqrt{\\dfrac{2.25+14}{25}}=\\sqrt{\\dfrac{50+14}{25}}\\)\n\\(=\\sqrt{\\dfrac{64}{25}}=\\dfrac{\\sqrt{64}}{\\sqrt{25}}=\\dfrac{\\sqrt{8^2}}{\\sqrt{5^2}}=\\dfrac{8}{5}\\).\nc) Ta có:\n\\(\\sqrt{\\dfrac{0,25}{9}}=\\dfrac{\\sqrt{0,25}}{\\sqrt{9}}=\\dfrac{\\sqrt{0,5^2}}{\\sqrt{3^2}}=\\dfrac{0,5}{3}\\)\n\\(=0,5.\\dfrac{1}{3}=\\dfrac{1}{2}.\\dfrac{1}{3}=\\dfrac{1}{6}\\).\nd) Ta có:\n\\(\\sqrt{\\dfrac{8,1}{1,6}}=\\sqrt{\\dfrac{81.0,1}{16.0,1}}=\\sqrt{\\dfrac{81}{16}}=\\dfrac{\\sqrt{81}}{\\sqrt{16}}=\\dfrac{\\sqrt{9^2}}{\\sqrt{4^2}}=\\dfrac{9}{4}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mỗi khẳng định sau đúng hay sai ? Vì sao ?\na) \\(0,01 = \\sqrt {0,0001} \\);\nb) \\(- 0,5 = \\sqrt { - 0,25} \\);\nc) \\(\\sqrt {39}  < 7\\) và \\(\\sqrt {39}  > 6\\);\nd) \\(\\left( {4 - 13} \\right).2{\\rm{x}} < \\sqrt 3 \\left( {4 - \\sqrt {13} } \\right) \\Leftrightarrow 2{\\rm{x}} < \\sqrt {3} \\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ \\( \\sqrt{A}\\) xác định (hay có nghĩa) khi \\(A \\ge 0\\).\n+) Sử dụng định lí so sánh hai căn bậc hai:\n\\(a < b \\Leftrightarrow \\sqrt{a} < \\sqrt{b}\\),   với \\(a,\\ b \\ge 0\\).\n+ \\(a.c >b.c \\Leftrightarrow a> b\\) , với \\( c>0\\).\nLời giải chi tiết\na) Đúng. Vì \\(\\sqrt {0,0001}  = \\sqrt {0,{{01}^2}}  = 0,01\\)\nVì  \\(VP=\\sqrt{0,0001}=\\sqrt{0,01^2}=0,01=VT\\).\nb) Sai.\nVì vế phải không có nghĩa do số âm không có căn bậc hai.\nc) Đúng.\nVì: \\(36 < 39 < 49\\)  \\(\\Leftrightarrow \\sqrt {36}  < \\sqrt {39}  < \\sqrt {49} \\)\n\\(\\Leftrightarrow \\sqrt {{6^2}}  < \\sqrt {39}  < \\sqrt {{7^2}} \\)\n\\(\\Leftrightarrow 6 < \\sqrt {39}  < 7\\)\nHay \\(\\sqrt{39}>6\\) và \\( \\sqrt{39} < 7\\).\nd) Đúng.\nXét bất phương trình đề cho:\n\\((4-\\sqrt{13}).2x<\\sqrt 3 .(4-\\sqrt{13})\\)     \\((1)\\)\nTa có:\n\\(16>13 \\Leftrightarrow \\sqrt{16} > \\sqrt{13}\\)\n\\(\\Leftrightarrow \\sqrt{4^2}> \\sqrt{13}\\)\n\\(\\Leftrightarrow 4> \\sqrt{13}\\)\n\\(\\Leftrightarrow 4-\\sqrt{13}>0\\)\nChia cả hai vế của bất đẳng thức \\((1)\\) cho số dương \\((4-\\sqrt{13})\\), ta được:\n\\(\\dfrac{(4-\\sqrt{13}).2x}{(4-\\sqrt{13})} <\\dfrac{\\sqrt 3 .(4-\\sqrt{13})}{(4-\\sqrt{13})}\\)\n\\(\\Leftrightarrow 2x < \\sqrt 3.\\)\nVậy phép biến đổi tương đương trong câu d là đúng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm:\na) \\(\\sqrt {9,11} \\)                                 b) \\(\\sqrt {39,82} \\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dùng bảng căn bậc hai.\nLời giải chi tiết\na) \\(\\sqrt {9,11}   \\approx  3,018\\)\nb) \\(\\sqrt {39,82}   \\approx  6,310\\)\nLoigiaihay.com"
+    }
+]

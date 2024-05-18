@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Bài 14: Số nghiệm của phương trình: (x^{2}  + 9)(x – 1) = (x^{2}  + 9)(x + 3) là\nA. 2\nB. 1\nC. 0\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (x^{2}  + 9)(x – 1) = (x^{2}  + 9)(x + 3)\n⇔ (x^{2}  + 9)(x – 1) - (x^{2}  + 9)(x + 3) = 0\n⇔ (x^{2}  + 9)(x – 1 – x – 3) = 0\n⇔ (x^{2}  + 9)(-4) = 0\n⇔ x^{2}  + 9 = 0 ⇔ x^{2}  = -9 (vô nghiệm)\nVậy tập nghiệm của phương trình S = Ø hay phương trình không có nghiệm\nĐáp án cần chọn là: C"
+    }
+]

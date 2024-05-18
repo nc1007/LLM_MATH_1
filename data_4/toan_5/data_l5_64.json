@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Một ô tô đi từ A qua B để đi đến C với vận tốc là v1, cùng lúc đó xe máy đi từ B đến C với vận tốc là v2. Độ dài quãng đường AB là s. Công thức tính thời gian đi để hai xe gặp nhau là:\nA. tgn = s : (v1 + v2)\nB. tgn = s : (v1 - v2)\nC. tgn = s : (v1 × v2)\nD. tgn = s : (v1 : v2)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Theo đề bài, ô tô và xe máy xuất phát cùng lúc, thời gian đi để gặp nhau bằng quãng đường (khoảng cách ban đầu giữa hai xe) chia cho hiệu hai vận tốc, hay tgn = s : (v1 - v2)."
+    },
+    {
+        "problem": "Câu 4: Lúc 8 giờ sáng, người thứ I đi từ A đi qua B để đến C với vận tốc 50km/giờ. Cùng lúc đó tại B, người thứ II cũng khởi hành và đi cùng chiều với người thứ I với vận tốc 12km/giờ. Biết rằng khoảng cách AB bằng 19km. Hỏi hai người gặp nhau lúc mấy giờ?\nA.\t0  giờ 30 phút\nB.\t8 giờ 16 phút\nC.\t8 giờ 30 phút\nD.\t9 giờ 5 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hiệu vận tốc của hai người là:\n50 – 12 = 38 (km/giờ)      \nThời gian đi để hai người gặp nhau là:\n19 : 38 = 0,5 (giờ)\nĐổi: 0,5 giờ = 30 phút\nHai người gặp nhau lúc:\n8 giờ + 30 phút = 8 giờ 30 phút\nĐáp số: 8 giờ 30 phút"
+    },
+    {
+        "problem": "Câu 5: Quân đi xe máy từ A đi qua B để đến C với vận tốc 40 km/giờ. Cùng lúc đó tại B, Mai đi xe đạp và đi cùng chiều với Quân, với vận tốc 16 km/giờ. Biết rằng khoảng cách AB bằng 36km. Hỏi sau bao lâu hai người gặp nhau và địa điểm gặp nhau cách A bao nhiêu ki-lô-mét?\nA.\t0,64 giờ; 25,6km\nB.\t0,64 giờ; 46,24km\nC.\t1,5 giờ; 24km\nD.\t1,5 giờ; 60km",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hiệu vận tốc của Quân và Mai là:\n40 – 16 = 24 (km/giờ)        \nThời gian đi để hai người gặp nhau là:\n36 : 24 = 1,5 (giờ)\nĐịa điểm gặp nhau cách A số ki-lô-mét là:\n40 × 1,5 = 60(km)\nĐáp số: 1,5 giờ; 60km."
+    },
+    {
+        "problem": "Câu 8: Lúc 7 giờ một ô tô chở hàng đi từ A với vận tốc 48 km/giờ. Đến 8 giờ 30 phút một ô tô du lịch cũng đi từ A với vận tốc 68 km/giờ và đi cùng chiều với ô tô chở hàng. Tìm thời gian đi để xe ô tô du lịch đuổi kịp xe ô tô chở hàng.\nA.\t0,62 giờ\nB.\t1,5 giờ\nC.\t2,75 giờ\nD.\t3,6 giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian ô tô chở hàng đi trước ô tô du lịch là:\n8 giờ 30 phút − 7 giờ = 1 giờ 30 phút\nĐổi 1 giờ 30 phút = 1,5 giờ\nQuãng đường xe ô tô chở hàng đã đi trước khi ô tô du lich xuất phát (hay khoảng cách giữa hai xe khi ô tô du lịch xuất phát) là:\n48 × 1,5 = 72 (km)\nHiệu vận tốc hai ô tô là:\n68 − 48 = 20 (km/giờ)\nThời gian đi để xe ô tô du lịch đuổi kịp xe ô tô chở hàng là:\n72 : 20 = 3,6 (giờ)\nĐáp số: 3,6 giờ."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Tìm các giá trị của m để hàm số bậc nhất \\(y = \\left( {m - 2} \\right)x + 1\\) là hàm số đồng biến.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất \\(y = ax + b\\,\\,\\) đồng biến trên R khi \\(a > 0\\)\nHàm số bậc nhất \\(y = ax + b\\,\\,\\) nghịch biến trên R khi \\(a < 0\\)\nLời giải chi tiết\nHàm số bậc nhất \\(y = \\left( {m - 2} \\right)x + 1\\) đồng biến trên R khi \\(m - 2 > 0 \\Leftrightarrow m > 2\\)\nVậy với \\(m > 2\\) thì hàm số đã cho đồng biến.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm các giá trị của m để hàm số bậc nhất \\(y = \\left( {m + 1} \\right)x - 4\\) là hàm số nghịch biến.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất \\(y = ax + b\\,\\,\\) đồng biến trên R khi \\(a > 0\\)\nHàm số bậc nhất \\(y = ax + b\\,\\) nghịch biến trên R khi \\(a < 0\\)\nLời giải chi tiết\nHàm số bậc nhất \\(y = \\left( {m + 1} \\right)x - 4\\)nghịch biến trên R khi \\(m + 1 < 0 \\Leftrightarrow m <  - 1\\)\nVậy với \\(m < - 1\\) thì hàm số đã cho nghịch biến.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm a để các hàm số bậc nhất \\(y = \\left( {a + 1} \\right)x - 2\\) và \\(y = \\left( {3 - a} \\right)x + 2\\) có đồ thị là những đường thẳng song song.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất có dạng \\(y = ax + b\\left( {a \\ne 0} \\right)\\)\nCho hai đường thẳng \\(y = ax + b;\\,\\,y = a'x + b'\\,\\,\\left( {a,a' \\ne 0} \\right)\\)\nHai đường thẳng này song song với nhau khi và chỉ khi \\(\\left\\{ \\begin{array}{l}a = a'\\\\b \\ne b'\\end{array} \\right.\\)\nLời giải chi tiết\nĐể hàm số \\(y = \\left( {a + 1} \\right)x - 2\\) và \\(y = \\left( {3 - a} \\right)x + 2\\) là các hàm số bậc nhất thì \\(\\left\\{ \\begin{array}{l}a + 1 \\ne 0\\\\3 - a \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a \\ne  - 1\\\\a \\ne 3\\end{array} \\right.\\)\nĐồ thị của chúng là những đường thẳng song song khi và chỉ khi\n\\(\\left\\{ \\begin{array}{l}a = a'\\\\b \\ne b'\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a + 1 = 3 - a\\\\ - 2 \\ne 2\\left( {tm} \\right)\\end{array} \\right.\\)\\(\\; \\Rightarrow a = 1\\left( {tm} \\right)\\)\nVậy \\(a = 1\\)  thỏa mãn yêu cầu bài toán.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm a để các hàm số bậc nhất \\(y = \\left( {2a + 2} \\right)x + a + 4\\) và \\(y = \\left( {2 - 2a} \\right)x + 4 - 3a\\) có đồ thị là những đường thẳng trùng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất có dạng \\(y = ax + b\\left( {a \\ne 0} \\right)\\)\nCho hai đường thẳng \\(y = ax + b;\\,\\,y = a'x + b'\\,\\,\\left( {a,a' \\ne 0} \\right)\\)\nHai đường thẳng này trùng nhau khi và chỉ khi \\(\\left\\{ \\begin{array}{l}a = a'\\\\b = b'\\end{array} \\right.\\)\nLời giải chi tiết\nĐể hàm số \\(y = \\left( {2a + 2} \\right)x + a + 4\\) và \\(y = \\left( {2 - 2a} \\right)x + 4 - 3a\\) là các hàm số bậc nhất thì \\(\\left\\{ \\begin{array}{l}2a + 2 \\ne 0\\\\2 - 2a \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a \\ne  - 1\\\\a \\ne 1\\end{array} \\right.\\)\nĐồ thị của chúng là những đường thẳng trùng nhau khi và chỉ khi\n\\(\\left\\{ \\begin{array}{l}a = a'\\\\b = b'\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}2a + 2 = 2 - 2a\\\\a + 4 = 4 - 3a\\end{array} \\right. \\)\\(\\,\\Leftrightarrow a = 0\\left( {tm} \\right)\\)\nVậy \\(a = 0\\)  thỏa mãn yêu cầu bài toán.\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Tìm a để các hàm bậc nhất \\(y = \\left( {2a + 1} \\right)x - 1\\) và \\(y = \\left( {3 + a} \\right)x + 2\\) có đồ thị là những đường thẳng cắt nhau.\nb) Cho hai đường thẳng \\(y = mx - m + 2\\left( {{d_1}} \\right)\\) và \\(y = \\left( {m - 3} \\right)x + m\\left( {{d_2}} \\right)\\). Tìm m để \\(\\left( {{d_1}} \\right)\\) và \\(\\left( {{d_2}} \\right)\\) cắt nhau tại điểm trên trục tung.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất có dạng \\(y = ax + b\\left( {a \\ne 0} \\right)\\)\nCho hai đường thẳng \\(y = ax + b;\\,\\,y = a'x + b'\\,\\,\\left( {a,a' \\ne 0} \\right)\\)\nHai đường thẳng cắt nhau khi và chỉ khi \\(a \\ne a'\\)\nLời giải chi tiết\na) Để các hàm số \\(y = \\left( {2a + 1} \\right)x - 1\\) và \\(y = \\left( {3 + a} \\right)x + 2\\) là hàm số bậc nhất thì \\(\\left\\{ \\begin{array}{l}2a + 1 \\ne 0\\\\3 + a \\ne 0\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}a \\ne  - \\dfrac{1}{2}\\\\a \\ne  - 3\\end{array} \\right.\\)\nHai đường thẳng cắt nhau khi và chỉ khi \\(2a + 1 \\ne 3 + a \\Leftrightarrow a \\ne 2\\)\nVậy với \\(a \\ne 2;a \\ne  - \\dfrac{1}{2};a \\ne  - 3\\) thỏa mãn yêu cầu bài toán.\nb) Để hai đường thẳng cắt nhau thì \\(m \\ne m - 3\\left( {tm} \\right),\\forall m\\)\nHai đường thẳng cắt nhau tại 1 điểm trên trục tung tức là \\(x = 0\\) khi đó ta có: \\(\\left( {{d_1}} \\right):y =  - m + 2;\\left( {{d_2}} \\right):y = m \\)\\(\\,\\Rightarrow  - m + 2 = m \\Rightarrow m = 1\\)\nVậy \\(m = 1\\) thỏa mãn yêu cầu bài toán.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho ba đường thẳng \\(\\left( {{d_1}} \\right):y = 3x,\\left( {{d_2}} \\right):y = x + 2,\\)\\(\\,\\left( {{d_3}} \\right):y = \\left( {m - 3} \\right)x + 2m + 1\\).\nTìm m để ba đường thẳng đồng quy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm tọa độ giao điểm của 2 đường thẳng \\(\\left( {{d_1}} \\right)\\) và \\(\\left( {{d_2}} \\right)\\) Tọa độ giao điểm của 2 đường thẳng \\(\\left( {{d_1}} \\right)\\) và \\(\\left( {{d_2}} \\right)\\)chính là nghiệm của hệ phương trình gồm 2 pt đường thẳng đó.\n3 đường thẳng \\(\\left( {{d_1}} \\right)\\) và \\(\\left( {{d_2}} \\right),\\left( {{d_3}} \\right)\\) đồng quy ta nếu tọa độ giao điểm của 2 đường thẳng \\(\\left( {{d_1}} \\right)\\) và \\(\\left( {{d_2}} \\right)\\) phải thỏa mãn phương trình đường thẳng \\(\\left( {{d_3}} \\right)\\)\nLời giải chi tiết\nTọa độ giao điểm của 2 đường thẳng \\(\\left( {{d_1}} \\right);\\left( {{d_2}} \\right)\\) là nghiệm của hệ phương trình \\(\\left\\{ \\begin{array}{l}y = 3x\\\\y = x + 2\\end{array} \\right. \\Leftrightarrow \\left\\{ \\begin{array}{l}x = 1\\\\y = 3\\end{array} \\right. \\Rightarrow A\\left( {1;3} \\right)\\)\nĐể 3 đường thẳng trên đồng quy thì điểm A phải thuộc vào đường thẳng \\(\\left( {{d_3}} \\right)\\) tức là:\n\\(3 = \\left( {m - 3} \\right).1 + 2m + 1 \\Leftrightarrow m = \\dfrac{5}{3}\\)\nVậy với \\(m = \\dfrac{5}{3}\\)thì 3 đường thẳng trên đồng quy.\nLoigiaihay.com"
+    }
+]

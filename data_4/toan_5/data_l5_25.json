@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 7: Chọn đáp án đúng nhất:\n158,3 – 78,96 … 36,95 + 41,09\nDấu thích hợp điền vào chỗ chấm là:\nA. <\t \nB. =\t \nC. >",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 158,3 – 78,96 = 79,34;   36,95 + 41,09 = 78,04\nMà 79,34 > 78,04\nVậy 158,3 – 78,96 > 36,95 + 41,09"
+    },
+    {
+        "problem": "Câu 8: Tìm y biết: 135,2 - y = 52,53 + 16,7\nA. y\t= 65,97\nB. y\t= 66,2\nC. y\t= 82,67\nD. y = 204,43",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \n    135,2 - y = 52,53 + 16,7\n    135,2 - y = 69,23\n y = 135,2 - 69,23\n y = 65,97\nVậy y = 65,97."
+    },
+    {
+        "problem": "Câu 14: 385,18 trừ đi hiệu của 207,4 và 91,28 rồi cộng với 115 được kết quả là:\nA.\t201,5\nB.\t231,12\nC.\t384,06\nD.\t616,33",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ đề bài ta có biểu thức: 385,18 - (207,4 - 91,28) + 115\nTính giá trị biểu thức trên ta có:\n 385,18 - (207,4 - 91,28) + 115\n = 385,18 - 116,12) + 115\n= 269,06 + 115\n= 384,06"
+    }
+]

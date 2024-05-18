@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Hãy nêu tính đồng biến, nghịch biến của các hàm số sau :\na) \\(y = 2x - 7\\);\nb) \\(y = \\left( {1 - \\sqrt 2 } \\right)x + \\sqrt 3 \\);\nc) \\(y =  - 5x + 2\\);\nd) \\(y = \\left( {1 + {m^2}} \\right)x - 6\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\na) Hàm số \\(y = 2x - 7\\)là hàm số đồng biến trên \\(\\mathbb{R}\\)  vì \\(a = 2 > 0\\)\nb) Hàm số \\(y = \\left( {1 - \\sqrt 2 } \\right)x + \\sqrt 3 \\) là hàm số nghịch biến trên \\(\\mathbb{R}\\)  vì \\(a = 1 - \\sqrt 2  < 0\\)\nc) Hàm số \\(y =  - 5x + 2\\) là hàm số nghịch biến trên \\(\\mathbb{R}\\)  vì \\(a =  - 5 < 0\\)\nd) Hàm số \\(y = \\left( {1 + {m^2}} \\right)x - 6\\) là hàm số đồng biến trên \\(\\mathbb{R}\\) vì \\(a = 1 + {m^2} \\ge 1 > 0,\\forall m\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\left( {m - 2} \\right)x + 4\\). Tìm các giá trị của m để y là đồng biến trên \\(\\mathbb{R}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\nHàm số \\(y = \\left( {m - 2} \\right)x + 4\\) đồng biến trên \\(\\mathbb{R}\\) khi \\(m - 2 > 0 \\Leftrightarrow m > 2\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\left( {6 - 2m} \\right)x - 5\\). Tìm các giá trị của m để y là nghịch biến trên \\(\\mathbb{R}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\nHàm số \\(y = \\left( {6 - 2m} \\right)x - 5\\) nghịch biến trên \\(\\mathbb{R}\\) khi \\(6 - 2m < 0 \\Leftrightarrow m > 3\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\left( {3m + 3} \\right)x + 2m - 1\\). Tìm giá trị của m để y là hàm số bậc nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất có dạng \\(y = ax + b\\,\\,\\left( {a \\ne 0} \\right)\\)\nLời giải chi tiết\nHàm số \\(y = \\left( {3m + 3} \\right)x + 2m - 1\\) là hàm số bậc nhất khi \\(3m + 3 \\ne 0 \\Leftrightarrow m \\ne  - 1\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = f\\left( x \\right) = \\dfrac{{ - 2}}{3}x\\). Tính \\(f\\left( 3 \\right),f\\left( { - 6} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thay từng giá trị cụ thể \\(x = 3;\\,\\,x =  - 6\\) vào hàm \\(f\\left( x \\right)\\) ta thu được kết quả cần tìm\nLời giải chi tiết\n\\(\\begin{array}{l}f\\left( 3 \\right) = \\dfrac{{ - 2}}{3}.3 =  - 2\\\\f\\left( { - 6} \\right) = \\dfrac{{ - 2}}{3}.\\left( { - 6} \\right) = 4\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chứng minh hàm số \\(f\\left( x \\right) =  - 4x\\) là hàm số nghịch biến trên \\(\\mathbb{R}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\nHàm số \\(f\\left( x \\right) =  - 4x\\) có \\(a =  - 4 < 0\\) nên hàm số \\(f\\left( x \\right) =  - 4x\\) là hàm nghịch biến trên \\(\\mathbb{R}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các hàm số sau, hàm số nào là hàm số bậc nhất ?\na) \\(y = 2\\left( {x - 1} \\right)\\);\nb) \\(y = 1 - \\dfrac{2}{x}\\);\nc) \\(y = 4 + 3\\left( {x + 1} \\right)\\);\nd) \\(y = {x^2} + 3\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất có dạng \\(y = ax + b\\,\\,\\left( {a \\ne 0} \\right)\\)\nLời giải chi tiết\na) Hàm số \\(y = 2\\left( {x - 1} \\right) = 2x - 2\\) là hàm số bậc nhất với \\(a = 2;b =  - 2\\)\nb) Hàm số\\(y = 1 - \\dfrac{2}{x}\\)không phải là hàm số bậc nhất.\nc) Hàm số \\(y = 4 + 3\\left( {x + 1} \\right) = 3x + 7\\) là  hàm số bậc nhất với \\(a = 3;b = 7\\)\nd) Hàm số \\(y = {x^2} + 3\\)  không phải là hàm số bậc nhất.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy xét tính đồng biến, nghịch biến của các hàm số sau :\na) \\(y = \\left( {\\sqrt 3  - 1} \\right)x + 2\\);\nb) \\(y =  - \\left( {2 + {m^2}} \\right)x + 1\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\na) \\(y = \\left( {\\sqrt 3  - 1} \\right)x + 2\\)\nTa có: \\(a = \\sqrt 3  - 1 > 0\\) nên hàm số \\(y = \\left( {\\sqrt 3  - 1} \\right)x + 2\\) là hàm số đồng biến trên R.\nb) \\(y =  - \\left( {2 + {m^2}} \\right)x + 1\\)\nTa có: \\(2 + {m^2} > 0 \\Rightarrow a =  - \\left( {2 + {m^2}} \\right) < 0,\\)\\(\\,\\forall m\\) nên hàm số \\(y =  - \\left( {2 + {m^2}} \\right)x + 1\\) là hàm số nghịch biến trên R.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\left( {2m - 1} \\right)x + m\\). Tìm các giá trị của m để y là hàm số đồng biến trên \\(\\mathbb{R}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\nHàm số đồng biến trên R khi \\(2m - 1 > 0 \\Leftrightarrow m > \\dfrac{1}{2}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\left( {3m + 2} \\right)x + 4\\). Tìm các giá trị của m để y nghịch biến trên \\(\\mathbb{R}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\nHàm số nghịch biến trên R khi \\(3m + 2 < 0 \\Leftrightarrow m <  - \\dfrac{2}{3}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\left( {m + 2} \\right)\\left( {x - 1} \\right) + 2m\\). Tìm giá trị của m để y là hàm số bậc nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất có dạng \\(y = ax + b\\,\\,\\left( {a \\ne 0} \\right)\\)\nLời giải chi tiết\n\\(y = \\left( {m + 2} \\right)\\left( {x - 1} \\right) + 2m \\)\\(\\;= \\left( {m + 2} \\right)x + m - 2\\)\nHàm số \\(y = \\left( {m + 2} \\right)\\left( {x - 1} \\right) + 2m\\) là hàm số bậc nhất khi \\(m + 2 \\ne 0 \\Leftrightarrow m \\ne  - 2\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Cho hàm số bậc nhất \\(y = ax + 2\\). Tìm hệ số a, biết khi x = 2 thì y = 6.\nb) Cho hàm số bậc nhất \\(y =  - 2x + b\\). Tìm hệ số b, biết khi y = 4 thì x = 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay từng giá trị x, y mà bài toán đã cho vào hàm số cần tìm .\nLời giải chi tiết\na) Cho hàm số bậc nhất \\(y = ax + 2\\). Tìm hệ số a, biết khi x = 2 thì y = 6.\nKhi x = 2 ;  y = 6 thì ta có:\\(6 = a.2 + 2 \\Leftrightarrow 2a = 4 \\Leftrightarrow a = 2\\)\nb) Cho hàm số bậc nhất \\(y =  - 2x + b\\). Tìm hệ số b, biết khi y = 4 thì x = 1.\nKhi x = 1 ;  y = 4 thì ta có:\\(4 =  - 2.1 + b \\Leftrightarrow b = 6\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số bậc nhất \\(y = \\left( {1 - \\sqrt 3 } \\right)x - 1\\).\na) Hàm số đồng biến hay nghịch biến trên \\(\\mathbb{R}\\) ? Vì sao ?\nb) Tính giá trị của y khi \\(x = 1 + \\sqrt 3 \\).\nc) Tính giá trị của x khi \\(y = \\sqrt 3 \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\) b)Muốn tính giá trị của y ta thay \\(x = 1 + \\sqrt 3 \\)  vào hàm số ban đầu.\nc) Muốn tính giá trị của y ta thay \\(y = \\sqrt 3 \\) vào hàm số ban đầu.\nLời giải chi tiết\na) Ta có: \\(a = 1 - \\sqrt 3  < 0\\) nên hàm số \\(y = \\left( {1 - \\sqrt 3 } \\right)x - 1\\) nghịch biến trên \\(\\mathbb{R}\\)\nb) Khi \\(x = 1 + \\sqrt 3 \\) thì ta có: \\(y = \\left( {1 - \\sqrt 3 } \\right).\\left( {1 + \\sqrt 3 } \\right) - 1 =  - 3\\)\nc) Khi \\(y = \\sqrt 3 \\) ta có: \\(\\sqrt 3  = \\left( {1 - \\sqrt 3 } \\right).x - 1\\)\n\\(\\Leftrightarrow x = \\dfrac{{\\sqrt 3  + 1}}{{1 - \\sqrt 3 }} =  - 2 - \\sqrt 3 \\)\nLoigiaihay.com"
+    }
+]

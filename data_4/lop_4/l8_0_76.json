@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Muốn cộng hai phân số có cùng mẫu số thì:\nA.\tTa cộng hai tử số với nhau, cộng hai mẫu số với nhau\nB.\tTa cộng hai tử số với nhau, mẫu số giữ nguyên\nC.\tTa giữ nguyên tử số, cộng hai mẫu số với nhau\nD.\tTa cộng hai tử số với nhau, nhân hai mẫu số với nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai phân số cùng mẫu số, ta cộng hai tử số với nhau và giữ nguyên mẫu số.\nChú ý\nHọc sinh có thể nhớ nhầm quy tắc là cộng hai tử số với nhau, cộng hai mẫu số với nhau nên có thể chọn đáp án sai là A."
+    },
+    {
+        "problem": "Câu 2: Phép cộng phân số có những tính chất nào dưới đây?\nA.\tTính chất giao hoán\nB.\tTính chất kết hợp\nC.\tCộng với số 0\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép cộng phân số có các tính chất:\n+) Tính chất giao hoán: Khi đổi chỗ các phân số trong một tổng thì tổng không thay đổi.\n                     a+b=b+a \n+ Tính chất kết hợp: Khi cộng một tổng hai phân số với phân số thứ ba thì ta có thể cộng phân số thứ nhất với tổng của hai phân số còn lại.\n             (a+b)+c=a+(b+c) \n+ Cộng với số 0: Phân số nào cộng với 0 cũng bằng chính phân số đó.\n         a+0=0+a=a \nVậy tất cả các đáp án A, B, C đều đúng.\nChọn D"
+    }
+]

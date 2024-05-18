@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Thực hiện phép tính 6-(6:3+1).2 như thế nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Thực hiện phép tính trong ngoặc trước:\n+ Thực hiện phép chia 6:3=2\n+ Thực hiện phép cộng: 2+1=3\n- Thực hiện phép nhân: 3.2=6\n- Thực hiện phép trừ: 6-6=0\nLời giải chi tiết\nTa có: \\(6-(6:3+1).2\\\\=6-(2+1).2\\\\=6-3.2\\\\=6-6\\\\=0\\)"
+    },
+    {
+        "problem": "Khi thực hiện phép tính 6 – 6 : 3. 2, bạn An ra kết quả bằng 0, bạn Bình ra kết quả bằng 2, bạn Chi ra kết quả bằng 5. Vì sao có các kết quả khác nhau đó?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chú ý đến thứ tự thực hiện các phép tính\nLời giải chi tiết\nBạn An đã thực hiện phép tính từ trái sang phải: 6 – 6 : 3. 2 = 0 : 3 . 2 = 0.2 = 0\nBạn Bình thực hiện 6 chia 3 trước, rồi lấy kết quả này nhân với 2, sau cùng mới thực hiện phép trừ: 6 – 6 : 3. 2 = 6 – 2.2 = 6 – 4 = 2. Bạn Bình đã làm đúng.\nBạn Chi thực hiện 3 nhân 2 trước, sau đó thực hiện phép chia và cuối cùng thực hiện phép trừ: 6 – 6 : 3. 2 = 6 – 6 : 6 = 6 – 1 = 5"
+    },
+    {
+        "problem": "Tính:\na) \\(72.19 - 36^2:18\\);\nb) 750 : {130 - [(5. 14 - 65)3 + 3}}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu thức có các dấu ngoặc tròn ( ), ngoặc vuông[], ngoặc nhọn {}, ta thực hiện\nphép tính trong dấu ngoặc tròn trước, rồi thực hiện phép tính trong dấu ngoặc vuông,\ncuối cùng thực hiện phép tính trong dấu ngoặc nhọn.\nLời giải chi tiết\na)\\(72.19 - 36^2:18= 72.19- 36.36:18\\)\n\\(=72.19 - 72=72.(19 - 1)\\)\n\\(=72.18=1296\\)\nb)\n\\(\\begin{array}{l}750{\\rm{ }}:{\\rm{ }}\\left\\{ {130{\\rm{ }} - {\\rm{ }}[{{\\left( {5.{\\rm{ }}14{\\rm{ }} - {\\rm{ }}65} \\right)}^3} + {\\rm{ }}3} \\right\\}\\\\ = 750{\\rm{ }}:{\\rm{ }}\\left\\{ {130{\\rm{ }} - {\\rm{ }}\\left[ {{{\\left( {{\\rm{70 }} - {\\rm{ }}65} \\right)}^3} + {\\rm{ }}3} \\right]} \\right\\}\\\\ = 750{\\rm{ }}:{\\rm{ }}\\left\\{ {130{\\rm{ }} - {\\rm{ }}\\left[ {{5^3} + {\\rm{ }}3} \\right]} \\right\\}\\\\ = 750{\\rm{ }}:{\\rm{ }}\\left\\{ {130{\\rm{ }} - {\\rm{ }}\\left[ {125 + {\\rm{ }}3} \\right]} \\right\\}\\\\ = 750{\\rm{ }}:{\\rm{ }}\\left\\{ {130{\\rm{ }} - {\\rm{ 128}}} \\right\\}\\\\ = 750:2 = 375.\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm số tự nhiên \\(x\\) thoả mãn:\na) (13\\(x\\) – 122): 5 = 5;\nb) 3\\(x\\)[82 - 2.(25 - 1)] = 2022.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) \\(x:a=b \\Rightarrow x=b.a\\)\n+) \\(x.a=b \\Rightarrow x=b:a\\)\n+) \\(x-a=b \\Rightarrow x=b+a\\)\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\left( {13x{\\rm{ }}-{\\rm{ }}{{12}^2}} \\right):{\\rm{ }}5{\\rm{ }} = {\\rm{ }}5\\\\13x{\\rm{ }}-{\\rm{ }}{12^2} = 5.5\\\\13x{\\rm{ }}-{\\rm{ }}144 = 25\\\\13x = 25 + 144\\\\13x = 169\\\\x = 13\\end{array}\\)\nVậy \\(x = 13\\)\nb)\n\\(\\begin{array}{l}3x\\left[ {{8^2} - 2.\\left( {{2^5} - {\\rm{ }}1} \\right)} \\right]{\\rm{ }} = {\\rm{ }}2022\\\\3x\\left[ {64 - 2.\\left( {32 - {\\rm{ }}1} \\right)} \\right]{\\rm{ }} = {\\rm{ }}2022\\\\3x\\left[ {64 - 2.31} \\right]{\\rm{ }} = {\\rm{ }}2022\\\\3x\\left( {64 - 62} \\right){\\rm{ }} = {\\rm{ }}2022\\\\3x.2 = 2022\\\\6x = 2022\\\\x = 337\\end{array}\\)\nVậy \\(x = 337.\\)"
+    },
+    {
+        "problem": "Tính\na) \\(2023 - {25^2}:{5^3} + 27\\)\nb) \\(60:\\left[ {7.\\left( {{{11}^2} - 20.6} \\right) + 5} \\right]\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu thức có các dấu ngoặc tròn ( ), ngoặc vuông [], ngoặc nhọn {}, ta thực hiện phép tính trong dấu ngoặc tròn trước, rồi thực hiện phép tính trong dấu ngoặc vuông, cuối cùng thực hiện phép tính trong dấu ngoặc nhọn.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}2023 - {25^2}:{5^3} + 27\\\\ = 2023 - {5^4}:{5^3} + 27\\\\ = 2023 - 5^{4-3} + 27\\\\ = 2023 -5 + 27\\\\ =2018+27\\\\= 2045\\end{array}\\)\nb)\n\\(\\begin{array}{l}60:\\left[ {7.\\left( {{{11}^2} - 20.6} \\right) + 5} \\right]\\\\ = 60:\\left[ {7.\\left( {121 - 120} \\right) + 5} \\right]\\\\ = 60:\\left[ {7.1 + 5} \\right]\\\\ = 60:12\\\\ = 5\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm số tự nhiên x, biết:\na) \\(\\left( {9x - {2^3}} \\right):5 = 2\\)\nb) \\(\\left[ {{3^4} - \\left( {{8^2} + 14} \\right):13} \\right]x = {5^3} + {10^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm theo thứ tự ưu tiên: Phần trong ngoặc có chứa x=> Phần tích thương có chứa x để đưa bài toán về dạng cơ bản đã học ở tiểu học\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\left( {9x - {2^3}} \\right):5 = 2\\\\9x - {2^3} = 2.5\\\\9x - 8 = 10\\\\9x = 18\\\\x = 2\\end{array}\\)\nVậy \\(x = 2\\)\nb)\n\\(\\begin{array}{l}\\left[ {{3^4} - \\left( {{8^2} + 14} \\right):13} \\right]x = {5^3} + {10^2}\\\\\\left[ {81 - \\left( {64 + 14} \\right):13} \\right]x = 125 + 100\\\\\\left[ {81 - 78:13} \\right]x = 125 + 100\\\\\\left[ {81 - 6} \\right]x = 225\\\\75x = 225\\\\x = 3\\end{array}\\)\nVậy \\(x = 3\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bảng sau thể hiện số liệu thống kê danh mục mua văn phòng phẩm của một cơ quan.\n\nSố thứ tự\nLoại hàng\nSố lượng\nGía đơn vị (nghìn đồng)\n1\nVở loại 1\n35\n10\n2\nVở loại 2\n67\n5\n3\nBút bi\n100\n5\n4\nThước kẻ\n35\n7\n5\nBút chì\n35\n5\nTính tổng tiền mua văn phòng phẩm của cơ quan?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền từng loại hàng = Số lượng.giá đơn vị\nSau đó tính tổng\nLời giải chi tiết\nTổng tiền mua văn phòng phẩm của cơ quan là:\n35.10+67.5+100.5+35.7+35.5=1605 (nghìn đồng) = 1 605 000 đồng\nVậy tổng số tiền mua văn phòng phẩm là 1 605 000 đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Có thể chia đều 15 quyển vở cho 3 bạn được không? Mỗi bạn được bao nhiêu quyển vở?\nCó thể chia đều 7 quyển vở cho 3 bạn được không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem 15 có chia hết cho 3 không, 7 có chia hết cho 3 không.\nLời giải chi tiết\n- Do ta tìm được số 5 để 15 = 3.5 nên có thể chia đều 15 quyển vở cho 3 bạn được; mỗi\nbạn được 5 quyển.\n- Ta không tìm được số tự nhiên x nào để 7 = 3.x vì 7 = 3. 2 + 1, tức là 7 chia cho 3\nđược thương là 2 dư 1. Vậy không thể chia đều 7 quyển vở cho 3 bạn"
+    },
+    {
+        "problem": "a) Hãy tìm số dư trong phép chia mỗi số sau đây cho 3: 255; 157; 5105.\nb) Có thể sắp xếp cho 17 bạn vào 4 xe taxi được không? Biết rằng mỗi xe taxi chỉ chở được không quá 4 bạn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thực hiện phép chia các số đã cho cho 3 rồi tìm số dư\nb) Xét xem kết quả của phép chia 17 cho 4 và kết luận.\nLời giải chi tiết\na)Ta có 255 = 3.85 => 255:3 = 85\n=> Số dư của phép chia là 0\nTa có: 157= 3.52 + 1 => 157:3 = 52 (dư 1)\n=> Số dư của phép chia là 1\nTa có 5105 = 3.1701 + 2 => 5105:3 = 1701 (dư 2)\n=> Số dư của phép chia là 2.\nb) Vì 17: 4 = 4 dư 1 nên thừa 1 bạn. Vậy không sắp xếp cho 17 bạn vào 4 xe taxi được\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết hai số chia hết cho 11. Tổng của chúng có chia hết cho 11 không?\nViết hai số chia hết cho 13. Tổng của chúng có chia hết cho 13 không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Lấy hai số chia hết cho 11 bất kì sau đó tính tổng của chúng rồi xét xem tổng đó có chia hết cho 11 không.\n- Lấy hai số chia hết cho 13 bất kì sau đó tính tổng của chúng rồi xét xem tổng đó có chia hết cho 13 không.\nLời giải chi tiết\n-  Hai số: 33 và 55 chia hết cho 11. Chúng có tổng là: 33+55 = 88, mà 88 chia hết cho 11\n=> Tổng của chúng chia hết cho 11.\n- Hai số: 26 và 39 chia hết cho 13. Chúng có tổng là: 26+39 = 65, mà 65 chia hết cho 13\n=> Tổng của chúng chia hết cho 13."
+    },
+    {
+        "problem": "- Viết hai số trong đó có một số không chia hết cho 6, số còn lại chia hết cho 6.\nKiểm tra xem tổng và hiệu của chúng có chia hết cho 6 không.\n- Viết hai số trong đó có một số chia hết cho 7, số còn lại không chia hết cho 7.\nKiểm tra xem tổng và hiệu của chúng có chia hết cho 7 không.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Viết hai số trong đó có một số không chia hết cho 6, số còn lại chia hết cho 6. Sau đó tính tổng và hiệu của chúng rồi xét xem tổng, hiệu đó có chia hết cho 6 không.\n- Viết hai số trong đó có một số chia hết cho 7, số còn lại không chia hết cho 7. Sau đó tính tổng và hiệu của chúng rồi xét xem tổng, hiệu đó có chia hết cho 7 không.\nLời giải chi tiết\n- Ta có: 15 \\(\\not{ \\vdots }\\) 6; 12 \\( \\vdots \\) 6 và 15+12 = 27 \\(\\not{ \\vdots }\\) 6 ; 15 - 12 = 3 \\(\\not{ \\vdots }\\) 6\n=> Tổng và hiệu của hai số đã viết không chia hết cho 6.\n- Ta có 14 \\( \\vdots \\) 7; 11 \\(\\not{ \\vdots }\\) 7 và 14+11 = 25 \\(\\not{ \\vdots }\\) 7; 14 - 11 = 3 \\(\\not{ \\vdots }\\) 7\n=> Tổng và hiệu của hai số đã viết không chia hết cho 7."
+    }
+]

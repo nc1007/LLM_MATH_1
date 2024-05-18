@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 2 : Cho phép tính: \nPhép tính trên đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy phép tính đã cho là sai."
+    },
+    {
+        "problem": "Câu 4 : ết quả của phép tính 187 × 38 là: \nA.\t7126\nB.\t7116\nC.\t7106\nD.\t7006",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính và thực hiện tính ta có:\nVậy 187×38=7106"
+    },
+    {
+        "problem": "Câu 5 : 1294 × 27 = 34938. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính và thực hiện tính ta có:\n1294×27=34938.\nMà 34938=34938\nVậy phép tính đã cho là đúng."
+    },
+    {
+        "problem": "Câu 7 : Giá trị của biểu thức 456192 - 9437×42 là: \nA.\t59838\nB.\t59858\nC.\t63058\nD.\t187637710",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "456192−9437×42=456192−396354=59838\nChú ý\nHọc sinh có thể áp dụng sai thứ tự thực hiện phép tính, \ntính lần lượt từ trái sang phải, từ đó chọn đáp án sai là D\n\nHọc sinh có thể áp dụng sai thứ tự thực hiện phép tính, \ntính lần lượt từ trái sang phải, từ đó chọn đáp án sai là D"
+    },
+    {
+        "problem": "Câu 8 : Tìm x biết:  x : 53 = 2552 + 4079. \nA.\tx = 139335\nB.\tx = 218739\nC.\tx = 351443\nD.\tx = 385358",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "x:53=2552+4079\nx:53=6631\nx=6631×53\nx=351443"
+    },
+    {
+        "problem": "Câu 9 :  Ghép nối hai phép tính có kết quả bằng nhau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có\n+) 142×12=1704;\n+) 41072−24625=16447;\n+) 26154+14156=40310;\n+) 695×58=40310;\n+) 18911−478×23=18911−10994=7917;\n+) 24×71=1704;\n+) 2645×35−5856×13=92575−76128=16447;\n+) 273×(125−8×12)=273×(125−96) 273×29=7917\nVậy ta có kết quả như sau:"
+    },
+    {
+        "problem": "Câu 10 : 135689 - (5145- 2417)×29 ...1387×43 + 155×18  \nDấu thích hợp điền vào chỗ trống là:\nA.\t= \nB.\t< \nC.\t>",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+) 135689−(5145−2417)×29 \n=135689−2728×29 \n=135689−79112 \n=62431 \n+) 1387×43+155×18\n=59641+2790 \n=56577\nMà 56577<62431\nDo đó 135689−(5145−2417)×29 < 1387×43+155×18\nVậy đáp án đúng điền vào ô trống là <."
+    },
+    {
+        "problem": "Câu 13 :  Trang trại nhà Bình có 28 chuồng, trung bình mỗi chuồng có 45 con gà.\n Biết nhà Bình bán đi  \t    số gà đó.\nHỏi sau khi bán, trang trại nhà Bình còn bao nhiêu con gà? \nA.\t315 con gà\nB.\t630 con gà\nC.\t945 con gà\nD.\t1260 con gà",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trang trại nhà Bình có số con gà là:\n            45×28=1260 (con)\nTrang trại nhà Bình đã bán số con gà là:\n            1260:4=315 (con)\nSau khi bán, trang trại nhà Bình còn lại số con gà là:\n         1260−315=945 (con)\n    Đáp số: 945 con gà.\nChú ý\nHọc sinh có thể làm sai khi tính số con gà còn lại sau khi bán chính \nbằng số con gà đã bán, từ đó chọn đáp án sai là A"
+    }
+]

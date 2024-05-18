@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Nếu tam giác ABC và tam giác DEF có \\(\\widehat A = \\widehat D,\\widehat C = \\widehat F\\) thì:\nA. $\\Delta ABC\\backsim \\Delta EDF$.\nB. $\\Delta ABC\\backsim \\Delta EFD$.\nC. $\\Delta ACB\\backsim \\Delta DFE$.\nD. $\\Delta CBA\\backsim \\Delta FDE$.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ ba của hai tam giác (g.g) để tìm câu đúng: Nếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\nTam giác ABC và tam giác DEF có \\(\\widehat A = \\widehat D,\\widehat C = \\widehat F\\) nên $\\Delta ACB\\backsim \\Delta DFE$\nChọn C"
+    },
+    {
+        "problem": "Cho $\\Delta ABC\\backsim \\Delta MNP$ theo tỉ số đồng dạng $k=\\frac{AB}{MN}=\\frac{2}{3}$. Kẻ đường cao AH của tam giác ABC và đường cao MK của tam giác MNP.\na) Chứng minh rằng $\\Delta ABH\\backsim \\Delta MNK$. Tính tỉ số $\\frac{AH}{MK}$.\nb) Biết diện tích tam giác ABC bằng $56c{{m}^{2}}$. Tính diện tích tam giác MNP.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về áp dụng các trường hợp đồng dạng của tam giác vào tam giác vuông: Nếu tam giác vuông này có một góc nhọn bằng góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng với nhau.\nLời giải chi tiết\n\na) Vì $\\Delta ABC\\backsim \\Delta MNP$ (gt) nên $\\widehat{B}=\\widehat{N}$\nTam giác ABH và tam giác MNK có: $\\widehat{AHB}=\\widehat{MKN}={{90}^{0}},\\widehat{B}=\\widehat{N}$\nDo đó, $\\Delta ABH\\backsim \\Delta MNK\\left( g.g \\right)$, do đó $\\frac{AH}{MK}=\\frac{AB}{MN}=\\frac{2}{3}$\nb) Vì $\\Delta ABC\\backsim \\Delta MNP$ nên $\\frac{{{S}_{\\Delta ABC}}}{{{S}_{\\Delta MNP}}}={{k}^{2}}$, hay $\\frac{56}{{{S}_{\\Delta MNP}}}={{\\left( \\frac{2}{3} \\right)}^{2}}$, vậy ${{S}_{\\Delta MNP}}=126\\left( c{{m}^{2}} \\right)$"
+    },
+    {
+        "problem": "Quan sát Hình 7. Chứng minh rằng \\(\\widehat {OBA} = \\widehat {OAC}\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ hai của hai tam giác (c.g.c) để chứng minh: Nếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau, thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\nTam giác OAB và tam giác OCA có: \\(\\frac{{OA}}{{OC}} = \\frac{{OB}}{{OA}}\\left( { = \\frac{2}{3}} \\right)\\), góc O chung.\nDo đó, $\\Delta OAB\\backsim \\Delta OCA\\left( c.g.c \\right)$ nên \\(\\widehat {OBA} = \\widehat {OAC}\\)"
+    },
+    {
+        "problem": "Trong Hình 8, cho biết tứ giác ABCD là hình bình hành. Tìm x.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về định lí về hai tam giác đồng dạng: Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh còn lại thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\n+ Định lí trên cũng đúng trong trường hợp đường thẳng a cắt phần kéo dài hai cạnh của tam giác và song song với cạnh còn lại.\nLời giải chi tiết\nVì ABCD là hình bình hành nên AE//DC, suy ra $\\Delta IAE\\backsim \\Delta IDC$\nSuy ra \\(\\frac{{IE}}{{IC}} = \\frac{{AE}}{{DC}}\\) hay \\(\\frac{{2,8}}{{x - 3}} = \\frac{{3,2}}{{6,4}}\\), suy ra \\(x - 3 = 5,6\\), do đó \\(x = 8,6\\)"
+    },
+    {
+        "problem": "Cho $\\Delta MNP\\backsim \\Delta EFG$, cho biết \\(MN = 8cm,NP = 15cm,FG = 12cm\\). Khi đó EF bằng:\nA. 9cm.\nB. 6,4cm.\nC. 22,5cm.\nD. 10cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định nghĩa hai tam giác đồng dạng để tính: Tam giác A’B’C’ gọi là đồng dạng với tam giác ABC nếu \\(\\widehat {A'} = \\widehat A,\\widehat {B'} = \\widehat B,\\widehat {C'} = \\widehat C,\\frac{{A'B'}}{{AB}} = \\frac{{A'C'}}{{AC}} = \\frac{{B'C'}}{{BC}} = k\\) (k gọi là tỉ số đồng dạng)\nLời giải chi tiết\nVì $\\Delta MNP\\backsim \\Delta EFG$ nên \\(\\frac{{MN}}{{EF}} = \\frac{{NP}}{{FG}}\\), suy ra \\(\\frac{8}{{EF}} = \\frac{{15}}{{12}} = \\frac{5}{4}\\), nên \\(EF = \\frac{{8.4}}{5} = \\frac{{32}}{5} = 6,4\\left( {cm} \\right)\\)\nChọn B"
+    },
+    {
+        "problem": "Người ta dùng một gương phẳng để đo chiều cao của một căn nhà (Hình 9). Đặt tấm gương nằm trên mặt phẳng nằm ngang (điểm C), mắt của người quan sát nhìn thẳng vào tấm gương, người quan sát lùi dần cho đến khi nhìn thấy ảnh của đỉnh căn nhà trong gương. Cho biết $\\widehat{ACB}=\\widehat{MCN},AB=1,65m,BC=4m,NC=20m$. Tính chiều cao MN của căn nhà.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về áp dụng các trường hợp đồng dạng của tam giác vào tam giác vuông: Nếu tam giác vuông này có một góc nhọn bằng góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng với nhau.\nLời giải chi tiết\nTam giác ABC và tam giác MNC có: $\\widehat{B}=\\widehat{N}={{90}^{0}},\\widehat{ACB}=\\widehat{MCN}$ (gt) nên $\\Delta ABC\\backsim \\Delta MNC\\left( g.g \\right)$, suy ra $\\frac{AB}{MN}=\\frac{BC}{NC}$, hay $\\frac{1,65}{MN}=\\frac{4}{20}$, vậy $MN=8,25m$"
+    },
+    {
+        "problem": "Quan sát Hình 8.\na) Chứng minh rằng $\\Delta ABC\\backsim \\Delta DEF$.\nb) Cho biết AM là đường trung tuyến của tam giác ABC, DN là đường trung tuyến của tam giác DEF và \\(AM = 5,1cm\\). Tính độ dài DN.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ hai của hai tam giác (c.g.c):\n+ Nếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau, thì hai tam giác đó đồng dạng với nhau.\n+ Nếu tam giác A’B’C’ đồng dạng với tam giác ABC theo tỉ số k thì tỉ số của hai đường trung tuyến tương ứng của hai tam giác đó cũng bằng k.\nLời giải chi tiết\na) Tam giác ABC và tam giác DEF có: \\(\\frac{{AB}}{{ED}} = \\frac{{BC}}{{EF}}\\left( { = \\frac{3}{4}} \\right)\\), \\(\\widehat B = \\widehat E\\)\nDo đó, $\\Delta ABC\\backsim \\Delta DEF\\left( c.g.c \\right)$\nb) Vì $\\Delta ABC\\backsim \\Delta DEF\\left( cmt \\right)$ nên \\(\\frac{{AB}}{{ED}} = \\frac{{AM}}{{DN}} = \\frac{3}{4}\\), suy ra \\(\\frac{{5,1}}{{DN}} = \\frac{3}{4}\\), \\(DN = 6,8cm\\)"
+    },
+    {
+        "problem": "Trong Hình 9, cho biết $\\Delta ABC\\backsim \\Delta DEF$, $\\Delta DEF\\backsim \\Delta IHK$. Tính độ dài các đoạn thẳng AB, EF, IH và HK.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định nghĩa hai tam giác đồng dạng để tính: Tam giác A’B’C’ gọi là đồng dạng với tam giác ABC nếu \\(\\widehat {A'} = \\widehat A,\\widehat {B'} = \\widehat B,\\widehat {C'} = \\widehat C,\\frac{{A'B'}}{{AB}} = \\frac{{A'C'}}{{AC}} = \\frac{{B'C'}}{{BC}} = k\\) (k gọi là tỉ số đồng dạng)\nLời giải chi tiết\nVì $\\Delta ABC\\backsim \\Delta DEF$ nên \\(\\frac{{AB}}{{DE}} = \\frac{{BC}}{{EF}} = \\frac{{AC}}{{DF}}\\), hay \\(\\frac{{AB}}{{4,2}} = \\frac{{3,6}}{{EF}} = \\frac{2}{3}\\), suy ra \\(AB = 2,8;EF = 5,4\\)\nVì $\\Delta DEF\\backsim \\Delta IHK$ nên \\(\\frac{{DE}}{{IH}} = \\frac{{EF}}{{HK}} = \\frac{{DF}}{{IK}}\\), hay \\(\\frac{{4,2}}{{IH}} = \\frac{{5,4}}{{HK}} = \\frac{3}{{4,5}}\\), suy ra \\(IH = 6,3;HK = 8,1\\)"
+    },
+    {
+        "problem": "Nếu $\\Delta ABC\\backsim \\Delta XYZ$, biết \\(\\widehat Y = {75^0},\\widehat Z = {36^0}\\). Khi đó số đo \\(\\widehat A\\) bằng:\nA. \\({60^0}\\).\nB. \\({69^0}\\).\nC. \\({36^0}\\).\nD. \\({75^0}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định nghĩa hai tam giác đồng dạng để tính: Tam giác A’B’C’ gọi là đồng dạng với tam giác ABC nếu \\(\\widehat {A'} = \\widehat A,\\widehat {B'} = \\widehat B,\\widehat {C'} = \\widehat C,\\frac{{A'B'}}{{AB}} = \\frac{{A'C'}}{{AC}} = \\frac{{B'C'}}{{BC}} = k\\) (k gọi là tỉ số đồng dạng).\nLời giải chi tiết\nTa có: \\(\\widehat X = {180^0} - \\widehat Y - \\widehat Z = {180^0} - {75^0} - {36^0} = {69^0}\\)\nVì $\\Delta ABC\\backsim \\Delta XYZ$ nên \\(\\widehat A = \\widehat X = {69^0}\\)\nChọn B."
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A. Tia phân giác của góc A cắt cạnh huyền BC tại M. Qua M kẻ đường thẳng vuông góc với BC và cắt AC tại N. Chứng minh rằng:\na) $\\Delta MNC\\backsim \\Delta ABC$.\nb) $MN=MB$.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về áp dụng các trường hợp đồng dạng của tam giác vào tam giác vuông: Nếu tam giác vuông này có một góc nhọn bằng góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng với nhau.\nLời giải chi tiết\n\na) Tam giác MNC và tam giác ABC có: $\\widehat{NMC}=\\widehat{BAC}={{90}^{0}},\\widehat{C}\\ chung$. Do đó, $\\Delta MNC\\backsim \\Delta ABC\\left( g.g \\right)$\nb) Vì $\\Delta MNC\\backsim \\Delta ABC\\left( cmt \\right)$ nên $\\frac{MN}{AB}=\\frac{MC}{AC}\\left( 1 \\right)$\nVì AM là tia phân giác của góc BAC trong tam giác ABC nên theo tính chất đường phân giác của tam giác ta có: $\\frac{MB}{MC}=\\frac{AB}{AC}$ hay $\\frac{MB}{AB}=\\frac{MC}{AC}$ (2)\nTừ (1) và (2) ta có: $\\frac{MN}{AB}=\\frac{MB}{AB}$. Vậy $MN=MB$."
+    },
+    {
+        "problem": "Cho tam giác ABC có \\(AB = 12,AC = 15\\). Lấy điểm M thuộc cạnh AB và điểm N thuộc cạnh AC sao cho \\(AM = 7,5,AN = 6\\). Chứng minh rằng:\na) $\\Delta ANM\\backsim \\Delta ABC$.\nb) \\(\\widehat {ABN} = \\widehat {ACM}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ hai của hai tam giác (c.g.c) để chứng minh: Nếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau, thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\n\na) Tam giác ANM và tam giác ABC có:\n\\(\\frac{{AN}}{{AB}} = \\frac{{AM}}{{AC}} = \\frac{1}{2},\\widehat A\\;chung\\) nên $\\Delta ANM\\backsim \\Delta ABC\\left( c.g.c \\right)$\nb) Vì \\(\\frac{{AN}}{{AB}} = \\frac{{AM}}{{AC}}\\) nên \\(\\frac{{AN}}{{AM}} = \\frac{{AB}}{{AC}}\\) và \\(\\widehat A\\;chung\\)\nDo đó, $\\Delta ANB\\backsim \\Delta AMC\\left( c.g.c \\right)$ nên \\(\\widehat {ABN} = \\widehat {ACM}\\)"
+    },
+    {
+        "problem": "Người ta ứng dụng hai tam giác đồng dạng để đo khoảng cách BC ở hai điểm không đến được (Hình 10). Biết AD//BC.\na) Chứng minh rằng $\\Delta IDA\\backsim \\Delta IBC$\nb) Tính khoảng cách BC.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí về hai tam giác đồng dạng: Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh còn lại thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\n+ Định lí trên cũng đúng trong trường hợp đường thẳng a cắt phần kéo dài hai cạnh của tam giác và song song với cạnh còn lại.\nLời giải chi tiết\na) Tam giác AID có: AD//BC nên $\\Delta IDA\\backsim \\Delta IBC$\nb) Vì  nên \\(\\frac{{IA}}{{IC}} = \\frac{{AD}}{{BC}}\\) hay \\(\\frac{{12}}{{36}} = \\frac{{17}}{{BC}}\\). Vậy \\(BC = \\frac{{17.36}}{{12}} = 51\\left( m \\right)\\)"
+    },
+    {
+        "problem": "Cho hình thang ABCD (AB//CD), có hai đường chéo AC và BD cắt nhau tại O. Biết \\(AB = 9cm,\\) \\(CD = 15cm\\). Khi đó $\\Delta AOB\\backsim \\Delta COD$ với tỉ số đồng dạng là:\nA. \\(k = \\frac{2}{3}\\).\nB. \\(k = \\frac{3}{2}\\).\nC. \\(k = \\frac{3}{5}\\).\nD. \\(k = \\frac{5}{3}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí về hai tam giác đồng dạng: Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh còn lại thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\nLời giải chi tiết\n\nTam giác AOB có: AB//CD nên $\\Delta AOB\\backsim \\Delta COD$ theo tỉ số đồng dạng \\(k = \\frac{{AB}}{{CD}} = \\frac{9}{{15}} = \\frac{3}{5}\\)\nChọn C."
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A $\\left( AB<AC \\right)$ và kẻ đường cao AH. Tia phân giác của góc B cắt AC tại E và cắt AH tại F. Chứng minh rằng:\na) $AB.HF=AE.HB$.\nb) $AE=AF$.\nc) $A{{E}^{2}}=EC.FH$",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về áp dụng các trường hợp đồng dạng của tam giác vào tam giác vuông: Nếu tam giác vuông này có một góc nhọn bằng góc nhọn của tam giác vuông kia thì hai tam giác vuông đó đồng dạng với nhau.\nLời giải chi tiết\n\na) Tam giác ABE và tam giác HBF có: $\\widehat{BAE}=\\widehat{FHB}={{90}^{0}},\\widehat{ABE}=\\widehat{HBF}$ (vì BF là tia phân giác của góc ABC) nên $\\Delta ABE\\backsim \\Delta HBF\\left( g.g \\right)$, suy ra $\\frac{AB}{HB}=\\frac{AE}{HF}$, do đó $AB.HF=AE.HB$.\nb) Vì $\\Delta ABE\\backsim \\Delta HBF\\left( cmt \\right)$ nên $\\widehat{AEB}=\\widehat{HFB}$\nMà $\\widehat{HFB}=\\widehat{AFE}$ (hai góc đối đỉnh) nên $\\widehat{AEB}=\\widehat{AFE}$.\nDo đó, tam giác AEF cân tại A. Suy ra $AE=AF$.\nc) Vì BF là tia phân giác của góc ABH trong tam giác ABH nên theo tính chất đường phân giác của tam giác ta có: $\\frac{FH}{AF}=\\frac{BH}{AB}$\nVì BE là tia phân giác của góc ABC trong tam giác ABC nên theo tính chất đường phân giác của tam giác ta có: $\\frac{AE}{EC}=\\frac{AB}{BC}$\nChứng minh được $\\Delta ABH\\backsim \\Delta CBA\\left( g.g \\right)$ nên $\\frac{AB}{BC}=\\frac{BH}{AB}$\nDo đó, $\\frac{AE}{EC}=\\frac{FH}{AF}$, suy ra $AE.AF=EC.FH$. Mà $AE=AF$ nên $A{{E}^{2}}=EC.FH$"
+    },
+    {
+        "problem": "Cho tam giác đều ABC, từ B và C kẻ các đường thẳng song song với AC và AB, hai đường thẳng này cắt nhau tại M. Qua M kẻ đường thẳng cắt AB tại E và cắt AC tại F. Chứng minh rằng:\na) \\(\\frac{{CA}}{{CF}} = \\frac{{ME}}{{MF}}\\) và \\(\\frac{{BE}}{{BA}} = \\frac{{ME}}{{MF}}\\).\nb) $\\Delta BCE\\backsim \\Delta CFB$.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ hai của hai tam giác (c.g.c) để tính chứng minh: Nếu hai cạnh của tam giác này tỉ lệ với hai cạnh của tam giác kia và hai góc tạo bởi các cặp cạnh đó bằng nhau, thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\n\na) Tam giác FCM có AE//CM nên theo định lí Thalès ta có: \\(\\frac{{CA}}{{CF}} = \\frac{{ME}}{{MF}}\\)\nTam giác FAE có AF//BM nên theo hệ quả định lí Thalès ta có: \\(\\frac{{AE}}{{BE}} = \\frac{{EF}}{{ME}}\\)\nTa có: \\(\\frac{{AE}}{{BE}} + \\frac{{BE}}{{BE}} = \\frac{{EF}}{{ME}} + \\frac{{ME}}{{ME}}\\), suy ra \\(\\frac{{BA}}{{BE}} = \\frac{{MF}}{{ME}}\\) hay \\(\\frac{{BE}}{{BA}} = \\frac{{ME}}{{MF}}\\)\nb) Ta có: \\(\\frac{{CA}}{{CF}} = \\frac{{BE}}{{BA}}\\left( { = \\frac{{ME}}{{MF}}} \\right)\\), mà \\(AB = AC = BC\\)\nDo đó, \\(\\frac{{BC}}{{CF}} = \\frac{{BE}}{{CB}}\\), lại có: \\(\\widehat {EBC} = \\widehat {BCF}\\) (do tam giác ABC đều) nên $\\Delta BCE\\backsim \\Delta CFB\\left( c.g.c \\right)$"
+    },
+    {
+        "problem": "Cho Hình 1. Tính x, y, z, w.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ ba của hai tam giác (g.g) để tính: Nếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\nTam giác STR và tam giác TUR có: \\(\\widehat {STR} = \\widehat {TUR} = {45^0},\\widehat {SRT} = \\widehat {TRU} = {25^0}\\)  nên $\\Delta STR\\backsim \\Delta TUR\\left( g.g \\right)$, do đó \\(\\frac{{ST}}{{TU}} = \\frac{{TR}}{{UR}} = \\frac{{SR}}{{TR}}\\), hay \\(\\frac{7}{y} = \\frac{{18}}{x} = \\frac{{15}}{{18}} = \\frac{5}{6}\\)\nDo đó, \\(x = 21,6;y = 8,4\\)\nTam giác STR và tam giác UVR có: \\(\\widehat {STR} = \\widehat V = {45^0},\\widehat {SRT} = \\widehat {VRU} = {25^0}\\)  nên $\\Delta STR\\backsim \\Delta UVR\\left( g.g \\right)$, do đó \\(\\frac{{ST}}{{UV}} = \\frac{{TR}}{{VR}} = \\frac{{SR}}{{UR}}\\), hay \\(\\frac{7}{z} = \\frac{{18}}{{\\rm{w}}} = \\frac{{15}}{{21,6}}\\)\nDo đó, \\(z = 10,08;{\\rm{w}} = 25,92\\)"
+    },
+    {
+        "problem": "Quan sát Hình 9.\na) Chứng minh rằng $\\Delta ABC\\backsim \\Delta MNQ$.\nb) Tính x, y.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ ba của hai tam giác (g.g) để tính: Nếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\na) Tam giác ABC và tam giác MNQ có: \\(\\widehat A = \\widehat M,\\widehat C = \\widehat Q\\). Do đó, $\\Delta ABC\\backsim \\Delta MNQ\\left( g.g \\right)$\nb) Vì $\\Delta ABC\\backsim \\Delta MNQ\\left( cmt \\right)$ nên \\(\\frac{{BA}}{{MN}} = \\frac{{BC}}{{NQ}} = \\frac{{AC}}{{MQ}}\\), suy ra \\(\\frac{{y - 1}}{5} = \\frac{{3,5}}{{x + 2}} = \\frac{5}{{10}} = \\frac{1}{2}\\)\nDo đó, \\(y - 1 = \\frac{5}{2}\\), \\(y = \\frac{7}{2}\\) và \\(x + 2 = 7\\), \\(x = 5\\)"
+    },
+    {
+        "problem": "Cho Hình 2, biết AM là đường trung tuyến của tam giác ABC, MD là tia phân giác của \\(\\widehat {AMB}\\), ME là tia phân giác của \\(\\widehat {AMC}\\). Chứng minh rằng \\(\\Delta ADE\\backsim \\Delta ABC\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí về hai tam giác đồng dạng để chứng minh: Nếu một đường thẳng cắt hai cạnh của một tam giác và song song với cạnh còn lại thì nó tạo thành một tam giác mới đồng dạng với tam giác đã cho.\nLời giải chi tiết\nTam giác AMB có MD là đường phân giác của \\(\\widehat {AMB}\\) nên \\(\\frac{{DA}}{{DB}} = \\frac{{MA}}{{MB}}\\).\nTam giác AMC có ME là đường phân giác của \\(\\widehat {AMC}\\) nên \\(\\frac{{EA}}{{EC}} = \\frac{{MA}}{{MC}}\\).\nMà \\(MB = MC\\) nên \\(\\frac{{DA}}{{DB}} = \\frac{{EA}}{{EC}}\\)\nTam giác ABC có: \\(\\frac{{DA}}{{DB}} = \\frac{{EA}}{{EC}}\\) nên DE//BC. Vậy \\(\\Delta ADE\\backsim \\Delta ABC\\)"
+    },
+    {
+        "problem": "Trong Hình 10, cho biết \\(AB = 4,2,IA = 6,IC = 10,\\widehat {ABI} = {60^0}\\), \\(\\widehat {CDx} = {120^0}\\). Tính độ dài CD.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ ba của hai tam giác (g.g) để tính: Nếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\nTa có: \\(\\widehat {CDI} = {180^0} - \\widehat {CDx} = {60^0}\\)\nTam giác ABI và tam giác CDI có: \\(\\widehat B = \\widehat {CDI}\\left( { = {{60}^0}} \\right),\\widehat {AIB} = \\widehat {CID}\\) (hai góc đối đỉnh)\nDo đó, $\\Delta ABI\\backsim \\Delta CDI\\left( g.g \\right)$. Suy ra: \\(\\frac{{AB}}{{CD}} = \\frac{{AI}}{{CI}}\\), hay \\(\\frac{{4,2}}{{CD}} = \\frac{6}{{10}}\\), suy ra \\(CD = \\frac{{4,2.10}}{6} = 7\\)"
+    },
+    {
+        "problem": "Tính chiều cao cột điện AB trong Hình 3.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về trường hợp đồng dạng thứ ba của hai tam giác (g.g) để tính: Nếu hai góc của tam giác này lần lượt bằng hai góc của tam giác kia thì hai tam giác đó đồng dạng với nhau.\nLời giải chi tiết\nTam giác ABC và tam giác EDF có: \\(\\widehat B = \\widehat D = {90^0},\\widehat A = \\widehat E\\) (gt)\nDo đó, $\\Delta ABC\\backsim \\Delta EDF\\left( g.g \\right)$, suy ra \\(\\frac{{AB}}{{ED}} = \\frac{{BC}}{{DF}}\\), hay \\(\\frac{h}{2} = \\frac{{12,3}}{3}\\), vậy \\(h = \\frac{{12,3.2}}{3} = 8,2\\left( m \\right)\\)"
+    }
+]

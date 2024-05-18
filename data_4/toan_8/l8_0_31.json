@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Bài 1: Kết quả của phép chia 15x^{3} y^{4}  : 5x^{2} y^{2}  là\nA. 3xy^{2}       \nB. -3x^{2} y     \nC. 5xy        \nD. 15xy^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 15x^{3} y^{4}  : 5x^{2} y^{2}  = (15 : 5).(x^{3}  : x^{2} ).(y^{4}  : y^{2} ) = 3xy^{2} .\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Chia đơn thức (-3x)^{5}  cho đơn thức (-3x)^{2}  ta được kết quả là\nA. -9x^{3}        \nB. 9x^{3}          \nC. 27x^{3}        \nD. -27x^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (-3x)^{5}  : (-3x)^{2}  = (-3x)^{3}  = (-3)^{3} .x^{3}  = -27x^{3} \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 4: Thương của phép chia (-12x^{4} y + 4x^{3}  – 8x^{2} y^{2} ) : (-4x)^{2}  bằng\nA. -3x^{2} y + x – 2y^{2}                     \nB. 3x^{4} y + x^{3}  – 2x^{2} y^{2} \nC. -12x^{2} y + 4x – 2y^{2}                 \nD. 3x^{2} y – x + 2y^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n(-12x^{4} y + 4x^{3}  – 8x^{2} y^{2} ) : (-4x)^{2} \n= (-12x^{4} y) : (-4x^{2} ) + (4x^{3} ) : (-4x^{2} ) – (8x^{2} y^{2} ) : (-4x^{2} )\n= 3x^{2} yy – x + 2y^{2}"
+    },
+    {
+        "problem": "Bài 5: Kết quả của phép chia (2x^{3}  – x^{2}  +10x) : x là\nA. x^{2}  – x + 10\nB. 2x^{2}  – x + 10\nC. 2x^{2}  – x – 10\nD. 2x^{2}  + x + 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (2x^{3}  – x^{2}  +10x) : x\n= (2x^{3}  : x) – (x^{2}  : x) + (10x : x) = 2x^{2}  – x + 10\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 6: Kết quả của phép chia (6xy^{2}  + 4x^{2} y – 2x^{3} ) : 2x là\nA. 3y^{2}  + 2xy – x^{2}                      \nB. 3y^{2}  + 2xy + x^{2} \nC. 3y^{2}  – 2xy – x^{2                     }          \nD. 3y^{2}  + 2xy",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n(6xy^{2}  + 4x^{2} y – 2x^{3} ) : 2x\n= 6xy^{2}  : 2x + 4x^{2} y : 2x – 2x^{3}  : 2x\n= 3y^{2}  + 2x – x^{2} \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 8: Chia đa thức (4x^{2} yz^{4}  + 2x^{2} y^{2} z^{2}  – 3xyz) cho đơn thức xy ta được kết quả là\nA. 4xz^{4}  + 2xyz^{2}  – 3z                \nB. 4xz^{4}  + 2xyz^{2}  + 3z\nC. 4xz^{4}  – 2xyz^{2}  + 3z                \nD. 4xz^{4}  + 4xyz^{2}  + 3z",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (4x^{2} yz^{4}  + 2x^{2} y^{2} z^{2}  – 3xyz) : xy\n= (4x^{2} yz^{4}  : xy) + (2x^{2} y^{2} z^{2}  : xy) – (3xyz : xy)\n= 4xz^{4}  + 2xyz^{2}  – 3z\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 9: Chọn câu đúng\nA. 24x^{4} y^{3}  : 12x^{3} y^{3}  = 2xy          \nB. 18x^{6} y^{5}  : (-9x^{3} y^{3} ) = 2x^{3} y^{2} \nC. 40x^{5} y^{2}  : (-2x^{4} y^{2} ) = -20x       \nD. 9a^{3} b^{4} x^{4}  : 3a^{2} b^{2} x^{2}  = 3ab^{3} x^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) 24x^{4} y^{3}  : 12x^{3} y^{3}  = (24 : 12).(x^{4}  : x^{3} ).(y^{3}  : y^{3} ) = 2x nen A sai\n+) 18x^{6} y^{5}  : (-9x^{3} y^{3} ) = (18 : (-9)).(x^{6}  : x^{3} ).(y^{5}  : y^{3}  = -2x^{3} y^{2}  nên B sai\n+) 40x^{5} y^{2}  : (-2x^{4} y^{2} ) = (40 : (-2)).(x^{5}  : x^{4} ).(y^{2}  : y^{2} ) = -20x nên C đúng\n+) 9a^{3} b^{4} x^{4}  : 3a^{2} b^{2} x^{2}  = (9 : 3).(a^{3}  : a^{2} ).(b^{4}  : b^{2} ).(x^{4}  : x^{2} ) = 3ab^{2} x^{2}  nên D sai\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 11: Chọn câu sai\nA. (3x – y)^{7}  : (y – 3x)^{2}  = -(3x – y)^{5} \nB. (x – y)^{5}  : (x – y)^{2}  = (x – y)^{3} \nC. (2x – 3y)^{9}  : (2x – 3y)^{6}  = (2x – 3y)^{3} \nD. (x – 2y)^{50}  : (x – 2y)^{21}  = (x – 2y)^{29}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) (3x – y)^{7}  : (y – 3x)^{2}  = (3x – y)^{7}  : (3x – y)^{2}  = (3x – y)^{5}  nên A sai\n+) (x – y)^{5}  : (x – y)^{2}  = (x – y)^{5-2}  = (x – y)^{3}  nên B đúng\n+) (2x – 3y)^{9}  : (2x – 3y)^{6}  = (2x – 3y)^{9-6}  = (2x – 3y)^{3}  nên C đúng\n+) (x – 2y)^{50}  : (x – 2y)^{21}  = (x – 2y)^{50-21}  = (x – 2y)^{29}  nên D đúng\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 13: Chọn câu đúng\nA. Thương của phép chia đa thức (a^{6} x^{3}  + 2a^{3} x^{4}  – 9ax^{5} ) cho đơn thức ax^{3}  là a^{5}  + 2a^{2} x – 9x^{2} \nB. Thương của phép chia đa thức (a^{6} x^{3}  + 2a^{3} x^{4}  – 9ax^{5} ) cho đơn thức ax^{3} y phép chia hết\nC. Thương của phép chia đa thức (a^{6} x^{3}  + 2a^{3} x^{4}  – 9ax^{5} ) cho đơn thức ax^{3}  là a^{5}  + 2a^{2} x + 9x^{2} \nD. Thương của phép chia đa thức (a^{6} x^{3}  + 2a^{3} x^{4}  – 9ax^{5} ) cho đơn thức ax^{3}  là a^{5} x + 2a^{2} x – 9x^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) (a^{6} x^{3}  + 2a^{3} x^{4}  – 9ax^{5} ) : ax^{3} \n= (a^{6} x^{3}  : ax^{3} ) + (2a^{3} x^{4}  : ax^{3} ) – (9ax^{5}  : ax^{3} )\n= a^{5}  + 2a^{2} x – 9x^{2} \nNên A đúng, C, D sai\n+) Phép chia đa thức (a^{6} x^{3}  + 2a^{3} x^{4}  – 9ax^{5} ) cho đơn thức ax^{3} y không là phép chia hết vì đa thức (a^{6} x^{3}  + 2a^{3} x^{4}  – 9ax^{5} ) không có biến y nên B sai\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 15: Cho A = (3a^{2} b)^{3} (ab^{3} )^{2} ; B = (a^{2} b)^{4} . Khi đó A : B bằng\nA. 27ab^{5}      \nB. -27b^{5}      \nC. 27b^{5}        \nD. 9b^{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có A = (3a^{2} b)^{3} (ab^{3} )^{2}  = 3^{3} .(a^{2} )^{3} .b^{3} .a^{2} (b^{3} )^{2} \n          = 27a^{6} .b^{3} .a^{2} .b^{6}  = 27a^{8} b^{9} \nB = (a^{2} b)^{4}  = (a^{2} )^{4} .b^{4}  = a^{8} b^{4} \nKhi đó A : B = 27a^{8} b^{9}  : a^{8} b^{4}  = 27b^{5} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 16: Cho A = (4x^{2} y^{2} )^{2} (xy^{3} )^{3} ; B = (x^{2} y^{3} )^{2} . Khi đó A : B bằng\nA. 16x^{4} y^{6}    \nB. 8x^{3} y^{8}      \nC. 4x^{3} y^{7}      \nD. 16x^{3} y^{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có A = (4x^{2} y^{2} )^{2} (xy^{3} )^{3}  = 4^{2} (x^{2} )^{2} (y^{2} )^{2} x^{3} (y^{3} )^{3}  = 16x^{4} y^{4} x^{3} y^{9}  = 16x^{7} y^{13} \nB = (x^{2} y^{3} )^{2}  = (x^{2} )^{2} (y^{3} )^{2}  = x^{4} y^{6} \nKhi đó A : B = 16x^{7} y^{13 } : x^{4} y^{6}  = 16x^{3} y^{7} \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 17: Cho (2x+ y^{2} ).(…) = 8x^{3}  + y^{6} . Điền vào chỗ trống (…) đa thức thích hợp\nA. 2x^{2}  – 2xy + y^{4} \nB. 2x^{2}  – 2xy + y^{2} \nC. 4x^{2}  – 2xy^{2}  + y^{4} \nD. 4x^{2}  + 2xy + y^{4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 8x^{3}  + y^{6}  = (2x)^{3}  + (y^{2} )^{3} \n          = (2x + y^{2} )((2x)^{2}  – 2x.y^{2}  + (y^{2} )^{2} )\n          = (2x + y^{2} )(4x^{2}  – 2xy^{2}  + y^{4} )\nVậy đa thức cần điền là 4x^{2}  – 2xy^{2}  + y^{4} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 18: Cho (3x – 4y).(…) = 27x^{3}  – 64y^{3} . Điền vào chỗ trống (…) đa thức thích hợp\nA. 6x^{2}  + 12xy + 8y^{2}                  \nB. 9x^{2}  + 12xy + 16y^{2} \nC. 9x^{2}  – 12xy + 16y^{2}                \nD. 3x^{2}  + 12xy + 4y^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n27x^{3}  – 64y^{3}  = (3x)^{3}  – (4y)^{3}  = (3x – 4y)((3x)^{2}  + 3x.4y + (4y)^{2} )\n= (3x – 4y)(9x^{2}  + 12xy + 16)\nVậy đa thức cần điền là 9x^{2}  + 12xy + 16\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 19: Cho (27x^{3}  + 27x^{2}  + 9x + 1) : (3x + 1)^{2}  = (…) Điền vào chỗ trống đa thức thích hợp\nA. (3x + 1)^{5} \nB. 3x + 1    \nC. 3x – 1    \nD. (3x + 1)^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n(27x^{3}  + 27x^{2}  + 9x + 1) : (3x + 1)^{2}  = (3x + 1)^{3}  : (3x + 1)^{2}  = 3x + 1\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 20: Cho (7x^{4}  – 21x^{3} ) : 7x^{2}  + (10x + 5x^{2} ) : 5x = (…). Điền vào chỗ trống đa thức thích hợp\nA. x^{2}  – 2x + 2\nB. x^{2}  – 4x + 2\nC. x^{2}  – x + 5\nD. x^{2}  – 2x + 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n(7x^{4}  – 21x^{3} ) : 7x^{2}  + (10x + 5x^{2} ) : 5x =\n= 7x^{4}  : (7x^{2} ) – 21x^{3}  : (7x^{2} ) + 10x : (5x) + 5x^{2}  : (5x)\n= x^{2}  – 3x + 2 + x\n= x^{2}  – 2x + 2\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 21: Giá trị số tự nhiên n để phép chia x^{n}  : x^{6}  thực hiện được là:\nA. n Є N, n < 6\nB. n Є N, n ≥ 6\nC. n Є N, n > 6\nD. n Є N, n ≤ 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐể phép chia x^{n}  : x^{6}  thực hiện được thì n Є N, n – 6 ≥ 0 ⇔ n ≥ 6, n Є N\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 22: Giá trị số tự nhiên n để phép chia x^{2n}  : x^{4}  thực hiện được là:\nA. n Є N, n > 2\nB. n Є N, n ≥ 4\nC. n Є N, n ≥ 2\nD. n Є N, n ≤ 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐể phép chia x^{2n}  : x^{4}  thực hiện được thì n Є N, 2n – 4 ≥ 0 ⇔ n ≥ 2, n Є N\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 24: Tìm điều kiện của số tự nhiên n (n > 0) để đơn thức B = 4x^{4} y^{4}  chia hết đơn thức C = x^{n-1} y^{4}  là\nA. n = 5      \nB. 0 < n ≤ 5\nC. n ≥ 5      \nD. n = 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có B : C = (4x^{4} y^{4} ) : (x^{n-1} y^{4} )\nĐơn thức B chia hết cho đơn thức C khi 4 ≥ n – 1 ⇒ n ≤ 5\nHay 0 < n ≤ 5\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 25: Giá trị biểu thức A = 15x^{5} y^{4} z^{3}  : (-3x^{4} y^{4} z^{2} ) với x = -2; y = 2004; z = 10 là\nA. -100      \nB. 100        \nC. -200       \nD. 120",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có A = 15x^{5} y^{4} z^{3}  : (-3x^{4} y^{4} z^{2} ) = (15 : (-3)).(x^{5}  : x^{4} ).(y^{4}  : y^{4} ).(z^{3}  : z^{2} ) = -5xz\nThay x = -2; y = 2004; z = 10 vào A = -5xz ta có\nA = -5.(-2).10 = 100\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 27: Thương của phép chia (9x^{4} y^{3}  – 18x^{5} y^{4}  – 81x^{6} y^{5} ) : (-9x^{3} y^{3} ) là đa thức có bậc là:\nA. 5            \nB. 9            \nC. 3            \nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (9x^{4} y^{3}  – 18x^{5} y^{4}  – 81x^{6} y^{5} ) : (-9x^{3} y^{3} )\n= [(9x^{4} y^{3} ) : (-9x^{3} y^{3} )] – [18x^{5} y^{4}  : (-9x^{3} y^{3} )] – [81x^{6} y^{5}  : (-9x^{3} y^{3} )]\n= -x + 2x^{2} y + 9x^{3} y^{2} \nĐa thức -x + 2x^{2} y + 9x^{3} y^{2}  có bậc 3 + 2 = 5\nĐáp án cần chọn là: A"
+    }
+]

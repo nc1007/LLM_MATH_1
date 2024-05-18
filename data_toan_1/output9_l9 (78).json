@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "a) Viết lại các bội nhỏ hơn 30 của 8.\nb) Viết các bội có hai chữ số của 11.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Viết các số chia hết cho 8 và nhỏ hơn 30.\nb)\n- Viết các số chia hết cho 11 và có 2 chữ số.\nLời giải chi tiết\na)  Các bội nhỏ hơn 30 của 8 là: 0, 8, 16, 24\nb) Các bội có hai chữ số của 11 là: 11, 22, 33, 44, 55, 66, 77, 88, 99."
+    },
+    {
+        "problem": "Tìm các ước của 25.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chia lần lượt 25 cho các số từ 1 đến 25.\n- 25 chia hết cho số nào thì số đó là ước của 25.\nLời giải chi tiết\nChia lần lượt 25 cho các số từ 1 đến 25.\nCác phép chia hết là:\n25:1=25;    25:5=5;    25:25=1.\nCác ước của 25 là: 1; 5; 25.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy Giải thích tại sao A = 1 930 + 1 945 + 1 975 chia hết cho 5.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu tất cả các số hạng của tổng đều chia hết cho cùng một số  thì tổng chia hết cho số đó.\nLời giải chi tiết\nA = 1 930 + 1 945 + 1 975 chia hết cho 5 vì 1 930, 1 945, 1 975 đều chia hết cho 5."
+    },
+    {
+        "problem": "Chỉ ra số thích hợp cho ? theo mẫu:\nm\nSố a chia hết cho m\nSố b chia hết cho m\nThực hiện phép chia (a - b) cho m\n7\n49\n21\n(49 - 21) : 7 = 4\n8\n?\n?\n(? - ?) : 8 = ?\n11\n?\n?\n(? - ?) : 11 = ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Làm theo mẫu\nLời giải chi tiết\nm\nSố a chia hết cho m\nSố b chia hết cho m\nThực hiện phép chia (a - b) cho m\n7\n49\n21\n(49 - 21) : 7 = 4\n8\n48\n16\n(48 - 16) : 8 = 4\n11\n55\n22\n(55 - 22) : 11 = 3\nLoigiaihay.com"
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy Giải thích tại sao A = 2 020 - 1 820 chia hết cho 20\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu số trừ và số bị trừ cùng chia hết cho cùng một số thì hiệu chia hết cho số đó.\nLời giải chi tiết\nVì 2 020 chia hết cho 20 và 1 820 chia hết cho 20 nên A = 2 020 - 1 820 chia hết cho 20."
+    },
+    {
+        "problem": "Không thực hiện phép tính hãy Giải thích tại sao A = 36 . 234 + 217 . 24 - 54 . 13 chia hết cho 6.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu một thừa số của tích chia hết cho một số thì tích chia hết cho số đó.\n- Nếu tất cả các số hạng của tổng đều chia hết cho cùng một số  thì tổng chia hết cho số đó.\n- Nếu số trừ và số bị trừ cùng chia hết cho cùng một số thì hiệu chia hết cho số đó.\nLời giải chi tiết\nVì 36 chia hết cho 6 nên tích (36 . 234) chia hết cho 6\n24 chia hết cho 6 nên tích (217 . 24) chia hết cho 6.\nKhi đó tổng 36 . 234 + 217 . 24 chia hết cho 6.\n54 chia hết cho 6 nên tích (54 . 13) chia hết cho 6.\n=> A = 36 . 234 + 217 . 24 - 54 . 13 chia hết cho 6.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chỉ ra bốn bội của số m, biết:\na) m = 15;              b) m = 30;            c) m = 100.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm các số chia hết cho từng giá trị của m.\nLời giải chi tiết\na) m = 15;\nBốn bội của 15 là: 0, 15, 30, 45.\nb) m = 30;\nBốn bội của 30 là: 30; 60; 90; 150.\nc) m = 100.\nBốn bội của 100 là: 400; 500; 700; 800.\nChú ý: Em có thể chọn các bội khác của m\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm tất cả các ước của số n, biết:\na) n = 13;             b) n = 20;        c) n = 26.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- n chia hết cho số nào thì số đó là ước của n.\nLời giải chi tiết\na) n = 13;\nCác ước của 13 là: 1; 13\nb) n = 20;\nCác ước của 20 là: 1; 2; 4; 5; 10;  20\nc) n = 26.\nCác ước của 26 là: 1; 2; 13; 26\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số tự nhiên x, biết x là bội của 9 và 20 < x < 40\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm số chia hết cho 9\n- Trong các số đó, tìm các số lớn hơn 20 đồng thời nhỏ hơn 40.\nLời giải chi tiết\nCác bội của 9 là: 0; 9; 18; 27; 36; 45; ....\nVậy số tự nhiên x là 27 hoặc 36.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đội Sao đỏ của trường có 24 bạn. Cô phụ trách muốn chia đội thành các nhóm đều nhau để kiểm tra vệ sinh lớp học, mỗi nhóm có ít nhất 2 bạn. Em hãy chia giúp cô giáo bằng cách có thể.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chia đội thành các nhóm  đều nhau tức là 24 chia hết cho số học sinh trong một nhóm.\n- Số học sinh trong 1 nhóm: ước của 24 và lớn hơn hoặc bằng 2 đồng thời nhỏ hơn 24.\n- Tìm số nhóm tương ứng với số học sinh.\nLời giải chi tiết\nCác ước của 24 là: 1; 2; 3; 4; 6; 8; 12; 24.\nSố học sinh trong một nhóm chỉ có thể là: 2;3;4;6;8;12.\nVậy cô có thể chia đội thành:\n+ 12 nhóm, mỗi nhóm có 2 bạn;\n+ 8 nhóm, mỗi nhóm có 3 bạn;\n+ 6 nhóm, mỗi nhóm có 4 bạn;\n+ 4 nhóm, mỗi nhóm có 6 bạn;\n+ 3 nhóm, mỗi nhóm có 8 bạn.\n+ 2 nhóm, mỗi nhóm có 12 bạn.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy tìm đáp án đúng trong các đáp án A, B, C và D:\na) Nếu m ⋮ 4 và n ⋮ 4 thì m + n chia hết cho:\nA. 16         B. 12         C. 8          D. 4\nb) Nếu m ⋮ 6 và n ⋮ 2 thì m + n chia hết cho\nA. 6           B. 4           C. 3            D. 2\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a và b cùng chia hết cho c thì (a+b) chia hết cho c\nLời giải chi tiết\na)\nm  ⋮ 4 và n ⋮ 4 nên (m+n)  ⋮ 4 (Tính chất chia hết của một tổng)\nChọn D.\nb)\nm  ⋮ 6 nên có số q thỏa mãn: m=6.q.\nDo 6  ⋮ 2 nên tích (m=6.q) ⋮ 2.\nMà n ⋮ 2 nên tổng (m+n) ⋮ 2.\nChọn D."
+    },
+    {
+        "problem": "Chỉ ra ba số tự nhiên m, n, p thỏa mãn các điều kiện sau: m không chia hết cho p và n không chia hết cho p nhưng m + n chia hết cho p\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách chọn m,n,p:\n- Chọn ngẫu nhiên số p.\n- Tìm bội của p rồi tách số đó thành 2 số không chia hết cho p.\n- 2 số đó là m và n.\nLời giải chi tiết\n+) Cách 1:\nChọn p=5. Một bội của 5 là 15.\nTách: 15=4+11.\n4 và 11 đều không chia hết cho 5 nhưng 4+11 chia hết cho 5.\nVậy m=4, n=11, p=5 ( hoặc m=11, n=4, p=5)\n+) Cách 2: m = 3; n = 5; p = 2 hoặc m = 5; n = 3; p = 2\n3 không chia hết cho 2 và 5 không chia hết cho 2 nhưng 3 + 5 = 8 chia hết cho 2.\n+) Cách 3: Các số 7; 9; 4.\n7 không chia hết cho 4 và 9 không chia hết cho 4 nhưng 7 + 9 = 16 chia hết cho 4."
+    },
+    {
+        "problem": "Cho a và b là hai số tự nhiên. Giải thích tại sao nếu (a + b) ⋮ m và a ⋮ m thì b ⋮ m\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nếu có số tự nhiên \\(q\\) sao cho \\(x = {\\rm{ }}y.q\\) thì \\(x\\) chia hết cho \\(y\\).\nLời giải chi tiết\n\\(\\left( {a + b} \\right)\\; \\vdots m\\)\\( \\Rightarrow \\) Có số tự nhiên k sao cho \\(a + b = m.k\\).\n\\(a \\vdots m \\Rightarrow \\) Có số tự nhiên \\({k_1}\\) sao cho \\(a = m.{k_1}\\).\n\\( \\Rightarrow m{k_1} + b = mk \\Rightarrow b = m.\\left( {k - {k_1}} \\right)\\)\n\\( \\Rightarrow b \\vdots m\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một cửa hàng có hai loại khay nướng bánh. Loại khay thứ nhất chứa 3 chiếc bánh. Loại khay thứ hai chứa 6 chiếc bánh. Sau một số lần nướng bằng cả hai loại khay trên, người bán hàng đếm được số bánh làm ra 125 chiếc. Hỏi người bán hàng đã đếm đúng hay sai số bánh làm được? Biết rằng mỗi lần nướng, các khay đều xếp đủ số bánh.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi m là số lần nướng bằng khay thứ nhất, n là số lần nướng bằng khay thứ hai.\n- Tổng số bánh làm ra theo m và n phải bằng 125 chiếc.\n- Sử dụng tính chất chia hết của một tổng.\nLời giải chi tiết\nGọi m là số lần nướng bằng khay thứ nhất, n là số lần nướng bằng khay thứ hai.\nSố bánh được nướng bằng khay thứ nhất là 3.m nên chia hết cho 3\nSố bánh được nướng bằng khay thứ hai là 6.n nên chia hết cho 3\nTổng số bánh bán được là 3m+6n chia hết cho 3 (Tính chất chia hết của một tổng). Nhưng 125 không chia hết cho 3\n=> Người bán hàng đã đếm sai số bánh."
+    },
+    {
+        "problem": "Một đoàn khách du lịch đi tham quan chợ nổi Cái Răng ở thành phố Cần Thơ bằng thuyền, mỗi thuyền chở 5 khách du lịch. Sau đó một số khách trong đoàn rời địa điểm tham quan trước bằng thuyền to hơn, mỗi thuyền chở 10 khách du lịch. Hướng dẫn viên kiểm đếm số khách du lịch còn lại là 21 người. Hỏi kết quả kiểm đếm trên là đúng hay sai.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Sử dụng tính chất chia hết của một hiệu: Nếu \\(a \\vdots m, b \\vdots m\\) thì \\((a-b) \\vdots m\\)\nLời giải chi tiết\n+) Ban đầu mỗi thuyền chở 5 khách du lịch => Tổng số khách phải chia hết cho 5.\n+) Một số khách rời đi bằng loại thuyền chở 10 khách du lịch.\n=> Số khách rời đi chia hết cho 10 => Số khách rời đi cũng chia hết cho 5.\n=> Số khách còn lại = số khách ban đầu - số khách rời đi cũng phải chia hết cho 5 (theo tính chất chia hết của một hiệu)\nMà 21 không chia hết cho 5.\n=> Kết quả kiểm đếm là sai."
+    }
+]

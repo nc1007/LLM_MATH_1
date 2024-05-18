@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Xác định hệ số a của các hàm số sau: \\(y = 2{x^2},y =  - 3{x^2},y = \\dfrac{1}{4}{x^2}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc hai có dạng: \\(y = a{x^2}\\left( {a \\ne 0} \\right)\\)\nLời giải chi tiết\nHàm số \\(y = 2{x^2}\\) có hệ số \\(a = 2\\)\nHàm số \\(y =  - 3{x^2}\\) có hệ số \\(a = - 3.\\)\nHàm số \\(y = \\dfrac{1}{4}{x^2}\\) có hệ số \\(a = \\dfrac{1}{4}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = f(x) = \\dfrac{1}{2}{x^2}.\\)\na) Tính f(0), f(1), f(-2), f(4).\nb) Tìm x khi biết \\(f(x) = (1),f(x) = (2),f(x) = ( - 4)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính f(0), f(1), f(-2), f(4). bằng cách thay lần lượt \\(x = 0;x = 1;x =  - 2;x = 4\\) vào hàm số \\(f\\left( x \\right) = \\dfrac{1}{2}{x^2}\\)\nLời giải chi tiết\na)\n\\(\\begin{array}{l}f\\left( 0 \\right) = \\dfrac{1}{2}{.0^2} = 0\\\\f\\left( 1 \\right) = \\dfrac{1}{2}{.1^2} = \\dfrac{1}{2}\\\\f\\left( { - 2} \\right) = \\dfrac{1}{2}.{\\left( { - 2} \\right)^2} = 2\\\\f\\left( 4 \\right) = \\dfrac{1}{2}{.4^2} = 8\\end{array}\\)\nb)\n\\(f\\left( x \\right) = 1 \\Leftrightarrow \\dfrac{1}{2}{x^2} = 1 \\Leftrightarrow {x^2} = 2\\)\\(\\, \\Leftrightarrow x =  \\pm \\sqrt 2 \\)\n\\(f\\left( x \\right) = 2 \\Leftrightarrow \\dfrac{1}{2}{x^2} = 2 \\Leftrightarrow {x^2} = 4 \\)\\(\\,\\Leftrightarrow x =  \\pm 2\\)\n\\(f\\left( x \\right) =  - 4 \\Leftrightarrow \\dfrac{1}{2}{x^2} =  - 4\\left( {vn} \\right)\\)\nLoigiaihay.com"
+    }
+]

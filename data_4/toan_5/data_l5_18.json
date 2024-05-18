@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Chọn đáp án đúng nhất:\nA.\tNếu viết thêm chữ số 0 vào bên phải phần thập phân của một số thập phân thì được một số thập phân bằng nó.\nB.\tNếu một số thập phân có chữ số 0 ở tân cùng bên phải phần thập phân thì khi bỏ chữ số 0 đó đi, ta được một số thập phân bằng nó.\nC.\tCả A và B đều đúng\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu viết thêm chữ số 0 vào bên phải phần thập phân của một số thập phân thì được một số thập phân bằng nó.   \nNếu một số thập phân có chữ số 0 ở tận cùng bên phải phần thập phân thì khi bỏ chữ số 0 đó đi, ta được một số thập phân bằng nó.\nVậy cả A và  B đều đúng."
+    },
+    {
+        "problem": "Câu 2: Trong các khẳng định sau, khẳng định nào đúng nhất?\nA.\tTrong hai số thập phân có phần nguyên khác nhau, số thập phân nào có phần nguyên lớn hơn thì số đó lớn hơn.\nB.\tTrong hai số thập phân có phần nguyên bằng nhau, số thập phân nào có hàng phần mười lớn hơn thì số đó lớn hơn.\nC.\tNếu phần nguyên và phần thập phân của hai số thập phân bằng nhau thì hai số đó bằng nhau.\nD.\tTất cả các đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hai số thập phân có phần nguyên khác nhau, số thập phân nào có phần nguyên lớn hơn thì số đó lớn hơn.  \nTrong hai số thập phân có phần nguyên bằng nhau, số thập phân nào có hàng phần mười lớn hơn thì số đó lớn hơn. \nNếu phần nguyên và phần thập phân của hai số thập phân bằng nhau thì hai số đó bằng nhau.\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 3: Số thập phân nào dưới đây được viết dưới dạng gọn nhất?\nA.\t90,1\nB.\t9,010\nC.\t90,10\nD.\t900,100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy các số thập phân 9,010; 90,10; 900,100 đều có các chữ số 0 ở tận cùng bên phải phần thập phân nên ta có thể bỏ bỏ chữ số 0 đó đi và được một số thập phân bằng nó.\n9,010 = 9,01; 90,10 = 90,1; 900,100 = 900,1 \nVậy số thập phân được viết dưới dạng gọn nhất là 90,1."
+    },
+    {
+        "problem": "Câu 8: Sắp xếp các số sau theo thứ tự từ bé đến lớn: \n5,36; 13,107; 0,28; 28,105; 13,4\nA.\t0,28; 5,36; 13,4;13,107; 28,105\nB.\t0,28; 5,36; 13,4; 28,105; 13,107\nC.\t0,28; 5,36; 13,107; 13,4; 28,105\nD.\t28,105; 13,4; 13,107; 5,36; 0,28",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét phần nguyên của các số đã cho ta có: 0 < 5 < 13 < 28\nMà hai số 13,107; 13,4 có cùng phần nguyên là 13\nXét phần mười của hai số ta có 1 < 4 nên 13,107 < 13,4 \nDo đó 0,28 < 5,36 < 13,107 < 13,4 < 28,105\nVậy các số được viết theo thứ tự từ bé đến lớn là 0,28; 5,36; 13,107; 13,4; 28,105"
+    },
+    {
+        "problem": "Câu 10: Tìm chữ số a, biết 97,614 < 97,a12 (a < 8).\nA. a = 3 \nB. a = 4 \nC. a = 6\t\nD. a = 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để số thập phân 97,614 < 97,a12 (a < 8) khi hai số có cùng phần nguyên (97 = 97), cùng hàng phần trăm (1 = 1) và có hàng phần nghìn khác nhau (4 > 2) thì chữ số a đứng ở hàng phần mười phải lớn hơn 6 ( vì ở hàng phần mười của số 97,614 là chữ số 6).\nTheo bài ra ta có: 6 < a < 8.\nVì 6 < 7 < 8 nên suy ra a = 7."
+    }
+]

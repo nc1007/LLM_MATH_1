@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 18. Trong các bộ ba đoạn thẳng dưới đây, bộ ba nào có thể là độ dài ba cạnh của một tam giác?\nA. 2 cm; 3 cm; 6 cm;\nB. 3 cm; 6 cm; 3 cm;\nC. 3 cm; 4 cm; 5 cm;\nD. 5 cm; 6 cm; 7 dm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n+ Xét bộ ba: 2 cm; 3 cm; 6 cm\nTa có 2 cm + 3 cm = 5 cm < 6 cm \nSuy ra bộ ba đoạn thẳng có độ dài: 2 cm; 3 cm; 6 cm không lập thành một tam giác.\n+ Xét bộ ba: 3 cm; 6 cm; 3 cm\nTa có 3 cm + 3 cm = 6 cm \nSuy ra bộ ba đoạn thẳng có độ dài: 3 cm; 6 cm; 3 cm không lập thành một tam giác.\n+ Xét bộ ba: 3 cm; 4 cm; 5 cm\nTa có: 4 cm – 3 cm < 5 cm < 4 cm + 3 cm.\nSuy ra bộ ba đoạn thẳng có độ dài: 3 cm; 4 cm; 5 cm lập thành một tam giác.\n+ Xét bộ ba: 5 cm; 6 cm; 7 dm\nTa có 7 dm = 70 cm.\nVì 5 cm + 6 cm < 70 cm.\nSuy ra bộ ba đoạn thẳng có độ dài: 5 cm; 6 cm; 7 dm không lập thành một tam giác."
+    },
+    {
+        "problem": "Câu 19. Cho tam giác ABC có AB = 2, BC = 8 cm. Biết độ dài cạnh AC là một số nguyên tố. Chu vi tam giác ABC là:\nA. 18 cm;\nB. 7 cm;\nC. 17 cm;\nD. 19 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGọi độ dài cạnh AC là x (x > 0) (cm)\nTừ bất đẳng thức trong tam giác, ta có: BC – AB < AC < BC + AB\nSuy ra 8 – 2 < x < 8 + 2\nSuy ra 6 < x < 10\nSuy ra x ∈ {7; 8; 9}\nVì x là một số nguyên tố \nSuy ra x = 7 \nSuy ra AC = 7 (cm)\nChu vi tam giác ABC bằng:\nAB + AC + BC = 2 + 7 + 8 = 17 (cm).\nVậy chu vi tam giác ABC là 17 cm."
+    },
+    {
+        "problem": "Câu 20: Cho ∆ABC = ∆MNP. Biết AB = 7 cm, MP = 10 cm và chu vi của tam giác 24 cm. Tính các cạnh còn lại của mỗi tam giác.\nA. MN = AC = 7 cm; BC = NP = 10 cm;\nB. MN = AC = 10 cm; BC = NP = 7 cm;\nC. MN = 7 cm; AC = 10 cm; BC = NP = 7 cm;\nD. MN = 10 cm; AC = 7 cm; BC = NP = 7 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có ∆ABC = ∆MNP nên AB = MN = 7cm, AC = MP = 10cm, BC = NP (các cạnh tương ứng bằng nhau)\nChu vi tam giác ABC là: AB + AC + BC = 24 (cm).\nNên BC = 24 – (AB + AC) \n= 24 – (7 + 10) = 24 – 17 = 7 (cm).\nSuy ra NP = BC = 7 cm.\nVậy MN = 7 cm; AC = 10 cm; BC = NP = 7 cm."
+    }
+]

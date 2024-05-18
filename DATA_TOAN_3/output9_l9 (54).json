@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Một hình cầu có số đo diện tích (đơn vị: m2) bằng số đo thể tích (đơn vị: m2). Tính bán kính hình cầu, diện tích mặt cầu và thể tích hình cầu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích mặt cầu là \\(S = 4\\pi {R^2}\\,\\left( {{m^2}} \\right)\\) và thể tích hình cầu là \\(V = \\dfrac{4}{3}\\pi {R^3}\\left( {{m^3}} \\right)\\) với \\(R\\) là bán kính hình cầu.\nLời giải chi tiết\nGọi bán kính hình cầu là \\(R\\left( {m;R > 0} \\right)\\)\nDiện tích mặt cầu là \\(S = 4\\pi {R^2}\\,\\left( {{m^2}} \\right)\\) và thể tích hình cầu là \\(V = \\dfrac{4}{3}\\pi {R^3}\\left( {{m^3}} \\right)\\)\nTừ đề bài ta có \\(4\\pi {R^2} = \\dfrac{4}{3}\\pi {R^3} \\Leftrightarrow 3{R^2} = {R^3} \\Rightarrow R = 3.\\)\nVậy bán kính hình cầu là \\(3\\,m\\)\nDiện tích mặt cầu là \\(S = 4\\pi {R^2} = 4\\pi {.3^2} = 36\\pi \\left( {{m^2}} \\right)\\)\nThể tích hình cầu là \\(V = \\dfrac{4}{3}\\pi {R^3} = \\dfrac{4}{3}\\pi {.3^3} = 36\\pi \\left( {{m^3}} \\right)\\)\nLoigiaihay.com"
+    }
+]

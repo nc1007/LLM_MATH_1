@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Viết các số sau đây theo thứ tự tăng dần: \\( - 6, - 12,40,0, - 18\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số nguyên dương luôn lớn hơn 0.\n- Số 0 luôn lớn hơn số nguyên âm.\n- Biểu diễn các số âm trên trục số.\n- So sánh các số \\( - 6, - 12,40,0, - 18\\).\n- Sắp xếp thứ tự các số \\( - 6, - 12,40,0, - 18\\).\nLời giải chi tiết\nSố -18 nằm bên trái số -12 nên \\( - 18 <  - 12\\)\nSố \\( - 12\\) nằm bên trái số \\( - 6\\) nên \\( - 12 <  - 6\\)\nSố \\( - 6\\) là số nguyên âm nên \\( - 6 < 0\\)\nSố 40 là số nguyên dương nên luôn lớn hơn 0=> \\(0 < 40\\)\n=>Thứ tự tăng dần: - 18 < - 12 < - 6 < 0 < 40"
+    },
+    {
+        "problem": "Viết các số sau theo thứ tự giảm dần: \\( - 154, - 618, - 219,58\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Để so sánh hai số nguyên âm:\nBước 1: Bỏ dấu “ –  ” trước cả hai số âm\nBước 2: Trong hai số nguyên dương nhân được, số nào nhỏ hơn thì số nguyên âm ban đầu (tương ứng) sẽ lớn hơn.\n+ Số nguyên âm luôn nhỏ hơn số nguyên dương.\nLời giải chi tiết\nSo sánh các số nguyên âm: \\( - 154, - 618, - 219\\). Bỏ các dấu “ –  ” trước  cả 3 số nguyên âm ta được \\(154,618,219\\).\nTa có: \\(154 < 219\\) nên \\( - 154 >  - 219\\)\n\\(219 < 618 \\Rightarrow  - 219 >  - 618\\)\n\\( \\Rightarrow  - 154 >  - 219 >  - 618\\)\nSố 58 là số nguyên dương nên ta có: \\(58 >  - 154 >  - 219 >  - 618\\).\nVậy thứ tự giảm dần cần tìm là \\(58 >  - 154 >  - 219 >  - 618\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các số nguyên biểu thị độ cao so với mực nước biển trong các tình huống sau:\na) Máy bay ở độ cao 10 000 m;\nb) Mực nước biển;\nc) Tàu ngầm chạy dưới mực nước biển 100 m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Độ cao: Giữ nguyên số.\n- Mực nước biển: 0.\n- Dưới mực nước biển: Thêm dấu “ – ” trước số đã cho.\nLời giải chi tiết\na) Máy bay ở độ cao 10 000 m nên số nguyên cần tìm là 10 000.\nb) Mực nước biển luôn là 0 m nên ta có số nguyên cần tìm là 0.\nc) Tàu ngầm chạy dưới mực nước biển 100 m nên ta có số nguyên –100.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chọn kí hiệu “∈”; “∉” thích hợp cho ?\na) \\( - 3?\\mathbb{Z}\\)\nb) \\(0?\\mathbb{Z}\\)\nc) \\(4?\\mathbb{Z}\\)\nd) \\( - 2?\\mathbb{N}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tập số nguyên gồm số nguyên âm, số 0 và số nguyên dương.\n- Số nguyên âm không là số tự nhiên.\nLời giải chi tiết\na) \\( - 3 \\in \\mathbb{Z}\\)\nb) \\(0 \\in \\mathbb{Z}\\)\nc) \\(4 \\in \\mathbb{Z}\\)\nd) \\( - 2 \\notin \\mathbb{N}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh các cặp số sau: 3 và 5; -1 và -3; -5 và 2; 5 và -3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ So sánh 2 số nguyên âm:\nBước 1: Bỏ dấu “ –  ” trước cả hai số âm\nBước 2: Trong hai số nguyên dương nhân được, số nào nhỏ hơn thì số nguyên âm ban đầu (tương ứng) sẽ lớn hơn.\n+ Số nguyên âm luôn nhỏ hơn số nguyên dương.\nLời giải chi tiết\n+) 3 < 5\n+) Do \\(1 < 3\\) nên \\( - 1 >  - 3\\).\n+) Do số nguyên âm luôn nhỏ hơn số nguyên dương nên - 5 < 2.\n+) Do số nguyên âm luôn nhỏ hơn số nguyên dương nên 5 > - 3\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nước đóng băng khi nhiệt độ từ \\(0^\\circ C\\) trở xuống. Trong các phát biểu sau, phát biểu nào đúng, phát biểu nào sai? Vì sao?\na) Ở nhiệt độ \\( - 3^\\circ C\\) thì nước đóng băng.\nb) Ở nhiệt độ \\(2^\\circ C\\) thì nước đóng băng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhiệt độ từ \\(0^\\circ C\\) trở xuống là nhiệt độ âm.\n- So sánh \\( - 3^\\circ C\\) với \\(0^\\circ C\\).\n- So sánh \\(2^\\circ C\\) với \\(0^\\circ C\\).\nLời giải chi tiết\na) Đúng. Vì -3 < 0.\nb) Sai. Vì 2 > 0.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thống kê lợi nhuận hai tuần của một cửa hàng bán hoa quả như sau:\nTuần\nI\nII\nLợi nhuận (triệu đồng)\n– 2\n6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để biết được cửa hàng kinh doanh lãi hay lỗ sau 2 tuần, ta tính tổng lợi nhuận của tuần I và tuần II.\nLời giải chi tiết\nTuần I cửa hàng có lợi nhuận là – 2 triệu đồng, nghĩa là tuần I cửa hàng kinh doanh lỗ 2 triệu.\nTuần II cửa hàng có lợi nhuận là 6 triệu đồng, vậy là cửa hàng kinh doanh lãi 6 triệu đồng.\nLợi nhuận của cả hai tuần là:\n6 – 2 = 4 (triệu đồng)\nNhư vậy, sau hai tuần kinh doanh, cửa hàng lãi với số tiền là 4 triệu đồng."
+    },
+    {
+        "problem": "Tính:\na) (- 28) + (- 82);\nb) x + y, biết x= - 81, y= - 16.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng hai số nguyên âm:\nBước 1. Bỏ dấu “ – ” trước mỗi số.\nBước 2. Tính tổng của hai số nguyên dương nhận được ở Bước 1.\nBước 3. Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tổng cần tìm.\nLời giải chi tiết\na) (- 28) + (- 82) = - (28 + 82) = -110\nb) x + y = (- 81) + (- 16) = - (81 + 16) = - 97\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính :\na) (- 28) + 82 ;\nb) 51 + (- 97)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng hai số nguyên khác dấu:\nBước 1. Bỏ dấu “ – ” trước số nguyên âm, số còn lại giữ nguyên.\nBước 2. Trong hai số nguyên dương nhận được ở Bước 1, ta lấy số lớn hơn trừ đi số nhỏ hơn.\nBước 3. Cho hiệu vừa nhận được dấu ban đầu của số lớn hơn ở Bước 2, ta có tổng cần tìm.\nLời giải chi tiết\na) (- 28) + 82 = 82 – 28 = 54\nb) 51 + (- 97) = -(97 - 51) = - 46\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính và so sánh kết quả:\na) (- 25) + 19  và 19 + (- 25)\nb) [(- 12) + 5] + (- 1) và (- 12) + [5 + (- 1)]\nc) (- 18) + 0 và – 18;\nd) (- 12) + 12  và 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng hai số nguyên khác dấu:\nBước 1. Bỏ dấu “ – ” trước số nguyên âm, số còn lại giữ nguyên.\nBước 2. Trong hai số nguyên dương nhận được ở Bước 1, ta lấy số lớn hơn trừ đi số nhỏ hơn.\nBước 3. Cho hiệu vừa nhận được dấu ban đầu của số lớn hơn ở Bước 2, ta có tổng cần tìm.\nLời giải chi tiết\na) (- 25) + 19 = -6\n19 + (- 25) = -6\n=> (- 25) + 19 = 19 + (- 25)\nb) [(- 12) + 5] + (- 1) = - 8\n(- 12) + [5 + (- 1)] = - 8\n=> [(- 12) + 5] + (- 1) = (- 12) + [5 + (- 1)]\nc) (- 18) + 0 = - 18\n=> (- 18) + 0 = (- 18)\nd) (- 12) + 12 = 0"
+    }
+]

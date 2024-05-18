@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Bài 19: Một hình chữ nhât có diện tích là 24 cm^{2} , chiều dài là 8 cm. Chu vi hình chữ nhật đó là:\nA. 11 cm\nB. 20 cm\nC. 22 cm\nD. 16 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi chiều rộng hình chữ nhật là a, ta có S = a.8 ⇔ 8a = 24 ⇔ a = 3 cm\nChu vi hình chữ nhật là S = (a+8). 2 = 22 cm.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 19: Một hình chữ nhât có diện tích là 120 cm^{2} , chiều dài là 15 cm. Chu vi hình chữ nhật đó là:\nA. 23 cm\nB. 46 cm\nC. 19 cm\nD. 38 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi chiều rộng hình chữ nhật là a, ta có S = a.15 ⇔ 15a = 120 ⇔ a = 8 cm\nChu vi hình chữ nhật là S = (15+8). 2 = 46 cm.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 23: Trong các hình chữ nhật có cùng chu vi 100 cm, hình có diện tích lớn nhất là bao nhiêu?\nA. 2500 cm^{2} \nB. 625 cm^{2} \nC. 500 cm^{2} \nD. 1250 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNửa chu vi của hình chữ nhật là: 100:2 = 50cm.\nGọi một kích thước của hình chữ nhật là x (cm; x > 0) thì kích thước còn lại là 50 – x (cm).\nDiện tích hình chữ nhật bằng x. (50 – x) = –x^{2}  + 50x = – (x^{2}  – 50x + 625) +625 = 625 – (x – 25)^{2} .\nTa có: (x – 25)^{2}  ≥ 0; Ɐx ⇔ 625 – (x – 25)^{2}  ≤ 625; Ɐx\nDấu “=” xảy ra khi x = 25.\nVậy hình chữ nhật có diện tích lớn nhất là 625 cm^{2} .\nĐáp án cần chọn là: B"
+    }
+]

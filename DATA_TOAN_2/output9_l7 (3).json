@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Tính và làm tròn kết quả đến hàng phần nghìn: \\(2,25 - 2,\\left( 3 \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính rồi làm tròn kết quả\nLời giải chi tiết\n\\(2,25 - 2,\\left( 3 \\right) = 0,25 - 0,\\left( 3 \\right) = \\dfrac{1}{4} - \\dfrac{1}{3} =  - \\dfrac{1}{{12}}\\)\nĐặt tính chia ta được: \\( - \\dfrac{1}{{12}} =  - 0,08333\\)\nLàm tròn kết quả đến hàng phần nghìn ta được: \\(2,25 - 2,\\left( 3 \\right) =  - 0,083\\)"
+    },
+    {
+        "problem": "Tìm các số thực x có giá trị tuyệt đối bằng 1,6(7). Điểm biểu diễn các số thực tìm được nằm trong hay nằm ngoài khoảng giữa hai điểm -2 và 2,(1) trên trục số?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 2 số thực có giá trị tuyệt đối bằng a > 0, đó là số a và số -a\nLời giải chi tiết\n\\(x = \\left| {1,6\\left( 7 \\right)} \\right| \\Rightarrow \\left[ \\begin{array}{l}{x_1} = 1,6\\left( 7 \\right)\\\\{x_2} =  - 1,6\\left( 7 \\right)\\end{array} \\right.\\)\nTa có:\n\\(\\begin{array}{l} - 2 <  - 1,6\\left( 7 \\right) < 1,6\\left( 7 \\right) < 2,1\\\\ \\Rightarrow  - 2 < {x_1} < {x_2} < 2,\\left( 1 \\right)\\end{array}\\)\nDo đó trên trục số điểm biểu diễn các số thực tìm được nằm trong khoảng giữa hai điểm -2 và 2,(1)."
+    },
+    {
+        "problem": "Tính căn bậc hai số học của các số sau:\n\\(81;\\,\\,\\,8100;\\,\\,\\,0,81;\\,\\,\\,{81^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Căn bậc hai số học của một số a không âm, kí hiệu là \\(\\sqrt a \\), là số không âm x thoả mãn: \\({x^2} = a\\)\nLời giải chi tiết\nTa có:\n\\(81 = {9^2};8100 = {90^2};0,81 = 0,{9^2}\\) nên căn bậc hai số học của các số đã cho là : 9; 90; 0,9; 81."
+    },
+    {
+        "problem": "Chữ số thứ 105 sau dấu phẩy của phân số \\(\\dfrac{1}{7}\\) (viết dưới dạng số thập phân) là chữ số nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy \\(1:7\\) để tìm chu kì của thương.\nLời giải chi tiết\nĐặt tính chia \\(1:7\\) ta được \\(\\dfrac{1}{7} = 0,\\left( {142857} \\right)\\). Chu kì của số này gồm 6 chữ số.\nMà 105 : 6 = 17 (dư 3) nên chữ số thứ 105 sau dấu phẩy là chữ số thứ 3 của chu kì.\nVậy chữ số thứ 105 sau dấu phẩy của số 0,(142857) là chữ số 2."
+    },
+    {
+        "problem": "So sánh \\(a = 1,0\\left( {10} \\right);b = 1,\\left( {01} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt \\(x = 0,0\\left( {10} \\right) \\Rightarrow 1000x = 10,0\\left( {10} \\right) \\Rightarrow \\)Tìm x\n\\(y = 0,\\left( {01} \\right) \\Rightarrow 100y = 1,\\left( {01} \\right) \\Rightarrow \\)Tìm y\nTính a, b\nSo sánh a, b\nLời giải chi tiết\nĐặt \\(x = 0,0\\left( {10} \\right) \\Rightarrow 1000x = 10,\\left( {10} \\right) \\Rightarrow 1000x = 10 + 10x \\Rightarrow 990x = 10 \\Rightarrow x = \\dfrac{1}{{99}}\\)\n\\( \\Rightarrow a = 1 + 0,0\\left( {10} \\right) = 1 + \\dfrac{1}{{99}} = \\dfrac{{100}}{{99}}\\)\nĐặt \\(y = 0,\\left( {01} \\right) \\Rightarrow 100y = 1,\\left( {01} \\right) \\Rightarrow 100y = 1 + y \\Rightarrow 99y = 1 \\Rightarrow y = \\dfrac{1}{{99}}\\)\n\\( \\Rightarrow b = 1 + 0,\\left( {01} \\right) = 1 + \\dfrac{1}{{99}} = \\dfrac{{100}}{{99}}\\)\nVậy \\(a = b\\)."
+    },
+    {
+        "problem": "Xác định dấu và giá trị tuyệt đối của các số thực sau:\na) \\( - 1,3\\left( {51} \\right)\\)\nb) \\(1 - \\sqrt 2 \\)\nc) \\(\\left( {3 - \\sqrt 2 } \\right).\\left( {2 - \\sqrt 5 } \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(|a|= -a\\) khi \\(a<0\\)\nChú ý: Giá trị tuyệt đối của 1 số thực bất kì luôn là giá trị không âm.\nLời giải chi tiết\na) \\( - 1,3\\left( {51} \\right)\\) có dấu âm và \\(\\left| { - 1,3\\left( {51} \\right)} \\right| = 1,3\\left( {51} \\right)\\)\nb) \\(1 < \\sqrt 2 \\) nên \\(1 - \\sqrt 2 \\) có dấu âm và \\(\\left| {1 - \\sqrt 2 } \\right| = \\sqrt 2  - 1\\)\nc) \\(3 > \\sqrt 2 \\) và \\(2 < \\sqrt 5 \\) nên \\((3-\\sqrt 2) > 0\\) và \\((2-\\sqrt 5)<0\\). Do đó, \\(\\left( {3 - \\sqrt 2 } \\right).\\left( {2 - \\sqrt 5 } \\right)\\) có dấu âm và \\(\\left| {\\left( {3 - \\sqrt 2 } \\right).\\left( {2 - \\sqrt 5 } \\right)} \\right| = \\left( {3 - \\sqrt 2 } \\right).\\left( {\\sqrt 5  - 2} \\right)\\)"
+    },
+    {
+        "problem": "Cho \\(a = \\sqrt {961}  + \\dfrac{1}{{\\sqrt {962} }};b = \\sqrt {1024}  + \\dfrac{1}{{\\sqrt {1023} }} - 1\\). So sánh a và b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính a, b.\nChú ý: \\(\\sqrt{a}=x\\) khi \\(x\\ge 0; x^2=a\\)\nLời giải chi tiết\nTa có: \\(961 = {31^2};1024 = {32^2}\\)\n\\(\\sqrt {961}  = \\sqrt {{{31}^2}}  = 31;\\sqrt {1024}  = \\sqrt {{{32}^2}}  = 32\\)\n\\(\\begin{array}{l} \\Rightarrow a = 31 + \\dfrac{1}{{\\sqrt {962} }}\\\\b = 32 + \\dfrac{1}{{\\sqrt {1023} }} - 1 = 31 + \\dfrac{1}{{\\sqrt {1023} }}\\end{array}\\)\nMà \\(\\dfrac{1}{{\\sqrt {962} }} > \\dfrac{1}{{\\sqrt {1023} }}\\)\nNên a > b"
+    },
+    {
+        "problem": "Kết quả phép tính 1:1,(3) bằng:\nA.0,(75)\nB.0,3\nC.0,(3)\nD.0,75\nHãy chọn câu trả lời đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Làm tương tự bài 2.5, viết \\(1,\\left( 3 \\right)\\) dưới dạng số hữu tỉ.\nLời giải chi tiết\nTa có: \\(1,\\left( 3 \\right) = 1 + 0,\\left( 3 \\right)\\)\nĐặt \\(x = 0,\\left( 3 \\right) \\Rightarrow 10x = 3,\\left( 3 \\right) \\Rightarrow 10x = 3 + x \\Rightarrow 9x = 3 \\Rightarrow x = \\dfrac{1}{3}\\)\nDo đó:\\(1,\\left( 3 \\right) = 1 + \\dfrac{1}{3} = \\dfrac{4}{3}\\)\nVì vậy \\(1:1,\\left( 3 \\right) = 1:\\dfrac{4}{3} = \\dfrac{3}{4} = 0,75\\)\nChọn D."
+    },
+    {
+        "problem": "Không dùng máy tính, hãy cho biết số \\(\\sqrt {555555} \\) là số hữu tỉ hay vô tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính tổng các chữ số của a = 555 555\n- Kiểm tra a chia 9 dư mấy?\n- Tìm quy luật của các số chính phương khi chia cho 9.\nLời giải chi tiết\nSố \\(a = 555\\,555\\)có tổng các chữ số bằng 30 và 30 chia 9 dư 3 nên a chia 9 dư 3\nNếu \\(\\sqrt a \\) là số hữu tỉ thì a phải là số chính phương, tức \\(a = {n^2},n \\in \\mathbb{N}\\)\nCác số chính phương đầu tiên là 0; 4; 9; 16; 25; 36; 49; 64; 81; 100; 121; 144; 169;…Khi chia các số này cho 9 ta thấy các số dư lần lượt là 0; 4; 0; 7; 7; 1; 0; 4; 0; 7;…Các số dư tuần hoàn với chu kì 0; 4; 0; 7; 7; 1.\nNhư vậy các số chính phương khi chia cho 9 không bao giờ có dư 3. Từ đó \\(a = 555555\\) không là số chính phương nên \\(\\sqrt {555555} \\) là số vô tỉ."
+    },
+    {
+        "problem": "Không sử dụng máy tính cầm tay, ước lượng giá trị thập phân của số \\(\\sqrt 3 \\) với độ chính xác 0,05.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Làm tròn số với độ chính xác 0,05tức là làm tròn số đó đến hàng phần mười.\nLời giải chi tiết\nMuốn ước lượng giá trị thập phân của số \\(\\sqrt 3 \\) với độ chính xác 0,05 ta phải làm tròn số đó đến hàng phần mười.\nTrong Ví dụ 3 (trang 32), ta thấy \\(1,7 < \\sqrt 3  < 1,8\\). Cần xét xem \\(\\sqrt 3 \\) gần với 1,7 hay 1,8 hơn.\nTa xét số \\(\\dfrac{{1,7 + 1,8}}{2} = 1,75\\), điểm biểu diễn số 1,75 cách đều 1,7 và 1,8.\nTa có \\({\\left( {1,75} \\right)^2} = 3,0625\\) do đó \\(3 < {\\left( {1,75} \\right)^2}\\) nên \\(\\sqrt 3  < \\sqrt {{{\\left( {1,75} \\right)}^2}}  \\Rightarrow \\sqrt 3  < 1,75 \\Rightarrow 1,7 < \\sqrt 3  < 1,75\\)\nVì vậy \\(\\sqrt 3 \\) gần 1,7 hơn so với 1,8\nKết luận: Làm tròn giá trị thập phân của \\(\\sqrt 3 \\) đến hàng phần mười (có độ chính xác 0,05) ta được \\(\\sqrt 3  \\approx 1,7\\)."
+    },
+    {
+        "problem": "Xét số \\(a = 1 + \\sqrt 2 \\)\na)Làm tròn số a đến hàng phần trăm;\nb)Làm tròn số a đến chữ số thập phân thứ năm;\nc)Làm tròn số a với độ chính xác 0,0005",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách làm tròn số vô tỉ cũng tương tự như làm tròn số hữu tỉ\nLời giải chi tiết\nTa đã biết \\(\\sqrt 2  = 1,4142135623730....\\) nên \\(a = 1 + \\sqrt 2  = 2,4142135623730....\\)\na) Nếu làm tròn đến hàng phần trăm thì \\(a \\approx 2,41\\) (vì chữ số ở hàng làm tròn là 1, chữ số ngay bên phải hàng làm tròn là 4 < 5 nên ta giữ nguyên chữ số hàng làm tròn và bỏ đi các chữ số phần thập phân phía sau hàng làm tròn)\nb) Nếu làm tròn đến chữ số thập phân thứ năm thì \\(a \\approx 2,41421\\) (vì chữ số ở hàng làm tròn là 1, chữ số ngay bên phải hàng làm tròn là 3 < 5 nên ta giữ nguyên chữ số hàng làm tròn và bỏ đi các chữ số phần thập phân phía sau hàng làm tròn)\nc) Nếu làm tròn số a với độ chính xác 0,0005 ta phải làm tròn số a đến hàng phần nghìn, như vậy \\(a \\approx 2,414.\\) (vì chữ số ở hàng làm tròn là 4, chữ số ngay bên phải hàng làm tròn là 2 < 5 nên ta giữ nguyên chữ số hàng làm tròn và bỏ đi các chữ số phần thập phân phía sau hàng làm tròn)"
+    },
+    {
+        "problem": "Cho \\(a = 25,41422135623730950488...\\) là số thập phân có phần số nguyên bằng 25 và phần thập phân trùng với phần thập phân của số \\(\\sqrt 2 \\). Số này có là số thập phân vô hạn tuần hoàn hay không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\sqrt 2 \\) là số thập phân vô hạn không tuần hoàn.\nLời giải chi tiết\nSố a không là số thập phân vô hạn tuần hoàn. Bởi nếu a là số thập phân vô hạn tuần hoàn thì \\(\\sqrt 2  = 1,4142135623730950488...\\) cũng là số thập phân vô hạn tuần hoàn với chu kì trùng với chu kì của số a. Điều này vô lí, vì ta đã biết \\(\\sqrt 2 \\) là số thập phân vô hạn không tuần hoàn."
+    },
+    {
+        "problem": "Không dùng máy tính, hãy cho biết số \\(\\sqrt {\\underbrace {11...1}_{101\\,chữ\\,số\\,1}} \\) là số hữu tỉ hay vô tỉ. Giải thích.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) \\(\\underbrace {11...1}_{101\\,chữ\\,số\\,1}\\) có tổng các chữ số bằng 101\n+) Số \\(\\underbrace {11...1}_{101{\\kern 1pt} chữ{\\kern 1pt} số{\\kern 1pt} 1}\\) chia 3 dư 2\n+) Số \\(\\underbrace {11...1}_{101{\\kern 1pt} chữ{\\kern 1pt} số{\\kern 1pt} 1}\\) không là số chính phương\nLời giải chi tiết\nTa có: \\(\\underbrace {11...1}_{101\\,chữ\\,số\\,1}\\) có tổng các chữ số bằng 101 và 101 chia 3 dư 2 nên số \\(\\underbrace {11...1}_{101{\\kern 1pt} chữ{\\kern 1pt} số{\\kern 1pt} 1}\\) chia 3 dư 2\nMặt khác, bình phương của một số tự nhiên chỉ có thể chia hết cho 3 hoặc chia 3 dư 1, do đó số \\(\\underbrace {11...1}_{101\\,chữ\\,số\\,1}\\) không phải là số chính phương.\nVì vậy \\(\\sqrt {\\underbrace {11...1}_{101\\,chữ\\,số\\,1}} \\) là số vô tỉ."
+    },
+    {
+        "problem": "Tính \\(\\left| {6 - \\sqrt {35} } \\right| + 5 + \\sqrt {35} \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(|A|=A\\) nếu \\(A \\ge 0\\)\n\\(|A|=-A\\) nếu \\(A < 0\\)\nLời giải chi tiết\nTa có: \\(6 = \\sqrt {36} \\)\nDo 36 > 35 nên \\(\\sqrt {36}> \\sqrt {35} \\Rightarrow 6 > \\sqrt {35}\\\\ \\Rightarrow 6 - \\sqrt {35}  > 0 \\\\\\Rightarrow |6 - \\sqrt {35}|=6 - \\sqrt {35}\\)\nTa được: \\( \\left| {6 - \\sqrt {35} } \\right| + 5 + \\sqrt {35}\\\\  = 6 - \\sqrt {35}  + 5 + \\sqrt {35} \\\\ =(6+5) +( \\sqrt {35}- \\sqrt {35}) \\\\ = 11\\)"
+    },
+    {
+        "problem": "Biểu thức \\(\\sqrt {x + 8}  - 7\\) có giá trị nhỏ nhất bằng:\nA.\\(\\sqrt 8  - 7\\)\nB.\\( - 7\\)\nC.0\nD.\\(\\sqrt { - 8}  - 7\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ định nghĩa căn bậc hai số học ta có:\n\\(\\sqrt {x + 8}  \\ge 0,\\forall x \\ge  - 8\\)\nLời giải chi tiết\nĐiều kiện xác định:\\(x + 8 \\ge 0 \\Leftrightarrow x \\ge -8\\)\nTừ định nghĩa căn bậc hai số học ta có:\n\\(\\begin{array}{l}\\sqrt {x + 8}  \\ge 0,\\forall x \\ge  - 8\\\\ \\Rightarrow \\sqrt {x + 8}  - 7 \\ge  - 7,\\forall x \\ge  - 8\\end{array}\\)\nVậy biểu thức có giá trị nhỏ nhất bằng – 7\nDấu “=” xảy ra khi và chỉ khi \\(x + 8 = 0 \\Rightarrow x =  - 8\\).\nChọn B"
+    },
+    {
+        "problem": "Giả sử x, y là hai số thực đã cho. Biết \\(\\left| x \\right| = a;\\left| y \\right| = b\\). Tính \\(\\left| {xy} \\right|\\) theo a và b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét 3 trường hợp: \\(x,y \\ge 0\\),\\(x,y < 0\\), x, y trái dấu.\nLời giải chi tiết\nTa xét các trường hợp sau:\n-Nếu \\(x,y \\ge 0\\)thì \\(xy \\ge 0\\) và \\(x = \\left| x \\right| = a;y = \\left| y \\right| = b;\\left| {xy} \\right| = xy = ab\\)\nDo đó: \\(\\left| {xy} \\right| = ab\\)\n- Nếu \\(x,y < 0\\) thì \\(xy > 0\\) và \\(x =  - \\left| x \\right| =  - a;y =  - \\left| y \\right| =  - b;\\left| {xy} \\right| = xy = \\left( { - a} \\right).\\left( { - b} \\right) = ab\\)\nDo đó: \\(\\left| {xy} \\right| = ab\\)\n- Nếu x, y trái dấu, chẳng hạn x > 0 và y < 0 thì xy < 0\nNên \\(\\left| {xy} \\right| =  - xy =  - a.\\left( { - b} \\right) = ab\\)\nVậy trong mọi trường hợp, nếu \\(\\left| x \\right| = a;\\left| y \\right| = b\\)thì \\(\\left| {xy} \\right| = ab\\).\nChú ý\nKết quả trên cho ta quy tắc xác định giá trị tuyệt đối của một tích \\(\\left| {xy} \\right| = \\left| x \\right|.\\left| y \\right|\\). Kết hợp trên cho ta quy tắc xác định dấu của một tích, ta có quy tắc nhân hai số thực sau đây:\nMuốn nhân hai số thực ta nhân các giá trị tuyệt đối của chúng, đặt dấu “+” hay dấu “-“ trước kết quả tuỳ theo hai số đó cùng dấu hay khác dấu."
+    },
+    {
+        "problem": "Biết \\(\\sqrt {11} \\) là số vô tỉ. Trong các phép tính sau, những phép tính nào có kết quả là số hữu tỉ?\n\\(a)\\dfrac{1}{{\\sqrt {11} }};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,b)\\sqrt {11} .\\sqrt {11} ;\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,c)1 + \\sqrt {11} ;\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,d){\\left( {\\sqrt {11} } \\right)^4}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\sqrt {{a^2}}  = a,\\left( {a > 0} \\right)\\)\nLời giải chi tiết\na) Thương của một số hữu tỉ và một số vô tỉ là một số vô tỉ nên \\(\\dfrac{1}{{\\sqrt {11} }}\\) là một số vô tỉ (không là số hữu tỉ)\nb)\\(\\sqrt {11} .\\sqrt {11}  = \\sqrt {{{11}^2}}  = 11\\) là số hữu tỉ\nc) Tổng của một số hữu tỉ và một số vô tỉ là một số vô tỉ nên \\(1+{\\sqrt {11} }\\) là một số vô tỉ (không là số hữu tỉ)\nd)\\({\\left( {\\sqrt {11} } \\right)^4} = {\\left( {\\sqrt {{{11}^2}} } \\right)^2} = {11^2} = 121\\) là số hữu tỉ."
+    },
+    {
+        "problem": "Giá trị lớn nhất của biểu thức \\(3 - \\sqrt {x - 6} \\) bằng:\nA.\\(3 - \\sqrt 6 \\)\nB.\\(3 - \\sqrt { - 6} \\)\nC.\\(3 + \\sqrt 6 \\)\nD.\\(3\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng \\(\\sqrt {x - 6}  \\ge 0,\\forall x \\ge 6\\)\nLời giải chi tiết\nĐiều kiện xác định:\\(x -6 \\ge 0 \\Leftrightarrow x \\ge 6\\)\nTa có:\n\\(\\begin{array}{l}\\sqrt {x - 6}  \\ge 0,\\forall x \\ge 6\\\\ \\Rightarrow  - \\sqrt {x - 6}  \\le 0,\\forall x \\ge 6\\\\ \\Rightarrow 3 - \\sqrt {x - 6}  \\le 3,\\forall x \\ge 6\\end{array}\\)\nDo đó, biểu thức đã cho có giá trị lớn nhất bằng 3\nDấu “=” xảy ra khi \\(x - 6 = 0 \\Rightarrow x = 6\\)\nChọn D"
+    },
+    {
+        "problem": "Sử dụng tính chất \\(\\left| {a + b} \\right| \\le \\left| a \\right| + \\left| b \\right|\\) (Bài tập 2.36), giải thích vì sao không có số thực x thoả mãn \\(\\left| {x - 1} \\right| + \\left| {x - 3} \\right| = \\sqrt 2 .\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biến đổi \\(\\left| {x - 1} \\right| + \\left| {x - 3} \\right| = \\left| {x - 1} \\right| + \\left| {3 - x} \\right|\\)\nRồi áp dụng tính chất trên.\nLời giải chi tiết\nTa có:\n\\(\\left| {x - 1} \\right| + \\left| {x - 3} \\right| = \\left| {x - 1} \\right| + \\left| {3 - x} \\right| \\ge \\left| {x - 1 + 3 - x} \\right| = \\left| 2 \\right| = 2 > \\sqrt 2 \\)\nDo đó không có số thực x thoả mãn điều kiện đã nêu"
+    },
+    {
+        "problem": "Tính giá trị của các biểu thức sau:\n\\(a)\\sqrt {0,25}  - \\sqrt {0,49} ;\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,b)0,2\\sqrt {100}  - \\sqrt {0,25} \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng \\(\\sqrt {{a^2}}  = a,\\left( {a > 0} \\right)\\)\nLời giải chi tiết\na)\\(\\sqrt {0,25}  - \\sqrt {0,49}  = \\sqrt {{{\\left( {0,5} \\right)}^2}}  - \\sqrt {{{\\left( {0,7} \\right)}^2}}  = 0,5 - 0,7 =  - 0,2\\)\nb)\\(0,2\\sqrt {100}  - \\sqrt {0,25}  = 0,2.\\sqrt {{{10}^2}}  - \\sqrt {{{\\left( {0,5} \\right)}^2}}  = 0,2.10 - 0,5 = 2 - 0,5 = 1,5\\)"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "B. 2xy;\nC. x^{2}  + 1;\nD. t^{2 } + t.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBiểu thức đại số 2x là đơn thức một biến x.\nBiểu thức đại số 2xy không là đơn thức một biến x vì có cả biến y.\nBiểu thức đại số x^{2}  + 1 không phải là đơn thức vì có cả phép cộng.\nBiểu thức đại số t^{2}  + t không phải là đơn thức vì có cả phép cộng.\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 2. Biểu thức biểu thị quãng đường ô tô chạy trong 2,5 (h), với vận tốc x km/h là:\nA. 25x;\nB. 2,5x;\nC. 5x;\nD. 1,25x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có công thức: S = v.t\nDo đó quãng đường ô tô chạy trong 2,5 (h), với vận tốc x km/h là 2,5x (km).\nVậy ta chọn phương án B."
+    },
+    {
+        "problem": "Câu 3. Chọn khẳng định sai?\nA. Mỗi số được xem là một đa thức (một biến);\nB. Số 0 không phải là đa thức;\nC. Mỗi đơn thức cũng là một đa thức;\nD. Đa thức một biến là tổng những đơn thức của cùng một biến.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nSố 0 được gọi là đa thức không. Vậy đáp án B sai."
+    },
+    {
+        "problem": "Câu 4. Đa thức nào dưới đây là đa thức một biến?\nA. x^{2}  + y + 1;\nB. x^{3}  – 2x^{2}  + 3;\nC. xy + x^{2}  – 3;\nD. xyz – yz + 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐa thức x^{3}  – 2x^{2}  + 3 là đa thức một biến x.\nĐa thứcx^{2}  + y + 1 không phải là đa thức một biến vì có cả biến y.\nĐa thức xy + x^{2}  – 3 không phải là đa thức một biến vì có cả biến y.\nĐa thức xyz – yz + 3 không phải là đa thức một biến vì có cả biến y và z.\nTa chọn phương án B."
+    },
+    {
+        "problem": "Câu 5. Thu gọn đa thức P(x) = x^{2}  + 2x^{2}  + 6x + 2x – 3 ta được:\nA. P(x) = x^{2}  + 8x – 3;\nB. P(x) = 3x^{2}  – 8x + 3;\nC. P(x) = 3x^{2}  + 8x – 3;\nD. P(x) = x^{2}  – 8x – 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \nP(x) = x^{2}  + 2x^{2}  + 6x + 2x – 3\n= (x^{2}  + 2x^{2} ) + (6x + 2x) – 3\n= (1 + 2)x^{2}  + (6 + 2)x – 3\n= 3x^{2}  + 8x – 3\nVậy P(x) = 3x^{2}  + 8x – 3.\nTa chọn phương án C."
+    },
+    {
+        "problem": "Câu 6. Sắp xếp đa thức –y^{4}  + y^{7}  – 3y^{2}  + 8y^{5}  – y theo lũy thừa tăng dần của biến y ta được:\nA. y – 3y^{2}  – y^{4}  + 8y^{5}  + y^{7} ;\nB. –y – 3y^{2}  + y^{4}  + 8y^{5}  + y^{7} ;\nC. y – 3y^{2}  + y^{4}  + 8y^{5}  + y^{7} ;\nD. –y – 3y^{2}  – y^{4 } + 8y^{5}  + y^{7} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nSắp xếp đa thức đã cho theo lũy thừa tăng dần của biến y như sau:\n–y^{4}  + y^{7}  – 3y^{2}  + 8y^{5}  – y \n= –y – 3y^{2}  – y^{4}  + 8y^{5}  + y^{7} \nVậy ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 7. Hệ số cao nhất và hệ số tự do của đa thức –7x^{5}  – 9x^{2}  + x^{6}  – x^{4}  + 10 lần lượt là:\nA. –7 và 10;\nB. 10 và –7;\nC. 10 và 1;\nD. 1 và 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nSắp xếp đa thức đã cho theo lũy thừa giảm dần của biến y như sau:\n–7x^{5}  – 9x^{2}  + x^{6}  – x^{4}  + 10\n= x^{6}  – 7x^{5}  – x^{4}  – 9x^{2}  + 10\nHệ số cao nhất của đa thức đã cho là 1.\nHệ số tự do của đa thức đã cho là 10.\nVậy ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 8. Bậc của đa thức Q(x) = 9x^{4}  + 6x – 3x^{5}  – 1 là:\nA. 4;\nB. 5;\nC. 9;\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBậc của đa thức Q(x) là 5 vì số mũ cao nhất của x trong đa thức Q(x) là 5."
+    },
+    {
+        "problem": "Câu 9. Cho đa thức f(x), nếu f(a) = 0, f(b) ≠ 0 thì:\nA. x = a, x = b là hai nghiệm của đa thức f(x);\nB. Chỉ có x = a là nghiệm của đa thức f(x);\nC. Chỉ có x = b là nghiệm của đa thức f(x);\nD. x = a, x = b không là nghiệm của đa thức f(x).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nNếu f(a) = 0 thì x = a là nghiệm của đa thức f(x).\nNếu f(b) ≠ 0 thì x = b không là nghiệm của đa thức f(x).\nVậy ta chọn phương án B."
+    },
+    {
+        "problem": "Câu 10. Cho đa thức sau f(x) = x^{2}  + 10x + 9. Trong các số sau, số nào là nghiệm của đa thức đã cho:\nA. –9;\nB. 1;\nC. 0;\nD. –4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVới đa thức f(x) = x^{2}  + 10x + 9, ta có:\n• Tại x = –9:\nf(–9) = (–9)^{2}  + 10.(–9) + 9 \n= 81 – 90 + 9 \n= 0\nDo đó x = –9 là nghiệm của f(x).\n• Tại x = 1:\nf(1) = 1^{2}  + 10.1 + 9\n= 1 + 10 + 9 \n= 20 ≠ 0 \nDo đó x = 1 không là nghiệm của f(x).\n• Tại x = 0:\nf(0) = 0^{2}  + 10.0 + 9 \n= 0 – 0 + 9 \n= 9 ≠ 0\nDo đó x = 0 không là nghiệm của f(x).\n• Tại x = – 4:\nf(–4) = (–4)^{2}  + 10.(–4) + 9\n= 16 – 40 + 9 \n= –15 ≠ 0 \nDo đó x = –4 không là nghiệm của f(x).\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 11. Cho Q(x) = ax^{2}  – 2x – 3. Giá trị a để Q(x) nhận x = 1 là nghiệm là:\nA. a = 1;\nB. a = –5;\nC. a = 5;\nD. a = –1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nQ(x) nhận x = 1 là nghiệm thì Q(1) = 0\nKhi đó a.1^{2}  – 2.1 – 3 = 0 \nSuy ra a – 5 = 0 \nDo đó a = 5\nVậy để Q(x) nhận x = 1 là nghiệm thì a = 5."
+    },
+    {
+        "problem": "Câu 12. Cho đa thức f(x) = ax^{3}  + bx^{2}  + cx + d. Chọn câu đúng?\nA. Nếu a + b + c + d = 0 thì đa thức f(x) có một nghiệm x = 1;\nB. Nếu a – b + c – d = 0 thì đa thức f(x) có một nghiệm x = –1;\nC. Cả A và B đều đúng;\nD. Cả A và B đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n+) Với a + b + c + d = 0 ta thay x = 1 vào f(x) = ax^{3}  + bx^{2}  + cx + d thì được:\nf(1) = a.1^{3}  + b.1^{2}  + c.1 + d \n= a + b + c + d \nMà a + b + c + d = 0 nên f(1) = 0.\nVậy x = 1 là một nghiệm của đa thức f(x).\n+) Với a – b + c – d = 0 ta thay x = –1 vào f(x) = ax^{3}  + bx^{2}  + cx + d thì được:\nf(–1) = a.(–1)^{3}  + b.(–1)^{2}  + c.(–1) + d \n= –a + b – c + d \n= –(a – b + c – d) \nMà a – b + c – d = 0 nên f(–1) = –0 = 0.\nNên x = –1 là một nghiệm của đa thức f(x).\nVậy cả A, B đều đúng. Ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 13. Theo tiêu chuẩn của Tổ chức Y tế thế giới (WHO), đối với bé gái công thức tính cân nặng chuẩn là C = 9 + 2(N – 1) (kg) với N là số tuổi của bé gái. Cân nặng chuẩn của bé gái 4 tuổi là:\nA. 15 kg;\nB. 16 kg;\nC. 17 kg;\nD. 18 kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nCân nặng chuẩn của bé gái 4 tuổi là: \nC = 9 + 2(4 – 1) = 9 + 2.3 = 9 + 6 = 15 (kg)\nVậy cân nặng chuẩn của bé gái 4 tuổi là 15 kg."
+    },
+    {
+        "problem": "Câu 14. Biểu thức A = (x + 1)(x^{2}  + 2) có bao nhiêu nghiệm?\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐể A = 0 thì (x + 1)(x^{2}  + 2) = 0\n• Trường hợp 1: x + 1 = 0 suy ra x = –1\nDo đó x = –1 là nghiệm của A.\n• Trường hợp 2: x^{2}  + 2 = 0\nTa có x^{2}  ≥ 0 với mọi x ∈ ℝ\nNên x^{2 } + 2 ≥ 2 > 0 với mọi x ∈ ℝ\nDo đó không có giá trị nào của x thỏa mãn x^{2}  + 2 = 0.\nVậy A = 0 có một nghiệm là x = –1."
+    },
+    {
+        "problem": "Câu 15. Quan hệ giữa quãng đường chuyển động y (m) và thời gian chuyển động x (giây) của chuyển động rơi tự do được biểu diễn gần đúng bởi công thức y = 5x^{2} . Người ta thả rơi tự do một vật nặng từ độ cao 200 m xuống đất. Hỏi khi vật nặng còn cách mặt đất 20 m thì nó đã rơi được thời gian bao lâu?\nA. 4 giây;\nB. 5 giây;\nC. 6 giây;\nD. 7 giây.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nKhi vật còn cách mặt đất 20 m thì nó đã rơi được:\n200 – 20 = 180 (m)\nKhi đó ta có: 5x^{<span>2</span>}  = 180\nSuy ra x^{2}  = 36 = 6^{2}  = (–6)^{2} \nVì x (giây) là thời gian chuyển động nên x > 0 \nDo đó ta có x = 6.\nVậy vật nặng rơi được 6 giây thì còn cách mặt đất 20 m.\nTa chọn phương án C."
+    }
+]

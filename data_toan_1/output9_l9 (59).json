@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Hãy xem biểu đồ tranh ở Hình 1 và đọc Số học sinh được điểm 10 môn Toán trong tuần của lớp 6A.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số mặt cười, mỗi mặt cười là 1 HS\nLời giải chi tiết\n- Số học sinh được điểm 10 môn toán trong tuần của khối lớp 6: 14 học sinh.\n- Trong đó:\nThứ Hai có 3 học sinh\nThứ Ba có 2 học sinh\nThứ Tư có 1 học sinh\nThứ Năm có 5 học sinh\nThứ Sáu có 3 học sinh."
+    },
+    {
+        "problem": "Trong biểu đồ ở Hình 3, nếu số bạn yêu thích quả táo là 45 thì ta phải vẽ thêm bao nhiêu biểu tượng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số táo tăng thêm so với ban đầu rồi suy ra số biểu tượng phải vẽ thêm.\nLời giải chi tiết\nNếu số bạn yêu thích quả táo là 45 thì số táo tăng thêm là: 45 – 25 = 20\n=> Phải vẽ thêm 2 biểu tượng ngôi sao."
+    }
+]

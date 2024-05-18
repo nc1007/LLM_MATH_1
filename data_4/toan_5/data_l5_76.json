@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 6: Tính: \n12 phút 25 giây × 3 – 8 phút 21 giây × 4\nA.\t1 giờ 55 phút 36 giây\nB.\t4 phút 15 giây\nC.\t1 giờ 54 phút 32 giây\nD.\t3 phút 51 giây",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n12 phút 25 giây × 3 − 8 phút 21 giây × 4\n= 36 phút 75 giây − 32 phút 84 giây\n= 36 phút 75 giây − 33 phút 24 giây  (vì 84 giây = 1 phút 24 giây)\n= 3 phút 51 giây"
+    },
+    {
+        "problem": "Câu 7: Chọn dấu thích hợp để điền vào chỗ chấm: \n26 giờ 25 phút : 5 … 3 giờ 33 phút  + 1 giờ 45 phút\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+\t26 giờ 25 phút : 5 = 5 giờ 15 phút;\n+\t3 giờ 33 phút + 1 giờ 45phút = 4 giờ 78 phút = 5 giờ 18 phút  (vì 78 phút = 1 giờ 18 phút)\nMà 5 giờ 15 phút  < 5 giờ 18 phút \nVậy 26 giờ 25 phút : 5 < 3 giờ 33 phút + 1 giờ 45 phút."
+    },
+    {
+        "problem": "Câu 9: Một ca nô đi từ bến sông A lúc 6 giờ 40 phút và đến bến sông B lúc 9 giờ 15 phút. Hỏi ca nô đi từ A đến B hết bao nhiêu thời gian? Biết rằng dọc đường ca nô dừng lại nghỉ 20 phút.\nA.\t2 giờ 15 phút\nB.\t2 giờ 35 phút\nC.\t2 giờ 55 phút\nD.\t3 giờ 45 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính cả thời gian nghỉ ca nô đi từ A đến B hết số thời gian là:\n9 giờ 15 phút − 6 giờ 40phút = 2 giờ 35 phút\nNếu không tính thời gian nghỉ ca nô đi từ A đến B hết số thời gian là:\n2 giờ 35 phút − 20 phút = 2 giờ 15 phút\nĐáp số: 2 giờ 15 phút."
+    },
+    {
+        "problem": "Câu 10: Một người thợ làm việc từ lúc 7 giờ 30 phút đến 12 giờ 15 phút và làm được 3 dụng cụ. Hỏi người đó làm 5 dụng cụ như thế mất bao nhiêu thời gian?\nA.\t5 giờ 55 phút\nB.\t4 giờ 45 phút\nC.\t7 giờ 55 phút\nD.\t8 giờ 15 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian người đó làm xong 3 dụng cụ là:\n12 giờ 15 phút − 7 giờ 30 phút = 4 giờ 45 phút\nThời gian người đó làm xong 1  dụng cụ là:\n4 giờ 45 phút : 3 = 1 giờ 35 phút\nThời gian người đó làm xong 5 dụng cụ là:\n1 giờ 35 phút  × 5 = 5 giờ 175 phút = 7 giờ 55 phút  (vì 175 phút = 2 giờ 55 phút)\nĐáp số: 7 giờ 55 phút."
+    },
+    {
+        "problem": "Câu 11: May một cái áo hết 1 giờ 45 phút, may một cái quần hết 2 giờ 10 phút. Hỏi may 9 bộ quần áo như thế hết bao nhiêu thời gian?\nA.\t3 giờ 55 phút\nB.\t30 giờ 45 phút\nC.\t33 giờ 15 phút\nD.\t35 giờ 15 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian để may 1 bộ quần áo là:\n1 giờ 45 phút + 2 giờ 10 phút = 3 giờ 55 phút\nNgười thợ đó may 9 bộ quần áo hết số thời gian là:\n3 giờ 55 phút × 9 = 27 giờ 495 phút\nĐổi 27 giờ 495 phút = 35 giờ 15 phút  (vì 495 phút = 8 giờ 15 phút)\nĐáp số: 35 giờ 15 phút."
+    },
+    {
+        "problem": "Câu 12: Một ô tô đi từ tỉnh A lúc 7 giờ 40 phút và đến tỉnh B lúc 10 giờ 4 phút với vận tốc 45km/giờ. Đến tỉnh B ô tô nghỉ 45 phút để lấy hàng rồi quay trở về tỉnh A. Hỏi ô tô trở về A lúc mấy giờ? Biết vận tốc ô tô khi quay về tỉnh A là 48km/giờ.\nA.\t12 giờ 19 phút\nB.\t13 giờ 4 phút\nC.\t13 giờ 24 phút\nD.\t12 giờ 45 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ô tô đi từ A đến B hết số thời gian là:\n10 giờ 4 phút − 7 giờ 40 phút = 2 giờ 24 phút\nĐổi 2 giờ 24 phút = 2,4 giờ\nQuãng đường AB dài là:\n45 × 2,4 = 108 (km) \nÔ tô bắt đầu đi từ B về A lúc:\n10 giờ 4 phút + 45 phút = 10 giờ 49 phút\nÔ tô đi từ B về A hết số thời gian là:\n108 : 48 = 2,25 (giờ)\nĐổi 2,25 giờ = 2 giờ 15 phút\nÔ tô về đến A lúc:\n10 giờ 49 phút + 2 giờ 15 phút = 12 giờ 64 phút\nĐổi 12 giờ 64 phút = 13 giờ 4 phút\nĐáp số: 13 giờ 4 phút."
+    }
+]

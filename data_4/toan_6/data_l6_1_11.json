@@ -1,0 +1,146 @@
+[
+    {
+        "problem": "A. x⋮a hoặc x⋮b hoặc x⋮c\nB. x⋮a và x⋮b\nC. x⋮b và x⋮c \nD. x⋮a và x⋮b và x⋮c",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố x là bội chung của 3 số a, b, c nếu x chia hết cho cả a, b, c.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Xác định số nhỏ nhất khác 0 trong các bội chung của 2 và 3.\nA. 0\nB. 6\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nB(2) ={0;2;4;6;8;...}\nB(3) ={0;3;6;9;...}\nSố nhỏ nhất khác 0 trong bội chung của 2 và 3 là: 6.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Tìm BCNN(38,76)\nA. 2888 \nB. 37\nC. 76\nD. 144",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 76⋮38 nên BCNN(38;76)=76.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Tìm bội chung nhỏ nhất của 9 và 15, biết 9 = 3^{2} và 15 = 3. 5.\nA. 15\nB. 45\nC. 90\nD. 150",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThừa số nguyên tố của 9 là 3\nThừa số nguyên tố của 15 là 3 và 5.\nCác thừa số chung và riêng của 9 và 15 là 3 và 5.\nSố mũ lớn nhất của 3 là 2, số mũ lớn nhất của 5 là 1.\nBCNN(9, 15) = 3^{2} .5= 45\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Quy đồng mẫu hai phân số \\frac{7}{9} và \\frac{4}{15} với mẫu số nhỏ nhất thì được các phân số lần lượt là:\nA. \\frac{12}{45} và \\frac{35}{45}\nB. \\frac{35}{45} và \\frac{12}{45}\nC. \\frac{70}{90} và \\frac{24}{90}\nD. \\frac{45}{35} và \\frac{12}{35}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: BCNN (9, 15) – 45 nên:\n\\frac{7}{9}=\\frac{7.5}{9.5}=\\frac{35}{45}\\frac{4}{15}=\\frac{4.3}{15.3}=\\frac{12}{45}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Mẫu số nhỏ nhất khi quy đồng các phân số \\frac{3}{16} và \\frac{5}{24} là\nA. 24\nB. 48\nC. 96\nD. 16",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: BCNN(16, 24) = 48\nMẫu chung nhỏ nhất khi quy đồng \\frac{3}{16} và \\frac{5}{24} là 48.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Chọn câu trả lời sai.\nA. 5∈ ƯC(55;110)\nB. 24∈BC(3;4)\nC. 10∉ ƯC(55;110)\nD. 12⊂BC(3;4)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) Ta thấy 55⁝5; 110⁝5 nên 5ϵ ƯC(55;110)\nDo đó A đúng.\n+) Vì 24⁝3; 24⁝4 nên 24ϵBC(3;4)\n Do đó B đúng.\n+) Vì 55 không chia hết cho 10 nên 10∉ ƯC(55;110)\n Do đó C đúng.\n+) Vì 12⁝3;12⁝4  nên 12ϵBC(3;4).  Kí hiệu 12⊂BC(3;4) là sai.\nDo đó D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8. Choa∈BC(6; 8), vậy số a nhận giá trị nào sau đây:\nA. 2 \nB. 12 \nC. 24\nD. 36",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nB(6) ={0,6,12,24...}\nB(8) ={0,8,24,...}\nBC(6,8) ={0,24,...}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Giao của tập của hai tập hợpA={toán, văn, thể dục, ca nhạc} và B={mỹ thuật, toán, văn, giáo dục công dân}\nA. C ={toán, văn, thể dục}\nB. C ={toán, văn}\nC. C ={toán, văn, thể dục, ca nhạc}\nD. C ={toán, thể dục, giáo dục công dân}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi C=A∩B\nVậy C={toán, văn}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. BCNN(10, 15, 30) là:\nA. 10\nB. 15\nC. 30\nD. 60",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 30 là bội của 10 và 15\n=> BCNN(10, 15, 30) = 30.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Dạng 2.các dạng toán về bội chung, bội chung nhỏ nhất\nCâu 1. Có bao nhiêu số có ba chữ số là bội chung của a và b, biết rằng\nBCNN(a,b) = 300.\nA. 1\nB. 2\nC. 3\nD. 300",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBCNN(a,b) = 300\nBC(a,b) là bội của 300.\n=> Tất cả các số có 3 chữ số là bội chung của a và b là: 300, 600, 900\nVậy có tất cả 3 số có ba chữ số là bội của a và b.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Tìm bội chung nhỏ nhất của: 7 và 13\nA. 182\nB. 91\nC. 13\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì 7 và 13 đều là hai số nguyên tố nên ƯCLN(7,13)=1\nHay 7 và 13 là hai số nguyên tố cùng nhau.\n=> BCNN(7,13) = 7 . 13 = 91.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. 54 và 108 có bội chung nhỏ nhất là\nA. 54\nB. 1\nC. 108\nD. 216",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n54 =2.3^{3} \n108 =2^{2} .3^{3} \nCác thừa số chung của 54 và 108 là 2 và 3.\nSố mũ lớn nhất của 2 là 2\nSố mũ lớn nhất của 3 là 3.\nBCNN(54,108)=2^{2} .3^{3} =108\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Thực hiện các phép tính sau: \\frac{3}{8}+\\frac{5}{24}. Với kết quả là phân số tối giản\nA.\\frac{14}{28}\nB.\\frac{7}{12}\nC.\\frac{112}{192}\nD.\\frac{12}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có BCNN (8; 24) = 24 nên:\n\\frac{3}{8}+\\frac{5}{24}=\\frac{3.3}{8.3}+\\frac{5}{24}=\\frac{9}{24}+\\frac{5}{24}=\\frac{14}{24}=\\frac{7}{12}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Cho tập hợp X là ước của 35 và lớn hơn 5. Cho tập Y là bội của 8 và nhỏ hơn 50. Gọi M là giao của 2tập hợp X và Y, tập hợp M có bao nhiêu phần tử?\nA. 2 \nB. 1 \nC. 0\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nƯ(35) ={1,5,7,35}; Ư(35) > 5 ⇒ X ={7,35}\nB(8) = {0,8,16,24,32,40,48,56,...}\nB(8) < 50 ⇒Y={0,8,16,24,32,40,48}\nVì: X ={7,35}; Y ={0,8,16,24,32,40,48}\n⇒M = X∩Y=θ⇒M = X∩Y = θnên tập M không có phần tử nào.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Có bao nhiêu số tự nhiên x khác 0 thỏa mãn x∈BC(12;15;20) và x≤ 100\nA. 4\nB. 3\nC. 2\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có B(12)={0;12;24;36;48;60;72;84;96;...}\nB(15)={0;15;30;45;60;75;90;105;...}\nB(20)={0;20;40;60;80;100;...}\nNên BC(12;15;20)={0;60;120;...} mà x≤100 và x≠0 nên x=60.\nCó một số tự nhiên thỏa mãn đề bài.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Tìm số tự nhiên x nhỏ nhấtbiết x⁝45;x⁝110 và x⁝75\nA. 1650\nB. 3750\nC. 4950\nD. 3300",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì x⁝45;x⁝110 và x⁝75nên x ϵ BC(45;75;110) mà x nhỏ nhất nên\n x = BCNN(45;75;110)\nTa có 45 = 3^{2} .5; 75 = 3.5^{2} ; 110 = 2.5.11\nNên BCNN(45;75;110) = 2.3^{2} .5^{2} .11 = 4950\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Tìm một số tự nhiên biết tích của ước số lớn nhất với bội số nhỏ nhất khác 0 của nó là 256.\nA. 16\nB. 18\nC. 24\nD. 32",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx⁝45; x⁝110 và x⁝75Gọi số cần tìm là a (a≠0)Ước số lớn nhất của alà aBội số nhỏ nhất khác 0của alà aTích của ước số lớn nhất với bội số nhỏ nhất là: \na.a = 256 = 16^{2} \n ⇒a = 16\nVậy số cần tìm là 16.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Một trường tổ chức cho học sinh đi tham quan bằng ôtô. Nếu xếp 35 hay 40 học sinh lên một ô tô thì đều thấy thiếu mất 5 ghế ngồi. Tính số học sinh đi tam quan biết số lượng học sinh đó trong khoảng từ 800 đến 900 em.\nA. 845\nB. 840\nC. 860\nD. 900",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số học sinh đi thăm quan là x(xϵ N*; 800 ≤ x ≤ 900) (học sinh)\nNếu xếp 35 hay 40 học sinh lên một ô tô thì đều thấy thiếu mất 5 ghế ngồi nghĩa là thừa ra 5 học sinh nên ta có\n (x−5)⁝35; (x−5)⁝40 suy ra (x−5) ϵ BC(35;40)\nTa có\n35 = 5.7; 40 = 2^{3} .5 nên\nBCNN(35;40) = 2^{3} .5.7 = 280.\nSuy ra (x−5) ϵ BC(35;40) = B(280)\n= {280;560;840;1120;...}\nmà 800 ≤ x ≤ 900 nên x – 5 = 840 hay x = 845.\nVậy số học sinh đi thăm quan là 845 học sinh.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10. Chị Hòa có một số bông sen. Nếu chị bó thành các bó gồm 3 bông, 5 bông hay 7 bông thì đều vừa hết. Hỏi chị Hòa có bao nhiêu bông sen? Biết rằng chị Hòa có khoảng từ 200 đến 300 bông.\nA. 210\nB. 220\nC. 230\nD. 240",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Gọi số bông sen chị Hòa có là: x (bông, xN).\n- Nếu chị bó thành các bỏ bông gồm 3 bông, 5 bông hay 7 bông thì số bông sen chị Hòa có là bội chung của 3, 5 và 7.\n- Theo đề bài ta có xe BC(3, 5, 7) và 200 < x < 300\nVì 3, 5, 7 từng đôi một là số nguyên tố cùng nhau.\n=> BCNN(3, 5, 7) = 105\n=> BC(3, 5, 7) = B(105) = {0; 105, 210, 315;...}\n=> x BC(3, 5, 7) = {0, 105, 210, 315,.... }.\nMà 200 ≤ x ≤ 300 nên x = 210.\nVậy số bông sen chị Hòa có là 210 bông.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12. Tìm số tự nhiên n lớn nhất có 3 chữ số sao cho nchia 8dư 7, chia 31dư 28.\nA. 927\nB. 183\nC. 431\nD. 729",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì n chia 8 dư 7 nên (n−7)⁝8(n > 7)\n⇒n = 8a + 7 với aN\n⇒(n+1)⁝8\nVì n chia 31dư 28 nên (n−28)⁝31(n > 28)\n⇒ n = 31b + 28 (bN)⇒ (n+3)⁝31\nVì 64⁝8 nên (n+1+64)⁝8 hay (n+65)⁝8(1)Vì 62⁝31 ⇒(n+3+62)⁝31\nHay (n+65)⁝31(2) Từ (1) và (2) \n⇒(n+65)⁝BCNN(8;31)⇒(n+65)⁝248\n⇒n = 248k − 65 (kN*)Với k = 1 ⇒n = 248.1 – 65 = 183Với k = 2 ⇒ n = 248.2 – 65 = 431\nVới k = 3 ⇒ n = 248.3 – 65 = 679\nVới k = 4 ⇒ n = 248.4 – 65 = 927\nVới k = 5 ⇒ n = 248.5 – 65 = 1175 (loại) Vì nlà số lớn nhất có 3chữ số nên n = 927.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13. Cho a; b có BCNN(a; b) = 630; ƯCLN(a; b) = 18. Có bao nhiêu cặp số\n a; b thỏa mãn?\nA. 6\nB. 5\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì ƯCLN(a;b) = 18 nên đặt a = 18x; b = 18y\nvới x; yN; ƯCLN(x; y) = 1; y ≠ 1.\nVìƯCLN(a; b).BCNN(a; b) = a.b\nNên 18.630 = 18x.18y\n⇒x.y = (18.630):(18.18) hay x.y = 35\n mà y ≠ 1. Do đó ta có:\n+) Nếu x = 1 thì y = 35 khi đó a = 18.1 = 18; b = 35.18 = 630\n+) Nếu x = 5 thì y = 7 khi đó a = 18.5 = 90; b = 7.18 = 126\n+) Nếu x = 7 thì y = 5 khi đó a = 18.7 = 126; b = 5.18 = 90\nVậy có ba cặp số a; b thỏa mãn.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14. Tìm hai số tự nhiên a, b(a < b). Biết a + b = 20, BCNN(a, b) = 15.\nA. a = 15; b = 25.\nB. a = 15; b = 5.\nC. a = 15; b = 20.\nD. a = 5; b = 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi ƯCLN(a,b) = d ⇒ a = d.m, b = d.n;(m,n) = 1\n⇒a+b = d(m+n) ⇒d Ư(a+b) hay dƯ(20)Vì BCNN(a,b) =15 ⇒15⁝d hay dƯ(15)⇒d ƯC(15;20)Mà ƯCLN(15;20) = 5  nên d = 1 hoặc d = 5+) Nếu d = 1⇒a.b = 1.15 = 15 = 3.5Khi đó a + b = 3 + 5 = 8 (loại) Hoặc a + b = 1+15 = 16 (loại) +) Nếu d = 5 thì a.b = 5.15 = 75 = 1.75Khi đó a + b = 15 + 5 = 20 (thỏa mãn) Hoặc a + b = 1 + 75 = 76 (loại) Vậy hai số cần tìm là a = 5; b = 15.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 15. Một số tự nhiên aa khi chia cho 7 dư 4; chia cho 9 dư 6. Tìm số dư khi chia a cho 63.\nA. 0\nB. 36\nC. 3\nD. 60",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì a chia cho 7 dư 4⇒(a + 3)⁝7\na chia cho 9 dư 6 ⇒(a + 3)⁝9\nDo đó (a + 3)BC(7; 9) mà BCNN(7; 9) = 63.\nDo đó a(a+3)⁝63⇒a chia cho 63 dư.60.\nĐáp án cần chọn là: D"
+    }
+]

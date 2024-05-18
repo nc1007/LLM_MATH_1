@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Em thực hiện các yêu cầu sau để quy đồng mẫu hai phân số \\(\\dfrac{5}{6}\\) và \\(\\dfrac{7}{4}\\).\n+ Tìm bội chung nhỏ nhất của hai mẫu số.\n+ Viết hai phân số mới bằng hai phân số đã cho và có mẫu là số vừa tìm được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tìm bội chung nhỏ nhất của 6 và 4.\n+ Lấy BCNN vừa tìm được chia cho 6. Lấy cả tử và mẫu của \\(\\dfrac{5}{6}\\) nhân với số đó.\n+ Lấy BCNN vừa tìm được chia cho 4. Lấy cả tử và mẫu của \\(\\dfrac{7}{4}\\) nhân với số đó.\nLời giải chi tiết\n\\(BCNN\\left( {6,4} \\right) = 12\\)\nTa có:\n\\(\\begin{array}{l}12:6 = 2; 12:4 = 3.\\\\\\dfrac{5}{6} = \\dfrac{{5.2}}{{6.2}} = \\dfrac{{10}}{{12}}\\\\\\dfrac{7}{4} = \\dfrac{{7.3}}{{4.3}} = \\dfrac{{21}}{{12}}\\end{array}\\)"
+    },
+    {
+        "problem": "Tương tự HĐ1, em hãy quy đồng mẫu hai phân số \\(\\dfrac{{ - 3}}{5}\\) và \\(\\dfrac{{ - 1}}{2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tìm bội chung nhỏ nhất của 5 và 2.\n+ Lấy BCNN vừa tìm được chia cho 5 ta được thừa số phụ ứng với phân số thứ nhất. Lấy cả tử và mẫu của \\(\\dfrac{{ - 3}}{5}\\) nhân với thừa số phụ.\n+ Lấy BCNN vừa tìm được chia cho 2 ta được thừa số phụ ứng với phân số thứ hai. Lấy cả tử và mẫu của \\(\\dfrac{{ - 1}}{2}\\) nhân với thừa số phụ.\nLời giải chi tiết\n\\(BCNN\\left( {5,2} \\right) = 10\\)\n\\(\\begin{array}{l}\\dfrac{{ - 3}}{5} = \\dfrac{{ - 3.2}}{{5.2}} = \\dfrac{{ - 6}}{{10}}\\\\\\dfrac{{ - 1}}{2} = \\dfrac{{ - 1.5}}{{2.5}} = \\dfrac{{ - 5}}{{10}}\\end{array}\\)"
+    },
+    {
+        "problem": "Quy đồng mẫu các phân số: \\(\\dfrac{{ - 3}}{4};\\dfrac{5}{9};\\dfrac{2}{3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để quy đồng mẫu hai hay nhiều phân số có mẫu dương, ta làm như sau:\n+ Tìm một bội chung (thường là BCNN) của các mẫu để làm mẫu chung.\n+ Tìm thừa số phụ của mỗi mẫu bằng cách chia mẫu chung cho từng mẫu.\n+ Nhân tử và mẫu của mỗi phân số với thừa số phụ tương ứng.\nLời giải chi tiết\n\\(BCNN\\left( {4,9,3} \\right) = 36\\)\nThừa số phụ: \\(36:4 = 9;36:9 = 4;36:3 = 12\\)\nTa có :\n\\(\\begin{array}{l}\\dfrac{{ - 3}}{4} = \\dfrac{{ - 3.9}}{{4.9}} = \\dfrac{{ - 27}}{{36}}\\\\\\dfrac{5}{9} = \\dfrac{{5.4}}{{9.4}} = \\dfrac{{20}}{{36}}\\\\\\dfrac{2}{3} = \\dfrac{{2.12}}{{3.12}} = \\dfrac{{24}}{{36}}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Em hãy nhắc lại quy tắc so sánh hai phân số có cùng mẫu (tử và mẫu đều dương), rồi so sánh hai phân số \\(\\dfrac{7}{{11}}\\) và \\(\\dfrac{9}{{11}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhắc lại quy tắc so sánh hai phân số có cùng mẫu  được học ở cấp 1\n- So sánh tử của 2 phân số rồi kết luận.\nLời giải chi tiết\nQuy tắc:\nTrong hai phân số có cùng mẫu, phân số nào có tử lớn hơn thì lớn hơn.\nSo sánh:\nTa có 7 < 9 nên \\(\\dfrac{7}{{11}} < \\dfrac{9}{{11}}\\)."
+    },
+    {
+        "problem": "\nĐể giải quyết bài toán mở đầu, ta cần so sánh \\(\\dfrac{3}{4}\\) và \\(\\dfrac{5}{6}\\). Em hãy thực hiện các yêu\ncầu sau:\n• Viết hai phân số trên về hai phân số có cùng một mẫu dương bằng cách quy đồng mẫu số.\n• So sánh hai phân số cùng mẫu vừa nhận được. Từ đó kết luận về phần bánh còn lại của hai bạn Vuông và Tròn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Quy đồng mẫu các phân số:  \\(\\dfrac{3}{4}\\) và \\(\\dfrac{5}{6}\\).\n+ So sánh 2 phân số cùng mẫu.\nLời giải chi tiết\n+ Quy đồng mẫu các phân số: \\(\\dfrac{3}{4}\\) và \\(\\dfrac{5}{6}\\):\n\\(BCNN\\left( {6,4} \\right) = 12\\)\nThừa số phụ: \\(12:4 = 3; 12:6=2\\)\nTa có: \\(\\dfrac{3}{4} = \\dfrac{{3.3}}{{4.3}} = \\dfrac{9}{{12}}\\\\\\dfrac{5}{6} = \\dfrac{{5.2}}{{6.2}} = \\dfrac{{10}}{{12}}\\)\n+ So sánh hai phân số cùng mẫu:\nVì 9 < 10 nên \\(\\dfrac{9}{{12}} < \\dfrac{{10}}{{12}}\\) nên \\(\\dfrac{3}{4} < \\dfrac{5}{6}\\)."
+    },
+    {
+        "problem": "So sánh các phân số sau:\na) \\(\\dfrac{7}{{10}}\\) và \\(\\dfrac{{11}}{{15}}\\)\nb) \\(\\dfrac{{ - 1}}{8}\\) và \\(\\dfrac{{ - 5}}{{24}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn so sánh hai phân số không cùng mẫu, ta viết chúng dưới dạng hai phân số có cùng một mẫu dương rồi so sánh các tử với nhau: Phân số nào có tử lớn hơn thì phân số đó lớn hơn.\nLời giải chi tiết\na)\nTa có: \\(BCNN\\left( {10,15} \\right) = 30\\) nên\n\\(\\begin{array}{l}\\dfrac{7}{{10}} = \\dfrac{{7.3}}{{10.3}} = \\dfrac{{21}}{{30}}\\\\\\dfrac{{11}}{{15}} = \\dfrac{{11.2}}{{15.2}} = \\dfrac{{22}}{{30}}\\end{array}\\)\nVì \\(21 < 22\\) nên \\(\\dfrac{{21}}{{30}} < \\dfrac{{22}}{{30}}\\) do đó \\(\\dfrac{7}{{10}} < \\dfrac{{11}}{{15}}\\).\nb)\nTa có: \\(BCNN\\left( {8,24} \\right) = 24\\) nên\n\\(\\dfrac{{ - 1}}{8} = \\dfrac{{ - 1.3}}{{8.3}} = \\dfrac{{ - 3}}{{24}}\\)\nVì \\( - 3 >  - 5\\) nên \\(\\dfrac{{ - 3}}{{24}} > \\dfrac{{ - 5}}{{24}}\\) do đó \\(\\dfrac{{ - 1}}{8} > \\dfrac{{ - 5}}{{24}}\\)."
+    },
+    {
+        "problem": "\nKhông quy đồng mẫu số, em hãy so sánh \\(\\dfrac{{31}}{{32}}\\) và \\(\\dfrac{{ - 5}}{{57}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Xác định dấu của các phân số.\n+ So sánh các phân số với 0.\n+ Nhận xét.\nLời giải chi tiết\nTa có \\(\\dfrac{{31}}{{32}} > 0\\) và \\(\\dfrac{{ - 5}}{{57}} < 0\\) nên \\(\\dfrac{{31}}{{32}} > \\dfrac{{ - 5}}{{57}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tròn nói mỗi bạn được 1 cái bánh và \\(\\dfrac{1}{2}\\) cái bánh. Em có đồng ý với Tròn không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm cách chia để kiểm tra ý kiến của Tròn.\nLời giải chi tiết\nChia đều 3 cái bánh cho 2 bạn ta chia như sau: 2 cái bánh đầu ta phân cho mỗi bạn 1 cái.\nCòn thừa 1 cái bánh ta chia đôi, mỗi bạn thêm \\(\\dfrac{1}{2}\\) cái bánh. Vậy bạn Tròn đúng."
+    },
+    {
+        "problem": "\\(2\\dfrac{5}{4}\\) có là một hỗn số không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phần phân số của hỗn số luôn nhỏ hơn 1.\nLời giải chi tiết\nPhần phân số là \\(\\dfrac{5}{4} > \\dfrac{4}{4} = 1\\) nên \\(2\\dfrac{5}{4}\\) không là một hỗn số."
+    },
+    {
+        "problem": "a) Viết phân số \\(\\dfrac{{24}}{7}\\) dưới dạng hỗn số.\nb) Viết hỗn số \\(5\\dfrac{2}{3}\\) dưới dạng phân số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chia 24 cho 7.\nPhần nguyên của hỗn số là thương của phép chia.\nPhần phân số của hỗn số có tử là phần dư và mẫu là 7.\nb) \\(a \\dfrac{b}{c} = \\dfrac{a.c+b}{c}\\)\nLời giải chi tiết\na) Ta có: 24 chia cho 7 được thương là 3 và dư là 3.\nNhư vậy, \\(\\dfrac{{24}}{7} = 3 + \\dfrac{3}{7} = 3\\dfrac{3}{7}\\)\nb) \\(5\\dfrac{2}{3} = \\dfrac{{5.3 + 2}}{3} = \\dfrac{{17}}{3}\\)"
+    },
+    {
+        "problem": "Quy đồng mẫu các phân số sau:\na) \\(\\dfrac{2}{3}\\) và \\(\\dfrac{{ - 6}}{7}\\)\nb) \\(\\dfrac{5}{{{2^2}{{.3}^2}}}\\) và \\(\\dfrac{{ - 7}}{{{2^2}.3}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để quy đồng mẫu hai hay nhiều phân số có mẫu dương, ta làm như sau:\n+ Tìm một bội chung (thường là BCNN) của các mẫu để làm mẫu chung.\n+ Tìm thừa số phụ của mỗi mẫu bằng cách chia mẫu chung cho từng mẫu.\n+ Nhân tử và mẫu của mỗi phân số với thừa số phụ tương ứng.\nLời giải chi tiết\na) Ta có BCNN(3,7)=21\nThừa số phụ: 21:3=7 và 21:7=3\n\\(\\dfrac{2}{3} = \\dfrac{{2.7}}{{3.7}} = \\dfrac{{14}}{{21}}\\) và \\(\\dfrac{{ - 6}}{7} = \\dfrac{{ - 6.3}}{{7.3}} = \\dfrac{{ - 18}}{{21}}\\)\nb) Ta có \\(BCNN\\left( {\\left( {{2^2}{{.3}^2}} \\right),\\left( {{2^2}.3} \\right)} \\right) = {2^2}{.3^2}\\)\nThừa số phụ \\(\\left( {{2^2}{{.3}^2}} \\right):\\left( {{2^2}.3^2} \\right) = 1\\) và \\(\\left( {{2^2}{{.3}^2}} \\right):\\left( {{2^2}.3} \\right) = 3\\)\n\\(\\dfrac{5}{{{2^2}{{.3}^2}}}\\) và \\(\\dfrac{{ - 7}}{{{2^2}.3}} = \\dfrac{{ - 7.3}}{{{2^2}{{.3}^2}}} = \\dfrac{{ - 21}}{{{2^2}{{.3}^2}}}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Lớp 6A có \\(\\dfrac{4}{5}\\) học sinh thích bóng bàn, \\(\\dfrac{7}{{10}}\\) số học sinh thích bóng đá và \\(\\dfrac{1}{2}\\) số học sinh thích bóng chuyền. Hỏi môn thể thao nào được các bạn học sinh lớp 6A yêu thích nhất?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ So sánh các phân số \\(\\dfrac{4}{5}\\), \\(\\dfrac{7}{{10}}\\) và \\(\\dfrac{1}{2}\\).\n+ Phân số nào lớn nhất thì môn tương ứng được các bạn học sinh lớp 6A yêu thích nhất.\nLời giải chi tiết\n\\(BCNN ( 5,10,2)=10\\)\nTa có:\n\\(\\begin{array}{l}\\dfrac{4}{5} = \\dfrac{{4.2}}{{5.2}} = \\dfrac{8}{{10}}\\\\\\dfrac{1}{2} = \\dfrac{{1.5}}{{2.5}} = \\dfrac{5}{{10}}\\end{array}\\)\n\\(\\dfrac{8}{{10}} > \\dfrac{7}{{10}} > \\dfrac{5}{{10}}\\) nên \\(\\dfrac{4}{5}\\) là số lớn nhất.\nVậy môn bóng bàn được các bạn học sinh lớp 6A yêu thích nhất."
+    },
+    {
+        "problem": "a) Khối lượng nào lớn hơn: \\(\\dfrac{5}{3}kg\\) hay \\(\\dfrac{{15}}{{11}}kg\\)?\nb) Vận tốc nào nhỏ hơn: \\(\\dfrac{5}{6}km/h\\) hay \\(\\dfrac{4}{5}km/h\\)?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh \\(\\dfrac{5}{3}\\) và \\(\\dfrac{{15}}{{11}}\\)\nb) So sánh \\(\\dfrac{5}{6}\\) và \\(\\dfrac{4}{5}\\)\nLời giải chi tiết\na) BCNN(3,11)=33\nThừa số phụ: 33 : 3 = 11; 33 : 11 = 3\n\\(\\begin{array}{l}\\dfrac{5}{3} = \\dfrac{{5.11}}{{3.11}} = \\dfrac{{55}}{{33}}\\\\\\dfrac{{15}}{{11}} = \\dfrac{{15.3}}{{11.3}} = \\dfrac{{45}}{{33}}\\end{array}\\)\nVì \\(\\dfrac{{55}}{{33}} > \\dfrac{{45}}{{33}}\\)\nNên \\(\\dfrac{5}{3}kg > \\dfrac{{15}}{{11}}\\)kg\nb) BCNN(6,5)=30\nThừa số phụ: 30 : 6 = 5; 30 : 5 = 6\n\\(\\begin{array}{l}\\dfrac{5}{6} = \\dfrac{{5.5}}{{6.5}} = \\dfrac{{25}}{{30}}\\\\\\dfrac{4}{5} = \\dfrac{{4.6}}{{5.6}} = \\dfrac{{24}}{{30}}\\end{array}\\)\nVì \\(\\dfrac{{25}}{{30}} > \\dfrac{{24}}{{30}}\\)\nNên \\(\\dfrac{5}{6}km/h > \\dfrac{4}{5}km/h\\)"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Cho tam giác ABC vuông tại A có AB = 9 cm, BC = 15 cm, AH là đường cao (H thuộc cạnh BC). Tính BH, CH, AC và AH.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng hệ thức lượng trong tam giác vuông để tính\nLời giải chi tiết\nÁp dụng hệ thức lượng trong tam giác vuông ABC, đường cao AH:\n\\(A{B^2} = BH.BC\\)\n\\(\\Rightarrow BH = \\dfrac{{A{B^2}}}{{BC}} = \\dfrac{{{9^2}}}{{15}} = \\dfrac{{27}}{5}\\) (cm)\n\\(CH = BC - BH = 15 - \\dfrac{{27}}{5} = \\dfrac{{48}}{5}\\) (cm)\n\\(A{C^2} = CH.BC = \\dfrac{{48}}{5}.15 = 144\\)\n\\(\\Rightarrow AC = \\sqrt {144}  = 12\\) (cm)\n\\(AH.BC = AB.AC \\)\n\\(\\Rightarrow AH = \\dfrac{{AB.AC}}{{BC}} = \\dfrac{{9.12}}{{15}} = \\dfrac{{36}}{5}\\)(cm)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A có AC = 5 cm, AB = 4 cm. Tính :\na) Cạnh huyền BC.\nb) Hình chiếu của AB và AC trên cạnh huyền.\nc) Đường cao AH.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng định lý Pythagore và hệ thức lượng trong tam giác vuông để tính.\nLời giải chi tiết\na) Cạnh huyền BC.\nÁp dụng định lý Pythagore: \\(B{C^2} = A{B^2} + A{C^2} = {5^2} + {4^2} = 41\\)\n\\(\\Rightarrow BC = \\sqrt {41} \\)cm\nb) Hình chiếu của AB và AC trên cạnh huyền.\nGọi hình chiếu của A trên BC là H \\( \\Rightarrow \\) AH là đường cao trong tam giác ABC, BH và CH lần lượt là hình chiếu của AB và AC trên cạnh huyền\nÁp dụng hệ thức lượng trong tam giác vuông ABC đường cao AH:\n\\(A{B^2} = BH.BC \\)\n\\(\\Rightarrow BH = \\dfrac{{A{B^2}}}{{BC}} = \\dfrac{{{4^2}}}{{\\sqrt {41} }} = \\dfrac{{16}}{{\\sqrt {41} }}\\)(cm)\n\\(CH = BC - BH = \\sqrt {41}  - \\dfrac{{16}}{{\\sqrt {41} }} \\)\\(\\,= \\dfrac{{25}}{{\\sqrt {41} }}\\)(cm)\nc) Đường cao AH.\nÁp dụng hệ thức lượng trong tam giác vuông ABC đường cao AH:\n\\(AH.BC = AB.AC \\)\n\\(\\Rightarrow AH = \\dfrac{{AB.AC}}{{BC}} = \\dfrac{{4.5}}{{\\sqrt {41} }} = \\dfrac{{20}}{{\\sqrt {41} }}\\)(cm)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A đường cao AH có BC = 40 cm, AC = 36 cm. Tính AB, BH, CH, và AH.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng định lý Pythagore và hệ thức lượng trong tam giác vuông để tính.\nLời giải chi tiết\nÁp dụng định lý Pythagore vào tam giác ABC vuông tại A:\n\\(A{B^2} = B{C^2} - A{C^2} \\)\\(\\,= {40^2} - {36^2} = 304\\)\n\\(\\Rightarrow AB = \\sqrt {304}  = 4\\sqrt {19} \\)(cm)\nÁp dụng hệ thức lượng trong tam giác vuông ABC đường cao AH:\n\\(A{C^2} = CH.BC\\)\n\\(\\Rightarrow CH = \\dfrac{{A{C^2}}}{{BC}} = \\dfrac{{{{36}^2}}}{{40}} = \\dfrac{{162}}{5}\\) (cm)\n\\(BH = BC - CH = 40 - \\dfrac{{162}}{5} = \\dfrac{{38}}{5}\\)(cm)\n\\(A{H^2} = BH.CH = \\dfrac{{38}}{5}.\\dfrac{{162}}{5} = \\dfrac{{6156}}{{25}} \\)\n\\(\\Rightarrow AH = \\dfrac{{18\\sqrt {19} }}{5}\\)(cm)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A có BC = 24 cm. Tính AB, AC, cho biết \\(AB = \\dfrac{2}{3}AC\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng định lý Pythagore và dữ kiện đầu bài để tính một cạnh từ đó tính cạnh còn lại.\nLời giải chi tiết\nÁp dụng định lý Pythagore vào tam giác ABC vuông tại A:\n\\(A{B^2} + A{C^2} = B{C^2} = {24^2} = 576\\) mà \\(AB = \\dfrac{2}{3}AC\\)\n\\( \\Rightarrow {\\left( {\\dfrac{2}{3}AC} \\right)^2} + A{C^2} = 576 \\)\n\\(\\Leftrightarrow \\dfrac{4}{9}A{C^2} + A{C^2} = 576 \\)\n\\(\\Leftrightarrow \\dfrac{{13}}{9}A{C^2} = 576\\)\n\\( \\Leftrightarrow A{C^2} = 576.\\dfrac{9}{{13}} = \\dfrac{{5184}}{{13}}\\)\n\\(\\Leftrightarrow AC = \\dfrac{{72}}{{\\sqrt {13} }}\\) (cm)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A có AH là đường cao, BH = 10 cm, CH = 42 cm. Tính BC, AH, AB và AC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng hệ thức lượng trong tam giác vuông để tính.\nLời giải chi tiết\n\\(BC = BH + CH = 10 + 42 = 52\\) (cm)\nÁp dụng hệ thức lượng trong tam giác vuông ABC đường cao AH:\n\\(A{H^2} = BH.CH = 10.42 = 420\\)\n\\(\\Rightarrow AH = 2\\sqrt {105} \\) (cm)\n\\(A{B^2} = BH.BC = 10.52 = 520 \\)\n\\(\\Rightarrow AB = 2\\sqrt {130} \\) (cm)\n\\(A{C^2} = CH.BC = 42.52 = 2184 \\)\n\\(\\Rightarrow AC = 2\\sqrt {546} \\) (cm)\nLoigiaihay.com"
+    }
+]

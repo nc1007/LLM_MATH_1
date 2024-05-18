@@ -1,0 +1,140 @@
+[
+    {
+        "problem": "Câu 1. Lũy thừa bậc n của số tự nhiên a được viết là:\nA. a^{n} ;\nB. a.n;\nC. a + n;\nD. a – n.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Lũy thừa bậc n của số tự nhiên a được viết là: a^{n} .\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Cách đọc 2^{2 }  nào là sai?\nA. hai mũ hai;\nB. hai lũy thừa hai;\nC. hai bình phương;\nD. hai nhân hai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác cách đọc 2^{2}  là:\n- Hai mũ hai;\n- Hai bình phương;\n- Hai lũy thừa hai.\nVậy D sai.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Hãy chỉ ra cơ số của lũy thừa 3^{12} \nA. Cơ số là 3.\nB. Cơ số là 12.\nC. Cơ số là 3^{12} .\nD. Cơ số là 12^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Cơ số của lũy thừa 3^{12}  là: 3.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Khi nhân hai lũy thừa cùng cơ số: a^{m} .a^{n} . Kết quả là:\nA. a^{m.n} ;\nB. a^{m+n} ;\nC. a^{m-n} ;\nD. a^{m:n} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có: a^{m} .a^{n}  = a^{m + n} .\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 5. Khi chia hai lũy thừa cùng cơ số (khác 0) thì:\nA. Ta giữ nguyên cơ số và cộng hai số mũ lại.\nB. Ta giữ nguyên cơ số và nhân hai cơ số lại.\nC. Ta giữ nguyên cơ số và chia số mũ của số bị chia cho số mũ của số chia.\nD. Ta giữ nguyên cơ số và trừ số mũ của số bị chia cho số mũ của số chia.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Khi chia hai lũy thừa cùng cơ số (khác 0), ta giữ nguyên cơ số và trừ số mũ của số bị chia cho số mũ của số chia.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Chọn phát biểu đúng.\nA. a^{3 } còn được gọi là a lập phương.\nB. a^{3}  = a + a + a.\nC. a^{3}  = a.3.\nD. Số mũ của a^{3 } là a.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \na^{3 } còn được gọi là a lập phương. Do đó A đúng.\nTa có a^{3}  = a.a.a. Do đó B, C sai.\nSố mũ của a^{3}  là 3. Do đó D sai.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 7. Viết kết quả của phép tính sau dưới dạng một lũy thừa: 5.5.5.5?\nA. 5.4.\nB. 5^{4} .\nC. 5^{5} .\nD. 5^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải 5.5.5.5 = 5^{4} .\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. Ta có a^{m} :a^{n}  = a^{m – n}  với điều kiện là gì?\nA. a ≠ 0;\nB. a ≠ 0 và m < n.\nC. a ≠ 0 và m > n.\nD. a ≠ 0 và m ≥ n.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải a^{m} :a^{n}  = a^{m – n}   với a ≠ 0 và m ≥ n\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Lập phương của 7 được viết như thế nào?\nA. 7^{2} ;                    B. 7^{3} ;                    C. 7.3;                  D. 7.2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Lập phương của 7 là: 7^{3} .\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 10. 16 là lũy thừa của số tự nhiên nào, và có số mũ bằng bao nhiêu?\nA. Lũy thừa của 2, số mũ bằng 4\nB. Lũy thừa của 4, số mũ bằng 3\nC. Lũy thừa của 2, số mũ bằng 3\nD. Lũy thừa của 2, số mũ bằng 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n16 = 4.4 = 4^{2} . 16 là lũy thừa của số 4 và số mũ bằng 2.\n16 = 2.2.2.2 = 2^{2} . 16 là lũy thừa của số 2 và số mũ bằng 4.\nĐáp án: A"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Tính 2^{3} ?\nA. 6.\nB. 8.\nC. 12.\nD. 16.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có 2^{3}  = 8.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Viết tích sau dưới dạng một lũy thừa: 5.5.5.25\nA. 5^{3} .25;\nB. 5^{4} ;\nC. 5^{5} ;\nD.5.25^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có: 5.5.5.25 = 5.5.5.5.5 = 5^{5} .\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Tính 3^{4} .5^{3} .\nA. 15^{7} ;\nB. 15^{1} ;\nC. 10 125;\nD. 180.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải 3^{4} .5^{3}  = 27.125 = 10 125.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Viết tổng sau dưới dạng bình phương của một số tự nhiên: 1 + 3 + 5 +7.\nA. 4^{2} .\nB. 16^{2} .\nC. 2^{2} .\nD. 8^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải 1 + 3 + 5 + 7 = 16 = 4.4 = 4^{2} .\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 5. Kết quả của phép tính: 7^{19} .7^{2} :7^{21} \nA. 7;\nB. 1;\nC. 7^{2} ;\nD. 7^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n7^{19} .7^{2} :7^{21} \n= 7^{19 + 2} :7^{21} \n= 7^{21} :7^{21} \n= 7^{21 – 21 } \n= 7^{0}  = 1.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Viết số 902 thành tổng giá trị các chữ số của nó bằng cách dùng các lũy thừa của 10.\nA. 902 = 9.100 + 2.10;\nB. 902 = 9.10^{3}  + 0 + 2;\nC. 902 = 9.10^{2}  + 2;\nD. 902 = 9 + 0 + 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n902 = 9.100 + 0.10 + 2\n= 9.10^{2}  + 2.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Cho 2^{10 } = 1 024. Hãy tính 2^{11} .\nA. 2^{11}  = 512.\nB. 2^{11}  = 2 048.\nC. 2^{11 } = 1 024.\nD. 2^{11}  = 2 028.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có 2^{11}  = 2^{10} .2 = 1 024.2 = 2 048.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. Ghép kết quả ở cột A với các lũy thừa tương ứng ở cột B.\nCột A\nCột B\n1. 16\na. 7^{2} \n2. 25\n b. 15^{2} \n3. 49\n c. 13^{2} \n4. 169\nd. 5^{2} \n5. 225\ne. 4^{2} \nA. 1 – e; 2 – b; 3 – a; 4 – d; 5 – c.\nB. 1 – e; 2 – d; 3 – a; 4 – b; 5 – c.\nC. 1 – e; 2 – d; 3 – a; 4 – c; 5 – b.\nD. 1 – e; 2 – b; 3 – a; 4 – c; 5 – d.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 16 = 4.4 = 4^{2} ; 25 = 5.5 = 5^{2} ; 49 = 7.7 = 7^{2} ; 169 = 13.13 = 13^{2} ; 225 = 15.15 = 15^{2} .\nVậy 1 – e; 2 – d; 3 – a; 4 – c; 5 – b.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Tìm số n thỏa mãn 4^{n}  = 4^{3} .4^{5} .\nA. n = 15;\nB. n = 8;\nC. n = 7;\nD. n = 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n4^{n}  = 4^{3} .4^{5} \n4^{n}  = 4^{3 + 5} \n4^{n}  = 4^{8} \nn = 8.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 10. Tìm số tự nhiên x, biết: x^{2}  = 16.\nA. x = 4;\nB. x = 2;\nC. x = 8;\nD. x = 16.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nx^{2}  = 16\nx^{2}  = 4^{2} \nx = 4\nVậy x = 4.\nĐáp án: A"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Trái Đất có khối lượng khoảng 60. tấn. Mỗi giây Mặt Trời tiêu thụ 6. tấn khí hydrogen (theo vnexpress.net). Hỏi Mặt Trời cần bao nhiêu giây để tiêu thụ một lượng khí hydrogen có khối lượng bằng khối lượng Trái Đất?\nA. 10^{12} ;\nB. 10^{3} ;\nC. 10^{4} ;\nD. 10^{5} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nThời gian để Mặt Trời tiêu thụ một lượng khí hdrogen có khối lượng bằng khối lượng Trái Đất là:\n(60. 10^{20} ) : ( 6. 10^{6} )(giây)\n= 6.10.10^{20}  : (6.10^{6} ) = 6.10^{21}  : 6 : 10^{6}  = (6:6).(10^{21}  : 10^{6} ) = 10^{21-6}  = 10^{15}  (giây)\nVậy Mặt Trời cần giây để tiêu thụ một lượng khí hydrogen.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2. Theo các nhà khoa học, mỗi giây cơ thể con người trung bình tạo ra khoảng 25. tế bào hồng cầu (theo www.healthline.com). Hãy tính xem mỗi giờ, bao nhiêu tế bào hồng cầu được tạo ra?\nA. 9.10^{9} ;\nB. 9.10^{10} ;\nC. 9.10^{8} ;\nD. 9.10^{19} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nĐổi 1 giờ = 3 600 giây\nVậy mỗi giờ số tế bào hồng cầu được tạo ra là:\n25.10^{5} . 3 600 \n= 3 600. 25. 10^{5} \n=36.10.10.25.10^{5}  = (36.25).10^{7}  = 900.10^{7}  = 9.10^{2} .10^{7}  = 9.10^{9}   (tế bào)\nVậy mỗi giờ có 9.10^{9}  tế bào hồng cầu được tạo ra.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Truyền thuyết Ấn Độ kể rằng người phát minh ra bàn cờ vua đã chọn phần thưởng là số thóc rải trên 64 ô của bàn cờ vua như sau: ô thứ nhất để 1 hạt thóc, ô thứ hai để 2 hạt thóc, ô thứ ba để 4 hạt thóc, ô thứ tư để 8 hạt thóc,… Cứ như thế số hạt ở ô sau gấp đôi số hạt ở ô trước. Hỏi ô số 34 của bàn cờ có bao nhiêu hạt thóc.\nA. 2^{34} ;\nB. 34.2;\nC. 34^{2} ;\nD. 2^{33} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nÔ thứ nhất: 2^{0 } = 1 hạt thóc.\nÔ thứ hai: 2^{1}  = 2 hạt thóc;\nÔ thứ ba: 2^{2}  = 4 hạt thóc;\nÔ thứ tư: 2^{3}  = 8 hạt thóc;\nÔ thứ năm: 2^{4}  = 16 hạt thóc;\n….\nÔ thứ 34 của bàn cở: 2^{33 } hạt thóc.\nĐáp án: D"
+    }
+]

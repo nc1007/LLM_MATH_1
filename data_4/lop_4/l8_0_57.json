@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1 : a ∶ 1 = a. Đúng hay sai? \nA.\tĐúng \nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: Mọi số chia cho 1 đều bằng chính nó.\nHay a : 1 = a.\nVậy biểu thức đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2 : Tính: 25872 ∶ 3  \nA.\t8554\nB.\t8544\nC.\t8634\nD.\t8624",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy 25872:3=8624."
+    },
+    {
+        "problem": "Câu 4 : Tính: 408076∶7 \nA.\t58286\nB.\t58396\nC.\t58296 dư 4\nD.\t58297 dư 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy: 408076 : 7 = 58296 dư 4."
+    },
+    {
+        "problem": "Câu 5 : Số dư trong phép chia 25369∶8 là \nA.\t8\nB.\t6\nC.\t3\nD.\t1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\n25369 : 8 = 3171 dư 1\n\tVậy số dư trong phép chia 25369:8 là 1.\n\nVậy số dư trong phép chia 25369:8 là 1."
+    },
+    {
+        "problem": "Câu 6 : Tìm y, biết:  9 × y = 16895 + 13867 \nA.\ty = 3418\nB.\ty = 3417\nC.\ty = 3416\nD.\ty = 3415",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "9 × y = 16895 + 13867\n9 × y = 30762\ny = 30762 : 9\ny = 3418"
+    },
+    {
+        "problem": "Câu 7 : Giá trị của biểu thức (12592 - 4528) ∶ 8 + 245 × 23 là: \nA.\t282233\nB.\t28819\nC.\t6643\nD.\t5635",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \n(12592−4528):8+245×23\n=8064:8+5635\n=1008+5635\n=6643\nVậy giá trị của biểu thức (12592−4528):8+245×23 là 6643."
+    },
+    {
+        "problem": "Câu 9 : Chọn dấu thích hợp để điền vào chỗ chấm:    \n188811∶7 ...215496∶8\nA.\t<\nB.\t>\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 188811:7=26973;\n215496:8=26937 \nMà 26973 > 26937.\nDo đó 188811:7 > 215496:8."
+    },
+    {
+        "problem": "Câu 12 : Người ta xếp 127450 cái áo vào các hộp, mỗi hộp 8 cái áo. \nHỏi có thể xếp được vào nhiều nhất bao nhiêu hộp và còn thừa mấy cái áo? \nA.\t15931 hộp\nB.\t15931 hộp, thừa 4 cái áo\nC.\t15931 hộp, thừa 1 cái áo \nD.\t15931 hộp, thừa 2 cái áo",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia ta có:\n   127450:8=15931 (dư 2)\nVậy có thể sắp xếp được nhiều nhất 15931 hộp và còn thừa 2 cái áo. \n                Đáp số: 15931 hộp; thừa 2 cái áo."
+    }
+]

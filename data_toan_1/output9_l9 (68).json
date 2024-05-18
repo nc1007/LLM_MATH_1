@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Vàng bốn số chín là loại vàng chứa 99,99% vàng nguyên chất. Hãy tính khối lượng vàng nguyên\nchất có trong 100 g vàng bốn số chín.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị a% của số b, ta tính: b. a% = b.\\(\\frac{a}{{100}}\\).\nLời giải chi tiết\nKhối lượng vàng nguyên chất có trong 100g vàng bốn số chín là:\n100.99,99% = \\(\\frac{{100.99,99}}{{100}}\\) = 99,99 (gam)\nĐáp số: 99,99 gam"
+    },
+    {
+        "problem": "Tìm giá trị 25% của 200 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị a% của số b, ta tính: b. a% = b.\\(\\frac{a}{{100}}\\).\nLời giải chi tiết\n25% của 200 000 là: 200 000 . \\(\\frac{{25}}{{100}}\\) = 50 000"
+    },
+    {
+        "problem": "Vàng 18K là hợp kim có chứa 75% vàng nguyên chất. Hãy tính khối lượng vàng nguyên chất có trong một chiếc nhẫn một chỉ nặng 3,75 gam làm bằng vàng 18K.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị a% của số b, ta tính: b. a% = b.\\(\\frac{a}{{100}}\\).\nLời giải chi tiết\nKhối lượng vàng nguyên chất có trong một chiếc nhẫn là:\n\\(3,75.75\\%  = \\frac{{3,75.75}}{{100}} = 2,8125\\) (g)"
+    },
+    {
+        "problem": "Khối lượng cafein có trong hạt cà phê Robusta của Buôn Ma Thuột là 2,5%. Muốn điều chế được 200 g cafein ta cần phải có bao nhiêu gam hạt cà phê Robusta?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm số b khi biết a% của b là c, ta tính: b = \\(\\frac{c}{a}.100\\)\nLời giải chi tiết\nMuốn điều chế được 200 g cafein ta cần có số gam hạt cà phê là:\n\\(\\frac{{200.100\\;}}{{2,5}}\\)= 8000 (gam)"
+    },
+    {
+        "problem": "Tìm số x khi biết 12% của x là 500.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm số b khi biết a% của b là c, ta tính: b = \\(\\dfrac{c}{a}.100\\)\nLời giải chi tiết\nSố x là: \\(\\dfrac{{500.100}}{{12}}=\\dfrac{12500}{3}\\)."
+    },
+    {
+        "problem": "a) Một cái ti vi giá 9 500 000 đồng. Tìm giá mới của nó sau khi giảm giá 15%.\nb) Giá của một chiếc điện thoại sau khi đã giảm giá 25% là 800 000 đồng. Hỏi giá gốc trước khi giảm là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tính giá của tivi khi giảm chiếm bao nhiêu phần trăm giá gốc\nGiá của chiếc ti vi bằng giá gốc nhân với số phần trăm tính được bên trên\nb) Tính giá của chiếc điện thoại khi giảm chiếm bao nhiêu phần trăm giá gốc\nGiá của chiếc ti vi bằng giá gốc nhân : số phần trăm tính được bên trên.\nLời giải chi tiết\na) Ta có: \\(100\\%  - 15\\%  = 85\\% \\)\nGiá của chiếc Tivi sau khi giảm giá:\n\\(9\\,500\\,000.\\frac{{85}}{{100}} = 8\\,075\\,000\\)(đồng)\nb) Ta có: \\(100\\%  - 25\\%  = 75\\% \\)\nGiá gốc của chiếc điện thoại là:\n\\(800:75\\%  = 800:\\frac{{75}}{{100}} \\approx 1\\,067\\) (nghìn đồng)"
+    },
+    {
+        "problem": "Bạn Trúc đạt giải nhất cuộc thi hùng biện tiếng Anh và được thưởng 10 000 000 đồng. Ba Trúc giúp em đem gửi số tiền đó vào ngân hàng có kì hạn 12 tháng với lãi suất 6% một năm.\na) Hỏi một năm sau Trúc nhận được tổng cộng cả vốn lẫn lãi là bao nhiêu tiền?\nb) Nếu Trúc chỉ gửi tiền với lãi suất không kì hạn là 0,3% / năm và sau 40 ngày có việc cần dùng phải rút tiền ra ngay, bạn ấy sẽ nhận được tổng cộng là bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tính số tiền lãi = \\(10 000 000 . \\frac{6}{100}\\)\nSố tiền trúc nhận được sau 1 năm bằng tổng của tiền gốc và tiền lãi.\nb) Tính số tiền lãi trong 40 ngày\nSố tiền trúc nhận được sau 40 ngày bằng tổng của tiền gốc và tiền lãi.\nLời giải chi tiết\na) Số tiền lãi sau 1 năm là:\n\\(10\\,000\\,000.\\frac{6}{{100}} = 600\\,000\\)(đồng)\nTa có: \\(10\\,000\\,000 + 600\\,000 = 10\\,600\\,000\\)(đồng).\nVậy một năm sau Trúc nhận được tổng cộng cả vốn lẫn lãi là \\(10\\,600\\,000\\) đồng.\nb)\nSố tiền lãi sau 40 ngày là:\n\\(10\\,000\\,000.\\frac{{0,3}}{{100}}.\\frac{{40}}{{360}} \\approx 3333\\) (đồng)\nTa có: \\(10\\,000\\,000 + 3333 = 10\\,003\\,333\\)(đồng).\nVậy sau 40 ngày Trúc nhận được tổng cộng cả vốn lẫn lãi là \\(10\\,003\\,333\\) đồng."
+    },
+    {
+        "problem": "Nước ở Biển Chết (Dead Sea) tại Israel rất mặn. Trong 500 g nước biển tại đây có chứa 175 g muối. Do độ mặn của Biển Chết rất cao nên người tắm có thể nổi dễ dàng, thậm chí du khách có thể nằm đọc báo trên mặt nước. Em hãy tính tỉ số phần trăm của muối trong nước biển ở Biển Chết.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm của muối trong nước biển ở Biển Chết = khối lượng muối : khối lượng nước biển . 100%\nLời giải chi tiết\nTỉ số phần trăm của muối trong nước biển ở Biển Chết là:\n\\(\\left( {\\frac{{175}}{{500}}.100} \\right)\\%  = 35\\% \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một quyển sách có giá 48 000 đồng. Tìm giá mới của quyển sách sau khi:\na) giảm giá 25%;\nb) tăng giá 10%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Giá mới của quyển sách = giá ban đầu – số tiền được giảm\nb) Giá mới của quyển sách = giá ban đầu +  số tiền tăng thêm\nLời giải chi tiết\na) Quyển sách giảm đi số tiền là:\n48 000.25% = \\(\\frac{{48000.25}}{{100}}\\) = 12 000 ( đồng)\nGiá mới của quyển sách là:\n48 000 - 12 000 = 36 000 ( đồng)\nb) Quyển sách tăng thêm số tiền là:\n48 000.10% = \\(\\frac{{48000.10}}{{100}}\\)= 4 800 ( đồng)\nGiá mới của quyển sách là:\n48 000 + 4 800  = 52 800 ( đồng)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cà phê Arabica chứa 1,5% chất cafein. Tính lượng cafein có trong 300 g cà phê Arabica.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị a% của số b, ta tính: b. a% = b.\\(\\frac{a}{{100}}\\).\nLời giải chi tiết\nLượng cafein có trong 300g cà phê Arabica là:\n300 . 1,5% =\\(\\frac{{300.1,5}}{{100}} = 4,5\\) (gam)."
+    },
+    {
+        "problem": "Một loại bột nêm có chứa 60% bột ngọt. Tính khối lượng bột ngọt có trong gói 20 g bột nêm loại đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị a% của số b, ta tính: b. a% = b.\\(\\frac{a}{{100}}\\).\nLời giải chi tiết\nKhối lượng bột ngọt có trong 20 g bột là:\n20.60% = \\(\\frac{{20.60}}{{100}}\\)= 12 (gam)\nĐáp số: 12 gam"
+    },
+    {
+        "problem": "Bác Tám gửi 50 triệu đồng vào ngân hàng theo hình thức có kì hạn 12 tháng với lãi suất 8% một năm. Hỏi sau một năm bác Tám nhận được bao nhiêu tiền lãi?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị a% của số b, ta tính: b. a% = b.\\(\\frac{a}{{100}}\\).\nLời giải chi tiết\nSau một năm bác Tám nhận được số tiền lãi là:\n50.8% =\\(\\frac{{50.8}}{{100}}\\) = 4 (triệu đồng)\nĐáp số: 4 triệu đồng\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mẹ bạn Lan gửi 800 triệu đồng vào ngân hàng theo hình thức không kì hạn với lãi suất 0,6% một năm. Sau 90 ngày, khi rút ra mẹ Lan nhận được bao nhiêu tiền cả vốn lẫn lãi?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền mẹ bạn Lan nhận được sau 90 ngày = Số tiền gốc + số tiền lãi\nLời giải chi tiết\nSau 90 ngày, mẹ Lan nhận được số tiền lãi là:\n800.0,6%.\\(\\frac{90}{360}\\) =1,2 (triệu)\nSau 90 ngày, khi rút ra mẹ Lan nhận được số tiền cả vốn lẫn lãi là:\n800 + 1,2 = 801,2 (triệu)\nĐáp số: 801,2 triệu đồng"
+    },
+    {
+        "problem": "Trong một loại đậu nành nấu chín, chất đạm chiếm 32%. Hỏi phải nấu chín bao nhiêu ki-lô-gam đậu nành loại đó để có thể thu được 6,4 kg chất đạm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm số b khi biết a% của b là c, ta tính: b = \\(\\frac{c}{a}.100\\)\nLời giải chi tiết\nSố ki-lô-gam đậu nành để có thể thu được 6,4 kg chất đạm là:\n6,4. \\(\\frac{{100}}{{32}}\\) = 20 ( kg)\nĐáp số: 20 kg\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong một bản đồ có tỉ lệ 1:50 000 thì chiều dài của cây cầu Cần Thơ bắc qua sông Hậu là 5,5 cm. Tính chiều dài thật của cầu Cần Thơ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều dài thật của cầu Cần Thơ = Chiều dài trên bản đồ : tỉ lệ bản đồ.\nLời giải chi tiết\nChiều dài thật của cầu Cần Thơ là:\n5,5 : \\(\\frac{1}{{50\\,000}}\\) = 275 000 (cm)\nĐáp số: 275 000 (cm).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong một bản vẽ kĩ thuật, chiều dài của một loại xe ô tô là 9,4 cm. Cho biết bản vẽ có tỉ lệ 1:50. Tính chiều dài thật của chiếc xe ô tô đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều dài thật của chiếc xe ô tô = Chiều dài ô tô trên bản vẽ : tỉ lệ bản vẽ\nLời giải chi tiết\nChiều dài thật của chiếc xe ô tô đó là:\n9,4 : \\(\\frac{1}{{50}}\\) = 470 (cm)\nĐáp số: 470 cm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "a)     Sau 2 năm, bác Lan phải trả cho ngân hàng số tiền cả gốc cả lãi là bao nhiêu?\nb)    Giá vốn trung bình của các sản phẩm ở cửa hàng là 120 000 đồng và bán với giá là 170 000 đồng. Sau 2 năm sản xuất kinh doanh, để tiền lãi thu vào đủ thanh toán hết nợ với ngân hàng thì cửa hàng phải sản xuất và tiêu thụ được bao nhiêu sản phẩm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)     Với số tiền vay ban đầu là x, lãi suất a%\nSau năm thứ 1: số tiền cả gốc cả lãi là x + x. a%\nSau năm thứ 2: số tiền cả gốc cả lãi là (x + x. a%) + (x+ x.a%).a%\nb)    + Tính số tiền lãi trên 1 sản phẩm\n+ Số sản phẩm = Tổng số tiền cần : số tiền lãi trên 1 sản phẩm\nLời giải chi tiết\nSố tiền bác Lan lãi trên 1 sản phẩm là: 170 000 – 120 000 = 50 000 (đồng)\na)     Sau 1 năm, tiền gốc và lãi là: 200 + 200. 10% = 220 (triệu đồng)\nSau 2 năm, bác Lan phải trả cho ngân hàng số tiền cả gốc cả lãi là:\n220 + 220.10% = 242 (triệu đồng)\nb)    Số sản phẩm  cửa hàng phải sản xuất và tiêu thụ được là:\n242 000 000 : 50 000 = 4840 (sản phẩm)\na)     Sau 1 năm, tiền gốc và lãi là: 200 + 200. 9,5% = 219 (triệu đồng)\nSau 2 năm, bác Lan phải trả cho ngân hàng số tiền cả gốc cả lãi là:\n219 + 219.9,5% = 239,805 (triệu đồng)\nb)    Số sản phẩm  cửa hàng phải sản xuất và tiêu thụ được là:\n239 805 000 : 50 000 = 4796,1 (sản phẩm)\na)     Sau 1 năm, tiền gốc và lãi là: 200 + 200. 9% = 218 (triệu đồng)\nSau 2 năm, bác Lan phải trả cho ngân hàng số tiền cả gốc cả lãi là:\n218 +218.9% = 237,62 (triệu đồng)\nSố sản phẩm  cửa hàng phải sản xuất và tiêu thụ được là:\n237 620 000 : 50 000 = 4752,4 (sản phẩm)\na)     Sau 1 năm, tiền gốc và lãi là: 200 + 200. 8,5% = 217 (triệu đồng)\nSau 2 năm, bác Lan phải trả cho ngân hàng số tiền cả gốc cả lãi là:\n217+ 217.8,5% = 235,445 (triệu đồng)\nb)    Số sản phẩm  cửa hàng phải sản xuất và tiêu thụ được là:\n235 445 000 : 50 000 = 4708,9 (sản phẩm)"
+    },
+    {
+        "problem": "Tỉ số phần trăm trong đời sống",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thống kê số bạn biết nấu cơm\nTỉ số phần trăm giữa các bạn biết nấu cơm và tổng số bạn = Số bạn biết nấu cơm : tổng số bạn . 100%\nLời giải chi tiết\nGiả sử lớp em có 50 bạn, em thống kê được trong lớp có 35 bạn biết nấu cơm thì tỉ số phần trăm giữa các bạn biết nấu cơm và tổng số bạn trong lớp là:\n\\(\\frac{35}{50}\\).100% = 70%\nLoigiaihay"
+    },
+    {
+        "problem": "Hãy sắp xếp các số thập phân sau theo thứ tự giảm dần:\n-3,43; -3,4; 0,2; 3,43; 3,4; 0,22.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sắp xếp các số dương trước và các số âm sau.\nLời giải chi tiết\nSắp xếp các số theo thứ tự giảm dần:\n3,43;  3,4;  0,22;  0,2; -3,4; -3,43.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy sắp xếp các số thập phân sau theo thứ tự tăng dần:\n1,23; -1,23; 0,12; 0,121; 0,02; -0,002; 0,1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sắp xếp các số âm trước và các số dương sau.\nLời giải chi tiết\nCác số theo thứ tự tăng dần:\n-1,23;   -0,02;  -0,002;  0,1;  0,12;  0,121; 1,23.\nLoigiaihay.com"
+    }
+]

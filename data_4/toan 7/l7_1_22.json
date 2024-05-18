@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "A. 50°; \nB. 40°; \nC. 60°; \nD. 30°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì EF // BC nên ta có: ECB^ và FEC^ là hai góc so le trong \nSuy ra FEC^=ECB^=40°\nVậy FEC^=40°."
+    },
+    {
+        "problem": "Câu 8. Cho định lí: “Hai tia phân giác của hai góc kề bù tạo thành một góc vuông”. Giả thiết, kết luận của định lí là:\nA. Giả thiết: Cho góc bẹt AOB và tia OI; tia OJ là tia phân giác góc BOI, OK là tia phân giác AOI. Kết luận OI⊥OK.\nB. Giả thiết: Cho góc bẹt AOB và tia OI; tia OJ là tia phân giác góc BOK, OK là tia phân giác AOI. Kết luận OI⊥OA. \nC. Giả thiết: Cho góc bẹt AOB và tia OI; tia OJ là tia phân giác góc BOI, OK là tia phân giác AOK. Kết luận OI⊥OK.\nD. Giả thiết: Cho góc bẹt AOB và tia OI; tia OJ là tia phân giác góc BOI, OK là tia phân giác AOI. Kết luận OB⊥OK.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGiả thiết: Cho góc bẹt AOB và tia OI; tia OJ là tia phân giác góc BOI, OK là tia phân giác AOI. Kết luận OI⊥OK."
+    },
+    {
+        "problem": "Câu 9. Khi chứng minh định lí, người ta cần:\nA. Chứng minh định lí đó đúng trong một trường hợp cụ thể của giả thiết;\nB. Chứng minh định lí đó đúng trong hai trường hợp cụ thể của giả thiết;\nC. Chứng minh định lí đó đúng trong mọi trường hợp có thể xảy ra của giả thiết; \nD. Chứng minh định lí đó đúng trong vài trường hợp cụ thể của giả thiết.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nKhi chứng minh định lí, ta cần chứng minh định lý đó đúng trong mọi trường hợp có thể xảy ra của giả thiết."
+    },
+    {
+        "problem": "Câu 18. Định lí: “Nếu hai đường thẳng song song cùng cắt đường thẳng thứ ba thì hai góc đồng vị bằng nhau”. Giả thiết của định lí là:\nA. a // b; a // c; \nB. a // c; b bất kì;\nC. a // b; a⊥c;\nD. a//b;c∩a=M;c∩b=N.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nGiả thiết của định lí trên làa//b;c∩a=M;c∩b=N."
+    },
+    {
+        "problem": "Câu 21. Chọn phát biểu đúng \nA. Giả thiết của định lí là điều suy ra; \nB. Kết luận của định lí là điều cho biết; \nC.Giả thiết của định lí là điều cho biết; \nD. Cả A và B đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGiả thiết của định lí là phần cho biết. Kết luận của định lí là điều suy ra."
+    },
+    {
+        "problem": "Câu 23. Viết giả thiết cho định lí sau:\n“Nếu hai đường thẳng phân biệt cùng song song với một đường thẳng khác thì hai đường thẳng đó song song với nhau”.\nA.Giả thiết: a ≠ b; a // c, b // c;\nB.Giả thiết: a ≡ b; a // b, b // c;\nC. Giả thiết: a≡b;a⊥c,b//c; \nD. Giả thiết: a≠b;a⊥c,b//c.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nGiả thiết của định lí “Nếu hai đường thẳng phân biệt cùng song song với một đường thẳng khác thì hai đường thẳng đó song song với nhau” là: a ≠ b; a // c, b // c."
+    },
+    {
+        "problem": "Câu 26. Nếu đường thẳng z cắt hai đường thẳng x, y và trong các góc tạo thành có một cặp góc so le trong bằng nhau thì:\nA. hai đường thẳng x, y song song với nhau; \nB. hai đường thẳng x, y cắt nhau; \nC. hai đường thẳng x, y trùng nhau; \nD. hai đường thẳng x, y vuông góc với nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nNếu đường thẳng z cắt hai đường thẳng x, y và trong các góc tạo thành có một cặp góc so le trong bằng nhau thì x, y song song với nhau."
+    },
+    {
+        "problem": "Câu 29. Cho HOK^=90° và tia OK là tia phân giác của góc HOI. Khi đó góc HOI là:\nA. góc vuông; \nB. góc nhọn; \nC. góc tù; \nD. góc bẹt.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: OK là tia phân giác của góc HOI ⇒HOK^=KOI^=90°\n⇒HOI^=HOK^+KOI^=90°+90°=180°\nVậy góc HOI là góc bẹt."
+    },
+    {
+        "problem": "Câu 30. Cho xOy^=120°, tia Ot là tia phân giác của góc xOy. Tính số đo góc xOt\nA. 120°;\nB. 80°; \nC. 60°; \nD. 150°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có Ot là tia phân giác góc xOy nên xOt^=yOt^=\\frac{xOy^}{2}=\\frac{120°}{2}=60°.\nVậy xOt^=60°."
+    }
+]

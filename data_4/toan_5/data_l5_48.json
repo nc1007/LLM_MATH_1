@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1: Diện tích xung quanh của hình hộp chữ nhật là tổng diện tích bốn mặt bên của hình hộp chữ nhật. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích xung quanh của hình hộp chữ nhật là tổng diện tích bốn mặt bên của hình hộp chữ nhật.\nVậy phát biểu trên là đúng."
+    },
+    {
+        "problem": "Câu 2: Chọn đáp án đúng nhất:\nA.\tMuốn tính diện tích xung quanh của hình hộp chữ nhật ta lấy chu vi mặt đáy nhân với chiều cao (cùng đơn vị đo).\nB.\tMuốn tính diện tích toàn phần của hình hộp chữ nhật ta lấy diện tích xung quanh cộng với diện tích hai đáy.\nC.\tCả A và B đều sai\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn tính diện tích xung quanh của hình hộp chữ nhật ta lấy chu vi mặt đáy nhân với chiều cao (cùng đơn vị đo).  \n-\tMuốn tính diện tích toàn phần của hình hộp chữ nhật ta lấy diện tích xung quanh cộng với diện tích hai đáy.\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 3: Tính diện tích xung quanh của hình hộp chữ nhật có chiều dài 18cm, chiều rộng 13cm và chiều cao 9cm.\nA.\t279cm^{2}  \nB.\t558cm^{2} \nC.\t792cm^{2} \nD.\t2106cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chu vi đáy của hình hộp chữ nhật là:\n(18 + 13) × 2 = 62 (cm)\nDiện tích xung quanh của hình hộp chữ nhật là:\n62 × 9 = 558 (cm^{2} )\nĐáp số: 558cm^{2} ."
+    },
+    {
+        "problem": "Câu 6: Cho hình hộp chữ nhật có chiều rộng 4,25cm, chiều dài gấp 3 lần chiều rộng và dài hơn chiều cao 5cm. Tính diện tích toàn phần của hình hộp chữ nhật đó.\nA.\t317,6875cm^{2}  \nB.\t371,875cm^{2}  \nC.\t603,5cm^{2} \nD.\t711,875cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều dài của hình hộp chữ nhật là:  \n4,25 × 3 = 12,75 (cm)\nChiều cao của hình hộp chữ nhật là: \n12,75 − 5 = 7,75 (cm)\nDiện tích xung quanh của hình hộp chữ nhật là:\n(4,25 + 12,75) × 2 × 7,75 = 263,5 (cm^{2} )\nDiện tích đáy của hình hộp chữ nhật là:  \n4,25 × 12,75 = 54,1875 (cm^{2} )\nDiện tích toàn phần của hình hộp chữ nhật là:\n263,5 + 54,1875 × 2 = 371,875 (cm^{2} )\nĐáp số: 371,875cm^{2} ."
+    },
+    {
+        "problem": "Câu 9: Cho hình hộp chữ nhật có diện tích xung quanh là 217,5m^{2}  và có nửa chu vi mặt đáy bằng 14,5m. Tính chiều cao của hình hộp chữ nhật đó.\nA.\t7,5m \nB.\t9m\nC.\t15m\nD.\t30m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chu vi mặt đáy của hình hộp chữ nhật đó là:   \n14,5 × 2 = 29 (m)\nChiều cao của hình hộp chữ nhật đó là:   \n217,5 : 29 = 7,5 (m)\nĐáp số: 7,5m."
+    },
+    {
+        "problem": "Câu 11: Một căn phòng dạng hình hộp chữ nhật có chiều dài 6m, chiều rộng 48dm, chiều cao 4m. Người ta muốn quét vôi các bức tường xung quanh và trần của căn phòng đó. Hỏi diện tích cần quét vôi là bao nhiêu mét vuông, biết tổng diện tích các cửa bằng 12m^{2}  (biết rằng chỉ quét vôi bên trong phòng)?\nA.\t144m^{2}  \nB.\t132m^{2} \nC.\t115,2m^{2}  \nD.\t103,2m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 48dm = 4,8m\nDiện tích xung quanh của căn phòng đó là:\n(6 + 4,8) × 2 × 4 = 86,4 (m^{2} )\nDiện tích trần của căn phòng đó là:\n6 × 4,8 = 28,8 (m^{2} )\nDiện tích cần quét vôi là:  \n86,4 + 28,8 – 12 = 103,2 (m^{2} )\nĐáp số: 103,2m^{2} ."
+    },
+    {
+        "problem": "Câu 13: Người ta xây dựng tường rào xung quanh một cái hồ hình chữ nhật có chiều dài 45m, chiều rộng kém chiều dài 23,5m, bức tường cao 1,6m. Cứ mỗi mét vuông tiêu tốn hết 40000 đồng. Hỏi xây bức tường đó hết tất cả bao nhiêu tiền?\nA.\t50812000 đồng\nB.\t18520000 đồng\nC.\t8512000 đồng\nD.\t4256000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều rộng cái hồ đó là :\n45 − 23,5 = 21,5 (m)\nDiện tích bức tường rào đó được xây lên là: \n(45 + 21,5) × 2 × 1,6 = 212,8 (m^{2} )\nSố tiền dùng để xây bức tường rào đó là:  \n40000 × 212,8 = 8512000 (đồng)\nĐáp số: 8512000 đồng."
+    },
+    {
+        "problem": "Câu 15: Một người thuê thợ sơn mặt trong và mặt ngoài một cái thùng sắt không có nắp dạng hình hộp chữ nhật chiều dài 1,3m; chiều rộng 0,8m; chiều cao 1,5m. Hỏi người ấy phải trả bao nhiêu tiền để sơn cái thùng đó, biết rằng tiền sơn 1m^{2}  là 35000 đồng?\nA.\t256900 đồng\nB.\t513800 đồng\nC.\t293300 đồng \nD.\t586600 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích xung quanh của thùng sắt đó là:  \n(1,3 + 0,8) × 2 × 1,5 = 6,3 (m^{2} )\nDiện tích đáy của thùng sắt đó là:\n1,3 × 0,8 = 1,04 (m^{2} )\nDiện tích cần sơn là:      \n(6,3 + 1,04) × 2 = 14,68 (m^{2} )\nSố tiền người đó phải trả để sơn cái thùng đó là: \n35000 × 14,68 = 513800 (đồng)\nĐáp số: 513800 đồng."
+    }
+]

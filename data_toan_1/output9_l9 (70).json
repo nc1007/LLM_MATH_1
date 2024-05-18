@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "Hãy liệt kê tập hợp tất cả các kết quả có thể xảy ra khi gieo một con xúc xắc 6 mặt.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi mặt là một khả năng xảy ra khi gieo.\nLời giải chi tiết\nCác kết quả có thể xảy ra khi gieo con xúc xắc là: 1,2,3,4,5,6.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong phép thử ở HĐ1 câu b, các sự kiện sau có thể xảy ra hay không?\n- Bốc được lá thăm ghi số nhỏ hơn 5.\n- Bốc được lá thăm ghi số lẻ.\n- Bốc được lá thăm ghi số chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các kết quả có thể xảy ra là: 1, 2, 3, 4.\nLời giải chi tiết\nTrong phép thử ở câu b, hoạt động 1, các sự kiện có thể xảy ra là:\n- Bốc được lá thăm ghi số nhỏ hơn 5\n- Bốc được lá thăm ghi số lẻ.\nDo các số từ 1-4 không có số nào chia hết cho 5 nên sự kiện \"Bốc được lá thăm ghi số chia hết cho 5\" không thể xảy ra."
+    },
+    {
+        "problem": "Trong hộp có 9 tấm thẻ giống nhau được đánh số từ 1 đến 9. Lấy ra một thẻ từ hộp. Hỏi mỗi sự kiện sau là chắc chắn, không thể hay có thể xảy ra?\n- Số của thẻ lấy ra là số chẵn.\n- Số của thẻ lấy ra là số lẻ.\n- Số của thẻ lấy ra chia hết cho 10.\n- Số của thẻ lấy ra nhỏ hơn 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các kết quả có thể xảy ra là: 1, 2, …, 9\nLời giải chi tiết\n- Số của thẻ lấy ra là số chẵn: Có thể xảy ra\n- Số của thẻ lấy ra là số lẻ: Có thể xảy ra\n- Số của thẻ lấy ra chia hết cho 10: không thể xảy ra\n- Số của thẻ lấy ra nhỏ hơn 10: Chắc chắn xảy ra.\n\n\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy liệt kê tất cả các kết quả có thể xảy ra của mỗi phép thử nghiệm sau:\na) Lấy ra 1 bút từ hộp có 1 bút chì và 1 bút bi.\nb) Bạn Lan chọn một ngày trong tuần để học bơi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Liệt kê 2 kết quả có thể xảy ra\nb) Liệt kê 7 kết quả có thể xảy ra.\nLời giải chi tiết\na) Các kết quả có thể xảy ra là: lấy ra 1 bút chì hoặc lấy ra 1 bút bi\nb) Các kết quả có thể xảy ra là: Thứ 2, Thứ 3, Thứ 4, Thứ 5, Thứ 6, Thứ 7, Chủ nhật.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một lồng quay xổ số có chứa 10 quả bóng có cùng kích thước được đánh số từ 0 đến 9. Sau mỗi lần quay chỉ có đúng một quả bóng lọt xuống lỗ. Sau khi ghi lại số của quả bóng này, bóng được trả lại lồng để thực hiện lần quay tiếp theo.\nEm hãy liệt kê tập hợp tất cả các kết quả có thể xảy ra trong mỗi lần quay.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê 10 kết quả có thể xảy ra.\nLời giải chi tiết\nTập hợp tất cả các kết quả có thể xảy ra trong mỗi lần quay là: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy liệt kê các kết quả có thể xảy ra của hoạt động tung một đồng xu hai lần liên tiếp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê 3 kết quả có thể xảy ra.\nLời giải chi tiết\nKhi tung 1 đồng xu hai lần liên tiếp, có thể xảy ra 3 kết quả là:\n- Hai lần xuất hiện mặt sấp\n- Hai lần xuất hiện mặt ngửa\n- Một lần xuất hiện mặt sấp, một lần xuất hiện mặt  ngửa.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong hộp có 5 quả bóng xanh và 1 quả bóng đỏ. Không nhìn vào hộp, chọn ra từ hộp một quả bóng. Xét các sự kiện sau:\n- Bóng chọn ra có màu vàng;\n- Bóng chọn ra không có màu vàng.\n- Bóng chọn ra có màu xanh.\nSự kiện nào có khả năng xảy ra cao nhất?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào trong hộp có 5 quả bóng xanh và 1 quả bóng đỏ để trả lời.\nLời giải chi tiết\n- Bóng chọn ra có màu vàng: Không thể xảy ra\n- Bóng chọn ra không có màu vàng: Luôn xảy ra\n- Bóng chọn ra có màu xanh: Có thể xảy ra\nSự kiện có khả năng xảy ra cao nhất: Bóng chọn ra không có màu vàng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm xác suất thực nghiệm của sự kiện ghim chỉ vào ô màu xám, màu đen.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác xuất thực nghiệm của sự kiện A = Số lần sự kiện A xảy ra : Tổng số lần thực hiện hoạt động.\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện ghim chỉ vào ô màu xám là: 2 : 20 = \\(\\frac{1}{{10}}\\)\nXác suất thực nghiệm của sự kiện ghim chỉ vào ô màu đen là: 6 : 20 = \\(\\frac{3}{{10}}\\)"
+    },
+    {
+        "problem": "Gieo 2 con xúc xắc cân đối và quan sát số chấm xuất hiện ở mặt trên mỗi con xúc xắc.\nHãy đánh giá xem các sự kiện sau là chắc chắn, không thể hay có thể xảy ra.\na) Tổng số chấm xuất hiện trên hai con xúc xắc bằng 1.\nb) Tích số chấm xuất hiện trên hai con xúc xắc bằng 1.\nc) Tổng số chấm xuất hiện trên hai con xúc xắc lớn hơn 1.\nd) Hai mặt xuất hiện cùng số chấm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào mỗi con xúc xắc có 6 mặt mỗi mặt có số chấm là: 1, 2, 3, 4, 5, 6 để suy luận.\nLời giải chi tiết\na) Không thể xảy ra\nb) Có thể xảy ra\nc) Chắc chắn xảy ra\nd) Có thể xảy ra\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy liệt kê tất cả các kết quả có thể xảy ra của mỗi phép thử nghiệm sau:\na) Lấy ra 1 quả bóng từ hộp có 10 quả bóng được đánh số từ 1 đến 10.\nb) Bạn Lan chọn một ngày trong tháng 8 để đi về quê.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Liệt kê 10 kết quả có thể xảy ra.\nb) Tháng 8 có 31 ngày.\nLời giải chi tiết\na) Các kết quả có thể xảy ra là: bóng được đánh số 1,2,3,4,5,6,7,8,9,10\nb) Bạn Lan chọn một ngày trong tháng 8 để đi về quê, kết quả có thể xảy ra là bất kì ngày nào trong tháng ( Từ ngày 1/8 đến 31/8).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong hộp có 1 cây bút xanh, 1 cây bút đỏ, 1 cây bút tím. Hãy liệt kê các kết quả có thể xảy ra của mỗi hoạt động sau:\na) Lấy ra 1 cây bút từ hộp.\nb) Lấy ra cùng một lúc 2 cây bút từ hộp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Liệt kê ba kết quả có thể xảy ra.\nb) Liệt kê ba kết quả có thể xảy ra.\nLời giải chi tiết\na) Lấy ra 1 cây bút từ hộp, kết quả có thể xảy ra là: bút xanh, bút đỏ hoặc bút tím\nb) Lấy ra cùng 1 lúc 2 cây bút từ hộp, có 3 kết quả có thể xảy ra: bút xanh và đỏ, bút đỏ và tím, hoặc bút xanh và tím.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Lớp trưởng lớp 6A làm 4 tấm bia giống hệt nhau ghi tên 4 bạn hay hát trong lớp là Mai, Lan, Cúc, Trúc và cho vào một hộp. Một bạn trong lớp rút một trong 4 tấm bia đó và bạn có tên sẽ lên hát, sau đó tấm bia được trả lại hộp và cứ thế tiếp tục chọn người lên hát.\na) Liệt kê tập hợp các kết quả có thể xảy ra trong mỗi lần rút tấm bia.\nb) Em có thể dự đoán trước được người tiếp theo lên hát không?\nc) Có bạn nào phải lên hát nhiều lần không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Liệt kê bốn kết quả có thể xảy ra.\nb) Dựa vào xác suất rút phải tên đều như nhau\nc) Dựa vào sau mỗi lần rút tấm bìa được trả lại.\nLời giải chi tiết\na) Các kết quả có thể xảy ra trong mỗi lần rút tấm bìa là: Mai, Lan, Cúc, Trúc.\nb) Không thể dự đoán trước được người tiếp theo lên hát vì xác suất rút phải tên đều như nhau.\nc) Sẽ có bạn phải lên hát nhiều lần, vì sau mỗi lần rút tấm bìa được trả lại.\nLoigiaihay.com"
+    }
+]

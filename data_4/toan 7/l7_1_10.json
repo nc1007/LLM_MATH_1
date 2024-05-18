@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "B. ab = cd;\nC. \\frac{a}{c}=\\frac{b}{d}; \nD. \\frac{c}{a}=\\frac{d}{b}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTừ tỉ lệ thức \\frac{a}{b}=\\frac{c}{d} (a, b, c, d ≠ 0), theo tính chất tỉ lệ thức ta có: ad = bc; \\frac{a}{c}=\\frac{b}{d}; \\frac{c}{a}=\\frac{d}{b}·.\nDo đó phương án B không đúng."
+    },
+    {
+        "problem": "Câu 2. Cho đẳng thức ad = bc (a, b, c, d ≠ 0). Tỉ lệ thức nào sau đây là sai?\nA. \\frac{a}{d}=\\frac{b}{c};\nB. \\frac{a}{b}=\\frac{c}{d};\nC. \\frac{a}{c}=\\frac{b}{d};\nD. \\frac{d}{c}=\\frac{b}{a}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTừ đẳng thức ad = bc (a, b, c, d ≠ 0) ta suy ra các tỉ lệ thức sau: \\frac{a}{b}=\\frac{c}{d}; \\frac{a}{c}=\\frac{b}{d}; \\frac{d}{c}=\\frac{b}{a}·\nDo đó phương án A là sai."
+    },
+    {
+        "problem": "Câu 5. Giá trị nào của x trong tỉ lệ thức -\\frac{4,8}{x}=\\frac{12}{0,2} là?\nA. – 0,08; \nB. – 0,06;\nC. \\frac{2}{25};\nD. \\frac{4}{9}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTừ tỉ lệ thức \\frac{-4,8}{x}=\\frac{12}{0,2} ta có – 4,8.0,2 = 12.x\nSuy ra 12x = – 4,8.0,2 \n12x = –0,96\nx = –0,96 : 12\nx = –0,08\nVậy x = –0,08."
+    },
+    {
+        "problem": "Câu 9. Quốc kỳ của nước Việt Nam là hình chữ nhật, chiều dài và chiều rộng có tỉ lệ quy định bằng \\frac{3}{2}, nền đỏ, ở giữa có ngôi sao vàng năm cánh. Lá cờ trên cột cờ Lũng Cú – Hà Giang có chiều dài 9 mét thì diện tích của lá cờ là: \nA. 24 m^{2} ;\nB. 54 m^{2} ;\nC. 48 m^{2} ; \nD. 30 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nGọi x (m) là chiều rộng của lá cờ trên cột cờ Lũng Cú – Hà Giang.\nVì chiều dài và chiều rộng của lá cờ Việt Nam có tỉ lệ \\frac{3}{2} nên ta có tỉ lệ thức \\frac{9}{x}=\\frac{3}{2}.\nSuy ra 9.2 = 3.x\n3x = 9.2 = 18\nx = 18 : 3\nx = 6 (m)\nDo đó chiều rộng của lá cở là 6 m.\nDiện tích của lá cờ là: 9.6 = 54 (m^{2} ).\nVậy diện tích của lá cờ là 54 m^{2} ."
+    },
+    {
+        "problem": "Câu 10. Trong dịp Tết Nguyên Đán nhà Lan gói 15 kg gạo nếp thì được 30 chiếc bánh chưng. Hỏi một chiếc bánh chưng thì cần bao nhiêu ki – lô – gam gạo nếp?\nA. 0,5 kg;\nB. 2 kg;\nC. 0,5 g;\nD. 2g.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTỉ số giữa số kg gạo nếp và số bánh chưng là: 15 : 30 = \\frac{1}{2}.\nGọi x (kg) gạo nếp cần dùng để gói một chiếc bánh chưng.\nVì số kg gạo nếp và số bánh chưng có tỉ số là \\frac{1}{2} nên ta có tỉ lệ thức \\frac{x}{1}= \\frac{1}{2}\nSuy ra 2.x = 1.1\nHay 2x = 1\nx = 1 : 2\nx = 0,5 (kg)\nVậy để gói một chiếc bánh chưng cần 0,5 kg gạo nếp."
+    },
+    {
+        "problem": "Câu 11. Người ta pha nhiên liệu cho một loại động cơ bằng cách trộn 2 phần dầu với 7 phần xăng. Hỏi cần bao nhiêu lít dầu để trộn hết 35 lít xăng theo cách pha nhiên liệu trên?\nA. 0,4 lít;\nB. 122,5 lít;\nC. 490 lít;\nD. 10 lít.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTỉ lệ của dầu và xăng để pha nhiên liệu là: 2:7 = \\frac{2}{7}\nGọi x (lít) là số lít dầu để trộn 35 lít xăng, do tỉ lệ dầu và xăng để pha nhiên liệu là \\frac{2}{7} nên ta có tỉ lệ thức: \\frac{x}{35}= \\frac{2}{7}\nSuy ra x . 7 = 35 . 2\nHay 7x = 70\nx = 70 : 7\nx = 10\nVậy cần 10 lít dầu để trộn với 35 lít xăng."
+    },
+    {
+        "problem": "Câu 12. Có bao nhiêu giá trị x ≠ 0 thoả mãn -\\frac{2}{x}= -\\frac{x}{0,72}?\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ tỉ lệ thức -\\frac{2}{x}= -\\frac{x}{0,72} suy ra x.(–x) = –2.0,72\n–x.x = –1,44\n–x^{2}  = –1,44\nx^{2}  = 1,44\nx^{2}  = (1,2)^{2}  = (–1,2)^{2} \nx = 1,2 hoặc x = –1.2\nVậy có hai giá trị của x thoả mãn."
+    },
+    {
+        "problem": "Câu 13. Biết rằng \\frac{2x-y}{x+y}=\\frac{2}{3}. Khi đó tỉ số xy (với y ≠ 0) bằng:\nA. \\frac{x}{y}= \\frac{2}{3};\nB. \\frac{x}{y}= \\frac{3}{2};\nC. \\frac{x}{y}= \\frac{4}{5}; \nD. \\frac{x}{y}= \\frac{5}{4}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là D.\nTừ tỉ lệ thức \\frac{2x-y}{x+y}=\\frac{2}{3} suy ra (2x – y).3 = (x + y).2\n2x.3 – y.3 = x.2 + y.2\n6x – 3y = 2x + 2y\n6x – 2x = 2y + 3y\n4x = 5y\nDo đó \\frac{x}{y}= \\frac{5}{4}.\nVậy \\frac{x}{y}= \\frac{5}{4}."
+    },
+    {
+        "problem": "Câu 14. Cho \\frac{x-3}{8}= \\frac{27}{4}. Giá trị nào của x là:\nA. 54;\nB. 56;\nC. 57;\nD. 58.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ tỉ lệ thức \\frac{x-3}{8}= \\frac{27}{4} suy ra (x – 3).4 = 8.27\nx.4 – 3.4 = 216\n4x – 12 = 216\n4x = 216 + 12\n4x = 228\nx = 228 : 4\nx = 57.\nVậy x = 57."
+    },
+    {
+        "problem": "Câu 15. Giá trị nào của x thoả mãn \\frac{2-x}{4}=\\frac{3x-1}{3} ?\nA. x = -\\frac{2}{9};\nB. x = \\frac{2}{9};\nC. x = \\frac{9}{2};\nD. x = -\\frac{9}{2}·",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là A.\nTừ tỉ lệ thức \\frac{2-x}{4}=\\frac{3x-1}{3} suy ra –3(2 – x) = 4(3x –1)\n–3.2 –3.(–x) = 4.3x – 4.1\n–6 + 3x = 12x – 4\n3x – 12x = –4 + 6\n–9x = 2\nx = 2 : (–9)\nx =-\\frac{2}{9}\nVậy x = -\\frac{2}{9}."
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Trong các khẳng định sau, khẳng định nào đúng? Khẳng định nào sai?\na) Số hữu tỉ âm nhỏ hơn số hữu tỉ dương;\nb) Số hữu tỉ âm nhỏ hơn số tự nhiên;\nc) Số 0 là số hữu tỉ dương;\nd) Số nguyên âm không phải là số hữu tỉ âm;\ne) Tập hợp \\(\\mathbb{Q}\\) gồm các số hữu tỉ dương và các số hữu tỉ âm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy ví dụ bằng các số cụ thể rồi rút ra nhận xét.\nLời giải chi tiết\na) Đúng\nb) Đúng\nc) Sai. Số 0 không là số hữu tỉ dương cũng không là số hữu tỉ âm.\nd) Sai. Số nguyên âm là số hữu tỉ âm vì số nguyên âm \\(-a\\) có thể viết được dưới dạng \\(\\dfrac{-a}{1}\\).\ne) Sai. Tập hợp \\(\\mathbb{Q}\\) gồm các số hữu tỉ dương, các số hữu tỉ âm và số 0."
+    },
+    {
+        "problem": "Điền kí hiệu \\(\\left( { \\in ; \\notin } \\right)\\) thích hợp vào ô vuông:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\mathbb{N}\\) là tập hợp các số tự nhiên: 0; 1; 2; 3;…\n\\(\\mathbb{Z}\\) là tập hợp số nguyên: \\(... - 2; - 1;0;1;2;3...\\)\n\\(\\mathbb{Q}\\) là tập hợp số hữu tỉ có dạng \\(\\dfrac{a}{b}(a,b \\in \\mathbb{Z}; b \\ne 0)\\)\nLời giải chi tiết\n"
+    },
+    {
+        "problem": "Nối mỗi dòng ở cột bên trái với một dòng ở cột bên phải để được khẳng định đúng:\na)\\(\\dfrac{0}{{ - 8}}\\)\n1) Là số hữu tỉ âm\nb) \\(\\dfrac{{ - 7}}{{ - 5}}\\)\n2) Là số hữu tỉ dương\nc) \\(\\dfrac{{ - 2}}{9}\\)\n3) Không là số hữu tỉ âm, cũng không là số hữu tỉ dương\nd) \\(\\dfrac{5}{0}\\)\n4) Không là số hữu tỉ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Số hữu tỉ dương là số mà tử số và mẫu số cùng dấu.\n-Số hữu tỉ âm là số mà tử số và mẫu số khác dấu.\nLời giải chi tiết\na) nối với 3\nb) nối với 2\nc) nối với 1\nd) nối với 4"
+    },
+    {
+        "problem": "So sánh các số hữu tỉ sau:\n\\(\\begin{array}{l}a) - \\dfrac{{57}}{{2021}}\\,;\\dfrac{1}{{6345}}\\\\b)\\dfrac{{ - 19}}{{35}};\\dfrac{{ - 13}}{{21}}\\\\c)\\dfrac{6}{{73}};\\dfrac{9}{{82}}\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh qua số trung gian: 0\nb) Quy đồng mẫu số chung: 105\nc) Đưa về dạng 2 phân số cùng tử số: 18\nLời giải chi tiết\na)\n\\(\\begin{array}{l} - \\dfrac{{57}}{{2021}} < 0;\\dfrac{1}{{6345}} > 0\\\\ \\Rightarrow  - \\dfrac{{57}}{{2021}} < \\dfrac{1}{{6345}}\\end{array}\\)\nb)\n\\( - \\dfrac{{19}}{{35}} =- \\dfrac{{19.3}}{{35.3}}=  - \\dfrac{{57}}{{105}}; - \\dfrac{{13}}{{21}} =- \\dfrac{{13.5}}{{21.5}} =  -\\dfrac{{65}}{{105}}\\)\nMà -57 > -65 nên \\( - \\dfrac{{57}}{{105}} > -\\dfrac{{ 65}}{{105}}\\)\nNên \\( - \\dfrac{{19}}{{35}} >  - \\dfrac{{13}}{{21}}\\)\nc)\n\\(\\dfrac{6}{{73}} =\\dfrac{6.3}{{73.3}} = \\dfrac{{18}}{{219}};\\dfrac{9}{{82}} = \\dfrac{9.2}{{82.2}} = \\dfrac{{18}}{{164}}\\)\nMà 219 > 164 nên \\(\\dfrac{{18}}{{219}} < \\dfrac{{18}}{{164}}\\)\nNên \\(\\dfrac{6}{{73}} < \\dfrac{9}{{82}}\\)"
+    },
+    {
+        "problem": "Máy ảnh thường có nhiều tốc độ màn trập (tức khoảng thời gian mà màn trập mở cửa). Tốc độ màn trập tính bằng giây, thường là \\(\\dfrac{1}{{125}};\\dfrac{1}{{15}};0,125;\\dfrac{1}{{60}};0,004;\\dfrac{1}{4}\\). Hãy sắp xếp các tốc độ này từ nhanh nhất đến chậm nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Đưa số thập phân về dạng phân số\n- So sánh các phân số cùng tử số dương: Phân số nào có mẫu số nhỏ hơn thì lớn hơn.\nLời giải chi tiết\n\\(0,125 = \\dfrac{{125}}{{1000}} = \\dfrac{1}{8};0,004 = \\dfrac{4}{{1000}} = \\dfrac{1}{{250}}\\)\nMà \\(\\dfrac{1}{{250}} < \\dfrac{1}{{125}} < \\dfrac{1}{{60}} < \\dfrac{1}{{15}} < \\dfrac{1}{8} < \\dfrac{1}{4}\\)\nNên \\(0,004 < \\dfrac{1}{{125}} < \\dfrac{1}{{60}}< \\dfrac{1}{{15}} < 0,125 < \\dfrac{1}{4}\\)\nVậy các tốc độ này từ nhanh nhất đến chậm nhất là: \\(0,004 ; \\dfrac{1}{{125}} ; \\dfrac{1}{{60}} ; \\dfrac{1}{{15}}; 0,125 ; \\dfrac{1}{4}.\\)"
+    },
+    {
+        "problem": "Các điểm A, B, C, D (H.1.3) lần lượt biểu diễn các số hữu tỉ nào?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Biểu diễn số hữu tỉ:\n+) Số hữu tỉ thường được biểu diễn dưới dạng phân số tối giản\n+) Khi biểu diễn số hữu tỉ trên trục số, ta thường viết số đó dưới dạng phân số tối giản có mẫu dương: \\(b > 0\\)\nTH1: \\(a > 0\\) , khi đó \\(\\dfrac{a}{b}\\) là số hữu tỉ dương, ta chia khoảng có độ dài 1 đơn vị làm b phần bằng nhau, ta được đơn vị mới bằng \\(\\dfrac{1}{b}\\) đơn vị cũ, tiếp theo lấy về phía chiều dương trục Ox a phần, ta được vị trí của số \\(\\dfrac{a}{b}\\)\nTH2: a < 0, khi đó \\(\\dfrac{a}{b}\\) là số hữu tỉ âm, ta chia khoảng có độ dài 1 đơn vị làm b phần bằng nhau, ta được đơn vị mới bằng \\(\\dfrac{1}{b}\\) đơn vị cũ, tiếp theo lấy về phía chiều âm trục Ox a phần, ta được vị trí của số \\(\\dfrac{a}{b}\\) .\nLời giải chi tiết\nĐiểm A biểu diễn số hữu tỉ \\(\\dfrac{{ - 1}}{2}\\)\nĐiểm B biểu diễn số hữu tỉ \\(\\dfrac{{ - 1}}{3}\\)\nĐiểm C biểu diễn số hữu tỉ \\(\\dfrac{{ 1}}{3}\\)\nĐiểm D biểu diễn số hữu tỉ \\(\\dfrac{{ 7}}{6}\\)"
+    },
+    {
+        "problem": "Chỉ ra hai phân số có mẫu số bằng 7, lớn hơn \\( - \\dfrac{3}{8}\\) và nhỏ hơn \\( - \\dfrac{1}{8}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi phân số cần tìm có dạng \\(\\dfrac{a}{7}\\)\nTheo bài ra:\\( - \\dfrac{3}{8} < \\dfrac{a}{7} <  - \\dfrac{1}{8}\\)\nQuy đồng mẫu số các phân số: MSC = 56\nTìm a\nLời giải chi tiết\nGọi phân số cần tìm có dạng \\(\\dfrac{a}{7}\\) (\\(a \\in Z\\))\nTheo bài ra:\\( - \\dfrac{3}{8} < \\dfrac{a}{7} <  - \\dfrac{1}{8}\\)\n\\(\\begin{array}{l} - \\dfrac{3}{8} < \\dfrac{a}{7} < \\dfrac{{ - 1}}{8}\\\\ \\Rightarrow \\dfrac{{ - 21}}{{56}} < \\dfrac{{8a}}{{56}} < \\dfrac{{ - 7}}{{56}}\\\\ \\Rightarrow  - 21 < 8a <  - 7\\\\ \\Rightarrow  - 2,625 < a <  - 0,875\\\\ \\Rightarrow a \\in \\left\\{ { - 2; - 1} \\right\\}\\end{array}\\)\nVậy hai phân số cần tìm là \\( - \\dfrac{2}{7}; - \\dfrac{1}{7}\\)"
+    },
+]

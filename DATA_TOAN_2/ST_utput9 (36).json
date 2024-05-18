@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Cho ví dụ về dữ liệu là số, ví dụ về dữ liệu không phải là số.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều cao, cân nặng, độ tuổi, ngày, tháng, năm,... cho ta các dữ liệu số.\nDữ liệu không phải là số: Dữ liệu không cho kết quả là số.\nLời giải chi tiết\nVí dụ dữ liệu về số:\nChiều cao của các bạn học sinh tổ 1 là: 153 cm; 154 cm; 169 cm; 178 cm; 155 cm\nVí dụ về dữ liệu không phải là số:\nLoài động vật được nhắc tới trong sách giáo khoa: Chó, mèo, hươu, nai, bò"
+    },
+    {
+        "problem": "Cho hai dãy dữ liệu như sau:\n(1) Số học sinh các lớp 6 trong trường:\n35  42  87  38  40  41  38\n(2) Tên món ăn yêu thích của các thành viên trong gia định:\nBánh chưng, pizza, canh cua, gà rán, rau muống luộc, cá kho, rượu vang.\na) Trong các dãy dữ liệu trên, dãy nào là dãy số liệu?\nb) Hãy tìm dữ liệu không hợp lí (nếu có) trong mỗi dãy dữ liệu trên.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số liệu: Dữ liệu là số.\nb) Dữ liệu không hợp lí: Liên hệ thực tế để kiểm tra thông tin sai.\nLời giải chi tiết\na. Dãy số liệu là: (1) Số học sinh các lớp 6 trong trường.\nb. (2) Dữ liệu không hợp lí là: 87, rượu vang\nVì số lượng học sinh trong một lớp không thể quá 60 người.\nRượu không phải là đồ ăn mà là đồ uống."
+    },
+    {
+        "problem": "Quân muốn thu thập số liệu về số lượng học sinh đeo kính trong một số lớp học để làm một dự án học tập.\nEm hãy giúp Quân bằng cách quan sát và đếm xem lớp em có bao nhiêu bạn đeo kính?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát và đếm số bạn đeo kính.\nLời giải chi tiết\nEm quan sát và đếm số bạn đeo kính trong lớp em."
+    },
+    {
+        "problem": "Vuông gieo một đồng xu 5 lần và ghi lại kết quả như bảng dưới đây (mỗi gạch ứng với một lần xuất hiện). Em hãy gieo một đồng xu 10 lần và ghi lại kết quả theo cách tương tự.\n\n\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chuẩn bị đồng xu và gieo.\nSau mỗi lần gieo, nếu được mặt sấp thì thêm 1 gạch vào hàng mặt sấp, nếu được mặt ngửa thì thêm 1 gạch vào bảng mặt ngửa.\nLời giải chi tiết\nEm gieo đồng xu 10 lần và ghi lại vào bảng\nGỉả sử em thu được bảng sau:\n"
+    },
+    {
+        "problem": "Trong môn Giáo dục công dân, cô giáo muốn khảo sát phản ứng của các bạn trong lớp khi phát hiện bạn của mình không trung thực. Em hãy giúp cô giáo làm khảo sát trong lớp em theo các gợi ý sau:\n1. Lập phiếu hỏi theo mẫu dưới đây và phát cho các bạn trong lớp.\n\n2. Thu phiếu và tổng hợp xem mỗi phản ứng có bao nhiêu bạn lựa chọn (bảng sau, mỗi gạch tương ứng với một bạn chọn)\n\n3. Phản ứng nào được nhiều bạn chọn nhất?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1. Chuẩn bị phiếu ghi như trên rồi đưa cho mỗi bạn một phiếu.\n2. Thu lại các phiếu đã đưa cho bạn và thống kê lại kết quả như bảng trên.\nĐếm số gạch của mỗi lựa chọn.\nLựa chọn nào nhiều gạch nhất thì được nhiều bạn chọn nhất.\nLời giải chi tiết\n1. Em làm theo hướng dẫn của thầy cô giáo.\n2. Lựa chọn nào nhiều gạch nhất thì được nhiều bạn chọn nhất.\nVí dụ lớp em có 45 học sinh. Bảng tổng hợp thu được là:\n\n3. Qua bảng tổng hợp trên ta thấy cách khuyên bạn không nên làm như vậy, để bạn tự nói ra sự thật được nhiều bạn chọn nhất (24 bạn)"
+    },
+    {
+        "problem": "Người ta muốn thống kê số người tham gia giao thông vượt đèn đỏ trong một ngày tại một ngã tư. Vuông và Tròn đề xuất cách thu thập dữ liệu như sau:\n\n\nTheo em, cách nào tốt hơn? Vì sao?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách tốt hơn là cách có thể thu thập được nhiều thông tin và các thông tin đó chính xác hơn.\nLời giải chi tiết\nBạn Tròn có cách tốt hơn vì khi đặt máy quay thì mất ít thời gian hơn và biết được chính xác số người vượt đèn đỏ hơn.\nCách của bạn Vuông phải hỏi từng người sẽ mất nhiều thời gian và họ có thể khai báo sai sự thật, đồng thời không thể hỏi hết được những người đi qua ngã tư đó.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các dữ liệu sau, dữ liệu nào là số liệu, dữ liệu nào không phải là số liệu ?\n1. Cân nặng của trẻ sơ sinh ( đơn vị tính là gam );\n2. Quốc tịch của các học sinh trong một trường quốc tế;\n3. Chiều cao trung bình của một số loại cây thân gỗ ( đơn vị tính là mét ).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số liệu: dữ liệu là số.\nLời giải chi tiết\n1. Dữ liệu số liệu vì dữ liệu này cho ta các số là số cân của trẻ sơ sinh.\n2. Dữ liệu không là số liệu vì dữ liệu này không là số mà là tên các quốc gia.\n3. Dữ liệu số liệu vì dữ liệu này cho ta các số là số mét của cây."
+    },
+    {
+        "problem": "Bản tin sau được trích từ báo điện tử Vietnamnet ngày 18-3-2020:\n'' Như vậy, chỉ trong 12 ngày, Việt Nam đã ghi nhận thêm 60 ca mắc mới Covid - 19 trong đó có 24 người nước ngoài. Hiện Hà Nội là địa phương có nhiều ca mắc mới nhất, với 20 trường hợp, kế đó là Bình Thuận 9 ca, Thành phố Hồ Chí Minh 9 ca \"\nThay dấu \"?\" trong bảng sau bằng số liệu thống kê số ca mắc mới Covid-19 tại các địa phương tính đến ngày 18-3-2020\n\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số ca Hà Nội: Số trường hợp mắc tại Hà Nội\nSố ca Bình Thuận: Số trường hợp mắc tại Bình Thuận\nSố ca TP. Hồ Chí Minh: Số trường hợp mắc tại TP. Hồ Chí Minh\nLời giải chi tiết\nBảng thống kê:\nĐịa phương\nSố ca mắc mới Covid-19\nHà Nội\n20\nBình Thuận\n9\nThành phố Hồ Chí Minh\n9"
+    },
+]

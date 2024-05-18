@@ -1,0 +1,164 @@
+[
+    {
+        "problem": "Bài 1: Phân tích đa thức x^{2}  – 6x + 8 thành nhân tử ta được\nA. (x – 4)(x – 2)\nB. (x – 4)(x + 2)\nC. (x + 4)(x – 2)\nD. (x – 4)(2 – x)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{2}  – 6x + 8 = x^{2}  – 4x – 2x + 8 = x(x – 4) – 2(x – 4)\n                   = (x – 4)(x – 2)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 2: Phân tích đa thức x^{2}  – 7x + 10 thành nhân tử ta được\nA. (x – 5)(x + 2)\nB. (x – 5)(x - 2)\nC. (x + 5)(x + 2)\nD. (x – 5)(2 – x)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{2}  – 7x + 10 = x^{2}  – 2x – 5x + 10\n          = x(x – 2) – 5(x – 2) = (x – 5)(x – 2)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 3: Đa thức 25 – a^{2}  + 2ab – b^{2}  được phân tích thành\nA. (5 + a – b)(5 – a – b)           \nB. (5 + a + b)(5 – a – b)  \nC. (5 + a + b)(5 – a + b)           \nD. (5 + a – b)(5 – a + b)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 25 – a^{2}  + 2ab – b^{2}  = 25 – (a^{2}  – 2ab + b^{2} )\n          = 5^{2}  – (a – b)^{2} \n          = (5 + a – b)(5 – a + b)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 4: Phân tích đa thức m.n^{3}  – 1 + m – n^{3}  thành nhân tử, ta được:\nA. (m – 1)(n + 1)                     \nB. n^{2} (n + 1)(m – 1)\nC. (m + 1)(n^{2}  + 1)                    \nD. (n^{3}  + 1)(m – 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nm.n^{3}  – 1 + m – n^{3} \n= (mn^{3}  – n^{3} ) + (m -1)\n= n^{3} (m – 1) + (m – 1)\n= (n + 1)(n^{2}  – n + 1)(m – 1)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 5: Phân tích đa thức x^{4}  + 64 thành hiệu hai bình phương, ta được\nA. (x^{2}  + 16)^{2}  – (4x)^{2}                  \nB. (x^{2}  + 8)^{2}  – (16x)^{2}        \nC. (x^{2}  + 8)^{2}  – (4x)^{2}                    \nD. (x^{2}  + 4)^{2}  – (4x)^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{4}  + 64 = (x^{2} )^{2}  + 16x^{2}  + 64 – 16x^{2} \n          = (x^{2} )^{2}  + 2.8.x + 8^{2}  – (4x)^{2} \n          = (x^{2}  + 8)^{2}  – (4x)^{2} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 6: Phân tích đa thức x^{8}  + 4 thành hiệu hai bình phương, ta được\nA. (x^{4}  - 2)^{2}  – (2x^{2} )^{2}                   \nB. (x^{4}  + 4)^{2}  – (4x^{2} )^{2}         \nC. (x^{4}  + 2)^{2}  – (4x^{2} )^{2}                   \nD. (x^{4}  + 2)^{2}  – (2x^{2} )^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{8}  + 4 = (x^{4} )^{2}  + 4x^{4}  + 4 – 4x^{4} \n                   = (x^{4}  + 2)^{2}  – (2x^{2} )^{2} \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 7: Ta có x^{2}  – 7xy + 10y^{2}  = (x – 2y)(…). Biểu thức thích hợp điền vào dấu … là\nA. x + 5y    \nB. x – 5y    \nC. 5y – x    \nD. 5y + 2x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{2}  – 7xy + 10y^{2}  = x^{2}  – 2xy – 5xy + 10y^{2} \n          = (x^{2}  – 2xy) – (5xy – 10y^{2} )\n          = x(x – 2y) – 5y(x – 2y)\n          = (x – 2y)(x – 5y)\nVậy ta cần điền x – 5y\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 8: Điền vào chỗ trống 4x^{2}  + 4x – y^{2}  + 1 = (…)(2x + y + 1)\nA. 2x + y + 1\nB. 2x – y + 1\nC. 2x – y    \nD. 2x + y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n4x^{2}  + 4x – y^{2}  + 1 = ((2x)^{2}  + 2.2x + 1) – y^{2} \n= (2x + 1)^{2}  – y^{2}  = (2x + 1 – y)(2x + 1 + y)\n= (2x – y + 1)(2x + y + 1)\nVậy đa thức trong chỗ trống là 2x – y + 1\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 9: Chọn câu sai\nA. 3x^{2}  – 5x – 2 = (x – 2)(3x + 1)        \nB. x^{2}  + 5x + 4 = (x + 4)(x + 1)\nC. x^{2}  – 9x + 8 = (x – 8)(x + 1)            \nD. x^{2}  + x – 6 = (x – 2)(x + 3)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) 3x^{2}  – 5x – 2 = 3x^{2}  + x – 6x – 2 = x(2x + 1) – 2(3x + 1) = (x – 2)(3x + 1) nên A đúng.\n+) x^{2}  + 5x + 4 = x^{2}  + x + 4x + 4 = x(x + 1) + 4(x + 1) = (x + 4)(x + 1) nên B đúng\n+) x^{2}  – 9x + 8 = x^{2}  – x – 8x + 8 = x(x – 1) – 8(x – 1) = (x – 8)(x – 1) nên C sai\n+) x^{2}  + x – 6 = x^{2}  + 3x – 2x – 6 = x(x + 3) – 2(x + 3) = (x – 2)(x + 3) nên D đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 10: Chọn câu đúng nhất\nA. x^{3}  + x^{2}  – 4x – 4 = (x – 2)(x + 2)(x + 1)\nB. x^{2}  + 10x + 24 = (x + 4)(x + 6)\nC. Cả A, B đều sai                            \nD. Cả A, B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{3}  + x^{2}  – 4x – 4 = (x^{3}  + x^{2} ) – (4x + 4)\n= x^{2} (x + 1) – 4(x + 1) = (x^{2}  – 4)(x + 1)\n= (x – 2)(x + 2)(x + 1) nên A đúng\nx^{2}  + 10x + 24 = x^{2}  + 6x + 4x + 24\n= x(x + 6) + 4(x + 6) = (x + 4)(x + 6) nên B đúng\nVậy cả A, B đều đúng\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 11: Chọn câu đúng\nA. x^{4}  + 4x^{2}  – 5 = (x^{2}  + 5)(x – 1)(x + 1)\nB. x^{2}  + 5x + 4 = (x^{2}  – 5)(x – 1)(x + 1)\nC. x^{2}  – 9x + 8 = (x^{2}  + 5)(x^{2}  + 1)         \nD. x^{2}  + x – 6 = (x^{2}  – 5)(x + 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) x^{4}  + 4x^{2}  – 5 = x^{4}  – x^{2}  + 5x^{2}  – 5 = x^{2} (x^{2}  – 1) + 5(x^{2}  – 1) = (x^{2}  + 5)(x^{2}  – 1)\n= (x^{2}  + 5)(x – 1)(x + 1) nên A đúng\n+) x^{2}  + 5x + 4 = x^{2}  + x + 4x + 4 = x(x + 1) + 4(x + 1) = (x + 4)(x + 1) nên B sai\n+) x^{2}  – 9x + 8 = x^{2}  – x – 8x + 8 = x(x – 1) – 8(x – 1) = (x – 1)(x – 8) nên C sai\n+) x^{2}  + x – 6 = x^{2}  – 2x + 3x – 6 = x(x – 2) + 3(x – 2) = (x – 2)(x + 3) nên D sai\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 12: Chọn câu sai\nA. 16x^{3}  – 54y^{3}  = 2(2x – 3y)(4x^{2}  + 6xy + 9y^{2} )        \nB. x^{2}  – 9 + (2x + 7)(3 – x) = (x – 3)(-x – 4)\nC. x^{4}  – 4x^{3}  + 4x^{2}  = x^{2} (x – 2)^{2} \nD. 4x^{3}  – 4x^{2}  – x + 1 = (2x – 1)(2x + 1)(x + 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) Đáp án A đúng vì:\n16x^{3}  – 54y^{3}  = 2(8x^{3}  – 27y^{3} ) = 2[(2x)^{3}  – (3y)^{3} ]\n= 2(2x – 3y)[(2x)^{2}  + 2x.3y + (3y)^{2} ]\n= 2(2x – 3y)(4x^{2}  + 6xy + 9y^{2} )\n+) Đáp án B đúng vì:\nx^{2}  – 9 + (2x + 7)(3 – x) = (x^{2}  – 9) + (2x + 7)(3 – x)\n= (x – 3)(x + 3) – (2x + 7)(x – 3)\n= (x – 3)(x + 3 – 2x – 7)\n= (x – 3)(-x – 4)\n+) Đáp án C đúng vì:\nx^{4}  – 4x^{3}  + 4x^{2}  = x^{2} (x^{2}  – 4x + 4)\n= x^{2} (x^{2}  – 2.2.x + 2^{2} ) = x^{2} (x – 2)^{2} .\n+) Đáp án D sai vì:\n4x^{3}  – 4x^{2}  – x + 1 = (4x^{3}  – 4x^{2} ) – (x – 1)\n= 4x^{2} (x – 1) – (x – 1) = (4x^{2}  – 1)(x – 1)\n= ((2x)^{2}  – 1)(x – 1) = (2x – 1)(2x + 1)(x – 1)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 13: Cho (I): 4x^{2}  + 4x – 9y^{2}  + 1 = (2x + 1 + 3y)(2x + 1 – 3y)\n(II): 5x^{2}  – 10xy + 5y^{2}  – 20z^{2}  = 5(x + y + 2z)(x + y – 2z).\nChọn câu đúng.\nA. (I) đúng, (II) sai                  \nB. (I) sai, (II) đúng\nC. (I), (II) đều sai                    \nD. (I), (II) đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n(I): 4x^{2}  + 4x – 9y^{2}  + 1 = (4x^{2}  + 4x + 1) – 9y^{2}  = (2x + 1)^{2}  – (3y)^{2} \n= (2x + 1 + 3y)(2x + 1 – 3y) nên (I) đúng\nVà\n(II): 5x^{2}  – 10xy + 5y^{2}  – 20z^{2}  = 5(x^{2}  – 2xy + y^{2}  – 4z^{2} )\n= 5[(x – y)^{2}  – (2z)^{2} ] = 5(x – y – 2z)(x – y + 2z) nên (II) sai\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 14: Cho (A): 16x^{4} (x – y) – x + y = (2x – 1)(2x + 1)(4x + 1)^{2} (x + y) và (B): 2x^{3} y – 2xy^{3}  – 4xy^{2}  – 2xy = 2xy(x + y – 1)(x – y + 1). Chọn câu đúng.\nA. (A) đúng, (B) sai                          \nB. (A) sai, (B) đúng\nC. (A), (B) đều sai                             \nD. (A), (B) đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n(A): 16x^{4} (x – y) – x + y\n= 16x^{4} (x – y) – (x – y)\n= (16x^{4}  – 1)(x – y)\n= [(2x)^{4}  – 1](x – y)\n= [(2x)^{2}  – 1][(2x)^{2}  + 1](x – y)\n= (2x – 1)(2x + 1)(4x^{2}  + 1)(x – y)\nNên (A) sai\nVà (B): 2x^{3} y – 2xy^{3}  – 4xy^{2}  – 2xy\n= 2xy(x^{2}  – y^{2}  – 2y – 1) = 2xy[x^{2}  – (y^{2}  + 2y + 1)]\n= 2xy[x^{2}  – (y + 1)^{2} ] = 2xy(x – y – 1)(x + y + 1).\nNên (B) sai.\nVậy cả (A) và (B) đều sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 15: Cho (x^{2}  + x)^{2}  + 4x^{2}  + 4x – 12 = (x^{2}  + x – 2)(x^{2}  + x + …). Điền vào dấu … số hạng thích hợp\nA. -3          \nB. 3            \nC. -6           \nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (x^{2}  + x)^{2}  + 4x^{2}  + 4x – 12 = (x^{2}  + x)^{2}  + 4(x^{2}  + x) – 12\nĐặt t = x^{2}  + x ta được\nt^{2}  + 4t – 12 = t^{2}  + 6t – 2t – 12 = t(t + 6) – 2(t + 6) = (t – 2)(t + 6)\n= (x^{2}  + x – 2)(x^{2}  + x + 6)\nVậy số cần điền là 6.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 16: Cho (x^{2}  – 4x)^{2}  + 8(x^{2}  – 4x) + 15 = (x^{2}  – 4x + 5)(x – 1)(x + …). Điền vào dấu … số hạng thích hợp\nA. -3          \nB. 3            \nC. 1            \nD. -1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐặt t = x^{2}  – 4x ta được\nt^{2}  + 8t + 15 = t^{2}  + 3t + 5t + 15 = t(t + 3) + 5(t + 3) = (t + 5)(t + 3)\n= (x^{2}  – 4x + 5)(x^{2}  – 4x + 3) = (x^{2}  – 4x + 5)(x^{2}  – 3x – x + 3)\n= (x^{2}  – 4x + 5)(x(x – 3) – (x – 3))\n= (x^{2}  – 4x + 5)(x – 1)(x – 3)\nVậy số cần điền là -3\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 17: Ta có (x + 2)(x + 3)(x + 4)(x + 5) – 24 = (x^{2}  + 7x + a)(x^{2}  + 7x + b) với a, b là các số nguyên và a < b. Khi đó a – b bằng\nA. 10          \nB. 14          \nC. -14         \nD. -10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có T = (x + 2)(x + 3)(x + 4)(x + 5) – 24\n          = [(x + 2)(x + 5)].[(x + 3)(x + 4)] – 24\n          = (x^{2}  + 7x + 10).(x^{2}  + 7x + 12) – 24\nĐặt x^{2}  + 7x + 11= t, ta được\nT = (t – 1)(t + 1) – 24 = t^{2}  – 1 – 24 = t^{2}  – 25 = (t – 5)(t + 5)\nThay t = x^{2}  + 7x + 11, ta được\nT = (t – 5)(t + 5) = (x^{2}  + 7x + 11 – 5)( x^{2}  + 7x + 11 + 5)\n= (x^{2}  + 7x + 6)( x^{2}  + 7x + 16)\nSuy ra a = 6; b = 16 ⇒ a – b = -10\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 27: Giá trị của biểu thức A = x^{2}  – 4y^{2}  + 4x + 4 tại x = 62, y = -18 là\nA. 2800      \nB. 1400      \nC. -2800     \nD. -1400",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có A = x^{2}  – 4y^{2}  + 4x + 4\n= (x^{2}  + 4x + 4) – 4y^{2}  = (x + 2)^{2}  – (2y)^{2} \n= (x + 2 – 2y)(x + 2 + 2y)\nThay x = 62; y = -18 ta được\nA = (62 + 2 – 2.(-18))(62 + 2 + 2.(-18)) = 100.28 = 2800\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 28: Giá trị của biểu thức B = x^{3}  + x^{2} y – xy^{2}  – y^{3}  tại x = 3,25 ; y = 6,75 là\nA. 350        \nB. -350       \nC. 35          \nD. -35",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có B = x^{3}  + x^{2} y – xy^{2}  – y^{3} \n= x^{2} (x + y) – y^{2} (x + y) = (x^{2}  – y^{2} )(x + y)\n= (x – y)(x + y)(x + y) = (x – y)(x + y)^{2} \nThay x = 3,25 ; y = 6,57 ta được\nB = (3,25 – 6,75)(3,25 + 6,75)^{2}  = -3,5.10^{2}  = -350\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 31: Cho biểu thức  C = xyz – (xy + yz + zx) + x + y + z – 1. Phân tích C thành nhân tử và tính giá trị của C khi x = 9; y = 10; z = 101.\nA. C = (z – 1)(xy – y – x + 1); C = 720\nB. C = (z – 1)(y – 1)(x + 1); C = 7200\nC. C = (z – 1)(y – 1)(x – 1); C = 7200\nD. C = (z + 1)(y – 1)(x – 1); C = 7200",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nC = xyz – (xy + yz + zx) + x + y + z – 1\n= (xyz – xy) – (yz – y) – (zx – x) + (z – 1)\n= xy(z – 1) – y(z – 1) – x(z – 1) + (z – 1)\n= (z – 1)(xy – y – x + 1)\n= (z – 1).[y(x – 1) – (x – 1)]\n= (z – 1)(y – 1)(x – 1)\nVới x = 9; y = 10; z = 101 ta có\nC = (101 – 1)(10 – 1)(9 – 1) = 100.9.8 = 7200\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 32: Cho biểu thức D = a(b^{2}  + c^{2} ) – b(c^{2}  + a^{2} ) + c(a^{2}  + b^{2} ) – 2abc. Phân tích D thành nhân tử và tính giá trị của C khi a = 99; b = -9; c = 1.\nA. D = (a – b)(a + c)(c – b); D = 90000\nB. D = (a – b)(a + c)(c – b); D = 108000\nC. D = (a – b)(a + c)(c + b); D = -86400\nD. D = (a – b)(a – c)(c – b); D = 105840",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nD = a(b^{2}  + c^{2} ) – b(c^{2}  + a^{2} ) + c(a^{2}  + b^{2} ) – 2abc\n= ab^{2}  + ac^{2}  – bc^{2}  – ba^{2}  + ca^{2}  + cb^{2}  – 2abc\n= (ab^{2}  – a^{2} b) + (ac^{2}  – bc^{2} ) + (a^{2} c – 2abc + b^{2} c)\n= ab(b – a) + c^{2} (a – b) + c(a^{2}  – 2ab + b^{2} )\n= -ab(a – b) + c^{2} (a – b) + c(a – b)^{2} \n= (a – b)(-ab + c^{2}  + c(a – b))\n= (a – b)(-ab + c^{2}  + ac – bc)\n= (a – b)[(-ab + ac) + (c^{2}  – bc)]\n= (a – b)[a(c – b) + c(c – b)]\n= (a – b)(a + c)(c – b)\nVới a = 99; b = -9; c = 1, ta có\nD = (99 – (9))(99 + 1)(1 – (-9)) = 108.100.10 = 108000\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 33: Giá trị của biểu thức D = x^{3}  – x^{2} y – xy^{2}  + y^{3}  khi x = y là\nA. 3            \nB. 2            \nC. 1            \nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nD = (x^{3}  + y^{3} ) – xy(x + y)\n= (x + y)(x^{2}  – xy + y^{2} ) – xy(x + y)\n= (x + y)(x^{2}  – xy + y^{2}  – xy)\n= (x + y)[x(x – y) – y(x – y)]\n= (x + y)(x – y)^{2} \nVì x = y ⇔ x – y = 0 nên D = (x + y)(x – y)^{2}  = 0\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 34: Giá trị của biểu thức E = 2x^{3}  – 2y^{3}  – 3x^{2}  – 3y^{2}  khi x – y = 1 là\nA. -1          \nB. 2            \nC. 1            \nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nE = 2x^{3}  – 2y^{3}  – 3x^{2}  – 3y^{2} \n= 2(x^{3}  – y^{3} ) – 3(x^{2}  + y^{2} )\n= 2(x – y)(x^{2}  + xy + y^{2} ) – 3(x^{2}  + y^{2} )\nVì x – y = 1 nên\nE = 2(x^{2}  + y^{2}  + xy) – 3x^{2}  – 3y^{2}  = -(x^{2}  – 2xy + y^{2} ) = -(x – y)^{2}  = -1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 35: Đa thức ab(a – b) + bc(b – c) + ca(c – a) được phân tích thành\nA. (a – b)(a – c)(b – c)                       \nB. (a + b)(a – c)(b – c)\nC. (a + b)(a – c)(b + c)                       \nD. (a + b)(a + c)(b + c)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có ab(a – b) + bc(b – c) + ca(c – a)\n= ab(a – b) + bc[b – a + a – c] + ac(c – a)\n= ab(a – b) – bc(a – b) + bc(a – c) – ac(a – c)\n= (a – b)(ab – bc) + (a – c)(bc – ac)\n= b(a – b)(a – c) – c(a – c)(a – b)\n= (a – b)(a – c)(b – c)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 36: Đa thức M = ab(a + b + c) – bc(b + c) + ca(c + a) được phân tích thành\nA. (a + b + c)(ab – bc – ac)                \nB. (a + b + c)(ab + bc + ca)\nC. (a + b – c)(ab + bc + ac)                \nD. (a + b + c)(ab – bc + ac)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThêm bớt abc vào M ta có\nM = ab(a + b + c) – bc(b + c) – abc + ca(c + a) + abc\n= ab(a + b + c) – bc(a + b + c) + ac(a + b + c)\n=(a + b + c)(ab – bc + ac)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 38: Phân tích đa thức A = ab(a + b) – bc(b + c) – ac(c – a) thành nhân tử ta được\nA. (a + b)(a – c)(b – c)\nB. (a + b)(a – c)(b + c)\nC. (a – b)(a – c)(b – c)\nD. (a + b)(c – a)(b + c)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có b + c = (a + b) + (c – a) nên\nA = ab(a + b) – bc[(a + b) + (c – a)] – ac(c – a)\n= ab(a + b) – bc(a + b) – bc(c – a) – ac(c – a)\n= b(a + b)(a – c) – c(c – a)(b + a)\n= (a + b)(a – c)(b + c)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 39: Phân tích đa thức x^{7}  – x^{2}  – 1 thành nhân tử ta được\nA. (x^{2}  – x + 1)(x^{5}  + x^{4}  – x^{3}  – x^{2}  + 1)\nB. (x^{2}  – x + 1)(x^{5}  + x^{4}  – x^{3}  – x^{2}  – 1)\nC. (x^{2}  + x + 1)(x^{5}  + x^{4}  – x^{3}  – x^{2}  – 1)\nD. (x^{2}  – x + 1)(x^{5}  – x^{4}  – x^{3}  – x^{2}  – 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{7}  – x^{2}  – 1 = x^{7}  – x – x^{2}  + x – 1\n= x(x^{6}  – 1) – (x^{2}  – x + 1)\n= x(x^{3}  – 1)(x^{3}  + 1) – (x^{2}  – x + 1)\n= x(x^{3}  – 1)(x + 1)(x^{2}  – x + 1) – (x^{2}  – x + 1)\n= (x^{2}  – x + 1)[x(x^{3}  – 1)(x + 1) – 1]\n= (x^{2}  – x + 1)[(x^{2}  + x)(x^{3}  – x) – 1]\n= (x^{2}  – x + 1)(x^{5}  + x^{4}  – x^{3}  – x^{2}  – 1)\nĐáp án cần chọn là: B"
+    }
+]

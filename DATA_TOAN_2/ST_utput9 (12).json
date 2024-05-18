@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Từ gốc O trên trục số, di chuyển sang trái 3 đơn vị đến điểm A (h 3.10). Điểm A biểu diễn số nào?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên trục số, chiều từ phải sang trái là chiều âm,\nLời giải chi tiết\nĐiểm A biểu diễn số -3"
+    },
+    {
+        "problem": "Di chuyển tiếp sang trái thêm 5 đơn vị đến điểm B (h3.11). B chính là điểm biểu diễn kết quả của phép cộng (-3) + (-5). Điểm B biểu diễn số nào? Từ đó suy ra giá trị của tổng (-3) + (-5).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên trục số, chiều từ phải sang trái là chiều âm.\nLời giải chi tiết\n+) Vì từ điểm A (điểm biểu diễn số -3) di chuyển sang trái 5 đơn vị, ta được điểm B. Vậy điểm B biểu diễn số -8.\n+) Mà B chính là điểm biểu diễn kết quả của phép cộng (-3) + (-5) nên (-3) + (-5) = -8"
+    },
+    {
+        "problem": "Thực hiện các phép cộng sau:\n(- 12) + (- 48);             (-236) + (- 1025).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu \"-\" trước kết quả.\nLời giải chi tiết\n(-12) + (-48) = -(12 + 48) = -60\n(-236) + (-1 025) = -(236 + 1 025) = -1 261"
+    },
+    {
+        "problem": "Sử dụng phép cộng hai số nguyên âm để giải bài toán sau :\nMột chiếc tàu ngầm cần lặn (coi là theo phương thẳng đứng) xuống điểm A dưới đáy biển. Khi tàu đến điểm B ở độ cao - 135 m, máy đo bảo rằng tàu còn cách A một khoảng 45 m. Hỏi điểm A nằm ở độ cao bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu \"-\" trước kết quả.\nLời giải chi tiết\nVì tàu đến độ cao -135 m, còn phải lặn sâu thêm 45 m nữa (tức là đi thêm -45 m nữa) nên điểm A nằm ở độ cao: (-135) + (-45) = -(135 + 45) = -180(m)"
+    },
+    {
+        "problem": "Tìm số đối của 4, -5, 9, -11.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên trục số hai điểm có cùng khoảng cách đến gốc O được gọi là hai số đối nhau.\nLời giải chi tiết\nSố đối của 4, -5, 9, -11 lần lượt là: -4, 5, -9, 11"
+    },
+    {
+        "problem": "Tìm số đối của mỗi số 5 và -2 rồi biểu diễn chúng trên cùng một trục số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên trục số hai điểm có cùng khoảng cách đến gốc O được gọi là hai số đối nhau.\nLời giải chi tiết\nSố đối của 5 là -5; số đối của -2 là 2.\n"
+    },
+    {
+        "problem": "Từ điểm A biểu diễn số -5 trên trục số di chuyển sang phải 3 đơn vị  đến điểm B. Điểm B biểu diễn kết quả phép cộng nào?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Di chuyển điểm A( biểu diễn số a) sang phải b đơn vị thì được điểm B biểu diễn kết quả của phép cộng a + b\nLời giải chi tiết\nĐiểm B biểu diễn kết quả phép cộng: (-5) + 3."
+    },
+    {
+        "problem": "Từ điểm A di chuyển sang phải 8 đơn vị  đến điểm C, Điểm C biểu diễn kết quả của phép cộng nào?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Di chuyển điểm A( biểu diễn số a) sang phải c đơn vị thì được điểm C biểu diễn kết quả của phép cộng a + c\nLời giải chi tiết\nĐiểm C biểu diễn kết quả phép cộng: (-5) + 8"
+    },
+    {
+        "problem": "Thực hiện phép tính: a) 203 + (-195);       b) (-137) + 86.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\na) 203 + (-195) = 203 - 195 = 8\nb) (-137) + 86 = -(137 - 86) = -51"
+    },
+    {
+        "problem": "Sử dụng phép cộng hai số nguyên khác dầu để giải bài toán sau:\nMột máy thăm dò đáy biển ngày hôm trước hoạt động ở độ cao -946 m. Ngày hôm sau người ta cho máy nổi lên 55 m so với hôm trước. Hỏi ngày hôm sau máy thăm dò đáy biển hoạt động ở độ cao nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\nMáy nổi lên 55 m, tức là đi độ cao tăng thêm + 55 m\nNgày hôm sau, máy thăm dò hoạt động ở độ cao:\n-946 + 55 = -(946 - 55) = -891 (m)"
+    },
+    {
+        "problem": "Đố bạn: tổng của hai số nguyên khác dấu là số dương hay số âm?\nEm hãy trả lời giúp Vuông.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào quy tắc cộng hai số nguyên khác dấu:\nMuốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\nTổng của hai số nguyên khác dấu ( không đối nhau) mang dấu của số hạng có phần số tự nhiên lớn hơn. Tổng 2 số nguyên đối nhau là 0.\nDo đó tùy trường hợp mà tổng của hai số nguyên khác dấu là số dương hoặc số âm hoặc bằng 0."
+    },
+    {
+        "problem": "Tính và so sánh giá trị của a + b và b + a với a = -7, b = 11.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng hai số nguyên khác dấu (không đối nhau), ta tìm hiệu hai phần số tự nhiên của chúng (số lớn trừ số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn.\nLời giải chi tiết\na + b = -7 + 11 = 11 - 7 = 4\nb + a = 11 + (-7) = 11 - 7= 4\nVậy a + b = b + a."
+    },
+    {
+        "problem": "Tính và so sánh giá trị của (a + b) + c và a + (b + c) với a = 2, b = -4, c = -6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính ở trong ngoặc trước.\nLời giải chi tiết\n(a + b) + c = [2 + (-4)] + (-6) = [ -(4 - 2)] + (-6) = (-2) + (-6) = - (2 + 6) = -8\na + (b + c) = 2 + [(-4) + (-6)] = 2 + [ -(4 + 6)] = 2 + (-10)  = - (10 - 2)= -8\nVậy (a + b) + c = a + (b + c)"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) (-2 019) + (-550) + (-451);\nb) (-2) + 5+ (-6) + 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán và kết hợp của phép cộng để tính hợp lí\nLời giải chi tiết\na) (-2 019) + (-550) + (-451)  = [(-2 019) + (-451)] + (-550) = (-2 470) + (-550) = -(2 470 + 550) = -3 020\nb) (-2) + 5 + (-6) + 9 = [(-2) + 5 ]+[ (-6) + 9] = 3 + 3 = 6\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nửa tháng đầu một cửa hàng bán lẻ lãi được 5 triệu đồng, nửa tháng sau bị lỗ 2 triệu đồng. Hỏi tháng đó cửa hàng lãi hay lỗ bao nhiêu triệu đồng?\nGiải bài toán trên bằng hai cách:\nCách 1. Tính hiệu giữa số tiền lãi và số tiền lỗ.\nCách 2. Hiểu lỗ 2 triệu là \"lãi” –2 triệu để quy về tính tổng của hai số nguyên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Giải bài toán theo 2 cách đề bài đưa ra\nLời giải chi tiết\nCách 1: Hiệu giữa số tiền lãi và số tiền lỗ là:   5 - 2 = 3\nVậy cửa hàng đó lãi 3 triệu đồng\nCách 2: Lỗ 2 triệu nghĩa là lãi (-2) triệu\nVậy cửa hàng đó lãi: 5 + (-2) = 3 (triệu đồng)"
+    }
+]

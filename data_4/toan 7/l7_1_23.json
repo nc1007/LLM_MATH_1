@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "B. Chiều cao trung bình của học sinh lớp 7 (đơn vị tính là mét);\nC. Số học sinh giỏi của khối 7;\nD. Các môn thể thao yêu thích của các bạn trong lớp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDữ liệu là tên các môn thể thao học sinh yêu thích nên không phải số liệu."
+    },
+    {
+        "problem": "Câu 2. Trong các phát biểu sau dữ liệu nào không phải là số liệu? \nA. Điểm trung bình cuối năm của các môn học;\nB. Xếp loại thi đua khen thưởng của học sinh cuối năm;\nC. Số học sinh đạt loại giỏi môn toán;\nD. Số học sinh dưới trung bình môn toán.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nDữ liệu là xếp loại thi đua khen thưởng nên không phải là số liệu."
+    },
+    {
+        "problem": "Câu 3. Kiểm tra sức khỏe đầu năm của học sinh lớp 7 gồm có: đo chiều cao, cân nặng, độ cận thị, viễn thị. Kết quả nào là số liệu?\nA. Chiều cao, cân nặng;\nB. Chiều cao;\nC. Cân nặng;\nD. Chiều cao, cân nặng, cận thị, viễn thị.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nĐo chiều cao, cân nặng, cận thị, viễn thị là ghi lại những số đo về các yếu tố này nên là số liệu."
+    },
+    {
+        "problem": "Câu 4. Trong cuộc khảo sát tìm hiểu về cách học của học sinh lớp 7B được kết quả như sau:\nCó 20 học sinh học qua đọc, viết;\nCó 10 học sinh trong lớp học qua nghe;\nCó 10 học sinh trong lớp học qua vận động;\nCó 5 học sinh học qua quan sát.\nKhẳng định nào sau đây là đúng?\nA. Kết quả trên là thu thập không có số liệu.\nB. Kết quả trên là thu thập không phải là số. \nC. Kết quả trên gồm cả dữ liệu là số liệu và dữ liệu không phải là số.\nD. Kết quả trên là dữ liệu phần trăm không phải dữ liệu là số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCác hình thức học: đọc viết; nghe; vận động; quan sát. Đây là dữ liệu không phải là số.\nSố lượng học sinh có cách học qua đọc, viết; nghe; vận động; quan sát lần lượt là: 20, 10, 10, 5. Dữ liệu này là số liệu."
+    },
+    {
+        "problem": "Câu 5. Chỉ ra dữ liệu không hợp lí trong dãy dữ liệu sau:\nĐồ dùng học tập của học sinh bao gồm:\nThước kẻ               Bút viết                  Khăn quàng đỏ                Sách giáo khoa\nVở viết                   Huy hiệu đội          Tẩy                                    Ghế ngồi\nA. Khăn quàng đỏ, Huy hiệu đội, Ghế ngồi;\nB. Huy hiệu đội, Ghế ngồi;\nC. Ghế ngồi, Khăn quàng đỏ;\nD. Huy hiệu đội, Khăn quàng đỏ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTrong dãy dữ liệu về đồ dùng học tập của học sinh ở trên thì ta thấy Khăn quàng đỏ, Huy hiệu đội, Ghế ngồi không phải là đồ dùng học tập. Do đó những dữ liệu này không hợp lí."
+    },
+    {
+        "problem": "Câu 6. Bảng sau cho biết số con của 30 gia đình trong khu dân cư:\nSố con\n0\n1\n2\n3\nSố gia đình\n5\n8\n15\n5\nĐiểm không hợp lí trong bảng thống kê trên là:\nA. Số con trong một gia đình;\nB. Số gia đình trong khu dân cư;\nC. Tổng số con trong gia đình;\nD. Tổng số gia đình được lấy dữ liệu.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTheo bảng thống kê ta có:\nSố gia đình có 0 con là: 5;\nSố gia đình có 1 con là: 8;\nSố gia đình có 2 con là: 15;\nSố gia đình có 3 con là: 5;\nKhi đó tổng số gia đình trong bảng thống kê là: 5 + 8 + 15 + 5 = 33.\nĐiều này mâu thuẫn với 30 gia đình trong khu dân cư mà đề bài đã cho."
+    },
+    {
+        "problem": "Câu 7. Bảng sau cho biết số anh chị em ruột trong một gia đình của 30 học sinh lớp 7A.\nSố anh chị em ruột\n0\n1\n2\n3\nSố học sinh\n14\n10\n5\n2\nKhẳng định nào sau đây là đúng?\nA. Số học sinh có 1 anh chị em ruột lớn hơn số học sinh có 2 anh chị em ruột;\nB. Số học sinh có 3 anh chị em ruột lớn hơn số học sinh có 2 anh chị em ruột;\nC. Số học sinh có 0 anh chị em ruột ít nhất lớp;\nD. Số học sinh có 1 anh chị em ruột nhiều nhất lớp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTheo bảng thống kê ta có:\nSố học sinh có 1 anh chị em ruột là 10;\nSố học sinh có 2 anh chị em ruột là 5;\nDo đó số học sinh có 1 anh chị em ruột lớn hơn số học sinh có 2 anh chị em ruột."
+    },
+    {
+        "problem": "Câu 8. Bạn An liệt kê năm sinh một số thành viên trong gia đình để làm bài tập môn Toán lớp 7, được dãy dữ liệu như sau:\n1971            2007            1999            2050\nGiá trị không hợp lý trong dãy dữ liệu về năm sinh của các thành viên trong gia đình An là:\nA. 1971;\nB. 2007;\nC. 1999;\nD. 2050.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nCó sự nhầm lẫn ở đây vì hiện tại mới là năm 2022 nên không thể có thành viên trong gia đình sinh năm 2050."
+    },
+    {
+        "problem": "Câu 9. Thu thập số liệu về hứng thú học tập các bộ môn của học sinh lớp 7A được kết quả như sau:\nToán\nNgữ văn\nKhoa học tự nhiên\nLịch sử và Địa lí\nTin học\nGiáo dục công dân\nNgoại ngữ\nCông nghệ\nGiáo dục thể chất\nÂm nhạc\nHoạt động trải nghiệm, hướng nghiệp\n50%\n30%\n45%\n30%\n30%\n40%\n60%\n30%\n70%\n20%\n100%\nHọc sinh lớp 7A yêu thích môn học nào nhất?\nA. Toán;\nB. Hoạt động trải nghiệm, hướng nghiệp;\nC. Giáo dục thể chất;\nD. Ngoại ngữ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nMôn Hoạt động trải nghiệm, hướng nghiệp được 100% học sinh yêu thích."
+    },
+    {
+        "problem": "Câu 10. Tỉ lệ tăng dân số Việt Nam trong một số năm gần đây được cho trong bảng sau:\nNăm\n1991\n1995\n1999\n2003\n2007\n2011\n2015\n2019\nTỉ lệ %\n1,86\n1,65\n1,51\n1,17\n1,09\n1,24\n1,12\n1,15\nTỉ lệ gia tăng dân số thấp nhất là năm nào?\nA. 2019;\nB. 2015;\nC. 2007;\nD. 1991.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNăm 2007 là năm có tỉ lệ gia tăng dân số thấp nhất với 1,09%."
+    },
+    {
+        "problem": "Câu 13. Cho bảng thống kê về mức độ ảnh hưởng (đơn vị %) của các yếu tố đến chiều cao của trẻ:\nYếu tố\nVận động\nDi truyền\nDinh dưỡng\nGiấc ngủ và môi trường\nYếu tố khác\nMức độ ảnh hưởng (%)\n20\n23\n32\n16\n9\nNgoài yếu tố di truyền, ba yếu tố ảnh hưởng nhiều nhất đến chiều cao chiếm tổng cộng bao nhiêu phần trăm?\nA. 65%;\nB. 66%;\nC. 67%;\nD. 68%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nNgoài yếu tố di truyền, ba yếu tố ảnh hưởng nhiều nhất đến chiều cao là: \nDinh dưỡng: 32%; vận động: 20%; giấc ngủ và môi trường: 16%.\nTổng mức độ ảnh hưởng của ba yếu tố này là: 32% + 20% + 16% = 68%.\nVậy ba yếu tố dinh dưỡng; vận động; giấc ngủ và môi trường ảnh hưởng 68% đến chiều cao."
+    },
+    {
+        "problem": "Câu 15. Chiều cao của 30 bạn học sinh lớp 7A (đơn vị cm) được ghi lại như sau\nChiều cao\n145\n148\n150\n153\n156\n158\n160\nSố học sinh\n2\n3\n5\n8\n7\n4\n1\nSố bạn có chiều cao trên 1,5 m chiếm tỉ lệ bao nhiêu phần trăm so với cả lớp? (làm tròn kết quả đến hàng phần mười)\nA. 16,7%;\nB. 33,3%;\nC. 66,7%;\nD. 83,3%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐồi 1,5 m = 150 cm.\nSố bạn có chiều cao trên 150 cm là: 8 + 7 + 4 + 1 = 20.\nTỉ lệ phần trăm số bạn có chiều cao trên 1,5 m so với cả lớp là khoảng:\n(20 : 30). 100% = 66,6666… ≈ 66,7%.\nVậy số bạn học sinh có chiều cao trên 1,5 m chiếm khoảng 66,7% so với cả lớp."
+    }
+]

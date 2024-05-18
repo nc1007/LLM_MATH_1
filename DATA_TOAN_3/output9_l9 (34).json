@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Diện tích và chu vi của một hình chữ nhật \\(ABCD \\;(AB > AD)\\) theo thứ tự là \\(2a^2\\) và \\(6a.\\) Cho hình chữ nhật quay quanh cạnh \\(AB\\) một vòng, ta được một hình trụ. Tính thể tích và diện tích xung quanh của hình trụ này.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Công thức tính diện tích xung quanh hình trụ: \\({S_{xq}} = 2πrh\\)\n- Công thức tính thể tích hình trụ: \\(V= Sh = πr^2h\\)\n(\\(r\\) là bán kính đường tròn đáy, \\(h\\) là chiều cao, \\(S\\) là diện tích đáy).\nLời giải chi tiết\nTheo bài ra ta có: \\(AB + AD = 3a;\\) \\(AB. AD = 2a^2\\) nên độ dài \\(AB\\) và \\(AD\\) là nghiệm của phương trình:\n\\({x^2} - 3ax + 2{a^2} = 0\\;(AB > AD > 0) \\)\n\\(\\Delta  = {\\left( { - 3a} \\right)^2} - 4.1.2{a^2} = 9{a^2} - 8{a^2} \\)\\(\\,= {a^2} > 0\\) (vì \\(a>0\\))\n\\(\\displaystyle  \\Rightarrow {x_1} = {{3a + a} \\over 2} = 2a;\\) \\(\\displaystyle {x_2} = {{3a - a} \\over 2} = a\\)\nVì \\(AB > AD\\) nên \\(AB = 2a; AD = a.\\)\nDiện tích xung quanh hình trụ là:\n\\(S = 2πrh\\)\\(= 2π. AD. AB = 2π. a. 2a \\)\\(= 4π{a^2}\\) (đơn vị diện tích)\nThể tích của hình trụ là:\n\\(V = \\pi {r^2}h\\)\\(= \\pi .A{D^2}.AB = \\pi {a^2}.2a\\)\\( = 2\\pi {a^3}\\) (đơn vị thể tích).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mô hình của một cái lọ thí nghiệm dạng hình trụ (không nắp) có bán kính đường tròn đáy \\(14cm\\), chiều cao \\(10cm.\\) Trong các số sau đây, số nào là diện tích xung quanh cộng với diện tích một đáy?\n(Lấy \\(\\displaystyle \\pi  = {{22} \\over 7}\\))\n(A) \\(564\\;c{m^2}\\);                  (B) \\(972\\;c{m^2}\\);\n(C) \\(1865\\;c{m^2}\\);                (D) \\(2520\\;c{m^2}\\);\n(E) \\(1496\\;c{m^2}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Công thức tính diện tích xung quanh hình trụ: \\({S_{xq}} = 2πrh\\)\n(\\(r\\) là bán kính đường tròn đáy, \\(h\\) là chiều cao, \\(S\\) là diện tích đáy).\n- Công thức tính diện tích hình tròn: \\(S = πr^2\\)\n(\\(r\\) là bán kính đường tròn).\nLời giải chi tiết\nDiện tích xung quanh lọ là: \\({S_{xq}}= 2πrh\\)\n\\(\\displaystyle{S_{xq}} = 2.{{22} \\over 7}.14.10 = 880\\;(c{m^2})\\)\nDiện tích đáy lọ là: \\(S = πr^2\\)\n\\(\\displaystyle S = {{22} \\over 7}{.14^2} = 616(c{m^2})\\)\nDiện tích xung quanh cộng với diện tích một đáy là:\n\\(880+616=1496\\;(c{m^2})\\).\nChọn (E).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một cái ống rỗng dạng hình trụ hở một đầu, kín một đầu (độ dày không đáng kể) dài \\(b\\) (cm) và bán kính đường tròn đáy là \\(r\\) (cm). Nếu người ta sơn cả bên ngoài lẫn bên trong ống thì diện tích ống được sơn bao phủ là:\n(A) \\(2(\\pi {r^2} + 2\\pi rb)\\;c{m^2}\\);\n(B) \\((\\pi {r^2} + 2\\pi rb)\\;c{m^2}\\);\n(C) \\((2\\pi {r^2} + 2\\pi rb)\\;c{m^2}\\);\n(D) \\((\\pi {r^2} + 4\\pi rb)\\;c{m^2}\\).\nHãy chọn kết quả đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Công thức tính diện tích xung quanh hình trụ: \\({S_{xq}} = 2πrh\\).\n(\\(r\\) là bán kính đường tròn đáy, \\(h\\) là chiều cao).\n- Công thức tính diện tích hình tròn: \\(S = πr^2\\).\n(\\(r\\) là bán kính đường tròn).\nLời giải chi tiết\nDiện tích xung quanh ống hình trụ là: \\({S_{xq}} = 2πrb\\;(cm^2)\\)\nDiện tích đáy của ống hình trụ là: \\(S = πr^2\\;(cm^2)\\)\nDiện tích ống được bao phủ bởi lớp sơn bằng hai lần diện tích xung quanh và hai lần diện tích đáy, do đó diện tích ống được sơn bao phủ là:\n\\(2(\\pi {r^2} + 2\\pi rb)c{m^2}\\).\nChọn (A).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Người ta đổ nước vào một thùng chứa dạng hình trụ, có đường kính đường tròn đáy là \\(3m\\) lên đến độ cao \\(\\displaystyle 2{1 \\over 3}m.\\) Biết rằng \\(1cm^3\\) nước có khối lượng là \\(1g.\\)\nTrong các số sau đây, số nào là số biểu diễn khối lượng nước đổ vào thùng?\n(A) \\(165\\);                          (B) \\(16500\\);\n(C) \\(33000\\);                      (D) \\(66000\\).\n(Lấy \\(\\displaystyle \\pi  = {{22} \\over 7}\\) và kết quả tính theo kilogam).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng: Công thức tính thể tích hình trụ: \\(V= Sh = πr^2h\\)\n(\\(r\\) là bán kính đường tròn đáy, \\(h\\) là chiều cao, \\(S\\) là diện tích đáy).\nLời giải chi tiết\nTa có: \\(\\displaystyle 2{1 \\over 3}m={7 \\over 3}m\\).\nThể tích nước chứa trong thùng hình trụ là:\n\\(\\displaystyle V= {{22} \\over 7}.{\\left( {{3 \\over 2}} \\right)^2}.{7 \\over 3} = 16,5\\;{m^3} \\)\\(\\,= 16500000\\;(c{m^3})\\).\nKhối lượng nước đổ vào thùng là:\n\\(m=16500000.1=16500000\\;(g)\\)\\(\\,=16500\\;(kg)\\).\nChọn (B).\nLoigiaihay.com"
+    }
+]

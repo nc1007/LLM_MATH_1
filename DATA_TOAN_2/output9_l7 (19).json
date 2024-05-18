@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Lớp 7A có 40 học sinh trong đó có 10 học sinh nam. Giáo viên gọi ngẫu nhiên một bạn lên bảng để kiểm tra bài tập. Hỏi bạn nam hay bạn nữ có khả năng được gọi lên bảng nhiều hơn? Tại sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính số học sinh nữ\n-Số học sinh nào nhiều hơn thì khả năng nhiều hơn\nLời giải chi tiết\nSố học sinh nữ là: 40 – 10 = 30 (học sinh)\nVì 30 > 10 nên số học sinh nữ nhiều hơn số học sinh nam. Do đó, bạn nữ có khả năng được gọi lên bảng nhiều hơn."
+    },
+    {
+        "problem": "Một túi đựng các quả cầu được đánh số 5; 10; 15; 20; 30; 35; 40. Lấy ngẫu nhiên một quả cầu trong túi. Trong các biến cố sau, biến cố nào là biến cố chắc chắn, biến cố không thể hay biến cố ngẫu nhiên?\na)Biến cố A: “Quả cầu được lấy có ghi số chính phương”.\nb)Biến cố B: “ Quả cầu được lấy có ghi số chia hết cho 3”.\nc) Biến cố C: “ Quả cầu được lấy có ghi số chia hết cho 5”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Các hiện tượng, sự kiện xảy ra trong tự nhiên, cuộc sống được gọi chung là các biến cố.\n-Biến cố chắc chắn là biến cố biết trước được luôn xảy ra.\n-Biến cố không thể là biến cố biết trước không bao giờ xảy ra.\n-Biến cố ngẫu nhiên là biến cố không biết trước có xảy ra hay không xảy ra.\na)Các số chính phương viết được dưới dạng a2\nb)Các số chia hết cho 3: 15; 30\nc)Các số chia hết cho 5 có chữ số tận cùng là 0 hoặc 5.\nLời giải chi tiết\na)Ta thấy không có số nào viết được dưới dạng số chính phương nên biến cố A là biến cố không thể.\nb) Các số chia hết cho 3 là: 15; 3\n-Các quả cầu lấy được có thể là 2 số trên nên B là biến cố ngẫu nhiên.\nc)\nTất cả quả cầu đều là các số chia hết cho 5 nên C là biến cố chắc chắn."
+    },
+    {
+        "problem": "Một bài thi trắc nghiệm có 18 câu hỏi được đánh số từ 1 đến 18. Chọn ngẫu nhiên một câu hỏi trong bài thi.\na)Xét hai biến cố sau:\nA: “Số thứ tự của câu hỏi được chọn là số có một chữ số”\nB: “Số thứ tự của câu hỏi được chọn là số có hai chữ số”.\nHai biến cố A và B có đồng khả năng không? Vì sao?\nb) Tính xác suất của hai biến cố A và B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Liệt kê các số có 1 chữ số, 2 chữ số\n-Xác định loại của 2 biến cố này.\nb)\n-Biến cố chắc chắn có xác suất là 1\n-Biến cố không thể có xác suất là 0\nLời giải chi tiết\na)\n-Số thứ tự có 1 chữ số: 1; 2; 3; 4; 5; 6; 7; 8; 9. Có 9 số\n-Số thứ tự có 2 chữ số: 10; 11; 12; 13; 14; 15; 16; 17; 18. Có 9 số\nVậy hai biến cố A và B đồng khả năng vì số lượng câu hỏi mang số thứ tự là số có một chữ số bằng số lượng câu hỏi mang số thứ tự là số có hai chữ số.\nb)\nHai biến cố A và B đồng khả năng nên xác suất của biến cố A là \\(\\dfrac{1}{2}\\). Xác suất của biến cố B là \\(\\dfrac{1}{2}\\)."
+    },
+    {
+        "problem": "Nam, Việt và Mai mỗi người gieo một con xúc xắc. Tính xác suất của biến cố:\na) “Tổng số chấm xuất hiện trên ba con xúc xắc lớn hơn 2”;\nb) “Tích số chấm xuất hiện trên ba con xúc xắc lớn hơn 216”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Xác định các loại biến cố\n-Biến cố chắc chắn có xác suất là 1\n-Biến cố không thể có xác suất là 0.\nLời giải chi tiết\na)\nTổng số chấm xuất hiện trên 3 con xúc xắc luôn lớn hơn hoặc bằng: 1 + 1 + 1 = 3\nĐây là biến cố chắc chắn nên xác suất bằng 1.\nb)\nSố chấm xuất hiện trên 3 con xúc nhiều nhất là 6, 6, 6\nTích xuất hiện trên 3 con xúc xắc luôn nhỏ hơn hoặc bằng 6.6.6 = 216\nVậy đây là biến cố không thể. Xác suất của biến cố không thể là 0."
+    },
+    {
+        "problem": "Điền cụm từ thích hợp (ngẫu nhiên, chắc chắn, không thể) vào chỗ chấm trong các câu sau:\na) Biến cố A: “An là một vận động viên điền kinh. Trong giải chạy sắp tới, An sẽ chạy 100m không quá 30 giây” là biến cố …\nb) Biến cố B: “ Ngày mai, chất lượng không khí tại Hà Nội ở mức tốt” là biến cố…\nc) Biến cố C: “Ông An năm nay 80 tuổi, Ông sẽ sống thọ đến 300 tuổi” là biến cố …",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Các hiện tượng, sự kiện xảy ra trong tự nhiên, cuộc sống được gọi chung là các biến cố.\n-Biến cố chắc chắn là biến cố biết trước được luôn xảy ra.\n-Biến cố không thể là biến cố biết trước không bao giờ xảy ra.\n-Biến cố ngẫu nhiên là biến cố không biết trước có xảy ra hay không xảy ra.\n\nLời giải chi tiết\na)………..chắc chắn (vì chắc chắn An chạy được 100m không quá 30s)\nb)………..ngẫu nhiên (vì chất lượng không khí có thể xấu, rất xấu…)\nc)………..không thể (vì chưa có ai thọ đến 300 tuổi)"
+    },
+    {
+        "problem": "Một tấm bìa cứng hình tròn được chia làm tám phần có diện tích bằng nhau và ghi các số 1; 2; 3; 4; 5; 6; 7; 8; được gắn vào trục quay có mũi tên như hình 8.3\n\nBạn Hùng quay tấm bìa. Tính xác suất để:\na) Mũi tên dừng ở hình quạt ghi số nhỏ hơn 9;\nb) Mũi tên dừng ở hình quạt ghi số nhỏ hơn 0;\nc) Mũi tên dừng ở hình quạt ghi số chẵn;\nd) Mũi tên dừng ở hình quạt ghi số 7 hoặc 8;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Xác định các loại biến cố.\n- Biến cố chắc chắn có xác suất là 1\n- Biến cố không thể có xác suất là 0\nLời giải chi tiết\na)\nCác số đã cho nhỏ hơn 9 nên biến cố: “Mũi tên dừng ở hình quạt ghi số nhỏ hơn 9” là biến cố chắc chắn\nVậy xác suất bằng 1.\nb)\nTa có các số: 1; 2; 3; 4; 5; 6; 7; 8 > 0\nBiến cố: “Mũi tên dừng ở hình quạt ghi số nhỏ hơn 0”\nĐây là biến cố không thể\nVậy xác suất bằng 0\nc)\nTrong các số đã cho có số 2; 4; 6; 8 là các số chẵn nên biến cố: “Mũi tên dừng ở hình quạt ghi số chẵn” là biến cố chắc chắn\nTổng số là 8\nVậy xác suất của biến cố là: \\(\\dfrac{4}{8}=\\dfrac{1}{2}\\)\nd)\nBiến cố: “Mũi tên dừng ở hình quạt ghi số 7 hoặc 8”\nTổng số là 8\nVậy xác suất của biến cố là: \\(\\dfrac{2}{8}=\\dfrac{1}{4}\\)"
+    },
+    {
+        "problem": "Một túi đựng sáu tấm thẻ được ghi các số 9; 10; 11; 12; 13. Rút ngẫu nhiên một tấm thẻ trong túi. Tính xác suất để:\na)Rút được thẻ ghi số chia hết cho 7;\nb)Rút được thẻ ghi số lớn hơn 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Xác định các loại biến cố\n-Biến cố chắc chắn có xác suất là 1\n-Biến cố không thể có xác suất là 0.\nLời giải chi tiết\na)\n6 số trên không có số nào chia hết cho 7 nên đây là biến cố không thể\nVậy xác suất bằng 0.\nb)\nTa có: 9 > 5; 10 > 5; 11 > 5; 12 > 5; 13 > 5\nCác số trên đều lớn hơn 5 nên đây là biến cố chắc chắn\nVậy xác suất bằng 1"
+    },
+    {
+        "problem": "An, Bình và Cường mỗi người gieo một con xúc xắc. Điền cụm từ thích hợp (ngẫu nhiên, chắc chắn, không thể) vào ô trống.\nBiến cố\nLoại biến cố\nSố chấm xuất hiện trên cả ba con xúc xắc đều là 6\n\nSố chấm xuất hiện trên ba con xúc xắc đều nhỏ hơn 7\n\nTích các số chấm xuất hiện trên ba con xúc xắc lớn hơn 216\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+)Liệt kê số chấm có thể xuất hiện trên mỗi xúc xắc\n+)Dựa vào định nghĩa 3 loại biến cố và kết luận.\n-Các hiện tượng, sự kiện xảy ra trong tự nhiên, cuộc sống được gọi chung là các biến cố.\n-Biến cố chắc chắn là biến cố biết trước được luôn xảy ra.\n-Biến cố không thể là biến cố biết trước không bao giờ xảy ra.\n-Biến cố ngẫu nhiên là biến cố không biết trước có xảy ra hay không xảy ra.\nLời giải chi tiết\n- Số chấm xuất hiện trên cả ba con xúc xắc có thể là 1,2,3,4,….nên đây là biến cố ngẫu nhiên.\n- Số chấm xuất hiện trên ba con xúc xắc là các số:1;2;3;4;5;6 đều nhỏ hơn 7 nên biến cố thứ 2 là biến cố chắc chắn.\n- Tích các số chấm xuất hiện trên ba con xúc xắc lớn hơn 216: Ví dụ ba con xúc xắc xuất hiện mặt 6 chấm thì tích: 6.6.6 = 216 nên tích các số chấm xuất hiện nhỏ hơn hoặc bằng 216. Vậy biến cố 3 là biến cố không thể.\nTa có bảng sau:\nBiến cố\nLoại biến cố\nSố chấm xuất hiện trên cả ba con xúc xắc đều là 6\nNgẫu nhiên\nSố chấm xuất hiện trên ba con xúc xắc đều nhỏ hơn 7\nChắc chắn\nTích các số chấm xuất hiện trên ba con xúc xắc lớn hơn 216\nKhông thể"
+    },
+    {
+        "problem": "Một hộp đựng 14 quả cầu được đánh các số 10;11;…; 23. Lấy ngẫu nhiên một quả cầu trong hộp. Tính xác suất để:\na) Quả cầu lấy được ghi số 24;\nb)Quả cầu lấy được ghi số lẻ;\nc) Quả cầu lấy được ghi số 11;\nd) Quả cầu lấy được ghi số 12 hoặc 13.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Xác định loại biến cố để chỉ ra xác suất\nb)Tìm ra 2 biến cố đồng khả năng: số chẵn và số lẻ\nc) và d)\n-Tìm ra các biến cố đồng khả năng\n-Tìm xác suất\nLời giải chi tiết\na)\n14 số trên quả cầu đều nhỏ hơn 24\nBiến cố: “ Quả cầu lấy được ghi số 24” là biến cố không thể\nVậy xác suất bằng 0\nb)\n-Các số lẻ: 11; 13; 15; 17; 19; 21; 23 (7 số)\n-Các số chẵn: 10; 12; 14; 16; 18; 20; 22 (7 số)\nBiến cố: “Quả cầu lấy được ghi số lẻ”\nBiến cố: “Quả cầu lấy được ghi số chẵn”\n=> 2 biến cố trên đồng khả năng. Vậy xác suất của biến cố cần tìm là \\(\\dfrac{1}{2}\\).\nc)\nBiến cố: “Quả cầu lấy được ghi số 11”\nMỗi quả cầu có khả năng lấy được như nhau.\nCó 14 quả cầu nên có 14 biến cố đồng khả năng\nVậy xác suất của biến cố cần xét là \\(\\dfrac{1}{14}\\).\nd)\nXét 7 biến cố sau:\nA1: “Quả cầu lấy được ghi số 10 hoặc 11”\nA2:  “Quả cầu lấy được ghi số 12 hoặc 13”\nA3:  “Quả cầu lấy được ghi số 14 hoặc 15”\nA4:  “Quả cầu lấy được ghi số 16 hoặc 17”\nA5:  “Quả cầu lấy được ghi số 18 hoặc 19”\nA6:  “Quả cầu lấy được ghi số 20 hoặc 21”\nA7:  “Quả cầu lấy được ghi số 22 hoặc 23”\nDo rút ngẫu nhiên nên mỗi quả cầu có khả năng rút được như nhau. Vậy 7 biến cố trên là đồng khả năng\nVậy xác suất của biến cố A2 là \\(\\dfrac{1}{7}\\)."
+    },
+    {
+        "problem": "Tại một hội thảo có 50 đại biểu trong đó có 25 đại biểu nam. Phóng viên chọn ngẫu nhiên một đại biểu để phỏng vấn. Tính xác suất để đại biểu được chọn phỏng vấn là nữ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tìm số đại biểu nữ.\n-Xác suất để đại biểu được chọn phỏng vấn là\nLời giải chi tiết\nSố đại biểu nữ là: 50 – 25 = 25 (đại biểu)\nXét Biến cố: “ Đại biểu được chọn là nữ ”\n\\(\\Rightarrow\\) Xác suất của biến cố cần tìm là: \\(\\dfrac{25}{50}=\\dfrac{1}{2}\\)."
+    },
+    {
+        "problem": "Một tấm bìa cứng hình tròn được chia làm sáu phần có diện tích bằng nhau và ghi các số La Mã I, II, III, IV, V, VI, được gắn vào trục quay có mũi tên ở tâm như Hình 8.1. Bạn Hiền quay tấm bìa.\nTrong các biến cố sau, biến cố nào là biến cố chắc chắn, biến cố nào không thể hay biến cố ngẫu nhiên?\na)Biến cố A: “Mũi tên dừng ở hình quạt có ghi số VII”\nb) Biến cố B: “Mũi tên dừng ở hình quạt có ghi một trong các số I, II, III, IV, V, VI.”\nc) Biến cố C: “Mũi tên dừng ở hình quạt có ghi số I”\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Chỉ ra các số trên hình quạt.\n+) Áp dụng định nghĩa các biến cố.\n-Các hiện tượng, sự kiện xảy ra trong tự nhiên, cuộc sống được gọi chung là các biến cố.\n-Biến cố chắc chắn là biến cố biết trước được luôn xảy ra.\n-Biến cố không thể là biến cố biết trước không bao giờ xảy ra.\n-Biến cố ngẫu nhiên là biến cố không biết trước có xảy ra hay không xảy ra.\nLời giải chi tiết\na)Biến cố A là biến cố không thể vì mặt hình quạt không có số VII\nb)Biến cố B là biến cố chắc chắn vì mặt hình quạt có các số I; II; III; IV; V; VI.\nc)Biến cố C là biến cố ngẫu nhiên vì mũi tên có thể chỉ các số còn lại."
+    },
+    {
+        "problem": "Một hộp đựng 20 quả bóng có cùng kích thước, khác nhau về màu sắc trong đó có 4 quả bóng màu xanh, 4 quả bóng màu đỏ, 4 quả bóng màu tím, 4 quả bóng màu vàng và 4 quả bóng màu trắng. Bạn Minh lấy ngẫu nhiên một quả bóng từ trong hộp.\nXét 5 biến cố sau:\nA: “Minh lấy được quả bóng màu xanh”\nB: “Minh lấy được quả bóng màu đỏ”\nC: “Minh lấy được quả bóng màu trắng”\nD: “Minh lấy được quả bóng màu vàng”\na)Hãy giải thích vì sao các biến cố A, B, C, D, E là đồng khả năng\nb)Tính xác suất các biến cố A, B, C, D, E.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Các biến cố gọi là đồng khả năng nếu khả năng xảy ra của mỗi biến cố như nhau.\n-Nếu có k biến cố đồng khả năng và luôn xảy ra duy nhất một biến cố trong k biến cố thì xác suất của k biến cố đó đều bằng \\(\\dfrac{1}{k}\\)\nLời giải chi tiết\na)\nMỗi quả bóng có khả năng được chọn như nhau. Số quả bóng màu xanh, màu đỏ, màu tím, màu vàng và màu trắng bằng nhau nên các biến cố A, B, C, D, E là đồng khả năng.\nb)\nTa có luôn xảy ra duy nhất 1 biến cố trong 5 biến cố này nên xác suất của 5 biến cố bằng nhau và bằng \\(\\dfrac{1}{5}\\)"
+    },
+    {
+        "problem": "Một túi đựng tám quả cầu được ghi các số 12; 18; 20; 22; 24; 26; 30; 34. Lấy ngẫu nhiên một quả cầu trong túi. Tính xác suất để:\na) Lấy được quả cầu ghi số chia hết cho 3;\nb) Lấy được quả cầu ghi số chia hết cho 11;\nc) Lấy được quả cầu ghi số 12 hoặc 18.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tìm các khả năng để xảy ra mỗi biến cố\nVD: Quả cầu ghi số chia hết cho 3: 12; 18; 24; 30\n-Xác suất = số khả năng xảy ra mỗi biến cố : tổng số quả cầu (8 quả cầu)\nLời giải chi tiết\na)\nBiến cố: “Lấy được quả cầu ghi số chia hết cho 3”\nCác khả năng để xảy ra biến cố là: Lấy được quả cầu ghi số 12; 18; 24; 30\nVậy có 4 quả cầu trên tổng số 8 quả cầu chia hết cho 3.\nXác suất của biến cố cần tìm là \\(\\dfrac{1}{2}\\)\nb)\nBiến cố: “Lấy được quả cầu ghi số chia hết cho 11”\nTrong 8 số trên có 1 số chia hết cho 11 là 22.\nVậy xác suất của biến cố trên là \\(\\dfrac{1}{8}\\)\nc)\nBiến cố: “ Lấy được quả cầu ghi số 12 hoặc 18”\nCó tổng 8 quả cầu mà có 2 quả ghi số: 12; 18\nVậy xác suất của biến cố cần tìm là: \\(\\dfrac{2}{8}=\\dfrac{1}{4}\\)"
+    },
+    {
+        "problem": "Một thùng kín có 40 quả bóng cùng kích thước, một số quả có màu trắng và một số quả có màu đen. Sơn lấy ngẫu nhiên một quả bóng trong thùng. Biết rằng biến cố “Sơn chọn được quả bóng màu trắng” và biến cố “Sơn chọn được quả bóng màu đen” là đồng khả năng. Hỏi trong thùng chứa bao nhiêu quả bóng màu trắng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "2 biến cố trên đồng khả năng và xác suất của biến cố là \\(\\dfrac{1}{2}\\).\nLời giải chi tiết\nTa có: biến cố “Sơn chọn được quả bóng màu trắng” và biến cố “Sơn chọn được quả bóng màu đen” là đồng khả năng.\n=> Số quả bóng màu trắng bằng số quả bóng màu đen (= 40:2 = 20)\nVậy trong thùng có 20 quả bóng màu trắng."
+    },
+    {
+        "problem": "Một chuyến xe khách có 28 hành khách nam và 31 hành khách nữ. Đến một bến xe có một số hành khách nữ xuống xe. Chọn ngẫu nhiên một hành khách còn lại trên xe. Biết rằng xác suất để chọn được hành khách nữ là \\(\\dfrac{1}{2}\\). Hỏi có bao nhiêu hành khách nữ đã xuống xe?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi số hành khách nữ xuống xe là x (người)\n- Số hành khách nữ còn lại trên xe bằng số hành khách nam.\nLời giải chi tiết\nGọi số hành khách nữ xuống xe là x (người) ( x \\(\\in N\\)\nKhi đó trên xe còn: 31 – x (người)\nXác suất để chọn được hành khách nữ là 1/2  nên số hành khách nữ còn lại trên xe bằng số hành khách nam\nDo đó: 31 – x =  28 => x = 31 – 28 => x = 3.\nVậy có 3 hành khách nữ đã xuống xe."
+    },
+    {
+        "problem": "Một chiếc hộp chứa 50 viên bi cùng kích thước gồm một số viên bi màu xanh; một số viên bi màu đỏ; một số viên bi màu trắng; một số viên bi màu tím và một số viên bi màu vàng. Bạn Bình lấy ngẫu nhiên 1 viên bi trong hộp. Biết rằng 5 biến cố sau đây là đồng khả năng:\nA: “Bình lấy được viên bi màu xanh”;\nB: “Bình lấy được viên bi màu đỏ”;\nC: “Bình lấy được viên bi màu trắng”;\nD: “Bình lấy được viên bi màu tím”;\nE: “Bình lấy được viên bi màu vàng”.\nHỏi trong hộp chứa bao nhiêu viên bi mỗi loại?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu có k biến cố đồng khả năng và luôn xảy ra duy nhất một biến cố trong k biến cố thì xác suất của k biến cố đó đều bằng \\(\\dfrac{1}{k}\\).\nLời giải chi tiết\nDo lấy ngẫu nhiên nên mỗi viên bi có khả năng được lấy như nhau.\n5 biến cố trên đồng khả năng nên số viên bi màu xanh, màu đỏ, màu trắng, màu tím và màu vàng bằng nhau\nVậy số viên bi mỗi loại là: 50  : 5 = 10 (viên bi)."
+    }
+]

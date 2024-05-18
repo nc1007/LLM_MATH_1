@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Gọi A là tập hợp các số tự nhiên lớn hơn 3 và không lớn hơn 7a) Viết tập hợp A bằng 2 cách: Liệt kê các phần tử và nêu dấu hiệu đặc trưng cho các phần tửb) Trong các số tự nhiên nhỏ hơn 10, những số nào không phải là phần tử của tập A?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mô tả một tập hợp bằng 2 cách\nCách 1: Liệt kê các phần tử của tập hợp( viết các phần tử của tập hợp trong dấu ngoặc{} theo thứ tự tùy ý nhưng mỗi phần tử chỉ được viết 1 lần\nCách 2: Nêu dấu hiệu đặc trưng cho các phần tử của tập hợp\nLời giải chi tiết\na) Cách 1: A={4;5;6;7}\nCách 2: A={\\(n \\in N | 3 < x \\le 7\\)}\nb)  Các số tự nhiên nhỏ hơn 10 là 0;1;2;3;4;5;6;7;8;9. Trong các số đó, những số không phải là phần tử của tập A là 0;1;2;3;8;9"
+    },
+    {
+        "problem": "a) Viết số tự nhiên nhỏ nhất có bốn chữ sốb) Viết số tự nhiên nhỏ nhất có bốn chữ số khác nhauc) Viết số tự nhiên nhỏ nhất có bốn chữ số khác nhau và đều là số chẵnd) Viết số tự nhiên nhỏ nhất có bốn chữ số khác nhau và đều là số lẻ\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Chọn chữ số hàng nghìn\nBước 2: Chọn chữ số hàng trăm\nBước 3: Chọn chữ số hàng chục\nBước 4: Chọn chữ số hàng đơn vị\nLời giải chi tiết\na) Vì chữ số hàng nghìn khác 0 nên nên để số nhỏ nhất thì chữ số đầu tiên phải là 1\nBa chữ số tiếp theo nhỏ nhất là số 0\nVậy số tự nhiên nhỏ nhất có bốn chữ số: 1000\nb) Một số có bốn chữ số khác nhau là số nhỏ nhất thì:\nChữ số hàng nghìn của nó phải là số nhỏ nhất khác 0 tức là số 1\nChữ số hàng trăm phải là số nhỏ nhất khác 1 tức là số 0\nChữ số hàng chục phải là số nhỏ nhất khác 0 và 1 tức là số 2\nChữ số hàng đơn vị phải nhỏ nhất khác 0,1,2 tức là số 3\nVây số tự nhiên nhỏ nhất có bốn chữ số khác nhau: 1023\nc) Một số có bốn chữ số khác nhau và đều là số chẵn là số nhỏ nhất thì:\nChữ số chẵn hàng nghìn của nó phải là số nhỏ nhất khác 0 là số 2\nChữ số chẵn hàng trăm phải là số nhỏ nhất khác 2 tức là số 0\nChữ số chẵn hàng chục phải là số nhỏ nhất khác 0 và 2 tức là số 4\nChữ số chẵn hàng đơn vị phải nhỏ nhất khác 0,2,4 tức là số 6\nVậy số tự nhiên nhỏ nhất có bốn chữ số khác nhau và đều là số chẵn: 2046\nd) Một số có bốn chữ số khác nhau và đều là số lẻ là số nhỏ nhất thì:\nChữ số lẻ hàng nghìn của nó phải là số nhỏ nhất khác 0 là số 1\nChữ số lẻ hàng trăm phải là số nhỏ nhất khác 1 tức là số 3\nChữ số lẻ hàng chục phải là số nhỏ nhất khác 1 và 3 tức là số 5\nChữ số lẻ hàng đơn vị phải nhỏ nhất khác 1,3,5 tức là số 7\nVậy số tự nhiên nhỏ nhất có bốn chữ số khác nhau và đều là số lẻ: 1357"
+    },
+    {
+        "problem": "Ta đã biết: Giá trị của mỗi chữ số của một số tự nhiên trong hệ thập phân phụ thuộc vào vị trí của nó. Chẳng hạn, chữ số 2 có giá trị bằng 2 nếu nó nằm ở hàng đơn vị, có giá trị bằng 20 nếu nó nằm ở hàng chục,... Tuy nhiên có một chữ số mà giá trị của nó không thay đổi dù nó nằm ở bất kì vị trí nào, đó là chữ số nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 0 nhân với bất cứ số nào cũng bằng 0\nLời giải chi tiết\nVì 0 có giá trị bằng 0 khi nó ở bất cứ hàng nào nên chữ số mà giá trị của nó không thay đổi dù nó nằm ở bất kì vị trí nào, đó là chữ số 0."
+    },
+    {
+        "problem": "Một xe ô tô chở 30 bao gạo và 40 bao ngô. Biết rằng mỗi bao gạo nặng 50kg, mỗi bao ngô nặng 60kg. Hỏi xe ô tô chở tất cả bao nhiêu kilôgam gạo và ngô?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta tính tổng số gạo và số ngô xe chở.\nLời giải chi tiết\nCách 1:\nSố kilôgam gạo xe ô tô chở là:\n50.30 = 1 500 (kg)\nSố kilôgam ngô xe ô tô chở là:\n60.40 = 2 400 (kg)\nXe ô tô chở tất cả số kilôgam gạo và ngô là:\n1 500 + 2 400 = 3 900 (kg)\nVậy xe ô tô chở tất cả 3 900 kg gạo và ngô.\nCách 2:\nXe ô tô chở tất cả số kilôgam gạo và ngô là:\n50.30 + 60.40 = 3 900 (kg)\nVậy xe ô tô chở tất cả 3 900 kg gạo và ngô."
+    },
+    {
+        "problem": "Trong tháng 7 nhà ông Khánh dùng hết 115 số điện. Hỏi ông Khánh phải trả bao nhiêu tiền điện, biết đơn giá điện như sau:Giá tiền cho 50 số đầu tiên là 1 678 đồng/số;Giá tiền cho 50 số tiếp theo (từ số 51 đến số 100) là 1 734 đồng/số;Giá tiền cho 100 số tiếp theo (từ số 101 đến số 200) là 2 014 đồng/số.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền điện ông phải trả cho từng mốc rồi tính tổng số tiền phải trả.\nSố tiền phải trả cho từng mốc = Giá tiền mốc đó . Số điện dùng mốc đó\nLời giải chi tiết\nSố điện ông Khánh dùng từ số 101 đến 115 số là:\n(115 – 101) : 1 + 1 = 15 (số)\nSố tiền ông Khánh phải trả cho 50 số điện đầu tiên là:\n1 678. 50 = 83 900 (đồng)\nSố tiền ông Khánh phải trả từ số 51 đến số 100 là:\n1 734. 50 = 86 700 (đồng)\nSố tiền phải trả từ số 101 đến 115 là:\n2 014. 15 = 30 210 (đồng)\nVậy ông Khánh phải trả số tiền:\n83 900 + 86 700 + 30 210 = 200 810 (đồng)."
+    },
+    {
+        "problem": "Viết kết quả phép tính dưới dạng một luỹ thừa:\na) 53.57;               b) 24 . 28. 29;           c) 102. 104. 106. 108\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "am.an=am+n\nLời giải chi tiết\na) 53.57 = 53+7 = 510\nb) 24.25.29=24+5+9  = 218\nc) 102.104.106.108 = 102+4+6+8 = 1020."
+    },
+    {
+        "problem": "a) Viết kết quả phép chia sau dưới dạng một luỹ thừa của 6:\n\\({6^5}:{6^2} = \\frac{{{6^5}}}{{{6^2}}} = \\frac{{6.6.6.6.6}}{{6.6}} = ?\\)\nb) Sử dụng câu a) để suy ra \\(6^5:6^3=6^2\\). Nêu nhận xét về mối liên hệ giữa các số mũ của 6 trong số bị chia, số chia và thương tìm được ở câu a).\nc) Viết thương của phép chia \\(10^7 : 10^4\\) dưới dạng lũy thừa của 10\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Rút gọn rồi viết kết quả dưới dạng một luỹ thừa của 6\nb) Quan sát kết quả câu a) và nhận xét.\nLời giải chi tiết\na)  \\({6^5}:{6^2} = \\frac{{{6^5}}}{{{6^2}}} = \\frac{{6.6.6.6.6}}{{6.6}} = 6.6.6 = {6^3}\\)\nb) Ta có 65 = 63.62 nên 65: 63 = 62.\nTa có: 5 - 2 = 3\nNhận xét: Hiệu số mũ của 6 trong số bị chia và số chia bằng số mũ của 6 trong thương tìm được.\nc) Vì \\(10^7 = 10^{4+3}=10^4.10^3\\) nên \\(10^7:10^4=10^3\\)"
+    },
+    {
+        "problem": "Viết kết quả các phép tính dưới dạng một luỹ thừa:\na) 76 : 74;                          b) 1 091100 : 1 091100\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "am:an = am-n\nLời giải chi tiết\na) 76:74 = 76−4 = 72\nb) 1091100: 1091100 = 1091100−100  = 10910\nLoigiaihay.com\n"
+    },
+    {
+        "problem": "Viết các tích sau dưới dạng một luỹ thừa:\na) 9.9.9.9.9;                    b) 10. 10. 10. 10.\nc) 5.5.5.25                      d) a.a.a.a.a.a\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa lũy thừa: \\(x.x....x= x^n\\)(n thừa số \\(x\\))\nLời giải chi tiết\na) 9 . 9 . 9 . 9 . 9 = 95\nb) 10 . 10 . 10 . 10 = \\(10^4\\)\nc) 5.5.5.25=5.5.5.5.5=\\(5^5\\)\nd) a.a.a.a.a.a=\\(a^6\\)"
+    },
+    {
+        "problem": "Viết các số sau thành tổng giá trị các chữ số của nó bằng cách dùng các luỹ thừa của 10:\n215;    902;    2020;    883 001.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\overline {abcd}  = a{.10^3} + b{.10^2} + c{.10^1} + d.10^0\\). Tương tự như vậy với các số có 3 và 6 chữ số\nLời giải chi tiết\n\\(215 = 2. 10^2 + 1. 10^1 + 5. 10^0\\)\n\\(902 = 9.10^2 + 0.10^1+ 2 . 10^0\\)\n\\(2 020 = 2.10^3+0.10^2+2.10^1+0. 10^0\\)\n\\(883 001 = 8.10^5+8.10^4+3.10^3+0.10^2+0.10^1+1. 10^0\\)\nLoigiaihay.com"
+    }
+]

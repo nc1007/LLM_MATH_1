@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "a) Viết các số 14 và 27 bằng số La Mã.\nb) Đọc các số La Mã XVI, XXII.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xem cách viết số La Mã SGK (Trang 11)\nLời giải chi tiết\na) Số 14: XIV\nSố 27: XXVII\nb) XVI: Mười sáu\nXXII: Hai mươi hai\nLời giải hay"
+    },
+    {
+        "problem": "Sử dụng đúng 7 que tính, em xếp được những số La Mã nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ghép các que tính thành các số La Mã\nLời giải chi tiết\nCác số có thể ghép được: XVIII (18), XXIII (23), XXIV (24), XXVI (26), XXIX(29), XXXI(31)."
+    },
+    {
+        "problem": "Cho các số: 27 501; 106 712; 7 110 385; 2 915 404 267 (viết trong hệ thập phân)\na) Đọc mỗi số đã cho\nb) Chữ số 7 trong mỗi số đã cho có giá trị bằng bao nhiêu\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Đọc các số đã cho\nb) Số 7 đứng ở hàng nào thì nhân 7 với số tương ứng.\nLời giải chi tiết\na)\n27 501: Hai mươi bảy nghìn năm trăm lẻ một\n106 712: Một trăm lẻ sáu nghìn bảy trăm mười hai\n7 110 385: Bảy triệu một trăm mười nghìn ba trăm tám mươi lăm\n2 915 404 267: Hai tỉ chín trăm mười lăm triệu bốn trăm lẻ bốn nghìn hai trăm sáu mươi bảy.\nb)\n27 501: chữ số 7 nằm ở hàng nghìn và có giá trị là 7x1 000 = 7 000\n106 712: chữ số 7 nằm ở hàng trăm và có giá trị là 7x 100 = 700\n7 110 385: chữ số 7 nằm ở hàng triệu và có giá trị là 7x 1 000 000 = 7 000 000\n2 915 404 267: chữ số 7 nằm ở hàng đơn vị và có giá trị là 7x1 = 7\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chữ số 4 đứng ở hàng nào trong một số tự nhiên nếu nó có giá trị bằng\na) 400\nb) 40\nc) 4\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số chữ số 0 sau số 4, nếu không có số 0 thì 4 đứng ở hàng đơn vị, có 1 số 0 thì 4 đứng ở hàng chục, có hai số 0 thì 4 đứng ở hàng trăm.\nLời giải chi tiết\na) Vì 400 = 4 x 100 nên chữ số 4 có giá trị bằng 400 khi nó đứng ở hàng trăm.\nb) Vì 40 = 4 x 10 nên chữ số 4 có giá trị bằng 40 khi nó đứng ở hàng chục.\nc) Vì 4 = 4 x 1 nên chữ số 4 có giá trị bằng 4 khi nó đứng ở hàng đơn vị."
+    },
+    {
+        "problem": "Đọc các số La Mã XIV; XVI; XXIII.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc các số La Mã đã cho\nLời giải chi tiết\nXIV : mười bốn\nXVI : mười sáu\nXXIII: hai mươi ba"
+    },
+    {
+        "problem": "Viết các số sau bằng số La Mã: 18, 25\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết các số đã cho bằng số La Mã\nLời giải chi tiết\n18: XVIII\n25: XXV"
+    },
+    {
+        "problem": "Một số tự nhiên được viết bởi ba chữ số 0 và ba chữ số 9 nằm xen kẽ nhau. Đó là số nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Do số 0 không thể đứng đầu tiên từ trái qua phải nên ta viết số 9 đứng đầu su đó viết các số xen kẽ nhau\nLời giải chi tiết\nVì số 0 không thể đứng đầu nên số cần tìm là 909 090.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng các chữ số 0, 3 và 5, viết một số tự nhiên có ba chữ số khác nhau mà chữ số 5 có giá trị là 50.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lưu ý chữ số 0 không thể đứng ở hàng trăm.\nLời giải chi tiết\nChữ số 5 có giá trị là 50 nên nó ở hàng chục.\nSố 0 không thể đứng đầu nên chữ số 3 ở hàng trăm và chữ số 0 ở hàng đơn vị.\nVậy số cần tìm là 350."
+    },
+    {
+        "problem": "Trong một cửa hàng bánh kẹo, người ta đóng gói kẹo thành các loại: mỗi gói có 10 cái kẹo, mỗi hộp có 10 gói, mỗi thùng có 10 hộp. Một người mua 9 thùng, 9 hộp và 9 gói kẹo. Hỏi người đó đã mua tất cả bao nhiêu cái kẹo\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số cái kẹo có trong 1 hộp\nTính số cái kẹo có trong 1 thùng\n=> Tính số kẹo trong 9 thùng, 9 hộp và 9 gói kẹo.\nLời giải chi tiết\nSố cái kẹo trong 1 gói là: 10 (cái kẹo)\nSố cái kẹo có trong 1 hộp là: 10 x 10 = 100 (cái kẹo)\nSố cái kẹo có trong 1 thùng là: 100 x 10 = 1 000 (cái kẹo)\nVậy một người mua 9 thùng, 9 hộp và 9 gói kẹo thì số kẹo người đó đã mua tất cả là:\n9 x 1000 + 9 x 100 + 9 x 10 = 9990 (cái kẹo)\nĐáp số 9990 cái kẹo."
+    },
+    {
+        "problem": "Trong hai điểm 5 và 8 trên tia số, điểm nào nằm trên trái, điểm nào nằm bên phải điểm kia?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát tia số và trả lời\nLời giải chi tiết\nĐiểm 5 nằm bên trái điếm 8, điểm 8 nằm bên phải điếm 5."
+    },
+    {
+        "problem": "Điểm biểu diễn số tự nhiên nào nằm ngay bên trái điểm 8?\nĐiểm biểu diễn số tự nhiên nào nằm ngay bên phải điểm 8?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát tia số, điểm biểu diễn số nhỏ hơn thì nằm bên trái điểm biểu diễn số lớn hơn\nLời giải chi tiết\nĐiểm 7 biểu diễn số tự nhiên nằm ngay bên trái điểm 8.\nĐiểm 9 biểu diễn số tự nhiên nằm ngay bên phải điểm 8."
+    },
+    {
+        "problem": "Cho n là một số tự nhiên nhỏ hơn 7. Theo em, điểm n nằm bên trái hay bên phải điểm 7?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát tia số, điểm biểu diễn số nhỏ hơn thì nằm bên trái điểm biểu diễn số lớn hơn\nLời giải chi tiết\nn là một số tự nhiên nhỏ hơn 7 thì điểm n nằm bên trái điểm 7."
+    },
+    {
+        "problem": "a) Hãy so sánh hai số tự nhiên sau đây, dùng kí hiệu \"=\" hay \">\" để viết kết quả:\nm = 12 036 001 và n = 12 035 987\nb) Trên tia số (nằm ngang), trong hai điểm m và n, điểm nào nằm trước?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh hai số m và n có số chữ số bằng nhau. Đi từ trái sang phải, so sánh các chữ số ở các hàng tương ứng.\nb) Trên tia số, điểm nào nhỏ hơn thì điểm đó nằm trước điểm còn lại\nLời giải chi tiết\na) Vì hàng chục triệu, triệu, trăm nghìn, chục nghìn có các chữ số giống nhau, nhưng ở hàng nghìn ta thấy 6 > 5 nên 12 036 001 > 12 035 987. Vậy m>n\nb) Vì m>n nên trên tia số điểm n nằm trước điểm m"
+    },
+    {
+        "problem": "Theo dõi kết quả bán hàng trong ngày của một cửa hàng, người ta nhận thấy:\nSố tiền thu được vào buổi sáng nhiều hơn vào buổi chiều,\nSố tiền thu được vào buổi tối ít hơn vào buổi chiều\nHãy so sánh số tiền thu được (đều là số tự nhiên) của cửa hàng đó vào buổi sáng và buổi tối.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi số tiền cửa hàng đó thu được vào buổi sáng, buổi chiều và buổi tối lần lượt là a, b, c. Dựa vào đề bài so sánh a,b,c\nLời giải chi tiết\nGọi số tiền cửa hàng đó thu được vào buổi sáng, buổi chiều và buổi tối lần lượt là a, b, c (a, b, c là các số tự nhiên)\nSố tiền thu được vào buổi sáng nhiều hơn vào buổi chiều nên a > b\nSố tiền thu được vào buổi tối ít hơn vào buổi chiều nên c < b hay b > c\nTheo tính chất bắc cầu ta được: a > c\nVậy số tiền thu được vào buổi sáng nhiều hơn vào buổi tối"
+    },
+    {
+        "problem": "Trong các số 3;5;8;9 số nào thuộc tập hợp A= { \\(x \\in N|x \\ge 5\\)},  số nào thuộc tập hợp B= { \\(x \\in N|x \\le 5\\)}?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có thể mô tả lại tập hợp bằng cách liệt kê\nLời giải chi tiết\nA={5;6;7;8;...}\nB={0;1;2;3;4;5}\nTa có: \\(5,8,9 \\in A\\)\n\\(3,5 \\in B\\)"
+    },
+    {
+        "problem": "Viết thêm các số liền trước và liền sau của hai số 3 532 và 3 529 để được sáu số tự nhiên rồi sắp xếp sáu số tự nhiên đó theo thứ tự từ bé đến lớn:\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết thêm các số liền trước và liền sau của hai số 3 532 và 3 529 để được sáu số tự nhiên, rồi so sánh để viết sáu số tự nhiên đó theo thứ tự từ bé đến lớn.\nLời giải chi tiết\nCác số liền trước và liền sau của số 3 532 là: 3 531 ; 3 533\nCác số liền trước và liền sau của số 3529 là: 3 528 ; 3530\nSáu số trên được sắp xếp theo thứ tự từ bé đến lớn là:\n3 528; 3 529; 3 530; 3 531; 3 532; 3 533\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho ba số tự nhiên a, b, c, trong đó a là số nhỏ nhất. Biết rằng trên tia số, điểm b nằm giữa hai điểm a và c. Hãy dùng kí hiệu \"=\" để mô tả thứ tự của ba số a, b, c. Cho ví dụ bằng số cụ thể.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a < b thì trên tia số, a nằm bên trái b .\nLời giải chi tiết\nSố a nhỏ nhất nên điểm a nằm bên trái hai điểm b và c.\nMà điểm b nằm giữa hai điểm a và c nên điểm b nằm bên trái điểm c\nDo đó b < c\nVì a bé nhất nên ta có a < b < c\n* Ví dụ: a = 5; b = 7; c = 8\nSố a bé nhất và điểm b nằm giữa hai điểm a và c trên tia số.\nLoigiaihay.com"
+    }
+]

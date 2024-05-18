@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1.Điền vào chỗ trống sau: “Đường thẳng vuông góc với một đoạn thẳng tại … của nó được gọi là đường trung trực của đoạn thẳng đó”. \nA. Trung trực;\nB. Trung điểm;\nC. Trọng tâm;\nD. Giao điểm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nĐường thẳng vuông góc với một đoạn thẳng tại trung điểm của nó được gọi là đường trung trực của đoạn thẳng đó."
+    },
+    {
+        "problem": "Câu 2. Điền vào chỗ trống sau: “Điểm … hai đầu mút của một đoạn thẳng thì nằm trên đường trung trực của đoạn thẳng đó”\nA. Thuộc;\nB. Nằm trên;\nC. Cách đều; \nD. Nằm trong.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐiểm cách đều hai đầu mút của một đoạn thẳng thì nằm trên đường trung trực của đoạn thẳng đó."
+    }
+]

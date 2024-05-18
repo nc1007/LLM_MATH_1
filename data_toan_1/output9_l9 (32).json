@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Giả sử có một cây gậy và muốn tìm điểm chính giữa của cây gậy đó. Em sẽ làm thế nào nếu:\na. Dùng thước đo độ dài;\nb. Chỉ dùng một sợi dây đủ dài.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Điểm nằm giữa đoạn thẳng và chia đoạn thẳng thành 2 phần bằng nhau là trung điểm của đoạn thẳng đó.\nLời giải chi tiết\na. Dùng thước đo độ dài tìm điểm chính giữa của cây gậy ta làm như sau:\n- Dùng thước đo độ dài của cây gậy.\n- Lấy kết quả đo đó chia đôi, ta được khoảng cách từ trung điểm cây gậy đến các đầu mút của cây gậy.\n- Dùng thước đo lại với khoảng cách vừa tìm được ta xác định được trung điểm của cây gậy.\nb. Dùng sợi dây để tìm điểm chính giữa của cây gậy ta làm như sau :\n- Ta đặt sợi dây sao cho thu được một đoạn bằng độ dài của cây gậy\n- Ta gập đoạn sợi dây đó lại sao cho hai đầu sợi dây trùng nhau. Nếp gập chia sợi dây thành hai phần bằng nhau.\nSau đó ta đặt sợi dây vừa gập lên cây gậy ta sẽ tìm được điểm chia cây gậy thành hai phần bằng nhau đó chính là trung điểm của cây gậy."
+    }
+]

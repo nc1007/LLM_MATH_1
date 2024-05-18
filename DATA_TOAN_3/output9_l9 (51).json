@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Một hình trụ có bán kính đáy là \\(7cm\\), diện tích xung quang bằng \\(352{\\rm{ }}c{m^2}\\). Khi đó chiều cao của hình trụ là:\n(A) \\(3,2 cm\\)                      (B) \\(4,6 cm\\)\n(C) \\(1,8 cm\\)                      (D) \\(2,1 cm\\)\n(E) Một kết quả khác\nHãy chọn kết quả đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Diện tích xung quanh của hình trụ có bán kính đáy \\(r\\) và chiều cao \\(h\\) là \\({S_{xq}} = 2\\pi rh\\) . Từ đó tính chiều cao hình trụ.\nLời giải chi tiết\nTheo công thức ta có\n\\({S_{xq}} = 2\\pi rh \\Leftrightarrow h = \\dfrac{{{S_{xq}}}}{{2\\pi r}} = \\dfrac{{352}}{{2.\\pi .7}}\\)\\( \\approx 8\\left( {cm} \\right)\\)\nVậy kết quả đúng là đáp án E.\n\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chiều cao của một hình trụ bằng bán kính đường tròn đáy. Diện tích xung quanh của hình trụ là \\(314 cm\\)2. Hãy tính bán kính đường tròn đáy và thể tích hình trụ (làm tròn kết quả đến chữ số thập phân thứ hai).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Hình trụ có \\(r\\) là bán kính đáy và \\(h\\) là chiều cao thì  thể tích hình trụ \\(V = \\pi {r^2}h\\), diện tích xung quanh \\({S_{xq}} = 2\\pi rh\\).\nLời giải chi tiết\nTheo công thức \\({S_{xq}} = 2\\pi rh,\\) mà \\(h = r \\Rightarrow 314 = 2\\pi {r^2}\\) với \\(\\pi  \\approx 3,14.\\)\nVậy  \\({r^2} = \\dfrac{{314}}{{2\\pi }} = 50 \\Rightarrow r  \\approx 5\\sqrt 2\\)\\(  \\approx 7,07\\left( {cm} \\right).\\)\nTheo công thức \\(V = \\pi {r^2}h,\\) vì \\(h \\approx 5\\sqrt 2\\,cm\\) và \\(r \\approx 5\\sqrt 2 \\,cm\\) nên\n\\(V= \\pi {r^2}h \\approx 3,14.{\\left( 5\\sqrt 2 \\right)^3}\\)\\( \\approx 1110,16\\left( {c{m^3}} \\right).\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hình chữ nhật ABCD (AB = 2a, BC = a). Quay hình chữ nhật đó quanh AB thì được được hình trụ có thể tích V1; quanh BC thì được hình trụ có thể tích V2. Trong các đẳng thức dưới đây, hãy chọn đẳng thức đúng.\n(A) \\({V_1} = {V_2}\\)                 (B) \\({V_1} = 2{V_2}\\)\n(C) \\({V_2} = 2{V_1}\\)               (D) \\({V_2} = 3{V_1}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Xác định chiều cao và bán kính đáy của mỗi hình trụ\n+ Hình trụ có \\(r\\) là bán kính đáy và \\(h\\) là chiều cao thì  thể tích hình trụ \\(V = \\pi {r^2}h\\)\nLời giải chi tiết\n\\({V_1} = \\pi .B{C^2}.AB = \\pi {a^2}.2a = 2\\pi {a^3}\\)\n\\({V_2} = \\pi .A{B^2}.BC = \\pi {\\left( {2a} \\right)^2}.a = 4\\pi {a^3}\\)\nVậy đẳng thức đúng là \\({V_2} = 2{V_1}.\\)\nChọn C.\n\nLoigiaihay.com"
+    },
+    {
+        "problem": "Người ta nhúng hoàn toàn một tượng đá nhỉ vào một lọ thủy tinh có nước dạng hình trụ. DIện tích đáy của lọ thủy tinh là \\(12,8 cm\\)2. Nước trong lọ dâng lên thêm \\(8,5 mm\\). Hỏi thể tích của tượng đá là bao nhiêu ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính thể tích lượng nước dâng lên bằng công thức \\(V = S.h\\) với \\(S\\) là diện tích đáy và \\(h\\) là chiều cao mực nước.\nLời giải chi tiết\n\\(V\\) là thể tích tượng đá. Lượng nước dâng thêm có thể tích bằng thể tích hình trụ có diện tích đáy \\(12,8c{m^2}\\) và chiều cao \\(h = 8,5mm\\) và bằng thể tích tượng đá. Do đó :\nVới \\(h = 8,5mm = 0,85cm\\) và \\(S = 12,8c{m^2} \\) \\(\\Rightarrow V = Sh = 12,8.0,85 = 10,88c{m^3}\\)\nVậy thể tích tượng đá là \\(10,88c{m^3}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đường ống nối hai bể cá trong một thủy cung ở miền nam nước Pháp có dạng một hình trụ với độ dài \\(30 m\\). Dung tích của đường ống nói trên là \\(1800000\\) lít. Tính diện tích đáy của đường ống.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng công thức thể tích hình trụ có diện tích đáy \\({S_d}\\) và chiều cao \\(h\\) là \\(V = {S_d}.h.\\)\nLời giải chi tiết\nTa có : \\(1000l = 1{m^3}\\) ;        \\(V = \\,1\\,800\\,000\\) lít\\( = 1800{m^3}\\)  và \\(h = 30m.\\)\nTừ công thức \\(V = {S_d}.h\\) \\( \\Rightarrow {S_d} = \\dfrac{V}{h} = \\dfrac{{1800}}{{30}} = 60\\left( {{m^2}} \\right).\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nếu thể tích của một hình cầu là \\(113\\dfrac{1}{7}\\,c{m^3}\\)  thì trong các kết quả sau đây, kết quả nào là bán kính của nó (lấy \\(\\pi  = \\dfrac{{22}}{7})?\\)\nA.\\(2cm\\)                                     B. \\(3cm\\)\nC. \\(5cm\\)                                    D. \\(6cm\\)\nE. Một kết quả khác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ công thức tính thể tích hình cầu \\(V = \\dfrac{4}{3}\\pi {R^3}\\) ta tính bán kính mặt cầu \\(R = \\sqrt[3]{{\\dfrac{{3V}}{{4\\pi }}}}\\)\nLời giải chi tiết\nTa có thể tích \\(V = 113\\dfrac{1}{7} = \\dfrac{{792}}{7}\\) và theo công thức \\(V = \\dfrac{4}{3}\\pi {R^3}\\)\n\\( \\Rightarrow \\dfrac{{792}}{7} = \\dfrac{4}{3} \\cdot \\dfrac{{22}}{7}{R^3}\\) hay \\(R = \\sqrt[3]{{\\dfrac{{792.3.7}}{{7.4.22}}}} = 3\\,\\left( {cm} \\right).\\)\nVậy kết quả đúng là \\(R = 3cm.\\)\nChọn B.\nLoigiaihay.com\n"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Bài 22: Tính độ dài của một chiếc hộp hình lập phương, biết rằng nếu độ dài mỗi cạnh của hộp tăng thêm 2 cm thì diện tích phải sơn 6 mặt bên ngoài của hộp đó tăng thêm 216 cm^{2} \nA. 4 cm\nB. 8 cm\nC. 6 cm\nD. 5 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDiện tích phải sơn một mặt của hình hộp tăng thêm 216 : 6 = 36 (cm^{2} )\nGọi độ dài cạnh của hình lập phương là x (cm), x > 0\nPhương trình (x + 2)^{2}  – x^{2}  = 36\n⇔ x^{2}  + 4x + 4 – x^{2}  = 36\n⇔ 4x = 32\n⇔ x = 8 (TM)\nĐộ dài cạnh của chiếc hộp là 8 cm.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 23: Tính độ dài của một chiếc hộp hình lập phương, biết rằng nếu độ dài mỗi cạnh của hộp tăng thêm 3 cm thì diện tích phải sơn 6 mặt bên ngoài của hộp đó tăng thêm 342 cm^{2} \nA. 4 cm\nB. 8 cm\nC. 6 cm\nD. 5 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDiện tích phải sơn một mặt của hình hộp tăng thêm 342 : 6 = 57 (cm^{2} )\nGọi độ dài cạnh của hình lập phương là x (cm), x > 0\nPhương trình (x + 3)^{2}  – x^{2}  = 57\n⇔ x^{2}  + 6x + 9 – x^{2}  = 57\n⇔ 6x = 48\n⇔ x = 8\nĐộ dài cạnh của chiếc hộp là 8 cm.\nĐáp án cần chọn là: B"
+    }
+]

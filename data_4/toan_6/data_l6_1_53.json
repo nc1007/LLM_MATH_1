@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "B.X = {N}\nC.X = {S}\nD.X = {NN, S}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhép thử nghiệm tung đồng xu có kết quả có thể là sấp (S) hoặc ngửa (N).\nVậy tập hợp các kết quả có thể xảy ra là X = {N, S} \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2: Hãy viết tập hợp các kết quả có thể xảy ra khi gieo một con xúc xắc 6 mặt\nA.1; 2; 3; 4; 5; 6\nB.Y = 6\nC.6\nD.Y = {1; 2; 3; 4; 5; 6}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác kết quả có thể xảy ra khi gieo một con xúc xắc 6 mặt là: 1 chấm, 2 chấm, 3 chấm, 4 chấm, 5 chấm, 6 chấm.\nVậy tập hợp cần tìm là Y = {1; 2; 3; 4; 5; 6} \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3: Trong hộp có 10 lá thư có bì thư giống nhau, bên trong mỗi bì thư có 1 mảnh giấy và được đánh số từ 1 đến 10. Mỗi bạn lấy ngẫu nhiên một bì thư, xem số ghi trên lá thư rồi trả lại vào bì và cho vào hộp. Tập hợp tất cả các kết quả có thể xảy ra là:\nA.A = {1; 2; 3; 4; 5; 6; 7; 8; 9; 10}\nB.A = {10}\nC.10\nD.1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số có thể ghi trên lá thư là 1; 2; 3; 4; 5; 6; 7; 8; 9; 10 nên tập hợp tất cả các kết quả có thể xảy ra là A = {1; 2; 3; 4; 5; 6; 7; 8; 9; 10}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4: Trong một hộp có 1 quả bóng xanh và 9 bóng vàng có kích thước giống nhau. An lấy ra đồng thời 2 bóng từ hộp, hỏi có tất cả bao nhiêu kết quả có thể xảy ra?\nA.1\nB.2\nC.3\nD.4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác kết quả có thể xảy ra là: (1 xanh + 1 vàng) ; (2 vàng).\nVậy có 2 kết quả có thể xảy ra.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5: Phép thử nghiệm: Bạn Ngô chọn một ngày trong tuần để đá bóng. Có tất cả bao nhiêu kết quả có thể xảy ra của phép thử nghiệm này.\nA.5\nB.6\nC.7\nD.4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMột tuần có 7 ngày nên Ngô có thể chọn một trong 7 ngày đó để đi đá bóng. Hay số kết quả có thể xảy ra là 7.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6: Cho phép thử nghiệm gieo con xúc xắc 6 mặt. Sự kiện nào trong các sự kiện sau có thể xảy ra:\nA.“Số chấm nhỏ hơn 5”\nB.“Số chấm lớn hơn 6”\nC.“Số chấm bằng 0”\nD.“Số chấm bằng 7”",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác kết quả có thể xảy ra khi gieo một con xúc xắc 6 mặt là: 1 chấm, 2 chấm, 3 chấm, 4 chấm, 5 chấm, 6 chấm.\nKhi đó số chấm nhỏ hơn 5 có thể xảy ra. Đáp án A đúng.\nSố chấm tối đa là 6 nên B sai.\nKhông có số chấm bằng 0 trong các kết quả có thể xảy ra nên C sai.\nKhông có số chấm bằng 7 trong các kết quả có thể xảy ra nên D sai.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7: Trong hộp có 10 lá thư có bì thư giống nhau, bên trong mỗi bì thư có 1 lá thư và được đánh số từ 1 đến 10. Mỗi bạn lấy ngẫu nhiên một bì thư, xem số ghi trên lá thư rồi trả lại vào bì và cho vào hộp. Sự kiện có thể xảy ra là\nA.Số ghi trên lá thư là số 11\nB.Số ghi trên lá thư là số 5\nC.Số ghi trên lá thư là số nhỏ hơn 1\nD.Số ghi trên lá thư là số lớn hơn 13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số có thể ghi trên lá thư là 1; 2; 3; 4; 5; 6; 7; 8; 9; 10.\nTrong 10 khả năng trên có số 5 nên số 5 có thể xuất hiện trên lá thư.\nVậy sự kiện “Số ghi trên lá thư là số 5” là sự kiện có thể xảy ra.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8: Trong một hộp có 1 quả bóng xanh và 9 bóng vàng có kích thước giống nhau. An lấy ra đồng thời 2 bóng từ hộp. Có các sự kiện sau:\n1- An lấy được 2 bóng màu xanh\n2- An lấy được ít nhất một bóng màu vàng\n3- An lấy được 2 bóng màu vàng.\nSự kiện chắc chắn, không thể và có thể xảy ra lần lượt là\nA.1 – 2 – 3\nB.2 – 3 – 1\nC.3 – 2 – 1\nD.2 – 1 – 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác kết quả có thể xảy ra là: (1 xanh + 1 vàng) ; (2 vàng).\nCả hai kết quả này luôn có xuất hiện quả màu vàng nên sự kiện 2 chắc chắn xảy ra.\nTa không bao giờ có thể lấy được 2 quả bóng màu xanh cùng một lúc được vì tổng số bóng xanh chỉ có 1 quả. Sự kiện 1 là sự kiện không thể xảy ra.\nTrong hai kết quả trên có một kết quả là 2 vàng nên sự kiện 3 có thể xảy ra.\nVậy sự kiện chắc chắn, không thể và có thể xảy ra lần lượt là 2 – 1 – 3 .\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9: Một hộp có 5 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, 4, 5; hai thẻ khác nhau thì ghi số khác nhau. Rút ngẫu nhiên một thẻ.\nNêu những kết quả có thể xảy ra đối với số xuất hiện trên thẻ được rút ra?\nA.5\nB.1, 2, 3, 4, 5\nC.1, 2, 3\nD.1,2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố có thể xuất hiện trên thẻ là một trong năm số: 1; 2; 3; 4; 5.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10: Một hộp có 5 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, 4, 5; hai thẻ khác nhau thì ghi số khác nhau. Rút ngẫu nhiên một thẻ.\nViết tập hợp các kết quả có thể xảy ra đối với số xuất hiện trên thẻ được rút ra.\nA.M = {1; 2; 3; 4}\nB.M = {1, 2, 3, 4, 5}\nC.M = {1, 2, 3, 4}\nD.M = {1; 2; 3; 4; 5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố có thể xuất hiện trên thẻ là một trong năm số: 1; 2; 3; 4; 5.\nTập hợp các kết quả có thể xảy ra đối với số xuất hiện trên thẻ là\nM = {1; 2; 3; 4; 5}.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12: Một hộp có 5 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, 4, 5; hai thẻ khác nhau thì ghi số khác nhau. Rút ngẫu nhiên một thẻ.\nSố xuất hiện trên thẻ được rút có phải là phần tử của tập hợp {1; 2; 3; 4; 5} hay không?\nA. Không\nB. Có",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố có thể xuất hiện trên thẻ là một trong năm số: 1; 2; 3; 4; 5.\nCác số này đều là phần tử của tập hợp {1; 2; 3; 4; 5}.\nĐáp án cần chọn là: B"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "A. chia hết cho 2\nB. không chia hết cho 2\nC. có tận cùng là 2 \nD. có tận cùng là 1; 3; 7; 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTheo tính chất2:\nnếu akhông chia hết cho 2và b chia hết cho 2  thì a + b không chia hết cho 2.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Tổng nào sau đây chia hết cho 7\nA. 49 + 70 \nB. 14 + 51\nC. 7 + 134 \nD. 10 + 16",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \n49⋮7; 70⋮7 ⇒ (49 + 70)⋮7 (theo tính chất 1)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Khẳng định nào sau đây đúng?\nA. 250⋮25\nB. 51⋮7\nC. 36⋮16\nD. 48⋮18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 25.10 = 250 nên 250⋮25\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Khẳng định nào sau đây sai?\nA. 199⋮̸ 2\nB. 199⋮̸ 3\nC. 199⋮̸ 7\nD. 199⋮11",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n199 đều không chia hết cho 2, 3, 7 và 11 nên 199⋮̸11\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Cho a⋮m và b⋮m vàc⋮m với m là số tự nhiên khác 0. Các số a,b,c là số tự nhiên tùy ý.\nKhẳng định nào sau đây chưa đúng?\nA. (a + b)⋮m\nB. (a − b)⋮m\nC. (a + b + c)⋮m\nD. (b + c)⋮m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(a − b)⋮m sai vì thiếu điều kiện a ≥ b\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Nếu x⋮2 và y⋮4 thì tổng x + y chia hết cho\nA. 2\nB. 4\nC. 8 \nD. không xác định",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: x⋮2;y⋮4 ⇒ y⋮2 ⇒ (x + y)⋮2\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Nếu x⋮12 và y⋮8 thì hiệu x − y chia hết cho\nA. 6\nB. 3 \nC. 4\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: x⋮12 ⇒ x⋮4 và y⋮8 ⇒ y⋮4\nVì x⋮4; y⋮4 ⇒ (x−y)⋮4\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Chọn câu sai.\nA. 49+105+399 chia hết cho 7  .\nB. 84+48+120 không chia hết cho 8\nC. 18+54+12chia hết cho 9\nD. 18+54+12không chia hết cho 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) Vì49⋮7; 105⋮7; 399⋮7 ⇒ (49+105+399)⋮7 ( theo tính chất 1) nên A đúng\n+) Vì 48⋮8; 120⋮8 mà 84 không chia hết cho 8 nên 84+48+120 không chia hết cho 8 nên B đúng\n+) Vì18⋮9; 54⋮9 mà 12 không chia hết cho 9 nên 18+54+12 không chia hết cho 9 nên C sai, D đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Cho tổng M = 75 + 120 + x . Với giá trị nào của xx dưới đây thì M⋮3?\nA. 7\nB. 5\nC. 4\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì 75⋮3; 120⋮3 nên để M = 75 + 120 + x chia hết cho 3 thì x⋮3 nên ta chọn x = 12.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về chia hết và chia có dư, tính chất chia hết của một tổng\nCâu 1. Cho a = 2m + 3, b = 2n + 1\nKhẳng định nào sau đây đúng?\nA. a⋮2\nB. b⋮2\nC. (a + b)⋮2\nD. (a + b)⋮̸2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 2m=2.m⇒2m⋮23⋮2\n⇒ a=2m+3⋮̸2\n2n⋮21⋮2⇒b=2n+1⋮2\n=> Đáp án A, B sai.\na + b = 2m + 3 + 2n + 1 = 2m + 2n + 4\n= 2.(m + n + 2)⋮2\nĐáp án C đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Cho tổng A = 12 + 14 + 16 + x; x là số tự nhiên. Để A không chia hết cho 2 thì\nA. x = 199\nB. x = 198\nC. x = 1000\nD. x = 50054",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDo 12⋮2; 14⋮2; 16⋮2 nên để A⋮̸2 thì x⋮̸2\n=> x∈{1; 3; 5; 7;…} là các số lẻ.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Tìm A = 15 + 1003 + x với x∈N. Tìm điềukiện của x để A⋮5.\nA. x⋮5 \nB. x chia cho 5 dư 1 \nC. x chia cho 5 dư 3\nD. x chia cho 5 dư 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa thấy 15⋮5 và 1003 không chia hết cho 5nên để A = 15 + 1003 + x chia hết cho 5 thì (1003 + x) chia hết cho 5.\nMà 1003 chia 5 dư 3 nên để (1003 + x) chia hết cho 5 thì x chia 5 dư 2.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Có bao nhiêu số tự nhiên n để (n + 4)⋮n ?\nA. 3 \nB. 4 \nC. 2 \nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì n⋮n nên để (n + 4)⋮n thì 4⋮n suy ra n∈{1; 2; 4}\nVậy có ba giá trị của n thỏa mãn điều kiện đề bài.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Cho A = 12 + 15 + 36 + x, x∈N . Tìm điều kiện của xđể A không chia hết cho 9.\nA. x chia hết cho 9. \nB. x không chia hết cho 9. \nC. x chia hết cho 4. \nD. x chia hết cho 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: A = (12 + 15) + 36 + x .\nVì 12 + 15 = 27⋮9 và 36⋮9 \n⇒ (12 + 15 + 36) = (27 + 36)⋮9 nên để A không chia hết cho 9thì xkhông chia hết cho 9.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Với a, b là các số tự nhiên, nếu 10a + b chia hết cho 13thì a + 4b chia hết cho số nào dưới đây?\nA. 3\nB. 5\nC. 26\nD. 13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nXét 10.(a + 4.b) = 10.a + 40.b= (10.a + b) + 39.b\nVì (10.a + b)⋮13 và 39b⋮13 nên 10.(a + 4.b)⋮13 .\nDo 10 không chia hết cho 13 nên suy ra (a+4.b)⋮13 .\nVậy nếu 10a + b chia hết cho 13 thì a + 4b chia hết cho 13.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Có bao nhiêu số tự nhiên n để (n + 7)⋮(n + 2) ?\nA. 3\nB. 2 \nC. 1 \nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì (n + 2)⋮(n + 2) nên theo tính chất 1 để\n (n + 7)⋮(n + 2) thì [(n + 7) − (n + 2)]⋮(n + 2) hay 5⋮(n + 2) .\nSuy ra (n + 2)∈{1; 5} .\nVì n + 2 ≥ 2 nên n + 2 = 5 ⇒ n = 5 – 2 = 3.\nVậy n = 3.\nVậy có một số tự nhiên n thỏa mãn yêu cầu.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Chọn câu sai.\nA. Tổng ba số tự nhiên liên tiếp chia hết cho 3\nB. Tổng bốn số tự nhiên liên tiếp không chia hết cho 4\nC. Tổngnăm số tự nhiênchẵn liên tiếp chia hết cho 10\nD. Tổng bốn số tự nhiên liên tiếp chia hết cho 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+)Gọi ba số tự nhiên liên tiếp là n; n+1; n+2 (n∈N) thì tổngba số tự nhiên liên tiếp là:\n n+n+1+n+2 = 3n+3. \nVì 3⋮3 nên (3n+3)⋮3 suy ra A đúng.\n+) Gọi bốnsố tự nhiên liên tiếp là n; n+1; n+2; n+3 (n∈N) thì tổngbốn số tự nhiên liên tiếp là:\n n+n+1+n+2+n+4 = 4n+7.\nVì 4⋮3;7⋮̸4 nên (4n+7)⋮̸4 suy ra B đúng, D sai.\n+) Gọi nămsố tự nhiên chẵn liên tiếp là: 2n; 2n+2; 2n+4; 2n+6; 2n+8 (n∈N) thì tổngnăm số tự nhiên chẵn liên tiếp là:\n 2n+2n+2+2n+4+2n+6+2n+8 = 10n+20\nVì 10⋮10; 20⋮10 nên (10n+20)⁝10 suy ra C đúng.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9. Khi chia số a cho 12 ta được số dư là 9. Khi đó:\nA. a chia hết cho 4 nhưng không chia hết cho 3\nB. a chia hết cho 3 nhưng không chia hết cho 4\nC. a chia hết cho 5\nD. a chia hết cho 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì a chia cho 12 được số dư là 9 nên a = 12k + 9 (kϵN)\nVì 12k⁝3; 9⁝3 ⇒ a = (12k + 9)⁝3\nVà 12k⁝4; 9 không chia hết cho 4 nên a = 12k + 9 không chia hết cho 4.\nVậy a chia hết cho 3 nhưng không chia hết cho 4.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Cho C = 1+3+3^{2} +3^{3} +...+3^{11}  . Khi đó C chia hết cho số nào dưới đây?\nA. 9\nB. 11\nC. 13 \nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGhép ba số hạng liên tiếp thành một nhóm , ta được\nC = 1+3+3^{2} +3^{3} +...+3^{11} \n= (1+3+3^{2} )+(3^{3} +3^{4} +3^{5} )...+(3^{9} +3^{10} +3^{11} )\n= (1+3+3^{2} )+3^{3} (1+3+3^{2} )+...+3^{9} (1+3+3^{2} )\n= (1+3+3^{2} )(1+3^{3} +3^{6} +3^{9} )\n= 13.(1+3^{3} +3^{6} +3^{9} )⁝13 (do 13⁝13)\nVậy C⁝13.\nĐáp án cần chọn là: C"
+    }
+]

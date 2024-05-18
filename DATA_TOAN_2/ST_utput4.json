@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Tập hợp các số tự nhiên kí hiệu là \\(N\\) , tập hợp các số tự nhiên khác 0 kí hiệu là \\({N^*}\\) .\nTa có:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\({N^*}\\)= {1 ; 2 ; 3 ; 4; ......}\nMỗi số tự nhiên được biểu diễn bởi một điểm trên tia số. Trên tia số, điểm biểu diễn số nhỏ ở bên trái điểm biểu diễn số lớn.\n\nSố tự nhiên a được gọi là điểm a. Điểm 0 là gốc.\nVí dụ: Điểm biểu diễn số 4 trên tia số ta gọi là điểm 4.\n2. Thứ tự trong tập hợp các số tự nhiên\n+ Trong hai số tự nhiên khác nhau, có một số nhỏ hơn số kia, ta viết \\(a < b\\) hoặc \\(b > a.\\)\nNgoài ra ta cũng viết \\(a \\ge b\\) để chỉ \\(a > b\\) hoặc \\(a = b.\\)\n+ Nếu \\(a < b\\) và \\(b < c\\) thì \\(a < c.\\) (Tính chất bắc cầu)\n+ Hai số tự nhiên liên tiếp hơn kém nhau 1 đơn vị. Mỗi số tự nhiên có một số liền sau duy nhất và một số liền trước duy nhất.\n+ Số 0 là số tự nhiên bé nhất.\nVí dụ:\nSố 3 và số 4 là hai số tự nhiên liên tiếp. Số liền sau của 8 là 9.\nSố liền trước của 6 là 5.\nCác dạng bài tập\n1. Tìm số liền sau, số liền trước của một số tự nhiên cho trước\nPhương pháp:\n- Để tìm số liền sau của số tự nhiên $a,$ ta tính $a + 1.$\n- Để tìm số liền trước của số tự nhiên $a$ khác $0,$ta tính $a - 1.$\nChú ý:\n- Số $0$  không có số liền trước.\n- Hai số tự nhiên liên tiếp thì hơn kém nhau $1$  đơn vị.\n2. Tìm các số tự nhiên thỏa mãn điều kiện cho trước\nPhương pháp:\nLiệt kê tất cả các số tự nhiên thỏa mãn đồng thời các điều kiện đã cho\nVí dụ:\nTìm tất cả các số tự nhiên thỏa mãn \\(12 < x < 16\\)\nGiải:\nTa có: các số tự nhiên lớn hơn $12$ và nhỏ hơn $16$ là: $13; 14; 15$.\nTìm tất cả các số tự nhiên thỏa mãn \\(12 < x < 16\\)\n3. Sử dụng công thức đếm số các số tự nhiên\nPhương pháp:\nĐể đếm các số tự nhiên từ $a$ đến $b,$  hai số liên tiếp cách nhau $d$  đơn vị, ta dùng công thức sau:\n$\\dfrac{{b - a}}{d} + 1$ hay bằng (số cuối – số đầu):khoảng cách +1.\n- Căn cứ vào các phần tử đã được liệt kê hoặc căn cứ vào tính chất đặc trưng cho các phần tử của tập hợp cho trước, ta có thể tìm được số phần tử của tập hợp đó.\n- Sử dụng các công thức sau:\n+ Tập hợp các số tự nhiên từ $a$ đến $b$ có: $b-a + 1$ phần tử  (1)\n+ Tập hợp các số chẵn từ số chẵn $a$ đến số chẵn $b$ có: $\\left( {b-a} \\right):2 + 1$ phần tử  ( 2)\n+ Tập hợp các số lẻ từ số lẻ $m$ đến số lẻ $n$ có: $\\left( {n - m} \\right):2 + 1$ phần tử  ( 3)\n+ Tập hợp các số tự nhiên từ $a$  đến $b,$  hai số kế tiếp cách nhau d đơn vị, có: $\\left( {b - a} \\right):d + 1$ phần tử  (4)\n"
+    },
+    {
+        "problem": "Trong hai điểm 5 và 8 trên tia số, điểm nào nằm trên trái, điểm nào nằm bên phải điểm kia?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát tia số và trả lời\nLời giải chi tiết\nĐiểm 5 nằm bên trái điếm 8, điểm 8 nằm bên phải điếm 5."
+    },
+    {
+        "problem": "Điểm biểu diễn số tự nhiên nào nằm ngay bên trái điểm 8?\nĐiểm biểu diễn số tự nhiên nào nằm ngay bên phải điểm 8?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát tia số, điểm biểu diễn số nhỏ hơn thì nằm bên trái điểm biểu diễn số lớn hơn\nLời giải chi tiết\nĐiểm 7 biểu diễn số tự nhiên nằm ngay bên trái điểm 8.\nĐiểm 9 biểu diễn số tự nhiên nằm ngay bên phải điểm 8."
+    },
+    {
+        "problem": "Cho n là một số tự nhiên nhỏ hơn 7. Theo em, điểm n nằm bên trái hay bên phải điểm 7?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát tia số, điểm biểu diễn số nhỏ hơn thì nằm bên trái điểm biểu diễn số lớn hơn\nLời giải chi tiết\nn là một số tự nhiên nhỏ hơn 7 thì điểm n nằm bên trái điểm 7."
+    },
+    {
+        "problem": "a) Hãy so sánh hai số tự nhiên sau đây, dùng kí hiệu \"=\" hay \">\" để viết kết quả:\nm = 12 036 001 và n = 12 035 987\nb) Trên tia số (nằm ngang), trong hai điểm m và n, điểm nào nằm trước?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh hai số m và n có số chữ số bằng nhau. Đi từ trái sang phải, so sánh các chữ số ở các hàng tương ứng.\nb) Trên tia số, điểm nào nhỏ hơn thì điểm đó nằm trước điểm còn lại\nLời giải chi tiết\na) Vì hàng chục triệu, triệu, trăm nghìn, chục nghìn có các chữ số giống nhau, nhưng ở hàng nghìn ta thấy 6 > 5 nên 12 036 001 > 12 035 987. Vậy m>n\nb) Vì m>n nên trên tia số điểm n nằm trước điểm m"
+    },
+    {
+        "problem": "Theo dõi kết quả bán hàng trong ngày của một cửa hàng, người ta nhận thấy:\nSố tiền thu được vào buổi sáng nhiều hơn vào buổi chiều,\nSố tiền thu được vào buổi tối ít hơn vào buổi chiều\nHãy so sánh số tiền thu được (đều là số tự nhiên) của cửa hàng đó vào buổi sáng và buổi tối.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi số tiền cửa hàng đó thu được vào buổi sáng, buổi chiều và buổi tối lần lượt là a, b, c. Dựa vào đề bài so sánh a,b,c\nLời giải chi tiết\nGọi số tiền cửa hàng đó thu được vào buổi sáng, buổi chiều và buổi tối lần lượt là a, b, c (a, b, c là các số tự nhiên)\nSố tiền thu được vào buổi sáng nhiều hơn vào buổi chiều nên a > b\nSố tiền thu được vào buổi tối ít hơn vào buổi chiều nên c < b hay b > c\nTheo tính chất bắc cầu ta được: a > c\nVậy số tiền thu được vào buổi sáng nhiều hơn vào buổi tối"
+    },
+    {
+        "problem": "Trong các số 3;5;8;9 số nào thuộc tập hợp A= { \\(x \\in N|x \\ge 5\\)},  số nào thuộc tập hợp B= { \\(x \\in N|x \\le 5\\)}?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có thể mô tả lại tập hợp bằng cách liệt kê\nLời giải chi tiết\nA={5;6;7;8;...}\nB={0;1;2;3;4;5}\nTa có: \\(5,8,9 \\in A\\)\n\\(3,5 \\in B\\)"
+    },
+    {
+        "problem": "Viết thêm các số liền trước và liền sau của hai số 3 532 và 3 529 để được sáu số tự nhiên rồi sắp xếp sáu số tự nhiên đó theo thứ tự từ bé đến lớn:\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết thêm các số liền trước và liền sau của hai số 3 532 và 3 529 để được sáu số tự nhiên, rồi so sánh để viết sáu số tự nhiên đó theo thứ tự từ bé đến lớn.\nLời giải chi tiết\nCác số liền trước và liền sau của số 3 532 là: 3 531 ; 3 533\nCác số liền trước và liền sau của số 3529 là: 3 528 ; 3530\nSáu số trên được sắp xếp theo thứ tự từ bé đến lớn là:\n3 528; 3 529; 3 530; 3 531; 3 532; 3 533\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho ba số tự nhiên a, b, c, trong đó a là số nhỏ nhất. Biết rằng trên tia số, điểm b nằm giữa hai điểm a và c. Hãy dùng kí hiệu \"=\" để mô tả thứ tự của ba số a, b, c. Cho ví dụ bằng số cụ thể.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a < b thì trên tia số, a nằm bên trái b .\nLời giải chi tiết\nSố a nhỏ nhất nên điểm a nằm bên trái hai điểm b và c.\nMà điểm b nằm giữa hai điểm a và c nên điểm b nằm bên trái điểm c\nDo đó b < c\nVì a bé nhất nên ta có a < b < c\n* Ví dụ: a = 5; b = 7; c = 8\nSố a bé nhất và điểm b nằm giữa hai điểm a và c trên tia số."
+    },
+    {
+        "problem": "Liệt kê các phần tử của mỗi tập hợp sau:\na) M = {\\(x \\in \\mathbb{N}\\)|10 \\( \\le \\)x< 15}\nb) K = {\\(x \\in {\\mathbb{N}^*}\\)| x\\( \\le \\)3}\nc) L = {\\(x \\in \\mathbb{N}\\)| x\\( \\le \\) 3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các phần tử của các tập hợp, đặt trong dấu { }, mỗi phần tử chỉ viết 1 lần và cách nhau bởi dấu chấm phẩy.\nLời giải chi tiết\na) M = {10; 11; 12; 13; 14}\nb) K = {1; 2; 3}\nc) L = {0; 1; 2; 3}"
+    },
+    {
+        "problem": "Ba bạn An, Bắc, Cường dựng cố định một cây sào thẳng đứng rồi đánh dấu chiều cao của các bạn lên đó bởi ba điểm. Cường đặt tên các điểm đó theo thứ tự từ dưới lên là A, B, C và giải thích rằng điểm A ứng với chiều cao của bạn An, B ứng với chiều cao bạn Bắc và C ứng với chiều cao của Cường. Biết rằng bạn An cao 150cm, bạn Bắc cao 153cm, bạn Cường cao 148cm. Theo em, Cường giải thích như thế có đúng không? Nếu không thì phải sửa như nào cho đúng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh chiều cao của các bạn rồi sắp xếp theo thứ tự tăng dần để rút ra nhận xét.\nLời giải chi tiết\nCường giải thích như thế là không đúng.\nVì cách đặt tên các điểm được đánh dấu tương tự như việc đặt tên các điểm trên tia số.\nChiều cao của các bạn theo thứ tự tăng dần là 148cm, 150cm, 153cm ứng với chiều cao của Cường, An và Bắc\nDo vậy cần đánh dấu các điểm theo thứ tự từ dưới lên là C, A, B"
+    }
+]

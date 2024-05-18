@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 1 : Chọn số thích hợp để điền vào ô trống: \nA.\t40\nB.\t41\nC.\t42\nD.\t43",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm thừa số chưa biết ta lấy tích chia cho thừa số đã biết.\nThừa số chưa biết là 123000 : 3000.\nTa đặt tính và thực hiện tính như sau:\nDo đó ta có: 123000:3000=123:3=41.\nVậy đáp án đúng điền vào ô trống là 41."
+    },
+    {
+        "problem": "Câu 2 : Khi thực hiện phép chia hai số có tận cùng là các chữ số 0, \nta có thể cùng xóa một, hai, ba, … chữ số 0 ở tận cùng của số chia và số bị chia, \nrồi chia như bình thường. Đúng hay sai? \nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi thực hiện phép chia hai số có tận cùng là các chữ số 0, ta có thể cùng xóa một, hai, ba, … \nchữ số 0 ở tận cùng của số chia và số bị chia, rồi chia như bình thường.\nVậy khẳng định đã cho là đúng.\n\n\nchữ số 0 ở tận cùng của số chia và số bị chia, rồi chia như bình thường.\nVậy khẳng định đã cho là đúng.\n\nchữ số 0 ở tận cùng của số chia và số bị chia, rồi chia như bình thường.\nVậy khẳng định đã cho là đúng.\n\n\nVậy khẳng định đã cho là đúng.\n\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 3 : Kết quả của phép chia 35000 : 70 là: \nA.\t5\nB.\t50\nC.\t500\nD.\t5000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nDo đó: 35000:70=3500:7=500.\nVậy kết quả của phép chia 35000:70 là 500."
+    },
+    {
+        "problem": "Câu 5 : Thương của 46800 và 400 là bao nhiêu? \nA.\t107\nB.\t117\nC.\t1070\nD.\t1170",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thương của 46800 và 400 là 46800:400 \nTa đặt tính và thực hiện tính như sau:\nDo đó ta có: 46800:400=468:4=117.\nVậy thương của 46800 và 400 là 117."
+    },
+    {
+        "problem": "Câu 6 : 72000 : 600 ... 1200 \nDấu thích hợp điền vào chỗ chấm là:\nA.\t< \nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 72000:600=720:6=120 \nMà 120 < 1200.\nDo đó 72000:600 < 1200."
+    },
+    {
+        "problem": "Câu 7 : Tìm b, biết:   b × 60 = 22800 \nA.\tb = 28\nB.\tb = 38\nC.\tb = 280\nD.\tb = 380",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "b×60=22800\nb=22800:60\nb=380   \nVậy đáp án đúng là b=380."
+    },
+    {
+        "problem": "Câu 8 : Tìm y biết: 3600 ∶ y = 5600 ∶ 70 \nA.\ty = 25\nB.\ty = 35\nC.\ty = 45\nD.\ty = 55",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "3600:y=5600:70\n3600:y=80\ny=3600:80\ny=45\nVậy đáp án đúng là y=45."
+    },
+    {
+        "problem": "Câu 10 : Giá trị của biểu thức (45876 + 39124) : 200 + 300 là: \nA.\t725\nB.\t575\nC.\t425\nD.\t170",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n(45876+39124):200+300=85000:200+300=425+300=725\nVậy giá trị biểu thức đã cho là 725.\nChú ý\nHọc sinh có thể làm sai ở bước giải thứ hai, lấy 85000:(200+300) \ntừ đó tìm được đáp án sai là D."
+    },
+    {
+        "problem": "Câu 13 : Một đội đồng diễn thể dục, lúc đầu xếp thành 24 hàng dọc, mỗi hàng có 15 học sinh. \nSau đó số học sinh này xếp thành hàng ngang, mỗi hàng có 20 học sinh. \nHỏi xếp được bao nhiêu hàng ngang? \nA.\t16 hàng\nB.\t17 hàng\nC.\t18 hàng\nD.\t19 hàng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số học sinh tham gia đồng diễn thể dục là:\n        15×24=360 (học sinh)\nSố hàng ngang xếp được là:\n      360:20=18 (hàng)\n                  Đáp số: 18 hàng."
+    },
+    {
+        "problem": "Câu 14 :  Một cửa hàng có 3 tấn gạo đựng đều trong các bao, mỗi bao chứa được 40kg gạo.\n Tuần thứ nhất cửa hàng bán được 14 tạ gạo, tuần thứ hai bán hết số gạo còn lại. \nHỏi tuần thứ hai cửa hàng bán được nhiều hơn tuần thứ nhất bao nhiêu bao gạo? \nA.\t5 bao \nB.\t15 bao\nC.\t25 bao\nD.\t35 bao",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 3 tấn =3000kg ;  14 tạ = 1400kg \nCửa hàng có tất cả số bao gạo là:\n           3000:40=75 (bao)\nTuần thứ nhất cửa hàng bán được số bao gạo là:\n         1400:40=35 (bao)\nTuần thứ hai cửa hàng bán được số bao gạo là:\n          75−35=40 (bao)\nTuần thứ hai cửa hàng bán được nhiều hơn tuần thứ nhất số bao gạo là:\n   40−35=5 (bao)\n    Đáp số: 5 bao."
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "problem": "Diện tích gieo trồng lúa vụ Thu Đông năm 2019 vùng Đồng bằng sông Cửu Long ước tính đạt 713 200 ha, giảm 14 500 ha so với vụ Thu Đông năm 2018. (Theo Tổng cục Thống kê 10/2019)\nHãy tính diện tích gieo trồng lúa vụ Thu Đông năm 2018 của Đồng bằng sông Cửu Long.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích gieo trồng lúa vụ Thu Đông năm 2018 = Diện tích gieo trồng lúa vụ Thu Đông năm 2019 – Diện tích giảm so với vụ Thu Đông năm 2018.\nLời giải chi tiết\nDiện tích gieo trồng lúa vụ Thu Đông năm 2018 của Đồng bằng sông Cửu Long là:\n713 200 + 14 500 = 727 700 (ha)\nĐáp số: 727 700 ha"
+    },
+    {
+        "problem": "Cho a = 28 và b = 34.\na) Tính a + b và b + a.\nb) So sánh các kết quả nhận được ở câu a).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính rồi so sánh kết quả\nLời giải chi tiết\na) a + b = 28 + 34 = 62\nb + a = 34 + 28 = 62\nb) Kết quả của 2 phép tính ở câu a bằng nhau."
+    },
+    {
+        "problem": "Cho a = 17, b = 21, c = 35.\na) Tính (a + b) + c và a + (b + c).\nb) So sánh các kết quả nhận được ở câu a)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính rồi so sánh kết quả\nLời giải chi tiết\na) (a + b) + c = (17 +21) + 35 = 38 + 35 = 73\na + (b + c) = 17 + (21 + 35) = 17 +56 = 73.\nb) Kết quả của 2 phép tính ở câu a bằng nhau.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí: 117 + 68 + 23.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các số hạng có tổng là số tròn chục rồi tính\nSử dụng tính chất giao hoán, kết hợp của phép cộng\nLời giải chi tiết\n117 +68 + 23 = (117 +23) + 68 = 140 + 68 = 208."
+    },
+    {
+        "problem": "Tính 865 279 – 45 027.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính rồi tính\nLời giải chi tiết\n\n865 279 - 45 027 = 820 252"
+    },
+    {
+        "problem": "Giải bài toán mở đầu:  Mai đi chợ mua cà tím hết 18 nghìn đồng, cà chua hết 21 nghìn đồng và rau cải hết 30 nghìn đồng. Mai đưa cho cô bán hàng 100 nghìn đồng thì được trả lại bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền Mai đã mua\n=> Tính số tiền Mai được trả lại\nLời giải chi tiết\nTổng số tiền Mai đã mua là:\n18 000 + 21 000 + 30 000 = 69 000 (đồng)\nSố tiền Mai được trả lại là:\n100 000 - 69 000 = 31 000 (đồng)\nĐáp số: 31 000 đồng"
+    },
+    {
+        "problem": "Tính:\na) 63 548 + 19 256\nb) 129 107 - 34 693",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính rồi tính.\nLời giải chi tiết\n\na) 63 548 + 19 256 = 82 804\nb) 129 107 - 34 693 = 94 414"
+    },
+    {
+        "problem": "Thay \"?\" bằng số thích hợp:\n? + 2 895 = 2 895 + 6 789",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán của phép cộng\nLời giải chi tiết\nÁp dụng tính chất giao hoán của phép cộng ta có:\n? + 2 895 = 2 895 + 6 789. Suy ra \"?\" có giá trị 6 789\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số tự nhiên x thỏa mãn:\na) 7 + x = 362\nb) 25 - x = 15\nc) x - 56 = 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Muốn tìm số hạng ta lấy tổng trừ đi số hạng còn lại.\nb) Muốn tìm số trừ ta lấy số bị trừ trừ đi hiệu\nc) Muốn tìm số bị trừ ta lấy hiệu cộng số trừ\nLời giải chi tiết\na) 7 + x = 362 => x= 362 - 7 => x= 355\nVậy x = 355\nb) 25 - x = 15 => x = 25 – 15 =>  x = 10\nVậy x = 10\nc) x - 56 = 4 => x = 56 + 4 =>  x = 60.\nVậy x = 60\n\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dân số Việt Nam năm 2019 là 96 462 106 người. Năm 2020, dân số Việt Nam tăng 876 473 người so với năm 2019. Tính dân số Việt Nam năm 2020. (Theo danso.org)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dân số Việt Nam năm 2020 = Dân số Việt Nam năm 2019 + dân số Việt Nam tăng so với năm 2019.\nLời giải chi tiết\nDân số Việt Nam năm 2020 là:\n96 462 106 + 876 473 = 97 338 579 (người)\nĐáp số: 97 338 579 người.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nhà ga số 1 và nhà ga số 2 của một sân bay có thể tiếp nhận tương ứng khoảng 6 526 300 và 3514 500 lượt hành khách mỗi năm. Nhờ đưa vào sử dụng nhà ga số 3 mà mỗi năm sân bay này có thể tiếp nhận được khoảng 22 851 200 lượt hành khách. Hãy tính số lượt hành khách mà nhà ga số 3 có thể tiếp nhận mỗi năm.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng số lượt hành khách mà nhà ga số 1 và số 2 có thể tiếp nhận mỗi năm.\n=> Số lượt hành khách mà nhà ga số 3 có thể tiếp nhận mỗi năm.\nLời giải chi tiết\nTổng số lượt hành khách mà nhà ga số 1 và số 2 có thể tiếp nhận mỗi năm là:\n6 526 300 + 3 514 500 = 10 040 800 (lượt)\nSố lượt hành khách mà nhà ga số 3 có thể tiếp nhận mỗi năm là:\n22 851 200 - 10 040 800 = 12 810 400 (lượt)\nĐáp số: 12 810 400 lượt hành khách.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 285 + 470 + 115 + 230\nb) 571 +216 + 129 + 124",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất giao hoán, kết hợp của phép cộng\nNhóm các số hạng có tổng là số tròn trăm hoặc tròn chục.\nLời giải chi tiết\na) 285 + 470 + 115 + 230\n= (285 + 115) + (470 + 230)\n= 400 + 700\n= 1 100\nb) 571 +216 + 129 + 124\n= (571 + 129) + (216 + 124)\n= 700 + 340\n= 1 040."
+    },
+  
+]

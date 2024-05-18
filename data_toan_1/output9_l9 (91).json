@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Một hộp có 4 chiếc kẹo, trong đó có 1 chiếc kẹo màu hồng, 1 chiếc kẹo màu xanh, 1 chiếc kẹo màu vàng và 1 chiếc kẹo màu cam; các chiếc kẹo có kích thước như nhau. Lấy ngẫu nhiên một chiếc kẹo trong hộp.\na)Nêu những kết quả có thể xảy ra đối với màu của chiếc kẹo được lấy ra.\nb)Viết tập hợp các kết quả có thể xảy ra đối với màu của chiếc kẹo được lấy ra.\nc)Nêu hai điều cần chú ý trong mô hình xác suất của trò chơi trên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 4 kết quả có thể xảy ra\nCác phần tử của tập hợp được liệt kê 1 lần, thứ tự tùy ý trong dấu ngoặc {}, ngăn cách nhau bởi dấu ;\nLời giải chi tiết\na)Khi lấy ngẫu nhiên một chiếc kẹo trong hộp, có 4 kết quả có thể xảy ra đối với màu của chiếc kẹo được lấy ra là: màu hồng, màu xanh, màu vàng, màu cam.\nb)Tập hợp B các kết quả có thể xảy ra đối với màu của chiếc kẹo được lấy ra:\nB={màu hồng; màu xanh; màu vàng; màu cam}\nc) 2 điều cần chú ý trong mô hình xác suất của trò chơi trên là:\n*Lấy ngẫu nhiên 1 chiếc kẹo\n* Tập hợp các kết quả có thể xảy ra đối với màu của chiếc kẹo được lấy ra là {màu hồng; màu xanh; màu vàng; màu cam}"
+    },
+    {
+        "problem": "Một hộp có 5 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, 4, 5; hai thẻ khác nhau thì ghi hai số khác nhau.\nRút ngẫu nhiên một chiếc thẻ trong hộp.\na) Nêu những kết quả có thể xảy ra đối với số xuất hiện trên thẻ được rút ra.\nb) Số xuất hiện trên thẻ được rút ra có phải là phần tử của tập hợp {1; 2; 3; 4; 5} hay không?\nc) Viết tập hợp các kết quả có thể xảy ra đối với số xuất hiện trên thẻ được rút ra.\nd) Nêu hai điều cần chú ý trong mô hình xác suất của trò chơi trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 5 kết quả có thể xảy ra\nCác phần tử của tập hợp được liệt kê 1 lần, thứ tự tùy ý trong dấu ngoặc {}, ngăn cách nhau bởi dấu ;\nLời giải chi tiết\na) Có 5 kết quả có thể xảy ra tương ứng 5 số trên 5 chiếc thẻ có trong hộp, đó là xuất hiện số 1; 2; 3; 4; 5.\nb) Số xuất hiện trên thẻ được rút ra có là phần tử của tập hợp {1; 2; 3; 4; 5}\nc) Tập hợp các kết quả có thể xảy ra đối với số xuất hiện trên thẻ được rút ra là T = {1; 2; 3; 4; 5}.\nd) Có hai điều cần chú ý trong mô hình xác suất của trò chơi trên là:\n*Lấy ngẫu nhiên một chiếc thẻ có trong hộp\n*Tập hợp các kết quả có thể xảy ra đối với mỗi thẻ được lấy ra là T = {1; 2; 3; 4; 5}."
+    },
+    {
+        "problem": "Một hộp có 5 quả bóng, trong đó có 1 quả bóng xanh, 1 quả bóng đỏ, 1 quả bóng vàng, 1 quả bóng nâu và 1 quả bóng tím; các quả bóng có kích thước và khối lượng như nhau. Lấy ngẫu nhiên một quả bóng trong hộp.\na) Nêu những kết quả có thể xảy ra đối với màu của quả bóng được lấy ra.\nb) Màu của quả bóng được lấy ra có phải là phần tử của tập hợp {màu xanh; màu đỏ; màu vàng; màu nâu; màu tím} hay không?\nc) Viết tập hợp các kết quả có thể xảy ra đối với màu của quả bóng được lấy ra.\nd) Nêu hai điều cần chú ý trong mô hình xác suất của trò chơi trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 5 kết quả có thể xảy ra\nCác phần tử của tập hợp được liệt kê 1 lần, thứ tự tùy ý trong dấu ngoặc {}, ngăn cách nhau bởi dấu ;\nLời giải chi tiết\na) Khi lấy ngẫu nhiên một quả bóng trong hộp, có 5 kết quả có thể xảy ra, đó là bóng có màu xanh, màu đỏ, màu vàng, màu nâu, màu tím.\nb) Màu của quả bóng được lấy ra có là phần tử của tập hợp {màu xanh; màu đỏ; màu vàng; màu nâu; màu tím}\nc) Tập hợp các kết quả có thể xảy ra đối với màu của quả bóng được lấy ra là M = { màu xanh; màu đỏ; màu vàng; màu nâu; màu tím}\nd) Hai điều cần chú ý trong mô hình xác suất của trò chơi trên:\n*Lấy ngẫu nhiên một quả bóng trong hộp\n*Tập hợp các kết quả có thể xảy ra đối với màu của quả bóng được lấy ra là {màu xanh; màu đỏ; màu vàng; màu nâu; màu tím}"
+    },
+    {
+        "problem": "Bốn bạn Chi, Hằng, Trung, Dũng cùng chơi cờ cá ngựa. Chi đã gieo xúc xắc khi đến lượt của mình. Xác suất thực nghiệm để Chi gieo được mặt 1 chấm là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm xuất hiện mặt X chấm bằng\nSố lần xuất hiện mặt X chấm: Tổng số lần gieo xúc xắc\nLời giải chi tiết\nXác suất thực nghiệm xuất hiện mặt 1 chấm bằng\nSố lần xuất hiện mặt 1 chấm: Tổng số lần gieo xúc xắc\nLời giải hay"
+    },
+    {
+        "problem": "Nếu tung một đồng xu 25 lần liên tiếp, có 15 lần xuất hiện mặt N thì xác suất thực nghiệm xuất hiện mặt S là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Tính số lần xuất hiện mặt S\n*Xác suất thực nghiệm xuất hiện mặt S chấm bằng\nSố lần xuất hiện mặt S : Tổng số lần tung đồng xu\nLời giải chi tiết\nSố lần xuất hiện mặt S là:\n25 – 15 =10 ( lần)\nXác suất thực nghiệm xuất hiện mặt S chấm là:\n10 : 25= \\(\\frac{2}{5}\\)"
+    },
+    {
+        "problem": "Một hộp có 1 quả bóng xanh, 1 quả bóng đỏ, 1 quả bóng vàng và 1 quả bóng tím; các quả bóng có kích thước và khối lượng như nhau. Mỗi lần bạn Minh lấy ngẫu nhiên một quả bóng trong hộp, ghi lại màu của quả bóng lấy ra và bỏ lại quả bóng đó vào hộp. Nếu bạn Minh lấy bóng 20 lần liên tiếp, có 5 lần xuất hiện màu vàng thì xác suất thực nghiệm xuất hiện màu vàng bằng bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm xuất hiện màu vàng = Số lần xuất hiện màu vàng : Tổng số lần lấy bóng\nLời giải chi tiết\nXác suất thực nghiệm xuất hiện màu vàng là:\n\\(5 : 20 = \\dfrac{1}{4}\\)"
+    },
+    {
+        "problem": "Tung một đồng xu 20 lần liên tiếp. Hãy ghi kết quả thống kê theo mẫu sau:\nLần tung\nKết quả tung\nSố lần xuất hiện mặt N\nSố lần xuất hiện mặt S\n1\n?\n?\n?\n...\n?\nTính xác suất thực nghiệm:\na) Xuất hiện mặt N;                          b) Xuất hiện mặt S;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm xuất hiện mặt N bằng\nSố lần xuất hiện mặt N : Tổng số lần tung đồng xu\n*Xác suất thực nghiệm xuất hiện mặt S bằng\nSố lần xuất hiện mặt S : Tổng số lần tung đồng xu\nLời giải chi tiết\nLần tung\nKết quả tung\nSố lần xuất hiện mặt N\nSố lần xuất hiện mặt S\n1\nN\n11\n9\n2\nS\n3\nN\n4\nN\n5\nS\n6\nS\n7\nN\n8\nS\n9\nN\n10\nN\n11\nS\n12\nS\n13\nN\n14\nN\n15\nS\n16\nS\n17\nN\n18\nN\n19\nN\n20\nS\nXác suất thực nghiệm xuất hiện mặt N khi tung đồng xu 20 lần là\nSố lần xuất hiện mặt N là: 11:20 = \\(\\frac{11}{20}\\)\nXác suất thực nghiệm xuất hiện mặt S khi tung đồng xu 20 lần là\nSố lần xuất hiện mặt S là: 9:20 = \\(\\frac{9}{20}\\)"
+    },
+    {
+        "problem": "Trả lời các câu hỏi sau:\na) Nếu tung một đồng xu 22 lần liên tiếp; có 13 lần xuất hiện mặt N thì xác suất thực nghiệm xuất hiện mặt N bằng bao nhiêu?\nb) Nếu tung một đồng xu 25 lần liên tiếp; có 11 lần xuất hiện mặt S thì xác suất thực nghiệm xuất hiện mặt S bằng bao nhiêu?\nc) Nếu tung một đồng xu 30 lần liên tiếp; có 14 lần xuất hiện mặt N thì xác suất thực nghiệm xuất hiện mặt S bằng bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm xuất hiện mặt N bằng\nSố lần xuất hiện mặt N : Tổng số lần tung đồng xu\n*Xác suất thực nghiệm xuất hiện mặt S bằng\nSố lần xuất hiện mặt S : Tổng số lần tung đồng xu\nLời giải chi tiết\na)   Nếu tung một đồng xu 22 lần liên tiếp; có 13 lần xuất hiện mặt N thì xác suất thực nghiệm xuất hiện mặt N bằng: \\(\\frac{13}{22}\\)\nb) Nếu tung một đồng xu 25 lần liên tiếp; có 11 lần xuất hiện mặt S thì xác suất thực nghiệm xuất hiện mặt S bằng: \\(\\frac{11}{25}\\)\nc) Nếu tung một đồng xu 30 lần liên tiếp; có 14 lần xuất hiện mặt N thì 30−14=16 lần xuất hiện mặt S. Xác suất thực nghiệm xuất hiện mặt S bằng:\n\\(\\frac{16}{30}\\)= \\(\\frac{8}{15}\\)\nLời giải hay"
+    },
+    {
+        "problem": "Gieo một xúc xắc 10 lần liên tiếp, bạn Cường có kết quả như sau:\na) Hãy kiểm đếm số lần xuất hiện mặt 1 chấm và số lần xuất hiện mặt 6 chấm sau 10 lần gieo. Xác suất thực nghiệm xuất hiện\nb) Tính xác suất thực nghiệm xuất hiện mặt 1 chấm.\nc) Tính xác suất thực nghiệm xuất hiện mặt 6 chấm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số lần xuất hiện các mặt\n*Xác suất thực nghiệm xuất hiện mặt X bằng\nSố lần xuất hiện mặt X : Tổng số lần gieo xúc xắc\nLời giải chi tiết\na) Số lần xuất hiện mặt 1 chấm: 3 lần\nSố lần xuất hiện mặt 6 chấm: 1 lần\nb) Xác suất thực nghiệm xuất hiện mặt 1 chấm là: \\(\\frac{3}{10}\\)\nc) Xác suất thực nghiệm xuất hiện mặt 6 chấm là: \\(\\frac{1}{10}\\)"
+    }
+]

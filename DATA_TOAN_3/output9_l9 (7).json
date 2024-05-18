@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Cho hàm số \\(y = mx + \\left( {2m + 1} \\right)\\)            (1)\nVới mỗi giá trị của \\(m \\in R\\) , ta có một đường thẳng xác định bởi (1) . Như vậy, ta có một họ đường thẳng xác định bởi (1). Chứng minh rằng với mọi giá trị của m, họ đường thẳng xác định bởi (1) luôn đi qua một điểm cố định. Hãy xác định tọa độ của điểm đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Cách tìm điểm cố định của họ đường thẳng  \\({y} = m{x} + n\\)  (1)\nGiả sử điểm \\(A\\left( {{x_0};{y_0}} \\right)\\) là điểm cố định mà họ đường thẳng (1) đi qua.\nKhi đó:  \\({y_0} = m{x_0} + n\\)\nChuyển vế và biến đổi phương trình về dạng \\(a.m+b=0\\)\nĐể phương trình nghiệm đúng với mọi giá trị của m thì:\n\\(a = 0\\) và \\(b= 0.\\)\nTừ đó tìm được \\(x_0\\) và \\(y_0\\).\nLời giải chi tiết\nChứng minh họ đường thẳng \\(y = mx + \\left( {2m + 1} \\right)\\) (1) luôn đi qua một điểm cố định nào đó.\nGiả sử điểm \\(A\\left( {{x_0};{y_0}} \\right)\\) là điểm mà họ đường thẳng (1) đi qua với mọi m.\nKhi đó tọa độ điểm A nghiệm đúng phương trình hàm số (1).\nVới mọi m, ta có: \\({y_0} = m{x_0} + \\left( {2m + 1} \\right)\\)\\( \\Leftrightarrow  m{x_0} +2m + 1-y_0=0\\)\\( \\Leftrightarrow \\left( {{x_0} + 2} \\right)m + \\left( {1 - y_0} \\right) = 0\\)\nVì phương trình nghiệm đúng với mọi giá trị của m nên tất cả các hệ số phải bằng 0.\nSuy ra:\n\\(\\eqalign{& {x_0} + 2 = 0 \\Leftrightarrow {x_0} = - 2 \\cr & 1 - {y_0} = 0 \\Leftrightarrow {y_0} = 1 \\cr} \\)\nVậy \\(A(-2;1)\\) là điểm cố định mà họ đường thẳng \\(y = mx + \\left( {2m + 1} \\right)\\) luôn đi qua với mọi giá trị \\(m.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với những giá trị nào của m thì đồ thị của các hàm số \\(y = 12x + \\left( {5 - m} \\right)\\) và \\(y = 3x + \\left( {3 + m} \\right)\\) cắt nhau tại một điểm trên trục tung ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai đường thẳng \\((d):y = ax + b\\) \\((a \\ne 0)\\) và \\((d'):y=a'x+b'\\) \\((a'\\ne 0)\\) cắt nhau tại 1 điểm trên trục tung khi \\(a \\ne a'\\) và \\(b=b'.\\)\nLời giải chi tiết\nHai đường thẳng \\(y = 12x + \\left( {5 - m} \\right)\\) và \\(y = 3x + \\left( {3 + m} \\right)\\) (có \\(12 \\ne 3)\\) cắt nhau tại một điểm trên trục tung nghĩa là chúng có cùng tung độ gốc.\nSuy ra: \\(5 - m = 3 + m \\Leftrightarrow 2m = 2 \\Leftrightarrow m = 1\\)\nVậy với \\(m = 1\\) thì đồ thị của các hàm số đã cho cắt nhau tại một điểm trên trục tung.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm giá trị của \\(a\\) để hai đường thẳng \\(y = \\left( {a - 1} \\right)x + 2\\) và \\(y = \\left( {3 - a} \\right)x + 1\\) song song với nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai đường thẳng \\(y = ax + b\\) và \\(y = a'x + b'\\) song song với nhau khi và chỉ khi \\(a = a'\\) và \\(b \\ne b'\\)\nLời giải chi tiết\nHai đường thẳng \\(y = \\left( {a - 1} \\right)x + 2\\) và \\(y = \\left( {3 - a} \\right)x + 1\\) có tung độ gốc khác nhau do vậy chúng song song với nhau khi và chỉ khi chúng có hệ số \\(a\\) bằng nhau.\nTa có: \\(a - 1 = 3 - a \\Leftrightarrow 2a = 4 \\Leftrightarrow a = 2\\)\nVậy với \\(a = 2\\) thì hai đường thẳng \\(y = \\left( {a - 1} \\right)x + 2\\) và \\(y = \\left( {3 - a} \\right)x + 1\\) song song với nhau.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với điều kiện nào của \\(k\\) và \\(m\\) thì hai đường thẳng sau sẽ trùng nhau ?\n\\(y = kx + (m – 2)\\);\n\\(y = (5 – k )x + (4 – m ).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai đường thẳng \\(y = ax + b\\) và \\(y = a'x + b'\\) trùng nhau khi và chỉ khi \\(a = a';b = b'\\).\nLời giải chi tiết\nHai đường thẳng \\(y = kx + (m – 2)\\) và \\(y = (5 – k)x + (4 – m)\\) trùng nhau khi và chỉ khi \\(k = 5 – k\\) và \\(m – 2 = 4 – m.\\)\nTa có: \\(k = 5 – k ⇔ 2k = 5 ⇔ k = 2,5\\) và \\(m – 2 = 4 – m ⇔ 2m = 6 ⇔ m = 3\\)\nVậy với \\(k = 2,5\\) và \\(m = 3\\) thì hai đường thẳng \\(y = kx +(m – 2)\\) và \\(y = (5 – k )x + (4 – m)\\) trùng nhau.\nLoigiaihay.com"
+    }
+]

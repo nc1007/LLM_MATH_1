@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 3 : Tính: 5847 + 2918  \nA.\t8755\nB.\t8765\nC.\t8675\nD.\t7865",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện đặt tính và tính ta có:\n\tVậy 5847 + 2918 = 8765."
+    },
+    {
+        "problem": "Câu 5 :  Chọn dấu thích hợp để điền vào chỗ chấm: 18903 ... 9987 \nA. >\nB. <\nC. =",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 18903 có nhiều chữ số hơn số 9987 nên 18903 > 9987."
+    },
+    {
+        "problem": "Câu 8 : Sắp xếp các số theo thứ tự từ bé đến lớn:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số đã cho đều có 5 chữ số nên  khi xét các chữ số ở từng hàng ta thấy:\n  29785<72895<87259<87925\nNên các số trên được sắp xếp theo thứ tự tăng dần như sau:\n  29785;72895;87259;87925\nVậy các số cần điền theo thứ tự từ trái sang phải lần lượt là 29785;72895;87259;87925."
+    },
+    {
+        "problem": "Câu 9 :  Sắp xếp các số theo thứ tự từ bé đến lớn:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh các số đã cho ta có :\n  501<580<5609<10001\nDo đó các số trên được sắp xếp theo thứ tự từ bé đến lớn như sau:\n  501;580;5609;10001."
+    },
+    {
+        "problem": "Câu 10 : Chọn dấu thích hợp để điền vào chỗ chấm: \n91483 - 28095…15848 × 4\nA. =\nB. >\nC. <",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n91483 − 28095 = 63388 ; 15848×4=63392\nMà 63388 < 63392.\nVậy 91483 – 28095 < 15848 × 4."
+    },
+    {
+        "problem": "Câu 11 : Tính giá trị biểu thức: (40136 - 12892) x 3 \nA.\t1460\nB.\t2460\nC.\t72622\nD.\t81732",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(40136 − 12892) × 3\n= 27244 × 3\n= 81732"
+    },
+    {
+        "problem": "Câu 14 :   \nTìm x  biết: \n\n(x - 3245) × 4 = 24241 - 17213\nA.\t1488\nB.\t5002\nC.\t20008\nD.\t31357",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(x−3245)×4=24241−17213\n(x−3245)×4=7028\nx−3245=7028:4\nx−3245=1757\nx=1757+3245\nx=5002\nChú ý\nHọc sinh có thể làm sai từ bước 3 khi tính x−3245=7028×4, từ đó tìm ra đáp \nán x=31357 và chọn D; hoặc bỏ dấu ngoặc thành x−3245×4=7028, \ntừ đó tìm ra đáp án x=20008 và chọn C."
+    }
+]

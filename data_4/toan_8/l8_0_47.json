@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Bài 1: Hãy chọn câu sai. Hình chữ nhật có\nA. Bốn góc\nB. Hai đường chéo giao nhau tại trung điểm mỗi đường\nC. Hai đường chéo vuông góc với nhau\nD. Các cạnh đối bằng nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTừ định nghĩa là tính chất hình chữ nhật ta có A, B, D đúng và C sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 3: Hãy chọn câu sai.\nA. Hình thang có một góc vuông là hình chữ nhật\nB. Hình bình hành có một góc vuông là hình chữ nhật\nC. Hình bình hành có hai đường chéo bằng nhau là hình chữ nhật\nD. Hình thang cân có một góc vuông là hình chữ nhật",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hình thang cân có một góc vuông là hình chữ nhật nên D đúng\n+ Hình bình hành có một góc vuông là hình chữ nhật nên B đúng\n+ Hình bình hành có hai đường chéo bằng nhau là hình chữ nhật nên C đúng\n+ Hình thang có một góc vuông là hình thang vuông nên A sai\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 7: Hãy chọn câu trả lời đúng. Hình bình hành ABCD là hình chữ nhật khi:\nA. AB = BC\nB. AC = BD\nC. BC = CD\nD. AC⊥ BD",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì hình bình hành có hai đường chéo bằng nhau là hình chữ nhật nên hình bình hành ABCD có AC = BD thì ABCD là hình chữ nhật\nĐáp án cần chọn là: B"
+    }
+]

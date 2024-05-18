@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Bài 1.10 trang 10 sách bài tập Toán lớp 7 Tập 1: Điền các số hữu tỉ thích hợp vào ô trống trong hình tháp dưới đây, biết rằng mỗi ô ở hàng trên bằng tổng của hai số trong hai ô kế nó ở hàng dưới.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện cộng, trừ các số hữu tỉ ta thu được bẳng sau:\n"
+    },
+    {
+        "problem": "Bài 1.11 trang 11 sách bài tập Toán lớp 7 Tập 1: Điền số hoặc dấu thích hợp vào ô trống:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện nhân chia các số hữu tỉ ta thu được bẳng sau:\n"
+    },
+    {
+        "problem": "Bài 1.11 trang 11 sách bài tập Toán lớp 7 Tập 1: Điền số hoặc dấu thích hợp vào ô trống:\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện nhân chia các số hữu tỉ ta thu được bẳng sau:\n"
+    },
+    {
+        "problem": "Bài 1.12 trang 11 sách bài tập Toán lớp 7 Tập 1: Với bài tập: Tính tổng A = -5,2.72 + 69,1 + 5,2 .(-28) + (-1,1). Hai bạn Vuông và Tròn đã làm như sau:\n\na) Em hãy giải thích cách làm của mỗi bạn.\nb) Theo em, nên làm theo cách nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Cách làm của bạn Vuông là bạn Vuông đã thực hiện phép tính một cách lần lượt nhân ra rồi cộng.\nCách làm của bạn Tròn là sửa dụng đến các tính chất của phép cộng là phép nhân để nhóm lại với nhau.\nb) Theo em, nên làm cách của bạn Tròn vì cách làm đó nhanh hơn, hiêu quả hơn việc nhân với số tròn trục hay tròn trăm khiến chúng ta dễ dàng tính toán ít nhầm lẫn hơn."
+    },
+    {
+        "problem": "Bài 1.12 trang 11 sách bài tập Toán lớp 7 Tập 1: Với bài tập: Tính tổng A = -5,2.72 + 69,1 + 5,2 .(-28) + (-1,1). Hai bạn Vuông và Tròn đã làm như sau:\n\na) Em hãy giải thích cách làm của mỗi bạn.\nb) Theo em, nên làm theo cách nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Cách làm của bạn Vuông là bạn Vuông đã thực hiện phép tính một cách lần lượt nhân ra rồi cộng.\nCách làm của bạn Tròn là sửa dụng đến các tính chất của phép cộng là phép nhân để nhóm lại với nhau.\nb) Theo em, nên làm cách của bạn Tròn vì cách làm đó nhanh hơn, hiêu quả hơn việc nhân với số tròn trục hay tròn trăm khiến chúng ta dễ dàng tính toán ít nhầm lẫn hơn."
+    },
+    {
+        "problem": "Bài 1.13 trang 11 sách bài tập Toán lớp 7 Tập 1: Tính bằng cách hợp lí giá trị của các biểu thức:\na) A=−15+37:54+−45+47:54\nb) B = 2 022,2021 . 1954,1954 + 2 022,2021 . (-1954, 1954)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) A=−15+37:54+−45+47:54\nA=−15+37.45+−45+47.45\nA=−15+37−45+47.45\nA=−15−45+37+47.45\nA=−55+77.45\nA=−1+1.45\nA=0.45 = 0.\nb) B = 2 022,2021 . 1954,1954 + 2 022,2021 . (-1954, 1954)\nB = 2 022,2021.(1954,1954 – 1954,1954)\nB = 2 022,2021.0 = 0."
+    },
+    {
+        "problem": "Bài 1.13 trang 11 sách bài tập Toán lớp 7 Tập 1: Tính bằng cách hợp lí giá trị của các biểu thức:\na) A=−15+37:54+−45+47:54\nb) B = 2 022,2021 . 1954,1954 + 2 022,2021 . (-1954, 1954)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) A=−15+37:54+−45+47:54\nA=−15+37.45+−45+47.45\nA=−15+37−45+47.45\nA=−15−45+37+47.45\nA=−55+77.45\nA=−1+1.45\nA=0.45 = 0.\nb) B = 2 022,2021 . 1954,1954 + 2 022,2021 . (-1954, 1954)\nB = 2 022,2021.(1954,1954 – 1954,1954)\nB = 2 022,2021.0 = 0."
+    },
+    {
+        "problem": "Bài 1.14 trang 11 sách bài tập Toán lớp 7 Tập 1: Đặt một cặp dấu ngoặc “()” vào biểu thức ở vế trái để được kết quả đúng bằng vế phải:\na) 2,2 – 3, 3 + 4,4 – 5,5 + 6,6 = 6,6.\nb) 2,2 – 3,3 + 4,4 – 5,5 + 6,6 = -6,6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Ta đặt ngoặc như sau:\n2,2 – (3,3 + 4,4 – 5,5) + 6,6 = 6,6.\nKiểm tra lại ta thấy:\n2,2 – (3,3 + 4,4 – 5,5) + 6,6\n= 2,2 – 2, 2 + 6,6 = 6,6\nb) Ta đặt ngoặc như sau:\n2,2 – (3,3 + 4,4 – 5,5 + 6,6) = -6,6.\nKiểm tra lại ta thấy:\n2,2 – (3,3 + 4,4 – 5,5 + 6,6)\n= 2,2 – (7,7 – 5,5 + 6,6)\n= 2,2 – (2,2 + 6,6)\n= 2,2 – 8,8 = -6,6"
+    },
+    {
+        "problem": "Bài 1.14 trang 11 sách bài tập Toán lớp 7 Tập 1: Đặt một cặp dấu ngoặc “()” vào biểu thức ở vế trái để được kết quả đúng bằng vế phải:\na) 2,2 – 3, 3 + 4,4 – 5,5 + 6,6 = 6,6.\nb) 2,2 – 3,3 + 4,4 – 5,5 + 6,6 = -6,6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Ta đặt ngoặc như sau:\n2,2 – (3,3 + 4,4 – 5,5) + 6,6 = 6,6.\nKiểm tra lại ta thấy:\n2,2 – (3,3 + 4,4 – 5,5) + 6,6\n= 2,2 – 2, 2 + 6,6 = 6,6\nb) Ta đặt ngoặc như sau:\n2,2 – (3,3 + 4,4 – 5,5 + 6,6) = -6,6.\nKiểm tra lại ta thấy:\n2,2 – (3,3 + 4,4 – 5,5 + 6,6)\n= 2,2 – (7,7 – 5,5 + 6,6)\n= 2,2 – (2,2 + 6,6)\n= 2,2 – 8,8 = -6,6"
+    },
+    {
+        "problem": "Bài 1.15 trang 12 sách bài tập Toán lớp 7 Tập 1: Chim ruồi “khổng lồ” Nam Mỹ (Giant hummingbird of South America) là loại chim ruồi to nhất trên thế giới. Nó dài gấp 418 lần chim ruồi ong (bee hummingbird). Nếu độ dài của chim ruồi ong là 5,5 cm thì độ dài của chim ruồi “khổng lồ” Nam Mỹ là bao nhiêu?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 418=338.\nĐộ dài chim ruồi “khổng lồ” Nam Mỹ là:\n5,5.338 = 5510.338=36316 (cm).\nVậy độ dài chim ruồi “khổng lồ” là 3638cm."
+    },
+    {
+        "problem": "Bài 1.15 trang 12 sách bài tập Toán lớp 7 Tập 1: Chim ruồi “khổng lồ” Nam Mỹ (Giant hummingbird of South America) là loại chim ruồi to nhất trên thế giới. Nó dài gấp 418 lần chim ruồi ong (bee hummingbird). Nếu độ dài của chim ruồi ong là 5,5 cm thì độ dài của chim ruồi “khổng lồ” Nam Mỹ là bao nhiêu?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 418=338.\nĐộ dài chim ruồi “khổng lồ” Nam Mỹ là:\n5,5.338 = 5510.338=36316 (cm).\nVậy độ dài chim ruồi “khổng lồ” là 3638cm."
+    },
+    {
+        "problem": "Bài 1.16 trang 12 sách bài tập Toán lớp 7 Tập 1: Mật độ dân số là số người sinh sống trên một đơn vị diện tích. Monaco là một đất nước ở khu vực Tây Âu, nằm ở một eo biển nhỏ phía nam nước Pháp, bên bờ biển Cote d’Azur. Đây là đất nước có mật độ dân số cao nhất thế giới. Monaco có diện tích khoảng 2,1 km2. Năm 2020, ước tính dân số của Monaco là 38 900 người. Hỏi mật độ dân số trên 1 km2 của Monaco khoảng bao nhiêu?\n(Theo www.britannica.com)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mật độ dân số trên 1 km2 của Monaco là:\n38 900 : 2,1 ≈ 18524 (người/km2)\nVậy mật độ dân số của Monaco là xấp xỉ 18524 người/km2."
+    },
+    {
+        "problem": "Bài 1.16 trang 12 sách bài tập Toán lớp 7 Tập 1: Mật độ dân số là số người sinh sống trên một đơn vị diện tích. Monaco là một đất nước ở khu vực Tây Âu, nằm ở một eo biển nhỏ phía nam nước Pháp, bên bờ biển Cote d’Azur. Đây là đất nước có mật độ dân số cao nhất thế giới. Monaco có diện tích khoảng 2,1 km2. Năm 2020, ước tính dân số của Monaco là 38 900 người. Hỏi mật độ dân số trên 1 km2 của Monaco khoảng bao nhiêu?\n(Theo www.britannica.com)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mật độ dân số trên 1 km2 của Monaco là:\n38 900 : 2,1 ≈ 18524 (người/km2)\nVậy mật độ dân số của Monaco là xấp xỉ 18524 người/km2."
+    }
+]

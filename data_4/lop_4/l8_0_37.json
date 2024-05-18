@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 1 : Cho phép tính: 4832 + 59. Trong các cách tính sau, cách tính nào đúng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy 4832+59=4891."
+    },
+    {
+        "problem": "Câu 2 : Thực hiện phép tính: 4826 + 307 \nA.\t5123\nB.\t5133\nC.\t7833\nD.\t7896",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy 4826+307=5133."
+    },
+    {
+        "problem": "Câu 4 : 541675 + 95234 = 636809. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\n541675+95234=636909\nVậy phép tính đã cho là sai."
+    },
+    {
+        "problem": "Câu 5 : Thực hiện phép tính: 57369 + 8264 + 13725 \nA.\t69348\nB.\t78348\nC.\t78258\nD.\t79358",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy 57369+8264+13725=79358."
+    },
+    {
+        "problem": "Câu 10 : Tổng của số chẵn lớn nhất có 5 chữ số và số lẻ bé nhất có 5 chữ số là: \nA.\t109998\nB.\t109999\nC.\t110000\nD.\t110001",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số chẵn lớn nhất có 5 chữ số là: 99998.\nSố lẻ bé nhất có 5 chữ số là: 10001 .\nTổng của số lớn nhất có 5 chữ số và số bé nhất có 5 chữ số là:\n99998+10001=109999"
+    },
+    {
+        "problem": "Câu 13 : Thùng thứ nhất chứa 450 lít dầu. \nNếu chuyển 48 lít dầu từ thùng thứ hai sang thùng thứ nhất thì hai thùng có số dầu bằng nhau. \nHỏi thùng thứ hai có bao nhiêu lít dầu? \nA.\t498 lít\nB.\t528 lít\nC.\t536 lít\nD.\t546 lít",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu chuyển 48 lít dầu từ thùng thứ hai sang thùng thứ nhất thì thùng thứ nhất có số lít dầu là:\n    450+48=498 (lít)\n\tThùng thứ hai có số lít dầu là:\n              498+48=546 (lít)\n                              Đáp số: 546 lít."
+    }
+]

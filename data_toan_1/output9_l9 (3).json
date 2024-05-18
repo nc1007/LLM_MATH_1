@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Giá tiền in một trang giấy khổ A4 là 350 đồng. Hỏi bác Thiệp phải trả bao nhiêu tiền nếu in một tập tài liệu khổ A4 dày 250 trang?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền mà bác Thiệp phải trả khi in tập tài liệu = Giá tiền phôtô một trang giấy . Số trang\nLời giải chi tiết\nSố tiền mà bác Thiệp phải trả khi in tập tài liệu đó là:\n250 . 350 = 87 500 (đồng)\nĐáp số: 87 500 đồng"
+    },
+    {
+        "problem": "Cho a = 12, b = 5. Tính a.b, b.a và so sánh hai kết quả\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính rồi so sánh hai kết quả\nLời giải chi tiết\na.b = 12.5 = 60\nb.a = 5.12 = 60.\n=> a.b = b.a"
+    },
+    {
+        "problem": "Tìm số tự nhiên c sao cho (3 . 2). 5 = 3 . (2 . c).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biến đối vế phải về dạng chứa ngoặc như vế trái\nLời giải chi tiết\nTa có 3. (2 . c) = (3 . 2) . c = (3.2) . 5\nDo đó c =5"
+    },
+    {
+        "problem": "Tính và so sánh 3.(2+5) và 3.2 +3.5\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tinh trong ngoặc trước ---> phép nhân ---> phép cộng\nLời giải chi tiết\nTa có: 3 .(2+5) = 3.7 = 21\n3.2+ 3.5 = 6 + 15 =21\nVậy 3.(2+5) = 3.2 +3.5"
+    },
+    {
+        "problem": "Tính nhẩm: 125.8001.8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán của phép nhân\nLời giải chi tiết\n125 . 8001 . 8 = (125 . 8) . 8 001 = 1000 . 8 001 = 8 001 000"
+    },
+    {
+        "problem": "Một trường học lên kế hoạch thay tất cả các bóng đèn sợi đốt bình thường bằng bóng đèn led cho 32 phòng học, mỗi phòng 8 bóng. Nếu mỗi bóng đèn led có giá 96 000 đồng thì nhà trường phải trả bao nhiêu tiền để thay đủ đèn led cho tất cả các phòng học?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính số bóng đèn cần phải thay\n=> Tổng số tiền nhà trường phải trả\nLời giải chi tiết\nSố bóng đèn cần phải thay tất cả là:\n32 . 8 = 256 (bóng đèn)\nTổng số tiền nhà trường phải trả là:\n96 000 . 256 = 24 576 000 (đồng)\nĐáp số: 24 576 000 đồng\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong hai phép chia trên, hãy chỉ ra phép chia hết và phép chia có dư. Trong mỗi trường hợp, hãy cho biết số bị chia, số chia, thương và số dư (nếu có).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào hoạt động 4 để chỉ ra phép chia hết và phép chia có dư.\nLời giải chi tiết\nPhép chia hết là: 196 : 7 = 28\nSố bị chia là 196, số chia là 7, thương là 28\nPhép chia có dư là 215 : 18 = 11 (dư 17)\nSố bị chia là 215, số chia là 18, thương là 11 và số dư là 17"
+    },
+    {
+        "problem": "Giải bài toán mở đầu: Mẹ em mua 1 túi 10 kg gạo ngon loại 20 nghìn đồng một kilogam. Hỏi mẹ em phải đưa cho cô bán hàng bao nhiêu tờ 50 nghìn đồng để trả tiền gạo?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền mà mẹ phải trả\n=> Số tờ 50 nghìn đồng mà mẹ phải đưa\nLời giải chi tiết\nSố tiền mà mẹ phải trả là:\n10 . 20 000 = 200 000 (đồng)\nSố tờ 50 nghìn đồng mà mẹ phải đưa là:\n200 000 : 50 000 = 4 (tờ)\nĐáp số: 4 tờ\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính nhẩm:\na) 125 . 10;                b) 2 021 . 100\nc) 1 991. 25.4;          d) 3025 .125 . 8\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các thừa số để tích của chúng là số tròn trăm, tròn nghìn rồi tính nhẩm\nLời giải chi tiết\na) 125 . 10 = 1 250\nb) 2 021 . 100 = 202 100\nc) 1 991 . 25 . 4 = 1 991 . (25 . 4) = 1 991 . 100 = 199 100\nd) 3 025 . 125 . 8 = 3 025 . (125 . 8)\n= 3 025 . 1 000 = 3 025 000\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính nhẩm:\na) 125 . 101. Hướng dẫn viết 101 = 100+1.\nb) 21 . 49. Hướng dẫn viết 49 = 50 - 1.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta tách: 101 = 100+1 và 49 = 50 – 1.\nÁp dụng tính chất phân phối của phép nhân với phép cộng, phép trừ: a.(b+c) = a.b + a.c\na.(b – c) = a.b – a.c\nLời giải chi tiết\na) 125 . 101 = 125 . (100 + 1) = 125 . 100 + 125 . 1\n= 12 500 + 125 = 12 625\nb) 21 . 49 = 21 . (50 - 1) = 21 . 50 - 21 . 1\n= 1 050 - 21 = 1 029\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một trường Trung học cơ sở có 50 phòng học, mỗi phòng có 11 bộ bàn ghế, mỗi bộ bàn ghế có thể xếp cho 4 học sinh ngồi. Trường có thể nhận nhiều nhất bao nhiêu học sinh?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số học sinh trường có thể nhận nhiều nhất để mọi học sinh đều có chỗ ngồi = số phòng học . số bộ bàn ghế mỗi phòng . số học sinh có thể xếp vào 1 bộ bàn ghế.\nLời giải chi tiết\nSố học sinh trường có thể nhận nhiều nhất để mọi học sinh đều có chỗ ngồi là:\n50 . 11 . 4 = 2200 (học sinh)\nĐáp số: 2200 học sinh\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tổng điều tra dân số ngày 1 - 4 - 2019, tỉnh Bắc Giang có 1 803 950 người (theo Tổng cục Thống kê). Biết rằng hai lần số dân tỉnh Bắc Giang kém số dân Thanh Hóa 32 228 người. Tính số dân tỉnh Thanh Hóa.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số dân tỉnh Thanh Hóa = Số dân tỉnh Bắc Giang . 2 + 32 228\nLời giải chi tiết\nSố dân tỉnh Thanh Hóa là:\n1 803 950 . 2 + 32 228 = 3 640 128 (người)\nĐáp số: 3 640 128 người"
+    },
+    {
+        "problem": "Một trường Trung học cơ sở có 997 học sinh tham dự lễ tổng kết cuối năm. Ban tổ chức đã chuẩn bị những chiếc ghế băng 5 chỗ ngồi. Phải có ít nhất bao nhiêu ghế băng như vậy để tất cả học sinh đều có chỗ ngồi?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia 997 cho 5 để kết luận. Nếu phép chia dư thì ta phải dùng thêm 1 băng ghế cho số học sinh dư.\nLời giải chi tiết\nVì 997 : 5 = 199 (dư 2) nên xếp đủ 199 chiếc ghế và còn thừa 2 học sinh và phải dùng thêm 1 chiếc ghế để có chỗ cho 2 học sinh.\nVậy, cần dùng ít nhất: 199 + 1 = 200 (ghế băng)"
+    },
+    {
+        "problem": "Một nhà máy dùng ô tô chuyển 1 290 kiện hàng tới một cửa hàng. Nếu mỗi chuyến xe chở được 45 kiện thì phải cần ít nhất bao nhiêu chuyến xe để chuyển hết số kiện hàng trên?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia 1 290 cho 45 để suy ra số chuyến xe, nếu phép chia dư thì ta phải dùng thêm 1 chuyến xe nữa\nLời giải chi tiết\nVì 1 290 : 45 = 28 (dư 30) nên xếp đủ 28 chuyến xe thì còn dư 30 kiện hàng, và phải dùng thêm 1 chuyến xe nữa để chở hết 30 kiện hàng đó.\nVậy, cần ít nhất là: 28 + 1 = 29 (chuyến)."
+    }
+]

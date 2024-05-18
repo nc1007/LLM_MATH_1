@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1: Muốn tính thời gian ta lấy quãng đường chia cho vận tốc. Đúng hay sai? \nA.\tĐúng \nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính thời gian ta lấy quãng đường chia cho vận tốc.\nVậy phát biểu đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2: Gọi vận tốc là v, quãng đường làs, thời gian là t. Công thức tính thời gian là:\nA.\tt = s + v\nB.\tt = s – v \nC.\tt = s × v\nD.\tt = s : v",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính thời gian ta lấy quãng đường chia cho vận tốc.\nGọi vận tốc là v, quãng đường là s, thời gian là t thì công thức tính thời gian là t = s : v."
+    },
+    {
+        "problem": "Câu 3: Chọn số thích hợp điền vào chỗ chấm:\nA.\t2,25\nB.\t2,2\nC.\t3,25\nD.\t3,2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian cần tìm là:\n81 : 36 = 2,25 (giờ)\nĐáp số: 2,25 giờ.\nVậy đáp án đúng điền vào chỗ chấm là 2,25."
+    },
+    {
+        "problem": "Câu 4: Chọn số thích hợp điền vào chỗ chấm:\nA.\t30\nB.\t32\nC.\t34\nD.\t36",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian cần tìm là:  \n1260 : 35 = 36 (phút)\nĐáp số: 36 phút.\nVậy đáp án đúng điền vào chỗ chấm là 36."
+    },
+    {
+        "problem": "Câu 5: Chọn số thích hợp điền vào chỗ chấm:\nA.\t0,15\nB.\t1,5\nC.\t15\nD.\t150",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 2,7km = 2700m\nThời gian cần tìm là: \n2700 : 18 = 150 (giây)\nĐáp số: 150 giây."
+    },
+    {
+        "problem": "Câu 7: Lúc 13 giờ 45 phút, một chiếc xe máy xuất phát từ A đi đến B với vận tốc 40 km/giờ. Biết quãng đường AB dài 32km. Hỏi xe máy đến B lúc mấy giờ?\nA.\t13 giờ 15 phút\nB.\t14 giờ 25 phút\nC.\t14 giờ 33 phút\nD.\t14 giờ 43 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian để xe máy đi hết quãng đường AB là:\n32 : 40 = 0,8 (giờ)\nĐổi: 0,8 giờ = 60 phút × 0,8 = 48 phút\nXe máy đến B lúc:\n13 giờ 45 phút + 48 phút = 13 giờ 93 phút\nĐổi 13 giờ 93 phút = 14 giờ 33 phút (vì 93 phút = 1 giờ 33 phút)\nVậy xe máy đến B lúc 14 giờ 33 phút.\nĐáp số: 14 giờ 33 phút."
+    },
+    {
+        "problem": "Câu 9: Hai tỉnh A và B cách nhau 70km. Lúc 7 giờ 30 phút, một người đi xe máy từ A với vận tốc 40 km/giờ để đến B. Hỏi người đó đến B lúc mấy giờ? Biết giữa đường người đó nghỉ 20 phút.\nA.\t8 giờ 55 phút\nB.\t9 giờ 5 phút\nC.\t9 giờ 15 phút\nD.\t9 giờ 35 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian để người đó đi hết quãng đường AB là:\n70 : 40 = 1,75 (giờ)\nĐổi: 1,75 giờ = 105 phút = 1 giờ 45 phút\nNgười đó đến B lúc:\n7 giờ 30 phút +1 giờ 45 phút  + 20 phút = 8 giờ 95 phút\nĐổi 8 giờ 95 phút = 9 giờ 35 phút  (vì 95 phút = 1 giờ 35 phút)\nĐáp số: 9 giờ 35 phút."
+    },
+    {
+        "problem": "Câu 12: Lúc 6 giờ 15 phút, một người đi xe đạp từ A đến B với vận tốc 12 km/giờ. Lúc 7 giờ một người khác đi xe máy với vận tốc 36 km/giờ và đến B lúc 7 giờ 45 phút. Hỏi người đi xe đạp đến trước hay người đi xe máy đến trước và đến trước bao nhiêu thời gian?\nA.\tNgười đi xe đạp; 15 phút\nB.\tNgười đi xe máy; 45 phút\nC.\tNgười đi xe đạp; 5 phút\nD.\tNgười đi xe máy; 30 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Người đi xe máy đi từ A đến B hết số thời gian là:\n7 giờ 45 phút − 7 giờ = 45 phút  \nĐổi 45 phút = 0,75 giờ\nQuãng đường AB dài số ki-lô-mét là:\n36 × 0,75 = 27 (km)\nThời gian để đi xe đạp từ A đến B là:\n27 : 12 = 2,25 (giờ)\nĐổi: 2,25 giờ = 2 giờ 15 phút\nNgười đi xe đạp đến B lúc:\n6 giờ 15 phút + 2 giờ 15 phút = 8 giờ 30 phút\nTa có: 7 giờ 45 phút < 8 giờ 30 phút\nVậy người đi xe máy đến trước người đi xe đạp và đến trước số thời gian là\n8 giờ 30 phút − 7 giờ 45 phút = 45 phút\nĐáp số: Người đi xe máy; 45 phút."
+    },
+    {
+        "problem": "Câu 13: Quãng đường AB dài 120km. Lúc 7 giờ 30 phút một ô tô đi từ A đến B với vận tốc 50 km/giờ và nghỉ trả khách 45 phút. Sau đó ô tô đi từ B về A với vận tốc 60 km/giờ. Hỏi ô tô về đến A lúc mấy giờ?\nA.\t12 giờ 39 phút\nB.\t12 giờ 19 phút\nC.\t11 giờ 54 phút\nD.\t11 giờ 9 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian ô tô đi từ A đến B là:\n120 : 50 = 2,4 (giờ)\nĐổi 2,4 giờ = 2 giờ 24 phút\nThời gian ô tô đi từ B về A:\n120 : 60 = 2 (giờ)\nThời gian ô tô đi từ A đến B và từ B về A (kể cả thời gian nghỉ) là:\n2 giờ 24 phút + 2 giờ + 45 phút = 4 giờ 69 phút\nĐổi 4 giờ 69 phút = 5 giờ 9 phút\nÔ tô về đến A lúc:\n7 giờ 30 phút + 5 giờ 9 phút = 12 giờ 39 phút\nĐáp số: 12 giờ 39 phút."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "B. 9,4;\nC. 9,37;\nD. 9,38.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nSố 9,375 có chữ số hàng phần trăm là 7 > 5 nên trong số 9,375 ta cộng thêm 1 vào chữ số 7 ở hàng phần mười và thay các chữ số đứng bên phải hàng phần mười bởi chữ số 0 rồi bỏ đi những chữ số 0 ở tận cùng bên phải hàng thập phân.\n9,375 → 9,400 → 9,4.\nHoặc ta có thể giải như sau:\nDo chữ số hàng phần trăm là 7 > 5 nên làm tròn số 9,375 đến hàng phần mười ta được: 9,375 ≈ 9,4.\nVậy làm tròn số 9,375 đến hàng phần mười ta được kết quả là: 9,4."
+    },
+    {
+        "problem": "Câu 2. Làm tròn số 14,11 đến hàng đơn vị ta được số nào?\nA. 14;\nB. 14,1;\nC. 14,2;\nD. 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nSố 14,11 có chữ số hàng phần mười là 1 < 5 nên trong số 14,11 ta giữ nguyên chữ số hàng đơn vị và thay các chữ số hàng thập phận bởi chữ số 0 rồi bỏ đi những chữ số 0 ở tận cùng bên phải hàng thập phân.\n14,11 → 14,00 → 14.\nHoặc ta có thể giải như sau:\nDo chữ số hàng phần mười là 1 < 5 nên làm tròn số 14,11 đến hàng đơn vị ta được: 14,11 ≈ 14.\nVậy làm tròn số 14,11 đến hàng đơn vị ta được số 14."
+    },
+    {
+        "problem": "Câu 3. Làm tròn một số với độ chính xác 0,0005 tức là làm tròn đến hàng:\nA. hàng đơn vị;\nB. hàng phần mười;\nC.hàng phần trăm;\nD.hàng phần nghìn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nĐể làm tròn số với độ chính xác 0,0005 thì ta làm tròn số đó đến hàng phần nghìn."
+    },
+    {
+        "problem": "Câu 4. Làm tròn số 576 123 với độ chính xác 5 000 ta được:\nA. 580 000;\nB. 576 000;\nC. 570 000;\nD. 600 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nĐể làm tròn số 576 123 với độ chính xác 5 000 thì ta làm tròn số đó đến hàng chục nghìn.\nTa thấy chữ số hàng nghìn của 576 123 là 6 > 5 nên 576 123 ≈ 580 000.\nVậy làm tròn số 576 123 với độ chính xác 5 000 ta được số 580 000."
+    },
+    {
+        "problem": "Câu 5. Làm tròn số 1,(02) với độ chính xác 0,005 ta được:\nA. 1,0;\nB. 1,02;\nC. 1,1;\nD. 1,021.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có: 1,(02) = 1,020202…\nLàm tròn số 1,020202…với độ chính xác 0,005 tức \nlà ta làm tròn số đó đến hàng phần trăm.\nVì chữ số hàng phần nghìn của 1,020202…là 0 < 5 nên 1,020202… ≈ 1,02.\nVậy làm tròn số 1,(02) với độ chính xác 0,005 ta được số 1,02."
+    },
+    {
+        "problem": "Câu 6. Biết 11=3,31662479... Làm tròn số 11 với độ chính xác 0,005 ta được:\nA. 3,3;\nB. 3,31;\nC. 3,32;\nD. 3,4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nLàm tròn số với độ chính xác 0,005 tức là làm tròn đến hàng phần trăm.\n11=3,31662479... có chữ số hàng phần nghìn là 6 > 5 nên 3,31662479 ≈ 3,32.\nVậy làm tròn số 11 với độ chính xác 0,05 ta được kết quả là 3,32."
+    },
+    {
+        "problem": "Câu 7. Vào một ngày tháng 3 năm 2022, xăng dầu có giá 27 798 đồng/ lít. Một người đi xe máy muốn đổ xăng cho chiếc xe của mình nên đã làm tròn giá xăng là 30 000 đồng/ lít để ước lượng giá tiền mình cần trả để đổ xăng. Hỏi người đó đã làm tròn giá xăng đến hàng nào?\nA. Hàng chục;\nB. Hàng trăm;\nC. Hàng nghìn;\nD. Hàng chục nghìn;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nĐộ chính xác là 30 000 – 27 798 = 2 202.\nVì 2 202 < 5 000 nên người đó đã làm tròn đến hàng chục nghìn.\nVậy người đó đã làm tròn giá xăng đến hàng chục nghìn."
+    },
+    {
+        "problem": "Câu 8. Các nhà khoa học tính được vận tốc ánh sáng bằng 299 792 458 m/s. Để dễ nhớ, người ta nói vận tốc ánh sáng là 300 000 000 m/s. Số liệu đã được làm tròn với độ chính xác là bao nhiêu?\nA. 5 000;\nB. 50 000;\nC. 500 000;\nD. 5 000 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nĐộ chính xác là: \n300 000 000 – 299 792 458 = 207 542\nVì 207 542 < 500 000 nên số liệu đã được làm tròn với độ chính xác 500 000.\nVậy số liệu đã được làm tròn với độ chính xác 500 000."
+    },
+    {
+        "problem": "Câu 10. Thực hiện phép tính (11,253 + 2,5) – (7,253 – 5,25) rồi làm tròn kết quả với độ chính xác 0,05 ta được kết quả là:\nA. 11,7;\nB. 12;\nC. 11,75;\nD. 11,8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\n(11,253 + 2,5) – (7,253 – 5,25) \n= 11,253 + 2,5 – 7,253 + 5,25\n= (11,253 – 7,253) + 2,5 + 5,25\n= 4 + 2,5 + 5,25\n= 6,5 + 5,25\n= 11,75.\nLàm tròn kết quả với độ chính xác 0,05 tức là làm tròn đến chữ số hàng phần mười.\nKhi đó 11,75 ≈ 11,8.\nVậy làm tròn kết quả của phép tính ta được số 11,8."
+    },
+    {
+        "problem": "Câu 11. Áp dụng quy tắc làm tròn số để ước lượng kết quả phép tính: 31,12 – (–11,07)\nA. 20,05;\nB. 20;\nC. 42,19;\nD. 42.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nLàm tròn các số trong phép tính 31,12 – (–11,07) ta được:\n31,12 ≈ 31; –11,07 ≈ –11.\nKhi đó ước lượng phép tính ta được:\n31,12 – (–11,07) ≈ 31 – (–11) = 31 + 11 = 42."
+    },
+    {
+        "problem": "Câu 12. Ước lượng kết quả của phép tính\\frac{4,87+2,8}{2,3+1,9}:\nA. 2;\nB. 3;\nC. \\frac{8}{5};\nD. \\frac{8}{3}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nLàm tròn đến hàng đơn vị các số ta được: \n4,87 ≈ 5; 2,8 ≈ 3; 2,3 ≈ 2; 1,9 ≈ 2.\nKhi đó ta có ước lượng phép tính: \\frac{4,87+2,8}{2,3+1,9}≈\\frac{5+3}{2+2}=\\frac{8}{4}=2\nDo đó \\frac{4,87+2,8}{2,3+1,9}≈2.\nVậy ước lượng kết quả của phép tính \\frac{4,87+2,8}{2,3+1,9}ta được kết quả là 2."
+    },
+    {
+        "problem": "Câu 13. Kết quả của phép tính 2,123.10,09 – 5,29.4,98 sau khi được ước lượng là:\nA. –5;\nB. –1;\nC. 1;\nD. –3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A. \nLàm tròn đến hàng đơn vị các thừa số ta được: \n2,123 ≈ 2; 10,09 ≈ 10; 5,29 ≈ 5; 4,98 ≈ 5.\nKhi đó ta có ước lượng phép tính: \n2,123.10,09 – 5,29.4,98 ≈ 2.10 – 5.5 = 20 – 25 = –5.\nVậy kết quả của phép tính sau khi được ước lượng là –5."
+    },
+    {
+        "problem": "Câu 14. Diện tích hình vuông có độ dài cạnh là 12,3 cm (làm tròn kết quả với độ chính xác 5) ta được:\nA. 151 cm^{2} ;\nB. 151,3 cm^{2} ;\nC. 151,29 cm^{2} ;\nD. 150 cm^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nDiện tích hình vuông có cạnh 12,3 cm là: 12,3 . 12,3 = 151,29 (cm^{2} ) \nLàm tròn kết quả với độ chính xác 5 tức là làm tròn số đến hàng chục.\nKhi đó ta có 151,29 ≈ 150.\nVậy diện tích hình vuông cạnh 12,3 cm được làm tròn với độ chính xác 5 là 150 cm^{2} ."
+    },
+    {
+        "problem": "Câu 15. Người ta muốn sơn một bức tường hình chữ nhật với chiều dài 4,8 m và chiều rộng 3,2 m. Hãy ước lượng diện tích bức tường cần sơn.\nA. 15,36 m^{2} ;\nB. 15 m^{2} ;\nC. 12 m^{2} ;\nD. 16 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nƯớc lượng diện tích trần nhà của căn phòng là: \n4,8. 3,2 ≈ 5.3 = 15 (m^{2} ).\nVậy ước lượng diện tích cần sơn là khoảng: 15 (m^{2} )."
+    }
+]

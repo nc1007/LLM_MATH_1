@@ -1,0 +1,110 @@
+[
+    {
+        "problem": "Câu 1. Chọn phát biểu đúng trong số các câu sau:\n(A) Tập hợp số nguyên được kí hiệu là .\n(B) +2 không phải là một số tự nhiên.\n(C) 4 không phải là một số nguyên.\n(D) – 5 là một số nguyên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(A) Tập hợp số nguyên được kí hiệu là Z. Nên A sai.\n(B) + 2 là một số tự nhiên nên B sai.\n(C) 4 là một số nguyên nên C sai.\n(D) – 5 là một số nguyên âm nên – 5 là một số nguyên nên D đúng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2. Trong các phát biểu sau đây, phát biểu nào sai?\n(A) 3 > - 4.                                     \n(B) – 5 > - 9.\n(C) – 1 < 0.                                     \n(D) – 9 > -8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Vì trên trục số điểm – 9 nằm bên trái -8 nên  -9 < -8. Do đó D sai.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Tính các thương sau: (- 14):(- 7).\nA.  – 2\nB. 2\nC. 4 \nD. -4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải (- 14):(- 7) = 14 : 7 = 2.\nĐáp án: B"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Kết quả của phép tính: 25 – (9 – 10) + (28 – 4) là:\nA. 50.                    \nB. 2.                     \nC. – 2.                      \nD. 48.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n25 – (9 – 10) + (28 – 4) \n= 25 – (- 1) + 24\n= 25 + 1 + 24\n= 26 + 24\n= 50.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Kết quả của phép tính: (- 4) . (+21) . (- 25) . (- 2) là:\nA. 420.\n(B) 4 200.\n(C) – 4 200.\n(D) - 420.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(- 4) . (+21) . (- 25) . (- 2) \n= [(-4) . (-25)] . [(+21) . (-2)]     (tính chất giao hoán và kết hợp)\n= 100 . (-42)\n= - 4 200.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Tính: (- 45) – (27 – 8).\nA. 64\nB. -26\nC. -64\nD. 26",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải (- 45) – (27 – 8) = (-45) – 19 = (-45) + (-19) = -64.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Tìm số nguyên x, thỏa mãn: x^{2}  = 81 \nA. x = 9 \nB. x = -9\nC. x = 9 hoặc x = -9 \nD. x = 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n x^{2 } = 81 \nx^{2}  = 9^{2}  hoặc x^{2}  = (-9)^{2} \nx = 9 hoặc x = - 9.\nVậy x = 9 hoặc x = - 9.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 6. Nhận xét nào sau đây đúng về kết quả của phép tính: (2 021 – 39) + [(-21) + (-61)];\nA. Kết quả là một số nguyên âm\nB. Kết quả là một số nguyên dương lớn hơn 2 000\nC. Kết quả là một số nguyên dương nhỏ hơn 2 000\nD. Kết quả bằng 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(2 021 – 39) + [(-21) + (-61)]\n= 2 021 + (-39) + (-21) + (-61)\n= [2 021 + (-21)] + [(-39) + (-61)]\n= 2 000 + (-100)\n= 2 000 – 100\n= 1 900 < 2 000\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Tìm số nguyên x, biết: (-300):20 + 5.(3x – 1) = 25\nA. x = 1\nB. x = 3\nC. x = -1\nD. x = -3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-300):20 + 5.(3x – 1) = 25\n(-15) + 5.(3x – 1) = 25\n5.(3x – 1) = 25 – (-15)\n5.(3x – 1) = 40\n3x – 1 = 8\n3x = 9\nx = 3.\nVậy x = 3.\nĐáp án: B"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Một công ty có 3 cửa hàng A, B, C. Kết quả kinh doanh sau một năm của từng cửa hàng như sau: \nCửa hàng A: lãi 225 triệu đồng. \nCửa hàng B: lỗ 280 triệu đồng. \nCửa hàng C: lãi 655 triệu đồng. \nHỏi bình quân mỗi tháng công ty lãi hay lỗ bao nhiêu tiền từ ba cửa hàng đó?\nA. 386,7 triệu\nB. 630 triệu\nC. 600 triệu\nD. 50 triệu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCửa hàng A lãi 225 triệu đồng được biểu diễn: 225 (triệu đồng).\nCửa hàng B lỗ 280 triệu đồng được biểu diễn: - 280 (triệu đồng).\nCửa hàng C lãi 655 triệu đồng được biểu diễn: 655 (triệu đồng).\nTổng kết quả kinh doanh trong 12 tháng của ba cửa hàng A, B, C là: \n225 + (-280) + 655 = 600 (triệu đồng).\nMỗi tháng doanh thu của công ty là: 600:12 = 50 (triệu đồng).\nVậy bình quân mỗi tháng công ty lãi 50 triệu đồng từ ba cửa hàng A, B, C.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2. Tính một cách hợp lí: (-16).125.[(-3).2^{2} ].5^{3}  – 2.10^{6} \nA. 10^{4} \nB. 10^{5} \nC. 10^{6} \nD. 10^{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-16).125.[(-3).2^{2} ].5^{3}  – 2.10^{6} \n= (-16).125.(-3).4.125 – 2.10^{6} \n= (-2).8.125.(-3).4.125 – 2.10^{6} \n= (-2).4.125.8.125.(-3) – 2.10^{6} \n= (-1 000).1 000.(-3) – 2.10^{6} \n= 3.10^{6}  – 2.10^{6} \n= 10^{6} .(3 – 2)\n= 10^{6} .\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Tìm số nguyên x, biết: (5.13)^{x}  = 25.(5^{3}  + 4.11)^{2}  : (3^{4}  – 3^{5} :3^{3}  + 97) (x ≥ 0)\nA. Không có giá trị nguyên của x\nB. x = 1\nC. x = 5\nD. x = 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nb) (5.13)^{x}  = 25.(5^{3}  + 4.11)^{2}  : (3^{4}  – 3^{5} :3^{3}  + 97) (x ≥ 0)\n65^{x}  = 25.(125 + 44)^{2}  : (81 – 3^{2}  + 97)\n65^{x}  = 25.169^{2}  : (81 – 9 + 97)\n65^{x}  = 25.169^{2}  : 169\n65^{x}  = 25.169\n65^{x}  = 5^{2} .13^{2} \n65^{x}  = (5.13)^{2} \n65^{x}  = (65)^{2} \nx = 2 (thỏa mãn điều kiện)\nVậy x = 2.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Tính một cách hợp lí: (134 – 34).(-28) + 72.[(-55) – 45].\nA. 10 000\nB. 1 000\nC. – 10 000\nD. – 100 000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(134 – 34).(-28) + 72.[(-55) – 45]\n= 100.(-28) + 72.(-100)\n= 100(-28) + (-72).100\n= 100.[(-28) + (-72)]\n= 100.(-100)\n= - 10 000.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Có bao nhiêu giá trị nguyên của x, thỏa mãn:  (x + 1).(x – 4) < 0.\nA.   Vô số\nB. 3\nC. 0\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(x + 1).(x – 4) < 0.\nTa có x + 1 > x – 4\nMà x + 1 và x – 4 trái dấu \nNên x + 1 > 0 và x – 4 < 0\nSuy ra x > - 1 và x < 4\nHay – 1 < x < 4.\nDo x là số nguyên nên x ∈ {0; 1; 2; 3}.\nVậy x ∈ {0; 1; 2; 3}.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Tính A – B, biết rằng A là tích của các số nguyên âm chẵn có một chữ số và B là tổng của các số nguyên dương lẻ có hai chữ số.\nA. – 2 091\nB. 384\nC. 2 475\nD. - 1 909",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số nguyên âm chẵn có một chữ số là: - 2; - 4; - 6; - 8.\nKhi đó A = (-2).(-4).(-6).(-8)\n= 384.\nCác số nguyên lẻ có hai chữ số là: 11; 13; 15; …; 99.\nB = 11 + 13 + 15 + … + 97 + 99\n= (11 + 99) + (13 + 97) + …+ (53 + 57) + 55\n= 110 + 110 + … + 110 + 55 (22 số 110)\n= 110.22 + 55 \n= 2 420 + 55\n= 2 475.\nSuy ra A – B = 384 – 2 475 = - 2091.\nVậy A – B = - 2 091.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 8. Tìm số tự nhiên n nhỏ nhất sao cho n vừa là tổng của 5 số tự nhiên liên tiếp, vừa là tổng của 7 số tự nhiên liên tiếp. \nA. n = 5\nB. n = 7\nC. n = 70\nD. n = 35",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có n = a + (a + 1) + (a + 2) + (a + 3) + (a + 4) với a là số tự nhiên\nKhi đó n = 5a + 10 = 5.(a + 2) chia hết cho 5.\nTa lại có n = b + (b + 1) + (b + 2) + (b + 3) + (b + 4) + (b + 5) + (b + 6) với b là số tự nhiên.\nKhi đó n = 7b + 21 = 7.(b + 3) chia hết cho 7.\nDo đó n vừa chia hết cho 5 vừa chia hết cho 7 nên n là bội chung của 5 và 7.\nMà n là nhỏ nhất nên n là BCNN(5; 7).\nTa có 5 = 5, 7 = 7.\nBCNN(5, 7) = 5.7 = 35.\nVậy n = 35.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Tìm số nguyên x, biết: 2x – 1 là bội của x – 3\nA. x = 2\nB. x thuộc {-1; 2}\nC. x thuộc {-1; 0; 2; 3}\nD. x thuộc {0; 2; 3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 2x – 1 là bội của x – 3 nên 2x – 1 chia hết cho x – 3.\nTa lại có 2x – 1 = 2x – 6 + 5 = 2(x – 1) + 5.\nVì 2(x – 1) chia hết cho x – 1 nên 5 phải chia hết cho x – 1 hay x – 1 thuộc Ư(5) = {1; -1; 2; -2}.\nSuy ra x thuộc {2; 0; 3; -1}.\nVậy x thuộc {2; 0; 3; -1}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 10. Tìm số nguyên x, sao cho: A = x^{2}  + 2 021 đạt giá trị nhỏ nhất.\nA. x = 2 021\nB. Không tồn tại giá trị x nguyên thỏa mãn A đạt GTNN\nC. Có vô số giá trị nguyên của x thỏa mãn A đạt GTNN\nD. x = 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì x^{2}  ≥ 0 với moi giá trị nguyên của x nên x^{2}  + 2 021 ≥ 2 021.\nDấu “=” xảy ra khi x^{2}  = 0 hay x = 0.\nVậy A đạt giá trị nhỏ nhất 2 021 tại x = 0.\nĐáp án: D"
+    }
+]

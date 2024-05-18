@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : Đề-ca-gam được viết tắt là: \nA.\tg\nB.\tdag\nC.\thg\nD.\tkg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đề-ca-gam được viết tắt là dag."
+    },
+    {
+        "problem": "Câu 2 : Trong các đơn vị đo khối lượng sau, đơn vị nào lớn hơn ki-lô-gam? \nA.\tTấn\nB.\tTạ\nC.\tYến\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các đơn vị đo khối lượng lớn hơn ki-lô-gam là tấn, tạ, yến.\nVậy tất cả các đáp án A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 5 : 7 tấn = … kg .  \nSố thích hợp điền vào chỗ chấm là:\nA.\t70\nB.\t700\nC.\t7000\nD.\t70000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1 tấn =1000kg.\nNên 7 tấn =1000kg×7=7000kg.\nVậy đáp án đúng điền vào chỗ chấm là 7000."
+    },
+    {
+        "problem": "Câu 8 : Tính: 357hg x 3. \nA.\t1071hg\nB.\t1171hg\nC.\t1171\nD.\t1071",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 357×3=1071 nên 357hg×3=1071hg.\nChú ý\nHọc sinh có thể sai khi không ghi thêm đơn vị vào kết quả, \ntừ đó chọn đáp án sai là C hoặc D; hoặc tính toán không cẩn thận nên có thể chọn đáp án sai B."
+    },
+    {
+        "problem": "Câu 9 :  9hg ... 900dag\nDấu thích hợp điền vào chỗ chấm là:\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 9hg=90dag.\nMà 90dag<900dag.\nVậy 9hg<900dag.\nChú ý\nHọc sinh có thể đổi sai đơn vị đo từ héc-tô-gam sang đề-ca-gam, \ntừ đó có thể chọn đáp án sai là C."
+    },
+    {
+        "problem": "Câu 12 :  Chọn gói bánh nặng nhất trong số các gói bánh sau:\nA.\tGói bánh có khối lượng 1kg\nB.\tGói bánh có khối lượng 1200g\nC.\tGói bánh có khối lượng 9hg\nD.\tGói bánh có khối lượng 250dag",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 1kg=1000g;9hg=900g;250dag=2500g\nMà 2500g>1200g>1000g>900g.\nHay 250dag>1200g>1kg>9hg.\nVậy gói bánh có khối lượng 250dag là gói bánh nặng nhất."
+    },
+    {
+        "problem": "Câu 15 : Có ba thửa ruộng trồng lúa. \nThửa ruộng thứ nhất thu hoạch được 468kg thóc, thửa ruộng thứ hai thu hoạch được nhiều hơn thửa ruộng thứ nhất 2 tạ thóc, \nthửa ruộng thứ ba thu hoạch được bằng   số thóc của thửa ruộng thứ hai. \nHỏi cả ba thửa ruộng thu hoạch được tất cả bao nhiêu ki-lô-gam thóc? \nA.\t668kg\nB.\t1136kg\nC.\t1470kg\nD.\t2472kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 2 tạ =200kg\nThửa ruộng thứ hai thu hoạch được số ki-lô-gam thóc là:\n                       468+200=668(kg) \nThửa ruộng thứ ba thu hoạch được số ki-lô-gam thóc là:\n                        668:2=334(kg) \nCả ba thửa ruộng thu hoạc được số ki-lô-gam thóc là:\n                        468+668+334=1470(kg)\n                                               Đáp số: 1470kg."
+    }
+]

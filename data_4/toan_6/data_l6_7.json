@@ -1,0 +1,146 @@
+[
+    {
+        "problem": "Câu 1: Cho tập hợp N = {2, 4, 6, 8}, có bao nhiêu phần tử trong tập hợp N?\nA. 1\nB. 2\nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tập hợp N có 4 phần tử là: 2; 4; 6; 8.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2: A là tập hợp các số tự nhiên nhỏ hơn hoặc bằng 5. Hãy viết tập hợp A bằng các liệt kê.\nA. A = {1; 2; 3; 4; 5}.\nB. A = {1; 2; 3; 4}.\nC. A = {0; 1; 2; 3; 4; 5}.\nD. A = {0; 1; 2; 3; 4}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số tự nhiên nhỏ hơn hoặc bằng 5 bao gồm: 0; 1; 2; 3; 4; 5.\nVậy A = {0; 1; 2; 3; 4; 5}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3: Điền vào chỗ trống để có được ba số tự nhiên liên tiếp tăng dần : 49, ...., ....\nA. 50; 51.\nB. 51; 53.\nC. 48; 47.\nD. 59; 69.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ba số tự nhiên liên tiếp tăng dần: 49; 50; 51.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4: Số La Mã biểu diễn số 29 là?\nA. XIX;\nB. XXIX;\nC. XXXI;\nD. XXVIV.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số La Mã biểu diễn cho số 29 là: XXIX.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 5: B là tập hợp các chữ cái trong từ \"TAP HOP\", vậy B =?\nA. B = {T; A; P; H; O; P}.\nB. B = {T; A; P; H}.\nC. B = {T; A; P; H; O}.\nD. B = {T; P; H; O}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác chữ cái trong từ tập hợp: T; A; P; H; O; P.\nVì trong tập hợp mỗi phần tử chỉ được liệt kê 1 lần nên B = {T; A; P; H; O}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 6. Trong phép tính mà chỉ chứa phép nhân và phép chia thì thứ tự thực hiện phép tính như thế nào?\nA. Nhân trước, chia sau.\nB. Chia trước, nhân sau.\nC. Thực hiện lần lượt từ phải sang trái.\nD. Thực hiện lần lượt từ trái sang phải.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trong phép tính mà chỉ chứa phép nhân và phép chia thì thực hiện lần lượt từ trái sang phải.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Trong số 723 650, chữ số 5 có giá trị bao nhiêu?\nA. 5 là chữ số hàng chục.\nB. 5 có giá trị 5.10 = 50.\nC. 5 có giá trị 723 65.\nD. 5 có giá trị 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trong số 723 650 chữ số 5 có hàng chục và có giá trị là 5.10 = 50.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. Trong số nào dưới đây, chữ số 7 nằm ở hàng nghìn.\nA. 127 000 000.\nB. 870 900.\nC. 547.\nD. 7 200.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n+) Số 127 000 000, chữ số 7 nằm ở hàng triệu.\n+) Số 870 900 090, chữ số 7 nằm ở hàng chục nghìn.\n+) Số 547, chữ số 7 nằm ở hàng đơn vị.\n+) Số 7 200, chữ số 7 nằm ở hàng nghìn.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9.  “Chín bình phương” là cách đọc của số nào dưới đây?\nA. 9^{3} ;\nB. 9^{2} ;\nC. 9.2;\nD. 9^{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Chín bình phương là cách đọc của số 9^{2} .\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 10. Kết quả của phép nhân 125.8.\nA. 10;\nB. 100;\nC. 1000;\nD. 200.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải 125.8 = 1000.\nĐáp án: C"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Viết gọn tích sau dưới dạng một lũy thừa: 2.3.36.\nA. 2^{3} .3^{3} ;\nB. 6^{3} ;\nC. 6^{2} ;\nD. 2^{2} .3^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có: 2.3.36 = 2.3.6.6 = 6.6.6 = 6^{3} .\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Thực hiện phép tính: 110 – 7^{2}  + 22:2 ?\nA. 72;\nB. 107;\nC. 41 (dư 1);\nD. 62.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n110 – 7^{2}  + 22:2 \n= 110 – 49 + 11\n= 61 + 11\n= 72.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Giá trị của biểu thức C là: C =  2^{3} .3 - (1^{10}  + 15) : 4^{2} \nA. C = 23;\nB. C = 24;\nC. C = 25;\nD. C = 26.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nC = 2^{3} .3 - (1^{10}  + 15) : 4^{2} \n   = 8.3 - (1+15) : 16\n   = 24 - 16:16\n   = 24 -1\n   = 23.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Tìm số tự nhiên x, thỏa mãn: (75:3 + 2.9^{2} ):x = 11.\nA. x = 11;\nB. x = 17;\nC. x = 14;\nD. x = 16.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(75:3 + 2.9^{2} ):x = 11\n(25 + 162):x = 11\n187:x = 11\nx = 187: 11\nx = 17.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 5. Cho tập hợp M = {x ∈ N^{*}  | 2x + 5 = 5}. Số phần tử của tập hợp M là:\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nXét 2x + 5 = 5\n2x = 5 – 5 \n2x = 0\nx = 0.\nMà x ∈ N^{*}  nên x = 0 (loại).\nVậy tập hợp M không có phần tử nào.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 6. Đưa kết quả phép tính 12^{2}  + 3^{2 } về dưới dạng một lũy thừa cơ số 15 với số mũ là:\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n12^{2}  + 3^{2 }  = 144 + 81 = 225.\n225 = 15.15 = 15^{2} .\nVậy số mũ là 2.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 7. Cho biểu thức 7x^{3}  – (8y)^{2} . Tính giá trị biểu thức tại x = 3 và y =1.\nA. 189;\nB. 64;\nC. 125;\nD. 115.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nThay x = 3 và y = 1 vào biểu thức 7x^{3}  – (8y)^{2} , ta được:\n7.3^{3}  – (8.1)^{2}  = 7.27 – 8^{2}  = 189 – 64 = 125.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 8. Ghép mỗi phép tính ở cột A với lũy thừa tương ứng của nó ở cột B:\nCột A\nCột B\n1. 3^{7} .3^{3} \na. 5^{17} \n2. 5^{9} :5^{7} \nb. 2^{3} \n3. 2^{11} :2^{8} \nc. 3^{10} \n4. 5^{12} .5^{5} \nd.5^{2} \nA. 1 – c; 2 – d; 3 – b; 4 – a.\nB. 1 – c; 2 – b; 3 – d; 4 – a.\nC. 1 – a; 2 – d; 3 – b; 4 – c.\nD. 1 – a; 2 – b; 3 – d; 4 – c.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 3^{7} .3^{3}  = 3^{7+3}  = 3^{10} \n5^{9} :5^{7}  = 5^{9-7}  = 5^{2} \n2^{11} :2^{8}  = 2^{11-8}  = 2^{3} \n5^{12} .5^{5}  = 5^{12+5}  = 5^{17} \nVậy 1 – c; 2 – d; 3 – b; 4 – a.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 9. Theo Tổng cục Thống kê, tháng 10 năm 2020 dân số được làm tròn là 98 000 000 người. Em hãy viết dân số của Việt Nam dưới dạng tích của một số với một lũy thừa của 10.\nA. 98.10^{6} ;\nB. 98.10^{5} ;\nC. 98.10^{4} ;\nD. 98.10^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 98 000 000 = 98.10^{6}  (người).\nVậy dân số Việt Nam năm 2020 là: 98.10^{6}  người.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 10. Tính một cách hợp lý: 30.40.50.60\nA. 3 600;\nB. 3 600 000;\nC. 36 000;\nD. 360 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 30.40.50.60\n= (30.60).(40.50)\n= 1 800.2 000\n=3 600 000.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Khối 6 có 320 học sinh đi tham quan. Nhà trường cần thuê ít nhất bao nhiêu xe ô tô 45 chỗ ngồi để đủ chỗ cho tất cả học sinh?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì 320 : 45 = 7 (dư 5) nên xếp đủ 7 xe thì còn dư 5 học sinh, do đó cần thêm 1 xe để chở hết 5 học sinh đó.\nVậy cần tất cả: 7 + 1 = 8 (xe ô tô)"
+    },
+    {
+        "problem": "Câu 3. Một phòng chiếu phim có 18 hàng ghế, mỗi hàng ghế có 18 ghế. Giá một vé xem phim là 50 000 đồng. Tối thứ Sáu, số tiền bán vé thu được là 10 550 000 đồng. Hỏi có bao nhiêu vé không bán được?\nA. 324 vé;\nB. 112 vé;\nC. 113 vé;\nD. 115 vé.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố ghế của phòng chiếu phim là: 18.18 = 324 (ghế)\nNhư ta thấy, mỗi ghế sẽ tương ứng với 1 vé xem phim nên số vé nhiều nhất có thể bán được là 324 vé.\nSố vé bán được trong tối thứ Sáu là: 10 550 000: 50 000 = 211 (vé).\nSố vé không bán được trong tối thứ Sáu là: 324 – 211 = 113 (vé).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Tính giá trị của biểu thức: .\nA. 210;\nB. 2 100;\nC. 1 890;\nD. 1 980.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n21.[(1 245 + 987):2^{3}  – 15.12] + 21\n= 21.[2 232:8 – 180] + 21\n= 21.[279 – 180] + 21\n= 21.99 + 21\n= 21(99 + 1)\n= 21.100\n= 2 100.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 5. Nhóm Lan dự định thực hiện một kế hoạch nhỏ với số tiền cần có là 200 000 đồng. Hiện tại các bạn đang có 80 000 đồng. Các bạn cần thực hiện gây quỹ thêm bằng cách thu lượm và bán giấy vụn, mỗi tháng được 20 000 đồng. Số tiền còn thiếu cần phải thực hiện gây quỹ trong mấy tháng?\nA. 4 tháng;\nB. 5 tháng;\nC. 6 tháng;\nD. 7 tháng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \na) Số tiền hiện tại các bạn còn thiếu là 200000 – 80000 = 120000 đồng.\nVậy số tiền hiện tại các bạn còn thiếu là 120 000 đồng.\nb) Số tiền còn thiếu cần phải thực hiện gây quỹ trong số tháng là: 120000 : 20000 = 6 tháng.\nVậy cần phải thực hiện gây quỹ trong 6 tháng.\nĐáp án: C"
+    }
+]

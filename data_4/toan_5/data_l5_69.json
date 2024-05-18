@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: 1hm gấp 1dam bao nhiêu lần?\nA.\t10 lần\nB.\t100 lần\nC.\t200 lần\nD.\t1000 lần",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong bảng đơn vị đo độ dài, hai đơn vị đo liền nhau hơn (kém) nhau 10 lần.\nTa thấy hai đơn vị hm và dam là hai đơn vị đo liền nhau, mà đơn vị hm lớn hơn hơn đơn vị dam nên 1hm gấp 10 lần 1dam."
+    },
+    {
+        "problem": "Câu 10: Chọn số thích hợp để điền vào chỗ chấm:\n17m – 9mm = … mm\nA.\t8\nB.\t161\nC.\t1691\nD.\t16991",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 1m = 1000mm nên 17m = 17000mm \nDo đó: 17m = 9mm = 17000m - 9mm = 16991mm \nVậy 17m - 9mm = 16991mm"
+    },
+    {
+        "problem": "Câu 13: Một đội công nhân sửa xong một con đường trong ba ngày, trung bình mỗi ngày sửa được 525m. Ngày thứ nhất đội sửa được 372m đường, ngày thứ hai sửa được gấp 2 lần ngày thứ nhất. Hỏi ngày thứ ba đội đó sửa được bao nhiêu ki-lô-mét đường?\nA.\t459km\nB.\t1,575km\nC.\t4,116km\nD.\t0,459km",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong ba ngày đội công nhân sửa được số mét đường là\n525 × 3 = 1575 (m)\nNgày thứ hai đội sửa được số mét đường là:\n372 × 2 = 744 (m)\nTrong hai ngày đầu đội sửa được số mét đường là:\n372 + 744 = 1116 (m)\nNgày thứ ba đội sửa được số mét đường là:\n1575 – 1116 = 459 (m)  \n459m = 0,459km\nĐáp số: 0,459km."
+    },
+    {
+        "problem": "Câu 14: Một làng lát ngõ, tính ra cứ 100kg xi măng thì lát được 2,5m ngõ. Ngõ làng dài tất cả 320m. Tính số tấn xi măng phải mua.\nA.\t1,28 tấn\nB.\t12,8 tấn\nC.\t128 tấn\nD.\t12800 tấn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lát 1m ngõ cần số ki-lô-gam xi măng là:\n100 : 2,5 = 40 (kg)\nLát 320m ngõ cần số ki-lô-gam xi măng là:\n40 × 320 = 12800 (kg)\nĐổi 12800kg = 12,8 tấn\nĐáp số: 12,8 tấn."
+    }
+]

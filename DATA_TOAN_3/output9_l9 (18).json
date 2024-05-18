@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Xét tính đúng – sai của mỗi khẳng định sau:\n\\(a)\\) Nếu đường thẳng \\(d\\) tiếp xúc với đường tròn \\((O)\\) tại \\(A\\) thì \\(d\\) vuông góc với \\(OA.\\)\n\\(b)\\) Nếu đường thẳng \\(d\\) vuông góc với bán kính \\(OA\\) của đường tròn \\((O)\\) thì \\(d\\) là tiếp tuyến của đường tròn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức:\n+) Nếu một đường thẳng là tiếp tuyến của một đường tròn thì nó vuông góc với bán kính đi qua tiếp điểm.\n+) Nếu một đường thẳng đi qua một điểm của đường tròn và vuông góc với bán kính đi qua điểm đó thì đường thẳng ấy là một tiếp tuyến của đường tròn.\nLời giải chi tiết\n\\(a)\\) Đúng ;\n\\(b)\\) Sai. Vì thiếu điều kiện đường thẳng \\(d\\) phải vuông góc với bán kính \\(OA\\) tại \\(A.\\)\nLoigiaihay.com"
+    }
+]

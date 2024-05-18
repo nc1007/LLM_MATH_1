@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Khẳng định nào sau đây đúng?\nA. Tập số thực được kí hiệu là ℚ  ;\nB. Số tự nhiên không phải là số thực;\nC. Quan hệ giữa các tập số ℕ⊂ℤ⊂ℚ⊂ℝ ;\nD. Mọi số thực đều là số vô tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\nTập số thực được kí hiệu là ℝ . Do đó, đáp án A sai.\nℕ⊂ℚ⊂ℝ. Do đó, đáp án B sai.\nVì ℕ⊂ℤ;ℤ⊂ℚ;ℚ⊂ℝ nên ℕ⊂ℤ⊂ℚ⊂ℝ . Do đó, đáp án C đúng.\nMọi số vô tỉ đều là số thực. Do đó, đáp án D sai.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 2. Khẳng định nào sau đây sai?\nA. 4∈ℕ ; \nB. 3∈ℚ ;\nC. \\frac{2}{3}∈ℝ \n\\frac{2}{3}∈ℝ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\n 4=2. Vì 2 là số tự nhiên nên 4∈ℕ . Do đó, đáp án A đúng.\n  3=1732……. Vì 1,732… là số thập phân vô hạn không tuần hoàn nên 3  là số vô tỉ. Suy ra . Do đó, đáp án B sai.\n \\frac{2}{3}=0,66... Vì 0,66… là số thập phân vô hạn tuần hoàn nên \\frac{2}{3} là số hữu tỉ. Mà số vô tỉ là số thực. Suy ra, \\frac{2}{3}∈ℝ . Do đó, đáp án C đúng.\n−9 là số nguyên âm nên −9∈ℤ . Do đó, đáp án D đúng.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 3. Chọn chữ số thích hợp điền vào chỗ chấm: −9,08 < 9,…1\nA. 0; 1; 2; …; 9;\nB. 1; 2; …; 9;\nC. 0;\nD. 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì −9,08 là số thập phân âm và 9,…1 số thập phân dương.\nMà số thập phân âm luôn bé hơn số thập phân dương nên ta có thể điền vào chỗ chấm các chữ số từ 0; 1; 2;...; 9.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 4. So sánh 0,(31) và 0,3(12).\nA. 0,(31) = 0,3(12);\nB. 0,(31) > 0,3(12); \nC. 0,(31) < 0,3(12);\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\n0,(31) = 0,3131…;\n0,3(12) = 0,3121…\nMà 0,3131…>0,3121… nên 0,(31) > 0,3(12).\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 5. Trong các số |− 9,35|; 50 ; 6,(23); 3 số lớn nhất là:\nA. |− 9,35|;\nB. 6,(23);\nC. \\frac{1}{3} ;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì giá trị tuyệt đối của một số thực x luôn là số không âm: |x| ≥ 0 với mọi số thực x.\nDo đó, |− 9,35| = 9,35.\n \\frac{1}{3}= 0,(3)\nSử dụng máy tính cầm tay, ta có 3= 1,732…\nSuy ra 0,(3) < 1,732…< 6,(23) < 9,35\nDo đó,  \\frac{1}{3}< 3 < 6,(23) < |− 9,35|\nVậy số lớn nhất là |− 9,35|."
+    },
+    {
+        "problem": "Câu 6. Sử dụng máy tính cầm tay, so sánh 10và 3,163.\nA. 10 = 3,163;\nB. 10 < 3,163;\nC. 10  > 3,163;\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:  10 = 3,162...\nMà 3,162…< 3,163 nên 10<3,163\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 7. Phát biểu nào sau đây đúng?\nA. Hai số thực có điểm biểu diễn trên trục số cách đều điểm gốc O và nằm về cùng một phía là hai số đối nhau;\nB. Hai số thực có điểm biểu diễn trên trục số nằm về hai phía ngược nhau là hai số đối nhau;\nC. Hai số thực có điểm biểu diễn trên trục số cách đều điểm gốc O và nằm về hai phía ngược nhau là hai số đối nhau;\nD. Hai số thực có điểm biểu diễn trên trục số cách đều điểm gốc O là hai số đối nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHai số thực có điểm biểu diễn trên trục số cách đều điểm gốc O và nằm về hai phía ngược nhau là hai số đối nhau.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 8. Số đối của 5 là:\nA. 5;\nB. -5 ;\nC. -5 ;\nD. −5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\nSố đối của 5 là -5 .\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 9. Chọn khẳng địnhsai.\nA. Giá trị tuyệt đối của một số thực x là khoảng cách từ điểm 0 đến điểm x trên trục số;\nB. Giá trị tuyệt đối của một số thực x là khoảng cách từ điểm –x đến điểm x trên trục số;\nC. Giá trị tuyệt đối của một số thực x là khoảng cách từ điểm 0 đến điểm –x trên trục số;\nD. Giá trị tuyệt đối của một số thực x là khoảng cách từ điểm x đến điểm 0 trên trục số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nGiá trị tuyệt đối của một số thực x là khoảng cách từ điểm x đến điểm 0 trên trục số.\nMà trên trục số, khoảng cách từ điểm x đến điểm 0 bằng khoảng cách từ điểm 0 đến điểm x cũng bằng khoảng cách từ điểm 0 đến điểm –x.\nDo đó, đáp án B sai."
+    },
+    {
+        "problem": "Câu 10. Giá trị tuyệt đối của −3,14 là:\nA. −3,14;\nB. 0;\nC. ±3,14;\nD. 3,14.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì giá trị tuyệt đối của một số thực x luôn là số không âm: |x| ≥ 0 với mọi số thực x.\nNên |−3,14| = 3,14.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 11. Có bao nhiêu số thực x thoả mãn x=5 ?\nA. 1;\nB. 2;\nC. 3;\nD. 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\nx=5\nVì  5 >0 nên x = 5 hoặc x = -5 .\nDo đó có hai giá trị x thỏa mãn bài toán.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 12. Khẳng định nào sau đây sai?\nA. 2;3;5là các số thực;\nB. Mọi số nguyên đều là số thực;\nC. \\frac{1}{16}∈I ;\nD. \\frac{1}{16}∈ℝ .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\nSử dụng máy tính cầm tay có tính được 2=1,41...;3=1,73...;5=2,23... là các số thập phân vô hạn không tuần hoàn nên 2;3;5  là các số vô tỉ mà mọi số vô tỉ đều là số thực. Suy ra, 2;3;5 là số thực.\nDo đó, đáp án A đúng.\nSố nguyên là số thập phân hữu hạn nên số nguyên là số hữu tỉ mà mọi số hữu tỉ đều là số thực. Suy ra, mọi số nguyên đều là số thực.\nDo đó, đáp án B đúng.\n \\frac{1}{16}=0,0625. Vì 0,0625 là số thập phân hữu hạn nên \\frac{1}{16}  là số hữu tỉ. Suy ra, \\frac{1}{16}∉I. Do đó, đáp án C sai, đáp án D đúng."
+    },
+    {
+        "problem": "Câu 13. Sắp xếp các số thực −\\frac{2}{3};2;0,2(14);\\frac{4}{7};0,123  theo thứ tự từ lớn đến bé:\nA. -\\frac{2}{3} ;0,123; 0,2(14); \\frac{4}{7}; 2 ;\nB. -\\frac{2}{3} ; \\frac{4}{7}; 0,123; 0,2(14); 2 ;\nC. 2 ; \\frac{4}{7} ; 0,123; 0,2(14); -\\frac{2}{3} ;\nD. 2 ; \\frac{4}{7} ; 0,2(14); 0,123; -\\frac{2}{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa chia dãy số trên thành 2 nhóm:\nNhóm 1: -\\frac{2}{3}\nNhóm 2: 2;0,2(14);\\frac{4}{7};0,123\nXét nhóm 2 ta có:\n 2=1,414...; 0,2(14) = 0,214…; \\frac{4}{7}=0,571...\nMà 1,414…> 0,571…> 0,214…> 0,123 nên 2 > \\frac{4}{7} > 0,2(14) > 0,123.\nVì 0,123 là số dương, -\\frac{2}{3} là số âm mà số dương luôn lớn hơn số âm nên 0,123 > -\\frac{2}{3}.\nSuy ra, 2 > \\frac{4}{7} > 0,2(14) > 0,123 > -\\frac{2}{3} .\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 14. Giá trị của biểu thức -16 =?\nA. 16;\nB. −4;\nC. 4;\nD. Không tồn tại.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\n−16=16=4\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 15. Tìm giá trị của z biết |z – 8| = 0\nA. 8;\nB. −8;\nC. 0;\nD. ± 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có\n|z – 8| = 0\nz – 8 = 0\nz = 8\nVậy chọn đáp án A."
+    }
+]

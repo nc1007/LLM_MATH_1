@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 2 : Số “mười nghìn” được viết là: \nA.\t100\nB.\t1000\nC.\t10000\nD.\t100000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số mười nghìn gồm 1 chục nghìn nên được viết là: 10000."
+    },
+    {
+        "problem": "Câu 5 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 514673 gồm 5 trăm nghìn, 1 chục nghìn, 4 nghìn, 6 trăm, 7 chục, 3 đơn vị.\nVậy các số cần điền lần lượt từ trên xuống dưới, từ trái sang phải là: 5;4;6;7."
+    },
+    {
+        "problem": "Câu 6 :  Số chẵn lớn nhất có sáu chữ số đọc là:\nA.\tChín trăm tám mươi bảy nghìn sáu trăm năm mươi tư\nB.\tChín trăm chín mươi chín nghìn chín trăm chín mươi \nC.\tChín trăm chín mươi chín nghìn chín trăm chín mươi chín \nD.\tChín trăm chín mươi chín nghìn chín trăm chín mươi tám",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số chẵn lớn nhất có sáu chữ số là 999998.\nSố 999998 được đọc là: Chín trăm chín mươi chín nghìn chín trăm chín mươi tám.\n\t\nChú ý\nHọc sinh có thể không đọc kĩ đề bài và đọc số lớn nhất có sáu chữ số là 999999"
+    },
+    {
+        "problem": "Câu 8 : Viết số lẻ lớn nhất có sáu chữ số khác nhau thành tổng theo mẫu: \n 789 910 = 700000 + 80000 + 9000 + 900 + 10\nA.\t987 653 = 900000 + 80000 + 7000 + 600 + 50 + 3\nB.\t987 654 = 900000 + 80000 + 7000 + 600 + 50 + 4\nC.\t987 651 = 900000 + 80000 + 7000 + 600 + 50 + 1\nD.\t999 999 = 900000 + 90000 + 9000 + 900 + 90 + 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lớn nhất có 6 chữ số khác nhau là 987 653.\nTa có: số 987 653 gồm 9 trăm nghìn, 8 chục nghìn, 7 nghìn, 6 trăm, 5 chục, 3 đơn vị.\nVậy: 987 653=900000+80000+7000+600+50+3."
+    },
+    {
+        "problem": "Câu 10 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 924 576 gồm 9 trăm nghìn, 2 chục nghìn, 4 nghìn, 5 trăm, 7 chục, 6 đơn vị.\t\nVậy các số cần điền lần lượt từ trái sang phải là: 9;2;4;5;7;6."
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1 : Bạn An nói : “số 0 là số tự nhiên bé nhất”. Bạn An nói đúng hay sai? \nA.\tSai \nB.\tĐúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Không có số tự nhiên nào liền trước 0 nên 0 là số tự nhiên nhỏ nhất.\nVậy bạn An nói đúng."
+    },
+    {
+        "problem": "Câu 2 : Trong dãy số tự nhiên, hai số liên tiếp hơn kém nhau bao nhiêu đơn vị? \nA.\t1 đơn vị\nB.\t2 đơn vị\nC.\t10 đơn vị\nD.\t100 đơn vị",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong dãy số tự nhiên, hai số liên tiếp hơn kém nhau 1 đơn vị."
+    },
+    {
+        "problem": "Câu 5 :  Chọn số thích hợp điền vào chỗ chấm để có ba số tự nhiên liên tiếp: \n4672 ... 4674\nA.\t4670\t\nB.\t4673\t\nC.\t4675\t\nD.\t4680",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tự nhiên liền sau số 4672 là 4673. \nSố 4673 cũng là số liền trước của số 4674.\nTa có ba số tự nhiên liên tiếp là: 4672;4673;4674\nVậy số cần điền vào chỗ chấm là 4673."
+    },
+    {
+        "problem": "Câu 6 : Với 10 chữ số 0; 1; 2; 3; 4; 5; 6; 7; 8; 9 ta có thể viết được bao nhiêu số tự nhiên? \nA.\tMột trăm nghìn số\nB.\tMột triệu số\nC.\tMột tỷ số\nD.\tMọi số tự nhiên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Haylamdo biên soạn và sưu tầm 10 chữ số 0;1;2;3;4;5;6;7;8;9 ta có thể viết được mọi số tự nhiên."
+    },
+    {
+        "problem": "Câu 8 : Giá trị của chữ số 2 trong số 135246789 là: \nA.\t200000\nB.\t20000\nC.\t20000000\nD.\t2000000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 2  trong số 135246789 nằm ở hàng trăm nghìn nên có giá trị là 200000."
+    },
+    {
+        "problem": "Câu 9 : Viết số 4708306 thành tổng (theo mẫu):  \n1245098 = 1000000 + 200000 + 40000 + 5000 + 90 + 8\nA.\t4708306 = 40000000 + 700000 + 800 + 30 + 6\nB.\t4708306 = 4000000 + 70000 + 800 + 30 + 6\nC.\t4708306 = 4000000 + 700000 + 8000 + 300 + 6\nD.\t4708306 = 4000000 + 7000000 + 8000 + 30 + 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 4708306 gồm 4 triệu, 7 trăm nghìn, 8 nghìn, 3 trăm, 6 đơn vị.\nDo đó 4708306=4000000+700000+8000+300+6"
+    },
+    {
+        "problem": "Câu 10 : Có tất cả bao nhiêu số có 3 chữ số? \nA.\t900 số\nB.\t890 số\nC.\t555 số\nD.\t450 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dãy các số có 3 chữ số là: 100;101;102;...;998;999.\t\nDãy trên là dãy số cách đều, khoảng cách giữa hai số liên tiếp là 1 .\t\nDãy trên có số số hạng là:\t\n           (999−100):1+1=900 (số hạng)\t\nVậy có tất cả 900 số có 3 chữ số."
+    },
+    {
+        "problem": "Câu 11 : Cho dãy số: 2 ; 4 ; 6 ; 8 ; ... ; 2016 ; 2018 . Hỏi dãy số đã cho có tất cả bao nhiêu chữ số? \nA.\t1009 chữ số\t\nB.\t2444 chữ số\t\nC.\t3484 chữ số\t\nD.\t4248 chữ số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dãy số đã cho là dãy số chẵn liên tiếp, hai số đứng liền nhau hơn (kém) nhau 2 đơn vị.\t\nSố các số chẵn có 1 chữ số là:\t\n                 (8−2):2+1=4 (số)\t\nSố các số chẵn có 2 chữ số là:  \t\n                (98−10):2+1=45 (số) \t\nSố các số chẵn có 3 chữ số là:  \t\n                 (998−100):2+1=450 (số)\t\nSố các số chẵn có 4 chữ số là:  \t\n                (2018−1000):2+1=510 (số)\t\nTổng các chữ số của dãy số đã cho là:\t\n               1×4+2×45+3×450+4×510=3484 (chữ số)\t\nVậy dãy số đã cho có 3484 chữ số."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Tìm những khẳng định đúng trong các khẳng định sau:\na) Căn bậc hai của \\(0,36\\) là \\(0,6\\) ;\nb) Căn bậc hai của \\(0,36\\) là \\(0,06\\) ;\nc)\\(\\sqrt {0,36}   = 0,6;\\)\nd) Căn bậc hai của \\(0,36\\) là \\(0,6\\) và \\(-0,6\\) ;\ne) \\(\\sqrt {0,36}  =  \\pm 0,6.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Sử dụng định nghĩa căn bậc hai của một số a không âm là số x sao cho \\({x^2} = a\\).\nSố dương a có hai căn bậc hai đối nhau: Kí hiệu là \\(\\sqrt a \\) và \\( - \\sqrt a \\).\n- Sử dụng định nghĩa: Căn bậc hai số học của số \\(a\\) không âm là số \\(x\\) không âm sao cho \\(x^2=a\\)\nHay \\(\\sqrt a = x\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge 0\\\\a = {x^2}\\end{array} \\right.\\)\nLời giải chi tiết\nTa có: Căn bậc Căn bậc hai của \\(0,36\\) là \\(0,6\\) và \\(-0,6\\).\nMà \\(0,6>0\\) nên căn bậc hai số học của \\(0,36\\) là \\(0,6\\), hay \\(\\sqrt {0,36}   = 0,6.\\)\nDo đó câu c và d đều đúng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các số \\(\\sqrt {{{( - 5)}^2}} \\); \\(\\sqrt {{5^2}} \\); \\( - \\sqrt {{5^2}} \\); \\( - \\sqrt {{{( - 5)}^2}} \\), số nào là căn bậc hai số học của \\(25 ? \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng định nghĩa: Căn bậc hai số học của số \\(a\\) không âm là số \\(x\\) không âm sao cho \\(x^2=a.\\)\nLời giải chi tiết\nTa thấy:\n\\(\\begin{array}{l}{\\left( { - 5} \\right)^2} = 25 > 0\\\\ \\Rightarrow \\sqrt {{{\\left( { - 5} \\right)}^2}}  = \\sqrt {25}  = 5\\\\\\end{array}\\)\nTương tự: \\(\\sqrt {{5^2}}  = \\sqrt {25}  = 5\\).\nDo căn bậc hai số học của 25 là một số dương nên các trường hợp còn lại không thỏa mãn.\nVậy căn bậc hai số học của 25 là \\(\\sqrt {{{( - 5)}^2}} \\) và \\(\\sqrt {{5^2}} .\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chứng minh:\n\\(\\eqalign{& \\sqrt {{1^3} + {2^3}} = 1 + 2; \\cr & \\sqrt {{1^3} + {2^3} + {3^3}} = 1 + 2 + 3; \\cr & \\sqrt {{1^3} + {2^3} + {3^3} + {4^3}} = 1 + 2 + 3 + 4. \\cr} \\)\nViết tiếp một số đẳng thức tương tự.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính giá trị của vế trái và giá trị vế phải của mỗi đẳng thức. So sánh hai giá trị để chứng mình đẳng thức đúng.\nTừ các đẳng thức đã chứng minh ta tìm quy luật để suy ra đẳng thức tương tự.\nLời giải chi tiết\n+ Ta có : \\(\\sqrt {{1^3} + {2^3}}  = \\sqrt {1 + 8}  = \\sqrt 9  = 3\\)\nVà \\(1 + 2 = 3\\)\nVậy \\(\\sqrt {{1^3} + {2^3}}  = 1 + 2\\)\n+ Ta có :\n\\(\\eqalign{& \\sqrt {{1^3} + {2^3} + {3^3}} = \\sqrt {1 + 8 + 27} \\cr & = \\sqrt {36} = 6 \\cr} \\)\nVậy \\(\\sqrt {{1^3} + {2^3} + {3^3}}  = 1 + 2 + 3\\)\n+ Ta có :\n\\(\\eqalign{& \\sqrt {{1^3} + {2^3} + {3^3} + {4^3}} \\cr & = \\sqrt {1 + 8 + 27 + 64} \\cr & = \\sqrt {100} = 10 \\cr} \\)\nVà \\(1 + 2 + 3 + 4 = 10\\)\nVậy\n\\(\\eqalign{& \\sqrt {{1^3} + {2^3} + {3^3} + {4^3}} \\cr & = 1 + 2 + 3 + 4 \\cr} \\)\nMột số đẳng thức tương tự:\n\\(\\sqrt {{1^3} + {2^3} + {3^3} + {4^3} + {5^3}} \\)\\(= 1 + 2 + 3 + 4 + 5 \\)\n\\(\\sqrt {{1^3} + {2^3} + {3^3} + {4^3} + {5^3} +{6^3}}\\)\n\\(= 1 + 2 + 3 + 4 + 5 +6 \\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giá trị của \\(\\sqrt {0,16} \\) là:\n(A) \\(0,04;\\)\n(B) \\(0,4;\\)\n(C) \\(0,04\\) và \\(-0,04;\\)\n(D) \\(0,4 \\) và \\(-0,4\\).\nHãy chọn đáp án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng định nghĩa: Căn bậc hai số học của số \\(a\\) không âm là số \\(x\\) không âm sao cho \\(x^2=a\\)\nHay \\(\\sqrt a = x\\)\\( \\Leftrightarrow \\left\\{ \\begin{array}{l}x \\ge 0\\\\a = {x^2}\\end{array} \\right.\\)\nLời giải chi tiết\nCăn bậc hai của \\(0,16\\) là \\(0,4 \\) và \\(-0,4\\).\nDo \\(0,4>0\\) nên \\(0,4\\) là căn bậc hai số học của \\(0,16\\) hay \\(\\sqrt {0,16} = 0,4 \\).\nChọn (B)\nLoigiaihay.com"
+    }
+]

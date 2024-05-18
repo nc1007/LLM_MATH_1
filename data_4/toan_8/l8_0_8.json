@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Bài 5: Bất phương trình x - 2 > 4, phép biến đổi nào sau đây là đúng?\nA. x > 4 - 2\nB. x > -4 + 2\nC. x > -4 -2\nD. x > 4 + 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x - 2 > 4, chuyển -2 từ vế trái sang vế phải ta được x > 4 + 2.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 6: Bất phương trình -x - 2 > 4, phép biến đổi nào sau đây là đúng?\nA. x < 4 - 2\nB. x < -4 + 2\nC. x < -4 - 2\nD. x > 4 + 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: -x - 2 > 4, chuyển -2 từ vế trái sang vế phải ta được: -x > 4 + 2\nNhân cả hai vế với -1 ta được: x < -4 - 2.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 7: Bất phương trình x - 2 < 1 tương đương với bất phương trình sau?\nA. x > 3\nB. x ≤ 3\nC. x - 1 > 2\nD. x - 1 < 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x - 2 < 1 ⇔ x - 2 + 1 < 1 + 1 ⇔ x - 1 < 2\nChuyển vế -2 từ vế trái sang vế phải thì phải đổi dấu ta được\nBpt ⇔ x < 1 + 2 ⇔ x < 3 ⇒ loại đáp án A và B.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 8: Bất phương trình x + 3 < 1 tương đương với bất phương trình sau?\nA. x < 2\nB. x > 2\nC. x < -2\nD. x < 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: x + 3 < 1 ⇔ x + 3 + (-3) < 1 + (-3) ⇔ x < -2.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 13: Hãy chọn câu đúng, x = -3 là một nghiệm của bất phương trình?\nA. 2x + 1 > 5\nB. 7 - 2x < 10 - x\nC. 2 + x < 2 + 2x\nD. -3x > 4x + 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Thay x = -3 vào bất phương trình 2x + 1 > 5 ta được\n2. (-3) + 1 > 5 ⇔ -5 > 5 (vô lý) nên x = -3 không là nghiệm của bất phương trình 2x + 1 > 5.\n+ Thay x = -3 vào bất phương trình 7 - 2x < 10 - x ta được\n7 - 2. (-3) < 10 - (-3) ⇔ 13 < 13 (vô lý) nên x = -3 không là nghiệm của bất phương trình 7 - 2x < 10 - x.\n+ Thay x = -3 vào bất phương trình 2 + x < 2 + 2x ta được\n2 + (-3) < 2 + 2. (-3) ⇔ -1 < -4 (vô lý) nên x = -3 không là nghiệm của bất phương trình 2 + x < 2 + 2x.\n+ Thay x = -3 vào bất phương trình -3x > 4x + 3 ta được\n-3. (-3) > 4. (-3) + 3 ⇔ 9 > -9 (luôn đúng) nên x = -3 là nghiệm của bất phương trình -3x > 4x + 3.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 14: Hãy chọn câu đúng, x = -3 không là nghiệm của bất phương trình nào dưới đây?\nA. 2x + 1 > -5\nB. 7 - 2x ≤ 10 - x\nC. 3x - 2 ≤ 6 - 2x\nD. -3x > 4x + 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThay x = -3 vào từng bất phương trình ta được:\nĐáp án A: 2. (-3) + 1 = -5 > -5 (vô lí) nên x = -3 không là nghiệm của bất phương trình.\nĐáp án B: VT = 7 - 2. (-3) = 14, Vp = 10 - (-3) = 13 nên 13 ≤ 13 (đúng) nên x = -3 là nghiệm của bất phương trình.\nĐáp án C: VT = 3. (-3) - 2 = -11, VP = 6 - 2. (-3) = 12 nên -11 ≤ 12 (đúng) nên x = -3 là nghiệm của bất phương trình.\nĐáp án D: VT = -3. (-3) = 9, VP = 4. (-3) + 3 = -9 nên 9 > -9 (đúng) nên x = -3 là nghiệm của bất phương trình.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 17: Với giá trị của m thì phương trình x - 2 = 3m + 4 có nghiệm lớn hơn 3?\nA. m ≥ 1\nB. m ≤ 1\nC. m > -1\nD. m < -1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: x - 2 = 3m + 4 ⇔ x = 3m + 6\nTheo đề bài ta có x > 3 ⇔ 3m + 6 > 3 ⇔ 3m > -3 ⇔ m > -1\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 18: Với giá trị của m thì phương trình x - 1 = 3m + 4 có nghiệm lớn hơn 2?\nA. m ≥ 1\nB. m ≤ 1\nC. m > -1\nD. m < -1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: x - 1 = 3m + 4 ⇔ x = 3m + 5\nTheo đề bài ta có x > 2 ⇔ 3m + 5 > 2 ⇔ 3m > -3 ⇔ m > -1.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 21: Bất phương trình 2(x + 2)^{2}  < 2x(x + 2) + 4 có tập nghiệm là?\nA. S = {x ∈ R/x > -1}\nB. S = {x ∈ R/x > 1}\nC. S = {x ∈ R/x ≥ -1}\nD. S = {x ∈ R/x  < -1}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n2(x + 2)^{2}  < 2x(x + 2) + 4\n⇔ 2x^{2}  + 8x + 8 < 2x^{2}  + 4x + 4\n⇔ 4x < -4\n⇔ x < -1.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 23: Kết luận nào sau đây là đúng khi nói về nghiệm của bất phương trình (x + 3)(x + 4) > (x - 2)(x + 9) + 25?\nA. Bất phương trình vô nghiệm\nB. Bất phương trình vô số nghiệm x Î R\nC. Bất phương trình có tập nghiệm S =\nD. Bất phương trình có tập nghiệm S =",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (x + 3)(x + 4) > (x - 2)(x + 9) + 25\n⇔ x^{2}  + 7x + 12 > x^{2}  + 7x - 18 + 25\n⇔ x^{2}  + 7x + 12 - x^{2}  - 7x + 18 - 25 > 0\n⇔ 5 > 0\nVì 5 > 0 (luôn đúng) nên bất phương trình vô số nghiệm x Î R.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 24: Nghiệm của bất phương trình (x + 3) (x + 4) > (x - 2)(x + 9) + 25 là?\nA. x > 0\nB. Mọi x\nC. x < 0\nD. x < 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: (x + 3)(x + 4) > (x - 2)(x + 9) + 25\n⇔ x^{2}  + 7x + 12 > x^{2}  + 7x - 18 + 25\n⇔ x^{2}  + 7x + 12 - x^{2}  - 7x + 18 - 25 > 0\n⇔ 5 > 0\nVì 5 > 0 (luôn đúng) nên bất phương trình vô số nghiệm x Î R.\nĐáp án cần chọn là: B"
+    }
+]

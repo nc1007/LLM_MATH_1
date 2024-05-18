@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Bỏ dấu ngoặc rồi tính các tổng sau:\na) (-385 + 210) + (385 - 217);\nb) (72 - 1 956) - (-1956 + 28).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \"\nLời giải chi tiết\na) (-385 + 210) + (385 - 217)\n= -385 + 210 + 385 - 217\n= (-385 + 385) + (210 – 217)\n= 0 + (-7) = -7\nb) (72 - 1 956) - (-1 956 + 28)\n= 72 - 1 956 + 1956 - 28\n= ( 1956 – 1956) + ( 72 – 28)\n= 0 + 44 = 44."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 12 +13 + 14 - 15 - 16 - 17;\nb) (35-17) - (25 - 7 + 22).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Áp dụng tính chất giao hoán và kết hợp của phép cộng.\n- Áp dụng quy tắc dấu ngoặc.\nKhi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \"\nLời giải chi tiết\na) 12 + 13 + 14 - 15 - 16 - 17\n= (12 - 15) + (13 - 16) + (14 - 17)\n= (-3) + (-3) + (-3) = -9\nb) (35 - 17) - (25 - 7 + 22)\n= 35 - 17 - 25 + 7 - 22\n= (35 - 25) - (17 - 7) - 22\n= 10 - 10 - 22 = -22"
+    },
+    {
+        "problem": "Bỏ dấu ngoặc và tính các tổng sau:\na) -321 + (-29) - 142-(-72);\nb) 214-(-36) + (-305).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) -321  + (-29) - 142  - (-72)\n= [-321  +(-29)]+ [(-142)  + 72]\n= [-(321 + 29)] + [- (142 - 72)]\n= (-350) + (-70)\n= -(350 + 70)\n= -420\nb) 214 - (-36) + (-305)\n= 214 + 36 - 305\n= 250 - 305\n= -(305 - 250)\n= -55."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 21 - 22 + 23 - 24\nb) 125 - (115 - 99).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bỏ ngoặc và nhóm các số hạng có tổng \"đẹp\"\nLời giải chi tiết\na) 21 - 22 + 23 - 24\n= (21 - 22) + (23 - 24)\n= (-1) + (-1)  = -2\nb) 125 - (115 - 99)\n= 125 - 115 + 99\n= (125 - 115) + 99\n= 10 + 99 = 109.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bỏ dấu ngoặc rồi tính:\na) (56 - 27) - (11 + 28 -16);\nb) 28 + (19 - 28) - (32 - 57).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\n+ Khi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) (56 - 27) - (11 + 28 - 16)\n= 56 - 27 - 11 - 28 + 16\n= 56 – ( 27 + 11 + 28) + 16\n= 56 – 66 + 16\n= -10 + 16\n= 6\nb) 28 + (19 - 28) - (32 - 57)\n= 28 + 19 – 28 – 32 + 57\n= (28 – 28) + 19 - 32 + 57\n= 0 + (-13) + 57\n= 44"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 232 - (581 + 132 - 331);\nb) [12 + (-57)) – [-57- (-12)].\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) 232 - (581 + 132 - 331)\n= 232 - 581 - 132 + 331\n= (232 - 132) - (581 - 331)\n= 100 - 250\n= -(250 - 100)\n= -150\nb) [12 + (-57)] - [-57 - (-12)]\n= 12 - 57 + 57 - 12\n= (12 - 12) + (57 - 57)\n= 0 + 0\n= 0"
+    },
+    {
+        "problem": "Tính giá trị của các biểu thức sau:\na) (23 + x) - (56 – x) với x = 7;\nb) 25 – x - (29 + y - 8) với x = 13, y = 11.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi bỏ dấu ngoặc có dấu \" + \" đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc\nKhi bỏ dấu ngoặc có dấu \" - \" đằng trước, ta phải đổi dấu tất cả các số hạng trong dấu ngoặc: dấu \" + \" đổi thành \" - \"  và dấu \" - \" đổi thành \" + \".\nLời giải chi tiết\na) Cách 1: Thay x = 7, ta có:\n(23 + x) - (56 - x)\n= (23 + 7) - (56 - 7)\n= 30 - 49\n= -19\nCách 2:\nThay x = 7, ta có:\n(23 + x) - (56 - x)\n= (23 + 7) - (56 - 7)\n= 23 + 7 - 56 + 7\n= 30 - 56 + 7\n= (-26) + 7\n=-19.\nb)  Cách 1: Thay x = 13, y = 11, ta có:\n25 - x - (29 + y - 8)\n= 25 - 13 - (29 + 11 - 8)\n= 12 - 32\n= -20.\nCách 2: Thay x = 13, y = 11, ta có:\n25 - x - (29 + y - 8)\n= 25 - 13 - (29 + 11 - 8)\n= 25 - 13 - 29 - 11 + 8\n= 12 - 29 - 11 + 8\n= (-17) - 11 + 8\n= (-28) + 8\n=-20."
+    },
+    {
+        "problem": "Dùng số nguyên âm hoặc số nguyên dương để diễn tả các thông tin sau:a) Khi đọc sách, bạn Quang thường đưa trang sách lại quá gần mắt. Bạn ấy đã phải mang kính cận 1 dioptre.b) Ông của bạn Quang đã già nên phải dùng kính lão 2 dioptre để đọc sách báo.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Số âm biểu diễn độ cận thị\n+ Số dương biểu diễn độ viễn thị\nLời giải chi tiết\na) Khi đọc sách, bạn Quang thường đưa trang sách lại quá gần mắt. Bạn ấy đã phải đeo kính -1 dioptre.\nb) Ông của bạn Quang đã già nên phải đeo kính 2 dioptre (hay +2 dioptre) để đọc sách báo"
+    },
+    {
+        "problem": "Điểm A nằm trên trục số và cách gốc O một khoảng bằng 12 đơn vị (trục số nằm ngang và có chiều dương từ trái sang phải). Hỏi điểm A biểu diễn số nguyên nào nếu:\na) A nằm bên phải gốc O.\nb) A nằm ở bên trái gốc O.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bên phải gốc O biểu diễn số dương\nBên trái gốc O biểu diễn số âm\nLời giải chi tiết\na) Vì A nằm bên phải gốc O và cách O một khoảng bằng 12 đơn vị nên điểm A biểu diễn số +12.\nb) Vì A nằm bên trái gốc O và cách O một khoảng bằng 12 đơn vị nên điểm A biểu diễn số -12."
+    },
+    {
+        "problem": "Liệt kê các phần tử của tập hợp sau rồi tính tổng của chúng:\na) {x ∈ Z;|-3 < x ≤ 3}\nb) {x ∈ Z;|-7 < x ≤ -2}\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mô tả lại tập hợp bằng cách liệt kê rồi tính tổng các phần tử\nLời giải chi tiết\na) Các số nguyên lớn hơn -3 và nhỏ hơn hoặc bằng 3 là: -2; -1; 0; 1; 2; 3\nDo đó: S = {-2; -1; 0; 1; 2; 3}\nTổng các phần tử của S là: (-2) + (-1) + 0 + 1 + 2 + 3 = [(-2) + 2] + [(-1) + 1)] + 3\n= 0 + 0 + 3 = 3.\nb) Các số nguyên lớn hơn -7 và nhỏ hơn hoặc bằng -2 là: -6; -5; -4; -3; -2\nDo đó: T = {-6; -5; -4; -3; -2}\nTổng các phần tử của T là:(-6) + (-5) + (-4) + (-3) + (-2) = - (6 + 5 + 4 + 3 + 2)\n= - 20."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\na) (27 + 86) - (29 - 5 + 84);\nb) 39 - (298 - 89) + 299.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Tính trong ngoặc trước\nCách 2: Phá ngoặc rồi nhóm các hạng tử sao cho phù hợp lại và cộng, trừ\nLời giải chi tiết\na) (27 + 86) - (29 - 5 + 84)\n= 27 + 86 - 29 + 5 - 84\n= (27 – 29) + (86 – 84) + 5\n= (- 2) + 2 + 5\n= 0 + 5\n= 5\nb) 39 - (298 - 89) + 299\n= 39 - 298 + 89 + 299\n= (39 + 89) + (299 – 298)\n= 39 + 89 + 1\n= 39 + (89 + 1)\n= 39 + 90\n= 129"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức (-314) - (75 + x) nếu:\na) x = 25\nb) x = - 313.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay từng giá trị của x vào biểu thức rồi tính\nLời giải chi tiết\na) Khi x = 25 thì\n(-314) - (75 + x)\n= (-314) - (75 + 25)\n= (- 314) – 100\n= (-314) + (-100)\n= - (314 + 100)\n= - 414.\nb) Khi x = -313 thì\n(-314) - (75 + x)\n= (-314) - [75 +(-313)]\n= -314 – 75 + 313\n= -75 + (313 – 314)\n= -75 + [-(314 - 313)]\n= -75 +(-1)\n= - (75 +1)\n= - 76."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 2 834 + 275 – 2 833 – 265;\nb) (11 + 12 + 13) – (1 + 2 + 3).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhóm các hạng tử mà khi cộng(hoặc trừ) được một kết quả \"đẹp\"\n- Nếu có ngoặc thì có thể thực hiện phá ngoặc rồi nhóm\nLời giải chi tiết\na) 2 834 + 275 - 2 833 - 265\n= (2 834 - 2 833) + (275 - 265)\n= 1 + 10\n= 11\nb) (11 + 12 + 13) - (1 + 2 + 3)\n= 11 + 12 + 13 - 1 - 2 - 3\n= (11 - 1) + (12 - 2) + (13 - 3)\n= 10 + 10 + 10\n= 20 + 10\n= 30"
+    },
+    {
+        "problem": "Trong một trò chơi, bạn Minh nhận được yêu cầu: “Hãy tính tổng của tất cả các số trong tập hợp\n{x ∈ N|-25 ≤ x ≤ 25}\nMinh trả lời ngay: “Bằng 0”. Em có thể giải thích tại sao Minh tính nhanh thế không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng của 2 số đối nhau là 0\nLời giải chi tiết\nMinh trả lời nhanh như thế là vì trong tập hợp đã cho, ta đều nhóm thành từng cặp số đối nhau ( có tổng bằng 0). Ví dụ như 2 và -2 là hai số đối nhau đều thuộc tập hợp, tổng của chúng bằng 0.\nTa được tổng của các nhóm này và số 0 vẫn bằng 0."
+    },
+    {
+        "problem": "Dựa vào phép cộng các số âm, hãy tính tích (-11) . 3 rồi so sánh kết quả với –(11. 3).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(-a).n = (-a).(-a)…(-a) (n thừa số a)\nLời giải chi tiết\n(-11).3 = (-11) + (-11) + (-11) = -33\n-(11.3) = -(11 + 11 + 11) = -33\nVậy (-11).3 = -(11.3)"
+    },
+    {
+        "problem": "Hãy dự đoán kết quả của các phép nhân 5.(-7) và (-6) . 8.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào HĐ1 để dự đoán.\nLời giải chi tiết\nDự đoán:\n5.(-7) = -(5.7) = -35   ;   (-6).8 = -(6.8) = -48"
+    }
+]

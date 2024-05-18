@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Câu 1. Các tỉ số nào sau đây lập thành một tỉ lệ thức?\nA. \\frac{5}{7}:\\frac{−3}{14} và \\frac{−1}{14}:\\frac{3}{10}\nB. \\frac{2}{−5}và \\frac{−6}{12}\nC.(−3) :7 và 6: (−7);\nD. (-1):\\frac{2}{5} và \\frac{−5}{3}:\\frac{4}{6}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: \n−1:\\frac{2}{5}=(−1).\\frac{5}{2}=\\frac{−5}{2}\nSuy ra \\frac{−5}{3}:\\frac{4}{6}=\\frac{−5}{3}.\\frac{6}{4}=\\frac{−5}{2}\nDo đó, (−1):\\frac{2}{5} và \\frac{−5}{3}:\\frac{4}{6} lập thành một tỉ lệ thức.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 2. Chọn câu sai. Nếu \\frac{a}{b}=\\frac{c}{d} thì:\nA. ad=bc; \nB. \\frac{a}{c}=\\frac{b}{d}\nC. \\frac{c}{a}=\\frac{b}{d}\nD. \\frac{b}{a}=\\frac{d}{c}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \\frac{a}{b}=\\frac{c}{d} suy ra \\frac{c}{a}=\\frac{d}{b}≠\\frac{b}{d}\n Vậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 3. Cho tỉ lệ thức \\frac{x}{3}=\\frac{−2}{6}. Giá trị của x là:\nA. 1;\nB. −1;\nC. 6;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có  \\frac{x}{3}=\\frac{−2}{6}\nSuy ra \nx . 6 = (−2) . 3\nx . 6 = −6\nx = −1\nVậy x = −1.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 4. Cho tỉ lệ thức 5 : x = (−4) : 8. Giá trị của x là:\nA. −10;\nB. −4;\nC. 10;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có 5 : x = (−4) : 8 nên \\frac{5}{x}=\\frac{−4}{8}\nSuy ra \nx . (−4) = 5 . 8\nx . (−4) = 40\nx = 40 : (−4)\nx = −10\nVậy x = −10.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 5.Chọn câu sai. Từ đẳng thức −2x = 3y, ta có tỉ lệ thức:\nA. \\frac{x}{3}=\\frac{y}{−2}\nB. \\frac{x}{y}=\\frac{3}{−2}\nC. \\frac{x}{−2}=\\frac{y}{3}\nD. \\frac{3}{x}=\\frac{2}{−y}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTheo bài ra −2x = 3y. Suy ra \\frac{x}{y}=\\frac{3}{−2}(tính chất tỉ lệ thức)\nNếu \\frac{x}{−2}=\\frac{y}{3} thì \\frac{x}{y}=\\frac{−2}{3}≠\\frac{3}{−2}\nDo đó \\frac{x}{−2}=\\frac{y}{3} là sai.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 7.Tìm hai số x; y biết \\frac{x}{3}=\\frac{y}{5} và x + y = −24.\nA. x = −9; y = −15;\nB. x = 9; y = 15;\nC. x = −9; y = 15;\nD. x = 9; y = 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có: \n\\frac{x}{3}=\\frac{y}{5}=\\frac{x+y}{3+5}=\\frac{−24}{8}=−3\nSuy ra x = (−3) . 3 = −9; y = (−3) . 5 = −15.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 8. Tìm hai số x và y biết \\frac{x}{4}=\\frac{y}{7} và x − y = −6.\nA. x = 8; y = 14;\nB. x = −8; y = 14;\nC. x = 8; y = −14;\nD. x = −8; y = −14.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có:\n\\frac{x}{4}=\\frac{y}{7}=\\frac{x−y}{4−7}=\\frac{−6}{−3}=2\nSuy ra x = 2 . 4 = 8; y = 2 . 7 = 14.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 9. Cho 2x = 3y và y − x = −2. Tìm x và y.\nA. x = 4; y = 6;\nB. x = 6; y = 4;\nC. x = −4; y = −6;\nD. x = −6; y = −4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTheo tính chất tỉ lệ thức, ta có 2x = 3y nên \\frac{x}{3}=\\frac{y}{2}\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có: \n\\frac{x}{3}=\\frac{y}{2}=\\frac{y−x}{2−3}=\\frac{−2}{−1}=2\nSuy rax = 2 . 3 = 6; y = 2 . 2 = 4.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 10. Cho \\frac{x}{y}=\\frac{2}{−7} và 2x + y = 9. Tìm x và y.\nA. x = 21; y = 6;\nB. x = −6; y = 21;\nC. x = 6; y = −21;\nD. x = 6; y = 21.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: \\frac{x}{y}=\\frac{2}{−7} suy ra \\frac{x}{2}=\\frac{y}{−7}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có: \n\\frac{x}{2}=\\frac{y}{−7}=\\frac{2x+y}{2.2−7}=\\frac{9}{−3}=−3\nSuy ra x = (−3).2 = −6; y = (−3).(−7) = 21.\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 11. Chọn câu sai. Nếu \\frac{a}{b}=\\frac{c}{d}=\\frac{m}{n} thì:\nA. \\frac{a}{b}=\\frac{c}{d}=\\frac{m}{n}=\\frac{a+c+m}{b+d+n}\nB. \\frac{a}{b}=\\frac{c}{d}=\\frac{m}{n}=\\frac{a+c−m}{b+n−d}\nC. \\frac{a}{b}=\\frac{c}{d}=\\frac{m}{n}=\\frac{a+2c+m}{b+2d+n}\nD. \\frac{a}{b}=\\frac{c}{d}=\\frac{m}{n}=\\frac{a−c−m}{b−d−n}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có:\n\\frac{a}{b}=\\frac{c}{d}=\\frac{m}{n}=\\frac{a+c−m}{b+d−n}≠\\frac{a+c−m}{b+n−d}\nVậy chọn đáp án B."
+    },
+    {
+        "problem": "Câu 12. Cho x : y : z = 2 : 3 : 5 và x − y + z = − 8. Giá trị của x là:\nA. 10;\nB. −6;\nC. −10;\nD. −4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có x : y : z = 2 : 3 : 5, suy ra \\frac{x}{2}=\\frac{y}{3}=\\frac{z}{5}\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có: \n\\frac{x}{2}=\\frac{y}{3}=\\frac{z}{5}=\\frac{x−y+z}{2−3+5}=\\frac{−8}{4}=−2\nSuy ra \nx = 2 . (−2) = −4;\ny = 3 . (−2) = −6;\nz = 5 . (−2) = −10.\nVậy chọn đáp án D."
+    },
+    {
+        "problem": "Câu 13. Nếu \\frac{x}{2}=\\frac{y}{3}=\\frac{z}{4} và 2x + y – z = 6. Giá trị y là:\nA. 4;\nB. 6;\nC. 8;\nD. −6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có: \n\\frac{x}{2}=\\frac{y}{3}=\\frac{z}{4}=\\frac{2x+y−z}{2.2+3−4}=\\frac{6}{3}=2\nSuy ra x = 2 . 2 = 4; y = 3 . 2 = 6; z = 4 . 2 = 8.\nVậy x = 4; y = 6; z = 8.\nChọn đáp án B."
+    },
+    {
+        "problem": "Câu 14. Cho hai số dương x, y thoả mãn \\frac{x}{3}=\\frac{y}{5} và xy = 60. Khi đó x, y bằng:\nA. x = 6; y = 10;\nB. x = 10; y = 6;\nC. x = −6; y = −10;\nD. x = −10; y = −6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nĐặt \\frac{x}{3}=\\frac{y}{5}=k . Suy ra x = 3k; y = 5k.\nTheo bài ra xy = 60 nên ta có:\n3k . 5k = 60\n15k^{2}  = 60\nk^{2}  = 4\nSuy ra k = 2 hoặc k = −2.\nVới k = 2 thì x = 3. 2 = 6; y = 5 . 2 = 10\nVới k = −2 thì x = 3.(−2) = −6; y = 5 . (−2) = −10\nMà x,y là các số dương nên x = 6; y = 10.\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 15. Một hình chữ nhật có chu vi 56 m, tỉ số của chiều dài và chiều rộng là 5: 2. Diện tích của hình chữ nhật đó là: \nA. 80;\nB. 640;\nC. 320;\nD. 160.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nGọi x, y (m) lần lượt là chiều dài và chiều rộng của hình chữ nhật (0 < x, y < 56).\nNửa chu vi hình chữ nhật là: x + y = 56 : 2 = 28 (m)\nTỉ số của chiều dài và chiều rộng là 5 : 2 nên \\frac{x}{y}=\\frac{5}{2} hay \\frac{x}{5}=\\frac{y}{2}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{5}=\\frac{y}{2}=\\frac{x+y}{5+2}=\\frac{28}{7}=4\nSuy ra x = 5 . 4 = 20; y = 2 . 4 = 8 (thoả mãn điều kiện)\nKhi đó, hình chữ nhật có chiều dài là 20 m và chiều rộng là 8 m.\nVậy diện tích hình chữ nhật là: 20 . 8 = 160 (m^{2} ).\nVậy chọn đáp án D."
+    }
+]

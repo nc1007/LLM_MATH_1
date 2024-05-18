@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1 : Hoa nói: “Khi chia một tổng cho một số, nếu các số hạng của tổng đều chia hết \ncho số chia thì ta có thể chia từng số hạng cho số chia, rồi cộng các kết quả tìm được với nhau”.  \nHoa nói đúng hay sai? \nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi chia một tổng cho một số, nếu các số hạng của tổng đều chia hết cho số chia \nthì ta có thể chia từng số hạng cho số chia, rồi cộng các kết quả tìm được với nhau.\nVậy Hoa nói đúng."
+    },
+    {
+        "problem": "Câu 2 : (36 + 48) ∶6 = 36∶6 + 48∶6. Đúng hay sai? \nA.\tSai\nB.\tĐúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy (36+48):6 có dạng một tổng chia cho một số.\nMà 36 và 48 đều chia hết cho 6 nên ta có thể viết như sau:\n            (36+48):6=36:6+48:6\nVậy biểu thức đã cho là đúng."
+    },
+    {
+        "problem": "Câu 3 : (68 + 32) ∶4 = ...  \nBiểu thức thích hợp điền vào chỗ chấm là:\n\tA.  68∶4-32∶4\n\tB.\t68∶4+32\n\tC. 68+32∶4\n\tD. 68∶4+32∶4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy (68+32):4 có dạng một tổng chia cho một số.\nMà 68 và 32 đều chia hết cho 4 nên ta có thể viết như sau:\n       (68+32):4=68:4+32:4"
+    },
+    {
+        "problem": "Câu 4 : (135 - 50) ∶5 = ...  \nBiểu thức thích hợp điền vào chỗ chấm là:\nA. 135-50∶5 \nB. 135∶5-50\nC. 135∶5-50∶5\nD. 135∶5+50∶5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy biểu thức (135−50):5 có dạng một hiệu chia cho một số.\nMà 135 và 50 đều chia hết cho 5, nên ta có:\n              (135−50):5=135:5−50:5"
+    },
+    {
+        "problem": "Câu 7 : Tổng của 24 và 54 chia cho 6 được kết quả là: \nA.\t11\nB.\t12\nC.\t13\nD.\t14",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng của 24 và 54 là :  24+54\nTheo đề bài ta có biểu thức: (24+54):6 \nTa có: (24+54):6=24:6+54:6=4+9=13\nVậy tổng của 24 và 54 chia cho 6 được kết quả là 13."
+    },
+    {
+        "problem": "Câu 8 : Chọn dấu thích hợp để điền vào chỗ chấm:   \n(200 + 328) : 8 ... 68 \nA.\t< \nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n(200+328):8=200:8+328:8=25+41=66 \nMà: 66 < 68\nDo đó (200+328):8 < 68"
+    },
+    {
+        "problem": "Câu 10 : Tìm y, biết: 189 ∶ y + 54 ∶ y = 9. \nA.\ty = 26\nB.\ty = 27\nC.\ty = 28\nD.\ty = 29",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n189:y+54:y=9\n(189+54):y=9\n243:y=9\ny=243:9\ny=27 \nVậy y=27."
+    },
+    {
+        "problem": "Câu 11 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n172:4+228:4\n=(172+228):4\n=400:4\n=100 \nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới, \ntừ trái sang phải là  228; 4; 400; 4; 100."
+    },
+    {
+        "problem": "Câu 13 : So sánh P và Q biết:  \nP = 528 : 6 + 672 : 6 \nQ = 420 : 5 + 368 : 2\nA.\tP > Q \nB.\tP < Q \nC.\tP = Q",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nP=528:6+672:6=(528+672):6=1200:6=200\nQ=420:5+368:2=84+184=268\nMà 200 < 268 \nDo đó 528:6+672:6 < 420:5+368:2\nVậy P < Q"
+    }
+]

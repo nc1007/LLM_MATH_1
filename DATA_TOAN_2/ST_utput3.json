@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Từ ba chữ số 0, 1 và 2, viết các số tự nhiên có ba chữ số, mỗi chữ số chỉ viết một lần.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Bước 1: Chọn chữ số hàng trăm ( khác 0)\n+ Bước 2: Chọn chữ số hàng chục ( khác chữ số hàng trăm)\n+ Bước 3: Chọn chữ số hàng đơn vị ( khác chữ số hàng trăm, hàng chục)\nLời giải chi tiết\nCác số có ba chữ số lập được là: 120, 210, 102, 201"
+    },
+    {
+        "problem": "Trong số 32 019, ta thấy:\n\"Chữ số 2 nằm ở hàng nghìn và có giá trị bằng 2 x 1 000 = 2 000\".\nHãy phát biểu theo mẫu câu đó đối với các chữ số còn lại.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chữ số hàng chục nghìn có giá trị bằng số đó nhân với 10000\n- Chữ số hàng trăm có giá trị bằng số đó nhân với 100\n- Chữ số hàng chục có giá trị bằng số đó nhân với 10.\n- Chữ số hàng đơn vị có giá trị bằng số đó.\nLời giải chi tiết\n- Chữ số 3 nằm ở hàng chục nghìn có giá trị bằng 3 x 10 000 = 30 000\n- Chữ số 0 nằm ở hàng trăm có giá trị bằng 0 x 100 = 0\n- Chữ số 1 nằm ở hàng chục có giá trị bằng 1 x 10 = 10\n- Chữ số 9 nằm ở hàng đơn vị có giá trị bằng 9."
+    },
+    {
+        "problem": "Viết số 32 019 thành tổng giá trị các chữ số của nó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cộng các giá trị của các hàng đã tính ở HĐ1\nLời giải chi tiết\n32 019 = 3 x 10 000 + 2 x 1 000 + 0 x 100 + 1 x 10 + 9 x 1"
+    },
+    {
+        "problem": "Viết số 34 604 thành tổng giá trị các chữ số của nó",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\overline {ab\\,cde}  = a.10\\,000 + b.1\\,000 + c.100 + d.10 + e\\)\nLời giải chi tiết\nSố 34 604 được viết thành tổng giá trị các chữ số của nó là:\n34 604 = (3 x 10 000) + (4 x 1 000) + (6 x 100) + (0 x 10) + 4"
+    },
+    {
+        "problem": "Bác Hoa đi chợ, Bác chi mang ba loại tiền: loại (có mệnh giá) 1 nghìn (1 0000 đồng, loại 10 nghìn (10 000 đồng và loại 100 nghìn (100 000 đồng. Tổng số tiền bác phải trả là 492 nghìn đồng. Nếu mỗi loại tiền, bác mang theo không quá 9 tờ thì bác sẽ phải trả bao nhiêu tờ tiền mỗi loại, mà người bán không phải trả lại tiền thừa?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết số 492 thành tổng giá trị các chữ số của nó từ đó suy ra số tờ tiền mỗi loại phải trả.\nLời giải chi tiết\nTa biểu diễn 492 thành:\n492 = (4 x 100) + (9 x 10) + 2 x 1\nVậy để người bán hàng không phải trả lại tiền thừa thì số tờ tiền mỗi loại bác phải trả là: 4 tờ loại\n100 nghìn (100 000) đồng, 9 tờ 10 nghìn (10 000 đồng) và 2 tờ loại 1 nghìn (1 000 đồng)\n"
+    },
+    {
+        "problem": "a) Viết các số 14 và 27 bằng số La Mã.\nb) Đọc các số La Mã XVI, XXII.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải chi tiết\na) Số 14: XIV\nSố 27: XXVII\nb) XVI: Mười sáu\nXXII: Hai mươi hai\nLời giải hay"
+    },
+    {
+        "problem": "Sử dụng đúng 7 que tính, em xếp được những số La Mã nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ghép các que tính thành các số La Mã\nLời giải chi tiết\nCác số có thể ghép được: XVIII (18), XXIII (23), XXIV (24), XXVI (26), XXIX(29), XXXI(31)."
+    },
+    {
+        "problem": "Cho các số: 27 501; 106 712; 7 110 385; 2 915 404 267 (viết trong hệ thập phân)\na) Đọc mỗi số đã cho\nb) Chữ số 7 trong mỗi số đã cho có giá trị bằng bao nhiêu\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Đọc các số đã cho\nb) Số 7 đứng ở hàng nào thì nhân 7 với số tương ứng.\nLời giải chi tiết\na)\n27 501: Hai mươi bảy nghìn năm trăm lẻ một\n106 712: Một trăm lẻ sáu nghìn bảy trăm mười hai\n7 110 385: Bảy triệu một trăm mười nghìn ba trăm tám mươi lăm\n2 915 404 267: Hai tỉ chín trăm mười lăm triệu bốn trăm lẻ bốn nghìn hai trăm sáu mươi bảy.\nb)\n27 501: chữ số 7 nằm ở hàng nghìn và có giá trị là 7x1 000 = 7 000\n106 712: chữ số 7 nằm ở hàng trăm và có giá trị là 7x 100 = 700\n7 110 385: chữ số 7 nằm ở hàng triệu và có giá trị là 7x 1 000 000 = 7 000 000\n2 915 404 267: chữ số 7 nằm ở hàng đơn vị và có giá trị là 7x1 = 7\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chữ số 4 đứng ở hàng nào trong một số tự nhiên nếu nó có giá trị bằng\na) 400\nb) 40\nc) 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số chữ số 0 sau số 4, nếu không có số 0 thì 4 đứng ở hàng đơn vị, có 1 số 0 thì 4 đứng ở hàng chục, có hai số 0 thì 4 đứng ở hàng trăm.\nLời giải chi tiết\na) Vì 400 = 4 x 100 nên chữ số 4 có giá trị bằng 400 khi nó đứng ở hàng trăm.\nb) Vì 40 = 4 x 10 nên chữ số 4 có giá trị bằng 40 khi nó đứng ở hàng chục.\nc) Vì 4 = 4 x 1 nên chữ số 4 có giá trị bằng 4 khi nó đứng ở hàng đơn vị."
+    },
+    {
+        "problem": "Đọc các số La Mã XIV; XVI; XXIII.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc các số La Mã đã cho\nLời giải chi tiết\nXIV : mười bốn\nXVI : mười sáu\nXXIII: hai mươi ba"
+    },
+    {
+        "problem": "Viết các số sau bằng số La Mã: 18, 25",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết các số đã cho bằng số La Mã\nLời giải chi tiết\n18: XVIII\n25: XXV"
+    },
+    {
+        "problem": "Một số tự nhiên được viết bởi ba chữ số 0 và ba chữ số 9 nằm xen kẽ nhau. Đó là số nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Do số 0 không thể đứng đầu tiên từ trái qua phải nên ta viết số 9 đứng đầu su đó viết các số xen kẽ nhau\nLời giải chi tiết\nVì số 0 không thể đứng đầu nên số cần tìm là 909 090.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng các chữ số 0, 3 và 5, viết một số tự nhiên có ba chữ số khác nhau mà chữ số 5 có giá trị là 50.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lưu ý chữ số 0 không thể đứng ở hàng trăm.\nLời giải chi tiết\nChữ số 5 có giá trị là 50 nên nó ở hàng chục.\nSố 0 không thể đứng đầu nên chữ số 3 ở hàng trăm và chữ số 0 ở hàng đơn vị.\nVậy số cần tìm là 350."
+    },
+    {
+        "problem": "Trong một cửa hàng bánh kẹo, người ta đóng gói kẹo thành các loại: mỗi gói có 10 cái kẹo, mỗi hộp có 10 gói, mỗi thùng có 10 hộp. Một người mua 9 thùng, 9 hộp và 9 gói kẹo. Hỏi người đó đã mua tất cả bao nhiêu cái kẹo",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số cái kẹo có trong 1 hộp\nTính số cái kẹo có trong 1 thùng\n=> Tính số kẹo trong 9 thùng, 9 hộp và 9 gói kẹo.\nLời giải chi tiết\nSố cái kẹo trong 1 gói là: 10 (cái kẹo)\nSố cái kẹo có trong 1 hộp là: 10 x 10 = 100 (cái kẹo)\nSố cái kẹo có trong 1 thùng là: 100 x 10 = 1 000 (cái kẹo)\nVậy một người mua 9 thùng, 9 hộp và 9 gói kẹo thì số kẹo người đó đã mua tất cả là:\n9 x 1000 + 9 x 100 + 9 x 10 = 9990 (cái kẹo)\nĐáp số 9990 cái kẹo."
+    },
+    {
+        "problem": "Giả sử từ ba chữ số $a,b,c$ khác $0,$  ta viết các số có ba chữ số như thế nào:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chọn $b$ là chữ số hàng trăm ta có: \\(\\overline {bac} \\), \\(\\overline {bca} \\);\nChọn $c$ là chữ số hàng trăm ta có: \\(\\overline {cab} \\), \\(\\overline {cba} \\).\nVậy tất cả có 6 số có ba chữ số lập được từ ba chữ số khác $0$: $a,b$ và $c.$\nChữ số $0$ không thể đứng ở hàng cao nhất của số có $n$  chữ số phải viết.\nDùng $2$ chữ số $3, 5$, hãy viết tất cả các số có $2$ chữ số mà các chữ số khác nhau.\nGiải:\nChữ số hàng chục có thể là $3$ hoặc $5$.\nNếu chữ số hàng chục là $3$ thì chữ số hàng đơn vị là $5$.\nNếu chữ số hàng chục là $5$ thì chữ số hàng đơn vị là $3$.\n2. Tính số các số có n chữ số cho trước\nPhương pháp:\nBước 1: Tìm số nhỏ nhất và số lớn nhất có $n$ chữ số.\nBước 2: Để tính số các số có $n$  chữ số ta lấy số lớn nhất có $n$  chữ số trừ đi số nhỏ nhất có $n$ chữ số rồi cộng với $1.$\nVí dụ:\nCó bao nhiêu số có $3$ chữ số? Giải: Số lớn nhất có $3$ chữ số là $999$. Số nhỏ nhất có $3$ chữ số là: $100$. Số các số có $3$ chữ số là $999-100+1=900$.\nPhương pháp:\nĐể đếm các số tự nhiên từ $a$ đến $b,$  hai số liên tiếp cách nhau $d$  đơn vị, ta dùng công thức sau:\n$\\dfrac{{b - a}}{d} + 1$ hay bằng (số cuối – số đầu):khoảng cách +1.\n- Căn cứ vào các phần tử đã được liệt kê hoặc căn cứ vào tính chất đặc trưng cho các phần tử của tập hợp cho trước, ta có thể tìm được số phần tử của tập hợp đó.\n- Sử dụng các công thức sau:\n+ Tập hợp các số tự nhiên từ $a$ đến $b$ có: $b-a + 1$ phần tử  (1)\n+ Tập hợp các số chẵn từ số chẵn $a$ đến số chẵn $b$ có: $\\left( {b-a} \\right):2 + 1$ phần tử  ( 2)\n+ Tập hợp các số lẻ từ số lẻ $m$ đến số lẻ $n$ có: $\\left( {n - m} \\right):2 + 1$ phần tử  ( 3)\n+ Tập hợp các số tự nhiên từ $a$  đến $b,$  hai số kế tiếp cách nhau d đơn vị, có: $\\left( {b - a} \\right):d + 1$ phần tử  (4)"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "B. Lũy thừa → Nhân và chia → Cộng và trừ;\nC. Nhân và chia → Cộng và trừ → Lũy thừa;\nD. Lũy thừa → Cộng và trừ → Nhân và chia.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nThứ tự thực hiện các phép tính đối với số hữu tỉ tương tự thứ tự thực hiện các phép tính đối với số tự nhiên, số nguyên, phân số, số thập phân trong trường hợp biểu thức không có dấu ngoặc: Lũy thừa → Nhân và chia → Cộng và trừ."
+    },
+    {
+        "problem": "Câu 2. Cô giáo cho bài toán: A−\\frac{1}{3}2 . Bạn Hoa thực hiện như sau:\n A−\\frac{1}{3}2 \nA−\\frac{1}{3}2 (Bước 1)\n A\\frac{1}{3}2 (Bước 2)\n A\\frac{1}{9} (Bước 3)\nA = 1. (Bước 4)\nBạn Hoa sai từ bước nào?\nA. Bước 1;\nB. Bước 2;\nC. Bước 3;\nD. Bước 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nBạn Hoa sai từ bước 1. Vì trong biểu thức A có các phép tính trừ, nhân, lũy thừa nên thứ tự thực hiện phép tính là lũy thừa trước, rồi đến nhân, cuối cùng đến phép trừ.\nCách làm đúng như sau:\n A−\\frac{1}{3}2\n A−\\frac{1}{9}\nA\\frac{19}{2}−\\frac{1}{2}\\frac{1}{9}\nA\\frac{19}{2}−\\frac{1}{18}\nA\\frac{171}{18}−\\frac{1}{18}\nA\\frac{170}{18}\\frac{85}{9}."
+    },
+    {
+        "problem": "Câu 3. Giá trị của biểu thức: 8\\frac{−}{2}2−2\\frac{4}{25} là:\nA. 3;\nB.\\frac{7}{4}; \nC.\\frac{9}{4}; \nD. 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có: 8\\frac{−}{2}2−2\\frac{4}{25}\n\\frac{−2}{22}−\\frac{1}{5}2\\frac{4}{25}\n\\frac{1}{4}\\frac{−}{52}2\\frac{4}{25}\n\\frac{1}{4}\\frac{1}{25}\\frac{4}{25}\n\\frac{8}{4}\\frac{1}{25}\\frac{25}{4}\n\\frac{8}{4}\\frac{1}{4}\\frac{9}{4}"
+    },
+    {
+        "problem": "Câu 4. Tìm x, biết: 2x−\\frac{2}{3}2\\frac{5}{9}.\nA. x = 0,5;\nB. x\\frac{1}{3}; \nC. x\\frac{2}{3};\nD. x = 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTa có: 2x−\\frac{2}{3}2\\frac{5}{9}\n 2x−\\frac{4}{9}\\frac{5}{9}\n2x\\frac{5}{9}\\frac{4}{9}\n2x=\\frac{9}{9}\n2x = 1\nx = 0,5.\nVậy x = 0,5."
+    },
+    {
+        "problem": "Câu 5. 23 là kết quả của phép tính nào sau đây:\nA. 12 + (− 2) . 8;\nB. 8 − 4 + 37;\nC. 7 . 4 + (−3) ;\nD. 9 . 8 − 7 ^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTa có:\n+) 12 + (− 2)^{3}  . 8 \n= 12 + (− 8) . 8 \n= 12 + (− 64) = − 52;\n+) 8 – 4^{3}  + 37 \n= 8 – 64 + 37 \n= ‒ 56 + 37 \n= − 19;\n+) 7 . 4 + (−3)^{2}  \n= 7 . 4 + 9 \n= 28 + 9 \n= 37;\n+) 9 . 8 – 7^{2} \n= 9 . 8 – 49 \n= 72 – 49 \n= 23.\nVậy 23 là kết quả của phép tính 9 . 8 – 7^{2} ."
+    },
+    {
+        "problem": "Câu 6. Chọn đáp án đúng về quy tắc dấu ngoặc:\nA. Khi bỏ dấu ngoặc có dấu “+” đằng trước, ta giữ nguyên dấu của các số hạng trong dấu ngoặc;\nB. Khi bỏ dấu ngoặc có dấu “+” đằng trước, ta đổi dấu của các số hạng trong dấu ngoặc: dấu “+” đổi thành dấu “−” và dấu “−” đổi thành dấu “+”;\nC. Khi bỏ dấu ngoặc có dấu “−” đằng trước, ta giữ nguyên dấu của các số hạng trong dấu ngoặc;\nD. Không có đáp án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nKhi bỏ dấu ngoặc có dấu “+” đằng trước, ta giữ nguyên dấu của các số hạng trong dấu ngoặc;\nKhi bỏ dấu ngoặc có dấu “−” đằng trước, ta đổi dấu của các số hạng trong dấu ngoặc: dấu “+” đổi thành dấu “−” và dấu “−” đổi thành dấu “+”."
+    },
+    {
+        "problem": "Câu 7. Khi bỏ dấu ngoặc trong biểu thức − (− a + b − 5 − c) ta được kết quả là:\nA. − a + b − 5 − c;\nB. a + b − 5 − c;\nC. a − b + 5 + c;\nD. − a − b + 5 + c.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nKhi bỏ dấu ngoặc có dấu “−” đằng trước, ta đổi dấu của các số hạng trong dấu ngoặc: dấu “+” đổi thành dấu “−” và dấu “−” đổi thành dấu “+”.\nVậy − (− a + b − 5 − c) = a – b + 5 + c."
+    },
+    {
+        "problem": "Câu 8. Giá trị của biểu thức (− 1997 + 32) – (273 – 97 + 115) bằng:\nA. 2256;\nB. – 2256;\nC. 2022;\nD. 2257.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: (− 1997 + 32) – (273 – 97 + 115) \n= − 1997 + 32 − 273 + 97 – 115\n= (− 1997 + 97) + 32 – 273 – 115 \n= ‒ 1900 + 32 – 273 – 115\n= ‒ 1868 – 273 – 115 \n= ‒ 2141 – 115 \n= − 2256."
+    },
+    {
+        "problem": "Câu 9. Tìm x, biết: x + (− x + 3) – (x − 7) = 9.\nA. x = 1;\nB. x = 2;\nC. x = 3;\nD. x = 7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTa có: x + (− x +3) – (x −7) = 9\nx − x +3 – x + 7 = 9\n(3 + 7) + (x – x – x) = 9\n10 + (‒ x) = 9\n10 – x = 9\nx = 10 – 9\nx = 1.\nVậy x = 1."
+    },
+    {
+        "problem": "Câu 10. Cho biểu thức: − (97 – x + 17) – (x + 123 – 6) – (37 – x). Rút gọn biểu thức ta được kết quả:\nA. x + 268;\nB. – 268 + x;\nC. – x + 260;\nD. – x – 260.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: − (97 – x + 17) – (x + 123 – 6) – (37 – x)\n= − 97 + x − 17 – x − 123 + 6 – 37 + x\n= (− 97 – 17 – 123 + 6 – 37) + (x – x + x)\n= (‒ 114 – 123 + 6 – 37 ) + x\n= (‒ 237 + 6 – 37) + x\n= (‒ 231 – 37) + x\n= − 268 + x.\nVậy rút gọn biểu thức ta được − 268 + x."
+    },
+    {
+        "problem": "Câu 11. Kết quả của phép tính 1−\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{2}−2−\\frac{1}{3}+3 là:\nA. \\frac{8}{3}; \nB. \\frac{4}{3}; \nC. ‒4;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có:\n 1−\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{2}−2−\\frac{1}{3}+3\n =1−\\frac{1}{2}+\\frac{1}{3}+\\frac{1}{2}−2−\\frac{1}{3}−3\n=1−2−3+−\\frac{1}{2}+\\frac{1}{2}+\\frac{1}{3}−\\frac{1}{3}\n= ‒4 + 0 + 0\n= ‒4."
+    },
+    {
+        "problem": "Câu 12. Biểu thức A=−\\frac{3}{4}+\\frac{2}{5}:\\frac{3}{7}+\\frac{3}{5}+\\frac{−1}{4}:\\frac{3}{7} có giá trị là:\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có:\n A=−\\frac{3}{4}+\\frac{2}{5}:\\frac{3}{7}+\\frac{3}{5}+\\frac{−1}{4}:\\frac{3}{7}\n A=−\\frac{3}{4}+\\frac{2}{5}.\\frac{7}{3}+\\frac{3}{5}+\\frac{−1}{4}.\\frac{7}{3}\n A=−\\frac{3}{4}+\\frac{2}{5}+\\frac{3}{5}+\\frac{−1}{4}.\\frac{7}{3}\n A=−\\frac{3}{4}+\\frac{−1}{4}+\\frac{2}{5}+\\frac{3}{5}.\\frac{7}{3}\nA=\\frac{0}{4}+\\frac{0}{5}.\\frac{7}{3}\nA=0.\\frac{7}{3}\nA = 0.\nVậy A = 0."
+    },
+    {
+        "problem": "Câu 13. Lan mang một số tiền dự định mua 4 quyển vở về viết. Do có đợt giảm giác nên với cùng số tiền đó Lan đã mua được 5 quyển vở với giá đã giảm là 12 000 đồng mỗi quyển. Giá tiền ban đầu khi chưa giảm giá của mỗi quyển vở là:\nA. 14 000 đồng;\nB. 15 000 đồng;\nC. 16 000 đồng;\nD. 17 000 đồng;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nLan mang theo số tiền dự định mua vở là:\n12 000 . 5 = 60 000 (đồng)\nGiá tiền ban đầu khi chưa giảm giá của một quyển vở là:\n60 000 : 4 = 15 000 (đồng)"
+    },
+    {
+        "problem": "Câu 14. Trong đợt tri ân khách hàng của một cửa hàng điện máy xanh, cửa hàng giảm 20% giá niêm yết cho mỗi một sản phẩm tivi LG. Cửa hàng vẫn lãi 10% của giá nhập về đối với mỗi chiếc tivi bán ra. Giá niêm yết của một chiếc tivi là bao nhiêu, biết rằng mỗi sản phẩm tivi bán ra thì cửa hàng lãi được 800 000 đồng.\nA. 9 triệu đồng;\nB. 12 triệu đồng;\nC. 11 triệu đồng;\nD. 15 triệu đồng;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nSau khi bán với giá khuyến mãi thì cửa hàng lãi 10% được 800 000 đồng giá nhập của mỗi chiếc ti vi là: 800 000 : \\frac{10}{100} = 800 000 . \\frac{100}{10}= 800 000 . 10 = 8 000 000 (đồng)\nKhi đó giá bán khuyến mãi của mỗi chiếc tivi là: 8 000 000 + 800 000 = 8 800 000 (đồng)\nVì cửa hàng giảm giá 20% so với giá niêm yết nên giá sản phẩm được bán ra bằng 80% giá niêm yết, do đó giá niêm yết của mỗi chiếc ti vi là:\n \\frac{80}{100} = 8800\\frac{100}{80} (đồng)\nVậy giá niêm yết của mỗi chiếc tivi là 11 triệu đồng."
+    },
+    {
+        "problem": "Câu 15. Anh Minh kinh doanh hoa quả nhập khẩu. Trong lần nhập hàng vừa qua anh đã bỏ ra 90 000 000 đồng để nhập lô hàng mới. Nhưng do quá trình vận chuyển không được đảm bảo nên \\frac{1}{3} số hàng nhập về không đảm bảo chất lượng. Anh Minh đã bán số hàng còn lại cao hơn 10% so với giá nhập vào và số hàng không đảm bảo chất lượng thấp hơn 15% so với giá nhập vào. Hỏi doanh thu lô hàng mới của anh Minh là bao nhiêu?\nA. 90 000 000 đồng;\nB. 91 500 000 đồng;\nC. 88 500 000 đồng;\nD. 86 500 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nSố tiền nhập hàng không đảm bảo chất lượng là:\n \\frac{1}{3}.90000=000 (đồng)\nSố tiền nhập hàng đảm bảo chất lượng là: 90 000 000 – 30 000 000 = 60 000 000 (đồng)\nSố tiền anh Minh thu được khi bán hàng đảm bảo chất lượng là:\n60 000 000 . (100% + 10%) = 60000.\\frac{110}{100}=66000000 (đồng)\nSố tiền anh Minh thu được khi bán hàng không đảm bảo chất lượng là:\n30 000 000. (100% ‒ 15%) = 30000000.\\frac{85}{100}=25500000 (đồng)\nVậy doanh thu lô hàng mới của anh Minh là:\n66 000 000 + 25 500 000 = 91 500 000 đồng. \nVậy doanh thu lô hàng mới của anh Minh là 91 500 000 đồng."
+    }
+]

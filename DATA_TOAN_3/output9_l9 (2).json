@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Biểu diễn \\(\\sqrt {\\dfrac{a}{b}} \\) với \\(a < 0\\) và \\(b < 0\\) ở dạng thương của hai căn thức.\nÁp dụng tính \\(\\sqrt {\\dfrac{{ - 49}}{{ - 81}}} .\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng:\nVới \\(A \\ge 0,B > 0\\) thì \\(\\sqrt {\\dfrac{A}{B}}  = \\dfrac{{\\sqrt A }}{{\\sqrt B }}\\)\nChú ý:\nVới  \\(A < 0;B < 0\\) thì \\(\\dfrac{A}{B} > 0\\) nhưng \\(\\sqrt {\\dfrac{A}{B}} \\) không phân tích được bằng \\(\\dfrac{{\\sqrt A }}{{\\sqrt B }}\\)\nLời giải chi tiết\nTa có:  \\( a < 0\\) nên \\(–a > 0; b < 0\\) nên \\( \\displaystyle–b > 0\\)\n\\( \\displaystyle\\sqrt {{a \\over b}}  = \\sqrt {{{ - a} \\over { - b}}}  = {{\\sqrt { - a} } \\over {\\sqrt { - b} }}\\)\nÁp dụng: \\( \\displaystyle\\sqrt {{{ - 49} \\over { - 81}}}  = {{\\sqrt {49} } \\over {\\sqrt {81} }} = {7 \\over 9}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hai số a, b không âm. Chứng minh:\n\\( \\displaystyle{{a + b} \\over 2} \\ge \\sqrt {ab} \\)\n(Bất đẳng thức Cô-si cho hai số không âm).\nDấu đẳng thức xảy ra khi nào ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng hằng đẳng thức:\n\\({(a - b)^2} = {a^2} - 2ab + {b^2}\\)\nVới \\({\\rm{A}} \\ge {\\rm{0}}\\) thì \\(A = \\sqrt {{A^2}} \\)\nLời giải chi tiết\nVì \\(a ≥ 0\\) nên \\( \\displaystyle\\sqrt a \\) xác định, \\( b ≥ 0\\) nên \\( \\displaystyle\\sqrt b \\) xác định\nTa có:\n\\( \\displaystyle\\eqalign{& {\\left( {\\sqrt a - \\sqrt b } \\right)^2} \\ge 0 \\cr & \\Leftrightarrow a - 2\\sqrt {ab} + b \\ge 0 \\cr} \\)\n\\( \\displaystyle \\Leftrightarrow a + b \\ge 2\\sqrt {ab}  \\Leftrightarrow {{a + b} \\over 2} \\ge \\sqrt {ab} \\)\nDấu đẳng thức xảy ra khi \\( a = b\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với \\( a ≥ 0, b ≥ 0\\), chứng minh\n\\( \\displaystyle\\sqrt {{{a + b} \\over 2}}  \\ge {{\\sqrt a  + \\sqrt b } \\over 2}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng hằng đẳng thức:\n\\({(a - b)^2} = {a^2} - 2ab + {b^2}\\)\nVới \\({\\rm{A}} \\ge {\\rm{0}}\\) thì \\(A = \\sqrt {{A^2}} \\)\nLời giải chi tiết\nVì \\(a ≥ 0\\) nên \\(\\sqrt a \\) xác định, \\(b ≥ 0\\) nên \\(\\sqrt b \\) xác định.\nTa có:\n\\({\\left( {\\sqrt a - \\sqrt b } \\right)^2} \\ge 0 \\)\\( \\Leftrightarrow a - 2\\sqrt {ab} + b \\ge 0\\)\n\\(\\Leftrightarrow a + b \\ge 2\\sqrt {ab} \\)\n\\( \\Leftrightarrow a + b + a + b \\ge a + b + 2\\sqrt {ab} \\)\n\\( \\Leftrightarrow 2(a + b) \\ge {\\left( {\\sqrt a } \\right)^2} + 2\\sqrt {ab}  + {\\left( {\\sqrt b } \\right)^2}\\)\n\\( \\Leftrightarrow 2(a + b) \\ge {\\left( {\\sqrt a + \\sqrt b } \\right)^2} \\) \\(\\displaystyle \\Leftrightarrow {{a + b} \\over 2} \\ge {{{{\\left( {\\sqrt a + \\sqrt b } \\right)}^2}} \\over 4} \\)\n\\(\\displaystyle  \\Leftrightarrow \\sqrt {{{a + b} \\over 2}} \\ge \\sqrt {{{{{\\left( {\\sqrt a + \\sqrt b } \\right)}^2}} \\over 4}} \\) \\(\\displaystyle \\Leftrightarrow \\sqrt {{{a + b} \\over 2}} \\ge {{\\sqrt a + \\sqrt b } \\over 2} \\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với \\(a\\) dương, chứng minh:\n\\(a + \\dfrac{1}{a} \\ge 2\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Sử dụng hằng đẳng thức:\n\\({(a - b)^2} = {a^2} - 2ab + {b^2}\\)\nCách 2: Áp dụng bất đẳng thức Cô-si với hai số không âm \\(a, b:\\)\n\\(\\dfrac{{a + b}}{2} \\ge 2\\sqrt {ab} .\\)\nLời giải chi tiết\nCách 1: Với \\(a\\) dương, ta có:\n\\(\\eqalign{& {\\left( {\\sqrt a - {1 \\over {\\sqrt a }}} \\right)^2} \\ge 0 \\cr & \\Leftrightarrow a - 2\\sqrt a .{1 \\over {\\sqrt a }} + {1 \\over a} \\ge 0 \\cr} \\)\n\\( \\Leftrightarrow a - 2 + \\dfrac{1}{a} \\ge 0 \\Leftrightarrow a + \\dfrac{1}{a} \\ge 2\\)\nCách 2:\nTa có: \\(a > 0 \\Rightarrow \\dfrac{1}{a} > 0\\)\nÁp dụng bất đẳng thức Cô-si với hai số dương \\(a\\) và \\(\\dfrac{1}{a}\\):\n\\(\\begin{array}{l}a + \\dfrac{1}{a} \\ge 2\\sqrt {a.\\dfrac{1}{a}} \\\\ \\Leftrightarrow a + \\dfrac{1}{a} \\ge 2\\end{array}\\)\nDấu \"=\" xảy ra khi \\(a = \\dfrac{1}{a}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giá trị của \\(\\sqrt {\\dfrac{{49}}{{0,09}}} \\) bằng\n(A) \\(\\dfrac{7}{3}\\);\n(B) \\(\\dfrac{{70}}{3}\\);\n(C) \\(\\dfrac{7}{{30}}\\);\n(D) \\(\\dfrac{{700}}{3}\\).\nHãy chọn đáp án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Với \\(A \\ge 0,B > 0\\) thì \\(\\sqrt {\\dfrac{A}{B}}  = \\dfrac{{\\sqrt A }}{{\\sqrt B }}\\)\nVới \\({\\rm{A}} \\ge {\\rm{0}}\\) thì \\(A = \\sqrt {{A^2}} .\\)\nLời giải chi tiết\n\\(\\begin{array}{l}\\sqrt {\\dfrac{{49}}{{0,09}}} = \\sqrt {\\dfrac{{{7^2}}}{{0,{3^2}}}} \\\\ = \\dfrac{{\\sqrt {{7^2}} }}{{\\sqrt {0,{3^2}} }} = \\dfrac{7}{{0,3}}\\\\= \\dfrac{{70}}{3}\\end{array}\\).\nChọn (B).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Kiểm tra kết quả bài 47, 48 bằng máy tính bỏ túi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng máy tính bỏ túi để kiểm tra kết quá\nLời giải chi tiết\nVí dụ: Với câu a) bài 47, ta có:\n\\(\\eqalign{& {x^2} = 15 \\Rightarrow {x_1} = \\sqrt {15} \\cr & \\approx 3,872983346 \\approx 3,873 \\cr} \\)\n\\(\\eqalign{& {x_2} = - \\sqrt {15} \\approx - 3,872983346 \\cr & \\approx - 3,873 \\cr} \\)\nTương tự với các câu tiếp theo.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thử lại kết quả bài 47 bằng bảng bình phương.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng bảng bình phương.\nLời giải chi tiết\nVới câu a) bài 47 ta có \\({x^2} = 15\\)\nTìm ô có giá trị gần với 15 trong bảng bình phương ta được ô 14,98 và ô 15,05\n* Với ô 14,98 tra bảng ta được \\(x \\approx 3,87\\). Đây là kết quả gần đúng nhưng hơi thiếu.\n* Với ô 15,05 tra bảng ta được \\(x \\approx 3,88\\). Đây là kết quả gần đúng nhưng hơi thừa.\nThực hiện tương tự cho các bài còn lại.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thử lại kết quả bài 48 bằng bảng căn bậc hai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng bảng căn bậc hai.\nLời giải chi tiết\nSử dụng bảng căn bậc hai, thử lại các kết quả bằng cách tra bảng căn bậc hai cho các kết quả vừa tìm được ở bài 48.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Điền vào các chỗ trống (...) trong phép chứng minh sau:\nSố \\(\\sqrt 2 \\) là số vô tỉ.\nGiả sử \\(\\sqrt 2 \\) không phải là số vô tỉ thì phải tồn tại các số nguyên m và n sao cho \\(\\sqrt 2  = \\dfrac{m}{n},\\) trong đó \\(n > 0\\) còn hai số \\(m\\) và \\(n\\) không có ước chung nào khác 1 và \\(-1\\) (hai số \\(m\\) và \\(n\\) nguyên tố cùng nhau).\nKhi đó, ta có: ... hay \\(2{n^2} = {m^2}\\) (1).\nKết quả (1) chứng tỏ \\(m\\) là số chẵn, nghĩa là \\(m = 2p\\) với \\(p\\) là số nguyên.\nThay \\(m = 2p\\) vào (1) ta được: ... hay \\({n^2} = 2{p^2}\\) (2)\nKết quả (2) chứng tỏ \\(n\\) phải là số chẵn.\nHai số \\(m\\) và \\(n\\) đều là số chẵn, trái với giả thiết \\(m\\) và \\(n\\) không có ước chung nào khác \\(1\\) và \\(-1\\).\nVậy \\(\\sqrt 2 \\) là số vô tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng: Với \\(A \\ge 0;m \\ge 0,n > 0\\)\n\\(A = \\dfrac{m}{n} \\Rightarrow {A^2} = \\dfrac{{{m^2}}}{{{n^2}}}\\).\nLời giải chi tiết\nSố \\(\\sqrt 2 \\) là số vô tỉ.\nGiả sử \\(\\sqrt 2 \\) không phải là số vô tỉ thì phải tồn tại các số nguyên m và n sao cho \\(\\sqrt 2  = \\dfrac{m}{n},\\) trong đó \\(n > 0\\) còn hai số \\(m\\) và \\(n\\) không có ước chung nào khác 1 và \\(-1\\) (hai số \\(m\\) và \\(n\\) nguyên tố cùng nhau).\nKhi đó, ta có: \\({(\\sqrt 2 )^2} = \\dfrac{{{m^2}}}{{{n^2}}}\\) hay \\(2{n^2} = {m^2}\\) (1).\nKết quả (1) chứng tỏ \\(m\\) là số chẵn, nghĩa là \\(m = 2p\\) với \\(p\\) là số nguyên.\nThay \\(m = 2p\\) vào (1) ta được: \\(2{n^2} = {\\left( {2p} \\right)^2}\\) hay \\({n^2} = 2{p^2}\\) (2)\nKết quả (2) chứng tỏ \\(n\\) phải là số chẵn.\nHai số \\(m\\) và \\(n\\) đều là số chẵn, trái với giả thiết \\(m\\) và \\(n\\) không có ước chung nào khác \\(1\\) và \\(-1\\).\nVậy \\(\\sqrt 2 \\) là số vô tỉ.\nLoigiaihay.com"
+    }
+]

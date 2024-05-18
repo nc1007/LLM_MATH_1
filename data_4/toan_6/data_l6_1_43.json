@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "A. hình a\nB. hình a\nC. hình a và hình b\nD. không có hình nào",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHình a có trục đối xứng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Chọn khẳng định đúng nhất về chiếc đĩa dưới đây:\nA. Chiếc bàn có tâm đối xứng\nB. Chiếc bàn có trục đối xứng\nC. Chiếc bàn vừa có tâm đối xứng và trục đối xứng\nD. Chiếc bàn không có tâm đối xứng và trục đối xứng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nQuan sát hình vẽ ta thấy: Chiếc đĩa vừa có tâm đối xứng và trục đối xứng\nĐáp án cần chọn là: C"
+    }
+]

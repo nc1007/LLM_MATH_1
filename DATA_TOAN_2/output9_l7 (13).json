@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Tìm 3 số x, y, z biết \\(x:y:z = 3:5:8\\) và \\(5x + y - 2z = 112.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Ta có: \\(x:y:z = 3:5:8 \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{8} \\Rightarrow \\dfrac{{5x}}{{15}} = \\dfrac{y}{5} = \\dfrac{{2z}}{{16}}\\) và \\(5x + y - 2z = 112.\\)\n-Áp dụng tính chất dãy tỉ số bằng nhau\n\\(\\dfrac{a}{b} = \\dfrac{c}{d} = \\dfrac{d}{f} = \\dfrac{{a + c - d}}{{b + d - f}}\\)\nLời giải chi tiết\nTa có: \\(x:y:z = 3:5:8 \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{8} \\Rightarrow \\dfrac{{5x}}{{15}} = \\dfrac{y}{5} = \\dfrac{{2z}}{{16}}\\) và \\(5x + y - 2z = 112.\\)\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\(\\dfrac{{5x}}{{15}} = \\dfrac{y}{5} = \\dfrac{{2z}}{{16}} = \\dfrac{{5x + y - 2z}}{{15 + 5 - 16}} = \\dfrac{{112}}{4} = 28\\)\n\\(\\begin{array}{l} \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{8} = 28\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 3.28 = 84\\\\y = 5.28 = 140\\\\z = 8.28 = 224\\end{array} \\right.\\end{array}\\)\nVậy \\(x = 84; y = 140; z = 224\\)."
+    },
+    {
+        "problem": "Một ô tô và một xe máy cùng đi từ A đến B. Biết rằng vận tốc của ô tô gấp rưỡi vận tốc của xe máy và xe máy đi hết 6 giờ. Hỏi ô tô đi hết bao nhiêu giờ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận tốc và thời gian chuyển động trên cùng một quãng đường là hai đại lượng tỉ lệ nghịch.\nLời giải chi tiết\nGọi \\({v_1};{v_2}\\) (km/h) lần lượt là vận tốc của ô tô và xe máy; \\({t_1};{t_2}\\)(giờ) là thời gian tương ứng để đi từ A đến B của ô tô và xe máy.\nTa có: \\({v_1} = 1,5{v_2}\\) và \\({t_2} = 6\\)(giờ)\nVì vận tốc và thời gian chuyển động trên cùng một quãng đường là hai đại lượng tỉ lệ nghịch nên:\n\\(\\dfrac{{{v_1}}}{{{v_2}}} = \\dfrac{{{t_2}}}{{{t_1}}}\\).\nThay \\({v_1} = 1,5{v_2}\\) và \\({t_2} = 6\\) vào ta có: \\(\\dfrac{{1,5{v_2}}}{{{v_2}}} = \\dfrac{6}{{{t_1}}} \\Rightarrow 1,5 = \\dfrac{6}{{{t_1}}} \\Rightarrow {t_1} = \\dfrac{6}{{1,5}} = 4\\)\nVậy thời gian để ô tô đi từ A đến B là 4 giờ."
+    },
+    {
+        "problem": "Một công ty có chính sách khen thưởng cuối năm là thưởng theo năng suất lao động của công nhân. Hai công nhân có năng suất lao động tương ứng tỉ lệ với 3 : 4. Tính số tiền thưởng cuối năm của mỗi công nhân đó. Biết rằng số tiền thưởng của người thứ hai nhiều hơn số tiền thưởng của người thứ nhất là 2 triệu đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) Gọi số tiền thưởng cuối năm của 2 công nhân lần lượt là x, y (triệu đồng)\n+) \\(x:y = 3:4 \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{4}\\)\nLời giải chi tiết\nGọi số tiền thưởng cuối năm của 2 công nhân lần lượt là x, y (triệu đồng) (x,y > 0)\nKhi đó: \\(x:y = 3:4 \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{4}\\)\nTheo bài ra ta có: y – x = 2\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có:\n\\(\\begin{array}{l}\\dfrac{x}{3} = \\dfrac{y}{4} = \\dfrac{{y - x}}{{4 - 3}} = \\dfrac{2}{1} = 2\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 3.2 = 6\\\\y = 4.2 = 8\\end{array} \\right.\\end{array}\\)\nNgười thứ nhất được thưởng 6 triệu đồng và người thứ hai được thưởng 8 triệu đồng."
+    },
+    {
+        "problem": "Số lượt khách quốc tế có quốc tịch Mỹ đến Việt Nam trong năm 2014 và năm 2019 tỉ lệ với 317; 533. Tính số lượt khách quốc tích Mỹ đến Việt Nam trong hai năm đó, biết rằng số lượt khách đến năm 2019 nhiều hơn số lượt khách đến năm 2014 là 302 400 lượt người.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi số lượt khách quốc tịch Mỹ đến Việt Nam năm 2014 và năm 2019 lần lượt là x, y.\n- Khi đó: \\(x:y = 317:533 \\Rightarrow \\dfrac{x}{{317}} = \\dfrac{y}{{533}}\\)\n- Áp dụng tính chất dãy tỉ số bằng nhau.\nLời giải chi tiết\nGọi số lượt khách quốc tịch Mỹ đến Việt Nam năm 2014 và năm 2019 lần lượt là \\(x, y (x, y \\in N)\\).\nKhi đó: \\(x:y = 317:533 \\Rightarrow \\dfrac{x}{{317}} = \\dfrac{y}{{533}}\\)\nÁp dụng tính chất dãy tỉ số bằng nhau, ta có:\n\\(\\begin{array}{l}\\dfrac{x}{{317}} = \\dfrac{y}{{533}} = \\dfrac{{y - x}}{{533 - 317}} = \\dfrac{{302400}}{{216}} = 1400\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 1400.317 = 443800\\\\y = 1400.533 = 746200\\end{array} \\right.\\end{array}\\)\nVậy số lượt khách quốc tịch Mỹ đến Việt Nam năm 2014 là 443 800 (lượt khách), năm 2019 là 746 200 (lượt khách)."
+    },
+    {
+        "problem": "Trong một ngày đủ nắng, lá cây xanh khi quang hợp sẽ hấp thụ lượng khí carbon dioxin và giải phóng lượng khí oxygen theo tỉ lệ 11 : 8. Tính lượng khí oxygen mà lá cây xanh giải phóng, biết rằng lượng khí carbon dioxide được hấp thụ là 44g.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tỉ lệ thức để tìm x (x là lượng khí oxygen mà lá cây xanh giải phóng).\nLời giải chi tiết\nGọi lượng khí oxygen mà lá cây xanh giải phóng là x (g) (x > 0)\nTa có tỉ lệ thức \\(\\dfrac{{44}}{x} = \\dfrac{{11}}{8} \\Rightarrow 11x = 352 \\Rightarrow x = 32\\).\nVậy lượng khí oxygen mà lá cây xanh giải phóng là 32 g."
+    },
+    {
+        "problem": "Cho biết 2 đại lượng y và x tỉ lệ nghịch với nhau và các giá trị được cho trong bảng sau:\nx\n-1,5\n?\n2,4\n4\n?\ny\n?\n6\n-1,25\n?\n0,5\nHãy xác định hệ số tỉ lệ. Từ đó, thay dấu “?” trong bảng bằng số thích hợp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tìm hệ số tỉ lệ a = xy (cột 4)\n-Có x tìm được y: \\(y = \\dfrac{a}{x}\\) (cột 2, cột 5)\n- Có y tìm được x: \\(x = \\dfrac{a}{y}\\) (cột 3, cột 6)\nLời giải chi tiết\nTa có y và x tỉ lệ nghịch với nhau nên hệ số tỉ lệ là a = xy = 2,4 . (-1,25) = - 3 (cột 4)\nCột 2: -1,5. y = -3 \\( \\Rightarrow y =  - 3:( - 1,5) = 2\\)\nCột 3: \\(x.6 =  - 3 \\Rightarrow x =  - 3:6 \\Rightarrow x =  - 0,5\\)\nCột 5: \\(4.x =  - 3 \\Rightarrow x =  - 3:4 \\Rightarrow x =  - 0,75\\)\nCột 6: \\(x.0,5 =  - 3 \\Rightarrow x =  - 3:0,5 \\Rightarrow x =  - 6\\)\nTừ đó ta có bảng sau:\nx\n-1,5\n-0,5\n2,4\n4\n-6\ny\n2\n6\n-1,25\n-0,75\n0,5"
+    },
+    {
+        "problem": "Ba máy cày cùng loại, mỗi máy làm việc 8 giờ một ngày thì trong 7 ngày cày xong một cánh đồng. Do thời tiết nắng nóng và sắp có mưa nên yêu cầu trong 4 ngày phải hoàn thành và mỗi ngày chỉ làm được trong 6 giờ. Hỏi cần bao nhiêu máy cày để có thể hoàn thành công việc đó?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trên cùng một cánh đồng, số máy cày và số giờ làm việc là hai đại lượng tỉ lệ nghịch.\nLời giải chi tiết\nGọi x là số máy cày để hoàn thành công việc đó trong 4 ngày. (\\(x \\in N\\))\nSố giờ ba máy cày xong cánh đồng là 8.7 = 56 (giờ).\nSố giờ x máy cày xong cánh đồng là 6.4 = 24 (giờ).\nTrên cùng một cánh đồng, số máy cày và số giờ làm việc là hai đại lượng tỉ lệ nghịch.\nDo đó, ta có: \\(\\dfrac{{56}}{{24}} = \\dfrac{x}{3} \\Rightarrow x = \\dfrac{{56.3}}{{24}} = 7\\)(máy).\nVậy cần 7 máy cày để hoàn thành công việc đó trong 4 ngày."
+    },
+    {
+        "problem": "Ba đơn vị kinh doanh góp vốn theo tỉ lệ 3 : 5 : 7. Hỏi mỗi đơn vị được chia bao nhiêu tiền lãi, biết tổng số tiền lãi là 600 triệu đồng và tiền lãi được chia tỉ lệ thuận với số vốn đã góp?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi x, y, z(triệu đồng) là số tiền lãi mỗi đơn vị 1, 2, 3 nhận được.\n-\\(\\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{7};x + y + z = 600\\)\n-Áp dụng tính chất dãy tỉ số bằng nhau.\nLời giải chi tiết\nGọi x, y, z (triệu đồng) là số tiền lãi mỗi đơn vị 1, 2, 3 nhận được (x,y,z > 0)\nTheo bài ra, ta có: \\(\\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{7};x + y + z = 600\\).\nÁp dụng tính chất dãy tỉ số bằng nhau, ta được:\n\\(\\begin{array}{l}\\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{7} = \\dfrac{{x + y + z}}{{3 + 5 + 7}} = \\dfrac{{600}}{{15}} = 40\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 40.3 = 120\\\\y = 40.5 = 200\\\\z = 40.7 = 280\\end{array} \\right.\\end{array}\\)\nSố tiền lãi được chia cho mỗi đơn vị lần lượt là 120 triệu đồng, 200 triệu đồng và 280 triệu đồng."
+    },
+    {
+        "problem": "Ba bạn Đức, Loan và Hà góp tổng cộng được 120 nghìn đồng ủng hộ các bạn học sinh có hoàn cảnh khó khăn mua sách vở nhân dịp năm học mới. Hỏi mỗi bạn đã góp bao nhiêu tiền? Biết rằng số tiền ba bạn góp theo thứ tự tỉ lệ với 2; 1; 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi số tiền ba bạn Đức, Loan và Hà đóng góp lần lượt là x, y, z (nghìn đồng)\n-\\(x:y:z = 2:1:3 \\Rightarrow \\dfrac{x}{2} = \\dfrac{y}{1} = \\dfrac{z}{3}\\)\n-Áp dụng tính chất dãy tỉ số bằng nhau.\nLời giải chi tiết\nGọi số tiền ba bạn Đức, Loan và Hà đóng góp lần lượt là x, y, z (nghìn đồng) ( x,y,z > 0)\nTheo bài ra, ta có: \\(x:y:z = 2:1:3 \\Rightarrow \\dfrac{x}{2} = \\dfrac{y}{1} = \\dfrac{z}{3}\\)\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\begin{array}{l}\\dfrac{x}{2} = \\dfrac{y}{1} = \\dfrac{z}{3} = \\dfrac{{x + y + z}}{{2 + 1 + 3}} = \\dfrac{{120}}{6} = 20\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 2.20 = 40\\\\y = 1.20 = 20\\\\z = 3.20 = 60\\end{array} \\right.\\end{array}\\)\nVậy bạn Đức góp 40 nghìn đồng, bạn Loan góp 20 nghìn đồng và bạn Hà góp 60 nghìn đồng."
+    },
+    {
+        "problem": "Một phân xưởng có 20 máy đóng gói tự động, trong một ngày đóng gói được 400 sản phẩm. Để đóng gói được 600 sản phẩm một ngày thì phân xưởng đó cần đầu tư thêm bao nhiêu máy? Giả thiết rằng năng suất của các máy là như nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi x (máy) cần đầu tư để đóng được 600 sản phẩm.\nXét tỉ lệ thức: \\(\\dfrac{{400}}{{20}} = \\dfrac{{600}}{x}\\)\nTìm x.\nLời giải chi tiết\nGọi x (máy) cần đầu tư để đóng được 600 sản phẩm.\nTa có tỉ lệ thức sau:\n\\(\\dfrac{{400}}{{20}} = \\dfrac{{600}}{x} \\Rightarrow 400x = 600.20 \\Rightarrow x = 30\\).\nVậy phân xưởng đó cần thêm số máy là:\n\\(30 - 20 = 10\\)(máy)."
+    },
+    {
+        "problem": "Cho biết y tỉ lệ nghịch với x theo hệ số tỉ lệ là 4 và z tỉ lệ nghịch với y theo hệ số tỉ lệ là 6. Hỏi đại lượng z tỉ lệ thuận hay tỉ lệ nghịch với đại lượng x và hệ số tỉ lệ là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-y tỉ lệ nghịch với x theo hệ số tỉ lệ là a thì \\(y = \\dfrac{a}{x}\\)\n-Tương tự với z tỉ lệ nghịch với y\n-Thay y vào để tìm được mối liên hệ giữa z và x.\nLời giải chi tiết\nTheo đề bài y tỉ lệ nghịch với x theo hệ số tỉ lệ là 4 nên ta có: \\(y = \\dfrac{4}{x}\\)\nz tỉ lệ nghịch với y theo hệ số tỉ lệ là 6 nên ta có: \\(z = \\dfrac{6}{y}\\)\nThay \\(y = \\dfrac{4}{x}\\) vào ta được \\(z = \\dfrac{6}{{\\dfrac{4}{x}}} = \\dfrac{3}{2}x\\)\n\\( \\Rightarrow \\)z tỉ lệ thuận với x theo hệ số tỉ lệ \\(\\dfrac{3}{2}\\)."
+    },
+    {
+        "problem": "Ba tổ công nhân làm đường có tổng 52 công nhân. Để hoàn thành cùng một công việc, tổ I cần 2 ngày, tổ II cần 3 ngày và tổ III cần 4 ngày. Hỏi mỗi tổ có bao nhiêu công nhân, biết rằng năng suất làm việc của mỗi người như nhau?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Năng suất làm việc của mỗi người như nhau nên số công nhân mỗi tổ và thời gian làm việc là hai đại lượng tỉ lệ nghịch.\n-Áp dụng tính chất dãy tỉ số bằng nhau.\nLời giải chi tiết\nGọi a, b, c là số công nhân của tổ I, II, III. (\\(a,b,c \\in N\\))\nVì năng suất làm việc của mỗi người như nhau nên số công nhân mỗi tổ và thời gian làm việc là hai đại lượng tỉ lệ nghịch.\nTheo bài ra, ta có:\n\\(\\begin{array}{l}2a = 3b = 4c\\\\ \\Rightarrow 2.\\dfrac{a}{{12}} = 3.\\dfrac{b}{{12}} = 4.\\dfrac{c}{{12}}\\\\ \\Rightarrow \\dfrac{a}{6} = \\dfrac{b}{4} = \\dfrac{c}{3}\\end{array}\\)\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\begin{array}{l}\\dfrac{a}{6} = \\dfrac{b}{4} = \\dfrac{c}{3} = \\dfrac{{a + b + c}}{{6 + 4 + 3}} = \\dfrac{{52}}{{13}} = 4\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}a = 4.6 = 24\\\\b = 4.4 = 16\\\\c = 3.4 = 12\\end{array} \\right.\\end{array}\\)\nVậy 3 tổ lần lượt có 24 người, 16 người và 12 người."
+    },
+    {
+        "problem": "Cho biết x tỉ lệ thuận với y theo hệ số tỉ lệ 0,4 và y tỉ lệ thuận với z theo hệ số tỉ lệ 6.\na) Hỏi x tỉ lệ thuận với z theo hệ số tỉ lệ bằng bao nhiêu?\nb) Tìm giá trị của  x khi \\(z = \\dfrac{3}{4}\\).\nc) Tìm giá trị của z khi x = 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: x = 0,4 y; y = 6z. Từ đó tìm được mối liên hệ giữa x và z.\nLời giải chi tiết\na)\nTheo đề bài, x tỉ lệ thuận với y theo hệ số tỉ lệ 0,4 nên x = 0,4y;  y tỉ lệ thuận với z theo hệ số tỉ lệ 6 nên y = 6z\nDo đó: x = 0,4 . 6z = 2,4z.\nVậy x tỉ lệ thuận với z theo hệ số tỉ lệ 2,4.\nb)\nKhi z = \\(\\dfrac{3}{4}\\)thì \\(x = 2,4.\\dfrac{3}{4} = 1,8\\).\nc)\nTừ \\(x = 2,4z \\Rightarrow z = \\dfrac{5}{{12}}x\\)\nKhi x = 12 thì \\(z = \\dfrac{5}{{12}} \\cdot 12 = 5\\)."
+    },
+    {
+        "problem": "Tìm 2 số x và y, biết 3x = 5y và 2x + 3y = 38.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Biến đổi \\(3x = 5y \\Rightarrow \\dfrac{x}{5} = \\dfrac{y}{3}\\,\\,hay\\,\\dfrac{{2x}}{{10}} = \\dfrac{{3y}}{9}\\)\n-Áp dụng tính chất dãy tỉ số bằng nhau.\nLời giải chi tiết\nTa có: \\(3x = 5y \\Rightarrow \\dfrac{x}{5} = \\dfrac{y}{3}\\,\\,hay\\,\\dfrac{{2x}}{{10}} = \\dfrac{{3y}}{9}\\)\nTheo bài ra: \\(2x + 3y = 38\\)\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\begin{array}{l}\\dfrac{{2x}}{{10}} = \\dfrac{{3y}}{9} = \\dfrac{{2x + 3y}}{{10 + 9}} = \\dfrac{{38}}{{19}} = 2\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 2.5 = 10\\\\y = 2.3 = 6\\end{array} \\right.\\end{array}\\)\nVậy x = 10 và y = 6."
+    },
+    {
+        "problem": "Nhà bạn An có một khu vườn trồng rau có dạng hình chữ nhật. Biết tỉ lệ hai cạnh của khu vườn là 2:5 và khu vườn có diện tích 160 m2. Tính chiều dài và chiều rộng của khu vườn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi x, y (m) lần lượt là chiều rộng và chiều dài của khu vườn nhà bạn An.\n- Theo đề bài ta có: \\(\\dfrac{x}{2} = \\dfrac{y}{5}\\) và \\(xy = 160\\).\nLời giải chi tiết\nGọi x, y (m) lần lượt là chiều rộng và chiều dài của khu vườn nhà bạn An \\((x,y > 0)\\).\nTheo đề bài ta có: \\(\\dfrac{x}{2} = \\dfrac{y}{5}\\) và \\(xy = 160\\).\nĐặt \\(\\dfrac{x}{2} = \\dfrac{y}{5} = k (k>0) \\Rightarrow \\left\\{ \\begin{array}{l}x = 2k\\\\y = 5k\\end{array} \\right.\\)\nKhi đó: \\(2k.5k = 160 \\Rightarrow {k^2} = 16 \\Rightarrow k = 4\\) vì \\(k > 0\\).\nDo đó: \\(\\left\\{ \\begin{array}{l}x = 2.4 = 8\\left( m \\right)\\\\y = 5.4 = 20\\left( m \\right)\\end{array} \\right.\\).\nVậy chiều rộng và chiều dài của khu vườn lần lượt là 8m và 20m."
+    },
+    {
+        "problem": "Bình xăng xe máy của bác Minh có dung tích 3,7 lít. Khi đổ đầy bình, bác Minh thấy đồng hồ báo tiền ở cây xăng hiện 68 450 đồng.\na) Biết bình xăng xe máy của cô Hoa có dung tích 4,5 lít, khi đổ đầy xăng loại đó thì cô Hoa phải trả bao nhiêu tiền?\nb) Một xe ô tô sẽ được đổ bao nhiêu lít xăng loại đó nếu phải trả 388 500 đồng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Gọi x (đồng) là số tiền cô Hoa cần trả.\n- Dung tích bình xăng và giá tiền là hai đại lượng tỉ lệ thuận: \\(\\dfrac{{{x_1}}}{{{y_1}}} = \\dfrac{{{x_2}}}{{{y_2}}}\\)\nb)\n- Gọi y (lít) là dung tích của xe ô tô.\n- Dung tích bình xăng và giá tiền là hai đại lượng tỉ lệ thuận: \\(\\dfrac{{{x_1}}}{{{y_1}}} = \\dfrac{{{x_2}}}{{{y_2}}}\\)\nLời giải chi tiết\na)\nGọi x (đồng) là số tiền cô Hoa cần trả.\nDung tích bình xăng và giá tiền là hai đại lượng tỉ lệ thuận nên ta có:\n\\(\\dfrac{{68450}}{{3,7}} = \\dfrac{x}{{4,5}} \\Rightarrow 3,7.x = 68450.4,5 \\Rightarrow 3,7x = 308,025 \\Rightarrow x = 83250\\)\nVậy cô Hoa cần trả 83 250 đồng.\nb)\nGọi y (lít) là dung tích của xe ô tô.\nDung tích bình xăng và giá tiền là hai đại lượng tỉ lệ thuận nên ta có:\n\\(\\dfrac{{68450}}{{3,7}} = \\dfrac{{388500}}{y} \\Rightarrow 68450.y = 3,7.388500 \\Rightarrow y = 21\\)\nVậy dung tích xe ô tô là 21 (lít)"
+    },
+    {
+        "problem": "Cho biết x và y là hai đại lượng tỉ lệ nghịch, \\({x_1};{x_2}\\) là hai giá trị khác nhau của x và \\({y_1};{y_2}\\) là 2 giá trị tương ứng của y.\na)Tìm giá trị của \\({y_1}\\) và \\({y_2}\\), biết \\({x_1} = 3;{x_2} = 2\\)và \\(2{y_1} + 3{y_2} =  - 26\\).\nb) Tính \\({x_1}\\) và \\({y_2}\\) biết \\(3{x_1} - 2{y_2} = 32;{x_2} =  - 4;{y_1} =  - 10.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\(\\dfrac{{{y_1}}}{{{y_2}}} = \\dfrac{{{x_2}}}{{{x_1}}} \\Rightarrow \\dfrac{{{y_1}}}{{{x_2}}} = \\dfrac{{{y_2}}}{{{x_1}}} \\Rightarrow \\dfrac{{2{y_1}}}{{2{x_2}}} = \\dfrac{{3{y_2}}}{{3{x_1}}}\\)\nÁp dụng tính chất dãy tỉ số bằng nhau.\nb) \\(\\dfrac{{{x_1}}}{{{x_2}}} = \\dfrac{{{y_2}}}{{{y_1}}} \\Rightarrow \\dfrac{{3{x_1}}}{{3{x_2}}} = \\dfrac{{2{y_2}}}{{2{y_1}}}\\)\nÁp dụng tính chất dãy tỉ số bằng nhau.\nLời giải chi tiết\nVì x, y là hai đại lượng tỉ lệ nghịch, nên theo tính chất của đại lượng tỉ lệ nghịch, ta có:\na)\\(\\dfrac{{{y_1}}}{{{y_2}}} = \\dfrac{{{x_2}}}{{{x_1}}} \\Rightarrow \\dfrac{{{y_1}}}{{{x_2}}} = \\dfrac{{{y_2}}}{{{x_1}}} \\Rightarrow \\dfrac{{2{y_1}}}{{2{x_2}}} = \\dfrac{{3{y_2}}}{{3{x_1}}}\\)\nTừ tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\dfrac{{2{y_1}}}{{2{x_2}}} = \\dfrac{{3{y_2}}}{{3{x_1}}} = \\dfrac{{2{y_1} + 3{y_2}}}{{2{x_2} + 3{x_1}}} = \\dfrac{{ - 26}}{{13}} =  - 2.\\)\n\\( \\Rightarrow \\left\\{ \\begin{array}{l}{y_1} =  - 2.{x_2} =  - 2.2 =  - 4\\\\{y_2} =  - 2.{x_1} =  - 2.3 =  - 6.\\end{array} \\right.\\)\nb)\n\\(\\dfrac{{{x_1}}}{{{x_2}}} = \\dfrac{{{y_2}}}{{{y_1}}} \\Rightarrow \\dfrac{{3{x_1}}}{{3{x_2}}} = \\dfrac{{2{y_2}}}{{2{y_1}}}\\)\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\dfrac{{3{x_1}}}{{3{x_2}}} = \\dfrac{{2{y_2}}}{{2{y_1}}} = \\dfrac{{3{x_1} - 2{y_2}}}{{3{x_2} - 2{y_1}}} = \\dfrac{{32}}{8} = 4\\).\nVậy \\(\\left\\{ \\begin{array}{l}{x_1} = 4.{x_2} = 4.\\left( { - 4} \\right) =  - 16\\\\{y_2} = 4.{y_1} = 4.\\left( { - 10} \\right) =  - 40\\end{array} \\right.\\)"
+    },
+    {
+        "problem": "Cho biết x và y là hai đại lượng tỉ lệ thuận, \\({x_1};x{ & _2}\\)là hai giá trị khác nhau của x và \\({y_1};{y_2}\\) là hai giá trị tương ứng của y.\na) Tính giá trị của \\({x_1}\\), biết \\({x_2} = 3;{y_1} =  - 5;{y_2} = 9.\\)\nb) Tính \\({x_2}\\) và \\({y_2}\\)biết \\({y_2} - {x_2} =  - 68;{x_1} = 5;{y_1} =  - 12.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\\(\\dfrac{{{y_1}}}{{{x_1}}} = \\dfrac{{{y_2}}}{{{x_2}}} \\Rightarrow {x_1} = \\dfrac{{{y_1}.{x_2}}}{{{y_2}}}\\).\nb) \\(\\dfrac{{{y_2}}}{{{y_1}}} = \\dfrac{{{x_2}}}{{{x_1}}};{y_2} - {x_2} =  - 68\\).\nLời giải chi tiết\nVì x, y là hai đại lượng tỉ lệ thuận, nên theo tính chất đại lượng tỉ lệ thuận, ta có:\na)\\(\\dfrac{{{y_1}}}{{{x_1}}} = \\dfrac{{{y_2}}}{{{x_2}}} \\Rightarrow {x_1} = \\dfrac{{{y_1}.{x_2}}}{{{y_2}}} = \\dfrac{{ - 5.3}}{9} =  - \\dfrac{5}{3}\\)\nb)\\(\\dfrac{{{y_2}}}{{{y_1}}} = \\dfrac{{{x_2}}}{{{x_1}}};{y_2} - {x_2} =  - 68\\).\nTừ tính chất của dãy tỉ số bằng nhau, ta có:\\(\\dfrac{{{y_2}}}{{{y_1}}} = \\dfrac{{{x_2}}}{{{x_1}}} = \\dfrac{{{y_2} - {x_2}}}{{{y_1} - {x_1}}} = \\dfrac{{ - 68}}{{ - 12 - 5}} = 4\\)\nVậy \\({x_2} = 4.{x_1} = 4.5 = 20;{y_2} = 4.{y_1} = 4.\\left( { - 12} \\right) =  - 48.\\)"
+    },
+    {
+        "problem": "Từ tỉ lệ thức \\(\\dfrac{a}{b} = \\dfrac{c}{d}\\) hãy suy ra tỉ lệ thức \\(\\dfrac{a}{{3a + b}} = \\dfrac{c}{{3c + d}}\\)(giả thiết các tỉ số đều có nghĩa).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Đặt: \\(\\dfrac{a}{b} = \\dfrac{c}{d} = k \\Rightarrow a = kb;c = kd.\\)\n-Biến đổi a theo b, c theo d.\nLời giải chi tiết\nĐặt \\(\\dfrac{a}{b} = \\dfrac{c}{d} = k \\Rightarrow a = kb;c = kd.\\)\nTa có:\n\\(\\begin{array}{l}\\dfrac{a}{{3a + b}} = \\dfrac{{kb}}{{3.kb + b}} = \\dfrac{{kb}}{{\\left( {3k + 1} \\right)b}} = \\dfrac{k}{{3k + 1}}\\\\\\dfrac{c}{{3c + d}} = \\dfrac{{kd}}{{3.kd + d}} = \\dfrac{{kd}}{{\\left( {3k + 1} \\right)d}} = \\dfrac{k}{{3k + 1}}\\end{array}\\)\nDo đó: \\(\\dfrac{a}{{3a + b}} = \\dfrac{c}{{3c + d}}\\)."
+    },
+    {
+        "problem": "Từ tỉ lệ thức \\(\\dfrac{a}{b} = \\dfrac{c}{d}\\left( {b \\ne 0;d \\ne 0;2b \\ne  - d} \\right)\\), hãy suy ra tỉ lệ thức \\(\\dfrac{{2a + c}}{{2b + d}} = \\dfrac{c}{d}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Đặt \\(\\dfrac{a}{b} = \\dfrac{c}{d} = k \\Rightarrow c = kd.\\)\n-Biến đổi a, c theo b, d.\nLời giải chi tiết\nĐặt \\(\\dfrac{a}{b} = \\dfrac{c}{d} = k \\Rightarrow c = kd.\\)\nTa có \\(\\dfrac{a}{b} = \\dfrac{{2a}}{{2b}}\\) nên \\(\\dfrac{{2a}}{{2b}} = k \\Rightarrow 2a = k.2b\\).\nXét \\(\\dfrac{{2a + c}}{{2b + d}} = \\dfrac{{k.2b + kd}}{{2b + d}} = k\\). Mặt khác \\(\\dfrac{c}{d} = k\\).\nDo đó \\(\\dfrac{{2a + c}}{{2b + d}} = \\dfrac{c}{d}\\)."
+    }
+]

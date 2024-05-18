@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 7: Một người thợ làm một sản phẩm hết 2 giờ 25 phút. Hỏi người đó làm 8 sản phẩm như thể hết bao nhiêu thời gian?\nA.\t16 giờ 25 phút\nB.\t17 giờ 40 phút\nC.\t18 giờ 20 phút\nD.\t19 giờ 20 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Người đó làm 8 sản phẩm như thể hết số thời gian là:  \n2 giờ 25 phút × 8 = 16 giờ 200 phút = 19 giờ 20 phút \nĐáp số: 19 giờ 20 phút."
+    },
+    {
+        "problem": "Câu 8: Tính: \n30 phút + 2 giờ 15 phút × 3\nA.\t6 giờ 45 phút\nB.\t6 giờ 15 phút\nC.\t7 giờ 15 phút\nD.\t8 giờ 15 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n30 phút + 2 giờ 15 phút  × 3 \n= 30 phút + 6 giờ 45 phút \n= 6 giờ 75 phút \n= 7 giờ 15 phút"
+    },
+    {
+        "problem": "Câu 11: Một vòi nước chảy vào bể từ lúc 8 giờ 15 phút đến 9 giờ 24 phút thì được 3,5m^{3}  nước. Hỏi sau bao lâu bể đầy nước, biết rằng thể tích của bể là 14m^{3} .\nA.\t1 giờ 9 phút\nB.\t3 giờ 48 phút\nC.\t4 giờ 36 phút\nD.\t16 giờ 6 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian để vòi chảy vào bể được 3,5m^{3}  nước là: \n9 giờ 24 phút  − 8 giờ 15 phút = 1 giờ 9 phút\n14m^{3}  gấp 3,5m^{3}  số lần là:   \n14 : 3,5 = 4 (lần)\nBể đầy nước sau số thời gian là:\n1 giờ 9 phút × 4 = 4 giờ 36 phút\nĐáp số: 4 giờ 36 phút"
+    },
+    {
+        "problem": "Câu 12: Một người thợ may may một cái áo hết 1 giờ 45 phút và may một cái quần hết 1 giờ 20 phút. Hỏi người thợ đó may 4 cái áo và 5 cái quần hết bao nhiêu thời gian? Biết thời gian may 1 cái áo, 1 cái quần không thay đổi.\nA.\t3 giờ 5 phút\nB.\t6 giờ 40 phút\nC.\t7 giờ\nD.\t13 giờ 40 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian để may 4 cái áo là:  \n1 giờ 45 phút × 4 = 4 giờ 180 phút = 7 giờ\nThời gian để may 5 cái quần là:      \n1 giờ 20 phút × 5 = 5 giờ 100 phút = 6 giờ 40 phút\nNgười thợ đó may 4 cái áo và 5 cái quần hết số thời gian là:   \n7 giờ + 6 giờ 40 phút = 13 giờ 40 phút\nĐáp số: 13 giờ 40 phút."
+    },
+    {
+        "problem": "Câu 13: Một đội công nhân chuyển gạo vào 3 kho. Thời gian chuyển gạo vào kho thứ nhất là 1 giờ 24 phút. Biết thời gian chuyển gạo vào kho thứ hai gấp 3 lần thời gian chuyển gạo vào kho thứ nhất. Thời gian chuyển gạo vào kho thứ ba gấp 2 lần thời gian chuyển gạo vào kho thứ hai. Tính tổng thời gian chuyển gạo vào 3 kho.\nA.\t14 giờ\nB.\t13 giờ 50 phút\nC.\t12 giờ 36 phút\nD.\t8 giờ 24 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian chuyển gạo vào kho thứ hai là:\n1 giờ 24 phút × 3 = 3 giờ 72 phút = 4 giờ 12 phút\nThời gian chuyển gạo vào kho thứ ba là:\n4 giờ 12 phút × 2 = 8 giờ 24 phút\nTổng thời gian chuyển gạo vào cả 3 kho là:\n1 giờ 24 phút + 4 giờ 12 phút  + 8 giờ 24 phút = 13 giờ 60 phút = 14 giờ\nĐáp số: 14 giờ."
+    },
+    {
+        "problem": "Câu 14: Một người đạp xe 3 vòng thành phố, trong khi đạp mỗi vòng người đó nghỉ lại 20 phút rồi mới đạp vòng tiếp theo. Biết thời gian đạp vòng đầu tiên là từ 5 giờ 25 phút đến 7 giờ 10 phút. Hỏi nếu không tính thời gian nghỉ người đó đạp xong 3 vòng thành phố lúc mấy giờ?\nA.\t9 giờ 40 phút\nB.\t11 giờ 15 phút\nC.\t10 giờ 55 phút\nD.\t10 giờ 40 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thời gian người đó đi hết 1 vòng thành phố tính cả thời gian nghỉ là:\n7 giờ 10 phút − 5 giờ 25 phút  = 1 giờ 45 phút\nThời gian người đó đi hết 1 vòng thành phố không tính thời gian nghỉ là:\n1 giờ 45 phút − 20 phút  = 1 giờ 25 phút\nThời gian người đó đi hết 3 vòng thành phố không tính thời gian nghỉ là:\n1 giờ 25 phút × 3 = 3 giờ 75 phút = 4 giờ 15 phút\nNếu không tính thời gian nghỉ người đó đạp xong 3 vòng thành phố lúc:\n5 giờ 25 phút  + 4 giờ 15 phút = 9 giờ 40 phút\nĐáp số: 9 giờ 40 phút."
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1: Trong các công thức sau, công thức nào đúng?\nA.\tGiá bán = giá vốn – lãi\nB.\tGiá bán = giá vốn + lỗ\nC.\tGiá vốn = giá bán + lãi\nD.\tGiá bán = giá vốn + lãi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có các công thức:\n+\tGiá bán = giá vốn + lãi;\n+\tGiá vốn = giá bán – lãi;\n+\tLãi = giá bán – giá vốn;\n+\tGiá bán = giá vốn – lỗ.\nVậy công thức đúng là: Giá bán = giá vốn + lãi."
+    },
+    {
+        "problem": "Câu 2: Trong các công thức sau, công thức nào đúng?\nA.\t Giá bán = giá vốn – lãi\nB.\tGiá bán = giá vốn + lãi\nC.\tGiá vốn = giá bán –  lãi\nD.\tLãi = giá bán – giá vốn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có các công thức:\n+\tGiá bán = giá vốn + lãi;\n+\tGiá vốn = giá bán – lãi;\n+\tLãi = giá bán – giá vốn;\n+\tGiá bán = giá vốn – lỗ.\nVậy công thức sai là: Giá bán = giá vốn – lãi."
+    },
+    {
+        "problem": "Câu 3: Một người bỏ ra 160000 đồng tiền vốn mua rau, sau khi bán hết số rau người đó thu về 200000 đồng. Hỏi tiền lãi bằng bao nhiêu trăm tiền vốn?\nA.\t2%\nB.\t20%\nC.\t25%\nD.\t80%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tiền lãi thu được sau khi bán hết số rau đó là:   \n200000 – 160000 = 40000 (đồng)\nTỉ số phần trăm giữa tiền lãi và tiền vốn là:  \n40000 : 160000 = 0,25 = 25%\nĐáp số: 25%."
+    },
+    {
+        "problem": "Câu 5: Một cửa hàng bán 1 quyển sách được lãi 24000 đồng. Tính giá vốn của quyển sách đó, biết rằng tiền lãi bằng 20% giá bán.\nA.\t48000 đồng\nB.\t96000 đồng\nC.\t120000 đồng\nD.\t144000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Giá bán của quyển sách đó là:  \n24000 : 20 × 100 = 120000 (đồng)\nGiá vốn của quyển sách đó là:  \n120000 – 24000 = 96000 (đồng)\nĐáp số: 96000 đồng."
+    },
+    {
+        "problem": "Câu 6: Siêu thi Pico bán một chiếc laptop với giá 9350000 đồng thì được lãi 10% so với giá vốn. Hỏi giá vốn của chiếc laptop đó là bao nhiêu?\nA.\t8500000 đồng\nB.\t8750000 đồng\nC.\t8415000 đồng\nD.\t8980000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Coi giá vốn của chiếc laptop là 100%.\nGiá bán của chiếc laptop chiếm số phần trăm so với giá vốn là:   \n100% + 10% = 110% giá vốn\nGiá vốn của chiếc laptop đó là:  \n9350000 : 110 × 100 = 8500000 (đồng)\nĐáp số: 8500000 đồng."
+    },
+    {
+        "problem": "Câu 8: Một cửa hàng mua vào 1kg đường với giá 18000 đồng. Hỏi cửa hàng phải bán lại bao nhiêu tiề 1kg đường để được lãi 10% theo giá bán?\nA.\t19800 đồng\nB.\t22000 đồng\nC.\t21200 đồng\nD.\t20000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Coi giá bán của 1kg đường là 100%.\nGiá vốn của 1kg đường chiếm số phần trăm so với giá bán là: \n100% − 10% = 90% giá bán\nĐể được lãi 10% giá bán thì phải bán 1kg đường đó với giá là:   \n18000 : 90 × 100 = 20000 (đồng)\nĐáp số: 20000 đồng."
+    },
+    {
+        "problem": "Câu 10: Một người bán xe đạp được lãi 16% so với giá bán thì được lãi bao nhiêu phần trăm so với giá vốn?\nA.\t18,5%\nB.\t19,04%\nC.\t20,8%\nD.\t22,05%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Coi giá bán là 100% thì tiền lãi sẽ chiếm 16% giá bán.\nTa có:  Giá bán  =  giá vốn  + lãi.\nGiá vốn chiếm số phần trăm so với giá bán là:\n100% − 16% = 84%\nTiền lãi chiếm số phần trăm so với giá vốn là:\n16 : 84 = 0,1904 = 19,04%\nĐáp số: 19,04%."
+    },
+    {
+        "problem": "Câu 11: Bố mua 2 đôi giày cho Việt nhưng đều bị nhỏ nên bố phải bán lại hai đôi giày đó đi. Mỗi đôi giày đều bán được với giá 300000 đồng. Trong đó một đôi giày bán được nhiều hơn 25% giá mua, đôi kia bán được ít hơn 25% giá mua. Hỏi bố Việt bị lỗ hay có lãi và lãi hay lỗ bao nhiêu tiền?\nA.\tLỗ 25000 đồng\nB.\tLỗ 40000 đồng\nC.\tLãi 25000 đồng\nD.\tLãi 40000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Giả sử đôi giày thứ nhất bán được nhiều hơn 25% giá mua, đôi thứ hai bán được ít hơn 25% giá mua.\nCoi giá bố mua mỗi đôi giày là 100%\nGiá bán đôi giày thứ nhất chiếm số phần trăm so với giá mua là:\n100% + 25% = 125%\nBố mua đôi giày thứ nhất hết số tiền là:\n300000 : 125 × 100 = 240000 (đồng)\nGiá bán đôi giày thứ hai chiếm số phần trăm so với giá mua là:\n100% − 25% = 75%\nBố mua đôi giày thứ hai hết số tiền là: \n300000 : 75 × 100 = 400000 (đồng)\nBố mua 2 đôi giày hết số tiền là:  \n240000 + 400000 = 640000 (đồng)\nBố bán 2 đôi giày được số tiền là:    \n300000 × 2 = 600000 (đồng)\nTa có: 600000 < 640000, vậy bố Việt bị lỗ và lỗ số tiền là:  \n640000 – 600000 = 40000 (đồng)"
+    },
+    {
+        "problem": "Câu 12: Nhân dịp ngày lễ 30/4, siêu thị Pico Plaza đã giảm giá bán 15% một chiếc điện thoại Samsung, tuy vậy siêu thị vẫn lãi 10,5% so với tiền vốn. Hỏi nếu không giảm giá thì siêu thị được lãi bao nhiêu nhiêu phần trăm so với tiền vốn?\nA.\t12%\nB.\t15%\nC.\t20%\nD.\t30%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ số phần trăm giữa giá bán dịp 30/4 và giá bán khi không giảm giá của chiếc điện thoại đó là:\n100% − 15% = 85% (giá bán khi không giảm giá)\nTỉ số phần trăm giữa giá bán dịp 30/4 và giá vốn của chiếc điện thoại đó là:\n100% + 10,5% = 110,5% (giá vốn)\nNếu không giảm giá, tỉ số phần trăm giữa giá bán và giá vốn của chiếc điện thoại đó là:\n100 : 85 × 110,5 = 130% (giá vốn)\nNếu không giảm giá cửa hàng lãi số phần trăm so với giá vốn là: \n130% − 100% = 30%\nĐáp số: 30%."
+    }
+]

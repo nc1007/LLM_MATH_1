@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 6: Tìm x, biết 63 : x = 5\nA.\tx = 12,6\nB.\tx = 12,4\nC.\tx = 124\nD.\tx = 126",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "63 : x = 5\nx = 63 : 5\nx = 12,6\nVậy x = 12,6."
+    },
+    {
+        "problem": "Câu 9: 14 là giá trị của biểu thức nào sau đây?\nA.\t4,5 + 95 : 8 – 2,375\nB.\t(31 – 15 : 4) × 0,75 – 6,45",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+)4,5 + 95 : 8 - 2,375\n= 4,5 + 11,875 - 2,375\n= 16,375 - 2,375\n= 14\n+)(31 - 15 : 4) x 0,75 - 6,45\n= (31 -3,75) x 0,75 - 6,45\n= 27,25 x 0,75 - 6,45\n= 20,4375 - 6,45\n= 13,9875\nVậy biểu thức 4,5 + 95 : 8 – 2,375 có giá trị là 14."
+    },
+    {
+        "problem": "Câu 10: Có 8 mảnh vải như nhau dài tất cả 95m. Hỏi 5 mảnh vải như thế dài tất cả bao nhiêu mét?\nA.\t11,875m\nB.\t16,875m\nC.\t35,625m\nD.\t59,375m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1 mảnh vải dài số mét là: \n 95 : 8 = 11,875 (m)\n5 mảnh vải như thế dài số mét là:\n11,875 x 5 = 59,375 (m) \nĐáp số: 59,375m."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 1. Em hãy chọn phát biểu sai trong các phát biểu sau: \nA. Trong các đường xiên và đường vuông góc kẻ từ một điểm ở ngoài một đường thẳng đến đường thẳng đó, đường vuông góc là đường ngắn nhất;\nB. Trong hai đường xiên kẻ từ một điểm nằm ngoài một đường thẳng đến đường thẳng đó thì đường xiên nào có hình chiếu lớn hơn thì lớn hơn;\nC. Trong hai đường xiên kẻ từ một điểm nằm ngoài một đường thẳng đến đường thẳng đó thì đường xiên nào lớn hơn thì có hình chiếu nhỏ hơn;\nD. Trong hai đường xiên kẻ từ một điểm nằm ngoài một đường thẳng đến đường thẳng đó nếu hai đường xiên bằng nhau thì hai hình chiếu bằng nhau và ngược lại nếu hai hình chiếu bằng nhau thì hai đường xiên bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTrong các phát biểu ở ý A, B, và D đều đúng. \nPhát biểu C sai vì: trong hai đường xiên kẻ từ một điểm nằm ngoài một đường thẳng đến đường thẳng đó thì đường xiên nào lớn hơn thì có hình chiếu lớn hơn."
+    },
+    {
+        "problem": "Câu 2. Em hãy chọn cụm từ thích hợp điền vào chỗ trống: \"Trong hai đường xiên kẻ từ một điểm nằm ngoài một đường thẳng đến đường thẳng đó thì đường xiên nào có hình chiếu nhỏ hơn thì ...\" \nA. lớn hơn;\nB. ngắn nhất;\nC. nhỏ hơn; \nD. bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTrong hai đường xiên kẻ từ một điểm nằm ngoài một đường thẳng đến đường thẳng đó thì đường xiên nào có hình chiếu nhỏ hơn thì nhỏ hơn."
+    },
+    {
+        "problem": "Câu 10. Cho đường thẳng d và điểm A không thuộc đường thẳng d. Chọn khẳng định sai.\nA. Có duy nhất một đường vuông góc kẻ từ điểm A đến đường thẳng d;\nB. Có vô số đường xiên kẻ từ điểm A đến đường thẳng d;\nC. Có vô số đường vuông góc kẻ từ điểm A đến đường thẳng d;\nD. Trong các đường xiên và đường vuông góc kẻ từ điểm A đến đường thẳng d, đường vuông góc là đường ngắn nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa biết rằng:\n+ Có duy nhất một đường thẳng đi qua một điểm cho trước và vuông góc với một đường thẳng cho trước.\n+ Có vô số đường thẳng đi qua một điểm cho trước và cắt một đường thẳng cho trước. \nDo đó, có một đường vuông góc kẻ từ điểm A đến đường thẳng d và có vô số đường xiên kẻ từ điểm A đến đường thẳng d nên A, B đúng và C sai.\nĐáp án D đúng vì theo định lý phần lý thuyết."
+    }
+]

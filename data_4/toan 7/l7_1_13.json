@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "B. \\frac{1}{2022};\nC. 2022;\nD. −2022.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nVì đại lượng y tỉ lệ nghịch với đại lượng x theo hệ số tỉ lệ là 2022 nên y=\\frac{2022}{x}\nSuy ra xy = 2022 do đó x=\\frac{2022}{y}\nKhi đó đại lượng x tỉ lệ nghịch với đại lượng y theo hệ số tỉ lệ là 2022."
+    },
+    {
+        "problem": "Câu 2. Cho x và y là hai đại lượng tỉ lệ nghịch theo hệ số tỉ lệ a. Nếu x = −3 thì y = −12. Hệ số tỉ lệ a là:\nA. 4;\nB. −4;\nC. 36;\nD. −36.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nVì x và y là hai đại lượng tỉ lệ nghịch theo hệ số tỉ lệ a nên ta có xy = a.\nKhi x = −3 thì y = −12 nên (−3).(−12) = a\nDo đó a = 36.\nVậy hai đại lượng x và y tỉ lệ nghịch với nhau theo hệ số tỉ lệ a = 36."
+    },
+    {
+        "problem": "Câu 3. Cho hai đại lượng x và y tỉ lệ nghịch với nhau và khi x = 6 thì y = 15. Khi x = 3 thì y có giá trị là:\nA. x = 9;\nB. x = 12;\nC. x = 27;\nD. x = 30.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nGọi a là hệ số tỉ lệ của hai đại lượng tỉ lệ nghịch x và y.\nVì đại lượng y tỉ lệ nghịch với đại lượng x nên ta có y=\\frac{a}{x}\nKhi x = 6 thì y =15 nên 15=\\frac{a}{6} do đó a = 15.6 = 90.\nSuy ra y=\\frac{90}{x}.\nVới x = 3 thì y=\\frac{90}{3}=30.\nVậy x = 30."
+    },
+    {
+        "problem": "Câu 4. Hai đại lượng nào sau đây không phải hai đại lượng tỉ lệ nghịch?\nA. Vận tốc v và thời gian t khi đi trên cùng quãng đường 12 km;\nB. Diện tích S và bán kính R của hình tròn;\nC. Năng suất lao động N và thời gian t hoàn thành một lượng công việc a;\nD. Một đội dùng x máy cày cùng năng suất để cày xong một cánh đồng hết y giờ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nVận tốc v và thời gian t khi đi trên cùng quãng đường 12 km nên ta có vt = 12 nên v và t là hai đại lượng tỉ lệ nghịch. \nCông thức tính diện tích hình tròn là S = π.R^{2}  nên S và R không phải là hai đại lượng tỉ lệ nghịch.\nNăng suất lao động N và thời gian t hoàn thành một lượng công việc a nên ta có a = N.t nên N và t là hai đại lượng tỉ lệ nghịch. \nMột đội dùng x máy cày cùng năng suất để cày xong một cánh đồng hết y giờ nên các máy cày cày xong cánh đồng trong cùng một khoảng thời gian nên số máy cày x và thời gian cày y là hai đại lượng tỉ lệ nghịch. \nVậy diện tích S và bán kính R của hình tròn không phải là hai đại lượng tỉ lệ nghịch."
+    },
+    {
+        "problem": "Câu 5. Các giá trị tương ứng của hai đại lượng x và y được cho trong các bảng dưới đây, hỏi bảng nào thể hiện hai đại lượng x và y tỉ lệ thuận với nhau?\nx\nx1 = −2\nx2 = 2\nx3 = 6\ny\ny1 = 3\ny2 = −3\ny3 = −1\nBảng 1\nx\nx1 = 6\nx2 = −2\nx3 = 5\ny\ny1 = −6\ny2 = 6\ny3 = −15\nBảng 2\nx\nx1 = 2\nx2 = −2\nx3 = 5\ny\ny1 = −6\ny2 = 6\ny3 = 15\nBảng 3\nx\nx1 = −3\nx2 = 2\nx3 = 5\ny\ny1 = 9\ny2 = −6\ny3 = 15\nBảng 4\nA. Bảng 1;\nB. Bảng 2;\nC. Bảng 3;\nD. Bảng 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\n+) Trong bảng 1 ta có: x1.y1 = (−2).3 = −6; x2.y2 = 2.(−3) = −6; x3.y3 = 6.(−1) = −6; \nSuy ra x1.y1 = x2.y2 = x3.y3 = −6.\nDo đó hai đại lượng x và y tỉ lệ nghịch với nhau theo hệ số tỉ lệ là −6.\nVậy hai đại lượng x và y trong bảng 1 là hai đại lượng tỉ lệ thuận với nhau.\n+) Trong bảng 2: x1.y1 = 6.(−6) = −36; x2.y2 = (−2).6 = −12; x3.y3 = 5.(−15) = −75; \nSuy ra x1.y1 ≠ x2.y2 ≠ x3.y3\nDo đó hai đại lượng x và y trong bảng 2 không là hai đại lượng tỉ lệ nghịch với nhau.\n+) Trong bảng 3: x1.y1 = 2.(−6) = −12; x2.y2 = (−2).6 = −12; x3.y3 = 5.15 = 75; \nSuy ra x1.y1 = x2.y2 ≠ x3.y3\nDo đó hai đại lượng x và y trong bảng 2 không là hai đại lượng tỉ lệ nghịch với nhau.\n+) Trong bảng 4: x1.y1 = (−3).9 = −27; x2.y2 = 2.(−6) = −12; x3.y3 = 5.15 = 75; \nSuy ra x1.y1 ≠ x2.y2 ≠ x3.y3\nDo đó hai đại lượng x và y trong bảng 2 không là hai đại lượng tỉ lệ nghịch với nhau.\nVậy hai đại lượng x và y trong bảng 1 là hai đại lượng tỉ lệ nghịch với nhau."
+    },
+    {
+        "problem": "Câu 6. Cho biết x và y trong bảng là hai đại lượng tỉ lệ nghịch.\nx\nx1 = 2\nx2 = 8\nx3\ny\ny1\ny2 = 3\ny3 = 2\nGiá trị của y1 và x3 trong bảng trên là:\nA. y1 = 12; x3 = 12;\nB. y1 = −12; x3 = −12;\nC. y1 = −12; x3 = 12;\nD. y1 = 12; x3 = −12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nVì x và y trong bảng là hai đại lượng tỉ lệ nghịch nên ta có xy = a (a ≠ 0 là hệ số tỉ lệ).\nTừ bảng ta có khi x2 = 8 thì y2 = 3 do đó a = 8.3 = 24 (thoả mãn).\nVậy xy = 24.\nVới x1 = 2 thì do x1.y1 = 24 nên 2.y1 = 24 suy ra y1 = 24 : 2 = 12, do đó y1 = 12;\nVới y3 = 2 thì do x3.y3 = 24 nên 2.y3 = 24 suy ra y3 = 24 : 2 = 12, do đó x3 = 12.\nVậy y1 = 12; x3 = 12."
+    },
+    {
+        "problem": "Câu 7. Cho biết hai đại lượng x và y tỉ lệ nghịch với nhau theo hệ số tỉ lệ a, y và z tỉ lệ nghịch với nhau theo hệ số tỉ lệ b. Phát biểu nào sau đây là đúng?\nA. x tỉ lệ nghịch với z theo hệ số tỉ lệ là k = ab;\nB. x tỉ lệ thuận với z theo hệ số tỉ lệ là k = ab;\nC. x tỉ lệ nghịch với z theo hệ số tỉ lệ là k=\\frac{a}{b};\nD. x tỉ lệ thuận với z theo hệ số tỉ lệ là k=\\frac{a}{b}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nVì x và y tỉ lệ nghịch với nhau theo hệ số tỉ lệ a nên ta có x=\\frac{a}{y}.\nVì y và z tỉ lệ nghịch với nhau theo hệ số tỉ lệ b nên ta có y=\\frac{b}{z}.\nDo đó x=\\frac{a}{y}=\\frac{a}{\\frac{b}{z}}=a:\\frac{b}{z}=a.\\frac{z}{b}=\\frac{a}{b}.z\nVậy x tỉ lệ thuận với z theo hệ số tỉ lệ là k=\\frac{a}{b}."
+    },
+    {
+        "problem": "Câu 8. Nếu đại lượng y tỉ lệ nghịch với đại lượng x theo hệ số tỉ lệ là 3 và đại lượng x tỉ lệ thuận với đại lượng z theo hệ số tỉ lệ là −2 thì phát biểu nào sau đây là đúng?\nA. y tỉ lệ nghịch với z theo hệ số tỉ lệ là a=−\\frac{2}{3};\nB. y tỉ lệ thuận với z theo hệ số tỉ lệ là k=−\\frac{2}{3};\nC. y tỉ lệ thuận với z theo hệ số tỉ lệ là k=−\\frac{3}{2};\nD. y tỉ lệ nghịch với z theo hệ số tỉ lệ là a=−\\frac{3}{2}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nVì đại lượng y tỉ lệ nghịch với đại lượng x theo hệ số tỉ lệ là 3 nên ta có y=\\frac{3}{x}.\nVì đại lượng x tỉ lệ thuận với đại lượng z theo hệ số tỉ lệ là −2 nên ta có x = −2z.\nDo đóy=\\frac{3}{x}=\\frac{3}{−2z}=\\frac{−3}{2.z}=\\frac{−3}{2}.\\frac{1}{z}=−\\frac{3}{2}:z=\\frac{−\\frac{3}{2}}{z}\nVậy y tỉ lệ nghịch với z theo hệ số tỉ lệ là a=−\\frac{3}{2}."
+    },
+    {
+        "problem": "Câu 9. Cho x và y là hai đại lượng tỉ lệ nghịch. Gọi x1, x2 là hai giá trị của x và y1, y2 là hai giá trị tương ứng của y. Biết rằng x1 = −10; x2 = 15 và y1 – y2 = 5. Tính y1 và y2.\nA. y1 = 3, y2 = −2;\nB. y1 = −2, y2 = 3;\nC. y1 = 2, y2 = −3;\nD. y1 = −3, y2 = 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nVì x và y là hai đại lượng tỉ lệ nghịch với nhau nên ta có \\frac{x1}{x2}=\\frac{y2}{y1}\nMà x1 = −10; x2 = 15 nên \\frac{−10}{15}=\\frac{y2}{y1} suy ra \\frac{y1}{15}=\\frac{y2}{−10}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{y1}{15}=\\frac{y2}{−10}=\\frac{y1−y2}{15−−10}=\\frac{5}{15+10}=\\frac{5}{25}=0,2\nSuy ra:\n+) \\frac{y1}{15}=0,2 do đó y1 = 15.0,2 = 3;\n+) \\frac{y2}{−10}=0,2 do đó y1 = −10.0,2 = −2.\nVậy y1 = 3; y2 = −2."
+    },
+    {
+        "problem": "Câu 10. Một ô tô đi từ A đến B hết 4 giờ 30 phút. Hỏi ô tô đi từ A đến B hết mấy giờ nếu ô tô đi với vận tốc gấp đôi vận tốc cũ?\nA. 2 giờ;\nB. 2 giờ 15 phút;\nC. 3 giờ;\nD. 2 giờ 45 phút.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nĐổi 4 giờ 30 phút = 4,5 giờ.\nGọi vận tốc cũ và vận tốc mới của ô tô lần lượt là v1 (km/h) và v2 (km/h).\nThời gian tương ứng của ô tô đi từ A đến B lần lượt là t1 (giờ) và t2 (giờ).\nMà vận tốc mới gấp đôi vận tốc cũ nên ta có v2 = 2v1.\nTa có vận tốc và thời gian của ô tô khi chuyển động trên cùng một quãng đường là hai đại lượng tỉ lệ nghịch.\nDo đó ta có \\frac{t2}{t1}=\\frac{v1}{v2}=\\frac{v1}{2v1}=\\frac{1}{2} hay \\frac{t2}{t1}=\\frac{1}{2}\nThay t1 = 4,5 ta có \\frac{t2}{4,5}=\\frac{1}{2} suy ra 2.t2 = 4,5.1\nNên t2 = 4,5 : 2 = 2,25 (giờ)\nĐổi 2,25 giờ = 2 giờ 15 phút.\nVậy nếu đi với vận tốc gấp đôi vận tốc cũ thì ô tô đi hết 2 giờ 15 phút."
+    },
+    {
+        "problem": "Câu 11. Để làm một công việc trong 8 giờ cần 30 công nhân. Nếu có 40 công nhân thì công việc đó hoàn thành trong mấy giờ biết năng suất làm việc của các công nhân là như nhau.\nA. 3 giờ;\nB. 4 giờ;\nC. 5 giờ;\nD. 6 giờ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nGọi thời gian để hoàn thành công việc của 40 công nhân và t (giờ) (t > 0).\nVì khối lượng công việc là không đổi nên số công nhân và thời gian để hoàn thành công việc là hai đại lượng tỉ lệ nghịch nên ta có 30.8 = 40.t\nDo đó 40t = 240 nên t = 240 : 40 = 6\nVậy thời gian để 40 công nhân hoàn thành công việc là 6 giờ."
+    },
+    {
+        "problem": "Câu 12. Gia đình bác An sau khi xét nghiệm RT – PCR xác định 3 người dương tính với Covid – 19 và được điều trị tại nhà. Sau một vài ngày điều trị thì hiện tại chỉ còn 2 người dương tính, số viên vitamin C xủi còn lại đủ uống cho 3 người trong 4 ngày nữa. Hỏi số vitamin C xủi đó thì 2 người dương tính với Covid – 19 sẽ uống trong bao lâu (biết liều dùng của mỗi người là như nhau)?\nA. 2 ngày;\nB. 4 ngày;\nC. 6 ngày;\nD. 8 ngày.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nGọi x (ngày) là thời gian mà hai người dương tính uống hết số viên vitamin C xủi.\nVì số lượng viên vitamin không thay đổi và liều dùng của mỗi người là như nhau nên số người uống và thời gian uống là hai đại lượng tỉ lệ nghịch. \nDo vậy ta có \\frac{x}{4}=\\frac{3}{2}\nSuy ra 2x = 4.3 nên x=\\frac{4.3}{2}=6 (thoả mãn) (ngày).\nVậy 2 người dương tính còn lại trong gia đình bác An sẽ uống hết số viên viatamin C xủi đó trong 6 ngày."
+    },
+    {
+        "problem": "Câu 13. Trong dịp Tết vừa rồi, mẹ Hoa đã đi siêu thị Big C để mua bánh kẹo. Mẹ Hoa đã chọn 3 loại bánh: bánh quy bơ Danisa giá 140 000 đồng 1 hộp, bánh Kitkat giá 80 000 đồng 1 hộp và bánh yến mạch giá 40 000 đồng một gói. Hỏi mẹ đã mua bao nhiêu hộp bánh Danisa biết số tiền mua mỗi loại bằng nhau và số hộp Kitkat ít hơn số gói yến mạch là 7 hộp?\nA. 4 hộp;\nB. 7 hộp;\nC. 14 hộp;\nD. 25 hộp.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nGọi x, y, z (hộp) lần lượt là số hộp bánh Danisa, bánh Kitkat, bánh yến mạch mà mẹ Hoa đã mua.\nVì số hộp bánh Kitkat nhiều hơn bánh yến mạch 7 gói nên ta có z – y = 7.\nMẹ Hoa đã mua mỗi loại bánh với số tiền như nhau nên:\n140 000x = 80 000y = 40 000z\nSuy ra 14x = 8y = 4z \nSuy ra \\frac{14x}{28}=\\frac{8y}{28}=\\frac{4z}{28}\nDo đó \\frac{x}{4}=\\frac{y}{7}=\\frac{z}{14}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có: \n\\frac{x}{4}=\\frac{y}{7}=\\frac{z}{14}=\\frac{z−y}{14−7}=\\frac{7}{7}=1\nSuy ra:\n+) \\frac{x}{4}=1 nên x = 4 (hộp);\n+) \\frac{y}{7}=1 nên y = 7 (hộp);\n+) \\frac{z}{14}=1 nên z = 14 (hộp).\nVậy số hộp bánh Danisa, bánh Kitkat, bánh yến mạch lần lượt là 4 hộp, 7 gói, 14 gói."
+    },
+    {
+        "problem": "Câu 14. Chị Mai đi đổ xăng cho chiếc xe của mình thì đổ được 9 lít với số tiền định trước. Nhưng do giá xăng tăng nên chị chỉ đổ được 8 lít. Hỏi giá xăng đã tăng bao nhiêu phần trăm?\nA. 112,5%;\nB. 12,5%;\nC. 25%;\nD. 125%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nGọi giá xăng trước khi tăng giá là x (nghìn đồng), giá xăng sau khi tăng giá là y (nghìn đồng).\nVì số tiền của chị Mai là không đổi nên giá xăng và số lít xăng mua được là hai đại lượng tỉ lệ nghịch.\nTheo tính chất tỉ lệ nghịch ta có: 9x = 8y\nSuy ra y=\\frac{9}{8}x\nĐổi \\frac{9}{8}=1,125=\\frac{112,5}{100}=112,5%\nDo đó giá xăng tăng: 112,5% − 100% = 12,5%.\nVậy giá xăng tăng 12,5%."
+    },
+    {
+        "problem": "Câu 15. Một vận động viên điền kinh chạy cự li 1 500 m lần 1 trong 8 phút. Lần thứ 2 vận động viên này cũng chạy cự li 1 500 m trong 7 phút. Tỉ số giữa tốc độ chạy trung bình của vận động viên tại lần 1 và tại lần 2 là:\nA. \\frac{7}{8};\nB. \\frac{8}{7};\nC. \\frac{7}{15};\nD. \\frac{8}{15}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTốc độ chạy v (km/h) và thời gian chạy t (giờ) trên một quãng đường S (km) là hai đại lượng tỉ lệ nghịch vì v.t = S.\nGọi tốc độ chạy lần 1 và vận tốc chạy lần 2 của vận động viên lần lượt là v1 (km/h) và v2 (km/h).\nThời gian tương ứng của vận động viên lần lượt là t1 (giờ) và t2 (giờ).\nĐổi 8 phút = \\frac{8}{60} giờ;\n7 phút = \\frac{7}{60} giờ.\nDo đó \\frac{t2}{t1}=\\frac{7}{60}:\\frac{8}{60}=\\frac{7}{60}.\\frac{60}{8}=\\frac{7}{8}\nTheo tính chất tỉ lệ nghịch ta có \\frac{v1}{v2}=\\frac{t2}{t1}=\\frac{7}{8}\nVậy số giữa tốc độ chạy trung bình của vận động viên tại lần 1 và tại lần 2 là \\frac{7}{8}"
+    }
+]

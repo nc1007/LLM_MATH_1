@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Tìm các tập hợp B(6), B(9).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm bội của một số tự nhiên a, ta lấy a nhân lần lượt với các số 0; 1; 2; 3;…\nLời giải chi tiết\nB(6) = {0; 6; 12; 18; 24; 30; 36; 42, 48; 54, ...}\nB(9) = {0; 9; 18; 27; 36; 45; 54; 63, ...}"
+    },
+    {
+        "problem": "Gọi BC(6, 9) là tập hợp các số vừa là bội của 6, vừa là bội của 9. Hãy viết tập BC(6, 9).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy các phần tử chung của hai tập hợp của hai tập hợp tìm được ở hoạt động 1.\nLời giải chi tiết\nBC(6, 9) = {0; 18; 36; 54; ...}"
+    },
+    {
+        "problem": "Tìm số nhỏ nhất khác 0 trong tập BC(6, 9).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát tập BC(6, 9) vừa tìm được ở hoạt động 2 suy ra số cần tìm.\nLời giải chi tiết\nSố nhỏ nhất khác 0 trong tập BC(6; 9) là 18."
+    },
+    {
+        "problem": "Tìm BCNN(36,9).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a \\( \\vdots \\) b thì BCNN(a, b) = a.\nLời giải chi tiết\nDo 36  \\( \\vdots \\) 9 nên BCNN(36,9) = 36"
+    },
+    {
+        "problem": "Tìm bội chung nhỏ nhất của:\na) 6 và 8;\nb) 8, 9, 72.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm B(6) và B(8) => BC(6, 8) => BCNN(6, 8)\nb) Nếu a\\( \\vdots \\)b; a\\( \\vdots \\)c thì BCNN(a, b, c) = a.\nLời giải chi tiết\na) B(6) = {0; 6; 12; 18; 24; 30; 36; 42; 48; ...}\nB(8) = {0; 8; 16; 24; 32; 40; 48; ...}\nDo đó BC(6, 8) = {0; 24; 48; ...}\nVậy BCNN(6, 8) = 24\nb) Vì 72 \\( \\vdots \\) 8 và 72 \\( \\vdots \\) 9 nên BCNN(8, 9, 72) = 72."
+    },
+    {
+        "problem": "Có hai chiếc máy A và B. Lịch bảo dưỡng định kì đối với máy A là 6 tháng và đối với máy B là 9 tháng Hai máy vừa cùng được bảo dưỡng vào tháng 5. Hỏi sau bao lâu thì hai máy lại được bảo dưỡng trong cùng một tháng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tháng cần tìm là BCNN(6, 9).\nLời giải chi tiết\nSố tháng cần tìm là BCNN(6, 9)\nB(6) = {0; 6; 12; 18; 24; 30; 36; 42; 48; 54; ...}\nB(9) = {0; 9; 18; 27; 36; 45; 54; 63; ...}\nNên BC(6, 9) = {0; 18; 36; 54; ...}\nDo đó BCNN(6, 9) = 18\nVậy sau ít nhất 18 tháng nữa thì hai máy được bảo dưỡng cùng một tháng."
+    },
+    {
+        "problem": "Tìm bội chung nhỏ nhất của 9 và 15, biết 9 = 32  và 15 = 3. 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\nTa có:\\(9 = 3^2 ; 15 =3. 5\\)\nThừa số nguyên tố chung là 3 và thừa số nguyên tố riêng là 5. Số mũ lớn nhất của 3 là 2, của 5 là 1 nên\nBCNN(9, 15) = 32.5= 45"
+    },
+    {
+        "problem": "Biết bội chung nhỏ nhất của 8 và 6 là 24. Tìm các bội chung nhỏ hơn 100 của 8 và 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các bội chung là bội của bội chung nhỏ nhất\nLời giải chi tiết\nBC(8, 6) = B(24) ={0; 24; 48; 72; 96; 120;...}\nVậy các bội chung nhỏ hơn 100 của 8 và 6 là : 0; 24; 48; 72; 96."
+    },
+    {
+        "problem": "Tìm bội chung nhỏ nhất của 15 và 54. Từ đó, hãy tìm các bội chung nhỏ hơn 1 000 của 15 và 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\nPhân tích 15 và 54 ra thừa số nguyên tố:  15 = 3.5  ;  54 = 2.33\nTa thấy thừa số nguyên tố chung là 3 và thừa số nguyên tố riêng là 2 và 5. Số mũ lớn nhất của 3 là 3, của 2 là 1, của 5 là 1 nên BCNN(15, 54) = 2.33.5 = 270\nDo đó BC(15, 54) = {0; 270; 540; 810; 1080; ...}\nVậy bội chung nhỏ hơn 1000 của 15 và 54 là: 0; 270; 540; 810."
+    },
+    {
+        "problem": "Quy đồng mẫu hai phân số: \\(\\frac{7}{9}\\) và \\(\\frac{4}{{15}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để quy đồng mẫu hai phân số \\(\\frac{a}{b}\\) và \\(\\frac{c}{d}\\), ta phải tìm mẫu chung của hai phân số đó.\nThông thường ta nên chọn mẫu chung là bội chung nhỏ nhất của hai mẫu.\nLời giải chi tiết\nTa có: \\(9 = 3^2; 15=3.5\\)\nThừa số nguyên tố chung là 3, thừa số nguyên tố riêng là 5. Số mũ lớn nhất của 3 là 2, của 5 là 1\n\\(\\Rightarrow BCNN(9, 15)=3^2.5 = 45\\) nên ta chọn mẫu số chung là 45.\n\\(\\dfrac{7}{9} = \\dfrac{{7.5}}{{9.5}} = \\dfrac{{35}}{{45}}\\)\n\\(\\dfrac{4}{{15}} = \\dfrac{{4.3}}{{15.3}} = \\dfrac{{12}}{{45}}\\)"
+    },
+    {
+        "problem": "1. Quy đồng mẫu các phân số sau:\na) \\(\\frac{5}{{12}}\\) và \\(\\frac{7}{{15}}\\);              b) \\(\\frac{2}{7};\\,\\,\\frac{4}{9}\\) và \\(\\frac{7}{{12}}\\).\n2. Thực hiện các phép tính sau:\na) \\(\\frac{3}{8} + \\frac{5}{{24}};\\)                   b) \\(\\frac{7}{{16}} - \\frac{5}{{12}}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Để quy đồng mẫu hai phân số \\(\\frac{a}{b}\\) và \\(\\frac{c}{d}\\), ta phải tìm mẫu chung của hai phân số đó. Thông thường ta nên chọn mẫu chung là bội chung nhỏ nhất của hai mẫu.\n- Để cộng, trừ các phân số khác mẫu ta đi quy đồng mẫu số các phân số rồi thực hiện cộng(trừ) tử số và giữ nguyên mẫu.\nLời giải chi tiết\n1. a) Ta có BCNN(12, 15) = 60 nên ta lấy mẫu chung của hai phân số là 60.\nThừa số phụ:\n60:12 =5; 60:15=4\nTa được:\n\\(\\frac{5}{{12}} = \\frac{{5.5}}{{12.5}} = \\frac{{25}}{{60}}\\)\n\\(\\frac{7}{{15}} = \\frac{{7.4}}{{15.4}} = \\frac{{28}}{{60}}\\)\nb) Ta có BCNN(7, 9, 12) = 252 nên ta lấy mẫu chung của ba phân số là 252.\nThừa số phụ:\n252:7 = 36; 252:9 = 28; 252:12 = 21\nTa được:\n\\(\\frac{2}{7} = \\frac{{2.36}}{{7.36}} = \\frac{{72}}{{252}}\\)\n\\(\\frac{4}{9} = \\frac{{4.28}}{{9.28}} = \\frac{{112}}{{252}}\\)\n\\(\\frac{7}{{12}} = \\frac{{7.21}}{{12.21}} = \\frac{{147}}{{252}}\\)\n2. a) Ta có BCNN(8, 24) = 24 nên:\n\\(\\frac{3}{8} + \\frac{5}{{24}} = \\frac{{3.3}}{{8.3}} + \\frac{5}{{24}} = \\frac{9}{{24}} + \\frac{5}{{24}} = \\frac{{14}}{{24}} = \\frac{7}{{12}}\\)\nb) Ta có BCNN(12, 16) = 48 nên:\n\\(\\frac{7}{{16}} - \\frac{5}{{12}} = \\frac{{7.3}}{{16.3}} - \\frac{{5.4}}{{12.4}} = \\frac{{21}}{{48}} - \\frac{{20}}{{48}} = \\frac{1}{{48}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm bội chung nhỏ hơn 200 của\na) 5 và 7;\nb) 3, 4 và 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Tìm BCNN của các số\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\n* Bội của BCNN là bội chung\nLời giải chi tiết\na) Do 5 và 7 là hai số nguyên tố cùng nhau nên:\nBCNN(5, 7) = 5.7 = 35 => BC(5, 7) = B(35) = {0; 35; 70; 105; 140; 175; 210; ...}\nVậy bội chung nhỏ hơn 200 của 5 và 7 là 0; 35; 70; 105; 140; 175.\nb) Ta có: 3 = 3; 4 = 22; 10 = 2.5\nKhông có thừa số nguyên tố chung ; thừa số nguyên tố riêng là 2,3,5. Số mũ lớn nhất của 2;3;5 lần lượt là 2;1;1 nên BCNN(3, 4, 10) = 22.3.5 = 60\n=> BC(3, 4, 10) = B(60) = {0; 60; 120; 180; 240; ...}\nVậy bội chung nhỏ hơn 200 của 3, 4 và 10 là 0; 60; 120; 180."
+    },
+    {
+        "problem": "Tìm BCNN của:\na) 2.33 và 3.5;\nb) 2.5.72 và \\(3.5^2.7\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\na) 2.33 và 3.5\nTa thấy các thừa số nguyên tố chung là 3 và thừa số nguyên tố riêng là 2 và 5. Số mũ lớn nhất của 3 là 3; của 2 là 1; của 5 là 1.\nVậy BCNN cần tìm là 2.33.5 = 270\nb) 2.5.72 và \\(3.5^2.7\\)\nTa thấy các thừa số nguyên tố chung là 5 và 7; thừa số nguyên tố riêng là 2 và 3. Số mũ lớn nhất của 5 là 2; của 7 là 2; của 2 là 1, của 3 là 1.\nVậy BCNN cần tìm là 2.3.52.72  = 7350."
+    },
+    {
+        "problem": "Tìm BCNN của các số sau:\na) 30 và 45;        b) 18, 27 và 45.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\na) 30 và 45\n30 = 2.3.5  ;  45 = 32.5\nTa thấy thừa số nguyên tố chung là 3 và 5; thừa số nguyên tố riêng là 2\nSố mũ cao nhất của 3 là 2; số mũ cao nhất của 5 là 1; số mũ cao nhất của 2 là 1\nVậy BCNN(30, 45) = 2.32.5 = 90\nb) 18, 27 và 45\n18 = 2.32  ;  27 = 33  ;  45 = 32.5\nTa thấy thừa số nguyên tố chung là 3; thừa số nguyên tố riêng là 2 và 5\nSố mũ cao nhất của 3 là 3; số mũ cao nhất của 2 là 1; số mũ cao nhất của 5 là 1\nVậy BCNN(18, 27, 45) = 2.33.5 = 270.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số tự nhiên a nhỏ nhất khác 0,biết rằng a\\( \\vdots \\)28 và a\\( \\vdots \\)32.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a = BCNN(28, 32)\n*Cách tìm BCNN của các số\n- Phân tích các số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\nSố tự nhiên a nhỏ nhất khác 0 và a ⋮ 28 và a ⋮ 32\nDo đó a = BCNN(28, 32)\n28 = 22.7\n32 = 25\nThừa số nguyên tố chung là 2, thừa số nguyên tố riêng là 7. Số mũ lớn nhất của 2 là 5, của 7 là 1\nNên a = BCNN(28, 32) = 25.7 = 224.\nLoigiaihay.com"
+    }
+]

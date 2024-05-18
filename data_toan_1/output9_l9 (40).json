@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Trong túi có một số viên bi màu đen và một số viên bi màu đỏ. Thực hiện lấy ngẫu nhiên một viên bi từ túi, xem viên bi màu gì rồi trả lại viên bi vào túi. Khoa thực hiện thí nghiệm 30 lần. Số lần lấy được viên bi màu đỏ là 13. Hãy tính xác suất thực nghiệm của sự kiện Khoa lấy được viên bi màu đỏ.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Công thức tính xác suất thực nghiệm: Số lần lấy được bi đỏ : Tổng số lần thực nghiệm.\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện Khoa lấy được viên bi màu đỏ là:\\(\\dfrac{13}{30}\\)."
+    },
+    {
+        "problem": "Một chiếc thùng kín có một số quả bóng xanh, đỏ tím vàng. Trong một trò chơi, người chơi lấy ngẫu nhiên một quả bóng, ghi lại màu rồi trả lại bóng vào thùng. Bình thực hiện trò chơi 100 lần và được kết quả như bảng sau:\nTính xác suất thực nghiệm của các sự kiện sau:\na) Bình lấy được quả bóng màu xanh;\nb) Quả bóng được lấy ra không là màu đỏ.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Xác suất lấy được bóng màu xanh = Số lần lấy màu xanh : Tổng số lần lấy bóng\nb) Tính số lần không lấy được màu đỏ.\nXác suất không lấy được bóng màu đỏ = Số lần không lấy được bóng màu đỏ : Tổng số lần lấy bóng\nLời giải chi tiết\na) Xác suất Bình lấy được quả bóng màu xanh:\n\\(\\frac{43}{100}.100\\%=43\\%\\)\nb) Số lần lấy được bóng màu đỏ là 22 lần.\nSố lần không lấy được màu đỏ là 100-22=78 lần.\nXác suất Bình không lấy được quả bóng màu đỏ:\n\\(\\frac{78}{100}.100\\%=78\\%\\)"
+    },
+    {
+        "problem": "Từ dữ liệu bảng 9.10, hãy tính xác suất thực nghiệm của các sự kiện E thắng, O thắng. Dựa vào kết quả tính được, khả năng E thắng hay O thắng là cao hơn? Dự đoán ban đầu của em có chính xác không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm sự kiện E thắng là: Số cặp E thắng: Tổng số cặp chơi\nXác suất thực nghiệm sự kiện O thắng là: Số cặp O thắng: Tổng số cặp chơi\nLời giải chi tiết\nGiả sử với kết quả thu được ở bảng\nCặp chơi số\nE thắng\nO thắng\n1\nX\n\n2\nX\n\n3\n\nX\n4\nX\n\n5\n\nX\n6\nX\n\n7\nX\n\n8\nX\n\n9\nX\n\n10\n\nX\n11\n\nX\n12\nX\n\n13\nX\n\n14\n\nX\n15\nX\n\n16\nX\n\n17\n\nX\n18\nX\n\n19\nX\n\n20\nX\n\n21\nX\n\n22\n\nX\n23\nX\n\nXác suất thực nghiệm sự kiện E thắng là:\n16:23\nXác suất thực nghiệm sự kiện O thắng là:\n7:23\nDựa vào kết quả tính được, khả năng E thắng cao hơn O thắng."
+    },
+    {
+        "problem": "Nam muốn tìm kiếm thông tin để trả lời các câu hỏi sau đây.\nEm hãy gợi ý giúp Nam cách thu thập dữ liệu phù hợp cho mỗi câu hỏi.\na. Năm quốc gia nào có diện tích lớn nhất?\nb. Có bao nhiêu bạn trong lớp có đồng hồ đeo tay?\nc. Trong tuần trước, tổ nào trong lớp có nhiều lượt đi học muộn nhất?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các cách thu thập dữ liệu: quan sát, thí nghiệm, lập phiếu hỏi, thu thập từ những nguồn có sẵn như sách báo, Internet,...\nLời giải chi tiết\na. Khảo sát qua mạng Internet.\nb. Phỏng vấn trực tiếp các bạn trong lớp\nc. Sử dụng phiếu hỏi.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong hộp có 5 phần thưởng gồm 2 chiếc bút chì và 3 chiếc bút bi. Quỳnh chọn ngẫu nhiên hai phần thưởng trong hộp. Em hãy liệt kê các kết quả có thể.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các loại phần thưởng mà Quỳnh có thể nhận được trong mỗi lần lấy.\nLời giải chi tiết\nCác kết quả có thể là:\n+ Lần 1 được bút chì và lần 2 lấy được bút bi;\n+ Lần 1 được bút bi và lần 2 lấy được bút chì;\n+ Lần 1 được bút chì và lần 2 lấy được bút chì;\n+ Lần 1 được bút bi và lần 2 lấy được bút bi."
+    }
+]

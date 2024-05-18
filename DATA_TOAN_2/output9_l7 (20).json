@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Cho góc xAy và một điểm G trong góc đó. Lấy hai điểm M, N trên tia AG sao cho \\(AM = \\dfrac{3}{2}AG;AN = 2AM\\). Qua N kẻ đường thẳng song song với đường thẳng chứa tia Ax, nó cắt Ay tại C. Đường thẳng CM cắt Ax tại B.\na)Chứng minh hai tam giác ABM và NCM bằng nhau, từ đó suy ra AM là đường trung tuyến của tam giác ABC.\nb) Chứng minh rằng G là trọng tâm của tam giác ABC vừa dựng được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Chứng minh: \\(\\Delta ABM = \\Delta NCM\\left( {g - c - g} \\right)\\)\nb)Chứng minh: \\(AG = \\dfrac{2}{3}AM\\).\nLời giải chi tiết\n\na)\nXét \\(\\Delta ABM\\)và \\(\\Delta NCM\\) có:\n\\(\\widehat {MAB} = \\widehat {MNC}\\)(2 góc so le trong NC // Ax)\n\\(\\widehat {AMB} = \\widehat {NMC}\\)(2 góc đối đỉnh)\nAN = 2AM =>AM = NM\n\\( \\Rightarrow \\Delta ABM = \\Delta NCM\\left( {g - c - g} \\right)\\)\n\\( \\Rightarrow MB = MC\\)(cạnh tương ứng)\n\\( \\Rightarrow M\\)là trung điểm của BC\nVậy AM là đường trung tuyến của tam giác ABC.\nb)\nTa có: Điểm G nằm trên đường trung tuyến AM của tam giác ABC\n\\(AM = \\dfrac{3}{2}AG \\Rightarrow AG = \\dfrac{2}{3}AM\\)\nVậy G là trọng tâm tam giác ABC."
+    },
+    {
+        "problem": "Cho tam giác có độ dài cạnh lớn nhất bằng 4 cm. Hãy giải thích tại sao chu vi tam giác đó bé hơn 12 cm và lớn hơn 8 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Chu vi tam giác bằng tổng ba cạnh.\n-Áp dụng bất đẳng thức tam giác.\nLời giải chi tiết\nGọi độ dài ba cạnh tam giác là a, b, c (cm), (a < b < c)\nCạnh lớn nhất là a = 4, b < 4, c < 4\nChu vi tam giác là: a + b + c < 4 + 4 + 4 =12\nMặt khác, theo bất đẳng thức tam giác:\nb + c > a\n=>a + b + c > a + a\n=>a + b + c > 2a = 8\nVậy 8 < a + b + c < 12 hay chu vi tam giác đó bé hơn 12 cm và lớn hơn 8 cm."
+    },
+    {
+        "problem": "Cho 2 đường thẳng song song c và d. Chứng minh rằng khoảng cách từ mọi điểm thuộc c đến đường thẳng d bằng nhau và bằng khoảng cách từ mọi điểm  thuộc đường thẳng d đến đường thẳng c (khoảng cách đó được gọi là khoảng cách giữa hai đường thẳng song song c và d).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Lấy M, M’ thuộc c (M khác M’), kẻ MH, M’H’ vuông góc với d.\n-Chứng minh: MH = H’M’ (\\(\\Delta MHH'\\)=\\(\\Delta H'M'M\\))\nLời giải chi tiết\n\nLấy M, M’ thuộc c (M khác M’), kẻ MH, M’H’ vuông góc với d.\n\\( \\Rightarrow MH\\parallel M'H'\\)\nXét \\(\\Delta MHH'\\) và \\(\\Delta H'M'M\\)có:\nMH’: chung\n\\(\\begin{array}{l}\\widehat {{M_1}} = \\widehat {H{'_2}}\\left( {so\\,le\\,trong} \\right)\\\\\\widehat {{M_2}} = \\widehat {H{'_1}}\\left( {so\\,le\\,trong} \\right)\\\\ \\Rightarrow \\Delta MHH' = \\Delta H'M'M\\left( {g - c - g} \\right)\\\\ \\Rightarrow MH = H'M'\\end{array}\\) Vậy khoảng cách từ mọi điểm thuộc c đến đường thẳng d bằng nhau và bằng khoảng cách từ mọi điểm  thuộc đường thẳng d đến đường thẳng c."
+    },
+    {
+        "problem": "Tam giác ABC có cạnh BC dài nhất. Chứng minh số đo góc A lớn hơn hoặc bằng 600.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng mối liên hệ giữa cạn và góc trong tam giác: Góc đối diện với cạnh lớn hơn là góc lớn hơn.\nLời giải chi tiết\n\nDo cạnh BC dài nhất nên góc A lớn nhất (mối liên hệ giữa cạnh và góc trong tam giác)\n\\( \\Rightarrow \\)\\(\\left\\{ \\begin{array}{l}\\widehat A \\ge \\widehat B\\\\\\widehat A \\ge \\widehat C\\end{array} \\right.\\)\nNếu \\(\\widehat A < {60^0} \\Rightarrow \\widehat B < {60^0};\\widehat C < {60^0}\\)\n\\( \\Rightarrow \\widehat A + \\widehat B + \\widehat C < {60^0} + {60^0} + {60^0} = {180^0}\\) (Vô lí)\nVậy \\(\\widehat A \\ge {60^0}\\)"
+    },
+    {
+        "problem": "Cho D là một điểm bên trong tam giác ABC. Chứng minh:\na)\\(\\widehat {BDC} > \\widehat {BAC}\\)\nb) BD + DC < AB + AC",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Tia AD chia góc A thành góc A1 và góc A2, chia góc BDC thành góc D1 và góc D2.\n-Áp dụng tính chất góc ngoài của tam giác\nb)\n- Gọi E là giao điểm của BD và AC. Ta có:\nAB + AC = AB + (AE + EC) = (AB + AE) + EC\n-Áp dụng các bất đẳng thức cho tam giác: ABE, DEC\nLời giải chi tiết\na)\n\n\nTia AD chia góc A thành góc A1 và góc A2, chia góc BDC thành góc D1 và góc D2.\nGóc D1 là góc ngoài tại đỉnh D của tam giác ABD nên:\n\\(\\widehat {{D_1}} > \\widehat {{A_1}}\\)\nGóc D2 là góc ngoài tại đỉnh D của tam giác ADC nên:\n\\(\\widehat {{D_2}} > \\widehat {{A_2}}\\)\n\\( \\Rightarrow \\widehat D = \\widehat {{D_1}} + \\widehat {{D_2}} > \\widehat {{A_1}} + \\widehat {{A_2}} = \\widehat A\\)\nb)\n\nGọi E là giao điểm của BD và AC. Ta có:\nAB + AC = AB + (AE + EC) = (AB + AE) + EC\nMà: AB + AE > BE (bất đẳng thức trong tam giác ABE)\n=>(AB + AE) + EC > BE + EC = (BD + DE) + EC = BD + (DE + EC)\nMà DE + EC > DC (bất đẳng thức trong tam giác DEC)\n=>AB + AC > BD + DC."
+    },
+    {
+        "problem": "Cho tam giác ABC vuông. Kẻ đường thẳng vuông góc với cạnh huyền BC của tam giác ABC tại điểm D không thuộc đoạn BC. Nó cắt đường thẳng chứa cạnh AB tại E và cắt đường thẳng chứa cạnh AC tại F. Xác định trực tâm của tam giác BEF.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong một tam giác, giao điểm của 2 đường cao là trực tâm của tam giác đó.\nLời giải chi tiết\n\nXét tam giác BEF, có:\n\\(BD \\bot EF\\)\n=> Đường cao xuất phát từ B là đường thẳng BD\n\\(FA \\bot BE\\)\n=> Đường cao xuất phát từ F là đường thẳng FA\nMà FA cắt BD tại C\n=> C là trực tâm của tam giác BEF."
+    },
+    {
+        "problem": "Gọi M là trung điểm của cạnh BC của tam giác ABC và D là điểm sao cho M là trung điểm của AD. Đường thẳng qua D và trung điểm của AB cắt BC tại U, đường thẳng qua D và trung điểm của AC cắt BC tại V. Chứng minh BU = UV = VC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Chứng minh: U là trọng tâm tam giác ABD.\n-Chứng minh: V là trọng tâm tam giác ACD\n-MB = MC\nLời giải chi tiết\n\n-Xét tam giác ABD có:\nM là trung điểm của AD, DU đi qua trung điểm AB\n=>BM và DU là 2 đường trung tuyến của tam giác\nMà BM cắt DU tại U\n=>U là trọng tâm tam giác ABD.\n\\( \\Rightarrow BU = 2UM = \\dfrac{2}{3}BM\\)(1)\n-Xét tam giác ACD:\nM là trung điểm của AD, DV đi qua trung điểm AC\n=>CM và DV là 2 đường trung tuyến của tam giác\nMà CM cắt DV tại V\n=>V là trọng tâm tam giác ACD.\n\\( \\Rightarrow CV = 2MV = \\dfrac{2}{3}MC\\)(2)\nMà M là trung điểm BC\n\\( \\Rightarrow MB = MC\\)\nLại có: UV = UM + MV = \\(\\dfrac{1}{3}BM + \\dfrac{1}{3}CM = \\dfrac{1}{3}BM + \\dfrac{1}{3}BM = \\dfrac{2}{3}BM\\) (3)\nTừ (1), (2) và (3) suy ra:\nBU = UV = VC."
+    },
+    {
+        "problem": "Tam giác ABC có AB = 2cm, BC = 5cm, AC = b (cm) với b là một số nguyên. Hỏi b có thể bằng bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng bất đẳng thức tam giác trong tam giác ABC: BC – AB < AC < BC + AB.\nLời giải chi tiết\nTa có: AC = b (cm)\nÁp dụng bất đẳng thức cho tam giác ABC, có:\nBC – AB < AC < BC + AB\n=>5 – 2 < b < 5 + 2\n=>3 < b < 7\nMà b nguyên nên b = {4; 5; 6}"
+    },
+    {
+        "problem": "Cho 2 điểm phân biệt M, M’ ở cùng phía đối với đường thẳng d (M, M’ không thuộc d). Chứng minh rằng nếu M, M’ có cùng khoảng cách đến đường thẳng d thì MM’ song song với d.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Kẻ \\(MH \\bot d,M'H' \\bot d\\)\n-Chứng minh: \\(\\Delta MHH'\\)=\\(\\Delta H'M'M\\)\nLời giải chi tiết\n\nKẻ \\(MH \\bot d,M'H' \\bot d\\)\n\\( \\Rightarrow MH\\parallel M'H'\\)\nXét \\(\\Delta MHH'\\) và \\(\\Delta H'M'M\\) có:\nMH’ chung\nMH = H’M’ (gt)\n\\(\\begin{array}{l}\\widehat {HMH'} = \\widehat {M'H'M}\\left( {so\\,le\\,trong} \\right)\\\\ \\Rightarrow \\Delta MHH' = \\Delta H'M'M\\left( {g - c - g} \\right)\\\\ \\Rightarrow \\widehat {MH'H} = \\widehat {H'MM'}\\end{array}\\)\nMà  2 góc ở vị trí so le trong nên \\(MM'\\parallel d\\) (Dấu hiệu nhận biết 2 đường thẳng song song)."
+    },
+    {
+        "problem": "Cho tam giác ABC cân tại A, hai điểm D, E nằm trên đường thẳng BC, D nằm giữa B và C, C nằm giữa D và E. Hãy chứng minh AD < AC < AE.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Xét AD vuông góc với BC\n-Xét AD không vuông góc với BC\n+Chỉ ra các góc tù\n+Áp dụng mối liên hệ giữa cạnh và góc trong tam giác\nLời giải chi tiết\n\nTH1: \\(AD \\bot BC\\)\nKhi đó: AC là cạnh huyền, AD là cạnh góc vuông\nNên: AD < AC.\nTH2: AD không vuông góc với BC.\nTrong 2 góc bù nhau ADB và ADC có 1 góc tù (Hình 9.12): Tam giác ADB là tam giác tù\nCạnh AB đối diện với góc tù ADB nên AD < AB = AC (mối liên hệ giữa cạnh và góc đối diện trong tam giác)\nKhi tam giác ADC là tam giác tù, chứng minh tương tự ta được: AD < AC\nVậy ta luôn có AD < AC (1)\nXét tam giác ACE có góc ACE là góc tù (bù với góc nhọn ACB)\nNên AE > AC (mối liên hệ giữa cạnh và góc đối diện trong tam giác)  (2)\nTừ (1) và (2) suy ra AD < AC < AE."
+    },
+    {
+        "problem": "Cho M là một điểm tuỳ ý bên trong tam giác đều ABC. Lấy điểm N nằm khác phía với M đối với đường thẳng AC sao cho \\(\\widehat {CAN} = \\widehat {BAM}\\) và AN = AM.\nChứng minh:\na) Tam giác AMN là tam giác đều\nb) \\(\\Delta MAB = \\Delta NAC\\)\nc) MN = MA, NC = MB",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Tam giác AMN cân có 1 góc bằng 60 độ\nb) Cm: \\(\\Delta MAB = \\Delta NAC\\) (c – g – c )\nc) Áp dụng ý a, b.\nLời giải chi tiết\n\na)\nTam giác ABC là tam giác đều nên: \\(\\widehat A = \\widehat B = \\widehat C = {60^0}\\)\nTa có:\n\\(\\begin{array}{l}\\widehat {MAN} = \\widehat {MAC} + \\widehat {CAN} = \\widehat {MAC} + \\widehat {BAM}\\left( {do\\,\\,\\widehat {CAN} = \\widehat {BAM}} \\right)\\\\ \\Rightarrow \\widehat {MAN} = \\widehat {BAC} = {60^0}\\end{array}\\)\nXét tam giác AMN có: AM = AN (gt)\n\\( \\Rightarrow \\Delta AMN\\) cân tại A\nMà \\(\\widehat {MAN} = {60^0} \\Rightarrow \\Delta ABC\\) là tam giác đều.\nb)\nXét \\(\\Delta MAB\\) và \\(\\Delta NAC\\) có:\nAB = AC (gt)\nAM = AN (gt)\n\\(\\widehat {MAB} = \\widehat {NAC}\\)(gt)\n\\( \\Rightarrow \\)\\(\\Delta MAB\\)= \\(\\Delta NAC\\) (c – g – c)\nc)\nTam giác AMN đều (cm ý a)\n\\( \\Rightarrow \\)MN = MA\n\\(\\Delta MAB\\)= \\(\\Delta NAC\\) (cm ý b)\n\\( \\Rightarrow MB = NC\\)(cạnh tương ứng)"
+    },
+    {
+        "problem": "Cho P là một điểm nằm trong góc nhọn xOy. Gọi M là điểm sao cho Ox là đường trung trực của đoạn thẳng PM, gọi N là điểm sao cho Oy là đường trung trực của đoạn thẳng PN. Đường thẳng MN cắt Ox tại R, cắt Oy tại S.Chứng minh tia PO là tia phân giác của góc RPS.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-O, R cùng nằm trên đường trung trực PM, chứng minh \\(\\widehat {OPR} = \\widehat {OMR}\\).\n-O,S cùng nằm trên đường trung trực PN, chứng minh \\(\\widehat {OPS} = \\widehat {ONS}\\).\nLời giải chi tiết\n\nTa có: O, R nằm trên đường trung trực của PM\n\\( \\Rightarrow OP = OM;RP = RM\\) (1)\n\\( \\Rightarrow \\)Tam giác OPM cân tại O, tam giác RPM cân tại R.\n\\(\\begin{array}{l} \\Rightarrow \\left\\{ \\begin{array}{l}\\widehat {OPM} = \\widehat {OMP}\\\\\\widehat {RPM} = \\widehat {RMP}\\end{array} \\right.\\\\ \\Rightarrow \\widehat {OPR} = \\widehat {OMR}\\end{array}\\)\nTương tự: O, S nằm trên đường trung trực của PN\n\\( \\Rightarrow OP = ON;SP = SN\\)(2)\n\\( \\Rightarrow \\)Tam giác OPN cân tại O, tam giác SPN cân tại S.\n\\(\\begin{array}{l} \\Rightarrow \\left\\{ \\begin{array}{l}\\widehat {OPN} = \\widehat {ONP}\\\\\\widehat {SPN} = \\widehat {SNP}\\end{array} \\right.\\\\ \\Rightarrow \\widehat {OPS} = \\widehat {ONS}\\end{array}\\)\nTừ (1) và (2) suy ra: OM = ON = OP hay OM = ON\n\\( \\Rightarrow \\)Tam giác OMN cân tại O\n\\( \\Rightarrow \\widehat {OMN} = \\widehat {ONM}\\)\nHay \\(\\widehat {OMR} = \\widehat {ONS}\\)\n\\( \\Rightarrow \\widehat {OPR} = \\widehat {OPS}\\) Vậy tia PO là tia phân giác của góc RPS."
+    },
+    {
+        "problem": "a)Gọi I là giao điểm của hai đường phân giác BE và CF của tam giác ABC. Đường thẳng qua I song song với BC cắt AB tại J và cắt AC tại K. Chứng minh: JK = BJ + CK.\nb)Đường thẳng qua B vuông góc với BI cắt đường thẳng qua C vuông góc với CI tại điểm I’. Qua I’ kẻ đường thẳng song song với BC cắt AB tại J’, cắt AC tại K’. Chứng minh J’K’ = BJ’ + CK’.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Chứng minh tam giác JIB cân tại J, tam giác IKC cân tại K\nb)Áp dụng: 2 tia phân giác của 2 góc kề bù thì vuông góc với nhau.\nBI vuông góc BI’ suy ra BI’ là phân giác góc ngoài tại B\nLời giải chi tiết\n\na)\nTa có: BI là phân giác góc FBC\n\\( \\Rightarrow \\widehat {JBI} = \\widehat {IBC}\\)\nLại có: JK // BC\n\\( \\Rightarrow \\widehat {JIB} = \\widehat {IBC}\\)(2 góc so le trong)\n\\( \\Rightarrow \\widehat {JBI} = \\widehat {JIB}\\)\\(\\)\n\\( \\Rightarrow \\Delta JIB\\)cân tại J\n\\( \\Rightarrow JI = JB\\)\nChứng minh tương tự: KI = KC\nTa có:\n\\(JK = JI + IK = JB + CK\\)\nb)\nTa có: \\(BI' \\bot BI\\)\n\\( \\Rightarrow BI'\\) là tia phân giác của góc tạo bởi BC và tia đối của tia BA (phân giác góc ngoài tại B)\n\\( \\Rightarrow \\widehat {J'BI'} = \\widehat {I'BC}\\) (Tính chất tia phân giác)\nLại có: BC // J’K’\n\\( \\Rightarrow \\widehat {CBI'} = \\widehat {BI'J'}\\) (2 góc so le trong)\n\\( \\Rightarrow \\widehat {J'BI'} = \\widehat {BI'J'}\\)\n\\( \\Rightarrow \\Delta J'BI'\\) cân tại J’\n\\( \\Rightarrow J'B = J'I'\\)\nChứng minh tương tự: K’C = K’I’\nTa có:\nJ’K’ = J’I’ + I’K’ = BJ’ + CK’ (đpcm)"
+    },
+    {
+        "problem": "Tam giác ABC có AB = 2cm, BC = 3cm. Đặt CA = b (cm)\na)Chứng minh rằng 1 < b < 5\nb) Giả sử rằng với 1 < b < 5, có tam giác ABC thoả mãn AB = 2cm, BC = 3 cm, CA = b (cm). Với mỗi tam giác đó, hãy sắp xếp ba góc A, B, C theo thứ tự từ bé đến lớn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Áp dụng: BC – AB < CA < BC + AB\nb)Áp dụng mối liên hệ giữa cạnh và góc trong tam giác.\nChia 3 trường hợp: \\(1 < b \\le 2\\); \\(2 < b \\le 3\\);\\(3 < b < 5\\).\nLời giải chi tiết\na)\nÁp dụng bất đẳng thức tam giác cho tam giác ABC:\nBC – AB < CA < BC + AB\n=>3 – 2 < b < 3 + 2\n=>1 < b < 5 (đpcm)\nb)\nAB = 2 cm, BC = 3 cm, AC = b\nVới \\(1 < b \\le 2\\) \\( \\Rightarrow b \\le AB < BC \\Rightarrow \\widehat B \\le \\widehat C < \\widehat A\\)(Mối liên hệ giữa cạnh và góc trong tam giác)\nVới \\(2 < b \\le 3 \\Rightarrow AB < CA \\le BC \\Rightarrow \\widehat C < \\widehat B \\le \\widehat A\\)\nVới \\(3 < b < 5 \\Rightarrow AB < BC < CA \\Rightarrow \\widehat C < \\widehat A < \\widehat B\\)"
+    },
+    {
+        "problem": "Dùng thước hai lề ta có thể dựng cặp đường thẳng song song với khoảng cách h không đổi.\nCho góc xOy. Dùng thước hai lề dựng cặp đường thẳng song song gồm đường thẳng chứa tia Ox và đường thẳng x’ (sao cho x’ cắt Oy) rồi dùng thước hai lề đó, dựng cặp đường thẳng song song gồm đường thẳng chứa tia Oy và đường thẳng y’ (sao cho y’ cắt Ox).Hai đường thẳng x’ và y’ cắt nhau tại P. Chứng minh rằng tia OP là tia phân giác của góc xOy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Áp dụng: Điểm nằm trong góc và cách đều 2 cạnh của góc thì nằm trên tia phân giác của góc đó.\n-Vẽ hình như hình bên và chứng minh khoảng cách từ P đến Ox, Oy là bằng nhau.\nLời giải chi tiết\n\nTa có:\nP thuộc x’,x cách x’ khoảng bằng h\n\\( \\Rightarrow \\)P cách x khoảng cách h (chứng minh bài 9.5)\nP thuộc y’, y cách y’ khoảng bằng h\n\\( \\Rightarrow \\) P cách y khoảng bằng h\n\\( \\Rightarrow \\) P cách đều 2 đường thẳng Ox, Oy\nMà P nằm trong góc xOy (cách dựng)\n\\( \\Rightarrow \\) P nằm trên tia phân giác của góc xOy."
+    },
+    {
+        "problem": "Hãy giải thích tại sao trong tam giác vuông, cạnh huyền dài nhất và trong tam giác tù, cạnh đối diện với góc tù là cạnh lớn nhất",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong tam giác vuông, góc vuông là góc lớn nhất do hai góc còn lại đều là góc nhọn, nên cạnh đối điện với nó là cạnh huyền dài nhất\nTương tự, trong tam giác tù có một góc tù thì 2 góc còn lại đều nhọn nên góc tù là góc lớn nhất; vậy cạnh đối diện góc tù là cạnh lớn nhất.\nLời giải chi tiết\n-Xét tam giác ABC vuông tại B:\n\n\\(\\widehat B = {90^0} \\Rightarrow \\left\\{ \\begin{array}{l}\\widehat B > \\widehat A\\\\\\widehat B > \\widehat C\\end{array} \\right.\\)\nMà cạnh đối diện với góc vuông là AC\nVậy cạnh huyền AC lớn nhất (mối liên hệ giữa cạnh và góc trong tam giác)\n-Xét tam giác tù ABC với góc A là góc tù:\n\n\\( \\Rightarrow \\widehat B,\\widehat C\\) là góc nhọn.\n\\( \\Rightarrow \\widehat A\\)là góc lớn nhất.\nCạnh đối diện với góc A là cạnh BC\n\\( \\Rightarrow BC\\)là cạnh lớn nhất (mối liên hệ giữa cạnh và góc trong tam giác)"
+    },
+    {
+        "problem": "Xét tam giác ABC vuông tại A; đường phân giác góc B cắt cạnh AC tại E; đường thẳng qua E vuông góc với BC cắt đường thẳng AB tại K. Chứng minh:\na)AE < EC\nb) BK = BC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Chứng minh: EA = EH (Điểm nằm trên tia phân giác của góc thì cách đều 2 cạnh của góc đó).\n-Áp dụng mối liên hệ giữa cạnh huyền và cạnh góc vuông.\nb)\nChứng minh tam giác BCK cân tại B.\nLời giải chi tiết\n\na)\nĐường thẳng EK cắt BC tại H\nTa có: E nằm trên đường phân giác góc B\n\\( \\Rightarrow EA = EH\\)(T/c)\nLại có: Tam giác EHC vuông tại H có: EH là cạnh góc vuông, EC là cạnh huyền\n\\( \\Rightarrow EH < EC\\) (mlh giữa cạnh huyền và cạnh góc vuông)\n\\( \\Rightarrow EA < EC\\).\nb)\nXét tam giác BCK có:\n\\(\\left\\{ \\begin{array}{l}KH \\bot BC\\\\CA \\bot BK\\end{array} \\right.\\)\n\\( \\Rightarrow \\)CH, BK là đường cao trong tam giác BCK\nMà CH cắt BK tại  E\n\\( \\Rightarrow \\)E là trực tâm tam giác BCK\n\\( \\Rightarrow \\)BE là đường cao\n\\( \\Rightarrow \\) BE vừa là đường phân giác, vừa là đường cao xuất phát từ B của tam giác BCK\n\\( \\Rightarrow \\)Tam giác BCK cân tại B.\n\\( \\Rightarrow \\)BC = BK."
+    },
+    {
+        "problem": "Gọi H là trực tâm của tam giác nhọn ABC. Khi AH = BC, hãy chứng minh \\(\\widehat {BAC} = {45^0}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Kẻ đường cao BJ của tam giác ABC.\n-Chứng minh: \\(\\Delta AHJ = \\Delta BCJ\\left( {ch - gn} \\right)\\)\n-Chứng minh tam giác ABJ vuông cân tại J.\nLời giải chi tiết\n\nGọi BJ là đường cao xuất phát từ B của tam giác ABC\n\\( \\Rightarrow BJ \\bot AC\\)\nXét \\(\\Delta AHJ\\) và \\(\\Delta BCJ\\) có:\n\\(\\begin{array}{l}\\widehat {AJH} = \\widehat {BJC} = {90^0}\\\\\\left\\{ \\begin{array}{l}\\widehat {JAH} + \\widehat {JCB} = {90^0}\\\\\\widehat {JBC} + \\widehat {JCB} = {90^0}\\end{array} \\right. \\Rightarrow \\widehat {JAH} = \\widehat {JBC}\\\\AH = BC\\left( {gt} \\right)\\\\ \\Rightarrow \\Delta AHJ = \\Delta BCJ\\left( {ch - gn} \\right)\\end{array}\\)\n\\( \\Rightarrow AJ = BJ\\)(cạnh tương ứng)\nMà tam giác JAB vuông tại J nên JAB là tam giác vuông cân.\nVậy \\(\\widehat {BAC} = {45^0}\\)"
+    },
+    {
+        "problem": "Tam giác ABC có AD, BE là hai đường phân giác và \\(\\widehat {BAC} = {120^0}\\). Chứng minh rằng DE là tia phân giác của góc ADC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi Ax là tia đối của tia AB\n-Chứng minh: \\(\\widehat {BAD} = \\widehat {DAC} = \\widehat {CAx}\\)\n- Hạ \\(EH \\bot Bx;EI \\bot AD;EK \\bot BC\\)\n-Áp dụng điểm nằm trên tia phân giác của góc thì cách đều 2 cạnh của của góc đó.\nLời giải chi tiết\n\nGọi Ax là tia đối của tia AB \\(\\widehat {CAx} = {180^0} - \\widehat {BAC} = {180^0} - {120^0} = {60^0}\\) (2 góc kề bù)\nAD là phân giác góc BAC\n\\( \\Rightarrow \\widehat {BAD} = \\widehat {DAC} = \\dfrac{{\\widehat {BAC}}}{2} = \\dfrac{{{{120}^0}}}{2} = {60^0}\\)\n\\( \\Rightarrow \\widehat {BAD} = \\widehat {DAC} = \\widehat {CAx}\\)\nHạ \\(EH \\bot Bx;EI \\bot AD;EK \\bot BC\\)\nTa có:\nEH = EK (vì BE là phân giác góc ABC)\nEH = EI (vì AE là phân giác góc DAx)\n\\( \\Rightarrow EK = EI\\)\nVậy E nằm trên tia phân giác của góc ADC."
+    }
+]

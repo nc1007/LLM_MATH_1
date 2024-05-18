@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Từ hai bài 8.45 và 8.46, hãy nêu nhận xét về quan hệ giữa hai khái niệm: điểm trong của một góc và điểm nằm giữa hai điểm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ kết luận của hai bài 8.45 và 8.46.\nLời giải chi tiết\nCho góc xOy khác góc bẹt.\n-         Nếu M là 1 điểm nằm trong góc xOy, A,B nằm trên 2 cạnh của góc thỏa mãn A,M,B thẳng hàng thì M nằm giữa A và B.\n-         Nếu M là điểm nằm giữa A, B với A, B nằm trên 2 cạnh của góc xOy (A,B khác O) thì M là 1 điểm trong của góc xOy."
+    },
+    {
+        "problem": "Tính tổng các số đo của ba góc \\(\\widehat {ABC}\\), \\(\\widehat {ACB}\\), \\(\\widehat {BAC}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng\nLời giải chi tiết\nTổng các số đo của ba góc \\(\\widehat {ABC}\\), \\(\\widehat {ACB}\\), \\(\\widehat {BAC}\\)là: \\(45^\\circ  + 60^\\circ  + 75^\\circ  = 180^\\circ \\)"
+    },
+    {
+        "problem": "Cho đoạn thẳng AB dài 10 cm. Chọn đoạn thẳng dài 4 cm làm đơn vị độ dài. Hãy tìm độ dài đoạn thẳng AB theo đơn vị mới chọn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cứ mỗi 4 cm tương ứng với 1 đơn vị độ dài mới\nLời giải chi tiết\nĐộ dài đoạn thẳng AB theo đơn vị mới chọn là:\n10: 4 = 2,5 (đơn vị)"
+    }
+]

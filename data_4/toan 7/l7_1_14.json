@@ -1,0 +1,170 @@
+[
+    {
+        "problem": "B. Nếu a∈ℤ thì a không thể là số vô tỉ;\nC. Nếu a∈ℕ thì a không thể là số vô tỉ;\nD. Nếu a∈ℝ thì a không thể là số vô tỉ;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTập hợp ℚ là tập hợp các số hữu tỉ nên không thể là số vô tỉ. Do đó phương án A là phát biểu đúng.\nTập hợp ℤ là tập hợp các số nguyên nên không thể là số vô tỉ. Do đó phương án B là phát biểu đúng.\nTập hợp ℕ là tập hợp các số tự nhiên nên không thể là số vô tỉ. Do đó phương án C là phát biểu đúng.\nTập hợp ℝ là tập hợp các số thực, bao gồm các số vô tỉ. Do đó phương án D là phát biểu sai."
+    },
+    {
+        "problem": "Câu 2. Giá trị của biểu thức −12:0,36−−7,2 là:\nA. 0;\nB. -\\frac{64}{5};\nC. \\frac{64}{5};\nD. -\\frac{136}{5}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\n−12:0,36−−7,2\n=−12:0,62+7,2\n= (–12) : 0,6 + 7,2\n=−12:\\frac{6}{10}+\\frac{72}{10}\n=−12.\\frac{10}{6}+\\frac{36}{5}\n=−20+\\frac{36}{5}\n=\\frac{−100}{5}+\\frac{36}{5}\n=−\\frac{64}{5}\nVậy giá trị của biểu thức −12:0,36−−7,2 là −\\frac{64}{5}."
+    },
+    {
+        "problem": "Câu 3. Có bao nhiêu giá trị của x thoả mãn 2x+3=25?\nA. 0;\nB. 1;\nC. 2;\nD. 311.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có: 2x+3=25\nSuy ra 2x+32=252\nDo đó 2x + 3= 625\n2x = 625 – 3\n2x = 622\nx = 311.\nVậy có 1 giá trị của x thoả mãn."
+    },
+    {
+        "problem": "Câu 4. Thực hiện phép tính |–3,7| + 6,3 + |–1,4| – |3,7| – |6,3| ta được kết quả là:\nA. –1,4;\nB. 1,4;\nC. 21,4;\nD. 18,6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\n|–3,7| + 6,3 + |–1,4| – |3,7| – |6,3| \n= –(–3,7) + 6,3 + [–(–1,4)] – 3,7 – 6,3\n= 3,7 + 6,3 + 1,4 – 3,7 – 6,3\n= (3,7 + 6,3) + 1,4 – (3,7 + 6,3)\n= 10 + 1,4 – 10 \n= (10 – 10) + 1,4\n= 0 + 1,4\n= 1,4."
+    },
+    {
+        "problem": "Câu 6. Giá trị x∈ℤ thoả mãn \\frac{1}{2}−\\frac{1}{3}+\\frac{3}{4}≤x≤\\frac{1}{24}−\\frac{1}{8}−\\frac{1}{3} là:\nA. x = −1;\nB. x = 0;\nC. x = −1 hoặc x = 0;\nD. x = 1;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\n\\frac{1}{2}−\\frac{1}{3}+\\frac{3}{4}≤x≤\\frac{1}{24}−\\frac{1}{8}−\\frac{1}{3}\n\\frac{1}{2}−\\frac{4}{12}+\\frac{9}{12}≤x≤\\frac{1}{24}−\\frac{3}{24}−\\frac{8}{24}\n\\frac{1}{2}−\\frac{13}{12}≤x≤\\frac{1}{24}−\\frac{−5}{24}\n\\frac{6}{12}−\\frac{13}{12}≤x≤\\frac{1}{24}+\\frac{5}{24}\n\\frac{−7}{12}≤x≤\\frac{6}{24}\n\\frac{−7}{12}≤x≤\\frac{1}{4}\nTa có \\frac{−12}{12}<\\frac{−7}{12}≤x≤\\frac{1}{4}<\\frac{4}{4}\nHay −1<\\frac{−7}{12}≤x≤\\frac{1}{4}<1\nDo đó giá trị x nguyên thoả mãn là x = 0."
+    },
+    {
+        "problem": "Câu 7. Kết quả của phép tính 13\\frac{2}{7}:\\frac{−8}{9}+2\\frac{5}{7}:\\frac{−8}{9} là:\nA. −\\frac{880}{63};\nB. \\frac{−495}{28};\nC. \\frac{880}{63};\nD. \\frac{−495}{28}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\n13\\frac{2}{7}:\\frac{−8}{9}+2\\frac{5}{7}:\\frac{−8}{9}\n=\\frac{93}{7}.\\frac{9}{−8}+\\frac{19}{7}.\\frac{9}{−8}\n=\\frac{93}{7}+\\frac{19}{7}.\\frac{9}{−8}\n=\\frac{110}{7}.\\frac{9}{−8}\n=\\frac{110.9}{7.−8}\n=\\frac{55.9}{7.−4}\n=\\frac{495}{−28}\n=\\frac{−495}{28}"
+    },
+    {
+        "problem": "Câu 8. Cho \\frac{−6}{x}=\\frac{9}{−15}. Giá trị x thoả mãn là:\nA. x = −10;\nB. x = 10;\nC. x = 3,6;\nD. x = −3,6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTừ tỉ lệ thức \\frac{−6}{x}=\\frac{9}{−15} ta có 9x = (−6).(−15)\nDo đó 9x = 90.\nSuy ra x = 90 : 9\nx = 10.\nVậy x = 10."
+    },
+    {
+        "problem": "Câu 10. Giá trị nhỏ nhất của biểu thức A = |2x – 1| + 5 là:\nA. 0;\nB. 4;\nC. 5;\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có |2x – 1| ≥ 0 với mọi x nên |2x – 1| + 5 ≥ 5 với mọi x\nDo đó A đạt giá trị nhỏ nhất là 5 khi 2x – 1= 0 tức là 2x = 1 hay x=\\frac{1}{2}.\nVậy giá trị nhỏ nhất của A là 5."
+    },
+    {
+        "problem": "Câu 11. Viết số 9.33.\\frac{1}{81}.27 dưới dạng luỹ thừa của a^{n }  ta được:\nA. 9^{3} ;\nB. 9^{5} ;\nC. 3^{4} ;\nD. 3^{5} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có:\n9.33.\\frac{1}{81}.27=32.33.\\frac{1}{34}.33=\\frac{32.33.33}{34}=\\frac{32+3+3}{34}=\\frac{38}{34}=38−4=34=322=92\nVậy 9.33.\\frac{1}{81}.27 viết dưới dạng luỹ thừa của a^{n }  ta được 3^{4}  hoặc 9^{2} .\n\n\n9.33.\\frac{1}{81}.27=32.33.\\frac{1}{34}.33=\\frac{32.33.33}{34}=\\frac{32+3+3}{34}=\\frac{38}{34}=38−4=34=322=92\nVậy 9.33.\\frac{1}{81}.27 viết dưới dạng luỹ thừa của a^{n }  ta được 3^{4}  hoặc 9^{2} .\n\n9.33.\\frac{1}{81}.27=32.33.\\frac{1}{34}.33=\\frac{32.33.33}{34}=\\frac{32+3+3}{34}=\\frac{38}{34}=38−4=34=322=92\nVậy 9.33.\\frac{1}{81}.27 viết dưới dạng luỹ thừa của a^{n }  ta được 3^{4}  hoặc 9^{2} ."
+    },
+    {
+        "problem": "Câu 12. Sắp xếp các số −1,2; 0; 3; -\\frac{1}{2}; 2 theo thứ tự tăng dần là: \nA. −1,2; -\\frac{1}{2}; 0; 3; 2;\nB. -\\frac{1}{2}; −1,2; 0; 3; 2;\nC. -\\frac{1}{2}; −1,2; 0; 2; 3 ;\nD. −1,2; -\\frac{1}{2}; 0; 3; 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTa chia các số −1,2; 0; 3; -\\frac{1}{2}; 2 thành 3 nhóm:\nNhóm 1 gồm các số −1,2; -\\frac{1}{2}.\nNhóm 2 là số 0.\nNhóm 3 gồm các số 3; 2.\nTa so sánh nhóm 1: −1,2; -\\frac{1}{2}.\nVì −1 > −2 nên \\frac{−1}{2}>\\frac{−2}{2}=−1 do đó \\frac{−1}{2}>−1.\nMà −1 > −1,2 \nVậy −1,2 < -\\frac{1}{2}. \nTa so sánh nhóm 3: 3;2.\nTa có 3=1,732050....\nVì 1,732050… < 2 nên 3<2.\nNhóm 1 gồm các số thực âm, nhóm 3 gồm các số thực dương mà số 0 luôn lớn hơn số thực âm và nhỏ hơn số thực dương.\nDo đó ta có −1,2 < \\frac{−1}{2} < 0 < 3<2.\nVậy sắp xếp theo thứ tự tăng dần ta có: −1,2; -\\frac{1}{2}; 0; 3; 2."
+    },
+    {
+        "problem": "Câu 13. Kết quả của phép tính 0,3.−49+0,8.\\frac{4}{5} là:\nA. 1,3;\nB. −1,3;\nC. 2,9;\nD. −2,9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có 0,3.−49+0,8.\\frac{4}{5}\n=0,3.−72+0,8.0,8\n=0,3.−7+0,82\n= −2,1 + 0,8\n= −1,3."
+    },
+    {
+        "problem": "Câu 14. Từ bốn số 2; 14; 0,25 và 1,75 ta lập được tỉ lệ thức là:\nA. \\frac{2}{14}=\\frac{0,25}{1,75};\nB. \\frac{2}{1,75}=\\frac{0,25}{14};\nC. \\frac{2}{0,25}=\\frac{1,75}{14};\nD. \\frac{0,25}{2}=\\frac{14}{1,75}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\n\\frac{2}{14}=\\frac{1}{7} và 0,25 : 1,75 = \\frac{25}{100}:\\frac{175}{100}=\\frac{25}{100}.\\frac{100}{175}=\\frac{25}{175}=\\frac{25:25}{175:25}=\\frac{1}{7};\nDo đó \\frac{2}{14}=0,25:1,75 nên từ bốn số 2; 14; 0,25 và 1,75 lập được thành tỉ lệ thức là:\n\\frac{2}{14}=\\frac{0,25}{1,75}; \\frac{2}{0,25}=\\frac{14}{1,75};\\frac{0,25}{2}=\\frac{1,75}{14}; \\frac{14}{2}=\\frac{1,75}{0,25}.\nVậy \\frac{2}{14}=\\frac{0,25}{1,75}."
+    },
+    {
+        "problem": "Câu 15. Số thực dương thích hợp điền vào ? trong tỉ lệ thức \\frac{?}{4}=\\frac{16}{?} là:\nA. 64;\nB. 32;\nC. 8;\nD. –8 hoặc 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nGọi số thực dương cần tìm là x (x > 0).\nTừ tỉ lệ thức \\frac{?}{4}=\\frac{16}{?} ta có \\frac{x}{4}=\\frac{16}{x}\nSuy ra x.x = 4. 16\nHay x^{2}  = 64\nx^{2}  = 8^{2}  = (–8)^{2}  \nMà x > 0 nên x = 8.\nVậy số cần điền là 8."
+    },
+    {
+        "problem": "Câu 16. Cho \\frac{a+b}{c+d}=\\frac{b+c}{d+a} (với a + b + c + d ≠ 0) thì:\nA. a = b;\nB. b = c;\nC. a = c;\nD. a = d.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ tỉ lệ thức \\frac{a+b}{c+d}=\\frac{b+c}{d+a}, áp dụng tính chất tỉ lệ thức ta có: \\frac{d+a}{c+d}=\\frac{b+c}{a+b}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{d+a}{c+d}=\\frac{b+c}{a+b}=\\frac{d+a+b+c}{c+d+a+b}=\\frac{a+b+c+d}{a+b+c+d}=1\nSuy ra:\n+) \\frac{d+a}{c+d}=1 do đó d + a = c + d nên a = c;\n+) \\frac{b+c}{a+b}=1 do đó b + c = a + b nên c = a.\nVậy a = c."
+    },
+    {
+        "problem": "Câu 17. Cho \\frac{a}{b}=\\frac{c}{d}. Chọn câu đúng:\nA. \\frac{8a+3b}{8a−3b}=\\frac{8c−3d}{8c+3d}; \nB. \\frac{8a−3b}{8a−3b}=\\frac{8c−3d}{8c+3d}; \nC. \\frac{8a+3b}{8a−3b}=\\frac{8c+3d}{8c−3d}; \nD. \\frac{8a+3b}{8a+3b}=\\frac{8c−3d}{8c+3d};",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ tỉ lệ thức \\frac{a}{b}=\\frac{c}{d}, áp dụng tính chất tỉ lệ thức ta có: \\frac{a}{c}=\\frac{b}{d}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{a}{c}=\\frac{b}{d}=\\frac{8a}{8c}=\\frac{3b}{3d}=\\frac{8a+3b}{8c+3d}=\\frac{8a−3b}{8c−3d}\nSuy ra \\frac{8a+3b}{8c+3d}=\\frac{8a−3b}{8c−3d} do đó \\frac{8a+3b}{8a−3b}=\\frac{8c+3d}{8c−3d}"
+    },
+    {
+        "problem": "Câu 18. Giá trị của x, y, z thoả mãn x=\\frac{y}{2}=\\frac{z}{3} và 4x – 3y + 2z = 36 là:\nA. x = 9; y = 18; z = 27;\nB. x = −9; y = −18; z = −27;\nC. x = −9; y = 18; z = 27;\nD. x = −9; y = 18; z = −27.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\nx=\\frac{y}{2}=\\frac{z}{3}=\\frac{4x}{4}=\\frac{3y}{6}=\\frac{2z}{6}=\\frac{4x−3y+2z}{4−6+6}=\\frac{36}{4}=9\nSuy ra:\n+) x = 9;\n+) \\frac{y}{2}=9 do đó y = 9.2 hay y = 18;\n+) \\frac{z}{3}=9 do đó z = 9.3 hay z = 27.\nVậy x = 9; y = 18; z = 27."
+    },
+    {
+        "problem": "Câu 19. Khẳng định nào dưới đây thể hiện hai đại lượng tỉ lệ thuận với nhau?\nA. Chiều dài và chiều rộng của hình chữ nhật có diện tích cho trước;\nB. Năng suất lao động và thời gian để làm xong một công việc;\nC. Vận tốc và thời gian khi đi trên cùng một quãng đường;\nD. Chu vi và bán kính của một đường tròn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nCông thức tính diện tích hình chữ nhật có chiều dài a và chiều rộng b là S = a.b. Do đó chiều dài và chiều rộng của hình chữ nhật có diện tích cho trước là hai đại lượng tỉ lệ nghịch. \nNăng suất lao động và thời gian để làm xong một công việc là hai đại lượng tỉ lệ nghịch.\nCông thức tính quãng đường khi di chuyển với vận tốc v và thời gian t là S = vt, do đó vận tốc và thời gian khi đi trên cùng một quãng đường là hai đại lượng tỉ lệ nghịch.\nCông thức tính chu vi C của đường tròn có bán kính R là C = π.2R nên chu vi đường tròn tỉ lệ thuận với bán kính R theo hệ số tỉ lệ là π. Do đó phương án D là đúng."
+    },
+    {
+        "problem": "Câu 20. Chọn câu đúng.\nCho biết 9x = 5y và 3x – 2y = 12. Giá trị x và y là:\nA. x = 5; y = 9;\nB. x = 2; y = 3;\nC. x = − 20; y = −36;\nD. x = 20; y = 36.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ đẳng thức 9x = 5y suy ra tỉ lệ thức \\frac{x}{5}=\\frac{y}{9}.\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{5}=\\frac{y}{9}=\\frac{3x}{15}=\\frac{2y}{18}=\\frac{3x−2y}{15−18}=\\frac{12}{−3}=−4.\nDo đó:\n+) \\frac{x}{5}=−4 do đó x = (−4).5 = −20;\n+) \\frac{y}{9}=−4 do đó y = (−4).9 = −36.\nVậy x = − 20; y = −36."
+    },
+    {
+        "problem": "Câu 21. Cho biết x và y là hai đại lượng tỉ lệ thuận. Biết hai giá trị x1, x2 của x có tổng bằng 6 thì hai giá trị tương ứng y1, y2 của y có tổng bằng – 2. Hai đại lượng x và y liên hệ với nhau bằng công thức nào?\nA. y = 3x;\nB. y = −x;\nC. y=\\frac{1}{3}x;\nD. y=−\\frac{1}{3}x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nGiả sử y tỉ lệ thuận với x theo hệ số tỉ kệ k (k ≠ 0), khi đó ta có y = k.x.\nÁp dụng tính chất của hai đại lượng tỉ lệ thuận ta có \\frac{y1}{x1}=\\frac{y2}{x2}=k.\nÁp dụng tính chất dãy tỉ số bằng nhau ta có: k=\\frac{y1}{x1}=\\frac{y2}{x2}=\\frac{y1+y2}{x1+x2}=\\frac{−2}{6}=−\\frac{1}{3}.\nVậy k=−\\frac{1}{3}.\nDo đó hai đại lượng x và y liên hệ với nhau bởi công thức y=−\\frac{1}{3}x."
+    },
+    {
+        "problem": "Câu 22. Cứ 100 kg thóc thì cho 65 kg gạo. Hỏi 3 tấn thóc thì cho số kg gạo là:\nA. 1950 kg;\nB. 0,65 tấn;\nC. 35 kg;\nD. 6500 kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nVì khối lượng gạo y (kg) tỉ lệ thuận với khối lượng thóc x (kg) nên ta có y = kx.\nKhi x = 100 thì y = 65 nên 65 = k.100\nDo đó k=\\frac{65}{100}=0,65.\nVậy y = 0,65x\nĐổi 3 tấn = 3 000 kg.\nVới x = 3 000 thì y = 0,65.3000 = 1950 (kg).\nVậy với 3 tấn thóc thì cho 1950 kg gạo."
+    },
+    {
+        "problem": "Câu 23. Đại lượng y tỉ lệ nghịch với đại lượng x nếu:\nA. x = ay với hằng số a ≠ 0;\nB. y=\\frac{a}{x} với hằng số a ≠ 0;\nC. y = ax với hằng số a ≠ 0;\nD. y=\\frac{1}{x} với hằng số a ≠ 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nKhái niệm hai đại lượng tỉ lệ nghịch:\nNếu đại lượng y liên hệ với đại lượng x theo công thức y=\\frac{a}{x} hay xy = a (với a là một hằng số khác 0) thì ta nói y tỉ lệ nghịch với x theo hệ số tỉ lệ a."
+    },
+    {
+        "problem": "Câu 24. Ba đơn vị kinh doạn A, B, C góp vốn theo tỉ lệ 2; 4; 6. Sau một năm thu được tổng 1 tỉ 800 triệu đồng tiền lãi. Hỏi đơn vị B được chia bao nhiêu tiền lãi biết tiền lãi được chia tỉ lệ thuận với số vốn đã góp.\nA. 150 triệu đồng;\nB. 300 triệu đồng;\nC. 600 triệu đồng;\nD. 900 triệu đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nGọi số tiền lãi của ba đơn vị A, B, C được chia lần lượt là x, y, z (triệu đồng) (x, y, z > 0).\nTheo đề bài số tiền lãi của ba đơn vị được chia lần lượt tỉ lệ với vốn đã góp là 2; 4; 6 nên ta có: \\frac{x}{2}=\\frac{y}{4}=\\frac{z}{6}.\nTổng số tiền lãi là 1 tỉ 800 triệu đồng nên x + y + z = 1800 (triệu đồng)\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{x}{2}=\\frac{y}{4}=\\frac{z}{6}=\\frac{x+y+z}{2+4+6}=\\frac{1800}{12}=150.\nSuy ra: \\frac{y}{4}=150 do đó y = 150.4 hay y = 600.\nVậy số tiền lãi của đơn vị B là 600 triệu đồng."
+    },
+    {
+        "problem": "Câu 25. Bác Linh định mua 15 gói bánh với số tiền định trước. Nhưng khi đến siêu thị vào ngày lễ thì giá bánh tăng 25%. Hỏi với số tiền định trước đó thì chị Linh mua được bao nhiêu gói bánh?\nA. 8 gói;\nB. 10 gói;\nC. 12 gói;\nD. 14 gói.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nVì giá bánh tăng lên 25% nên giá bánh mới sẽ bằng 125% giá bánh gốc.\nTa có 125% = \\frac{5}{4}, do đó giá bánh mới bằng \\frac{5}{4} giá bánh gốc.\nGọi số gói bánh mà bác Linh sẽ mua được là x (gói). \nVì số gói bánh mua được tỉ lệ nghịch với giá tiền một gói bánh nên tỉ số của số gói bánh mua dự định với số gói bánh mua thực tế là \\frac{5}{4}. \nDo đó ta có: \\frac{15}{x}=\\frac{5}{4}.\nVậy số gói bánh mà bác Linh mua được là: x = \\frac{15.4}{5}=12 (gói).\nVậy bác Linh sẽ mua được 12 gói bánh."
+    },
+    {
+        "problem": "Câu 26. Một thợ mộc 1 tuần làm được 15 sản phẩm. Hỏi để làm được 45 sản phẩm thì cần bao nhiêu ngày? Biết năng suất làm việc của người thợ đó không thay đổi.\nA. 3 ngày;\nB. 12 ngày;\nC. 15 ngày;\nD. 21 ngày.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nĐổi 1 tuần = 7 ngày.\nGọi x (sản phẩm) và y (h) lần lượt là số sản phẩm và thời gian làm ra số sản phẩm tương ứng của người thợ mộc đó (x, y > 0; x, y ∈ℕ).\nVì số sản phẩm và thời gian làm số sản phẩm đó tỉ lệ thuận với nhau nên theo tính chất tỉ lệ thuận ta có: \\frac{x1}{y1}=\\frac{x2}{y2}. \nThay x1 = 15; y1 = 7; x2 = 45 ta có: \\frac{15}{7}=\\frac{45}{y2}\nSuy ra y2=\\frac{7.45}{15}=21\nVậy trong 21 ngày người thợ mộc đó sẽ làm được 45 sản phẩm."
+    },
+    {
+        "problem": "Câu 27. Cứ đổi 1 158 000 đồng Việt Nam thì được 50 đô la Mỹ.\n(Nguồn: https://portal.vietcombank.com.vn, cập nhật vào 18 giờ 30 phút ngày 07/5/2021)\nVậy nếu có 100 đô la Mỹ thì đổi được bao nhiêu tiền Việt Nam?\nA. 230 000 đồng;\nB. 2 316 000 đồng;\nC. 579 000 đồng;\nD. 5 790 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nGọi x (đô la) và y (đồng) lần lượt là số tiền đô la Mỹ và số tiền Việt Nam đổi ra tương ứng.\nSố tiền đô la Mỹ và số tiền Việt Nam tỉ lệ thuận với nhau nên theo tính chất tỉ lệ thuận ta có: \\frac{x1}{y1}=\\frac{x2}{y2}. \nThay x1 = 50; y1 = 1 158 000; x2 = 100 ta được: \\frac{50}{1}=\\frac{100}{y2}\nSuy ra y2=\\frac{1}{50}=2(đồng)\nVậy nếu có 100 đô la Mỹ, ta đổi được 2 316 000 (đồng) Việt Nam."
+    },
+    {
+        "problem": "Câu 28. Để thu được một loại đồng thau, người ta pha chế đồng và kẽm nguyên chất theo tỉ lệ 6 : 4. Tính khối lượng đồng nguyên chất cần thiết để sản xuất 5 kg đồng thau.\nA. 0,5 kg;\nB. 2 kg;\nC. 3 kg;\nD. 4 kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nGọi x (kg) và y (kg) lần lượt là khối lượng đồng và kẽm cần thiết để sản xuất 10 kg đồng thau (x > 0, y > 0).\nTheo đề bài ta có x + y = 10 và \\frac{x}{6}=\\frac{y}{4}.\nÁp dụng tính chất của dãy tỉ số bằng nhau ta có:\n\\frac{x}{6}=\\frac{y}{4}=\\frac{x+y}{6+4}=\\frac{5}{10}=0,5\nSuy ra \\frac{x}{6}=0,5 do đó x = 6.0,5 = 3; \nVậy khối lượng đồng nguyên chất cần thiết để sản xuất 5 kg đồng thau lần lượt là 3 kg."
+    },
+    {
+        "problem": "Câu 29. Bạn Minh mua tổng cộng 34 quyển vở gồm ba loại: loại 120 trang giá 6 nghìn đồng một quyển, loại 200 trang giá 9 nghìn đồng một quyển và loại 240 trang giá 10 nghìn đồng một quyển. Hỏi Minh mua bao nhiêu quyển vở loại 240 trang, biết rằng số tiền bạn ấy dành để mua mỗi loại vở là như nhau?\nA. 20 quyển;\nB. 15 quyển;\nC. 10 quyển;\nD. 9 quyển.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nGọi số vở Minh mua ba loại 120 trang, 200 trang và 240 trang lần lượt là x, y, z quyển (x, y, z > 0 và x, y, z ∈ℕ).\nBạn Minh mua tổng cộng 34 quyển vở nên ta có x + y + z = 34.\nDo số tiền Minh dành để mua mỗi loại vở là như nhau nên 6x = 9y = 10z. \nDo đó \\frac{x}{\\frac{1}{6}}=\\frac{y}{\\frac{1}{9}}=\\frac{z}{\\frac{1}{10}}.\nÁp dụng tính chất của dãy tỉ số bằng nhau ta có:\n\\frac{x}{\\frac{1}{6}}=\\frac{y}{\\frac{1}{9}}=\\frac{z}{\\frac{1}{10}}=\\frac{x+y+z}{\\frac{1}{6}+\\frac{1}{9}+\\frac{1}{10}}=\\frac{x+y+z}{\\frac{15}{90}+\\frac{10}{90}+\\frac{9}{90}}=\\frac{34}{\\frac{34}{90}}=90.\nSuy ra: \\frac{z}{\\frac{1}{10}}=90 do đó z=90.\\frac{1}{10} hay z = 9;\nVậy Minh mua 9 quyển loại 240 trang."
+    },
+    {
+        "problem": "Câu 30. Biết \\frac{x+1}{3}=\\frac{y−2}{4}=\\frac{z−1}{13} và 2x – 3y + z = 42. Giá trị của x, y, z là:\nA. x = 20; y = 30; z = −92; \nB. x = −20; y = 30; z = 92;\nC. x = 20; y = 30; z = 92;\nD. x = 20; y = −30; z = 92.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTừ dãy tỉ số bằng nhau \\frac{x+1}{3}=\\frac{y−2}{4}=\\frac{z−1}{13} suy ra \\frac{2x+1}{6}=\\frac{3y−2}{12}=\\frac{z−1}{13}\nHay \\frac{2x+2}{6}=\\frac{3y−6}{12}=\\frac{z−1}{13}\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\frac{2x+2}{6}=\\frac{3y−6}{12}=\\frac{z−1}{13}=\\frac{2x+2−3y−6+z−1}{6−12+13}=\\frac{2x+2−3y+6+z−1}{7}\n=\\frac{2x−3y+z+7}{7}=\\frac{42+7}{7}=\\frac{49}{7}=7\nSuy ra:\n+) \\frac{2x+2}{6}=7 do đó 2x + 2 = 7.6 = 42 suy ra 2x = 42 – 2 = 40 nên x = 40 : 2 = 20;\n+) \\frac{3y−6}{12}=7 do đó 3y – 6 = 7.12 = 84 suy ra 3y = 84 + 6 = 90 nên y = 90 : 3 = 30;\n+) \\frac{z−1}{13}=7 do đó z – 1 = 7.13 = 91 suy ra z = 91 + 1 = 92.\nVậy x = 20; y = 30; z = 92."
+    }
+]

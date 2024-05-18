@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "A.MN; MQ; NQ; ML; LP; MP; NP; QL\nB.MN; QL; MQ; NQ; ML; LP; MP\nC.MN; MQ; NQ; ML; QL; MP; NP\nD.MN; MQ; ML; MP; NP",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác đoạn thẳng có trên hình vẽ là:\nMN; MQ; NQ; ML; LP; MP; NP; QL \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2: Nếu một đoạn thẳng cắt một tia thì đoạn thẳng và tia có bao nhiêu điểm chung?\nA.1 \nB.2 \nC.0 \nD.Vô số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNếu một đoạn thẳng cắt một tia thì đoạn thẳng và tia có duy nhất một điểm chung.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3: Cho 10 điểm phân biệt trong đó không có ba điểm nào thẳng hàng, cứ qua hai điểm ta vẽ một đoạn thẳng. Hỏi vẽ được tất cả bao nhiêu đoạn thẳng?\nA.10 \nB.90\nC.40 \nD.45",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố đoạn thẳng cần tìm là\n\\frac{10.10−1}{2}=45 đoạn thẳng\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4: Cho nn điểm phân biệt (n ≥ 2; n ∈ N) trong đó không có ba điểm nào thẳng hàng. Vẽ các đoạn thẳng nối hai trong n điểm đó. Có tất cả 28 đoạn thẳng. Hãy tìm n.\nA.n = 9.\nB.n = 7.\nC.n = 8.\nD.n = 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố đoạn thẳng tạo thành từ nn điểm phân biệt trong đó không có ba điểm nào thẳng hàng là\n\\frac{nn−1}{2}(n≥2;n∈N)\nTheo đề bài có 2828 đoạn thẳng được tạo thành nên ta có\n\\frac{nn−1}{2}=28⇒nn−1=56=8.7\nNhận thấy ( n − 1) và n là hai số tự nhiên liên tiếp, suy ra n = 8.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5: Đường thẳng xx′ cắt bao nhiêu đoạn thẳng trên hình vẽ sau\nA.3\nB.4\nC.5 \nD.6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐường thẳngxx′cắt năm đoạn thẳngOA; OB; AB; MA; MB\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7: Cho E là điểm nằm giữa hai điểm I và K. Biết rằng IE = 4cm, EK = 10cm.Tính độ dài đoạn thẳng IK.\nA.4cm\nB.7cm\nC.6cm\nD.14cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì E là điểm nằm giữa hai điểm I và K nên ta có IE + EK = IK\nHay 4 + 10 = IK suy ra IK = 14cm.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8: Gọi I là một điểm thuộc đoạn thẳng MN. Khi IM = 4cm, MN = 7cm thì độ dài của đoạn thẳng IN là?\nA.3cm\nB.11cm\nC.1,5cm\nD.5cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì I là một điểm thuộc đoạn thẳng MN nên I là điểm nằm giữa hai điểm M;N.\nDo đó ta có MI + IN = MN mà IM = 4cm, MN = 7cm nên4 + IN = 7 ⇒ IN = 7 – 4 \n⇒IN = 3cm.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10: Cho các đoạn thẳng AB = 4cm; MN = 5cm; EF = 3cm; PQ = 4cm; IK = 5cm. Chọn đáp án sai.\nA.AB < MN\nB.EF < IK\nC.AB = PQ\nD.AB = EF",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Đáp án A: AB < MN là đúng vì AB = 4cm < 5cm = MN.\n+ Đáp án B: EF < IK là đúng vì EF = 3cm < 5cm = IK \n+ Đáp án C: AB = PQ là đúng vì hai đoạn cùng có độ dài 4cm\n+ Đáp án D: AB = EF là sai vì AB = 4cm > 3cm = EF.\nĐáp án cần chọn là: D"
+    }
+]

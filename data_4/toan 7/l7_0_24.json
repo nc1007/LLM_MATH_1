@@ -1,0 +1,140 @@
+[
+    {
+        "problem": "Câu 2. Năm có GDP thấp nhất của Liên Bang Nga là:\nA. 1990;\nB. 967,3;\nC. 2000;\nC. 2004.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNăm có GDP cao nhất của Liên Bang Nga là 2000 (259,7 tỉ USD)."
+    },
+    {
+        "problem": "Câu 3. GDP của năm 2000 là:\nA. 967,3 ;\nB. 582,4 ; \nC. 259,7 ;\nD. 363,9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGDP của năm 2000 là 259,7 tỉ USD."
+    },
+    {
+        "problem": "Câu 4. Lan liệt kê năm sinh một số thành viên trong gia đình để làm bài tập môn Toán 7, được dãy dữ liệu như sau: \n1971 2021 1999 2050\nGiá trị chưa hợp lí trong dãy dữ liệu về năm sinh của các thành viên trong gia đình An là\nA. 1971; \nB. 2050; \nC. 2021; \nD. 1999.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nHiện tại là năm 2022, vì thế năm 2050 chưa xảy ra.\nDo đó, giá trị chưa hợp lí trong dãy dữ liệu về năm sinh của các thành viên trong gia đình An là 2050."
+    },
+    {
+        "problem": "Câu 5. Trong các dữ liệu sau, dữ liệu nào không phải là dữ liệu định lượng?\nA. Cân nặng của trẻ sơ sinh (đơn vị tính là gam): 4000; 2500; 5000…; \nB. Quốc tịch của các học sinh trong một trường quốc tế: Việt Nam, Lào, Campuchia...;\nC. Chiều cao trung bình của một số loại thân cây gỗ (đơn vị tính là mét): 7; 8; 9,3…;\nD. Số học sinh đeo kính trong một số lớp học (đơn vị tính là học sinh): 20; 10; 15…",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nDữ liệu định lượng được biểu diễn bằng số thực.\nDo đó, quốc tịch của các học sinh trong một trường quốc tế: Việt Nam, Lào, Campuchia,... không phải dữ liệu định lượng."
+    },
+    {
+        "problem": "Câu 6. An đã thực hiện một thí nghiệm đơn giản để ghi lại số lần mặt ngửa xuất hiện, tỉ lệ phần trăm: Gieo một đồng xu 5 lần và ghi lại kết quả như bảng bên:\nMặt\nSố lần\nTỉ lệ phần trăm\nMặt sấp\n3\n60%\nMặt ngửa\n2\n50%\nTheo em, An đã lập bảng trên dữ liệu nào chưa hợp lí?\nA. Mặt;\n B. Số lần; \n C. Tỉ lệ phần trăm;\n D. Tất cả các đúng án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 60% + 50% =110% > 100%.\nDo đó, An đã lập bảng trên dữ liệu chưa hợp lí là tỉ lệ phần trăm vì tổng tỉ lệ phần trăm của 2 mặt phải bằng 100%."
+    },
+    {
+        "problem": "Câu 7. An đã thực hiện một thí nghiệm đơn giản để ghi lại số lần mặt ngửa xuất hiện, tỉ lệ phần trăm: Gieo một đồng xu 5 lần và ghi lại kết quả như bảng bên:\nMặt\nSố lần\nTỉ lệ phần trăm\nMặt sấp\n3\n60%\nMặt ngửa\n2\n50%\nDữ liệu định lượng trong bảng là:\nA. Mặt sấp, mặt ngửa;\nB. 3; 2;\nC. 60%; 50%;\nD. Cả B và C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDữ liệu định lượng được biểu diễn bằng số thực.\nDữ liệu định lượng trong bảng là: 3; 2; 60%; 50%. \nDo đó đáp án B và C đều đúng.\nVậy đáp án D đúng."
+    },
+    {
+        "problem": "Câu 8. Các môn thể thao ưa thích của học sinh nữ lớp 7B ghi lại trong bảng sau:\nMôn thể thao\nSố bạn ưa thích\nCầu lông\n5\nBóng bàn\n3\nBóng đá\n2\nĐá cầu\n4\nBóng rổ\n3\nMôn thể thao ưa thích nhất của học sinh nữ lớp 7B là:\nA. Cầu lông;\nB. Bóng bàn; \nC. Đá cầu; \nD. Bóng đá.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa thấy trong bảng thống kê số bạn yêu thích môn cầu lông là nhiều nhất (5 học sinh). \nVậy môn thể thao ưa thích nhất của học sinh nữ lớp 7B là cầu lông (5 học sinh)."
+    },
+    {
+        "problem": "Câu 10. Dựa vào biểu đồ hình quạt tron trên, hãy điền vào ô còn thiếu trong bảng dưới đây:\nMôn học\nToán\nNgữ >Văn\nTiếng Anh\nMỹ thuật\nÂm nhạc\nVật Lý\nSố lượng>\n30%\n12,5%\n10%\n15%\n7,5%\nA. 30%;\nB. 25%;\nC. 10%;\nD. 15%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nQuan sát biểu đồ ta thấy Tiếng Anh được biểu thị bằng màu xanh lá cây và có tỉ lệ là 25% nên ô còn trống là 25%."
+    },
+    {
+        "problem": "Câu 11. Tỉ lệ phần trăm của môn học được yêu thích nhất là?\nA. 30%;\nB. 25%;\nC. 10%;\nD. 15%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa thấy 30% > 25% > 15% > 12,5% > 10% > 7,5% \nDo đó 30% là lớn nhất. \nVậy môn học yêu thích nhất là Toán (30%)."
+    },
+    {
+        "problem": "Câu 12. Tổng tỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật bằng với tỉ lệ phần trăm môn nào?\nA. Tiếng Anh;\nB. Ngữ văn;\nC. Toán;\nD. Âm nhạc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: >A\nTỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật lần lượt là: 15% và 10%.\nTổng tỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật là:\n15% + 10% = 25% \nMà môn Tiếng Anh có tỉ lệ phần trăm bằng 25%.\nVậy tổng tỉ lệ phần trăm của môn Âm nhạc và môn Mỹ thuật bằng với tỉ lệ phần trăm môn Tiếng Anh."
+    },
+    {
+        "problem": "Câu 14. Số lượng học sinh các khối lớp của trường THCS Nguyễn Siêu được thống kê bằng bảng dưới đây: \nLớp\nA\nB\nC\n29\n29\n28\n26\n27\n28\n32\n34\n36\n34\n33\n33\n Dãy số liệu nào thể hiện số lượng học sinh của các khối: 6; 7; 8; 9?\nA. 86; 81; 102; 100; \nB. 100; 102; 81; 86 ;\nC. 86; 102; 81; 100; \nD. 100; 81; 102; 86.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: >A\nSố học sinh khối 6 là: \n29 + 29 + 28 = 86 (học sinh).\nSố học sinh khối 7 là: \n26 + 27 + 28 = 81 (học sinh).\nSố học sinh khối 8 là: \n32 + 34 + 36 = 102 (học sinh).\nSố học sinh khối 9 là: \n34 + 33 + 33 = 100 (học sinh).\nDo đó, đáp án A đúng."
+    },
+    {
+        "problem": "Câu >15>.Điều tra tuổi của 20 bé đăng kí tiêm chủng tại phường 15 trong một buổi sáng, người ta thu được bảng số liệu ban đầu như sau:\n2\n3\n4\n2\n2\n3\n4\n5\n1\n2\n3\n4\n1\n−2\n2\n−3\n4\n2\n5\n3\nGiá trị chưa hợp lí trong dữ liệu về tuổi của 20 bé đăng kí tiêm chủng tại phường 15 trong một buổi sáng là:\nA. 2; 4; \nB. −2; −3; \nC. 1; 3; \nD. 2; 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTuổi của một con người không thể là số âm. Nên giá trị chưa hợp lí trong dữ liệu về tuổi của 20 bé đăng kí tiêm chủng tại phường 15 trong một buổi sáng là −2; −3."
+    },
+    {
+        "problem": "Câu 16. Thầy giáo theo dõi thời gian giải một bài toán của một nhóm 10 học sinh trong lớp và ghi lại trong bảng sau: \nThứ tự số học sinh\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nThời gian (phút)\n5\n7\n6\n8\n9\n9\n10\n6\n7\n8\nDãy s>ố liệu nào dưới đây thể hiện thời gian giải một bài toán của nhóm 10 học sinh?\nA. 1; 2; 3; 4; 5; 6; 7; 8; 9;\nB. 1; 2; 3; 4; 5; 6; 7; 8; 9; 10;\nC. 5; 7; 6; 8; 9; 9; 10; 6; 7; 8; \nD. 5; 7; 6; 8; 9; 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDãy số liệu thể hiện thời gian giải một bài toán của nhóm 10 học sinh là: 5; 7; 6; 8; 9; 9; 10; 6; 7; 8."
+    },
+    {
+        "problem": "Câu 17. Tân đun nước và đo nhiệt độ của nước tại một số thời điểm sau khi bắt đầu đun được kết quả như sau:\nThời điểm\n5\n6\n7\n8\n9\n10\n11\nNhiệt độ (^{o} C)\n70\n76\n78\n80\n90\n100\n−105\nGiá trị nào chưa hợp lí trong dữ liệu về nhiệt độ của nước mà An thu được? \nA. 70; \nB. 100;\nC. −105; \nD. 78.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nKhi đun sôi nước nhiệt độ của nước trong ấm phải lớn hơn 0^{o} C. Nên giá trị chưa hợp lí trong dữ liệu về nhiệt độ của nước mà An thu được là −105."
+    },
+    {
+        "problem": "Đơn vị số liệu là ^{o} C.\nCho bảng thống kê về Doanh số bán hàng của cửa hàng thóc gạo tháng 3/2022 như dưới đây. Hãy trả lời các câu 19, 20:\nSản phẩm\nDoanh thu (triệu đồng)\nTỉ lệ (%)\nGạo\n15\n50%\nThóc\n6 \nSản phẩm khác\n9\nCâu 19. Tỉ lệ phần trăm doanh thu bán hàng của gạo là:\nA. 20%;\nB. 33%;\nC. 50%;\nD. 30%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTổng doanh thu tháng 3/2022 là: \n15 + 6 + 9 = 30 (triệu đồng)\nTỉ lệ phần trăm doanh thu bán hàng của gạo (làm tròn đến hàng đơn vị) là: \n15 : 30 . 100% = 50%"
+    },
+    {
+        "problem": "Câu 20. Tỉ lệ phần trăm doanh thu bán hàng của thóc là:\nA. 20%;\nB. 33%;\nC. 50%;\nD. 30%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTổng doanh thu tháng 3/2022 là: \n15 + 6 + 9 = 30 (triệu đồng)\nTỉ lệ phần trăm doanh thu bán hàng của thóc là: \n6 : 30 . 100% = 20%."
+    },
+    {
+        "problem": "Câu 22. Tỉ lệ phần trăm chỉ số phần quạt tròn màu lá cây trong biểu đồ hình quạt tròn là:\nA. 30%;\nB. 15%;\nC. 50%;\nD. 17%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTỉ lệ phần trăm chỉ số phần quạt tròn màu lá cây trong biểu đồ hình quạt tròn là tỉ lệ bánh bông lan bán được trong ngày 01/03/2022 và bằng 50%."
+    },
+    {
+        "problem": "Câu 24. Môn thể thao được yêu thích nhất của học sinh khối 7 là:\nA. Cờ vua;\nB. Bơi;\nC. Đá cầu;\nD. Cả 3 môn trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa thấy 20% <30% < 50%\nDo đó 50% là lớn nhất.\nMôn thể thao được yêu thích nhất của học sinh khối 7 là Bơi (50%)."
+    },
+    {
+        "problem": "Câu 25. Môn thể thao ít được yêu thích nhất trong các 3 môn thể thao của học sinh khối 7 là:\nA. Cờ vua;\nB. Bơi;\nC. Đá cầu;\nD. Cả 3 môn trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa thấy 20% <30% < 50%\nDo đó 20% là ít nhất.\nVậy môn thể thao ít được yêu thích nhất trong ba môn thể thao của học sinh khối 7 là Cờ vua (20%)."
+    },
+    {
+        "problem": "Câu 26. Tỉ lệ phần trăm học sinh yêu thích môn Đá cầu là:\nA. 30%;\nB. 20%\nC. 50%;\nD. 10%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTỉ lệ phần trăm học sinh yêu thích môn Đá cầu là 30%."
+    },
+    {
+        "problem": "Câu 27. Nhận xét nào sau đây là đúng?\nA. Tổng số học sinh thích Đá cầu và Cờ vua bằng với số học sinh thích Bơi;\nB. Số học sinh thích Bơi là ít nhất;\nC. Số học sinh thích Cờ vua là nhiều nhất;\nD. Tỉ lệ phần trăm học sinh yêu thích môn Đá cầu là 20%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\n- Tổng số học sinh thích Đá cầu và Cờ vua bằng với số học sinh thích Bơi (Vì 30% + 20% = 50%). Do đó, đáp án A đúng.\n- Số học sinh thích Bơi là ít nhất. Do đó, đáp án B sai.\n- Số học sinh thích Cờ vua là nhiều nhất. Do đó, đáp án C sai.\n- Tỉ lệ phần trăm học sinh yêu thích môn Đá cầu là 20%. Do đó, đáp án D sai.\nVậy đáp án A đúng."
+    },
+    {
+        "problem": "Câu 29. Tỉ lệ phần trăm của môn Cờ vua là: \nA. 25%;\nB. 15%;\nC. 50%;\nD. 60%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTỉ lệ phần trăm của môn Cờ vua là 25%."
+    },
+    {
+        "problem": "Câu 30. Tỉ lệ phần trăm học sinh nam lớp 7A yêu thích môn Bơi là: \nA. 25%;\nB. 15%;\nC. 50%;\nD. 60%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTỉ lệ phần trăm học sinh nam lớp 7A yêu thích môn Bơi là 25%."
+    }
+]

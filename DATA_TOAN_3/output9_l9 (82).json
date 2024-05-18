@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Cho ba đường thẳng \\(y = 3x - 1\\) và \\(y =  - x + 2\\)và \\(y =  - x - 3\\). Hãy nêu các cặp đường thẳng song song; các cặp đường thẳng cắt nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho hai đường thẳng \\(y = ax + b;\\,\\,y = a'x + b'\\,\\,\\left( {a,a' \\ne 0} \\right)\\)\nHai đường thẳng này song song với nhau khi và chỉ khi \\(\\left\\{ \\begin{array}{l}a = a'\\\\b \\ne b'\\end{array} \\right.\\)\nHai đường thẳng cắt nhau khi và chỉ khi \\(a \\ne a'\\)\nLời giải chi tiết\nCác cặp đường thẳng song song là: \\(y =  - x + 2\\) và \\(y =  - x - 3\\).\nCác cặp đường thẳng cắt nhau là:\nCặp 1: \\(y = 3x - 1\\) và \\(y =  - x + 2\\)\nCặp 2: \\(y = 3x - 1\\) và\\(y =  - x - 3\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đường thẳng y = 4x – 2 có hệ số góc là bao nhiêu ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đường thẳng \\(y = ax + b\\,\\,\\) có hệ số góc là a.\nLời giải chi tiết\nĐường thẳng y = 4x – 2  có hệ số góc là 4.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy nêu các cặp đường thẳng song song và các cặp đường thẳng cắt nhau trong các đường thẳng sau :\n\\(\\left( {{d_1}} \\right):y = 2x - 1\\);                           \\(\\left( {{d_2}} \\right):y = 1,5x + 4\\);\n\\(\\left( {{d_3}} \\right):y =  - 1,5x - 3\\);                       \\(\\left( {{d_4}} \\right):y = 2x + 5\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho hai đường thẳng \\(y = ax + b;\\,\\,y = a'x + b'\\,\\,\\left( {a,a' \\ne 0} \\right)\\)\nHai đường thẳng này song song với nhau khi và chỉ khi \\(\\left\\{ \\begin{array}{l}a = a'\\\\b \\ne b'\\end{array} \\right.\\)\nHai đường thẳng cắt nhau khi và chỉ khi \\(a \\ne a'\\)\nLời giải chi tiết\nCặp đường thẳng song song với nhau là: \\(\\left( {{d_1}} \\right):y = 2x - 1\\) và\\(\\left( {{d_4}} \\right):y = 2x + 5\\) Các cặp đường thẳng cắt nhau là: \\(\\left( {{d_1},{d_2}} \\right);\\left( {{d_1},{d_3}} \\right);\\,\\,\\left( {{d_2},{d_3}} \\right);\\,\\,\\left( {{d_2},{d_4}} \\right);\\)\\(\\,\\,\\left( {{d_3},{d_4}} \\right)\\)\nLoigiaihay.com"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Bỏ dấu ngoặc rồi tính các tổng sau:\na) (62 - 81) – (12 – 59 + 9);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Khi bỏ ngoặc:\n+Giữ nguyên dấu của các số hạng trong ngoặc nếu trước dấu ngoặc co dấu +\n+Đổi dấu tất cả các số hạng trong ngoặc nếu trước dấu ngoặc là dấu –\n*Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\n*Muốn cộng 2 số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu – trước kết quả\n*Nhóm các số hạng có kết quả là số “đẹp” với nhau để dễ tính\nLời giải chi tiết\na) (62 - 81) – (12 – 59 + 9)\n= 62 – 81 – 12 + 59 – 9\n= (62 – 12) – (81 + 9) + 59\n= 50 – 90 + 59\n= - (90 – 50) + 59\n= - 40 + 59\n= 59 – 40\n= 19\nb) 39 + (13 – 26) – (62 + 39)\n= 39 + 13 – 26 – 62 – 39\n= (39 – 39) – (26 + 62) + 13\n= 0 – 88 + 13\n= - 88 + 13\n= - (88 – 13)\n= - 75.\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 32 – 34 + 36 – 38 + 40 – 42;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các số hạng theo các cặp hợp lí\nLời giải chi tiết\na) 32 – 34 + 36 – 38 + 40 – 42\n= (32 – 34) + (36 – 38) + (40 – 42)\n= - (34 – 32) – (38 – 36) – (42 – 40)\n= - 2 – 2 – 2\n= - (2 + 2 + 2)\n= - 6.\nb) 92 – (55 – 8) + (-45)\n= 92 – 55 + 8 – 45\n= (92 + 8) – (55 + 45)\n= 100 – 100\n= 0."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 386 – (287 + 386) – (13 + 0);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Khi bỏ ngoặc:\n+Giữ nguyên dấu của các số hạng trong ngoặc nếu trước dấu ngoặc có dấu +\n+Đổi dấu tất cả các số hạng trong ngoặc nếu trước dấu ngoặc là dấu –\n*Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\n*Muốn cộng 2 số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu – trước kết quả\n*Nhóm các số hạng có kết quả là số “đẹp” với nhau để dễ tính\nLời giải chi tiết\na) 386 – (287 + 386) – (13 + 0)\n= 386 – 287 – 386 – 13\n= (386 – 386) – (287 + 13)\n= 0 – 300\n= - 300\nb) 332 – (681 + 232 – 431)\n= 332 – 681 – 232 + 431\n= (332 – 232) – (681 – 431)\n= 100 – 250\n= - (250 – 100)\n= - 150.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các số hạng theo cặp 1 cách hợp lí\nLời giải chi tiết\nCác số nguyên thỏa mãn -20 ≤ x ≤ 20 là:  -19; -18;….; 0; 1; 2; 3;…; 19; 20.\nVì \\(x \\in M\\) nên M = {-19; -18;….; 0; 1; 2; 3;…; 19; 20}\nTa có tổng các phần tử của tập hợp M là:\n(-19) + (-18) + (-17) +….+ 0 + 1 + 2 + … + 19 + 20\n= [(-19) + 19] + [(-18) + 18] +… + [(-1) + 1] + (0 + 20)\n= 0 + 0 + … + 0 + 20\n= 20\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy ba số bất kì trong 5 số nguyên. Tổng của chúng là 1 số âm\nTiếp tục quá trình đó\nLời giải chi tiết\nLấy ba số bất kì trong 5 số nguyên.\nVì tổng của ba số bất kì trong chúng luôn là số nguyên âm nên trong ba số này phải có 1 số nguyên âm. Gọi số âm đó là a. Tiếp tục lấy 3 số khác a trong các số đã cho( ba số vừa lấy phải có một số nguyên âm). Gọi số đó là b (theo cách chọn, ta có b khác a).\nGọi c là tổng của ba số còn lại (khác a và b) là số nguyên âm.\nKhi đó tổng của năm số đã cho đúng bằng a + b + c\nVì a là số nguyên âm, b là số nguyên âm, c là số nguyên âm.\nDo đó tổng của ba số nguyên âm là số nguyên âm hay a + b + c là số nguyên âm.\nVậy tổng của năm số đó là số nguyên âm.\nLời giải hay"
+    },
+    {
+        "problem": "Tính tích 115. 8. Từ đó suy ra các tích sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tích của 1 số âm với 1 số dương là 1 số âm\n+Tích của 1 số âm và 1 số âm là 1 số dương\nLời giải chi tiết\nTa có: 115. 8 = 920\na) (-115). 8 = - (115. 8) = -920\nb) 115. (-8) = - (115.8) = -920\nc) (-115). (-8) = 115. 8 = 920.\nLời giải hay"
+    },
+    {
+        "problem": "Không thực hiện phép tính, hãy so sánh mỗi tích sau với 0:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tích của 1 số âm với 1 số dương là 1 số âm\n+Tích của 1 số âm và 1 số âm là 1 số dương\nLời giải chi tiết\na) 287. 522\nVì 287 và 522 là hai số nguyên cùng dấu khác 0 nên 287. 522 > 0.\nb) (-375). 959\nVì -375 và 522 là hai số nguyên trái dấu khác 0 nên (-375). 959 < 0.\nc) (-278). (-864)\nVì (-278) và (-864) là hai số nguyên cùng dấu khác 0 nên (-278). (-864) > 0\nLời giải hay"
+    },
+    {
+        "problem": "So sánh:\na) (+32).(-25) với (-7).(-8);\nb) (-44).(-5) với (-11).(-20);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tích của 1 số âm với 1 số dương là 1 số âm\n+Tích của 1 số âm và 1 số âm là 1 số dương\nLời giải chi tiết\na) Vì +32 và (-25) là hai số nguyên trái dấu khác 0 nên (+32). (-25) < 0 (*)\nVì (-7) và (-8) là hai số nguyên cùng dấu khác 0 nên (-7). (-8) > 0 (**)\nTừ (*) và (**), ta có: (+32). (-25) < (-7). (-8)\nVậy (+32). (-25) < (-7). (-8)\nb) Ta có: (-44). (-5) = (-11). 4. (-5) = (-11). [4. (-5)] = (-11). [– (4.5)] = (-11). (-20)\nVậy (-44). (-5) = (-11). (-20)\nc) Ta có: (- 24). (+25) = - (24. 25) = - 600\n(+30). (-21) = - (30. 21) = - 630\nVì 600 < 630 nên -600 > -630. Do đó (-24). (+25) > (+30). (-21).\nVậy (-24). (+25) > (+30). (-21)."
+    },
+    {
+        "problem": "Cho a là một số nguyên âm. Hỏi b là số nguyên dương hay nguyên âm nếu:\na) Tích a. b là một số nguyên dương?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tích của 1 số âm với 1 số dương là 1 số âm\n+Tích của 1 số âm và 1 số âm là 1 số dương\nLời giải chi tiết\na) Tích a. b là một số nguyên dương thì a và b cùng dấu\nMà a là số nguyên âm nên b là số nguyên âm.\nVậy b là số nguyên âm.\nb) Tích a. b là một số nguyên âm thì a và b trái dấu\nMà a là số nguyên âm nên b là số nguyên dương.\nVậy b là số nguyên dương."
+    },
+    {
+        "problem": "Tìm số nguyên x, biết:\na) 9. (x + 28) = 0;\nb) (27 – x). (x + 9) = 0;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1 tích bằng 0 khi có thừa số của nó =0\nLời giải chi tiết\na) 9. (x + 28) = 0\nx + 28 = 0: 9\nx + 28 = 0\nx = 0 – 28\nx = -28\nVậy x = -28.\nb) (27 – x). (x + 9) = 0\nSuy ra 27 - x = 0 hoặc x + 9 = 0\n*Trường hợp 1:\n27 – x = 0\nx = 27 – 0\nx = 27\n*Trường hợp 2:\nx + 9 = 0\nx = 0 - 9\nx = -9\nVậy \\(x \\in \\{ 27; - 9\\} \\)\nc) (-x). (x – 43) = 0\nSuy ra - x = 0 hoặc x - 43 = 0\n*Trường hợp 1:\n– x = 0\nx = 0\n*Trường hợp 2:\nx - 43 = 0\nx = 0 + 43\nx = 43\nVậy \\(x \\in \\{ 0;43\\} \\)\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) (29 – 9). (-9) + (-13 – 7). 21;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tính trong ngoặc trước hoặc sử dụng tính phân phối giữa phép nhân và phép cộng, rồi ghép nhóm phù hợp\nLời giải chi tiết\na) (29 – 9). (-9) + (-13 – 7). 21\n= 20. (-9) + [- (13 + 7). 21]\n= 20. (-9) + (-20). 21\n= (-20). 9 + (-20). 21\n= (-20). (9 + 21)\n= (-20). 30\n= - (20. 30)\n= - 600.\nb) (-157). (127 – 316) – 127. (316 – 157)\n= (- 157). 127 + (-157). (-316) + (–127). 316 + (-127). (-157)\n= -157. 127 + 157. 316 – 127. 316 + 127. 157\n= [- (127. 157) + 127. 157] + (157. 316 – 127. 316)\n= 0 + 316. (157 – 127)\n= 316. 30\n= 9 480.\nLời giải hay"
+    },
+    {
+        "problem": "Một xí nghiệp may chuyển đổi may mẫu quần áo kiểu mới. Biết rằng số vải để may mỗi bộ quần áo theo mẫu mới tăng thêm x (dm) so với mẫu cũ. Hỏi trong mỗi trường hợp sau, số vải dùng để may 420 bộ quần áo theo mẫu mới tăng thêm bao nhiêu đề - xi – mét?\na) x = 18;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để may mỗi bộ quần áo kiểu mới, số vải cần dùng tăng thêm x (dm) nên để may 420 bộ, số vải cần dùng tăng thêm 420. x (dm).\nLời giải chi tiết\nĐể may mỗi bộ quần áo kiểu mới, số vải cần dùng tăng thêm x (dm) nên để may 420 bộ, số vải cần dùng tăng thêm 420. x (dm).\na) Khi x = 18 dm, số vải tăng thêm là: 420. 18 = 7 560 (dm);\nb) Khi x = -7 dm, số vải tăng thêm là: 420. (-7) = - 2 940 (dm), tức là số vải cần dùng ít hơn 2 940 dm so với may theo kiểu cũ.\nVậy với x = 18, số vải cần may thêm là 7 560 dm\nvới x = -7 số vải cần dùng ít hơn 2 940 dm so với may kiểu cũ.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy ba số bất kì trong 5 số nguyên. Tích của chúng là 1 số âm\nTiếp tục quá trình đó\nLời giải chi tiết\nVì tích của ba số tùy ý trong 5 số đó luôn là số nguyên âm, do đó trong các số đã cho phải có 1 số nguyên âm. Gọi số nguyên âm ấy là a. Bốn số (khác a) còn lại cũng có tính chất: Tích của ba số bất kì trong chúng là số nguyên âm. Tương tự như vậy trong ba số đó có 1 số nguyên âm. Gọi số ấy là b ( b khác a).\nGọi c là tích của ba số còn lại (c khác a và b) là số nguyên âm.\nKhi đó tích của năm số đã cho đúng bằng a. b. c\nVì a là số nguyên âm, b là số nguyên âm nên a. b là số nguyên dương, c là tích của ba số là số nguyên âm nên c là số nguyên âm nên a. b. c là số nguyên âm\nDo đó tích của năm số đó là số nguyên âm.\nLời giải hay"
+    },
+    {
+        "problem": "Thực hiện phép chia:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia 2 số nguyên trái dấu được kết quả âm\nChia 2 số nguyên cùng dấu được kết quả dương\nLời giải chi tiết\na) 735: (-5) = - (735: 5) = - 147\nb) (-528): (-12) = 528: 12 = 44\nc) (- 2 020): 101 = - (2 020: 101) = - 20\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tìm các ước nguyên dương\n+Các ước bao gồm các ước nguyên dương và các số đối của chúng\n+Ước của k đồng thời là ước của -k\nLời giải chi tiết\n+) Ta có: 21 = 3. 7\nCác ước nguyên dương của 21 là: 1; 3; 7; 21\nTa có các ước của 21 là: 1; -1; 3; -3; 7; -7; 21; -21\n+) Ta có: 66 = 2. 3. 11\nCác ước nguyên dương của 66 là: 1; 2; 3; 6; 11; 22; 33; 66\nTa có các ước của -66 là: 1; -1; 2; -2; 3; -3; 6; -6; 11; -11; 22; -22; 33, -33; 66; -66"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bội của a có dạng k.a(với k là số nguyên)\nLời giải chi tiết\nNhân 11 lần lượt với 1; 2; 3; 4; 5; 6; 7; 8; 9; … ta được các bội dương của 11 là: 11; 22; 33; 44; 55; 66; 77; 88; 99;…\nDo đó các bội của 11 là: ..-99; -88; -77; -66;-55; -44; -33; -22; -11; 0; 11; 22; 33; 44; 55; 66; 77; 88; 99;…\nVậy các bội khác 0 của 11, lớn hơn – 50 và nhỏ hơn 100 là: -44; -33; -22; -11; 11; 22; 33; 44; 55; 66; 77; 88; 99."
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vì x ⁝ 3 nên x là bội của 3. Ta tìm các bội của 3 thỏa mãn lớn hơn hoặc bằng -18 và nhỏ hơn hoặc bằng 18\nLời giải chi tiết\nVì x ⁝ 3 nên x là bội của 3.\nNhân 3 lần lượt với 1; 2; 3; 4; 5; 6; 7;…ta được các bội dương của 3 là: 3; 6; 9; 12; 15; 18; 21; …\nDo đó các bội của 3 là: …;- 21; -18; -15; -12; -9; -6; -3; 0; 3; 6; 9; 12; 15; 18; 21; …\nMà -18 ≤ x ≤ 18\nTa được x ∈ {-15; -12; -9; -6; -3; 0; 3; 6; 9; 12; 15; 18}\nDo x ∈ P nên P = {-15; -12; -9; -6; -3; 0; 3; 6; 9; 12; 15; 18}\nVậy P = {-15; -12; -9; -6; -3; 0; 3; 6; 9; 12; 15; 18}.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chú ý trường hợp 21 là tích của 2 số nguyên âm\nLời giải chi tiết\nTa có: 21 = 3. 7 = (-3). (-7) = 1. 21 = (-1). (-21)\nVậy 21 có 4 cách phân tích thành tích của hai số nguyên.\nLời giải hay\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chú ý rằng x ⁝ x ( với mọi x khác 0)\nSử dụng tính chất chia hết của 1 hiệu\nLời giải chi tiết\nTheo đề bài (x + 5) ⁝ x\nMà x ⁝ x\nDo đó: [(x + 5) – x] ⁝x (tính chất chia hết của 1 hiệu)\n[(x – x) + 5] ⁝x\n5 ⁝ x\nTa có x là ước của 5.\nCác ước của 5 là: -5; -1; 1; 5 nên x ∈ {-5; -1; 1; 5}\nVậy x ∈ {-5; -1; 1; 5}.\nLời giải hay"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1. Trong các câu sau, câu nào đúng?\nA. Tam giác đều có 6 trục đối xứng\nB. Hình chữ nhật với hai kích thước khác nhau có 4 trục đối xứng\nC. Hình thang cân, góc ở đáy khác 90^{0} , có đúng một trục đối xứng\nD. Hình bình hành có hai trục đối xứng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n- Tam giác đều có 3 trục đối xứng nên A sai.\n- Hình chữ nhật với hai kích thước có 2 trục đối xứng nên B sai.\n- Hình thang cân, góc ở đáy khác 90^{0} , có đúng 1 trục đối xứng nên C đúng.\n- Hình bình hành không có trục đối xứng nên D sai.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Trong các phát biểu sau, có bao nhiêu phát biểu đúng?\na) Số trục đối xứng của tam giác đều nhỏ hơn số trục đối xứng của hình thoi.\nb) Hình tròn có một trục đối xứng là đường thẳng đi qua tâm của hình tròn.\nc) Hình thang cân có tâm đối xứng là giao điểm của hai đường chéo.\nd) Hình chữ nhật có hai trục đối xứng là hai đường chéo.\nA. 0\nB. 2\nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTam giác đều có 3 trục đối xứng, hình thoi có 2 trục đối xứng nên a) sai.\nHình tròn có vô số trục đối xứng là các đường thẳng đi qua tâm nên b) sai.\nHình thang cân không có tâm đối xứng nên c) sai.\nHình chữ nhật có hai trục đối xứng là hai đường thẳng nối trung điểm của hai cạnh đối diện nên d) sai.\nVậy không có phát biểu nào đúng.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 9. Trong các câu sau, câu nào sai?\nA. Hình lục giác đều có 6 tâm đối xứng.\nB. Hình tròn có một tâm đối xứng là tâm của đường tròn\nC. Hình bình hành có tâm đối xứng là giao điểm của hai đường chéo\nD. Hình thang cân không có tâm đối xứng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hình lục giác đều chỉ có 1 tâm đối xứng là giao điểm của ba đường chéo. Do đó A sai.\nĐáp án: A"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Đoạn thẳng AB có độ dài 4cm. Gọi O là tâm đối xứng của đoạn thẳng AB. Tính độ dài đoạn OA.\nA. 8 cm\nB. 1 cm\nC. 2 cm\nD. 4 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Do O là tâm đối xứng của AB nên O chia đoạn thẳng AB thành hai đoạn OA bằng OB và bằng một nửa AB bằng 2cm.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Cho hình bình hành ABCD có tâm O là tâm đối xứng. Biết OA = 5cm, OD = 7cm, tính độ dài hai đường chéo AC và BD\nA. 5cm, 7cm\nB. 5cm, 14cm\nC. 10cm, 7cm\nD. 10cm, 14cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDo O là tâm đối xứng nên O là giao điểm của hai đường chéo và thỏa mãn OA bằng OC, OB bằng OD.\nSuy ra độ dài AC gấp đôi độ dài OA bằng 5.2 = 10cm,\nĐộ dài BD gấp đôi độ dài OD bằng 7.2 = 14cm.\nVậy AC = 10cm, BD = 14cm.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Hình thoi ABCD có tâm đối xứng O. Biết OA = 3cm, OB = 2cm. Hãy tính diện tích hình thoi.\nA. 6 cm^{2} \nB. 12 cm^{2} \nC. 24 cm^{2} \nD. 48 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì O là tâm đối xứng nên độ dài AC gấp đôi độ dài OA bằng 6cm và độ dài BD gấp đôi độ dài OB bằng 4cm.\nDiện tích hình thoi ABCD là: 6.4:2= 12 cm^{2} .\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Một chiếc bàn có mặt bàn là hình lục giác đều như hình dưới đây. Biết rằng độ dài đường chéo chính là 1,2m, em hãy tích khoảng cách từ tâm đối xứng của mặt bàn đến mỗi đỉnh và chu vi mặt bàn.\nA. 1,2 m và 7,2 m\nB. 0,6 m và 7,2 m\nC. 0,6 m và 3,6 m\nD. 1,2 m và 3,6 m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nKhoảng cách từ tâm đối xứng đến mỗi đỉnh bằng một nửa đường chéo chính và bằng: 1,2:2 = 0,6 (m).\nDo hình lục giác đều được ghép từ 6 tam giác đều nên cạnh của hình lục giác cũng bằng 0,6 (m).\nChu vi mặt bàn là: 0,6.6 = 3.6 (m).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Một hình tròn có bán kính 6cm, khoảng cách từ tâm đối xứng đến các điểm nằm trên đường tròn bằng:\nA. 3cm\nB. 2cm\nC. 6cm\nD. 12cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tâm đối xứng của hình tròn chính là tâm của đường tròn nên khoảng cách từ tâm đối xứng đến các điểm trên đường tròn đúng bằng bán kính và bằng 6cm.\nĐáp án: C"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "a) Một nhóm học sinh gồm 12 bạn nam và 8 bạn nữ đi dã ngoại. Có bao nhiêu cách chia nhóm, mỗi nhóm từ 2 bạn trở lên sao cho số bạn nam ở mỗi nhóm bằng nhau, số bạn nữ ở mỗi nhóm cũng bằng nhau.\nb) Viết các tập hợp Ư(18), Ư(30). Liệt kê các phần tử chung của hai tập hợp này.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)  Xét xem 12 và 8 cùng chia hết cho các số nào\nb) Viết tập hợp Ư(18), Ư(30) sau đó liệt kê các phần tử chung.\nLời giải chi tiết\na) Có 3 cách chia nhóm\nCách 1: Chia 1 nhóm gồm 12 nam và 8 nữ.\nCách 2: chia 2 nhóm, mỗi nhóm 6 nam, 4 nữ.\nCách 3: chia 4 nhóm, mỗi nhóm 3 nam, 2 nữ.\nb) Ư(18) = {1; 2; 3; 6; 9; 18}\nƯ(30) = {1; 2; 3; 5; 6; 10; 15; 30).\n=> Các phần tử chung của hai tập hợp trên là: 1; 2; 3; 6."
+    },
+    {
+        "problem": "Các khẳng định sau đúng hay sai? Vì sao?\na) 6 \\( \\in \\) ƯC(24, 30);        b) 6 \\( \\in \\) ƯC(28,42);\nc) 6 \\( \\in \\) ƯC(18, 24, 42).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Một số được gọi là ước chung của hai hay nhiều số nếu nó là ước của tất cả các số đó.\n- Tập hợp các ước chung của hai số a và b kí hiệu là ƯC(a, b).\nx \\( \\in \\) ƯC(a, b) nếu a\\( \\vdots \\)x và b\\( \\vdots \\) x.\n- Tương tự, tập hợp các ước chung của a, b, c kí hiệu là ƯC(a, b, c).\nx \\( \\in \\) ƯC (a, b, c) nếu a\\( \\vdots \\)x, b\\( \\vdots \\)x và c\\( \\vdots \\)x.\nLời giải chi tiết\na) Đúng\nƯ(24) = {1; 2; 3; 4; 6; 8; 12; 24}\nƯ(30) = {1; 2; 3; 5; 6; 10; 15; 30}\n=> ƯC(24,30) = {1; 2; 3; 6).\nVậy 6 \\( \\in \\) ƯC(24, 30)\nb) Sai\nƯ(28) = {1; 2; 4; 7; 14; 28}\nƯ(42) = {1; 2; 3; 6; 7; 14; 21; 42}\n=> ƯC(28,42) = {1; 2; 7; 14}.\nVậy 6 \\( \\notin \\) ƯC(28,42)\nc) Đúng\nƯ(18) = {1; 2; 3; 6; 9; 18}\nƯ(24) = {1; 2; 3; 4; 6; 8; 12; 24}\nƯ(42) = {1; 2; 3; 6; 7; 14; 21; 42}\n=> ƯC(18, 24, 42} = {1; 2; 3; 6).\nVậy 6 \\( \\in \\) ƯC(18, 24, 42)"
+    },
+    {
+        "problem": "Tìm ước chung của:\na) 36 và 45;\nb) 18, 36 và 45.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Viết tập hợp các ước của a và ước của b: Ư(a), Ư(b).\n- Tìm những phần tử chung của Ư(a) và Ư(b).\nLời giải chi tiết\na) Ư(36) = {1; 2; 3; 4; 6; 9; 12; 18; 36}\nƯ(45) = {1; 3; 5; 9; 15; 45}\n=> ƯC(36; 45) = {1; 3; 9}.\nb) Ư(18) = {1; 2; 3; 6; 9; 18}\nƯ(36) = {1; 2; 3; 4; 6; 9; 12; 18; 36}\nƯ(45) = {1; 3; 5; 9; 15; 45}\n=> ƯC(18, 36, 45) = {1; 3; 9}.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một chi đội gồm 18 học sinh nam và 30 học sinh nữ muốn thành lập các đội tham gia hội diễn văn nghệ sao cho tiết mục của các đội khác nhau và mỗi bạn chỉ tham gia 1 đội, số nam trong các đội bằng nhau và số nữ cũng vậy. Có thể biểu diễn được nhiều nhất bao nhiêu tiết mục văn nghệ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiết mục nhiều nhất là ƯCLN(18,30)\nLời giải chi tiết\nSố tiết mục nhiều nhất là ƯCLN(18,30).\nTa có:\nƯC(18,30)={1;2;3;6} nên ƯCLN(18,30)=6 vì 6 là số lớn nhất trong số các ước chung"
+    },
+    {
+        "problem": "Viết ƯC(24, 30) và từ đó chỉ ra ƯCLN(24, 30).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Viết tập hợp các ước của a và ước của b: Ư(a), Ư(b).\n- Tìm những phần tử chung của Ư(a) và Ư(b).\n- Ước chung lớn nhất của hai hay nhiều số là số lớn nhất trong tập hợp các ước chung của các số đó.\nLời giải chi tiết\nƯ(24) = {1; 2; 3; 4; 6; 8; 12; 24}\nƯ(30) = {1; 2; 3; 5; 6; 10; 15; 30}\n=> ƯC(24, 30) = {1; 2; 3; 6}.\nTrong các ƯC(24,30) thì 6 là số lớn nhất nên ƯCLN(24,30) = 6"
+    },
+    {
+        "problem": "Trong các khẳng định sau, khẳng định nào đúng, khẳng định nào sai? Với khẳng định sai, hãy sửa lại cho đúng.\na) ƯC(12, 24) = {1; 2; 3; 4; 6; 8; 12};\nb) ƯC(36, 12, 48) = {1; 2; 3; 4; 6; 12}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Viết tập hợp các ước của a và ước của b: Ư(a), Ư(b).\n- Tìm những phần tử chung của Ư(a) và Ư(b).\nLời giải chi tiết\na) Sai vì 8 không là ước chung của 12 và 24\nSửa lại:\nƯ(12) = {1; 2; 3; 4; 6; 12}\nƯ(24) = {1; 2; 3; 4; 6; 8; 12; 24}\n=> ƯC(12, 24) = {1; 2; 3; 4; 6; 12}\nb) Đúng.\nƯ(36) = {1; 2; 3; 4; 6; 9; 12; 18; 36}\nƯ(12) = {1; 2; 3; 4; 6; 12}\nƯ(48) = {1; 2; 3; 4; 6; 12; 24; 48}\n=> ƯC(36, 12, 48) = {1; 2; 3; 4; 6; 12}."
+    },
+    {
+        "problem": "Tìm:\na) ƯCLN(1,16);\nb) ƯCLN(8, 20);\nc) ƯCLN (84, 156);\nd) ƯCLN (16, 40, 176).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm ƯCLN của hai hay nhiều số lớn hơn 1, ta thực hiện ba bước sau:\nBước 1: Phân tích mỗi số ra thừa số nguyên tố.\nBước 2: Chọn ra các thừa số nguyên tố chung.\nBước 3: Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất của nó.\nTích đó là ƯCLN phải tìm.\nLời giải chi tiết\na) ƯCLN(1,16) = 1.\nb) 8 = 23; 20 = 22.5\n=> ƯCLN(8, 20) = 22 = 4.\nc) 84 = 22. 3.7;  156 = 22.3.13\n=> ƯCLN(84, 156) = 22.3 = 12.\nd) 16 = 24; 40 = 23.5;  176 = 24.11\n=> ƯCLN(16, 40, 176) = 23 = 8.\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Ta có ƯCLN(18, 30) = 6. Hãy viết tập hợp A các ước của 6. Nêu nhận xét về tập hợp ƯC(18, 30) và tập hợp A.\nb) Cho hai số a và b. Để tìm tập hợp ƯC(a, b), ta có thể tìm tập hợp các nước của ƯCLN(a, b).\nHãy tìm ƯCLN rồi tìm tập hợp các ước chung của:\ni. 24 và 30;                     ii. 42 và 98;\niii. 180 và 234.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm tập hợp các ước của 6 rồi nhận xét\nb) Tìm tập hợp các ƯCLN sau đó tìm tập hợp các ước của ƯCLN.\nLời giải chi tiết\na) A = {1; 2; 3; 6}\nNhận xét: Ta thấy tập hợp ƯC (18, 30) = {1; 2; 3; 6} nên tập hợp ƯC (18, 30) giống với tập hợp A.\nb)\ni. 24 = 23.3\n30 = 2.3.5\n=> ƯCLN(24, 30) = 2.3= 6\nVậy: ƯC(24, 30) = Ư(6) = {1; 2; 3; 6}.\nii. 42 = 2.3.7\n98 = 2.72\n=> ƯCLN(42, 98) = 2.7 = 14.\niii. \\(180 = 2^2.3^2.5\\)\n\\(234 = 2.3^2. 13\\)\n=> ƯCLN(180,234) = \\(2. 3^2 = 18\\)"
+    },
+    {
+        "problem": "Rút gọn các phân số sau:\n\\(\\frac{{28}}{{42}};\\,\\,\\frac{{60}}{{135}};\\,\\,\\frac{{288}}{{180}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia cả tử và mẫu của các phân số cho ƯCLN của chúng, ta thu được phân số tối giản.\nLời giải chi tiết\n+) Ta có: 28 = 22.7; 42 = 2.3.7\n+Các thừa số nguyên tố chung là: 2 và 7.\n+Số mũ nhỏ nhất của 2 là 1, của 7 là 1\n=> ƯCLN(28, 42)= 2.7 = 14. Do đó:\n\\(\\frac{{28}}{{42}} = \\frac{{28:14}}{{42:14}} = \\frac{2}{3}\\)\n+) Ta có: 60 = 22.3.5; 135 = 33.5\n+Các thừa số nguyên tố chung là: 3 và 5.\n+Số mũ nhỏ nhất của của 3 là 1, của 5 là 1\n=> ƯCLN(60, 135) = 3.5 = 15. Do đó:\n\\(\\frac{{60}}{{135}} = \\frac{{60:15}}{{135:15}} = \\frac{4}{9}\\)\n+) Ta có 288 = 25.32; 180 = 22.32.5\n=> ƯCLN(288, 180) = 22.32  = 36. Do đó:\n\\(\\frac{{288}}{{180}} = \\frac{{288:36}}{{180:36}} = \\frac{8}{5}\\)."
+    },
+    {
+        "problem": "Chị Lan có ba đoạn dây ruy băng màu khác nhau với độ dài lần lượt là 140 cm, 168 cm và 210 cm. Chị muốn cắt cả ba đoạn dây đó thành những đoạn ngắn hơn có cùng chiều dài để làm nơ trang trí mà không bị thừa ruy băng. Tính độ dài lớn nhất có thể của mỗi đoạn dây ngắn được cắt ra (độ dài mỗi đoạn dây ngắn là một số tự nhiên với đơn vị là xăng-ti-mét). Khi đó, chị Lan có được bao nhiêu đoạn dây ruy băng ngắn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài lớn nhất có thể của mỗi đoạn dây ngắn được cắt ra chính là ước chung lớn nhất của 140, 168 và 210.\nLời giải chi tiết\n- Độ dài lớn nhất có thể của mỗi đoạn dây ngắn được cắt ra chính là ƯCLN(140, 168, 210).\n- Ta có: 140 = \\(2^2 .5.7\\)\n168 = \\(2^3.3.7\\)\n210 =\\( 2.3.5.7\\)\n+Các thừa số nguyên tố chung là: 2 và 7\n+Số mũ nhỏ nhất của 2 là 1, của 7 là 1\n=> ƯCLN(140, 168, 210) = 2.7 = 14.\n=> Độ dài lớn nhất có thể của mỗi đoạn dây ngắn được cắt ra là 14 cm.\n- Tổng độ dài 3 đoạn dây của chị Lan là:\n140+168+210=518 (cm)\n- Số đoạn dây ruy băng ngắn chị Lan có được là:\n518 : 14 = 37 (đoạn dây).\nVậy chị Lan có được 37 đoạn dây ruy băng ngắn."
+    },
+    {
+        "problem": "Các khẳng định sau đúng hay sai? Giải thích.\na) 20 \\( \\in \\) BC(4, 10);    b) 36\\( \\in \\) BC(14, 18);   c) 72 \\( \\in \\) BC(12, 18, 36).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Một số được gọi là bội chung của hai hay nhiều số nếu nó là bội của tất cả các số đó.\nLời giải chi tiết\na) Đúng\nVì:\nB(4) = {0; 4; 8; 12; 16; 20; 24;...}\nB(10) = {0; 10; 20; 30; 40; 50;...}\nTa được: BC(4,10)={0; 20;...}\nNên 20 \\( \\in \\) BC(4, 10).\nb) Sai\nVì:\nB(14) = {0; 14; 28; 42, 56; 70; 84; 98; 112; 126; ...}\nB(18) = {0; 18; 36; 54; 72; 90; 108; 126;...}\nTa được:  BC(14, 18) = {0; 126;...}\nNên 26 \\( \\notin \\) BC(14, 18).\nc) Đúng\nVì:\nB(12) = {0; 12; 24; 36; 48; 60; 72; 84;... }\nB(18) = {0; 18; 36; 54; 72; 90,...}\nB(36) = {0; 36; 72; 108,...}\nTa được: BC(12, 18, 36) = {0; 36; 72;...}\nNên 72 \\( \\in \\) BC(12, 18, 36)."
+    }
+]

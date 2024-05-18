@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "a) Thực hiện phép tính 135 : 9 và nêu quan hệ chia hết của 135 với 9\nb) Tìm tổng S các chữ số 135 và nêu quan hệ chia hết của S với 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia\nLời giải chi tiết\na) 135 : 9 = 15 => 135 chia hết cho 9.\nb) S = 1 + 3 + 5 = 9 => S chia hết cho 9.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết một số có hai chữ số sao cho:\na) Số đó chia hết cho 2 và cho 9.\nb) Số đó chia hết cho cả ba số 2, 5, 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số chia hết cho 2 và cho 9 là số có chữ số tận cùng là 0,2,4,6,8 và tổng hai chữ số chia hết cho 9.\nb) Số chia hết cho cả ba số 2, 5, 9 là số có chữ số tận cùng là 0 và tổng hai chữ số chia hết cho 9.\nLời giải chi tiết\na) Số có hai chữ số chia hết cho 2 và 9 là: 36\nb) Số có hai chữ số chia hết cho cả ba số 2, 5, 9 là: 90"
+    },
+    {
+        "problem": "Cho các số 104, 627, 3 114, 5 123,6 831 và 72 102. Trong các số đó:\na) Số nào chia hết cho 3? Vì sao?\nb) Số nào không chia hết cho 3? Vì sao?\nc) Số nào chia hết cho 9? Vì sao?\nd) Số nào chia hết cho 3, nhưng không chia hết cho 9? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính tổng các chữ số của các số trong đề.\n- Dấu hiệu chia hết cho 3: Tổng các chữ số chia hết cho 3.\n- Dấu hiệu chia hết cho 9: Tổng các chữ số chia hết cho 9.\nLời giải chi tiết\na) Số 627 \\( \\vdots \\) 3 vì tổng các chữ số 6 + 2 + 7 = 15 \\( \\vdots \\) 3.\n3 114 \\( \\vdots \\) 3 vì tổng các chữa số 3 + 1 + 1 + 4 = 9 \\( \\vdots \\) 3\n6 831 \\( \\vdots \\) 3 vì tổng các chữ số 6 + 8 + 3 + 1 = 18 \\( \\vdots \\) 3\n72 102 \\( \\vdots \\) 3 vì tổng các chữ số 7 + 2 + 1 + 0 + 2 = 12 \\( \\vdots \\) 3.\nb) Số 104 \\(\\not{ \\vdots }\\) 3 vì tổng các chữ số 1 + 0 + 4 = 5 \\(\\not{ \\vdots }\\) 3\nSố 5 123 \\(\\not{ \\vdots }\\) 3 vì tổng các chữ số 5 + 1 + 2 + 3 = 11 \\(\\not{ \\vdots }\\) 3.\nc) Số 3 114 \\( \\vdots \\) 9 vì tổng các chữ số 3 + 1 + 1 + 4 = 9 \\( \\vdots \\) 9\nSố 6 831 \\( \\vdots \\) 9 vì tổng các chữ số 6 + 8 + 3 + 1 = 18 \\( \\vdots \\) 9\nd) Số 627 \\( \\vdots \\) 3 và \\(\\not{ \\vdots }\\)9 vì tổng các chữ số 6 + 2 + 7 = 15 \\( \\vdots \\) 3 nhưng \\(\\not{ \\vdots }\\) 9.\nSố 72 102 \\( \\vdots \\) 3 và \\(\\not{ \\vdots }\\) 9 vì tổng các chữ số 7 + 2 + 1 + 0 + 2 = 12\\( \\vdots \\) 3 nhưng \\(\\not{ \\vdots }\\) 9.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các số 2, 3, 5, 9 số nào là ước của n với\na) n = 4 536;            b) n = 3 240;              c) n = 9 805?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Dấu hiệu chia hết cho 2: Chữ số tận cùng là 0,2,4,6,8.\n- Dấu hiệu chia hết cho 5: Chữ số tận cùng là 0,5.\n- Dấu hiệu chia hết cho 3: Tổng các chữ số chia hết cho 3.\n- Dấu hiệu chia hết cho 9: Tổng các chữ số chia hết cho 9.\nLời giải chi tiết\na) n = 4 536.\nChữ số tận cùng là 6 nên n chia hết cho 2, không chia hết cho 5.\nTổng các chữ số là S=4+5+3+6=18 chia hết cho 3 và cho 9.\n=> n chia hết cho 3 và chia hết cho 9.\nCác số là ước của n = 4 536 là 2, 3, 9\nb) n = 3 240.\nChữ số tận cùng là 0 nên n chia hết cho 2 và chia hết cho 5.\nTổng các chữ số S=3+2+4+0=9 chia hết cho 3 và chia hết cho 9\n=> n chia hết cho 3 và chia hết cho 9.\nCác số là ước của n = 3 240 là 2, 5, 3 , 9\nc) n = 9 805.\nChữ số tận cùng là 5 nên n chia hết cho 5 và không chia hết cho 2.\nTổng các chữ số S=9+8+0+5=22 không chia hết cho 3 và 9.\n=> n không chia hết cho 3 và cho 9.\nCác số là ước của n = 9 805 là 5"
+    },
+    {
+        "problem": "Tìm chữ số thích hợp ở dấu * để số:\na) \\(\\overline {3*7} \\) chia hết cho 3;\nb) \\(\\overline {27*} \\) chia hết cho 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng dấu hiệu chia hết cho 3: Tổng các chữ số chia hết cho 3.\nb) Sử dụng dấu hiệu chia hết cho 9: Tổng các chữ số chia hết cho 9.\nLời giải chi tiết\na) \\(\\overline {3*7} \\) chia hết cho 3 => Tổng các chữ số (3 + * + 7) chia hết cho 3.\nThử các số từ 0 đến 9 ta thấy * \\( \\in \\) {2; 5; 8} thỏa mãn điều kiện trên.\nb) \\(\\overline {27*} \\) chia hết cho 9 => Tổng các chữ số (2 + 7 + *) chia hết cho 9 hay (9 + *) chia hết cho 9\nThử các số từ 0 đến 9 ta thấy * \\(\\in\\) {0;9} thỏa mãn điều kiện trên."
+    },
+    {
+        "problem": "Tìm chữ số thích hợp ở dấu * để số:\na) \\(\\overline {13*} \\) chia hết cho 5 và 9;\nb) \\(\\overline {67*} \\) chia hết cho 2 và 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Sử dụng dấu hiệu chia hết cho 5 trước\n- Thay *=0 hoặc *=5.\n- Ứng với mỗi giá trị của * kiểm tra số đã thay có chia hết cho 9 không.\nb)\n- Sử dụng dấu hiệu chia hết cho 2 trước\n- Thay * lần lượt bằng 0;2;4;6;8.\n- Ứng với mỗi giá trị của * kiểm tra số đã thay có chia hết cho 3 không.\nLời giải chi tiết\na) \\(\\overline {13*} \\) chia hết cho 5 nên * = 0 hoặc * = 5.\nVà \\(\\overline {13*} \\) chia hết cho 9 => Tổng các chữ số S=(1 + 3 + *) phải chia hết cho 9.\nThay *=0 ta được 130 có tổng các chữ số là S=1+3+0=4 không chia hết cho 9. Loại.\nThay *=5 ta được 135 có tổng các chữ số là S=1+3+5=9 chia hết cho 9.\nVậy * = 5.\nb)  \\(\\overline {67*} \\) chia hết cho 2 nên * \\(\\in\\) {0; 2; 4; 6; 8}\nVà \\(\\overline {67*} \\) chia hết cho 3 nên tổng các chữ số S=(6 + 7 + *) phải chia hết cho 3\n=> S=(13 + *) chia hết cho 3.\nThay *=0 ta được S=13+0=13 không chia hết cho 3 (loại).\nThay *=2 ta được S=13+2=15 chia hết cho 3 (thỏa mãn).\nThay *=4 ta được S=13+4=17 không chia hết cho 3 (loại).\nThay *=6 ta được S=13+6=19 không chia hết cho 3 (loại).\nThay *=8 ta được S=13+8=21 chia hết cho 3 (thỏa mãn).\n=> * = 2 hoặc * = 8."
+    },
+    {
+        "problem": "Các lớp 6A, 6B, 6C, 6D, 6E có số học sinh tương ứng là 40, 45, 39, 44, 42. Hỏi:a) Lớp nào có thể xếp thành 3 hàng với số học sinh ở mỗi hàng là như nhau?b) Lớp nào có thể xếp thành 9 hàng với số học sinh ở mỗi hàng là như nhau?c) Có thể xếp tất cả học sinh của năm lớp đó thành 3 hàng với số học sinh ở mỗi hàng là như nhau được không?d) Có thể xếp tất cả học sinh của năm lớp đó thành 9 hàng với số học sinh ở mỗi hàng là như nhau được không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Để số học sinh của một lớp có thể xếp thành ba hàng với số học sinh ở mỗi hàng là như nhau thì tổng số học sinh của lớp đó phải là số chia hết cho 3.\nb) Để số học sinh của một lớp có thể xếp thành chín hàng với số học sinh ở mỗi hàng là như nhau thì tổng số học sinh của lớp đó phải là số chia hết cho 9.\nc) Nếu tổng số học sinh chia hết cho 3 thì xếp được tất cả học sinh của năm lớp đó thành 3 hàng với số học sinh ở mỗi hàng là như nhau\nd) Nếu tổng số học sinh chia hết cho 9 thì xếp được tất cả học sinh của năm lớp đó thành 9 hàng với số học sinh ở mỗi hàng là như nhau\nLời giải chi tiết\na) Để số học sinh của một lớp có thể xếp thành ba hàng với số học sinh ở mỗi hàng là như nhau thì tổng số học sinh của lớp đó phải là số chia hết cho 3.\nTrong các số 40; 45; 39; 44; 42 thì:\n+ Số 45 chia hết cho 3 (vì \\(4 + 5 = 9 \\vdots 3\\))\n+ Số 39 chia hết cho 3 (vì \\(3 + 9 = 12 \\vdots 3\\))\n+ Số 42 chia hết cho 3 (vì \\(4 + 2 = 6 \\vdots 3\\))\nVậy các lớp 6B, 6C; 6E có thể xếp thành 3 hàng với số học sinh ở mỗi hàng là như nhau.\nb) Để số học sinh của một lớp có thể xếp thành chín hàng với số học sinh ở mỗi hàng là như nhau thì tổng số học sinh của lớp đó phải là số chia hết cho 9.\nTrong các số 40; 45; 39; 44; 42 thì chỉ có số 45 chia hết cho 9 (vì \\(4 + 5 = 9 \\vdots 9\\)).\nVậy chỉ có lớp 6B có thể xếp thành 9 hàng với số học sinh ở mỗi hàng là như nhau.\nc) Tổng số học sinh của cả 5 lớp 6A, 6B, 6C, 6D, 6E là:\n40 + 45 + 39 + 44 + 42 = 210 (học sinh)\nTa có số 210 là số chia hết cho 3 (vì \\(2 + 1 + 0 = 3 \\vdots 3\\))\nVậy ta có thể xếp tất cả học sinh của 5 lớp đó thành 3 hàng với số học sinh ở mỗi hàng là như nhau.\nd) Ta có số 210 là số không chia hết cho 9 (vì \\(2 + 1 + 0 = 3 \\not{\\vdots} 9\\))\nVậy ta không thể xếp tất cả học sinh của 5 lớp đó thành 9 hàng với số học sinh ở mỗi hàng là như nhau."
+    },
+    {
+        "problem": "Bác Vĩnh mua 17 cuốn sổ và 34 chiếc bút để làm quà tặng. Bác Vĩnh muốn chia đều 17 cuốn sổ thành các gói và cũng muốn chia đều 34 chiếc bút thành các gói. Bác Vĩnh có bao nhiêu cách chia những cuốn sổ thành các gói? Có bao nhiêu cách chia những chiếc bút thành các gói?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để tìm số cách chia những cuốn sổ thành các gói đều nhau, ta tìm các ước của 17 bằng cách lần lượt thực hiện phép chia 17 cho các số tự nhiên từ 1 đến 17\nĐể tìm số cách chia những chiếc bút bi thành các gói đều nhau, ta tìm ước của 34 bằng cách thực hiện phép chia 34 cho các số tự nhiên từ 1 đến 34\nLời giải chi tiết\n* Để tìm số cách chia những cuốn sổ thành các gói đều nhau, ta tìm các ước của 17 bằng cách lần lượt thực hiện phép chia 17 cho các số tự nhiên từ 1 đến 17, các phép chia hết là:\n17 : 1 = 17 và 17 : 17 = 1\nVậy có 2 cách chia những cuốn sách thành các gói đều nhau:\n- Cách 1: Để 1 gói gồm 17 cuốn\n- Cách 2: Chia làm 17 gói, mỗi gói 1 cuốn sổ.\n* Để tìm số cách chia những chiếc bút bi thành các gói đều nhau, ta tìm ước của 34 bằng cách thực hiện phép chia 34 cho các số tự nhiên từ 1 đến 34, các phép chia hết là:\n34 : 1 = 34; 34 : 2 = 17; 34 : 17 = 2; 34 : 34 = 1\nVậy có 4 cách chia những chiếc bút thành các gói đều nhau:\nCách 1: Chia thành 1 gói 34 chiếc.\nCách 2: Chia thành 2 gói, mỗi gói 17 chiếc.\nCách 3: Chia thành 17 gói, mỗi gói 2 chiếc.\nCách 4: Chia thành 34 gói, mỗi gói 1 chiếc."
+    },
+    {
+        "problem": "Cho các số 11, 29, 35, 38. Trong các số đó:\na) Số nào là số nguyên tố? Vì sao?\nb) Số nào là hợp số? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm tất cả các ước của từng số.\n- Nếu chỉ có 2 ước là 1 và chính nó thì số đó là số nguyên tố.\n- Nếu có một ước khác 1 và chính nó thì đó là hợp số.\nLời giải chi tiết\na) Các số: 11, 29 là số nguyên tố.\nVì chỉ có 2 ước là 1 và chính nó.\nb) Các số 35, 38 là hợp số.\nVì:\n35 có 4 ước là 1; 5; 7; 35\n38 có 4 ước là 1; 2; 19; 38"
+    },
+    {
+        "problem": "Tìm các ước nguyên tố của 23, 24, 26, 27.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm tất cả các ước của mỗi số.\n- Kiểm tra các ước đó có là số nguyên tố không.\nLời giải chi tiết\n+) 23 là số nguyên tố nên chỉ có duy nhất một ước nguyên tố là 23.\n+) Các ước của 24 là 1,2,3,4,6,8,12,24. Trong đó 2,3 là các số nguyên tố.\nVậy các ước nguyên tố của 24 là 2 và 3.\n+) Các ước của 26 là: 1, 2, 13, 26. Trong đó 2 và 13 là các số nguyên tố.\nVậy các ước nguyên tố của 26 là 2 và 13.\n+) Các ước của 27 là: 1,3,9,27. Chỉ có số 3 là số nguyên tố.\nVậy 27 có duy nhất một ước nguyên tố là 3.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết hai số chỉ có ước nguyên tố là 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm số chỉ có ước nguyên tố là 3 có dạng 3.3.3....3.\nLời giải chi tiết\nHai số chỉ có ước nguyên tố là 3 là: 9, 27\nChú ý: Ta có thể chọn các số khác cũng thỏa mãn. Chẳng hạn: 81; 243\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho các số 36, 37, 69, 75. Trong các số đó:\na) Số nào là nguyên tố? Vì  sao?\nb) Số nào là hợp số? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nguyên tố là số tự nhiên lớn hơn 1, có hai ước là 1 và chính nó.\nHợp số là số tự nhiên lớn hơn 1, có nhiều hơn 2 ước.\nLời giải chi tiết\na) Số 37 là số nguyên tố. Vì nó chỉ có 2 ước là 1 và chính nó.\nb) Số 36, 69, 75 là hợp số. Vì:\n36 chia hết cho 2 nên có thêm một ước là 2 (Khác 1 và 36).\n69 chia hết cho 3 nên có thêm một ước là 3 (Khác 1 và 69).\n75 chia hết cho 5 nên có thêm một ước là 5 (Khác 1 và 75)."
+    },
+    {
+        "problem": "Hãy chỉ ra một số nguyên tố lớn hơn 40 và nhỏ hơn 50",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm các số lớn hơn 40 và nhỏ hơn 50.\n- Tìm số nguyên tố trong các số đó.\nLời giải chi tiết\nCác số lớn hơn 40 và nhỏ hơn 50 là: 41, 42, 43, 44, 45, 46, 47, 48, 49.\nSố 41 chỉ có 2 ước là 1 và 41 nên số 41 là số nguyên tố.\nMột số nguyên tố lớn hơn 40 và nhỏ hơn 50 là: 41.\nChú ý: Các số thỏa mãn đề bài là: 41;43;47\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mỗi phát biểu sau đúng hay sai? Vì sao?\na) Mỗi số tự nhiên không là số nguyên tố thì sẽ là hợp số.\nb) Mọi số nguyên tố đều là số lẻ.\nc) 3 là ước nguyên tố của 6 nên 3 cũng là ước nguyên tố của 18.\nd) Mọi số tự nhiên đều có ước số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nguyên tố là số tự nhiên lớn hơn 1, có hai ước là 1 và chính nó.\nHợp số là số tự nhiên lớn hơn 1 có nhiều hơn 2 ước\nLời giải chi tiết\na) Sai.\nVì số 1 và 0 là số tự nhiên nhưng không phải là số nguyên tố, cũng không phải là hợp số.\nb) Sai.\nVì số 2 là số nguyên tố nhưng không là số lẻ.\nc) Đúng vì a chia hết cho b, mà c chia hết cho a thì c cũng chia hết cho b.\nd) Sai.\nVì số 1 chỉ có ước là 1 mà 1 không là số nguyên tố nên 1 không có ước nguyên tố."
+    },
+    {
+        "problem": "Tìm các ước số nguyên tố của: 36, 49, 70.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm tất cả các ước của mỗi số.\n- Kiểm tra các ước đó có là số nguyên tố không.\nLời giải chi tiết\n+) Các ước của 36 là 1,2,3,4,6,9,12,18,36. Trong đó có số 2,3 là các số nguyên tố.\nCác ước nguyên tố của 36 là:  2, 3.\n+) Các ước của 49 là 1,7,49. Trong đó có số 7 là số nguyên tố.\nƯớc nguyên tố của 49 là: 7.\n+) Các ước của 70 là 1,2,5,7,10,14,35,70. Trong đó có số 2,5,7 là số nguyên tố.\nCác ước nguyên tố của 70 là: 2, 5, 7."
+    },
+    {
+        "problem": "Hãy viết ba số:\na) Chỉ có ước nguyên tố là 2.\nb) Chỉ có ước nguyên tố là 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm số chỉ có ước nguyên tố là 2 có dạng 2.2.2.2...2.\nb)  Tìm số chỉ có ước nguyên tố là 5 có dạng 5.5.5...5.\nLời giải chi tiết\na) 3 số chỉ có ước nguyên tố là 2 là: 2, 8, 4\nb) 3 số chỉ có ước nguyên tố là 5 là: 5, 25, 125\nChú ý: Ta có thể chọn các số khác cũng thỏa mãn\nLoigiaihay.com"
+    },
+    {
+        "problem": "Bạn An nói với bạn Bình: “Đầu tiên tôi có 11 là số nguyên tố. Cộng 2 vào 11 tôi được 13 là số nguyên tố. Cộng 4 vào 13 tôi được 17 cũng là số nguyên tố. Tiếp theo, cộng 6 vào 17 tôi được 23 cũng là số nguyên tố.  Cứ thực hiện như thế, mọi số nhận được đều là số nguyên tố”. Hỏi cách tìm số nguyên tố bạn An có đúng không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nguyên tố là số tự nhiên lớn hơn 1, có hai ước là 1 và chính nó.\nLàm theo cách của đề bài và chứng minh cộng đến 20 thì số tìm được có nhiều hơn 2 ước\nLời giải chi tiết\nCách tìm số nguyên tố của bạn An sai. Vì khi cộng đến 20 thì số tìm được chia hết cho 11:\n11+2+4+6+8+10+12+14+16+18+20\n=11+(2+20)+(4+18)+(6+16)+(8+14)+(10+12)\n=11+11.2+11.2+11.2+11.2+11.2\n=11.(1+2+2+2+2+2)\n=11.11=121.\n121 không là số nguyên tố vì số này có 3 ước là 1;11; 121.\nLoigiaihay.com"
+    }
+]

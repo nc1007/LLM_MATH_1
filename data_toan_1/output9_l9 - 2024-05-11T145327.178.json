@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ cao a (m) là số âm được hiểu là a (m) dưới mực nước biển\nLời giải chi tiết\nĐộ cao trung bình của thềm lục địa Việt Nam là 65 m dưới mực nước biển.\nLời giải hay\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay đổi số dư –a đồng là tài khoản đã bị trừ a đồng\nLời giải chi tiết\nÔng Tám nhận được tin nhắn từ ngân hàng về thay đổi số dư trong tài khoản của ông là -210 800 đồng được hiểu là tài khoản của ông Tám đã bị trừ 210 800 đồng.\nLời giải hay"
+    },
+    {
+        "problem": "Giả sử một con kiến bò trên một trục số gốc O có chiều dương là chiều từ trái sang phải, chiều ngược lại là chiều âm và giả sử nó đi được 16 đơn vị thì dừng lại. Hỏi trong mỗi trường hợp sau, con kiến dừng lại ở điểm nào trên trục số?\na) Con kiến xuất phát từ gốc O và đi theo chiều dương;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Đi từ gốc O theo chiều dương thì dừng ở điểm biểu diễn số dương\n+Đi từ gốc O theo chiều âm thì dừng ở điểm biểu diễn số âm\nLời giải chi tiết\na) Con kiến xuất phát từ gốc O và đi theo chiều dương, nó đi được 16 đơn vị thì con kiến dừng lại ở điểm 16 trên trục số.\nb) Con kiến xuất phát từ gốc O và đi theo chiều âm, nó đi được 16 đơn vị thì con kiến dừng lại ở điểm -16 trên trục số.\nLời giải hay"
+    },
+    {
+        "problem": "Liệt kê các phần tử của tập hợp sau theo thứ tự tăng dần:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mô tả lại tập hợp bằng cách liệt kê các phần tử: Các phần tử được liệt kê 1 lần, đặt trong dấu ngoặc{}, ngăn cách nhau bởi dấu ;\nLời giải chi tiết\nCác số nguyên có chữ số tận cùng là 2 thỏa mãn -15 < x ≤ 32 là: - 12; - 2; 2; 12; 22; 32\nDo đó x ∈ {- 12; - 2; 2; 12; 22; 32}\nMà x ∈ M nên ta được M = {- 12; - 2; 2; 12; 22; 32}\nVậy M = {- 12; - 2; 2; 12; 22; 32}.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a, b là 2 số nguyên dương và a>b thì –a<-b\nLời giải chi tiết\nTa đi so sánh 46 789 với 45 999\nSo sánh các cặp số cùng hàng theo thứ tự từ trái sang phải, ta thấy ở hàng chục nghìn giống nhau cùng là chữ số 4, ở hàng nghìn ta thấy 6 > 5 nên 46 789 > 45 999.\nDo đó – 46 789 < – 45 999.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nguyên và số đối của nó có cùng phần số tự nhiên, phần dấu trái nhau\nLời giải chi tiết\nTa có\nSố nguyên\n+25\n-18\n472\n-9 853\nSố đối của nó\n-25\n+18\n-472\n+9 853\nNhận xét: Hai số đối nhau thì có phần số tự nhiên giống nhau.\nLời giải hay"
+    },
+    {
+        "problem": "Phải chọn y là một số nguyên âm hay nguyên dương để:\na) -y là một số nguyên âm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a là số nguyên âm thì –a là số nguyên dương\nLời giải chi tiết\na) Để -y là một số nguyên âm thì y là số nguyên dương.\nb) Để -y là một số nguyên dương thì y là số nguyên âm.\nLời giải hay"
+    },
+    {
+        "problem": "Thực hiện phép tính:\na)(-107) + (+92)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\nLời giải chi tiết\na) (-107) + (+92) = - (107 – 92) = -15\nb) 329 + (-315) = 329 – 315 = 14.\nLời giải hay"
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) 1 238 + (- 1 328)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\n+ Muốn cộng 2 số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu – trước kết quả\nLời giải chi tiết\na) 1 238 + (- 1 328) = - (1 328 – 1 238) = -90.\nb) (- 3 782) + (- 1 031) = - (3 782 + 1 031) = - 4 813.\nLời giải hay"
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) 8 294 + (-56 946)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\nLời giải chi tiết\na) 8 294 + (-56 946) = - (56 946 – 8 294) = - 48 652\nb) (-15 778) + 335 925 = 335 925 – 15 778 = 320 147.\nLời giải hay"
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) 27 538 – 12 473",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Ta có: a – (-b)  = a + b\nLời giải chi tiết\na) 27 538 – 12 473 = 15 065.\nb) 6 591 – (-386) = 6 591 + 386 = 6 977.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trừ 2 số nguyên\nLời giải chi tiết\nNếu nhiệt độ giảm \\(2^0 C\\) thì nhiệt độ đêm hôm đó ở Moscow là:\n-7 – 2 = (-7) + (-2) = - (7 + 2) = \\(-9^0 C\\)\nVậy nhiệt độ đêm hôm đó là \\(-9^0 C\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tài khoản ngân hàng của ông X có 25 784 209 đồng. Trên điện thoại thông minh, ông X nhận được ba tin nhắn:\n(1) Số tiền giao dịch -1 765 000 đồng;\n(2) Số tiền giao dịch 5 772 000 đồng;\n(3) Số tiền giao dịch – 3 478 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Tính tổng các số nguyên\n+Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\n\nLời giải chi tiết\nSau ba lần giao dịch như trên, trong tài khoản của ông X còn lại số tiền là:\n25 784 209 + (-1 765 000) + 5 772 000 + (– 3 478 000)\n= [(25 784 209 + 5 772 000)] + [(-1 765 000) + (– 3 478 000)]\n= 31 556 209 + [- (1 765 000 + 3 478 000)]\n= 31 556 209 – 5 243 000\n= 26 313 209 (đồng)\nVậy sau ba lần giao dịch như trên, trong tài khoản của ông X còn lại 26 313 209 đồng.\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 387 + (-224) + (-87);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Nhóm các số nguyên có tổng “ đẹp”\n+Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\nLời giải chi tiết\na) 387 + (-224) + (-87) = [(387) + (-87)] + (-224) = (387 – 87) + (-224) = 300 + (-224)\n= 300 – 224 = 76.\nb) (-75) + 329 + (-25) = [(-75) + (-25)] + 329 = -(75 + 25) + 329 = - 100 + 329\n= 329 – 100 = 229.\nLời giải hay"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 11 + (-13) + 15 + (-17);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các số nguyên thành 2 cặp, tính tổng từng cặp\nLời giải chi tiết\na) 11 + (-13) + 15 + (-17) = [11 + (-13)] + [15 + (-17)] = [-(13 – 11)] + [- (17 – 15)] = (-2) + (-2) = -(2+2) = -4\nb) (-21) + 24 + (-27) + 31 = [(-21) + 24] + [(-27) + 31] = (24 – 21) + (31 – 27) = 3 + 4 = 7"
+    },
+    {
+        "problem": "Bỏ dấu ngoặc rồi tính các tổng sau:\na) (-28) + (-35) – 92 + (-82)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Khi bỏ ngoặc:\n+Giữ nguyên dấu của các số hạng trong ngoặc nếu trước dấu ngoặc có dấu +\n+Đổi dấu tất cả các số hạng trong ngoặc nếu trước dấu ngoặc là dấu –\n*Muốn cộng 2 số nguyên trái dấu, ta tìm hiệu của 2 phần số tự nhiên của chúng( số lớn – số nhỏ) rồi đặt trước hiệu tìm được dấu của số có phần số tự nhiên lớn hơn\n*Muốn cộng 2 số nguyên âm, ta cộng phần số tự nhiên của chúng với nhau rồi đặt dấu – trước kết quả\n*Nhóm các số hạng có kết quả là số “đẹp” với nhau để dễ tính\nLời giải chi tiết\na) (-28) + (-35) – 92 + (-82)\n= -28 – 35 – 92 – 82\n= - (28 + 35 + 92 + 82)\n= - [(28 + 82) + (35 + 92)]\n= - (110 + 127)\n= - 237.\nb) 15 – (-38) + (-55) – (+47)\n= 15 + 38 – 55 – 47\n= 53 – 55 – 47\n= - (55 – 53) – 47\n= - 2 – 47\n= - (2 + 47)\n= - 49\nLời giải hay"
+    }
+]

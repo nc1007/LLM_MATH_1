@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Bài 11: Kết quả của phép chia (2a^{3}  + 7ab^{2}  – 7a^{2}  – 2b^{3} ) : (2a – b) là\nA. (a – b)(a – 2b)\nB. (a + b)^{2}    \nC. (a – b)(b – 2a)\nD. a – b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 2a^{3}  + 7ab^{2}  – 7a^{2}  – 2b^{3} \n= 2(a^{3}  – b^{3} ) – 7ab(a – b)\n= 2(a – b)(a^{2}  + ab + b^{2} ) – 7ab(a – b)\n= (a – b)(2a^{2}  – ab – 4ab + 2b^{2} )\n= (a – b)[a(2a – b) – 2b(2a – b)]\n= (a – b)(2a – b)(a – 2b)\nNên (2a^{3}  + 7ab^{2}  – 7a^{2}  – 2b^{3} ) : (2a – b)\n= (a – b)(2a – b)(a – 2b) : (2a – b) = (a – b)(a – 2b)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 12: Kết quả của phép chia (x^{4}  – x^{3} y + x^{2} y^{2}  – xy^{3} ) : (x^{2}  + y^{2} ) là\nA. (x – y)    \nB. x(x – y)  \nC. x^{2}  – y     \nD. x^{2}  + xy",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{4}  – x^{3} y + x^{2} y^{2}  – xy^{3} \n= x^{4}  + x^{2} y^{2}  – (x^{3} y + xy^{3} )\n= x^{2} (x^{2}  + y^{2} ) – xy(x^{2}  + y^{2} )\n= (x^{2}  + y^{2} )(x^{2}  – xy) = (x^{2}  + y^{2} )x(x – y)\nNên (x^{4}  – x^{3} y + x^{2} y^{2}  – xy^{3} ) : (x^{2}  + y^{2} )\n= (x^{2}  + y^{2} )x(x – y) : (x^{2}  + y^{2} ) = x(x – y)\nĐáp án cần chọn là : B"
+    },
+    {
+        "problem": "Bài 23: Tìm đa thức bị chia biết đa thức chia là (x^{2}  + x + 1),thương là (x + 3), dư là x – 2.\nA. x^{3}  + 4x^{2}  + 5x + 1                          \nB. x^{3}  – 4x^{2}  + 5x + 1\nC. x^{3}  – 4x^{2}  – 5x + 1                           \nD. x^{3}  + 4x^{2}  – 5x + 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐa thức bị chia cần tìm là:\n(x^{2}  + x + 1)(x + 3) + x – 2\n= x^{2} .x + 3x^{2}  + x.x+ 3x + x + 3 + x – 2\n= x^{3}  + 4x^{2}  + 5x + 1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 29: Phần dư của phép chia đa thức (x^{2}  + 3x + 2)^{5}  + (x^{2}  – 4x – 4)^{5}  – 1 cho đa thức x + 1 là\nA. 3            \nB. 2            \nC. 0            \nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có đa thức chưa (x + 1) nên phần dư là một hằng số\nGọi thương là Q(x) và dư r. Khi đó với mọi x ta có\n(x^{2}  + 3x + 2)^{5}  + (x^{2}  – 4x – 4)^{5}  – 1 = Q(x)(x + 1) + r          (1)\nThay x = -1 vào (1) ta được\n((-1)^{2}  + 3.(-1) + 2)^{5}  + ((-1)^{2}  – 4(-1) – 4)^{5}  – 1 = Q(x).(-1 + 1) + r\nr = 0^{5}  + 1^{5}  – 1 ⇔ r = 0\nvậy phần dư của phép chia là r = 0\nĐáp án cần chọn là: C"
+    }
+]

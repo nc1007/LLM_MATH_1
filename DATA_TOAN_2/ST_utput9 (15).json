@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Dựa vào phép cộng các số âm, hãy tính tích (-11) . 3 rồi so sánh kết quả với –(11. 3).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(-a).n = (-a).(-a)…(-a) (n thừa số a)\nLời giải chi tiết\n(-11).3 = (-11) + (-11) + (-11) = -33\n-(11.3) = -(11 + 11 + 11) = -33\nVậy (-11).3 = -(11.3)"
+    },
+    {
+        "problem": "Hãy dự đoán kết quả của các phép nhân 5.(-7) và (-6) . 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào HĐ1 để dự đoán.\nLời giải chi tiết\nDự đoán:\n5.(-7) = -(5.7) = -35   ;   (-6).8 = -(6.8) = -48"
+    },
+    {
+        "problem": "1. Thực hiện các phép nhân sau: a) (-12) . 12;               b) 137.(-15)\n2. Tính nhẩm: 5 .(-12).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(m,{\\rm{ }}n\\; \\in {\\mathbb{N}^*}\\)thì:  m.(-n) = (-n). m = -(m .n).\nLời giải chi tiết\n1) a) (-12).12 = -(12.12) = -144\nb) 137.(-15) = -(137.15) = - 2 055\n2) 5.(-12) = -(5.12) = -60"
+    },
+    {
+        "problem": "Quan sát ba dòng đầu và nhận xét về dấu của tích mỗi khi đổi dấu một thừa số và giữ nguyên thừa số còn lại.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát ba dòng đầu và nhận xét\nLời giải chi tiết\nNhận xét: khi đổi dấu một thừa số và giữ nguyên thừa số còn lại thì tích cũng đổi dấu."
+    },
+    {
+        "problem": "Dựa vào nhận xét ở HĐ3, hãy dự đoán kết quả của (-3).(-7).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi dấu tích của phép tính thứ ba.\nLời giải chi tiết\nTheo HĐ3, nếu đổi dấu một thừa số thì tích cũng đổi dấu nên ta dự đoán tích đổi dấu -21 thành 21\nVậy dự đoán (-3).(-7) = 21"
+    },
+    {
+        "problem": "Thực hiện các phép nhân sau:\na) (-12).(-12);           b) (-137) (-15).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(m,{\\rm{ }}n\\; \\in {\\mathbb{N}^*}\\)thì:  (-m).(-n) = m .n.\nLời giải chi tiết\na) (-12).(-12) = 12.12 = 144\nb) (-137) (-15) = 137.15 = 2055."
+    },
+    {
+        "problem": "Thay mỗi dấu \"?\" bằng số sao cho số trong mỗi ô ở hàng trên bằng tích các số trong hai ô kề với nó ở hàng dưới (h.3.18).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(m,{\\rm{ }}n\\; \\in {\\mathbb{N}^*}\\)thì:  (-m).(-n) = m .n.\nLời giải chi tiết\nVì -1 = (-1) . 1 và 1 = (-1) . (-1)\nMà mỗi ô ở hàng trên bằng tích các số trong hai ô kề với nó ở hàng dưới nên ta được :\n"
+    },
+    {
+        "problem": "Tính a(b + c) và ab + ac khi a = -2, b = 14, c = -4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay giá trị của a, b, c vào biểu thức cần tính.\nLời giải chi tiết\nVới a = -2, b = 14, c = -4 ta có:\na(b + c) = (-2).[14 + (-4)] = (-2).10 = -(2.10) = -20\nab + ac = (-2).14 + (-2).(-4) = -28 + 8 = -(28 - 8) = -20."
+    },
+    {
+        "problem": "1. a) Tính giá trị của tích P = 3. (-4) . 5. (-6);\nb) Tích P sẽ thay đổi thế nào nếu ta đối dấu tất cả các thừa số?\n2. Tính 4. (-39) - 4 .(-14).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các tính chất:\nGiao hoán: a . b = b . a\nKết hợp: a .(b .c) = (a.b).c\nPhân phối của phép nhân đối với phép cộng: a .(b + c) = ab + ac\nLời giải chi tiết\n1.\na) P = 3.(-4).5.(-6) = [(-4).5].[3.(-6)] = (-20).(-18) = 360\nb) Tích P sẽ không thay đổi nếu ta đổi dấu tất cả các thừa số\n2.\nTa có: 4.(-39) - 4.(-14) = 4.[-39 – (-14)] = 4.(-39 + 14) =4. [-(39 - 14)] = 4.(-25) = -100\nChú ý: Tích không thay đổi nếu ta đổi dấu của n thừa số (với n chẵn)\nTích thay đổi dấu nếu ta đổi dấu của n thừa số (với n lẻ)"
+    },
+    {
+        "problem": "Nhân hai số khác dấu:\na) 24.(-25)                    b) (-15). 12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(m,{\\rm{ }}n\\; \\in {\\mathbb{N}^*}\\)thì:  m.(-n) = (-n). m = -(m .n).\nLời giải chi tiết\na) 24.(-25) = - ( 24.25) = -600\nb) (-15).12 = -(15.12) = -180."
+    },
+    {
+        "problem": "Nhân hai số cùng dấu:\na) (-298). (-4);                b) (-10). (-135).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(m,{\\rm{ }}n\\; \\in {\\mathbb{N}^*}\\)thì:  (-m).(-n) = m .n.\nLời giải chi tiết\na) (-298).(-4) = 298.4 = 1 192\nb) (-10).(-135) = 10.135 = 1 350\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một tích nhiều thừa số sẽ mang dấu dương hay âm nếu trong tích đó có:\na) Ba thừa số mang dấu âm, các thừa số khác đều dương?\nb) Bốn thừa số mang dấu âm, các thừa số khác đều dương?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong phép tính có lẻ các thừa số âm => Tích mang dấu âm.\nTrong phép tính có chẵn các thừa số âm => Tích mang dấu dương.\nLời giải chi tiết\na) Ba thừa số mang dấu âm, các thừa số khác dấu dương thì tích mang dấu âm.\nb) Bốn thừa số mang dấu âm, các thừa số khác đều dương thì tích mang dấu dương."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 4. (1 930 + 2019) + 4.(-2019);\nb) (-3).(-17) + 3. (120 - 17).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất phân phối của phép nhân đối với phép cộng:\na .(b + c) = ab + ac\nLời giải chi tiết\na) 4.(1 930 + 2 019) + 4.(-2 019)\n= 4.(1 930 + 2 019 - 2 019)\n= 4.1 930 = 7 720\nb) (-3).(-17) + 3.(120 - 17)\n= 3.17 + 3.(120 - 17)\n= 3.(17 + 120 - 17)\n= 3.120 = 360\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho biết tích của hai số tự nhiên n và m là 36. Mỗi tích n .(-m) và (-n).(-m) bằng bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng: n.(-m) = -(n.m)\n(-n).(-m) = n.m\nLời giải chi tiết\nTa có: n.m = 36\nn.(-m) = -(n.m) = -36\n(-n).(-m) = n.m = 36."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau một cách hợp lí:\na) (-8). 72 +8. (-19) - (-8);\nb) (-27). 1011 - 27- (-12) + 27.(-1).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất phân phối của phép nhân đối với phép cộng:\na .(b + c) = ab + ac.\nLời giải chi tiết\na) (-8).72 + 8.(-19) - (-8)\n= (-8).72 + (-8).19 - (-8).1\n= (-8).(72 + 19 - 1)\n= (-8).90\n= -720\nb) (-27).1011 -  27.(-12) + 27.(-1)\n= 27.(-1011) - 27.(-12) + 27.(-1)\n= 27.(-1011 + 12 - 1)\n= 27.(-1 000)\n= -27 000\nLoigiaihay.com"
+    }
+]

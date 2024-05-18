@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Chọn số thích hợp để điền vào chỗ chấm:\n2m^{2} 5dm^{2}  = ...dm^{2} \nA.\t25\nB.\t205\nC.\t250\nD.\t2005",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Theo bảng đơn vị đo diện tích ta có: 1m^{2}  = 100dm^{2}  nên 2m^{2}  = 200dm^{2} \nDo đó: 2m^{2} 5dm^{2}  = 2m^{2}  + 5dm^{2}  = 200dm^{2}  + 5dm^{2}  = 205dm^{2} \nVậy 2m^{2} 5dm^{2}  = 205dm^{2} ."
+    },
+    {
+        "problem": "Câu 9: Một hình vuống có độ dài cạnh là 28cm. Tính diện tích hình vuông đó.\nA.\t7 cm^{2} \nB.\t7,84 dm^{2} \nC.\t49 dm^{2} \nD.\t112 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình vuông đó là:\n28 x 28 = 784 (cm^{2} )\n784cm^{2}  = 7,84dm^{2}  \nĐáp số: 7,84dm^{2}"
+    }
+]

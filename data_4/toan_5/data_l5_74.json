@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1: Phép nhân các số tự nhiên, phân số, số thập phân có chung các tính chất nào dưới đây?\nA.\tTính chất giao hoán\nB.\tTính chất kết hợp\nC.\tTính chất nhân một số với một tổng\nD.\tCả ba tính chất trên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép nhân các số tự nhiên, phân số, số thập phân đều có các tính chất sau:\n-\tTính chất giao hoán: a × b = b\t× a \n-\tTính chất kết hợp: (a × b) × c = a × (b × c)\t\t\n-\tNhân một số với một tổng: (a + b) × c = a × c + b × c \nPhép nhân có thừa số bằng 1: 1 × a = a × 1 = a\n-\tPhép nhân có thừa số bằng 0: 0 × a = a × 0 = 0   \t \nVậy cả ba tính chất đã nêu đều đúng."
+    },
+    {
+        "problem": "Câu 2: Chọn đáp án đúng nhất:\nA.\tKhi nhân một số thập phân với 10, 100, 1000, … ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba,… chữ số.\nB.\tKhi nhân một số thập phân với 0,1; 0,01; 0,001;… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.\nC.\tCả A và B đều đúng\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tKhi nhân một số thập phân với 10, 100, 1000,... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba, ... chữ số.  \n-\tKhi nhân một số thập phân với 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba, … chữ số.\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 8: Tính giá trị biểu thức: \n4,25 + 8,6 × 3 – 12,55\nA.\t18,5\nB.\t17,5\nC.\t26\nD.\t27",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n4,25 + 8,6 × 3 – 12,55\n= 4,25 + 25,8 – 12,55\n= 30,05 - 12,55\n= 17,5"
+    },
+    {
+        "problem": "Câu 10: Tìm x biết x : 2,5 = 14,72 + 6,8 × 0,1 \nA.\tx = 0,8606\nB.\tx = 5,38\nC.\tx = 6,16\nD.\tx = 38,5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \nx : 2,5 = 14,72 + 6,8 × 0,1\nx : 2,5 = 14,72 + 0,68\nx : 2,5 = 15,4 \nx = 15,4 × 2,5\nx = 38,5\nVậy x = 38,5"
+    },
+    {
+        "problem": "Câu 11: Chọn dấu thích hợp để điền vào chỗ chấm:\n92,4 × 3 × 4,6 … 277,2 × 4,5\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 92,4 × 3 × 4,6 = 277,2 × 4,5\nNhận xét thấy biểu thức ở hai vế đều có thừa số chung là 277,2 và ta có 4,6 > 4,5.\nDo đó: 277,2 × 4,6 > 277,2 × 4,5\nVậy 92,4 × 3 × 4,6 > 277,2 × 4,5"
+    },
+    {
+        "problem": "Câu 12: Nền căn phòng thứ nhất là hình chữ nhật có chiều dài 5,2m, chiều rộng kém chiều dài 1,7m. Nền căn phòng thứ hai là hình vuông có độ dài cạnh là 4,4m. Hỏi nền căn phòng nào có diện tích lớn hơn và lớn hơn bao nhiêu?\nA.\tCăn phòng thứ nhất; 1,34m^{2}  \nB.\tCăn phòng thứ hai; 1,16m^{2}  \nC.\tCăn phòng thứ nhất; 0,6m^{2}  \nD.\tCăn phòng thứ hai; 10,52m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều rộng nền căn phòng thứ nhất là:\n 5,2 - 1,7 = 3,5 (m)\nDiện tích nền của căn phòng thứ nhất là:\n5,2 × 3,5 = 18,2 (m^{2} ) \nDiện tích nền của căn phòng thứ hai là:\n 4,4 × 4,4 = 19,36 (m^{2} )\nTa có: 18,2m^{2}  < 19,36m^{2}  \nVậy căn phòng thứ hai có diện tích nền lớn hơn và lớn hơn số mét vuông là:\n 19,36 - 18,2 = 1,16 (m^{2} )\nĐáp số: Căn phòng thứ hai; 1,16m^{2} ."
+    },
+    {
+        "problem": "Câu 13: Lãi suất tiền gửi tiết kiệm là 1,5% một tháng. Một người có 40000000 đồng gửi tiết kiệm thì sau 2 tháng rút về được tất cả bao nhiêu tiền? (Biết tiền lãi tháng trước nhập vào làm tiền gửi của tháng sau).\nA.\t40600000 đồng\nB.\t41209000 đồng\nC.\t41200000 đồng\nD.\t42400000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền lãi nhận được sau tháng thứ nhất là:\n40000000 : 100 × 1,5 = 600000 (đồng)\nSố tiền người đó nhận được sau tháng thứ nhất là:\n40000000 + 600000 = 40600000(đồng)\nSố tiền lãi nhận được sau tháng thứ hai là:\n40600000 : 100 × 1,5 = 609000 (đồng)\nSố tiền người đó nhận được sau 2 tháng là:\n40000000 + 609000 = 41209000 (đồng)\nĐáp số: 41209000 đồng."
+    }
+]

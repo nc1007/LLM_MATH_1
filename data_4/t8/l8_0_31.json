@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1. Mặt đáy của hình chóp tam giác đều là hình gì?\nA. Tam giác vuông cân.\nB. Tam giác cân.\nC. Tam giác vuông.      \nD. Tam giác đều.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTheo định nghĩa hình chóp tam giác đều, mặt đáy là các tam giác đều."
+    },
+    {
+        "problem": "Câu 2. Hình chóp tứ giác đều có mấy cạnh bên?\nA. 3.\nB. 4.\nC. 5.\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nHình chóp tam giác đều có 4 cạnh bên."
+    },
+    {
+        "problem": "Câu 5. Cho hình chóp tứ giác đều S.ABCD có tất cả các cạnh bằng nhau và bằng 6cm. Chu vi mặt đáy của hình chóp tứ giác đều S.ABCD\nA. 18cm \nB. 6cm \nC. 24cm\nD. 36cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHình chóp tứ giác đều S.ABCD có đáy ABCD là hình vuông nên\n AB = BC = CD = DA = 6cm .\nKhi đó chu vi mặt đáy ABCD là: C = 6.4 = 24 (cm)."
+    },
+    {
+        "problem": "Câu 6. Hình chóp tam giác đều có mấy mặt?\nA. 3.\nB. 5.\nC. 4.\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHình chóp tam giác có 4 mặt bao gồm 3 mặt bên và 1 mặt đáy."
+    },
+    {
+        "problem": "Câu 8. Số đo mỗi góc ở đỉnh của mặt đáy hình chóp tam giác đều là\nA. 45°\nB. 90°\nC. 60°\nD. 30°",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì đáy của hình chóp tam giác đều là tam giác đều, mà mỗi góc của tam giác đều có số đo bằng 60°."
+    },
+    {
+        "problem": "Câu 9. Chọn phát biểu sai trong các phát biểu sau:\nA.Hình chóp tam giác đều có tất cả các cạnh bên bằng nhau và đáy là tam giác đều.\nB. Hình chóp tứ giác đều có tất cả các cạnh bằng nhau.\nC. Hình chóp tứ giác đều có các cạnh bên bằng nhau và đáy là hình vuông. \nD. Hình chóp tam giác đều có các mặt bên là tam giác cân.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nHình chóp tứ giác đều có các cạnh bên bằng nhau và đáy là hình vuông nên đáp án B sai."
+    },
+    {
+        "problem": "Câu 10. Cho hình chóp tam giác đều S.ABC, có SA = 4cm, AB = 5cm. So sánh độ dài cạnh SB và SC.\nA. SB = SC.\nB. SB > SC.\nC. SB < SC.\nD. Không so sánh được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nHình chóp tam giác đều có các mặt bên là các tam giác cân bằng nhau có chung đỉnh nên SB = SC = SA = 4 cm."
+    },
+    {
+        "problem": "Câu 13. Cho hình chóp tứ giác đều có tất cả các cạnh bằng nhau, nếu tăng cạnh bên lên hai lần thì chu vi mặt đáy sẽ\nA. Giảm đi 2 lần\nB. Tăng lên 2 lần\nC. Giảm đi 4 lần.\nD. Tăng lên 4 lần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nHình chóp tứ giác đều có đáy là hình vuông, tất cả các cạnh đều bằng nhau nên cạnh bên tăng lên hai lần thì cạnh đáy tăng hai lần. \nKhi đó, chu vi hình vuông cũng tăng lên 2 lần."
+    },
+    {
+        "problem": "Câu 14. Cho hình chóp tam giác đều S.ABC biết SA = 4 cm, AB = 3 cm. Chọn phát biểu đúng.\nA. SC = AC = 3 cm.\nB. AC = BC = 3 cm.\nC. SB = BC = 4 cm.\nD. SB = SC = 3 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nHình chóp tam giác đều S.ABC có đáy ABC là tam giác đều nên \nAC = BC = AB = 3 cm.\nHình chóp tam giác đều có các mặt bên là các tam giác cân bằng nhau có chung đỉnh nên SB = SC = SA = 4 cm."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Bài 1: Hãy chọn câu sai.\nA. Hình thang là tứ giác có hai cạnh đối song song.\nB. Nếu hình thanh có hai cạnh bên song song thì tất cả các cạnh của hình thang bằng nhau.\nC. Nếu một hình thang có hai cạnh đáy bằng nhau thị hai cạnh bên bằng nhau, hai cạnh bên song song.\nD. Hình thang vuông là hình thang có một góc vuông.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hình thang là tứ giác có hai cạnh đối song song nên A đúng.\n+ Nếu một hình thang có hai cạnh bên song song thì hai cạnh bên bằng nhau, hai cạnh đáy bằng nhau nên B sai vì cạnh bên và cạnh đáy chưa chắc bằng nhau.\n+ Nếu một hình thang có hai cạnh đáy bằng nhau thì hai cạnh bên song song và bằng nhau nên C đúng.\n+ Hình thang vuông là hình thang có một góc vuông nên D đúng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 2: Câu nào sau đây là đúng khi nói về hình thang:\nA. Hình thang là tứ giác có hai cạnh đối song song.\nB. Hình thang là tứ giác có hai cạnh đối bằng nhau\nC. Hình thang là tứ giác có hai cạnh kề bằng nhau\nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTheo định nghĩa: ”Hình thang là tứ giác có hai cạnh đối song song” nên A đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Chọn câu đúng nhất.\nA. Hình thang cân là hình thang có hai góc kề một đáy bằng nhau.\nB. Trong hình thang cân, hai cạnh bên bằng nhau.\nC. Trong hình thang cân, hai đường chéo bằng nhau\nD. Cả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hình thang cân là hình thang có hai góc kề một đáy bằng nhau.\n+ Trong hình thang cân, hai cạnh bên bằng nhau.\n+ Trong hình thang cân, hai đường chéo bằng nhau.\nVậy cả A, B, C đều đúng\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 6: Góc kề cạnh bên của hình thang có số đo là 70^{0} . Góc kề còn lại của cạnh bên đó là:\nA. 70^{0}  \nB. 120^{0} \nC. 110^{0} \nD. 180^{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì tổng hai góc kề cạnh bên của hình thang bằng 180^{0}  nên góc kề còn lại của cạnh bên đó có số đo bằng 180^{0}  – 70^{0}  = 110^{0} .\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 7: Góc kề cạnh bên của hình thang có số đo là 130^{0} . Góc kề còn lại của cạnh bên đó là:\nA. 70^{0} \nB. 100^{0} \nC. 40^{0} \nD. 50^{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì tổng hai góc kề cạnh bên của hình thang bằng 180^{0}  nên góc kề còn lại của cạnh bên đó có số đo bằng 180^{0}  – 130^{0}  = 50^{0} .\nĐáp án cần chọn là: D"
+    }
+]

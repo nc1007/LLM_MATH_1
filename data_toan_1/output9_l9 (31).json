@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Mở trang cuối của sách giáo khoa, em sẽ thấy thông tin về khổ sách là 19x26,5 cm. Em hiểu thông tin đó như thế nào?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khổ sách là kích thước của sách: chiều rộng x chiều dài.\nLời giải chi tiết\nChiều rộng là 19 cm; chiều dài là 26,5 cm."
+    },
+    {
+        "problem": "Em còn biết những đơn vị đo độ dài nào khác?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhớ lại đơn vị đo độ dài đã được học ở cấp 1.\nTìm các đơn vị đo độ dài trên sách báo, internet,...\nLời giải chi tiết\nNhững đơn vị độ dài khác là : km;m;dm;hm;dam;inch; dặm;..."
+    },
+    {
+        "problem": "Dùng thước thẳng có chia vạch, em hãy đo chiều dài của cây bút em đang dùng. So sánh chiều dài cây bút với chiều dài thước thẳng và rút ra kết luận.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt vạch số 0 tại 1 đầu của bút, đầu còn lại của bút chạm vạch nào thì bút có độ dài tương ứng với vạch đó.\nLời giải chi tiết\nChiều dài cây bút nhỏ hơn chiều dài thước thẳng."
+    },
+    {
+        "problem": "Bạn Nam dùng bước chân để đo chiều dài lớp học. Nam bước từ mép tường đầu lớp đến mép tường cuối lớp thì được đúng 18 bước chân. Nếu mỗi bước chân của Nam dài khoảng 0,6 m thì lớp học dài khoảng bao nhiêu?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều dài của 18 bước chân = chiều dài lớp học\nLời giải chi tiết\nLớp học đó dài : 0,6.18 = 10,8 (m)."
+    },
+    {
+        "problem": "Một cái cây đang mọc thẳng thì bị bão làm gãy phần ngọn. Người ta đo được phần ngọn bị gãy dài 1,75 m và phần thân còn lại dài 3 m. Hỏi trước khi bị gãy, cây cao bao nhiêu mét ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều cao của cây bằng tổng độ dài phần ngọn và phần thân.\nLời giải chi tiết\nTrước khi bị gãy, cây cao số mét là : 1,75 + 3=4,75 (m)"
+    }
+]

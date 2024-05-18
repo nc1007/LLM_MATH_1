@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "B.2\nC.3\nD.Vô số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCó 1 và chỉ 1 đường thẳng đi qua 2 điểm phân biệt cho trước. Vậy có duy nhất 1 đường thẳng đi qua hai điểm A và B.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8: Vẽ ba đường thẳng phân biệt bất kì, số giao điểm của ba đường thẳng đó không thể là:\nA.0\nB.1 hoặc 2  \nC.4\nD.3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVới 3 đường thẳng phân biệt ta có các trường hợp sau:\n+ Không có đường thẳng nào cắt nhau nên không có điểm chung.\n+ Hai đường thẳng cắt nhau, đường thẳng còn lại không cắt hai đường thẳng đó, khi đó có 1 điểm chung.\n+ Ba đường thẳng đó có đôi một cắt nhau thì có ba điểm chung.\nVậy không thể có trường hợp ba đường thẳng phân biệt bất kì mà có 4 điểm chung.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12: Biết IL = 4cm; LK = 5cm điều kiện để điểm I nằm giữa hai điểm L và K là:\nA.IK = 1cm\nB.IK = 9cm\nC.IK = 2cm\nD.IK = 3cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐiều kiện để điểm I nằm giữa hai điểm L và K là: IL + IK = LK nên 4 + IK = 5 ⇒ IK = 5 – 4 = 1cm\nVậy điều kiện để điểm I nằm giữa hai điểm L và K là IK = 1cm\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 14: Lấy bốn điểm M, N, P, Q, K trong đó không có ba điểm nào thẳng hàng. Cứ qua hai điểm ta vẽ một đường thẳng. Số đường thẳng có thể vẽ được là:\nA.3\nB.10\nC.12\nD.4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTừ 5 điểm M, N, P, Q, K trong đó không có ba điểm nào thẳng hàng ta có thể vẽ được các đường thẳng đi qua hai điểm bất kì như sau:\n+ Với điểm M ta có thể nối với các điểm: N, P, Q, K để tạo thành 4 đường thẳng phân biệt.\n+ Với điểm N ta có thể nối với các điểm: P, Q, K để tạo thành 3 đường thẳng phân biệt.\n+ Với điểm P ta có thể nối với các điểm: Q, K để tạo thành 2 đường thẳng phân biệt.\n+ Với điểm Q ta có thể nối với điểm K để tạo thành 1 đường thẳng .\nVậy từ 5 điểm M, N, P, Q, K trong đó không có ba điểm nào thẳng hàng ta có thể vẽ được tất cả:\n4  + 3  +  2 + 1 = 10 đường thẳng phân biệt.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 15: Cho trước 6 điểm trong đó có 4 điểm thẳng hàng. Vẽ các đoạn thẳng đi qua các cặp điểm. Hỏi vẽ được bao nhiêu đoạn thẳng?\nA.15\nB.16\nC.14\nD.13",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì qua 2 điểm luôn vẽ được một đoạn thẳng \nNên qua 6 điểm vẽ được số đoạn thẳng là: \n\\frac{66−1}{2}=15 (đoạn thẳng) \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 16: Cho 24 điểm trong đó có 6 điểm thẳng hàng. Qua 2 điểm ta kẻ được một đường thẳng. Hỏi kẻ được tất cả bao nhiêu đường thẳng?\nA.276\nB.290\nC.262\nD.226",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGiả sử trong 24 điểm không có 3 điểm nào thẳng hàng tất cả vẽ được: \\frac{24.(24−1)}{2}=276 (đường thẳng) Qua 6 điểm thẳng hàng vẽ được số đường thẳng là: \\frac{6.(6−1)}{2}=15  (đường thẳng) Nhưng qua 6 điểm thẳng hàng chỉ vẽ được một đường thẳng Nên qua 24 điểm trong đó có 6 điểm thẳng hàng vẽ được: 276−15+1=262 (đường thẳng) Đáp án cần chọn là: C"
+    }
+]

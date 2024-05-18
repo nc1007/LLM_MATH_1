@@ -1,0 +1,74 @@
+[
+    {
+        "problem": "Câu 1. Số nào trong các số sau là số nguyên tố?\nA. 3;\nB. 8;\nC. 12;\nD. 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrong các số đã cho:\n3 có hai ước là 1 và 3. Do đó 3 là số nguyên tố.\n8 có 4 ước là 1; 2; 4; và 8 nên 8 là hợp số.\n12 có 6 ước là 1; 2; 3; 4; 6 và 12 nên 12 là hợp số.\n15 có 4 ước là 1; 3; 5 và 15 nên 15 là hợp số.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Trong các số sau: 16; 17; 20; 21; 23; 97. Có bao nhiêu số là hợp số?\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n16 có 5 ước là 1; 2; 4; 8; 16 nên 16 là hợp số.\n17 có 2 ước là 1 và 17 nên 17 là số nguyên tố.\n20 có 6 ước là 1; 2; 4; 5; 10 và 20 nên 20 là hợp số.\n21 có 4 ước là 1; 3; 7 và 21 nên 21 là hợp số.\n23 có 2 ước là 1 và 23 nên 23 là số nguyên tố.\n97 có 2 ước là 1 và 97 nên 97 là số nguyên tố.\nVậy có 3 số là hợp số. \nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Hoàn thành phát biểu sau: “Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có …”:\nA. ước là 1.\nB. ước là chính nó.\nC. duy nhất một ước.\nD. hai ước là 1 và chính nó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Cho A là tập hợp các số nguyên tố nhỏ hơn 30. Chọn đáp án đúng.\nA. 1 ∈ A;\nB. 2 ∉ A;\nC. 29 ∉ A;\nD. 17 ∈ A",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số nguyên tố nhỏ hơn 30 bao gồm: 2; 3; 5; 7; 11; 13; 17; 23; 29.\nDo đó A = {2; 3; 5; 7; 11; 13; 17; 23; 29}.\nTa có 1 không thuộc tập A, ta viết 1 ∉ A nên A sai.\nTa có 2 thuộc tập A, ta viết 2 ∈ A nên B sai.\nTa có 29 thuộc tập A, ta viết 29 ∈ A nên C sai.\nTa có 17 thuộc tập A, ta viết 17 ∈ A nên D đúng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Phân tích một số ra thừa số nguyên tố là:\nA. phân tích số đó thành tích của số nguyên tố với các hợp số.\nB. phân tích số đó thành tích của các số tự nhiên.\nC. Phân tích số đó thành tích của các thừa số nguyên tố.\nD. Phân tích số đó thành tích của hai thừa số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Phân tích một số ra thừa số nguyên tố là phân tích số đó thành tích của các thừa số nguyên tố.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Có bao nhiêu cách để phân tích một số ra thừa số nguyên tố?\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCó hai cách phân tích một số ra thừa số nguyên tố là: \n+ Phương pháp phân tích theo sơ đồ cây;\n+ Phương pháp phân tích theo sơ đồ cột.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 7. Có bao nhiêu khẳng định đúng trong các khẳng định sau?\na) Ước nguyên tố của 18 là 1; 2; và 3.\nb) Tích của hai số nguyên tố bất kì luôn là số lẻ.\nc) Mọi số chẵn đều là hợp số.\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nƯớc nguyên tố của 18 chỉ có 2 và 3, 1 không phải số nguyên tố nên a sai.\n2 là số nguyên tố, 3 là số nguyên tố. Ta có tích 2.3 = 6 là số chẵn nên b sai.\nTa có 2 là số chẵn, 2 cũng là số nguyên tố nên c sai.\nVậy không có phát biểu nào đúng.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 5. Hãy phân tích A = 4^{2} .9^{5}  ra thừa số nguyên tố.\nA. A = 4^{2} .9^{5} .\nB. A = 2^{4} .9^{5} .\nC. A = 4^{2} .3^{10} .\nD. A = 2^{4} .3^{10} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải A = 4^{2} .9^{5}  = 4.4.9.9.9.9.9 = 2.2.2.2.3.3.3.3.3.3.3.3.3.3 = 2^{4} .3^{10} .\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Chọn câu sai:\nA. 504 = 2^{3} .3^{2} .7.\nB. 102 = 2.3.17.\nC. 75 = 2.5^{2} .\nD. 170 = 2.5.17.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n504\n252\n126\n63\n21\n7\n1\n2\n2\n2\n3\n3\n7\nVậy 504 = 2^{3} .3^{2} .7 nên A đúng.\n102\n51\n17\n2\n3\n17\nVậy 102 = 2.3.17 nên B đúng\n75\n25\n5\n1\n3\n5\n5\nVậy 75 = 3.5^{2}  nên C sai.\n170\n85\n17\n1\n2\n5\n17\nVậy 170 = 2.5.17 nên D đúng.\nĐáp án: C"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Một lớp có 30 học sinh. Cô giáo muốn chia lớp thành các nhóm để thực hiện các dự án học tập nhỏ. Biết rằng, các nhóm đều có số người bằng nhau, số người trong một nhóm là các số nguyên tố. Hỏi có bao nhiêu cách chia?\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nPhân tích 30 ra thừa số nguyên tố ta được: 30 = 2.3.5 \nVì cô giáo muốn chia lớp 30 học sinh thành các nhóm, các nhóm có số người bằng nhau nên số người của mỗi ngóm là ước của 30.\nMà số người mỗi nhóm là số nguyên tố nên số người mỗi nhóm là ước nguyên tố của 30.\nTa có bảng sau:\nSố nhóm\nSố người một nhóm\n30:2 = 15\n2\n30:3 = 10\n3\n30:5 = 6\n5\nDo đó có thể chia thành 15 nhóm, 10 nhóm hoặc 6 nhóm.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Trong nghi lễ thượng cờ lúc 6 giờ sáng và hạ cờ lúc 21 giờ hàng ngày ở Quảng trường Ba Đình, đội tiêu binh có 34 người gồm 1 sĩ quan chỉ huy đứng đầu và 33 chiến sĩ. Hỏi có bao nhiêu cách sắp xếp 33 chiến sĩ thành các hàng, sao cho mỗi hàng có số người như nhau?\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 33 = 3 . 11\nVì xếp 33 chiến sĩ thành các hàng thì số hàng là ước của 33\nƯ(33) = 1; 3; 11; 33.\nVới số hàng là 1 thì số người mỗi hàng là: 33 : 1 = 33 (người)\nVới số hàng là 3 thì số người mỗi hàng là: 33 : 3 = 11 (người)\nVới số hàng là 11 thì số người mỗi hàng là: 33 : 11 = 3 (người)\nVới số hàng là 33 thì số người mỗi hàng là: 33 : 33 = 1 (người)\nVậy có 4 cách cách sắp xếp 33 chiến sĩ thành các hàng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Hai số nguyên tố được gọi là sinh đôi nếu chúng hơn kém nhau hai đơn vị. Ví dụ 17 và 19 là hai số nguyên tố sinh đôi. Em hãy liệt kê các cặp số nguyên tố sinh đôi nhỏ hơn 40. Có tất cả bao nhiêu cặp?\nA. 5;\nB. 6;\nC. 7;\nD. 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác cặp số nguyên tố sinh đôi nhỏ hơn 40: \n+) 3 và 5\n+) 5 và 7\n+) 11 và 13\n+) 17 và 19\n+) 29 và 31\nVậy có tất cả 5 cặp. \nĐáp án: A"
+    }
+]

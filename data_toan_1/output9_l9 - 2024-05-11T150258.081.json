@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Vẽ hình vuông DEFQ có cạnh DE = 5 cm. Vẽ hai đường chéo DF và EQ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Vẽ hình vuông DEFQ có cạnh DE = 5cm\nBước 1. Vẽ đoạn thẳng DE = 5 cm.\nBước 2. Vẽ đường thẳng vuông góc với DE tại D. Xác định điểm Q trên đường thẳng đó sao cho DQ = 5 cm.\nBước 3. Vẽ đường thẳng vuông góc với DE tại E. Xác định điểm F trên đường thẳng đó sao cho EF = 5 cm.\nBước 4. Nối F với Q ta được hình vuông DEFQ.\nLời giải chi tiết\n*Vẽ hình vuông DEFQ có cạnh DE = 5cm\nBước 1. Vẽ đoạn thẳng DE = 5 cm.\nBước 2. Vẽ đường thẳng vuông góc với DE tại D. Xác định điểm Q trên đường thẳng đó sao cho DQ = 5 cm.\nBước 3. Vẽ đường thẳng vuông góc với DE tại E. Xác định điểm F trên đường thẳng đó sao cho EF = 5 cm.\nBước 4. Nối F với Q ta được hình vuông DEFQ.\n*Hai đường chéo DF và EQ vuông góc với nhau\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình chữ nhật có chiều dài a, chiều rộng b thì có diện tích S=ab; chu vi C=2.(a+b)\nChú ý: a,b có cùng đơn vị\nLời giải chi tiết\nDiện tích hình chữ nhật là:\n10. 8 = 80 (cm2)\nChu vi hình chữ nhật là:\n2. (10 + 8) = 2. 18 = 36 (cm)\nVậy diện tích và chu vi của hình chữ nhật lần lượt là 80 cm2 và 36cm.\nLời giải hay"
+    }
+]

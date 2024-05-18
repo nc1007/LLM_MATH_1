@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "A. MA = MB\nB.AM=\\frac{1}{2}AB\nC. MA + MB = AB\nD. MA + MB = AB và MA = MB",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nM là trung điểm của đoạn thẳng AB⇔AM+MB=ABMA=MB\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Nếu ta có P là trung điểm của MN thì\nA.MP=NP=\\frac{MN}{2}\nB.MP+NP=2MN\nC.MP=NP=\\frac{MN}{4}\nD.MP=NP=MN",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có P là trung điểm của MN thì MP=NP=\\frac{MN}{2}\nĐáp án cần chọn là: A"
+    }
+]

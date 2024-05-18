@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Bài 2: Điền cụm từ thích hợp vào chỗ trống: “Diện tích hình hình hành bằng tích của …”\nA. một cạnh với chiều cao tương ứng với cạnh đó.\nB. hai cạnh kề nhau.\nC. hai cạnh đối nhau.\nD. nửa tích hai đường chéo",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDiện tích hình bình hành bằng tích một cạnh với chiều cao ứng với cạnh đó: S = a. h.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Hãy chọn câu đúng:\nA. Diện tích của tứ giác có hai đường chéo vuông góc bằng tích hai đường chéo\nB. Diện tích của tứ giác có hai đường chéo vuông góc bằng hiệu hai đường chéo\nC. Diện tích của tứ giác có hai đường chéo vuông góc bằng tổng hai đường chéo\nD. Diện tích của tứ giác có hai đường chéo vuông góc bằng nửa tích hai đường chéo",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDiện tích của tứ giác có hai đường chéo vuông góc bằng nửa tích hai đường chéo.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 16: Một hình thang có đáy nhỏ là 9 cm, chiều cao là 4 cm, diện tích là 50 cm^{2} . Đáy lớn là:\nA. 25 cm\nB. 18 cm\nC. 16 cm\nD. 15 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTổng hai đáy của hình thang là: 2.50:4 = 25 cm.\nĐộ dài đáy lớn là: 25 – 9 = 16 cm.\nĐáp án cần chọn là: C"
+    }
+]

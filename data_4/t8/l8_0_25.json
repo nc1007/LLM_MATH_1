@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Câu 1. Kết quả của phép tính {ax}^{2}+bx−c.2{a}^{2}x là\nA. 2{a}^{4}{x}^{3}+2{a}^{2}b{x}^{2}−2{a}^{2}cx \nB. 2{a}^{3}{x}^{3}+bx−c \nC. 2{a}^{4}{x}^{2}+2{a}^{2}b{x}^{2}−2{a}^{2}cx\nD. 2{a}^{3}{x}^{3}+2{a}^{2}b{x}^{2}−2{a}^{2}cx",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: {ax}^{2}+bx−c.2{a}^{2}x=2{a}^{3}{x}^{3}+2{a}^{2}b{x}^{2}−2{a}^{2}cx."
+    },
+    {
+        "problem": "Câu 2. Thực hiện phép tính nhân x+y{x}^{2}−xy+{y}^{2} ta được kết quả\nA. {x}^{3}−{y}^{3} \nB. {x}^{3}+2{x}^{2}y+2x{y}^{2}+{y}^{3} \nC.  {x}^{3}+{y}^{3} \nD. {x}^{3}−2{x}^{2}y+2x{y}^{2}−{y}^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: x+y{x}^{2}−xy+{y}^{2}={x}^{3}−{x}^{2}y+x{y}^{2}+y{x}^{2}−x{y}^{2}+{y}^{3}={x}^{3}+{y}^{3} ."
+    },
+    {
+        "problem": "Câu 3. Giá trị của biểu thức {x}^{2}x+y−y{x}^{2}−{y}^{2}  tại x = – 1; y = 10 là\nA. – 1001  \nB. 1001\nC. 999\nD. -999",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: {x}^{2}x+y−y{x}^{2}−{y}^{2}={x}^{3}+{x}^{2}y−{yx}^{2}+{y}^{3}={x}^{3}+{y}^{3} \nTại x = – 1; y = 10 thì giá trị biểu thức là: {−1}^{3}+{10}^{3}=999."
+    },
+    {
+        "problem": "Câu 4. Đa thức {7x}^{3}{y}^{2}z−{2x}^{4}{y}^{3} chia hết cho đơn thức nào dưới đây?\nA. 3{x}^{4} \nB. −3{x}^{4} \nC. −2{x}^{3}y \nD. 2{x}^{3}y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐa thức {7x}^{3}{y}^{2}z−{2x}^{4}{y}^{3} chia hết cho đơn thức −2{x}^{3}y"
+    },
+    {
+        "problem": "Câu 5. Biểu thức  D={9x}^{2}{y}^{2}−{6x}^{2}{y}^{3}:{−xy}^{2}+{6x}^{5}y+2{x}^{4}:2{x}^{4}sau khi rút gọn là một đa thức có bậc bằng\nA. 1.\nB. 2.\nC. 3.\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có D={9x}^{2}{y}^{2}−{6x}^{2}{y}^{3}:{−xy}^{2}+{6x}^{5}y+2{x}^{4}:2{x}^{4}\n ={9x}^{2}{y}^{2}−{6x}^{2}{y}^{3}:9{x}^{2}{y}^{2}+{6x}^{5}y+2{x}^{4}:2{x}^{4}\n =1−\\frac{2}{3}y+3xy+1=2−\\frac{2}{3}y+3xy.\nVậy đa thức sau rút gọn có bậc là  2"
+    },
+    {
+        "problem": "Câu 6. Cho đa thức Px=3+5{x}^{2}−3{x}^{3}+4{x}^{2}−2x−{x}^{3}+5{x}^{5} . Thu gọn và sắp xếp đa thức P(x) theo lũy thừa giảm dần của biến.\nA. Px=3+2x+9{x}^{2} \nB. Px=5{x}^{5}−4{x}^{3}+9{x}^{2}−2x+3 \nC. Px=3{x}^{5}−4{x}^{3}+9{x}^{2}\nD. Px=2x+9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: Px=3+5{x}^{2}−3{x}^{3}+4{x}^{2}−2x−{x}^{3}+5{x}^{5}\n=5{x}^{5}+−3{x}^{3}−{x}^{3}+5{x}^{2}+4{x}^{2}−2x+3\n=5{x}^{5}−4{x}^{3}+9{x}^{2}−2x+3"
+    },
+    {
+        "problem": "Câu 7. Cho các đa thức: M=3{x}^{3}−{x}^{2}y+2xy+3; N={x}^{2}y−2xy−2. Tính M + 2N.\nA. 3{x}^{3}−1 \nB. 3{x}^{3}+{x}^{2}y−2xy+1 \nC. 3{x}^{3}−{x}^{2}y+2xy−1 \nD. 3{x}^{3}+{x}^{2}y−2xy−1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nM + 2N =3{x}^{3}−{x}^{2}y+2xy+3+2{x}^{2}y−2xy−2\n=3{x}^{3}−{x}^{2}y+2xy+3+2{x}^{2}y−4xy−4\n ={x}^{3}+{x}^{2}y−2xy−1."
+    },
+    {
+        "problem": "Câu 8. Cho đa thức N={x}^{3}+{x}^{2}y−2{x}^{2}−xy−{y}^{2}+3y+x−1 biết x + y – 2 = 0. Tính giá trị của đa thức N.\nA. –1\nB. 0\nC. 2\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: N={x}^{3}+{x}^{2}y−2{x}^{2}−xy−{y}^{2}+3y+x−1\n={x}^{3}+{x}^{2}y−2{x}^{2}+−xy−{y}^{2}+2y+y+x−1\n={x}^{2}x+y−2−yx+y−2+x+y−2+1\n={x}^{2}.0−y.0+0+1=1"
+    },
+    {
+        "problem": "Câu 9. Hệ số cao nhất của đa thức Px=4{x}^{2}y+6{x}^{3}{y}^{2}−10{x}^{2}y+4{x}^{3}{y}^{2} là\nA. 10\nB. – 6 \nC. 4\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: Px=4{x}^{2}y+6{x}^{3}{y}^{2}−10{x}^{2}y+4{x}^{3}{y}^{2}\n=4{x}^{2}y−10{x}^{2}y+6{x}^{3}{y}^{2}+4{x}^{3}{y}^{2}\n=−6{x}^{2}y+10{x}^{3}{y}^{2}\nSuy ra hệ số cao nhất của P(x) là 10"
+    },
+    {
+        "problem": "Câu 11. Giá trị m thỏa mãn {x}^{2}−x+1x−x+1{x}^{2}+m−5=−2{x}^{2}+x là\nA. – 5 \nB. 5\nC. 4\nD. 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\n{x}^{2}−x+1x−x+1{x}^{2}+m−5=−2{x}^{2}+x\n{x}^{3}−{x}^{2}+x−{x}^{3}−{x}^{2}+m−5=−2{x}^{2}+x\n−2{x}^{2}+x+m−5=−2{x}^{2}+x\nVậy giá trị m cần tìm là m = 5"
+    },
+    {
+        "problem": "Câu 12. Rút gọn biểu thức 3x−52x+11−2x+33x+7. Khẳng định nào sau đây là đúng?\nA. 6{x}^{2}−15x+55\nB. Không phụ thuộc vào giá trị của biến x\nC. – 43x – 55 \nD. 76",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n3x−52x+11−2x+33x+7\n=6{x}^{2}+23x−55−6{x}^{2}+23x+21\n=6{x}^{2}+23x−55−6{x}^{2}−23x−21=−76\nVậy giá trị biểu thức không phụ thuộc vào giá trị của biến x"
+    },
+    {
+        "problem": "Câu 14. Khu vườn trồng mía của nhà bác Minh ban đầu có dạng hình vuông biết chu vi hình vuông là 20(m) sau đó mở rộng bên phải thêm y(m) phía dưới thêm 10x(m) nên mảnh vườn trở thành hình chữ nhật. Tính chu vi của khu vườn sau khi được mở rộng theo x, y\nA. y + 5\nB. 8x + 5\nC. 2y + 16x + 20\nD. 4x + 8y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCạnh của mảnh vườn hình vuông ban đầu là: 20 : 4 = 5(m)\nChiều rộng của khu vườn sau khi được mở rộng là: y + 5 (m)\nChiều dài của khu vườn sau khi được mở rộng là: 8x + 5 (m)\nChu vi của khu vườn là: \n 2y+5+8x+5=2.y+8x+10=2y+16x+20 (m)"
+    },
+    {
+        "problem": "Câu 15. Một cửa hàng buổi sáng bán được xy bao gạo thì của hàng đó thu được số tiền là {x}^{6}{y}^{5}−{x}^{5}{y}^{4} nghìn đồng. Tính số tiền mỗi bao gạo của cửa hàng đó đã bán khi x = 2; y = 2.\nA. 384 nghìn đồng                         \nB. 284 nghìn đồng\nC. 120 nghìn đồng                         \nD. 84 nghìn đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nSố tiền mỗi bao gạo của cửa hàng đã bán theo x, y là:\n{x}^{6}{y}^{5}−{x}^{5}{y}^{4}{ : xy = x}^{5}{y}^{4}−{x}^{4}{y}^{3} (nghìn đồng)\nSố tiền mỗi bao gạo mà cửa hàng đó đã bán khi x = 2; y =2 là:\n{2}^{5}{.2}^{4}−{2}^{4}{.2}^{3}=384 (nghìn đồng)"
+    }
+]

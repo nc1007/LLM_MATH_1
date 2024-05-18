@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 3. Hình nào dưới đây có vô số trục đối xứng\nA. Hình lục giác đều\nB. Hình vuông\nC. Hình chữ nhật\nD. Hình tròn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hình tròn là hình có vô số trục đối xứng\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Phát biểu nào dưới đây là đúng?\nA. Mỗi đường chéo là một trục đối xứng của hình chữ nhật.\nB. Mỗi đường thẳng đi qua tâm một đường tròn là trục đối xứng của hình tròn.\nC. Mỗi đường thẳng đi qua trung điểm của hai cạnh đối diện là trục đối xứng của hình thoi.\nD. Mỗi đường chéo là một trục đối xứng của hình bình hành.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrục đối xứng của hình chữ nhật là hai đường thẳng đi qua trung điểm của hai cạnh đối nhau. Do đó A sai.\nMỗi đường thẳng đi qua tâm một đường tròn là trục đối xứng của hình tròn. Do đó B đúng.\nMỗi đường chéo là một trục đối xứng của hình thoi. Do đó C sai.\nHình bình hành không có trục đối xứng. Do đó D sai.\nĐáp án: B"
+    },
+    {
+        "problem": "II. Thông hiểu \nCâu 1. Cho các phát biểu sau:\na) Hình vuông ABCD chỉ có hai trục đối xứng là hai đường chéo AC, BD.\nb) Đường thẳng đi qua trung điểm của đoạn thẳng MN và vuông góc với MN là trục đối xứng của đoạn thẳng MN.\nc) Nếu đường thẳng d là trục đối xứng của đường tròn thì d đi qua tâm của đường tròn ấy.\nSố phát biểu đúng là:\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nPhát biểu a) sai vì hình vuông có 4 trục đối xứng là AC, BD và hai trục đối xứng đi qua trung điểm của hai cạnh đối diện.\nPhát biểu b) là phát biểu đúng.\nPhát biểu c) là phát biểu đúng.\nVậy có 2 phát biểu đúng.\nĐáp án: C"
+    }
+]

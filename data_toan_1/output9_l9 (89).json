@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Trong các phát biểu sau đây phát biểu nào đúng, phát biểu nào sai? Giải thích.\na) – 36 chia hết cho – 9;\nb) – 18 chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận định tính đúng sai của các phát biểu và giải thích.\nLời giải chi tiết\na) Đúng. Vì (- 36) = (- 9) . 4\nb) Sai. Vì 5 không là ước của 18."
+    },
+    {
+        "problem": "Tìm số nguyên x, biết:\na) 4 chia hết cho x.\nb) -13 chia hết cho x+2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) x là ước nguyên của 4\nb) x+2 là ước nguyên của -13\nLời giải chi tiết\na) 4 chia hết cho x nên x là ước nguyên của 4 tức là \\(x \\in \\left\\{ {1; - 1;2;-2;4;-4} \\right\\}\\)\nb) Vì -13 chia hết cho x+2 nên \\(x+2 \\in Ư(-13) =\\)\\(\\left\\{ {1; - 1;13; - 13} \\right\\}\\)\nVới \\(x + 2 = 1 \\Rightarrow x = 1 - 2 =  - 1\\)\nVới \\(x + 2 =  - 1 \\Rightarrow x =  - 1 - 2 =  - 3\\)\nVới \\(x + 2 = 13 \\Rightarrow x = 13 - 2 = 11\\)\nVới \\(x + 2 =  - 13 \\Rightarrow x =  - 13 - 2 =  - 15\\)\nVậy \\(x \\in \\left\\{ {-1; - 3;11;-15} \\right\\}\\)"
+    },
+    {
+        "problem": "Một con ốc sên leo lên một cây cao 8 m. Trong mỗi ngày (24 giờ), 12 giờ đầu tiên ốc sên leo được 3m, rồi 12 giờ sau nó lại tụt xuống 2m. Quy ước quãng đường mà ốc sên leo lên 3 m là 3 m, quãng đường ốc sên tụt xuống 2 m là  - 2m.\na) Viết phép tính biểu thị quãng đường mà ốc sên leo được sau 2 ngày.\nb) Sau 5 ngày thì ốc sên leo được bao nhiêu m?\nc) Sau bao nhiêu giờ thì ốc sên chạm đến ngọn cây? Biết rằng lúc 0 giờ ốc sên ở gốc cây và bắt đầu leo lại.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n+ Biểu thị quãng đường ốc sên leo trong một ngày.\n+ Quãng đường ốc sên leo 2 ngày gấp 2 lần quãng đường 1 ngày.\nb) Quãng đường ốc sên leo 5 ngày gấp 5 lần quãng đường 1 ngày.\nc)\n+ Ngọn cây 8m=5m+3m.\n+ Tính số giờ leo được 5 m.\n+ Tính số giờ leo 3m còn lại.\nLời giải chi tiết\na)\nQuãng đường mà ốc sên leo được sau 1 ngày được biểu thị bằng phép tính: \\(3 + \\left( { - 2} \\right)\\).\nQuãng đường mà ốc sên leo được sau 2 ngày được biểu thị bằng phép tính:\n[3 + (- 2)] . 2.\nb) Sau 5 ngày ốc sên leo được: [3 + (- 2)] . 5 = 5 (m).\nc) 12 giờ đầu tiên ốc sên leo được 3m, rồi 12 giờ sau nó lại tụt xuống 2m.\n=> Sau 1 ngày (24 giờ) ốc sên sẽ leo được 1 m\n- Đến hết ngày thứ 5 (120 giờ) ốc sên leo được 5 m.\n- 12 giờ đầu ốc sên leo được 3 m\nNhư vậy ốc sên đã lên đến ngọn cây\n- Nên tổng số giờ: 120 + 12 = 132 (giờ).\nKết luận: Tổng số giờ ốc sên chạm đến ngọn cây là 132 giờ.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng máy tính cầm tay để tính:\n(- 252) : 21;                   253 : (- 11);                   (- 645) : (- 15).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các em sử dụng máy tính cầm tay để tính theo hướng dẫn.\nLời giải chi tiết\n(-252):21= - 12\n253: (-11)= ( -23)\n( - 645) : (- 15 ) = 43.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Sử dụng số nguyên âm để thực hiện các tình huống sau:\na) Nợ 150 nghìn đồng;\nb) 600 m dưới mực nước biển;\nc) 12 độ dưới \\(0^\\circ C\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Thêm dấu “ – ” vào trước: Số tiền nợ, độ cao sâu dưới mực nước biển và nhiệt độ dưới \\(0^\\circ C\\).\nLời giải chi tiết\na) – 150 (nghìn đồng)\nb) – 600 (m)\nc) - 12 (\\(^\\circ C\\)).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các phát biểu sau, phát biểu nào đúng, phát biểu nào sai? Giải thích.\na) Kết quả của phép trừ số nguyên dương cho số nguyên dương là số nguyên dương.\nb) Kết quả của phép trừ số nguyên dương cho số nguyên âm là số nguyên dương.\nc) Kết quả của phép nhân số nguyên dương với số nguyên âm là số nguyên âm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận định tính đúng, sai của các phát biểu, giải thích nếu phát biểu sai.\nLời giải chi tiết\na) Sai vì kết quả có thể là số nguyên dương hoặc nguyên âm. Ví dụ: 4 – 7 = - 3\nb) Đúng vì phép trừ số nguyên dương cho số nguyên âm là phép cộng số nguyên dương với số nguyên dương. Kết quả là số nguyên dương.\nc) Đúng vì tích của 2 số nguyên trái dấu là số nguyên âm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\((- 15) . 4 – 240: 6 + 36 : (- 2) . 3\\);\nb) \\((- 2^5) + [(- 69) : 3 + 53] . (- 2) – 8\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thực hiện phép nhân và phép chia trước, phép cộng và trừ sau.\nb) Thực hiện phép tính trong ngoặc trước, ngoài ngoặc sau.\nLời giải chi tiết\na) \\((- 15) . 4 – 240 : 6 + 36 : (- 2) . 3 = - 60 – 40 + (- 54) = - (60+40+54)= - 154\\).\nb) \\((- 2^5) + [(- 69) : 3 + 53] . (- 2) – 8 \\)\n\\(= (- 32) + (- 23 + 53) . (- 2) - 8\\)\n\\(= (- 32) + 30 . (- 2) - 8\\)\n\\(= (- 32) + (- 60) – 8\\)\n\\(= - (32+60+8)\\)\n\\(= - 100\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số nguyên x, biết:\na) 4 . x + 15 = - 5;\nb) (- 270) : x – 20 = 70.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm x là số nguyên\nLời giải chi tiết\na) 4 . x + 15 = - 5\n=> 4 . x = - 5 – 15\n=> 4 . x = - 20\n=> x = - 20 : 4\n=> x = - 5.\nVậy x = - 5.\nb) (- 270) : x – 20 = 70.\n=> (- 270) : x = 70 + 20\n=> (- 270) : x = 90\n=> x = (- 270) : 90\n=> x = - 3\nVậy x = - 3\nLoigiaihay.com"
+    },
+    {
+        "problem": "Công ty An Bình có lợi nhuận ở mỗi tháng trong 4 tháng đầu năm là – 70 triệu đồng. Trong 8 tháng tiếp theo lợi nhuận mỗi tháng của công ty là 60 triệu đồng. Sau 12 tháng kinh doanh, lợi nhuận của công ty An Bình là bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tổng lợi nhuận 12 tháng bằng tổng 4 tháng đầu năm cộng với 8 tháng tiếp theo.\nLời giải chi tiết\nLợi nhuận 4 tháng đầu năm: (- 70) . 4 (triệu đồng).\nLợi nhuận 8 tháng tiếp theo: 60 . 8 (triệu đồng).\nSau 12 tháng kinh doanh, lợi nhuận của công ty An Bình là:\n(- 70) . 4 + 60 . 8 = 200 (triệu đồng)\n* Kết luận: Sau 12 tháng kinh doanh, lợi nhuận của công ty An Bình là 200 triệu đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Người ta sử dụng biểu thức T= (I - E) : 12 để biểu diễn số tiền tiết kiệm trung bình mỗi tháng của một người, trong đó I là tổng thu nhập và E là tổng chi phí trong một năm của người đó. Bác Dũng có số tiền tiết kiệm trung bình mỗi tháng là 3 triệu đồng và tổng chi phí cả năm là 84 triệu đồng. Tính tổng thu nhập cả năm của bác Dũng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Biểu diễn số tiết kiệm trung bình mỗi tháng: T\n- Tổng chi phí: E.\n- Thay: T và E vào biểu thức T= (I - E) : 12.\n- Tìm I.\nLời giải chi tiết\n- Số tiền tiết kiệm trung bình của Bác Dũng trong mỗi tháng: T = 3 (triệu đồng).\n- Tổng chi phí cả năm của bác Dũng: E = 84 (triệu đồng)\nTa có biểu thức: T= (I - E) : 12\nThay: T = 3, E = 84 vào biểu thức ta được:\n3 = (I - 84) : 12\n=> I – 84 = 3 . 12\n=> I – 84 = 36\n=> I = 36 + 84\n=> I = 120.\n* Kết luận: Tổng thu nhập cả năm của bác Dũng là 120 triệu đồng."
+    }
+]

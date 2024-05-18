@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Dùng thước để đo độ dài của các đoạn thẳng IA, IB,IC,ID (đơn vị milimet). Em có nhận xét gì về độ dài các đoạn thẳng đã đo?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đo và nhận xét độ dài các đoạn thẳng\nLời giải chi tiết\nIA = 18 mm\nIB = 27 mm\nIC = 18 mm\nID = 27 mm\nTa thấy: IA = IC; IB = ID."
+    },
+    {
+        "problem": "Cho hai điểm A và B cách nhau một khoảng bằng 8 cm. Nếu ta chọn một đoạn thẳng có độ dài 2 cm làm đơn vị độ dài thì đoạn AB có độ dài bằng bao nhiêu đơn vị vừa chọn?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia\nLời giải chi tiết\nNếu ta chọn một đoạn thẳng có độ dài 2 cm làm đơn vị độ dài thì đoạn AB = 8 cm = 4 đơn vị độ dài"
+    },
+    {
+        "problem": "Bạn Nam dùng một cây gậy dài 1,5 m để đo chiều rộng của lớp học. Sau 5 lần đặt gậy đo liên tiếp thì khoảng cách còn lại giữa đầu gậy và mép tường là 1 m. Hỏi chiều rộng của lớp học là bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi lần đặt gậy tương ứng với 1,5 m\nLời giải chi tiết\nChiều rộng của lớp học là:\n1,5. 5 + 1 =  8,5 (m)"
+    },
+    {
+        "problem": "Ta có nhận xét rằng trong ba điểm thẳng hàng, luôn có một điểm nằm giữa hai điểm còn lại. Giả sử A,B,C là ba điểm thẳng hàng. Nếu BC = AB + AC thì trong ba điểm đó, điểm nào nằm giữa hai điểm còn lại.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét các vị trí tương đối của 3 điểm\nLời giải chi tiết\nA,B,C là ba điểm thẳng hàng thì có 3 trường hợp có thể xảy ra:\n+ Trường hợp 1: A nằm giữa B và C thì BC = AB + AC ( thỏa mãn đề bài)\n+ Trường hợp 2: B nằm giữa A và C thì AC = BA + BC\n+ Trường hợp 3: C nằm giữa A và B thì AB = AC + CB\nVậy BC = AB + AC thì trong ba điểm đó, điểm A nằm giữa hai điểm còn lại"
+    },
+    {
+        "problem": "Tính độ dài đoạn thẳng AB biết rằng I là trung điểm của đoạn thẳng AB và AI = 8 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu I là trung điểm của đoạn thẳng AB thì 2. AI = AB\nLời giải chi tiết\nVì I là trung điểm của đoạn thẳng AB nên 2. AI = AB\nHay AB = 16 cm"
+    },
+    {
+        "problem": "Cho điểm C nằm giữa hai điểm A và B, I là trung điểm của đoạn BC. Tính độ dài của đoạn AB, biết rằng AC = 5 cm và CI = 7 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "C nằm giữa hai điểm A và B nên AB = AC + CB\nI là trung điểm của đoạn BC nên BC = 2. CI\nLời giải chi tiết\nVì I là trung điểm của đoạn BC nên BC = 2. CI =  2.7= 14 cm\nVì điểm C nằm giữa hai điểm A và B nên AB = AC + CB = 5 + 14 = 19 cm"
+    },
+    {
+        "problem": "Nhà Hương cách trường học 2 200 m. Hằng ngày trên đường đến trường, Hương phải đi qua một siêu thị, sau đó đến một cửa hàng bánh kẹo nằm cách trường khoảng 500 m.\nHỏi quãng đường từ siêu thị đến cửa hàng bánh kẹo dài bao nhiêu mét? Biết rằng siêu thị nằm ở chính giữa nhà Hương và trường học.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi nhà Hương là H, siêu thị là S, cửa hàng bánh kẹo là C, trường là T. Khi đó, ta cần tính độ dài SC.\nLời giải chi tiết\nGọi nhà Hương là H, siêu thị là S, cửa hàng bánh kẹo là C, trường là T. Khi đó, ta cần tính độ dài SC.\nTa có: HT =2 200 m ; CT = 500 m ;\nMà S nằm ở chính giữa H và T nên HS = ST = HT : 2 = 2 200 : 2 = 1 100 m\nTa được: SC + CT = ST\nSC + 500 = 1 100\nSC = 1 100 - 500\nSC = 600 (m)\nVậy quãng đường từ siêu thị đến cửa hàng bánh kẹo dài 600 m."
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Tổng sau có chia hết cho 3 hay không? Vì sao?\na) A = 1012 + 1;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Số có tổng các chữ số chia hết cho 3 thì chia hết cho 3\n+ \\(10^n=10….0)\\)( n chữ số 0)\n+ Kiểm tra tổng các chữ số của A, B\nLời giải chi tiết\na)A = 1012 + 1\nTa có: 1012 = 10…00(12 chữ số 0) nên A= 10….01(11 chữ số 0)\nVì 1+ 0 +0 +…+ 0 + 1 =2 ⋮̸ 3 nên A ⋮̸ 3\nb) B = 1012 + 2.\nTa có: 1012 = 10…00(12 chữ số 0) nên B= 10….02(11 chữ số 0)\nVì 1+ 0 +0 +…+ 0 + 2 =3 ⁝ 3 nên B ⁝ 3\nLời giải hay"
+    },
+    {
+        "problem": "Tổng sau có chia hết cho 9 hay không? Vì sao?\na) A = 1012 +7;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Số có tổng các chữ số chia hết cho 9 thì chia hết cho 9\n+ \\(10^n=10….0)\\)( n chữ số 0)\n+ Kiểm tra tổng các chữ số của A, B\nLời giải chi tiết\na)A = 1012 +7\nTa có: 1012 = 10…00(12 chữ số 0) nên A= 10….07(11 chữ số 0)\nVì 1+ 0 +0 +…+ 0 + 7 =8 ⋮̸ 9 nên A ⋮̸ 9\nb) B = 1012 +8.\nTa có: 1012 = 10…00(12 chữ số 0) nên B= 10….08(11 chữ số 0)\nVì 1+ 0 +0 +…+ 0 + 8 =9 ⁝ 9 nên B ⁝ 9"
+    },
+    {
+        "problem": "Hãy phân tích các số A, B sau đây ra thừa số nguyên tố",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân tích từng thừa số ra thành tích các số nguyên tố\nLời giải chi tiết\n\\(\\begin{array}{l}a)A = {6^2}{.9^3} = 6.6.9.9.9\\\\ = 2.3.2.3.3.3.3.3.3.3\\\\ = {2^2}{.3^8}\\\\b)B = {3.8^2}.25 = 3.(2.2.2).(2.2.2).5.5\\\\ = {2^6}{.3.5^2}\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm chữ số a để\na)\\(\\overline {49a} \\) là số nguyên tố",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tra bảng số nguyên tố\nLời giải chi tiết\nTra bảng số nguyên tố, ta được\na)      a= 1 hoặc a=9\nb)      \\(a \\in \\{ 0;1;2;4;5;6;7;8\\} \\)\nLời giải hay"
+    },
+    {
+        "problem": "Kiểm tra xem trong các số sau, số nào là số nguyên tố, số nào là hợp số bằng cách dùng dấu hiệu chia hết hoặc tra bảng số nguyên tố:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Quan sát bảng số nguyên tố\n+Số chia hết cho số khác 1 và chính nó là hợp số\n+ Dấu hiệu chia hết cho 2: có chữ số tận cùng là 0;2;4;6;8\n+ Dấu hiệu chia hết cho 5: có chữ số tận cùng là 0; 5\n+ Dấu hiệu chia hết cho 3: có tổng các chữ số chia hết cho 3\nLời giải chi tiết\nTra bảng nguyên tố ta thấy 829 và 971 là số nguyên tố\nÁp dụng dấu hiệu chia hết cho 2; 3; 5 ta có:\n9 891 ⁝ 3( do 9 + 8 + 9 +1=27 ⁝ 3);\n12 344 ⁝ 2 ( do có tận cùng là 4);\n32 015 ⁝ 5 ( do có tận cùng là 5)\nVậy 9 891; 12 344; 32 015 là hợp số.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Ta thấy 2 021 là số lẻ nên phải là tổng của 1 số chẵn và 1 số lẻ\n+ Số 2 là số nguyên tố chẵn duy nhất\nLời giải chi tiết\nTa thấy 2 021 là số lẻ nên phải là tổng của 1 số chẵn và 1 số lẻ\nTa có số 2 là số nguyên tố chẵn duy nhất nên ta chỉ cần xét trường hợp 2 021 = 2 + 2 019\nVì 2 019 có tổng các chữ số là 2 + 0 + 1 + 9 = 12 ⁝ 3 nên 2 019 ⁝ 3 vì thế 2 019 không phải là số nguyên tố.\nVậy 2 021 không thể viết thành tổng của hai số nguyên tố được.\nLời giải hay"
+    },
+    {
+        "problem": "Tổng sau là số nguyên tố hay hợp số?\na) 11. 12. 13 + 14. 15;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tổng nào chia hết cho 1 số khác 1 và chính nó thì là hợp số\n+Áp dụng tính chất chia hết của một tổng\n+Chú ý: Mọi số chẵn lớn hơn 2 đều là hợp số\nLời giải chi tiết\na) Vì 12 ⁝ 3 nên (11. 12. 13) ⁝ 3\n15 ⁝ 3 nên (14. 15) ⁝ 3\nDo đó (11. 12. 13 + 14. 15) ⁝ 3 (tính chất chia hết của một tổng)\nVậy (11. 12. 13 + 14. 15) là hợp số.\nb) Ta thấy: 11. 13. 15 là tích của 3 số lẻ nên là số lẻ\n17. 19. 23 là tích của 3 số lẻ nên là số lẻ\nTa được (11. 13. 15 + 17. 19. 23) là số chẵn( tổng 2 số lẻ là 1 số chẵn)\nMà (11. 13. 15 + 17. 19. 23) > 2 nên (11. 13. 15 + 17. 19. 23) là hợp số.\nVậy (11. 13. 15 + 17. 19. 23) là hợp số.\nLời giải hay"
+    },
+    {
+        "problem": "a) Năm 1742, nhà toán học người Đức Goldbach gửi cho nhà toán học Thụy Sĩ Euler một bức thư viết rằng: Mọi số tự nhiên lớn hơn 5 đều viết được thành tổng của ba số nguyên tố, ví dụ 7 = 2 + 2 + 3; 8 = 2 + 3 + 3.\nEm hãy viết các số 17; 20 thành tổng của ba số nguyên tố.\nb) Trong thư trả lời Goldbach, Euler nói rằng: Mọi số chẵn lớn hơn 2 đều viết được dưới dạng tổng của hai số nguyên tố.\nEm hãy viết các số 36; 50 thành tổng của hai số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm 3( hoặc 2) số nguyên tố có tổng là số đã cho\nLời giải chi tiết\na)      Ta có: 17 = 3 + 7 + 7;\n20 = 2 + 7 + 11\nb)      Ta có: 36 = 17 + 19;\n50 = 13 + 37.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân tích các số thành tích các thừa số nguyên tố\nƯC(105,140) là số vừa là ước của 105, vừa là ước của 140\nLời giải chi tiết\n+) Phân tích 105 ra thừa số nguyên tố: 105 = 3. 5. 7\nVì 105 chia hết cho các số: 1; 3; 5; 7; 15; 21; 35; 105\nDo đó: Ư(105) = {1; 3; 5; 7; 15; 21; 35; 105}\n+) Phân tích 140 ra thừa số nguyên tố: \\(140 =  2^2. 5. 7 \\)\nVì 140 chia hết cho các số: 1; 2; 4; 5; 7; 10; 14; 20; 28; 35; 70; 140\nDo đó: Ư(140) = {1; 2; 4; 5; 7; 10; 14; 20; 28; 35; 70; 140}.\nKhi đó ƯC(105, 140) = {1; 5; 7; 35}.\nLời giải hay"
+    },
+    {
+        "problem": "Tìm ƯCLN của:\na) 35 và 105;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a ⁝ b thì ƯCLN(a, b) = b.\nLời giải chi tiết\na) Vì 105 ⁝ 35 nên ƯCLN(35, 105) = 35.\nVậy ƯCLN(35, 105) = 35.\nb) Vì 180 ⁝ 15; 165 ⁝ 15 nên ƯCLN(15, 180, 165) = 15.\nVậy ƯCLN(15, 180, 165) = 15.\nLời giải hay"
+    },
+    {
+        "problem": "Hãy tìm ước chung lớn nhất rồi tìm ước chung của các số sau:\na) 72 và 90;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\n*Ước của ƯCLN là ước chung\nLời giải chi tiết\na)+ Phân tích các số 72 và 90 ra thừa số nguyên tố:\n72 = 23.32\n90 = 2.32.5\n+ Các thừa số nguyên tố chung là: 2 và 3.\n+ Số mũ nhỏ nhất của 2 là 1, số mũ nhỏ nhất của 3 là 2.\nKhi đó:  ƯCLN(72; 90) = 2. 32 = 18.\nTa được ƯC(72; 90) = Ư(18) = {1; 2; 3; 6; 9; 18}\nVậy ƯCLN(72; 90) = 18 và ƯC(72; 90) = {1; 2; 3; 6; 9; 18}.\nb) Phân tích các số 200; 245 và 125 ra thừa số nguyên tố:\n200 = 23.52\n245 = 5.72\n125 = 53\n+Thừa số nguyên tố chung là: 5.\n+Số mũ nhỏ nhất của 5 là 1\nKhi đó ƯCLN(200; 245; 125) = 5.\nTa được ƯC(200; 245; 125) = Ư(5) = {1; 5}\nVậy ƯCLN(200; 245; 125) = 5 và ƯC(200; 245; 125) = {1; 5}.\nLời giải hay"
+    },
+    {
+        "problem": "Điền các từ thích hợp vào chỗ chấm:\na) Nếu a ⁝ 7 và b ⁝ 7 thì 7 là……. của a và b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào định nghĩa ước chung và ước chung lớn nhất\nLời giải chi tiết\na) Nếu a ⁝ 7 và b ⁝ 7 thì 7 là ước chung của a và b.\nb) Nếu 9 là số lớn nhất sao cho a ⁝ 9 và b ⁝ 9 thì 9 là ước chung lớn nhất của a và b.\nLời giải hay\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Gọi x là số chiếc bút trong mỗi hộp bút chì màu (chiếc)(x ∈ N*; x  > 2)\n+ x vừa là ước của 25, vừa là ước của 20\n*Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\nLời giải chi tiết\nGọi x là số chiếc bút trong mỗi hộp bút chì màu (chiếc)(x ∈ N*; x  > 2)\nTheo bài ra ta có: 25 chia hết cho x; 20 chia hết cho x\nSuy ra x là ƯC(25; 20)\nTa có: 25 = 52\n20 = 22.5\n+Thừa số chung là 5\n+Số mũ nhỏ nhất của 5 là 1\nTa được ƯCLN(25; 20) = 5\nƯC(25; 20) = Ư(5) = {1; 5} nên x ∈ {1;5}\nMà x > 2 nên x = 5.\nVậy mỗi hộp bút chì màu có 5 chiếc.\nLời giải hay"
+    },
+    {
+        "problem": "Một số bằng tổng các ước của nó (không kể chính nó) gọi là số hoàn hảo.\nChẳng hạn, các ước của 6 (không kể chính nó) là 1; 2; 3; ta có: 1 + 2 + 3 = 6.\nVậy 6 là số hoàn hảo. Em hãy chỉ ra trong các số 10; 28; 496; số nào là số hoàn hảo.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kiểm tra các ước của các số đã cho (không kể chính nó) và tính tổng các ước của chúng\nLời giải chi tiết\n+ Các ước của 10 (không kể chính nó) là 1; 2; 5 nhưng 1 + 2 + 5 = 8 ≠ 10 nên 10 không là số hoàn hảo.\n+ Các ước của 28 (không kể chính nó) là: 1; 2; 4; 7; 14 và 1 + 2 + 4 + 7 + 14 = 28 nên 28 là số hoàn hảo.\n+ Các ước của 496 (không kể chính nó) là 1; 2; 4; 8; 16; 31; 62; 124; 248 và 1 + 2 + 4 + 8 + 16 + 31 + 62 + 124 + 248 = 496 nên 496 là số hoàn hảo.\nVậy trong các số trên có 28 và 496 là số hoàn hảo.\nLời giải hay\n"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*a là là ước chung lớn nhất của 480 và 720\n*Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\nLời giải chi tiết\nVì 480 ⁝ a và 720 ⁝ a nên a là một ƯC(480,720)\nMà a lớn nhất nên a = ƯCLN(480; 720)\nTa có:\n480 = 25.3.5\n720 = 24.32.5\n+Các thừa số nguyên tố chung là: 2; 3 và 5.\n+Số mũ nhỏ nhất của 2 là 4, của 3 là 1, của 5 là 1\nTa được ƯCLN(480; 720) = 24. 3 . 5 = 240.\nVậy số tự nhiên a lớn nhất là 240.\nLời giải hay"
+    },
+    {
+        "problem": "Các phân số sau có là phân số tối giản hay không? Hãy rút gọn chúng nếu chưa tối giản.\na)\\(\\frac{{21}}{{36}}\\);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Ước chung của tử và mẫu khác 1 thì phân số chưa tối giản\n*Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\n* Rút gọn phân số chưa tối giản bằng cách chia cả tử và mẫu của nó cho ƯCLN\nLời giải chi tiết\na) \\(\\frac{{21}}{{36}}\\)\nTa có:\n21 = 3.7\n36 = 22.32\n+) Thừa số nguyên tố chung là 3 với số mũ nhỏ nhất là 1 nên ƯCLN(21, 36) = 3.\nƯớc chung của tử và mẫu khác 1 nên phân số chưa tối giản\nTa có: \\(\\frac{{21}}{{36}} = \\frac{{21:3}}{{36:3}} = \\frac{7}{{12}}\\)\nb)\\(\\frac{{23}}{{73}}\\)\nTa có:\n23 = 23\n73 = 73\n+) Không có thừa số nguyên tố chung nên ƯCLN(23, 73) = 1.\nLời giải hay"
+    }
+]

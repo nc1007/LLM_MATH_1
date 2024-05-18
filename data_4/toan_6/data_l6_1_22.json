@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Các môn thể thao được yêu thích của lớp 6A là:\nA. Cầu lông, bóng bàn, đá cầu, bóng rổ, bóng đá\nB. Bóng chuyền, bóng bàn, bóng đá, đá cầu, bóng rổ\nC. Đá cầu, bóng chuyền, điền kinh, bóng rổ, bóng bàn\nD. Bóng rổ, đá cầu, bóng đá",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác môn thể thao được yêu thích của lớp 6A là: Bóng đá, cầu lông, bóng bàn, đá cầu, bóng rổ.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Số học sinh vắng trong ngày của các lớp khối 6 trường THCS A là\n6A1\n6A2\n6A3\n6A4\n6A5\n6A6\n6A7\n6A8\n2\n4\n5\n1\n3\n2\n2\n1\nCó bao nhiêu lớp có số học sinh vắng ít nhất\nA. 4\nB. 5\nC. 1\nD. 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố học sinh vắng ít nhất trong một lớp là 1\nLớp có số học sinh vắng ít nhất là lớp 6A4 , 6A8\nVậy có 2 lớp có số học sinh vắng ít nhất.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Em hãy chỉ ra các điểm không hợp lí trong bảng dữ liệu sau:\nDanh sách học sinh giỏi lớp 7A\nSTT\nHọ và tên\n1\nNguyễn Hoàng Xuân\n2\nPhạm Thị Hương\n3\nĐỗ Thu Hà\n4\n03456789\n5\nNgô Xuân Giang\nA. Nguyễn Hoàng Xuân\nB. 03456789\nC. Phạm Thị Hương\nD. Ngô Xuân Giang",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHọ và tên phải là chữ nên 03456789 không thể là họ và tên của một người\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Cho bảng số liệu đánh giá chất lượng sản phẩm bằng điểm số 1, 2, 3, 4, 5 của một lô hàng gồm 15 sản phẩm như sau:\nĐiểm\n1\n2\n3\n4\n5\nSố sản phẩm\n3\n0\n5\n7\n0\nĐối tượng thống kê là\nA. Các điểm số 1, 2, 3, 4, 5.\nB. Số sản phẩm 3,0,5,7,0\nC. Điểm số và sản phẩm\nD. Lô hàng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBảng trên có thông tin về số sản phẩm đạt từng loại điểm 1, 2, 3, 4, 5 nên đối tượng thống kê là các điểm số 1,2,3,4,5.\nĐáp án cần chọn là: A"
+    }
+]

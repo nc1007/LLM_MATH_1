@@ -1,0 +1,176 @@
+[
+    {
+        "problem": "Bài 5: Kết quả của phép tính (ax^{2}  + bx – c).2a^{2} x bằng\nA. 2a^{4} x^{3}  + 2a^{2} bx^{2}  – 2a^{2} cx\nB. 2a^{3} x^{3}  + bx – c\nC. 2a^{4} x^{2}  + 2a^{2} bx^{2}  – a^{2} cx\nD. 2a^{3} x^{3}  + 2a^{2} bx^{2}  – 2a^{2} cx",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: (ax^{2}  + bx – c).2a^{2} x = 2a^{2} x.(ax^{2}  + bx – c)\n                                      = 2a^{2} x.ax^{2}  + 2a^{2} x.bx – 2a^{2} x.c\n                                      = 2a^{3} x^{3}  + 2a^{2} bx^{2}  – 2a^{2} cx\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 7: Kết quả của phép tính -4x^{2} (6x^{3}  + 5x^{2}  – 3x + 1) bằng\nA. 24x^{5}  + 20x^{4}  + 12x^{3}  – 4x^{2} \nB. -24x^{5}  – 20x^{4}  + 12x^{3}  + 1\nC. -24x^{5}  – 20x^{4}  + 12x^{3}  – 4x^{2} \nD. -24x^{5}  – 20x^{4}  – 12x^{3}  + 4x^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: -4x^{2} (6x^{3}  + 5x^{2}  – 3x + 1)\n= (-4x^{2} ).6x^{3}  + (-4x^{2} ).5x^{2}  + (-4x^{2} ).(-3x) + (-4x^{2} ).1\n= -24x^{5}  – 20x^{4}  + 12x^{3}  – 4x^{2} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 8: Tích ( x- y)(x + y) có kết quả bằng\nA. x^{2}  – 2xy + y^{2} \nB. x^{2}  + y^{2}     \nC. x^{2}  – y^{2}     \nD. x^{2}  + 2xy + y^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có ( x- y)(x + y) = x.x + x.y – x.y – y.y = x^{2}  – y^{2} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 9: Tích (2x – 3)(2x + 3) có kết quả bằng\nA. 4x^{2}  + 12x+ 9    \nB. 4x^{2}  – 9   \nC. 2x^{2}  – 3   \nD. 4x^{2}  + 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (2x – 3)(2x + 3) = 2x.2x + 2x.3 – 3.2x + (-3).3\n          = 4x^{2}  + 6x – 6x – 9 = 4x^{2}  – 9\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 10: Giá trị của biểu thức P = -2x^{2} y(xy + y^{2} ) tại x = -1; y = 2 là\nA. 8\nB. -8\nC. 6\nD. -6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThay x = -1; y = 2 vào biểu thức P = -2x^{2} y(xy + y^{2} ) ta được\nP = -2.(-1)^{2} .2[(-1).2 + 2^{2} ] = -4.2 = -8\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 11: Chọn câu sai.\nA. Giá trị của biểu thức ax(ax + y) tại x = 1; y = 0 là a^{2} .\nB. Giá trị của biểu thức ay^{2} (ax + y) tại x = 0; y = 1 là (1 + a)^{2} .\nC. Giá trị của biểu thức -xy(x - y) tại x = -5; y = -5 là 0.\nD. Giá trị của biểu thức xy(-x - y) tại x = 5; y = -5 là 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+) Thay x = 1; y = 0 vào biểu thức ax(ax + y) ta được\na.1(a.1+0) = a.a = a^{2}  nên phương án A đúng\n+) Thay x = 0, y = 1 vào biểu thức ay^{2} (ax + y) ta được\na.1^{2} (a.0+1) = a.1 = a nên phương án B sai.\n+) Thay x = −5, y = −5 vào biểu thức −xy(x − y) ta được \n−(−5)(−5)[−5−(−5)] = −25.0 = 0  nên phương án C đúng\n+) Thay x = 5, y = −5 vào biểu thức xy(−x − y) ta được \n5.(−5)[−5−(−5)] = −25.0 = 0 nên phương án D đúng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 13: Chọn câu đúng.\nA. (x^{2}  – 1)(x^{2}  + 2x) = x^{4}  – x^{3}  – 2x\nB. (x^{2}  – 1)(x^{2}  + 2x) = x^{4}  – x^{2}  – 2x\nC. (x^{2}  – 1)(x^{2}  + 2x) = x^{4}  + 2x^{3}  – x^{2}  – 2x\nD. (x^{2}  – 1)(x^{2}  + 2x) = x^{4}  + 2x^{3}  – 2x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: (x^{2}  – 1)(x^{2}  + 2x) = x^{2} .x^{2}  + x^{2} .2x – 1.x^{2}  – 1.2x\n                                      = x^{4}  + 2x^{3}  – x^{2}  – 2x\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 14: Chọn câu đúng.\nA. (x – 1)(x^{2}  + x + 1) = x^{3}  – 1  \nB. (x – 1)(x + 1) = 1 – x^{2} \nC. (x + 1)(x – 1) = x^{2}  + 1         \nD. (x^{2}  + x + 1)(x – 1) = 1 – x^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) (x – 1)(x + 1) = x.x + x – x – 1 = x^{2}  – 1 nên phương án B sai, C sai\n+) (x – 1)(x^{2}  + x + 1)\n= x.x^{2}  + x.x + x.1 – x^{2}  – x – 1\n= x^{3}  + x^{2}  + x – x^{2}  – x – 1 = x^{3}  – 1 nên phương án D sai, A đúng\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 15: Chọn câu đúng.\nA. (2x – 1)(3x^{2}  -7x + 5) = 6x^{3}  – 17x^{2}  + 17x – 1\nB. (2x – 1)(3x^{2}  -7x + 5) = 6x^{3}  – 4x^{2}  + 4x – 5\nC. (2x – 1)(3x^{2}  -7x + 5) = 6x^{3}  – 17x^{2}  + 10x – 5\nD. (2x – 1)(3x^{2}  -7x + 5) = 6x^{3}  – 17x^{2}  + 17x – 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (2x – 1)(3x^{2}  -7x + 5) = 2x.3x^{2}  + 2x.(-7x) + 2x.5 – 3x^{2}  – (-7x) – 1.5\n                                      = 6x^{3}  – 14x^{2}  + 10x – 3x^{2}  + 7x – 5\n                                      = 6x^{3}  – 17x^{2}  + 17x – 5\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 16: Cho 4(18 – 5x) – 12(3x – 7) = 15(2x – 16) – 6(x + 14). Kết quả x bằng:\nA. 8\nB. -8\nC. 6\nD. -6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n4(18 – 5x) – 12(3x – 7) = 15(2x – 16) – 6(x + 14)\n⇔ 72 – 20x – 36x + 84 = 30x – 240 – 6x – 84\n⇔ -56x + 156 = 24x – 324\n⇔ 24x + 56x = 156 +324 \n⇔ 80x = 480 \n⇔ x = 6\nVậy x = 6\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 18: Cho biểu thức P = 2x(x^{2}  – 4) + x^{2} (x^{2}  – 9). Hãy chọn câu đúng:\nA. Giá trị của biểu thức P tại x = 0 là 1\nB. Giá trị của biểu thức P tại x = 2 là -20\nC. Giá trị của biểu thức P tại x = -2 là 30\nD. Giá trị của biểu thức P tại x = -9 là 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThay x = 0 vào P ta được\nP = 2.0(0^{2}  – 4) + 0^{2} (0^{2}  – 9) = 0 nên A sai.\nThay x = -2 vào P ta được\nP = 2.(-2).((-2)^{2}  – 4) + (-2)^{2} .((-2)^{2}  – 9) = -20 nên C sai.\nThay x = -9 vào P ta được\nP = 2.(-9).((-9)^{2}  – 4) + (-9)^{2} .((-9)^{2}  – 9) = 4446 nên D sai.\nThay x = 2 vào P ta được\nP = 2.2.(2^{2}  – 4) + 2^{2} (2^{2}  – 9) = 4.0 + 4.(-5) = -20 nên B đúng\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 19: Cho biểu thức M = x^{2} (3x – 2) + x(-3x^{2}  + 1). Hãy chọn câu đúng\nA. Giá trị của biểu thức M tại x = 0 là 1\nB. Giá trị của biểu thức M tại x = 1 là 1\nC. Giá trị của biểu thức M tại x = -2 là -6\nD. Giá trị của biểu thức M tại x = 3 là -15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có M = x^{2} (3x – 2) + x(-3x^{2}  + 1) = x^{2} .3x + x^{2} .(-2) + x.(-3x^{2} ) + x.1\n                                                    = 3x^{3}  – 2x^{2}  – 3x^{3}  + x = -2x^{2}  + x\nThay x = 0 vào M = -2x^{2}  + x ta được\nM = -2.0^{2}  + 0 = 0 nên A sai.\nThay x = 1 vào M = -2x^{2}  + x ta được\nM = -2.1^{2}  + 1 = -1 nên B sai\nThay x = -2 vào M = -2x^{2}  + x ta được\nM = -2.(-2)^{2}  + (-2) = -10 nên C sai.\nThay x = 3 vào M = -2x^{2}  + x ta được\nM = -2.3^{2}  + 3 = -15 nên D đúng\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 20: Cho biểu thức A = x(x + 1) + (1 – x)(1 + x) – x. Khẳng định nào sau đây là đúng.\nA. A = 2 – x\nB. A < 1\nC. A > 0\nD. A > 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có A = x(x + 1) + (1 – x)(1 + x) – x = x^{2}  + x + 1 + x – x – x^{2}  – x = 1\nSuy ra A = 1 > 0\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 21: Cho bểu thức B = (2x – 3)(x +7) – 2x(x + 5) – x. Khẳng định nào sau đây là đúng.\nA. B = 21 – x\nB. B < -1\nC. B > 0\nD. 10 < B < 20",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có B = (2x – 3)(x +7) – 2x(x + 5) – x\n          = 2x.x + 2x.7 – 3.x – 3.7 – 2x.x – 2x.5 – x\n          = 2x^{2}  + 14x – 2x – 21 – 2x^{2}  – 10x – x\n          = (2x^{2}  – 2x^{2} ) + (14x – 3x – 10x – x) – 21 = -21\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 22: Cho biểu thức C = x(y + z) – y(z + x) – z(x – y). Chọn khẳng định đúng.\nA. Biểu thức C không phụ thuộc vào x; y; z\nB. Biểu thức C phụ thuộc vào cả x; y; z\nC. Biểu thức C chỉ phụ thuộc vào y\nD. Biểu thức C chỉ phụ thuộc vào z",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có C = x(y + z) – y(z + x) – z(x – y)\n= xy + xz – yz – xy – zx + xy\n= (xy – xy) + (zy – zy) + (xz – zx) = 0\nNên C không phụ thuộc vào x; y; z\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 23: Cho biểu thức D = x(x – y) + y(x + y) – (x + y)(x – y) – 2y^{2} . Chọn khẳng định đúng.\nA. Biểu thức D có giá trị là một số dương\nB. Biểu thức D có giá trị là một số âm\nC. Biểu thức D có giá trị phụ thuộc vào y, x\nD. Biểu thức D có giá trị là 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nD = x(x – y) + y(x + y) – (x + y)(x – y) – 2y^{2} \n= x^{2}  – xy + xy + y^{2}  – (x^{2}  – xy + xy – y^{2} ) – 2y^{2} \n= x^{2}  + y^{2}  – (x^{2}  – y^{2} ) – 2y^{2} \n= x^{2}  + y^{2}  – x^{2}  + y^{2}  – 2y^{2} \n= (x^{2}  – x^{2} ) + (y^{2}  + y^{2}  – 2y^{2} )\n= 0\nNên D = 0\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 24: Biểu thức D = x(x^{2n-1}  + y) – y(x + y^{2n-1} ) + y^{2n}  – x^{2n}  + 5, D có giá trị là:\nA. 2y^{2n}         \nB. -5\nC. x^{2n}           \nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nD = x(x^{2n-1}  + y) – y(x + y^{2n-1} ) + y^{2n}  – x^{2n}  + 5\n= x.x^{2n-1}  + x.y – y.x – y.y^{2n-1}  + y^{2n}  – x^{2n}  + 5\n= x^{2n}  + xy – xy – y^{2n}  + y^{2n}  – x^{2n}  + 5\n= (x^{2n}  – x^{2n} ) + (xy – xy) + (y^{2n}  – y^{2n} ) + 5\n= 0 + 0 + 0 + 5 = 5\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 25: Rút gọn biểu thức N = 2x^{n} (3x^{n+2}  – 1) – 3x^{n+2} (2x^{n}  – 1) ta được\nA. N = 2x^{n}  + 3x^{n+2}          \nB. N = -2x^{n}  – 3x^{n+2} \nC. N = -2x^{n}  + 3x^{n+2}         \nD. N = -2x^{n}  + x^{n+2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có N = 2x^{n} (3x^{n+2}  – 1) – 3x^{n+2} (2x^{n}  – 1)\nN = 2x^{n} (3x^{n+2}  – 1) – 3x^{n+2} (2x^{n}  – 1)\n= 2x^{n} .3x^{n+2}  – 2x^{n} .1 – 3x^{n+2} .2x^{n}  – 3x^{n+2} .(-1)\n= 6x^{n+n+2}  – 2x^{n}  – 6.x^{n+2+n}  + 3x^{n+2} \n= 6x^{2n+2}  – 6x^{2n+2}  – 2x^{n}  + 3x^{n+2} \n= – 2x^{n}  + 3x^{n+2} \nVậy N = – 2x^{n}  + 3x^{n+2} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 26: Cho hai số tự nhiên n và m. Biết rằng n chia 5 dư 1, m chia 5 dư 4. Hãy chọn câu đúng:\nA. m.n chia 5 dư 1\nB. m – n chia hết cho 5\nC. m + n chia hết cho 5\nD. m.n chia 5 dư 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có n chia 5 dư 1 nên n = 5p + 1 (0 < p < n; p ∈ N); m chia 5 dư 4 nên \nm = 5q + 4 (0 < q < m ; q ∈ N)\nKhi đó m.n = (5p + 1)(5q + 4) = 25pq + 20p + 5q + 4 = 5(5pq + 4p + q) + 4 \nMà 5(5pq + 4p + q) ⋮ nên m.n chia 5 dư 4 , phương án A sai, D sai.\nTa có m – n = 5q + 4 − (5p + 1) = 5q − 5p + 3\nMà 5p ⋮ 5; 5q ⋮ 5 nên m − n chia 5 dư 3 , phương án B sai.\nTa có m + n = 5q + 4 + 5p + 1 = 5q + 5p + 5 = 5(q + p + 1) ⋮ 5 nên C đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 27: Cho hai a, b là những số nguyên và (2a + b) ⋮ 13; (5a – 4b) ⋮ 13. Hãy chọn câu đúng:\nA. a – 6b chia hết cho 13\nB. a – 6b chia cho 13 dư 6\nC. a – 6b chia cho 13 dư 1\nD. a – 6b chia cho 13 dư 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (2a + b) ⋮ 13; (5a – 4b) ⋮ 13, suy ra 2(2a + b) ⋮ 13\nTừ đó ta có (5a – 4b) - 2(2a + b) ⋮ 13 hay a – 6b ⋮ 13\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 30: Giá trị của biểu thức M = x(x^{3}  + x^{2}  – 3x – 2)- (x^{2}  – 2)(x^{2}  + x – 1) là\nA. 2\nB. 1\nC. – 1\nD. – 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nM = x(x^{3}  + x^{2}  – 3x – 2)- (x^{2}  – 2)(x^{2}  + x – 1)\n= x.x^{3}  + x.x^{2}  – 3x.x – 2.x – (x^{2} .x^{2}  + x^{2} .x – x^{2}  – 2x^{2}  – 2x + 2)\n= x^{4}  + x^{3}  – 3x^{2}  – 2x – (x^{4}  + x^{3}  – 3x^{2}  – 2x + 2)\n= x^{4}  + x^{3}  – 3x^{2}  – 2x – x^{4}  – x^{3}  + 3x^{2}  + 2x – 2\n= - 2\nVậy M = -2\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 31: Giá trị của biểu thức P = (3x – 1)(2x + 3) – (x – 5)(6x – 1) – 38x là\nA. P = -8\nB. P = 8\nC. P = 2\nD. P = -2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nP = (3x – 1)(2x + 3) – (x – 5)(6x – 1) – 38x\n= 3x.2x + 3x.3 – 1.2x – 1.3 – (x.6x – x – 5.6x – 5.(-1)) – 38x\n= 6x^{2}  + 9x – 2x – 3 – 6x^{2}  + x + 30x – 5 – 38x\n= (6x^{2}  – 6x^{2} ) + (9x – 2x + x + 30x – 38x) – 3 – 5\n= -8\nVậy P = -8\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 32: Cho A = (3x + 7)(2x + 3) – (3x – 5)(2x + 11); B = x(2x + 1) – x^{2} (x + 2) + x^{3}  – x + 3. Chọn khẳng định đúng\nA. A = B\nB. A = 25B\nC. A = 25B + 1\nD. A = B/2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nA = (3x + 7)(2x + 3) – (3x – 5)(2x + 11)\n= 3x.2x + 3x.3 + 7.2x + 7.3 – (3x.2x + 3x.11 – 5.2x – 5.11)\n= 6x^{2}  + 9x + 14x + 21 – (6x^{2}  + 33x – 10x – 55)\n= 6x^{2}  + 23x + 21 – 6x^{2}  – 33x + 10x + 55 = 76\nB = x(2x + 1) – x^{2} (x + 2) + x^{3}  – x + 3\n= x.2x + x – (x^{2} .x + 2x^{2} ) + x^{3}  – x + 3\n= 2x^{2}  + x – x^{3}  – 2x^{2}  + x^{3}  – x + 3 = 3\nTừ đó ta có A = 76; B = 3 mà 76 = 25.3 + 1 nên A = 25B + 1\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 33: Cho M = -3(x – 4)(x – 2) + x(3x – 18) – 25; N = (x – 3)(x + 7) – (2x – 1)(x + 2) + x(x – 1). Chọn khẳng định đúng.\nA. M – N = 30\nB. M – N = -30\nC. M – N = 20\nD. M – N = -68",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nM = -3(x – 4)(x – 2) + x(3x – 18) – 25\n= -3(x^{2}  – 2x – 4x + 8) + x.3x + x.(-18) – 25\n= -3x^{2}  + 6x + 12x – 24 + 3x^{2}  – 18x – 25\n= (-3x^{2}  + 3x^{2} ) + (6x + 12x – 18x) – 24 – 25\n= -49\nN = (x – 3)(x + 7) – (2x – 1)(x + 2) + x(x – 1)\n= x.x + x.7 – 3.x – 3.7 – (2x.x + 2x.2 – x – 1.2) + x.x + x.(-1)\n= x ^{2}  + 7x – 3x – 21 – 2x^{2}  – 4x + x + 2 + x^{2}  – x\n= (x^{2}  – 2x^{2}  + x^{2} ) + (7x – 3x – 4x + x – x) – 21 + 2\n= -19\nVậy M = -49; N = -19 ⇒ M – N = -30\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 34: Gọi x là giá trị thỏa mãn 5(3x + 5) – 4(2x – 3) = 5x + 3(2x – 12) + 1. Khi đó\nA. x > 18\nB. x < 17\nC. 17 < x < 19\nD. 18 < x < 20",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n5(3x + 5) − 4(2x − 3) = 5x + 3(2x − 12) + 1\n⇔ 15x + 25 − 8x + 12 = 5x + 6x – 36 + 1\n⇔ 7x + 37 = 11x − 35\n⇔ 4x = 72\n⇔ x = 18\nVậy x = 18. \nSuy ra 17 < x < 19 nên chọn C.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 36: Tính giá trị của biểu thức\nP = x^{10}  – 13x^{9}  + 13x^{8}  – 13x^{7}  + … - 13x + 10 tại x = 12\nA. P = -2\nB. P = 2\nC. P = 4\nD. P = 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nP = x^{10}  – 13x^{9}  + 13x^{8}  – 13x^{7}  + … - 13x + 10\n= x^{10}  – 12x^{9}  – x^{9}  + 12x^{8}  + x^{8}  – 12x^{7}  – x^{7}  + 12x^{6}  + … +x^{2}  – 12x – x + 10\n= x^{9} (x – 12) – x^{8} (x – 12) + x^{7} (x – 12) - … + x(x – 12) – x + 10\nThay x = 12 vào P ta được\nP = 12^{9} .(12 – 12) – 12^{8} (12 – 12) + 12^{7} (12 – 12) - … + 12(12 – 12) – 12 + 10\n= 0 + … + 0 – 2 = -2\nVậy P = -2\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 37: Tính bằng cách hợp lý giá trị của A = x^{5}  – 70x^{4}  – 70x^{3}  – 70x^{2}  – 70x + 29 tại x = 71.\nA. A = 50\nB. A = -100\nC. A = 100\nD. A = -50",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nA = x^{5}  – 70x^{4}  – 70x^{3}  – 70x^{2}  – 70x + 29\n= x^{5}  – 71x^{4}  + x^{4}  – 71x^{3}  + x^{3}  – 71x^{2}  + x^{2}  – 71x + x – 71 + 100\n= x^{4} (x – 71) + x^{3} (x – 71) + x^{2} (x – 71) + x(x – 71) + (x – 71) + 100\nVì x = 71 nên x – 71 = 0, thay x – 71 = 0 vào A ta đươc\nA = x^{4} .0 + x^{3} .0 + x^{2} .0 + x.0 + 0 + 100 = 100\nVậy A = 100\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 42: Cho B = (m – 1)(m + 6) – (m + 1)(m – 6). Chọn kết luận đúng.\nA. B ⁝ 10 với mọi m Є Z\nB. B ⁝ 15 với mọi m Є Z\nC. B ⁝ 9 với mọi m Є Z\nD. B ⁝ 20 với mọi m Є Z",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có B = (m – 1)(m + 6) – (m + 1)(m – 6)\n          = m^{2}  + 6m – m – 6 – (m^{2}  – 6m + m – 6)\n          = m^{2}  + 5m – 6 – m^{2}  + 6m – m + 6 = 10m\nNhận thấy 10 ⁝ 10 ⇒ 10.m ⁝ 10 nên B ⁝ 10 với mọi giá trị nguyên của m.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 44: Tính tổng các hệ số của lũy thừa bậc ba, lũy thừa bậc hai và lũy thừa bậc nhất trong kết quả của phép nhân (x^{2}  + x + 1)(x^{3}  – 2x + 1)\nA. 1\nB. -2\nC. – 3\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có (x^{2}  + x + 1)(x^{3}  – 2x + 1)\n          = x^{2} .x^{3}  + x^{2} .(-2x) + x^{2} .1 + x.x^{3}  + x.(-2x) + x.1 + 1.x^{3}   + 1.(-2x) + 1.1\n          = x^{5}  – 2x^{3}  + x^{2}  + x^{4}  – 2x^{2}  + x + x^{3}  – 2x + 1\n          = x^{5}  + x^{4}  – x^{3}  – x^{2}  – x + 1\nHệ số của lũy thừa bậc ba là – 1\nHệ số của lũy thừa bậc hai là – 1\nHệ số của lũy thừa bậc nhất là – 1\nTổng các hệ số này là -1 +(-1) + (-1) = -3\nĐáp án cần chọn là: C"
+    }
+]

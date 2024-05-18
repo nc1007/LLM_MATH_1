@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Bài 1: Các mặt bên của hình lăng trụ đứng là:  \nA. Các hình bình hành\nB. Các hình thang cân\nC. Các hình chữ nhật\nD. Các hình vuông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình lăng trụ đứng có hai đáy là những đa giác, các mặt bên là những hình chữ nhật.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 2: Chọn câu đúng. \nA. Các mặt bên của hình lăng trụ đứng là các hình chữ nhật\nB. Các mặt bên của hình lăng trụ đứng là các hình thang cân\nC. Các mặt đáy của hình lăng trụ đứng là các hình chữ nhật\nD. Các mặt đáy của hình lăng trụ đứng là các hình tam giác",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình lăng trụ đứng có hai đáy là những đa giác, các mặt bên là những hình chữ nhật.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Các cạnh bên của hình lăng trụ đứng \nA. Song song với nhau\nB. Bằng nhau\nC. Vuông góc với hai đáy\nD. Có cả ba tính chất trên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình lăng trụ đứng có các mặt bên là những hình chữ nhật, các cạnh bên vuông góc với đáy nên chúng song song và bằng nhau\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 4: Câu nào không đúng về các cạnh bên của hình lăng trụ đứng\nA. Song song với nhau\nB. Bằng nhau\nC. Vuông góc với hai đáy\nD. Vuông góc với nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình lăng trụ đứng có các mặt bên là những hình chữ nhật, các cạnh bên vuông góc với đáy nên chúng song song và bằng nhau\nChỉ có đáp án D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 14: Một hình hộp chữ nhật có diện tích xung quanh bằng 120 cm^{2} , chiều cao bằng 6cm. Tìm các kích thước của đáy để hình hộp chữ nhật có thể tích lớn nhất.\nA. 8 cm\nB. 7 cm\nC. 6 cm\nD. 5 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi a và b là các kích thước của đáy.\nTa có V = 6ab nên V lớn nhât ⇔ ab lớn nhất\nSxq = 120 nên 2 (a+b).6 = 120 hay a + b = 10\nTa có:\nab = a (10 – a) = -a^{2}  +10a = -(a – 5)^{2}  + 25 ≤ 25\nSuy ra V = 6ab ≤ 6.25 = 150.\nThể tích lớn nhất bằng 150 cm^{3}  khi a = b = 5, tức là các cạnh đáy bằng 5 cm.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 15: Một hình hộp chữ nhật có diện tích xung quanh bằng 100 cm^{2} , chiều cao bằng 5cm. Tìm các kích thước của đáy để hình hộp chữ nhật có thể tích lớn nhất.\nA. 8 cm\nB. 7 cm\nC. 6 cm\nD. 5 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi a và b là các kích thước của đáy.\nTa có V = 5ab nên V lớn nhât ⇔ ab lớn nhất\nSxq = 100 nên 2 (a+b).5 = 120 hay a + b = 10\nTa có:\nab = a (10 – a) = -a^{2}  +10a = -(a – 5)^{2}  + 25 ≤ 25\nSuy ra V = 5ab ≤ 5.25 = 125.\nThể tích lớn nhất bằng 125 cm^{3}  khi a = b = 5, tức là các cạnh đáy bằng 5 cm.\nĐáp án cần chọn là: D"
+    }
+]

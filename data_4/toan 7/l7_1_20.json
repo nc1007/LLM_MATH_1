@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "B. hai đường thẳng; \nC. không đường thẳng; \nD. vô số đường thẳng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTheo tiên đề Euclid ta có: qua một điểm ở ngoài đường thẳng chỉ có một đường thẳng song song với đường thẳng đó."
+    },
+    {
+        "problem": "Câu 2. Nếu một đường thẳng cắt hai đường thẳng song song thì:\nA. hai góc đồng vị bằng nhau; \nB. hai góc kề nhau bằng nhau; \nC. hai góc bù nhau bằng nhau; \nD. hai góc kề bù bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nNếu một đường thẳng cắt hai đường thẳng song song thì:\nHai góc đồng vị bằng nhau;\nHai góc so le trong bằng nhau."
+    },
+    {
+        "problem": "Câu 6. Nếu đường thẳng z cắt hai đường thẳng x, y và trong các góc tạo thành có một cặp góc so le trong bằng nhau thì:\nA. hai đường thẳng x, y song song với nhau; \nB. hai đường thẳng x, y cắt nhau; \nC. hai đường thẳng x, y trùng nhau; \nD. hai đường thẳng x, y vuông góc với nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nNếu đường thẳng z cắt hai đường thẳng x, y và trong các góc tạo thành có một cặp góc so le trong bằng nhau thì x, y song song với nhau."
+    },
+    {
+        "problem": "Câu 13. Trong các câu sau có bao nhiêu câu đúng?\nNếu một đường thẳng cắt hai đường thẳng song song thì:\n(I) Hai góc đồng vị bằng nhau\n(II) Hai góc so le trong bằng nhau\n(III) Hai góc bù nhau bằng nhau\nA. 0; \nB. 1; \nC. 2; \nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nNếu hai đường thẳng song song bị cắt bởi một đường thẳng thứ ba thì:\n+ Hai góc so le trong bằng nhau\n+ Hai góc đồng vị bằng nhau\nHai góc bù nhau là hai góc có tổng số đo bằng 180^{o} \n=> Có 2 câu đúng, chọn đáp án C."
+    },
+    {
+        "problem": "Câu 15. Qua điểm A nằm ngoài đường thẳng x, ta vẽ hai đường thẳng qua A và song song với x thì:\nA. Hai đường thẳng đó trùng nhau; \nB. Hai đường thẳng cắt nhau tại A; \nC. Hai đường thẳng song song; \nD. Hai đường thẳng vuông góc.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTheo tiên đề Euclid ta có: Qua một điểm ở ngoài một đường thẳng chỉ có một đường thẳng song song với đường thẳng đó\nDo đó, qua điểm A nằm ngoài đường thẳng x, ta vẽ hai đường thẳng qua A và song song với x thì hai đường thẳng đó phải trùng nhau.\n=> Chọn đáp án A."
+    }
+]

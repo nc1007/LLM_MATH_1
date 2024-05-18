@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Bài 2: Hãy chọn câu sai.\nA. Hình bình hành có hai đường chéo cắt nhau tại trung điểm mỗi đường\nB. Hình bình hành có hai góc đối bằng nhau\nC. Hình bình hành có hai đường chéo vuông góc với nhau\nD. Hai bình hành có hai cặp cạnh đối song song",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTrong hình bình hành:\n+ Hình bình hành có các cạnh đối song song\n+ Các cạnh đối bằng nhau\n+ Hai đường chéo cắt nhau tại trung điểm của mỗi đường nên C sai\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 4: Hãy chọn câu sai:\nA. Tứ giác có hai cặp cạnh đối song song là hình bình hành\nB. Hình thang có hai góc kề một đáy bằng nhau là hình bình hành\nC. Tứ giác có hai cặp cạnh đối bằng nhau là hình bình hành\nD. Tứ giác có hai cặp góc đối bằng nhau là hình bình hành",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDấu hiệu nhận biết:\n+ Tứ giác có các cạnh đối song song là hình bình hành nên A đúng\n+ Tứ giác có các cạnh đối bằng nhau là hình bình hành nên D đúng\n+ Tứ giác có các góc đối bằng nhau là hình bình hành nên D đúng\nNhận thấy hình thang có hai góc kề một đáy bằng nhau là hình thang cân nên B sai\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 5: Điền cụm từ thích hợp vào chỗ trống: “Tứ giác có hai đường chéo … thì tứ giác đó là hình bình hành”.\nA. bằng nhau\nB. cắt nhau\nC. cắt nhau tại trung điểm mỗi đường\nD. song song",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nDấu hiệu nhận biết:\nTứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường là hình bình hành.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 23: Hai góc kề nhau của một hình bình hành không thể có số đo là:\nA. 60^{0} ; 120^{0} \nB. 40^{0} ; 50^{0} \nC. 130^{0} ; 50^{0} \nD. 75^{0} ; 105^{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTrong hình bình hành có các góc đối nhau và tổng các góc trong hình bình hành phải bằng 360^{0}  nên ta có:\n60^{0} .2 + 120^{0} .2 = 360^{0} \n40^{0} .2 + 50^{0} .2 = 180^{0}  ≠ 360^{0} \n130^{0} .2 + 50^{0} .2 = 360^{0} \n105^{0} .2 + 75^{0} .2 = 360^{0} \nDo đps hai góc kề của hình bình hành không thể có số đo 40^{0} ; 50^{0} \nĐáp án cần chọn là: B"
+    }
+]

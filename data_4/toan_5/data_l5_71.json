@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 9: Bút chì được phát minh năm 1794. Hỏi bút chì được phát minh vào thế kỉ nào?\nA.\tThế kỉ XIX\nB.\tThế kỉ XX\nC.\tThế kỉ XVII\nD.\tThế kỉ XVIII",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: Từ năm 1701  đến năm 1800 là thế kỉ mười tám (thế kỉ XVIII).\nDo đó, bút chì được phát minh năm 1794 thuộc thế kỉ XVIII."
+    },
+    {
+        "problem": "Câu 11: Quãng đường AB dài 3km. Vận động viên A chạy hết 10 phút 4 giây, vận động viên B chạy hết 610 giây, vận động viên C chạy hết 0,24 giờ. Hỏi ai chạy nhanh nhất?\nA.\tVận động viên A\nB.\tVận động viên B\nC.\tVận động viên C",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 10 phút 4 giây = 604 giây\n0,24 giờ = 60 phút × 0,24 = 14,4 phút = 60 giây × 14,44 = 864 giây\nMà 604 giây < 610 giây < 864 giây\nVận vận động viên A chạy nhanh nhất."
+    },
+    {
+        "problem": "Câu 12: Kính viễn vọng được phát minh năm 1671. Vệ tinh nhân tạo được phát minh sau kính viễn vọng 286 năm. Ô tô được phát minh trước vệ tinh nhân tạo 71 năm. Hỏi ô tô được phát minh vào thế kỉ nào?\nA.\tThế kỉ XIV\nB.\tThế kỉ XV\nC.\tThế kỉ XVIII\nD.\tThế kỉ XIX",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vệ tinh nhân tạo được phát minh vào năm: \n1671 + 286 = 1957\nÔ tô được phát minh vào năm: \n1957 − 71 = 1886\nTừ năm 1801 đến năm 1900 là thế kỉ mười chín (thế kỉ XIX).\nDo đó, năm 1886 thuộc thế kỉ mười chín.\nVậy ô tô được phát minh vào thế kỉ mười chín (thế kỉ XIX)."
+    }
+]

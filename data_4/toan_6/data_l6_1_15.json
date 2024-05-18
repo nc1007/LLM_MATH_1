@@ -1,0 +1,512 @@
+[
+    {
+        "problem": "A. −50 \nB. 50\nC. 150\nD. −150",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (−100) + (−50) = −(100 + 50) = −150.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Kết quả của phép tính  (+25) + (+15) là\nA. 40 \nB. 10\nC. 50\nD. 30",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (+25) + (+15) = 25 + 15 = 40.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Kết quả của phép tính (−23) + (−40) + (−17) là\nA. −70 \nB. 46\nC. 80\nD. −80",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (−23) + (−40) + (−17)\n= [−(23 + 40)] + (−17)\n= (−63) + (−17)\n = −(63 + 17)\n= −80.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Kết quả của phép tính (−50) + 30 là\nA. −20 \nB. 20\nC. −30\nD. 80",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (−50) + 30\n= −(50−30) \n= −20.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Một chiếc tàu ngầm đang ở độ cao -30m so với mực nước biển. Sau đó tàu ngầm nổi lên 25m. Độ cao mới của chiếc tàu so với mực nước biển là:\nA. −55m\nB. −5m\nC. 5m\nD. 55m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐộ cao mới của chiếc tàu so với mực nước biển là: \n(−30) + 25\n= −(30 − 25)\n= −5 (m)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Chọn câu sai.\nA. 678 + (−4) < 678 \nB. 4 + (−678) > −678\nC. 678 + (−4) = 678\nD. 4+(−678) =−674",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) Ta có:\n 678 + (−4)\n= +(678 − 4)\n= 674 < 678 nên A đúng, C sai\n+) Ta có:\n 4 + (−678)\n= −(678−4)\n= −674 > −678  nên B đúng, D đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Phép cộng các số nguyên có tính chất nào sau đây:\nA. Giao hoán \nB. Kết hợp \nC. Cộng với số 00 \nD. Tất cả các đáp án trên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n Tính chất của phép cộng các số nguyên: giao hoán, kết hợp, cộng với số 0.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 8. Cho −76 + x + 146 = x +... Số cần điền vào chỗ trống là\nA. 76\nB. −70\nC. 70\nD. −76",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−76 + x + 146\n= (−76 + 146) + x\n= 70 + x\n= x + 70\nDo đố số cần điền vào chỗ chấm là 70\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Giá trị biểu thức A = 56 + x + (−99) + (−56) + (−x) là\nA. −99\nB. −100\nC. −101\nD. 100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = 56 + x + (−99) + (−56) + (−x)\nA = [56 + (−56)] + [x + (−x)] + (−99)\nA = 0 + 0 + (−99)\nA = −99\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10. Tính chất kết hợp của phép cộng là:\nA. (a + b) + c = a + (b + c);\nB. a + b = b + a\nC. a + 0 = 0 + a;\nD. a + (−a) = (−a) + a = 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTính chất kết hợp của phép cộng là: (a + b) + c = a + (b + c);\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Trong một ngày, nhiệt độ ở New-York lúc 6 giờ là – 3^{0} C, đến 10 giờ tăng thêm 7^{0} C và lúc 13 giờ tăng thêm 3^{0} C. Nhiệt độ ở New-York lúc 13 giờ là bao nhiêu?\nA. -13^{0} C\nB. 7^{0} C\nC. 130^{0} C\nD. -7^{0C}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNhiệt độ ở New-York lúc 13 giờ là:\n(−3) + 7 + 3\n=7 + (−3) + 3\n=7 + [(−3)+ 3]\n=7 + 0\n=7(^{0} C)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 12. Kết quả của phép tính (−89) + 0 là\nA. −89\nB. −90\nC. 0 \nD. 89",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (−89) + 0 = −89\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13. Chọn câu đúng.\nA. (−98) + (−89) = (−89) + (−98)\nB. (−98) + (−89) > (−89) + (−98)\nC. (−98) + (−89) < (−89) + (−98)\nD. (−98) + (−89) = −177",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (−98) + (−89) = (−89) + (−98) (tính chất giao hoán của phép cộng) nên A đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 14. Kết quả của phép tính (−187) + 135 + 187 + (−134)  là\nA. 1\nB. 0\nC. −1\nD. −269",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−187) + 135 + 187 + (−134)\n= [(−187) + 187] + [135 + (−134)]\n= 0 + 1 \n= 1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 15. Số nguyên nào dưới đây nhỏ hơn kết quả của phép tính\n (−30) + (−95) + 40 + 30\nA. −45\nB. −55\nC. −56\nD. −50",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−30) + (−95) + 40 + 30\n= [(−30) + 30] + [(−95) + 40]\n= 0 + (−55)\n= −55\nVì −56 < −55 nên đáp án C đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 16. Kết quả của phép tính: 12 + (−91) + 188 + (−9) + 300 là:\nA. −400\nB. 300\nC. 400\nD. 500",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n12 + (−91) + 188 + (−9) + 300\n= 12 + 188 + 300 + (−91) + (−9)\n= 200 + 300 + (−100)\n= 500 − 100\n= 400.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Dạng 2.Phép trừ hai số nguyên và quy tắc dấu ngoặc\nCâu 1. Tính 125 − 200\nA. −75 \nB. 75\nC. −85\nD. 85",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n125 − 200 \n=125 + (−200)\n= −(200 − 125)\n= −75\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Tìm x biết 9 + x = 2\nA. 7\nB. −7\nC. 11\nD. −11",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n9 + x = 2\nx = 2 − 9\nx = −7\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Chọn câu sai.\nA. 112 – 908 = −786\nB. 76 – 98 < −5\nC. 98 – 1116 < 103 − 256\nD. 56 – 90 > 347 − 674",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \n112 − 908 \n= 112 + (−908)\n= −(908 − 112)\n= −796 nên A sai.\nĐáp án B: \n76−98\n= 76 + (−98)\n= −(98 − 76)\n= −22 < −5 nên B đúng.\nĐáp án C: \n98 − 1116\n= 98 + (−1116)\n= −(1116 − 98)\n= −1018\n103 – 256 = 103 + (−256) = −(256 − 103) = −153\nVì −1018 < −153 nên C đúng.\nĐáp án D:\n56 − 90\n= 56 + (−90)\n= −(90 − 56)\n= −34\n347 – 674 = 347 + (−674) = −(674 − 347) = −327\nVì −34 > −327 nên D đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Tính M = 90 − (−113) − 78  ta được:\nA. M > 100\nB. M < 50\nC. M < 0\nD. M > 150",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nM = 90 − (−113) − 78\n= [90 − (−113)] − 78\n= (90 + 113) − 78\n= 203 – 78\n= 125\nVậy M = 125 > 100\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Gọi x1 là giá trị thỏa mãn −76 – x = 89 – 100  và x2 là giá trị thỏa mãn\n x − (−78) = 145 − 165. Tính x1 – x2.\nA. 33\nB. −100\nC. 163\nD. −163",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Tìm x1\n−76 – x = 89 − 100\n−76 – x = −11\nx = −76 − (−11)\nx = −65\nDo đó x1 = −65\n+ Tìm x2\nx − (−78) = 145 − 165\nx − (−78) = −20\nx = −20 + (−78)\nx = −98\nDo đó x2 = −9\nVậy x1 – x2 = (−65) − (−98) = (−65) + 98 = 33\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Kết quả của phép trừ: (−47) − 53 là:\nA. 6\nB. −6\nC. 100\nD. −100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−47) – 53 \n= −47 + (−53) \n= −(47 + 53)\n= −100.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Đơn giản biểu thức: x+1982 + 172 + (−1982) − 162 ta được kết quả là:\nA. x − 10\nB. x + 10\nC. 10\nD. x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx + 1982 + 172 + (−1982) − 162\n= x + [1982 + (−1982)] + (172 − 162)\n= x + 0 + 10\n= x + 10\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Chọn câu đúng.\nA. (−7) + 1100 + (−13) + (−1100) = 20\nB. (−7) + 1100 + (−13) + (−1100) = −20\nC. (−7) + 1100 + (−13) + (−1100) = 30\nD. (−7) + 1100 + (−13) + (−1100) = −10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−7) + 1100 + (−13) + (−1100)\n= [(−7) + (−13)] + [1100 + (−1100)]\n= −20 + 0\n= −20\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Đơn giản biểu thức 235 + x − (65 + x) + x ta được\nA. x + 170\nB. 300 + x\nC. 300 − x\nD. 170 + 3x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n235 + x − (65 + x) + x\n= 235 + x – 65 – x + x\n= (235 − 65) + (x – x + x)\n= 170 + x\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10. Bỏ ngoặc rồi tính 5−(4−7+12)+(4−7+12) ta được\nA. −13 \nB. 5\nC. −23\nD. 23",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n5−(4−7+12)+(4−7+12)\n= 5−4+7−12+4−7+12\n= 5−4+4+7−7−12+12\n= 5−(4−4)+(7−7)−(12−12)\n= 5−0+0−0\n= 5\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 11. Kết quả của phép tính (−98) + 8 + 12 + 98là\nA. 0\nB. 4\nC. 10\nD. 20",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n (−98) + 8 + 12 + 98\n= [(−98) + 98] + (8 + 12)\n= 0 + 20\n= 20\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12. Tổng (−43567 − 123) + 43567bằng:\nA. −123\nB. −124\nC. −125\nD. 87011",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(−43567 − 123) + 43567\n= −43567 – 123 + 43567\n= [(−43567) + 43567] + (−123)\n= 0 + (−123)\n= −123\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13. Tính hợp lý (−1215) − (−215 + 115) − (−1115) ta được\nA. −2000\nB. 2000\nC. 0\nD. 1000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(−1215) − (−215 + 115) − (−1115)\n= (−1215) + 215 – 115 + 1115\n= [(−1215) + 215] + (1115 − 115)\n= −1000 + 1000\n= 0\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 14. Cho M = 14 – 23 + (5 − 14) − (5 − 23) + 17 và \nN = 24 − (72 – 13 + 24) − (72 − 13). Chọn câu đúng.\nA. M > N\nB. N > M \nC. M = N\nD. N = −M",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nM = 14 – 23 + (5 − 14) − (5 − 23) + 17\n= 14 – 23 + 5 – 14 – 5 + 23 + 17\n= (14 − 14) − (23 − 23) + (5 − 5) + 17\n= 0 – 0 + 0 + 17\n=17\nN = 24 − (72 – 13 + 24) − (72 − 13)\n= 24 – 72 + 13 – 24 – 72 + 13\n= (24 − 24) − (72 + 72) + (13 + 13)\n= 0 – 144 + 26\n= −118\nDo đó M > N\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 15. Sau khi bỏ ngoặc (b – a + c) − (a + b + c) + a ta được\nA. –a + 2b + 2c\nB. −3a\nC. 3a\nD. −a",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(b – a + c) − (a + b + c) + a\n= b – a + c – a – b – c + a\n= (b−b) − (a + a − a) + (c − c)\n= 0 – a + 0\n=−a\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 16. Biểu thức a − (b + c − d) + (−d) − a  sau khi bỏ ngoặc là\nA. –b − c\nB. –b – c − d \nC. –b – c + 2d\nD. –b – c − 2d",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \na − (b + c − d) + (−d) − a\n= a – b – c + d – d − a\n= (a − a) – b – c + (d − d)\n= 0 – b – c + 0\n= −b − c\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 17. Thu gọn biểu thức z − (x + y −z) − (−x) ta được:\nA. 2y − x\nB. y − 2x\nC. 2z − y\nD. y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nz − (x + y − z) − (−x)\n= z – x – y + z + x\n= (−x + x) + (z + z) − y\n= 0 + 2z − y\n= 2z − y\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 18. Sau khi thu gọn x – 34 − [(15 + x) − (23 − x)] ta được\nA. x − 26\nB. –x − 72\nC. x − 72\nD. –x − 26",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx – 34 − [(15 + x) − (23 − x)] \n= x – 34 − [15 + x – 23 + x]\n= x – 34 − [(x + x) − (23 − 15)]\n= x − 34 − [2x − 8]\n= x – 34 − 2x + 8\n= (x − 2x) + (8 − 34)\n= −x − 26\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 19. Bỏ ngoặc rồi tính 30 − {51 + [−9 − (51 − 18) − 18]} ta được\nA. 21\nB. 0\nC. 39 \nD. −21",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n30 − {51 + [−9 − (51 − 18) − 18]}\n= 30 − [51 + (−9 – 51 + 18 − 18)]\n= 30 − (51 – 9 − 51)\n= 30 + 9\n= 39\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 20. Giá trị biểu thức M = −(3251 + 415) − (−2000 + 585 − 251) là\nA. 2000\nB. −2000\nC. −1000\nD. −3000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−(3251 + 415)−(−2000 + 585 − 251)\n= −3251 − 415 + 2000 − 585 + 251\n= (−3251 + 251) − (415 + 585) + 2000\n= −3000 – 1000 + 2000\n= −4000 + 2000\n= −2000\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 21. Chọn câu trả lời đúng nhất. Giá trị của P = 2001 − (53 + 1579) − (−53) là\nA. là số nguyên âm\nB. là số nguyên dương\nC. là số nhỏ hơn −2\nD. là số nhỏ hơn 100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nP = 2001 − (53 + 1579)−(−53)\n= 2001 − 53 − 1579 + 53\n= (2001 − 1579) − (53 − 53)\n= 422 − 0\n= 422\nDo đó P là một số nguyên dương.\nNgoài ra P > 100 nên các đấp án A, C, D đều sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 3.Các dạng toán về phép cộng và phép trừ hai số nguyên\nCâu 1. Tổng của hai số −313 và −211 là\nA. 534 \nB. 524 \nC. −524\nD. −534",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng của hai số −313 và −211 là:\n(−313) + (−211) \n= −(313 + 211)\n = −524.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Tìm x biết x − (−43) = (−3).\nA. x = 43 \nB. x = −40\nC. x = −46\nD. x = 46",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có\nx − (−43) = (−3)\nx = (−3) + (−43)\nx = −(3 + 43)\nx = −46.\nVậy x = −46.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Tổng các số nguyên âm nhỏ nhất có 3 chữ số và số nguyên âm lớn nhất có 3chữ số là: \nA. −1099 \nB. 1099\nC. −1009\nD. −1199",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có số nguyên âm lớn nhất có ba chữ số là −100.\nSố nguyên âm nhỏ nhất có ba chữ số là −999.\nNên tổng cần tìm là:\n (−100) + (−999) \n= −(100 + 999) \n= −1099.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Tìm x biết x − (−34) = (−99) + (−47)\nA. 160 \nB. 180\nC. −180\nD. −160",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có x − (−34) = (−99) + (−47)\nx −(−34) = −(99 + 47)\nx −(−34) = −146\nx = (−146) + (−34)\nx = −(146 + 34)\nx = −180.\nVậy x = −180.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. So sánh (−32) + (−14) và −45\nA. (−32) + (−14) > −45\nB. −45 < (−32) + (−14)\nC. (−32) + (−14) < −45\nD. (−32) + (−14) = −45",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDo (−32) + (−14) = −(32 + 14) = −46 \nnên: (−32) + (−14) < −45\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Số nguyên nào dưới đây là kết quả của phép tính 52 + (−122)?\nA. −70 \nB. 70\nC. 60\nD. −60",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 52 + (−122) = −(122 − 52) = −70.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Tính (−909) + 909\nA. 1818 \nB. 1\nC. 0\nD. −1818",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa thấy 909 và (−909) là hai số đối nhau.\nTa có (−909) + 909 = 0\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Tổng của số −19091 và số 999 là\nA. −19082 \nB. 18092\nC. −18092\nD. −18093",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n (−19091) + 999\n= −(19091 − 999)\n= −18092\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Giá trị nào của x thỏa mãn x – 589 = (−335)?\nA. x = −452 \nB. x = −254\nC. x = 542\nD. x = 254",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có x – 589 = (−335)\nx = (−335) + 589\nx = +(589 − 335)\nx = 254.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Bạn An nói rằng (−35) + 53 = 0; bạn Hòa nói rằng 676 + (−891) > 0. Chọn câu đúng.\nA. Bạn An đúng, bạn Hòa sai\nB. Bạn An sai, bạn Hòa đúng\nC. Bạn An và bạn Hòa đều đúng\nD. Bạn An và bạn Hòa đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n (−35) + 53 \n= +(53 − 35) \n= 18 > 0 nên bạn An nói sai.\nLại có:\n 676 + (−891)\n= −(891 − 676)\n=−215 < 0 nên bạn Hóa nói sai.\nVậy cả An và Hòa đều tính sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 11. Kết quả của phép tính (−234) + 123 + (−66) là\nA. 117 \nB. −77\nC. 177\nD. −177",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n (−234) + 123 + (−66)\n= [−(234 − 123)] + (−66)\n= (−111) + (−66)\n= −(111 + 66) \n=−177.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12. Cho x1 là giá trị thỏa mãn x – 876 = (−1576) và x2 là giá trị thỏa mãn:\n x – 983 = (−163). Tính tổng x1 + x2\nA. 120 \nB. 1500\nC. −100\nD. −800",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n x – 876 = (−1576)\nx = (−1576) + 876\nx = −(1576 − 876)\nx = −700.\nVậy x1 = −700.\nXét:\nx – 983 = (−163)\nx = (−163) + 983\nx = +(983 − 163)\nx = 820.\nVậy x2 = 820.\nTừ đó: x1 + x2= (−700) + 820= +(820 − 700) = 120.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 13. Tổng của (−555) và số nguyên dương lớn nhất có 3chữ số là\nA. 335 \nB. 455\nC. 444\nD. −655",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố nguyên dương lớn nhất có 3 chữ số là: 999Tổng của (−555) và số nguyên dương lớn nhất có 3 chữ số là: (−555) + 999\n= +(999 − 555)\n= 444.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 14. Tìm x thỏa mãn x – 897 = (−1478) + 985\nA. 440 \nB. 405\nC. −404\nD. 404",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có x – 897 = (−1478) + 985\nx − 897 = −(1478 − 985)\nx = (−493) + 897\nx = +(897 − 493)\nx = 404.\nVậy x = 404.\nx = 404.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 15. Tính (−978) + 978.\nA. 0\nB. 978\nC. 1956 \nD. 980",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 978 và (−978) là hai số đối nhau nên (−978) + 978 = 0.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 16. Chọn đáp án đúng nhất.\nA. (−21) + 4 + (−55) = 4 + (−21) + (−55) \nB. (−21) + 4 + (−55) = (−55) + 4 + (−21)\nC. (−21) + 4 + (−55) = 4 + (−55) + (−21)\nD. Cả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có (−21) + 4 + (−55)\n= 4 +(−21) + (−55)\n= (−55) + 4 + (−21)\n= 4 + (−55) + (−21) (tính chất giao hoán của phép cộng)\n nên cả A, B, C đều đúng.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 17. Kết quả của phép tính 23 − 17là\nA. −40\nB. −6\nC. 40\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n23 – 17 = 23 + (−17) = 6\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 18. Chọn câu đúng\nA. 170 – 228 = 58\nB. 228 – 892 < 0\nC. 782 – 783 > 0 \nD. 675 – 908 > −3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A:\n 170 – 228 \n= 170 + (−228)\n= −(228 − 170)\n= −58 ≠ 58 nên A sai.\nĐáp án B: \n228 – 892 \n= 228 + (−892)\n= −(892 − 228)\n= −664 < 0 nên B đúng.\nĐáp án C: \n782 – 783\n= 782 + (−783)\n= −(783 − 782)\n= −1 < 0 nên C sai.\nĐáp án D: \n675 – 908\n= 675 + (−908)\n= −(908 − 675)\n= −233 < −3 nên D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 19. Kết quả của phép tính 898 − 1008là\nA. Số nguyên âm\nB. Số nguyên dương\nC. Số lớn hơn 3\nD. Số 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n898 – 1008\n= 898 + (−1008)\n= −(1008 − 898)\n= −110\nSố −110 là một số nguyên âm nên đáp án A đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 20. Giá trị của x thỏa mãn −15 + x = −20\nA. −5\nB. 5\nC. −35\nD. 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−15 + x = −20\nx = −20 − (−15) \nx = −20 + 15\nx = −5\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 21. Giá trị của xbiết −20 – x = 96 là:\nA. 116\nB. −76\nC. −116\nD. 76",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−20 – x = 96\nx = −20 − 96\nx = (−20) + (−96)\nx = −116\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 22. Cho A = 1993 − (−354) − 987 và B = 89 − (−1030) − 989. Chọn câu đúng.\nA. A > B\nB. A < B\nC. A = B\nD. A = −B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA = 1993 − (−354) − 987\n= 1993 + 354 + (−987)\n= 2347 + (−987)\n= 1360\nB = 89 − (−1030) − 989\n= 89 + 1030 + (−989)\n= [89 + (−989)] + 1030\n= (−900) + 1030\n= 130\nVậy A>BA>B\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 23. Tìm x, biết 100 − x là số nguyên âm lớn nhất có hai chữ số.\nA. 90 \nB. 199\nC. 110 \nD. −10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+ Số nguyên âm lớn nhất có hai chữ số là −10\n+ Ta có:\n100 – x = −10\nx = 100 − (−10) \nx = 110\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 24. Cho 25 − (x + 15) = −415 − (−215 − 415) thì xbằng\nA. −205\nB. 175\nC. −175\nD. 205",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n25 − (x + 15) = −415 − (−215 − 415)\n25 − (x + 15) = 215\nx + 15 = 25 – 215\nx + 15 = −190\nx = −190 – 15\nx = −205\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 25. Tính (−551) + (−400) + (−449)\nA. −1400 \nB. −1450\nC. −1000\nD. −1500",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(−551) + (−400) + (−449)\n = −(551 + 400 + 449)\n= −1400.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 26. Tính nhanh 171 + [(−53) + 96 + (−171)].\nA. −149 \nB. −43\nC. 149\nD. 43",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n171 + [(−53) + 96 + (−171)]\n= 171 + (−53)+96 + (−171)\n= [171 + (−171)] + (−53) + 96\n= 0 + (−53) + 96\n= (−53) + 96\n=43\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 27. Cho −76 + x + 146 = x +... Số cần điền vào chỗ trống là\nA. 76\nB. −70\nC. 70\nD. −76",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−76 + x + 146 = (−76 + 146) + x = 70 + x = x + 70\nDo đố số cần điền vào chỗ chấm là 70\nĐáp án cần chọn là: C\nCâu 28. Kết quả của phép tính: (−239) + (−2021) + 239 là:\nA. 2021\nB. −2021\nC. −239\nD. 239\nAaa (−239) + (−2021) + 239\n= (−2021) + (−239) + 239\n= (−2021) + [(−239) + 239]\n= (−2021) + 0\n= −2021\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 3.Các dạng toán về phép cộng trừ hai số nguyên (tiếp)\nCâu 1. Giá trị của biểu thức a + (−45) với a = 25 là\nA. −20\nB. −25\nC. −15\nD. −10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay a = 25 vào biểu thức ta được :\n25 + (−45) = −(45 − 25) = −(20)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Tìm tổng các giá trị nguyên của x biết −12 < x ≤ −1.\nA. −66 \nB. 66\nC. 56\nD. −56",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì −12 < x ≤ −1 nên x∈{−11; −10; −9; ...; −1}\nTổng cần tìm là:\n (−11) + (−10) + (−9) + (−8) + ... + (−1)\n= −(11 + 10 + 9 +...+ 1)\n= −[(11 + 1).11:2]\n= −66\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Bác Hà là khách quen của cửa hàng tạp hóa nhà bác Diệp nên có thể mua hàng trước, trả tiền sau. Hôm qua bác Diệp đã cho bác Hà nợ 80 nghìn đồng, hôm nay bác Hà lại muốn nợ 40 nghìn đồng nữa. Em hãy dùng số nguyên để giúp bác Diệp ghi vào sổ số tiền bác Hà còn nợ bác Diệp (đơn vị: nghìn đồng).\nA. −40\nB. −80\nC. 120\nD. −120",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHôm qua: (−80)\nHôm nay: (−40)\nTổng số tiền nợ hai ngày là:\n (−80) + (−40) = −(80 + 40) = −120 (nghìn đồng)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Cho x = −31; y = −15 thì x + y = ?\nA. 46\nB. −16\nC. −46\nD. 16",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \nx + y = (−31) + (−15) = −(31 + 15) = −46.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Tính giá trị biểu thức A = x + (−1009) biết x = 576.\nA. 533 \nB. 433\nC. −433\nD. −343",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = 576 vào biểu thức A = x + (−1009), ta được\nA = 576 + (−1009) = −(1009 − 576) = −433.\nVậy A = −433 khi x = 576.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Giá trị của biểu thức B = 8912 + x biết x = −6732 là\nA. Số nguyên dương nhỏ hơn 2000.\nB. Số nguyên dương lớn hơn 2000.\nC. Số 0\nD. Số nguyên âm nhỏ hơn −100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = −6732 vào biểu thức B = 8912 + x, ta được\nB = 8912 + (−6732)\n= +(8912 − 6732)\n= 2180 > 2000.\nVậy B nhận giá trị là số nguyên dương lớn hơn 2000 khi x = −6732.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Nhiệt độ tại Hà Nội vào buổi trưa là 32^{0} C , vào buổi tối nhiệt độ đã giảm 4^{0} Cso với buổi trưa. Vậy nhiệt độ tại Hà Nội vào buổi tối là\nA. 28^{0} C\nB. 30^{0} C\nC. 26^{0} C\nD. 31^{0} C",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNhiệt độ Hà Nội vào buổi tối là\n32 + (−4) = +(32 − 4) = 28^{0} C\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Tính tổng các số nguyên x,biết: −4 ≤ x < 6\nA. 3 \nB. 4\nC. 5\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n −4 ≤ x < 6⇒ x∈{−4;−3;−2;−1;0;1;2;3;4;5}Tổng của các số nguyên x là:(−4) + (−3) + (−2) + (−1) + 0 + 1 + 2 + 3 + 4 + 5\n= [(−4) + 4] + [(−3) + 3] + [(−2) + 2] + [(−1) + 1] + 0 + 5\n= 0 + 0 + 0 + 0 + 0 + 5 = 5.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Một chiếc chiếc diều cao 30m( so với mặt đất), sau một lúc độ cao của chiếc diều tăng lên 7mrồi sau đó giảm 4m.4m. Hỏi chiếc diều ở độ cao bao nhiêu mét so với mặt đất sau 2lần thay đổi?\nA. 27m \nB. 41m\nC. 33m\nD. 34m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐộ cao của chiếc diều sau 2 lần thay đổi là\n30 + 7 + (−4) = 37 + (−4) = +(37 − 4) = 33(m)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Cho x = −25; y = 19. Tổng x + y = ?\nA. 44\nB. −6\nC. 6\nD. −16",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: x + y = (−25) + 19 = −(25 − 19) = −6.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 11. Nhiệt độ ở thủ đô Ôt-ta-oa, Ca-na-đa (Ottawa, Canada) lúc 7 giờ là −4^{0}  C, đến 10 giờ tăng thêm 6^{0} C. Nhiệt độ ở Ôt-ta-oa lúc 10 giờ là bao nhiêu?\nA. -20^{0} C\nB. 20^{0} C\nC. -10^{0} C\nD. 10^{0} C",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNhiệt độ ở Ôt-ta-oa lúc 10 giờ là:\n(−4) + 6 = 6 – 4 = 2(^{0} C)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 12. Một cửa hàng kinh doanh có lợi nhuận như sau: tháng đầu tiên là\n– 10 000 000 đồng; tháng thứ 2 là 30 000 000 đồng. Tính lợi nhuận của cửa hàng sau hai tháng đó.\nA. 40 000 000 đồng.\nB. 20 000 000 đồng.\nC. - 20 000 000 đồng.\nD. -40 000 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nLợi nhuận của cửa hàng sau hai tháng là: \n(– 10 000 000) + 30 000 000 = 20 000 000 đồng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 14. Tìm tổng các số nguyên x biết −10 < x ≤ 11.\nA. 21\nB. 11 \nC. 0\nD. 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì −10 < x ≤ 11 nên x∈{−9; −8;...; 10; 11}\nTổng các số nguyên đó là:\n (−9) + (−8) +...+ 10 + 11\n= [(−9) + 9] +...+ [(−1) + 1] + 10 + 11\n= 0 +...+ 0 + 10 + 11\n= 21\nVậy tổng các giá trị nguyên của xx thỏa mãn bài toán là 21.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 15. Tính tổng các số nguyên có giá trị tuyệt đối nhỏ hơn 200.\nA. 1\nB. 0\nC. 199\nD. 200",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi các số nguyên cần tìm là x\nTheo bài ra,\n|x| < 200\n→ – 200 < x < 200\n→ x∈{−199;−198;...;198;199}\nDo đó tổng các số nguyên x thỏa mãn là:\n (−199) + (−198) +...+ 198 + 199\n= [(−199) + 199] + [(−198) + 198]+...+ [(−1) + 1] + 0\n= 0 + 0 +...+ 0\n= 0\nVậy tổng các số nguyên cần tìm là 0\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 16. Tính giá trị biểu thức A = (−98) + x + 109 biết x = −50\nA. −51\nB. −39\nC. −49\nD. −61",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = −50 vào A ta được:\nA = (−98) + (−50) + 109\nA = (−148) + 109\nA = −(148 − 109)\nA = −39\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 17. Tổng S = 1 + (−3) + 5 + (−7) +...+ 2001 + (−2003) bằng\nA. −1002\nB. 1005 \nC. −1000 \nD. −1004",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nS = 1 + (−3) + 5 + (−7) +...+ 2001 + (−2003)\n= [1 + (−3)] + [5 + (−7)] +...+ [2001 + (−2003)]\n=−2+−2+...+−2⏟501sohang\n= (−2).501\n= −1002\n(Vì dãy số 1; (−3); 5; (−7);...; 2003 có (2003 − 1):2+ 1 = 1002 số hạngnên khi nhóm hai số hạng vào một ngoặc thì ta thu được 1002:2 = 501 dấu ngoặc. Hay có 501 số (−2))\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 19. Giá trị của x thỏa mãn −15 + x = −20\nA. −5\nB. 5\nC. −35\nD. 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n−15 + x = −20\nx = −20 − (−15)\nx = −20 + 15\nx = −5\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 20. Tính giá trị của A = 453 − x biết x = 899.\nA. 1352\nB. −1352\nC. −456\nD. −446",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = 899 ta được:\nA = 453 – 899\n= 453 + (−899)\n = −(899 − 453)\n= −446\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 21. Giá trị của B= −567 − xbiết x = −90là\nA. 447\nB. −477\nC. −447\nD. −657",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = −90 ta được:\nB = −567 − (−90)\n= −567 + 90\n= −(567 − 90)\n= −477\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 22. Tính P = −90 − (−2019) + x − y với x = 76; y = −160.\nA. 1845\nB. −1873\nC. 2025\nD. 2165",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nThay x = 76; y = −160 vào P ta được:\nP = −90−(−2019) + 76 − (−160)\n= (−90) + 2019 + 76 + 160\n= [(−90) + 160] + (2019 + 76)\n= 70 + 2095\n= 2165\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 23. Tổng của các phần tử của tập hợp: M = {x∈Z|−20 < x ≤ 20} là:\nA. 20\nB. 0\nC. −20\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: M = {−19;−18;−17;...;17;18;19;20}\nTổng các phần tử của tập M là:\n(−19) + (−18) + (−17) +...+ 17 + 18 + 19 + 20\n= 20 + [(−19) + 19] + [(−18) + 18] + [(−17) + 17] +....+ [(−1) + 1] + 0\n= 20 + 0 + 0 + 0 +...+ 0\n= 20\nĐáp án cần chọn là: A"
+    }
+]

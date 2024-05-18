@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Muốn chia một số thập phân cho 0,1; 0,01; 0,001;… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trai một, hai, ba,… chữ số. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn chia một số thập phân cho 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba, … chữ số.\nVậy phát biểu đã cho là sai."
+    },
+    {
+        "problem": "Câu 7: Tính: \n(31,5 – 5,85) : 1,8 + 2,4 × 1,75\nA.\t18,45\nB.\t18,27\nC.\t29,1375\nD.\t35,375",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n (31,5 – 5,85) : 1,8 + 2,4 × 1,75\n = 25,65 : 1,8 + 4,2\n = 14,25 + 4,2\n = 18,45\nVậy đáp án đúng là 18,45."
+    }
+]

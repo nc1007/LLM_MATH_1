@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 8. Chọn câu đúng. \nA. Các mặt bên của hình lăng trụ đứng tam giác là các hình bình hành; \nB. Các mặt bên của hình lăng trụ đứng tam giác là các hình thang cân;\nC. Các mặt đáy của hình lăng trụ đứng tam giác là các hình tứ giác; \nD. Các mặt đáy của hình lăng trụ đứng tam giác là các hình tam giác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nHình lăng trụ đứng tam giác có các mặt bên là các hình chữ nhật, các mặt đáy là các hình tam giác.\nDo đó, đáp án D đúng."
+    },
+    {
+        "problem": "Câu 10. Các mặt đáy của hình lăng trụ đứng tứ giác không thể là hình nào?\nA. Hình chữ nhật;\nB. Hình vuông;\nC. Hình tam giác;\nD. Hình thang.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nHình lăng trụ đứng tứ giác các mặt đáy không thể là hình tam giác.\nVậy chọn đáp án C."
+    }
+]

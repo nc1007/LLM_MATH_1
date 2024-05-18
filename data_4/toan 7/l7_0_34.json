@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 1. Trong một tam giác, tổng số đo ba góc bằng\nA. 180°;\nB. 90°;\nC. 240°;\nD. 120°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTrong một tam giác, tổng số đo ba góc bằng 180°."
+    },
+    {
+        "problem": "Câu 2. Trong các khẳng định sau, khẳng định nào sai?\nA. Tam giác vuông là tam giác có một góc vuông; \nB. Tam giác nhọn là tam giác có ba góc nhọn; \nC. Tam giác tù là tam giác có ba góc tù; \nD. Trong tam giác vuông, tổng hai góc nhọn bằng 90°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTam giác tù là tam giác có một góc tù.\nSuy ra khẳng định C sai."
+    },
+    {
+        "problem": "Câu 3. Cho tam giác ABC có A^=45o, B^=55o. Số đo góc C là:\nA. 45°; \nB. 100°; \nC. 90°; \nD. 80°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nÁp dụng định lý về tổng số đo ba góc của tam giác ta có:\nA^+B^+C^=180°\nSuy ra C^=180°-A^-B^=180°-45°-55°=80°"
+    },
+    {
+        "problem": "Câu 4. Cho tam giác ABC vuông tại A. Khi đó B^ + C^ bằng\nA. 180°;\nB. 90°;\nC. 100°;\nD. 120°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì tam giác ABC vuông tại A nên tổng hai góc nhọn bằng 90° hay B^ + C^ = 90°."
+    },
+    {
+        "problem": "Câu 9. Điền vào chỗ trống:\n“Trong một tam giác, tổng độ dài hai cạnh bất kì bao giờ cũng … độ dài cạnh còn lại”\nA. lớn hơn;\nB. nhỏ hơn;\nC. bằng;\nD. lớn hơn hoặc bằng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTrong một tam giác, tổng độ dài hai cạnh bất kì bao giờ cũng lớn hơn độ dài cạnh còn lại."
+    },
+    {
+        "problem": "Câu 10. Cho tam giác MNP. Khẳng định nào sau đây đúng?\nA. MN − NP = MP = MN + NP;\nB. MN + NP < MP < MN – NP;\nC. MN + NP > MP > MN – NP;\nD. MN – NP > MP > MN + NP.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTừ bất đẳng thức trong tam giác, ta có: MN + NP > MP; MN – NP < MP\nSuy ra MN + NP > MP > MN – NP\nSuy ra khẳng định C đúng. Các khẳng định A, B, D sai."
+    },
+    {
+        "problem": "Câu 11. Trong các bộ ba đoạn thẳng dưới đây, bộ ba nào có thể là độ dài ba cạnh của một tam giác?\nA. 2 cm; 3 cm; 6 cm;\nB. 3 cm; 6 cm; 3 cm;\nC. 3 cm; 4 cm; 5 cm;\nD. 5 cm; 6 cm; 7 dm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n+ Xét bộ ba: 2 cm; 3 cm; 6 cm\nTa có 2 cm + 3 cm = 5 cm < 6 cm \nSuy ra bộ ba đoạn thẳng có độ dài: 2 cm; 3 cm; 6 cm không lập thành một tam giác.\n+ Xét bộ ba: 3 cm; 6 cm; 3 cm\nTa có 3 cm + 3 cm = 6 cm \nSuy ra bộ ba đoạn thẳng có độ dài: 3 cm; 6 cm; 3 cm không lập thành một tam giác.\n+ Xét bộ ba: 3 cm; 4 cm; 5 cm\nTa có: 4 cm – 3 cm < 5 cm < 4 cm + 3 cm \nSuy ra bộ ba đoạn thẳng có độ dài: 3 cm; 4 cm; 5 cm lập thành một tam giác.\n+ Xét bộ ba: 5 cm; 6 cm; 7 dm\nTa có 7 dm = 70 cm\nVì 5 cm + 6 cm < 70 cm\nSuy ra bộ ba đoạn thẳng có độ dài: 5 cm; 6 cm; 7 dm không lập thành một tam giác."
+    },
+    {
+        "problem": "Câu 12. Cho tam giác ABC có độ dài ba cạnh là ba số nguyên. Biết AB = 3 cm; AC = 7 cm. Khi đó độ dài cạnh BC không thể bằng\nA. 4 cm;\nB. 5 cm;\nC. 6 cm;\nD. 7 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTừ bất đẳng thức trong tam giác, ta có:\nAC – AB < BC < AC + AB.\nSuy ra 7 cm – 3 cm < BC < 7 cm + 3 cm.\nSuy ra 4 cm < BC < 10 cm.\nSuy ra BC không thể có độ dài bằng 4 cm."
+    },
+    {
+        "problem": "Câu 13. Cho tam giác ABC có AB = 2, BC = 8 cm. Biết độ dài cạnh AC là một số nguyên tố. Chu vi tam giác ABC là:\nA. 18 cm;\nB. 7 cm;\nC. 17 cm;\nD. 19 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGọi độ dài cạnh AC là x (x > 0) (cm)\nTừ bất đẳng thức trong tam giác, ta có: BC – AB < AC < BC + AB\nSuy ra 8 – 2 < x < 8 + 2\nSuy ra 6 < x < 10\nSuy ra x ∈ {7; 8; 9}\nVì x là một số nguyên tố \nSuy ra x = 7 \nSuy ra AC = 7 (cm)\nChu vi tam giác ABC bằng:\nAB + AC + BC = 2 + 7 + 8 = 17 (cm)."
+    },
+    {
+        "problem": "Câu 14. Cho tam giác ABC có A^=40o; B^ - C^ = 30°. Tính B^ và C^ .\nA.B^ = 70°;C^ = 40°;\nB.B^ = 65°;C^ = 35°;\nC.B^ = 85°;C^ = 55°;\nD.B^ = 75°;C^ = 45°.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nÁp dụng định lý về tổng số đo ba góc của tam giác ta có:\nA^+B^+C^=180°\nSuy ra B^=180°-A^-C^=180°-40°-C^=140°-C^\nTa có: B^-C^=30°\nSuy ra 140°-C^-C^=30°\nSuy ra 140°-2C^=30°\nSuy ra 2C^ = 110°\nSuy ra C^ = 55°\nSuy ra B^=140°-C^=85°\nVậy B^=85°; C^ = 55°"
+    }
+]

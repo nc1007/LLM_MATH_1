@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Bảng 3 thống kê số lượng học sinh tham gia phong trào thể dục thể thao của từng lớp ở khối lớp 8 của một trường trung học cơ sở. Biết sĩ số của mỗi lớp đều là 40 học sinh. Số liệu nào trong Bảng 3 là không hợp lí?\nLớp\nSĩ số\nSố học sinh tham gia\n8A\n40\n39\n8B\n40\n40\n8C\n40\n38\n8D\n40\n41\nBảng 3\nA. 41B. 38C. 40D. 39\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào dữ liệu được cho ở bảng thống kê, ta xác định được số liệu nào trong Bảng 3 là không hợp lí.\nLời giải chi tiết\nSĩ số mỗi lớp đều là 40 học sinh mà lớp 8D có 41 học sinh tham gia là không hợp lí.\nChọn đáp án A."
+    },
+    {
+        "problem": "Tính xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt S” trong mỗi trường hợp sau:\na)      Tung một đồng xu 25 lần liên tiếp, có 29 lần xuất hiện mặt S;\nb)     Tung một đồng xu 32 lần liên tiếp, có 17 lần xuất hiện mặt N.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-         Xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt N” khi tung đồng xu nhiều lần bằng: Số lần xuất hiện mặt N/ Tổng số lần tung đồng xu.\n-         Xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt S” khi tung đồng xu nhiều lần bằng: Số lần xuất hiện mặt S/Tổng số lần tung đồng xu.\nLời giải chi tiết\na)      Xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt S” là \\(\\frac{{29}}{{45}}\\).\nb)     Tung một đồng xu 32 lần liên tiếp, có 17 lần xuất hiện mặt N nên mặt S xuất hiện \\(32 - 17 = 15\\) lần. Vì vậy, xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt S” là \\(\\frac{{15}}{{32}}\\)."
+    },
+    {
+        "problem": "Một hộp có 50 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 3, 5,…97, 99; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên một thẻ trong hộp. Tính xác suất của mỗi biến cố sau:\na)      “Số xuất hiện trên thẻ được rút ra là số lớn hơn 3 và là ước của 50”\nb)     “Số xuất hiện trên thẻ được rút ra là số nhỏ hơn 60 và là bội của 11”\nc)      “Số xuất hiện trên thẻ được rút ra là số chia hết cho cả 3 và 5”\nd)     “Số xuất hiện trên thẻ được rút ra là số có hai chữ số và tổng hai chữ số đó là 7”",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong trò chơi chọn ngẫu nhiên một đối tượng từ một nhóm đối tượng. xác suất của một biến cố bằng tỉ số của số kết quả thuận lợi cho biến cố và số các kết quả có thể xảy ra đối với đối tượng được chọn ra.\nLời giải chi tiết\na)      Các kết quả thuận lợi cho biến cố “Số xuất hiện trên thẻ được rút ra là số lớn hơn 3 và là ước của 50” là: 5; 25. Do đó có hai kết quả thuận lợi cho biến cố đó. Vì vậy, xác suất của biến cố đó là: \\(\\frac{2}{{50}} = \\frac{1}{{25}}\\).\nb)     Các kết quả thuận lợi cho biến cố “Số xuất hiện trên thẻ được rút ra là số nhỏ hơn 60 và là bội của 11” là: 11; 33; 55. Do đó, có ba kết quả thuận lợi cho biến cố đó. Vì vậy, xác suất của biến cố đó là \\(\\frac{3}{{50}}\\).\nc)      Các kết quả thuận lợi cho biến cố “Số chấm xuất hiện trên thẻ được rủ ra là số chia hết cho cả 3 và 4” là: 15; 45; 75. Do đó, có ba kết quả thuận lợi cho biến cố đó. Vì vậy, xác suất của biến cố đó là \\(\\frac{3}{{50}}\\).\nd)     Các kết quả thuận lợi cho biến cố “Số chấm xuất hiện trên thẻ được rút ra là số có hai chữ số và tổng hai chữ số đó là 7” là: 25; 43; 61. Do đó, có ba kết quả thuận lợi cho biến cố đó. Vì vậy, xác suất của biến cố đó là \\(\\frac{3}{{50}}\\)."
+    },
+    {
+        "problem": "Biểu đồ cột kép ở Hình 29 cho biết tuổi thọ trung bình của nam và nữ người Việt Nam ở các năm 2016, 2017, 2018, 2019, 2020.\n\nTrong giờ học nhóm, bạn Mai đã ghi lại số liệu ở Hình 29 vào Bảng 2 theo phân công của nhóm như sau:\n\nBạn Mai đã ghi nhầm số liệu vào một ô trong Bảng 2. Theo em, bạn Mai đã ghi nhầm số liệu nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát và so sánh dữ liệu của biểu đồ cột kép Hình 29 và Bảng 2 để xác định được bạn Mai đã ghi nhầm số liệu nào.\nLời giải chi tiết\nSo sánh dữ liệu biểu đồ cột kép Hình 29 và Bảng 2, ta thấy bạn Mai đã ghi nhầm số liệu về tuổi thọ trung bình của nam giới ở Việt Nam năm 2019, số liệu đúng phải là 71 tuổi."
+    },
+    {
+        "problem": "Trong 6 năm liên tiếp từ năm 2015 đến năm 2020, EU là thị trường xuất khẩu hàng đầu của cá tra Việt Nam. Kim ngạch xuất khẩu cá tra Việt Nam vào thị trường EU ở các năm 2015, 2016, 2017, 2018, 2019, 2020 lần lượt là khoảng: 290; 270; 200; 245; 240; 140 (đơn vị: triệu đô la Mỹ).\na)     Lập bảng số liệu thống kê kim ngạch xuất khẩu cá tra Việt Nam ở các năm đó theo mẫu sau:\nb)    Hãy hoàn thiện biểu đồ ở Hình 20 để nhận được biểu đồ cột biểu diễn các số liệu thống kê kim ngạch xuất khẩu cá tra Việt Nam vào thị trường EU ở các năm 2015, 2016, 2017, 2018, 2019, 2020.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để có thể hoàn thiện được biểu đồ thống kê (hoặc bảng thống kê) đã lựa chọn, ta cần biểu diễn được dữ liệu vào biểu đồ (hoặc bảng) đó. Muốn vậy, ta cần biết các xác định mỗi yếu tố của biểu đồ (hoặc bảng thống kê) đó.\nLời giải chi tiết\na)     Bảng số liệu thống kê kim ngạch xuất khẩu cá tra Việt Nam ở các năm:\nNăm\n2015\n2016\n2017\n2018\n2019\n2020\nSố tiền (triệu đô la Mỹ)\n290\n270\n200\n245\n240\n140\nb)    Biểu đồ cột biểu diễn các thống kê kim ngạch xuất khẩu cá tra Việt Nam:\n"
+    },
+    {
+        "problem": "Sau khi tìm hiểu về những tỉnh/thành phố đông dân của Việt Nam năm 2020 trong sách Niên giám Thống kê 2021, NXB Thống kê, bạn Ngọc thu được những dữ liệu thống kê sau:\n-         Năm tỉnh/thành phố đông dân là: Thành phố Hồ Chí Minh; Hà Nội; Thanh Hóa; Nghệ An; Đồng Nai.\n-         Dân số (đơn vị: nghìn người) của năm tỉnh/thành phố đó lần lượt là: 9 227,6;\n8 246,5; 3 664,9; 3 117,4.\nHãy phân loại các dữ liệu đó dựa trên tiêu chí định tính, định lượng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dữ liệu định lượng được biểu diễn bằng số thực\nDữ liệu định tính được biểu diễn bằng từ, chữ cái, kí hiệu,….\nLời giải chi tiết\nDữ liệu định tính là tên năm tỉnh/ thành phố: Thành phố Hồ Chí Minh; Hà Nội; Thanh Hóa; Nghệ An; Đồng Nai.\nDữ liệu định lượng là dân số (đơn vị: nghìn người) của năm tỉnh/thành phố đó lần lượt là: 9 227,6; 8 246,5; 3 664,9; 3 117,4."
+    },
+    {
+        "problem": "Trong hộp có 11 viên bi gồm 2 viên bi màu xanh, 4 viên bi màu đỏ, 5 viên bi màu vàng; các viên bi có hình dạng và kích thước giống hệt nhau. Chọn ngẫu nhiên một viên bi. Xác suất của biến cố “Viên bi được chọn có màu vàng” bằng\nA. \\(\\frac{2}{{11}}\\)B. \\(\\frac{4}{{11}}\\)C. \\(\\frac{5}{{11}}\\)D. \\(\\frac{6}{{11}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong trò chơi chọn ngẫu nhiên một đối tượng từ một nhóm đối tượng. xác suất của một biến cố bằng tỉ số của số kết quả thuận lợi cho biến cố và số các kết quả có thể xảy ra đối với đối tượng được chọn ra\nLời giải chi tiết\nCó 5 kết quả thuận lợi cho biến cố “Viên bi được chọn có màu vàng”. Vậy xác suất của biến cố đó là \\(\\frac{5}{{11}}\\).\nChọn đáp án C."
+    },
+    {
+        "problem": "Khi gieo ngẫu nhiên một xúc xắc 24 lần liên tiếp, bạn An kiểm đếm được mặt 1 chấm xuất hiện 7 lần, mặt 2 chấm xuất hiện 5 lần. Tính xác suất thực nghiệm của biến cố:\na)      “Mặt xuất hiện của xúc xắc là mặt 1 chấm”;\nb)     “Mặt xuất hiện của xúc xắc là mặt 2 chấm”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm của biến cố “Mặt xuất hiện của xúc xắc là mặt \\(k\\) chấm” \\(\\left( {k \\in \\mathbb{N},1 \\le k \\le 6} \\right)\\) khi gieo xúc xắc nhiều lần bằng: Số lần xuất hiện mặt \\(k\\) chấm/Tổng số lần gieo xúc xắc.\nLời giải chi tiết\na)      Xác suất thực nghiệm của biến cố “Mặt xuất hiện của xúc xắc là mặt 1 chấm” là \\(\\frac{7}{{24}}\\).\nb)     Xác suất thực nghiệm của biến cố “Mặt xuất hiện của xúc xắc là mặt 2 chấm” là \\(\\frac{5}{{24}}\\)."
+    },
+    {
+        "problem": "Viết ngẫu nhiên một số tự nhiên có hai chữ số lớn hơn 60 và nhỏ hơn 80. Tính xác suất của mỗi biến cố sau:\na)      “Số tự nhiên được viết ra có chữ số hàng chục lớn hơn chữ số hàng đơn vị”\nb)     “Số tự nhiên được viết ra có chữ số hàng chục gấp hai lần chữ số hàng đơn vị”",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong trò chơi chọn ngẫu nhiên một đối tượng từ một nhóm đối tượng. xác suất của một biến cố bằng tỉ số của số kết quả thuận lợi cho biến cố và số các kết quả có thể xảy ra đối với đối tượng được chọn ra.\nLời giải chi tiết\na)      Số các số tự nhiên có hai chữ số lớn hơn 70 và nhỏ hơn 80 là 19 và các số đó là: 61; 62; 63;….;78; 79. Các kết quả thuận lợi cho biến cố “Số tự nhiên được viết ra có chữ số hnagf chục lớn hơn chữ số hàng đơn vị” là: 61; 62; 63; 64; 65; 70; 71; 72; 73; 74; 75; 76. Do đó, có mười hai kết quả thuận lợi cho biến cố đó. Vì vậy, xác suất của biến cố đó là \\(\\frac{{12}}{{19}}\\).\nb)     Các kết quả thuận lợi cho biến cố “Số tự nhiên được viết ra có chữ số hàng chục gấp hai lần chữ số hàng đơn vị” là: 63. Do đó, có một kết quả thuận lợi cho biến cố đó. Vì vậy, xác suất của biến cố đó là \\(\\frac{1}{{19}}\\)."
+    },
+    {
+        "problem": "Biểu đồ đoạn thẳng ở Hình 30 biểu diễn tổng đóng góp GDP (tỉ đô la Mỹ) ở các lĩnh vực kinh tế (Dịch vụ, Nông nghiệp, Công nghiệp và Xây dựng) của Việt Nam từ năm 2014 đến năm 2019.\n\na)     Dựa vào các dữ liệu đó, hãy cho biết GDP của năm cao nhất hơn GDP của năm thấp nhất là bao nhiêu tỉ đô la Mỹ.\nb)    Theo dự báo của IMF, đến năm 2025, Việt Nam sẽ vươn lên đứng thứ ba Đông Nam Á về quy mô kinh tế với GDP 571,1 tỉ đô la Mỹ. Hỏi GDP dự báo của IMF năm 2025 gấp bao nhiêu lần so với GDP ở năm 2014 (làm tròn kết quả đến hàng phần mười)?\nc)     Nêu một số giải pháp mà chính phủ đã đề xuất và thực hiện để đến năm 2025, Việt Nam vươn lên đứng thứ ba Đông Nam Á về quy mô kinh tế với GDP 571,1 tỉ đô la Mỹ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào các số liệu đã cho ở biểu đồ đoạn thẳng Hình 30, xác định số GDP các năm, nhận biết được mỗi liên hệ toán học đơn giản giữa các số liệu và trả lời câu hỏi.\nLời giải chi tiết\na)     GDP của năm cao nhất là năm 2019: 261 (tỉ đô la Mỹ), GDP của năm thấp nhất là năm 2014: 186,2 (tỉ đô la Mỹ); Ta có:\n261 – 186,2 = 74,8 (tỉ đô la Mỹ)\nb)    GDP dự báo của IMF năm 2025 gấp số lần so với GDP ở năm 2014 là: \\(\\frac{{571,1}}{{186,2}} \\approx 3,1\\)\nc)     Một số giải pháp mà chính phủ đã đề xuất và thực hiện để đến năm 2025, Việt Nam vươn lên đứng thứ ba Đông Nam Á về quy mô kinh tế với GDP 571,1 tỉ đô la Mỹ:\nMột là, tiếp tục ưu tiên giữ vững ổn định kinh tế vĩ mô, kiểm soát lạm phát, thúc đẩy tăng trưởng, bảo đảm các cân đối lớn của nền kinh tế.\nHai là, tiếp tục tập trung phòng, chống, kiểm soát dịch bệnh.\nBa là, tăng cường xây dựng, hoàn thiện thể chế và nâng cao hiệu lực, hiệu quả tổ chức thi hành pháp luật, bảo đảm kỷ luật, kỷ cương; đẩy mạnh phòng, chống tham nhũng, tiêu cực, lãng phí.\nBốn là, tiếp tục đẩy mạnh cải cách hành chính gắn với xây dựng Chính phủ điện tử, Chính phủ số; cải thiện môi trường kinh doanh, nâng cao năng lực cạnh tranh quốc gia\nNăm là, đẩy mạnh thực hiện thực chất, hiệu quả cơ cấu lại nền kinh tế gắn với đổi mới mô hình tăng trưởng, nâng cao năng suất, chất lượng, hiệu quả, sức cạnh tranh, tính độc lập, tự chủ, khả năng thích ứng và sức chống chịu của nền kinh tế\nSáu là, tập trung phát triển, hoàn thiện hệ thống kết cấu hạ tầng chiến lược đồng bộ, nhất là hạ tầng giao thông, hạ tầng ứng phó với biến đổi khí hậu, hạ tầng số. Tập trung bảo vệ môi trường, quản lý, sử dụng hiệu quả đất đai, tài nguyên\nBảy là, chú trọng phát triển nguồn nhân lực, nhất là nhân lực chất lượng cao gắn với đẩy mạnh nghiên cứu, phát triển và ứng dụng khoa học - công nghệ, thúc đẩy đổi mới sáng tạo, khởi nghiệp\nTám là, chú trọng phát triển toàn diện và đồng bộ các lĩnh vực văn hóa, bảo đảm gắn kết hài hòa giữa phát triển kinh tế với văn hóa, xã hội; nâng cao đời sống Nhân dân, bảo đảm an sinh xã hội\nChín là, giữ vững độc lập, chủ quyền thống nhất, toàn vẹn lãnh thổ, bảo đảm quốc phòng, an ninh, ổn định chính trị, trật tự, an toàn xã hội\nMười là, triển khai đồng bộ, toàn diện, hiệu quả các hoạt động đối ngoại, hội nhập quốc tế, giữ vững môi trường hòa bình, ổn định cho phát triển đất nước và nâng cao vị thế, uy tín của Việt Nam trên trường quốc tế\nMười một là, đẩy mạnh công tác thông tin, truyền thông; nâng cao hiệu quả công tác dân vận, tạo đồng thuận xã hội."
+    },
+    {
+        "problem": "Trường Trung học cơ sở Bình Minh tổ chức giải thi đấu cờ vua thường niên cho bốn lớp học sinh khối 8. Kết quả dự đoán đội vô địch cho các lớp 8A, 8B, 8C, 8D lần lượt là: 50%, 25%, 20%, 5%.\na)     Lập bảng số liệu thống kê tỉ lệ phần trăm dự đoán đội vô địch cho các lớp 8A, 8B, 8C, 8D theo mẫu sau:\n\nb)    Hãy hoàn thiện Hình 21 để nhận được biểu đồ hình quạt trong biểu diễn các dữ liệu thống kê đó. Biết rằng hình tròn biểu diễn dữ liệu ở hình 21 đã chia sẵn các hình quạt, mỗi hình quạt ứng với 5%.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào các số liệu cho trước, điền các số liệu đó vào bảng thống kê, sau đó ta vẽ được biểu đồ hình quạt.\nLời giải chi tiết\na)     Bảng thống kê tỉ lệ phần trăm dự đoán đội vô địch cho các lớp:\nLớp\n8A\n8B\n8C\n8D\nTỉ lệ dự đoán (%)\n50%\n25%\n20%\n5%\nb)    Biểu đồ biểu diễn các dữ liệu thống kê:\n"
+    },
+    {
+        "problem": "Bảng 1 thống kê số lượng xe máy bán được (loại có giá chưa đến 50 triệu đồng/xe) và doanh thu mỗi ngày trong 4 ngày cuối tuần của một cửa hàng điện máy.\nTheo em, các số liệu về doanh thu của cửa hàng này trong ngày thứ Sáu nêu ra ở Bảng 1 đã chính xác chưa? Vì sao?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào dữ liệu cho sẵn để xác định tính chính xác của các số liệu về doanh thu của cửa hàng này trong ngày thứ Sáu nêu ra ở bảng 1.\nLời giải chi tiết\nNgày thứ Sáu, cửa hàng bán được 6 xe, mỗi xe có giá chưa đến 50 triệu đồng, do đó doanh thu cửa hàng bán trong ngày thứ Sáu chưa đến 300 triệu đồng. Vậy trong hay số liệu của ngày thứ Sáu là số xe 6 và doanh thu cửa hàng 360 triệu đồng nêu ra ở Bảng 1 có ít nhất một số liệu là không hợp lý."
+    },
+    {
+        "problem": "Nếu tung một đồng xu 25 lần liên tiếp, có 12 lần xuất hiện mặt S thì xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt N” bằng bao nhiêu?\nA. \\(\\frac{{12}}{{25}}\\)B. \\(\\frac{{13}}{{25}}\\)C. \\(\\frac{{12}}{{13}}\\)D. \\(\\frac{{25}}{{13}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-         Xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt N” khi tung đồng xu nhiều lần bằng: Số lần xuất hiện mặt N/ Tổng số lần tung đồng xu.\n-         Xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt S” khi tung đồng xu nhiều lần bằng: Số lần xuất hiện mặt S/Tổng số lần tung đồng xu.\nLời giải chi tiết\nTung một đồng xu 25 lần liên tiếp, có 12 lần xuất hiện mặt S nên mặt N xuất hiện \\(25 - 12 = 13\\) lần. Vì vậy, xác suất thực nghiệm của biến cố “Mặt xuất hiện của đồng xu là mặt N” là \\(\\frac{{13}}{{25}}\\).\nChọn đáp án B."
+    },
+    {
+        "problem": "Xét đối tượng \\(A\\) từ một nhóm gồm \\(k\\) đối tượng trong trò chơi chọn ngẫu nhiên một đối tượng từ một nhóm đối tượng. Khi số lần lấy ngẫu nhiên một đối tượng ngày càng lớn thì xác suất thực nghiệm của biến cố “Đối tượng được lấy ra là đối tượng \\(A\\)” ngày xàng gần với số thực nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong trò chơi chọn ngẫu nhiên một đối tượng từ một nhóm gồm \\(k\\) đối tượng sao cho khả năng được chọn ra của \\(k\\) đối tượng đó là như nhau, ta xét một đối tượng \\(A\\) trong nhóm đối tượng đó. Mỗi lần ta chọn ngẫu nhiên một nhóm đối tượng đó vào nhóm. Ta có định nghĩa sau:\nXác suất thực nghiệm của biến cố “Đối tượng \\(A\\) được chọn ra” khi chọn đối tượng nhiều lần bằng: Số lần đối tượng \\(A\\) được chọn ra/ Tổng số lần chọn đối tượng.\nLời giải chi tiết\nKhi số lần lấy ngẫu nhiên một đối tượng ngày càng lớn thì xác suất thực nghiệm của biến cố “Đối tượng được lấy ra là đối tượng A” ngày càng gần với xác suất của biến cố đó và bằng \\(\\frac{1}{k}\\)."
+    },
+    {
+        "problem": "Viết ngẫu nhiên một số tự nhiên có ba chữ số lớn hơn hoặc bằng 900.\na)      Tính số phần tử của tập hợp \\(E\\) gồm các kết quả có thể xảy ra đối với số tự nhiên được viết ra.\nb)     Tính xác suất của biến cố “Số tự nhiên được viết ra là bình phương của một số tự nhiên”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong trò chơi chọn ngẫu nhiên một đối tượng từ một nhóm đối tượng. xác suất của một biến cố bằng tỉ số của số kết quả thuận lợi cho biến cố và số các kết quả có thể xảy ra đối với đối tượng được chọn ra.\nLời giải chi tiết\na)      Tập hợp \\(E = \\left\\{ {900;901;902;.....;998;999} \\right\\}\\). Số phần tử của tập hợp \\(E\\) là 100.\nb)     Các kết quả thuận lợi cho biến cố “Số tự nhiên được viết ra là bình phương của một số tự nhiên” là: 900;961. Do đó, có hai kết quả thuận lợi cho biến cố đó. Vì vậy, xác suất của biến cố đó là \\(\\frac{2}{{100}} = \\frac{1}{{50}}\\)."
+    },
+    {
+        "problem": "Một trường đại học có 1 200 sinh viên. Biểu đồ hình quạt tròn ở Hình 31 thống kê tỉ lệ phần trăm các loại phương tiện được sử dụng để đến trường của sinh viên.\n\na)     Lập bảng thống kê số sinh viên sử dụng các phương tiện để đến trường theo mẫu sau:\n\nb)    Công ty bảo vệ A đã trông giữ xe cho sinh viên nhà trường với giá một tháng là 30000 đồng/chiếc xe máy và 15000 đồng/chiếc xe đạp. Tính số tiền một tháng nhà trường phải trả cho công ty A.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào biểu đồ quạt tròn Hình 31, xác định được các dữ liệu cần điền vào Bảng thống kê số sinh viên sử dụng các phương tiện để đến trường sau đó tính số tiền một tháng nhà trường phải trả cho công ty A.\nLời giải chi tiết\na)     Bảng thống kê số sinh viên sử dụng các phương tiện để đến trường:\nPhương tiện\nXe buýt\nXe máy\nXe đạp\nĐi bộ\nSố sinh viên\n540\n360\n180\n120\nb)    Số tiền một tháng nhà trường phải trả cho công ty A là: \\(360.30000 + 180.15000 = 13500000\\) (đồng)"
+    },
+    {
+        "problem": "Biểu đồ đoạn thẳng ở Hình 22 biểu diễn số lượng học sinh đạt kết quả học tập Học kì I mức Tốt, Khá, Đạt, Chưa đạt của mỗi lớp 8A, 8B. Hãy hoàn thiện Hình 23 để nhận được biểu đồ cột kép biểu diễn các dữ liệu trong biểu đồ đoạn thằng ở Hình 22.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát biểu đồ đoạn thẳng ở Hình 22, ta thu được dữ liệu của số lượng học sinh lớp 8A và 8B, sau đó điền các số liệu đó vào biểu đồ cột kép.\nLời giải chi tiết\nQuan sát Hình 22 ta được các dữ liệu sau: số lượng học sinh đạt kết quả học tập Học kì I mức Tốt, Khá, Đạt, Chưa đạt của lớp 8A lần lượt là: 10, 15, 13, 2 và số lượng học sinh đạt kết quả học tập Học kì I mức Tốt, Khá, Đạt, Chưa đạt của lớp 8B lần lượt là: 5, 13, 17, 6. Ta vẽ được biểu đồ cột kép như sau:\n"
+    },
+    {
+        "problem": "Tổ 1, Tổ 2, Tổ 3, Tổ 4 của lớp 8A đều có tổng số học sinh tham gia câu lạc bộ đàn piano ở Học kì I và Học kì II không ít hơn 8 học sinh. Anh Long phụ trách câu lạc bộ đã lập biểu đồ cột kép ở Hình 2 biểu diễn số học sinh tham gia câu lạc bộ đàn piano ở Học kì I và Học kì II của mỗi tổ. Anh Long đã ghi nhầm số liệu của một số tổ. Hỏi anh Long đã ghi nhầm số liệu của tổ nào trong biểu đồ cột kép ở Hình 2?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào biểu đồ cột kép tính tổng số học sinh từng tổ, sau đó so sánh với dữ liệu có sẵn: tổng số học sinh mỗi tổ không ít hơn 8 học sinh để xác định số liệu anh Long đã ghi nhầm.\nLời giải chi tiết\nTừ biểu đồ cột kép ở Hình 2 ta thấy tổng số học sinh tham gia câu lạc bộ đàn piano ở Học kì I và Học kì II của Tổ 1, Tổ 2, Tổ 3, Tổ 4 lần lượt là: 8 học sinh, 6 học sinh, 12 học sinh, 9 học sinh, mà số học sinh mỗi tổ không dưới 8 học sinh. Vậy trong biểu đồ cột kép ở Hình 2, anh Long đã ghi nhầm số liệu của tổ 2."
+    },
+    {
+        "problem": "Sau khi tìm hiểu các tài liệu về các động vật quý hiếm ở tỉnh Thừa Thiên Huế có tên trong Sách đỏ Việt Nam 1996 và Nghị quyết 48-2002/NQ-CP, bạn Toàn lựa chọn danh mục 11 động vật với mức độ quý hiếm như sau: Báo gấm (E), Chồn dơi (R), Cóc gai mắt (T), Cu li lớn (V), Dơi chó tai ngắn (R), Dơi lá quạt (R), Ếch xanh (T), Ếch vạch (T), Rắn hổ mang chúa (E), Sơn dương (E). Hãy nêu tên những động vật trên theo phân loại mức độ quý hiếm như mẫu sau:\nMức độ quý hiếm\nTên động vật\nE\n?\nR\n?\nT\n?\nV\n?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào các dữ liệu cho trước để điền tiên các loài động vật quý hiếm ở tỉnh Thừa Thiên Huế theo mức độ quý hiếm.\nLời giải chi tiết\nMức độ quý hiếm\nTên động vật\nE\nBáo gấm, Rắn hổ mang chúa, Sơn dương\nR\nChồn dơi, Dơi chó tai ngắn, Dơi lá quạt\nT\nCóc gai mắt, Ếch xanh, Ếch vạch\nV\nCu li lớn, Cu li nhỏ"
+    },
+    {
+        "problem": "Một hộp có 20 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số tự nhiên lẻ nhỏ hơn 40, hai thẻ khác nhau được ghi hai số khác nhau. Lấy ngẫu nhiên một chiếc thẻ từ trong hộp, ghi lại số của thẻ được lấy ra và bỏ lại thẻ đó vào hộp.\na)      Sau 40 lần lấy thẻ liên tiếp, tính xác suất thực nghiệm của mỗi biến cố sau:\n-         “Thẻ lấy ra ghi số chia hết cho 23”;\n-         “Thẻ lấy ra ghi số lớn hơn 11 và là bình phương của một số tự nhiên”.\nb)     Nêu mối liên hệ giữa xác suất thực nghiệm của biến cố “Thẻ lấy ra ghi số nhỏ hơn 15 và chia hết cho 7” với xác suất của biến cố đó khi số lần lấy thẻ ngày càng lớn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong trò chơi chọn ngẫu nhiên một đối tượng từ một nhóm gồm \\(k\\) đối tượng sao cho khả năng được chọn ra của \\(k\\) đối tượng đó là như nhau, ta xét một đối tượng \\(A\\) trong nhóm đối tượng đó. Mỗi lần ta chọn ngẫu nhiên một nhóm đối tượng đó vào nhóm. Ta có định nghĩa sau:\nXác suất thực nghiệm của biến cố “Đối tượng \\(A\\) được chọn ra” khi chọn đối tượng nhiều lần bằng: Số lần đối tượng \\(A\\) được chọn ra/ Tổng số lần chọn đối tượng.\nLời giải chi tiết\na)      Ta có số tự nhiên lẻ nhỏ hơn 40 và chia hết cho 23 là 23. Số tự nhiên lẻ lớn hơn 11, nhỏ hơn 40 và là bình phương của một số tự nhiên là 25. Giả sử sau 40 lần lấy thẻ liên tiếp, có 7 lần lấy ra được thẻ ghi số chia hết cho 23 và 12 lần lấy ra được thẻ ghi số là bình phương của một số tự nhiên thì:\n-         Xác suất thực nghiệm của biến cố “Thẻ lấy ra ghi số chia hết cho 23” là \\(\\frac{7}{{40}}\\).\n-         Xác suất thực nghiệm của biến cố “Thẻ lấy ra ghi số lớn hơn 11 và là bình phương của một số tự nhiên” là \\(\\frac{{12}}{{40}} = \\frac{3}{{10}}\\).\nb)     Xác suất thực nghiệm của biến cố “Thẻ lấy ra ghi số nhỏ hơn 15 và chia hết cho 7” ngày càng gần với xác suất của biến cố đó khi số lần lấy thẻ ngày càng lớn."
+    }
+]

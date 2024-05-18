@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "7\n8\n9\n10\n11\n12\nLượng mưa (mm)\n449,1\n283,2\n266,9\n259,7\n19,4\n47,5\nTrong các tháng trên, tháng nào có lượng mưa nhiều nhất?\nA. Tháng 7;\nB. Tháng 8;\nC. Tháng 9;\nD. Tháng 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTháng 7 có lượng mưa là 449,1 mm. Đây là tháng có lượng mưa nhiều nhất trong các tháng trên."
+    },
+    {
+        "problem": "Câu 2. Bạn Minh ghi chép điểm Toán của các bạn trong tổ 1 của lớp 7A trong bảng dưới.\nĐiểm\n4\n5\n6\n7\n8\n9\nSố bạn\n1\n2\n3\n1\n4\n1\nHãy cho biết có bao nhiêu bạn được trên 7 điểm?\nA. 2;\nB. 3;\nC. 4;\nD. 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDựa vào bảng trên ta thấy:\nSố bạn được 8 điểm là 4;\nSố bạn được 9 điểm là 1.\nTổng số bạn được trên 7 điểm là 4 + 1 = 5."
+    },
+    {
+        "problem": "Câu 7. Cho bảng thống kê số lượt khách du lịch (ước đạt) đến Ninh Bình trong các năm 2016, 2017, 2018.\nNăm\n2016\n2017\n2018\nSố lượt (triệu lượt)\n6,44\n7,06\n7,3\nSố lượt khách du lịch đến Ninh Bình trong năm 2018 tăng bao nhiêu phần trăm so với năm 2016 (làm tròn kết quả đến hàng phần trăm)?\nA. 13,33%;\nB. 13,34%;\nC. 13,35%;\nD. 13,36%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTỉ số phần trăm số khách du lịch đến Ninh Bình trong năm 2018 so với năm 2016 là:\n(7,3 : 6,44). 100% = 113,354037… % ≈ 113,35%\nVậy số lượt khách du lịch đến Ninh Bình trong năm 2018 tăng khoảng 13,35% so với năm 2016."
+    },
+    {
+        "problem": "Câu 9. Bảng dữ liệu sau cho biết tình hình xếp loại học kì 1 của học sinh khối 7:\nXếp loại\nTốt\nKhá\nGiỏi\nChưa đạt\nSố học sinh\n36\n162\n90\n72\nTỉ lệ phần trăm học sinh loại Tốt so với học sinh cả khối 7 là bao nhiêu?\nA. 7%;\nB. 8%;\nC. 9%;\nD. 10%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTổng số học sinh khối 7 là: 36 + 162 + 90 + 72 = 360 (học sinh).\nTỉ lệ phần trăm học sinh loại Tốt so với cả khối 7 là: (36 : 360). 100% = 10%.\nVậy tỉ lệ phần trăm học sinh loại Tốt so với cả khối 7 là 10%."
+    },
+    {
+        "problem": "Câu 11. Cân nặng của 45 học sinh lớp 7A được thống kê trong bảng: (đơn vị: kilogam).\nCân nặng\n28\n30\n31\n32\n36\n40\n45\nSố học sinh\n5\n6\n12\n12\n4\n4\n2\nCân nặng trung bình của học sinh lớp 7A là (làm tròn kết quả đến hàng phần mười):\nA. 32,5 kg;\nB. 32,6 kg;\nC. 32,7 kg;\nD. 32,8 kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCân nặng trung bình của học sinh lớp 7A là:\n(28.5 + 30.6 + 31.12 + 32.12 + 36.4 + 40.4 + 45.2) : 45 = 32,666666… ≈ 32,7 kg\nVậy cân nặng trung bình của học sinh lớp 7A là khoảng 32,7 kg."
+    },
+    {
+        "problem": "Câu 15. Cho bảng thống kê số máy điều hoà và quạt hơi nước bán được trong ba tháng 6, 7, 8:\n \nĐiều hoà\nQuạt hơi nước\nTháng 6\n250\n200\nTháng 7\n320\n285\nTháng 8\n260\n240\nTỉ lệ phần trăm tổng số điều hoà so với tổng số lượng sản phẩm bán được trong tháng 6, 7, 8 (làm tròn kết quả đến hàng đơn vị)?\nA. 51%;\nB. 52%;\nC. 53%;\nD. 54%.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTổng số điều hoà bán được: 250 + 320 + 260 = 830 (máy);\nTổng số sản phẩm bán được: (250 + 200) + (320 + 285) + (260 + 240) = 1555 (máy).\nTỉ lệ phần trăm tổng số điều hoà so với tổng số sản lượng bán được: \n(830 : 1555). 100% = 53,37620…% ≈ 53% \nVậy tỉ lệ phần trăm tổng số điều hoà so với tổng số sản lượng bán được khoảng 53%."
+    }
+]

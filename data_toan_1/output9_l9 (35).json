@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Trong các thông tin thu được từ HĐ 1, thông tin nào là số? Thông tin nào không phải là số?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thông tin đưa ra kết quả có số là thông tin số, thông tin đưa ra kết quả chỉ có chữ thì không là số.\nLời giải chi tiết\nThông tin là số là: nhiệt độ cao nhất, nhiệt độ thấp nhất trong các ngày từ 11/04/2019 đến 20/04/2019 vì các thông tin này cho ta các số.\nThông tin không phải là số là: thời tiết các ngày từ 11/04/2019 đến 20/04/2019"
+    },
+    {
+        "problem": "Cho ví dụ về dữ liệu là số, ví dụ về dữ liệu không phải là số.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều cao, cân nặng, độ tuổi, ngày, tháng, năm,... cho ta các dữ liệu số.\nDữ liệu không phải là số: Dữ liệu không cho kết quả là số.\nLời giải chi tiết\nVí dụ dữ liệu về số:\nChiều cao của các bạn học sinh tổ 1 là: 153 cm; 154 cm; 169 cm; 178 cm; 155 cm\nVí dụ về dữ liệu không phải là số:\nLoài động vật được nhắc tới trong sách giáo khoa: Chó, mèo, hươu, nai, bò"
+    },
+    {
+        "problem": "Cho hai dãy dữ liệu như sau:\n(1) Số học sinh các lớp 6 trong trường:\n35  42  87  38  40  41  38\n(2) Tên món ăn yêu thích của các thành viên trong gia định:\nBánh chưng, pizza, canh cua, gà rán, rau muống luộc, cá kho, rượu vang.\na) Trong các dãy dữ liệu trên, dãy nào là dãy số liệu?\nb) Hãy tìm dữ liệu không hợp lí (nếu có) trong mỗi dãy dữ liệu trên.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số liệu: Dữ liệu là số.\nb) Dữ liệu không hợp lí: Liên hệ thực tế để kiểm tra thông tin sai.\nLời giải chi tiết\na. Dãy số liệu là: (1) Số học sinh các lớp 6 trong trường.\nb. (2) Dữ liệu không hợp lí là: 87, rượu vang\nVì số lượng học sinh trong một lớp không thể quá 60 người.\nRượu không phải là đồ ăn mà là đồ uống."
+    },
+    {
+        "problem": "Quân muốn thu thập số liệu về số lượng học sinh đeo kính trong một số lớp học để làm một dự án học tập.\nEm hãy giúp Quân bằng cách quan sát và đếm xem lớp em có bao nhiêu bạn đeo kính?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát và đếm số bạn đeo kính.\nLời giải chi tiết\nEm quan sát và đếm số bạn đeo kính trong lớp em."
+    },
+    {
+        "problem": "Trong các dữ liệu sau, dữ liệu nào là số liệu, dữ liệu nào không phải là số liệu ?\n1. Cân nặng của trẻ sơ sinh ( đơn vị tính là gam );\n2. Quốc tịch của các học sinh trong một trường quốc tế;\n3. Chiều cao trung bình của một số loại cây thân gỗ ( đơn vị tính là mét ).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số liệu: dữ liệu là số.\nLời giải chi tiết\n1. Dữ liệu số liệu vì dữ liệu này cho ta các số là số cân của trẻ sơ sinh.\n2. Dữ liệu không là số liệu vì dữ liệu này không là số mà là tên các quốc gia.\n3. Dữ liệu số liệu vì dữ liệu này cho ta các số là số mét của cây."
+    },
+    {
+        "problem": "Hãy tìm dữ liệu không hợp lí ( nếu có ) trong các dãy dữ liệu sau.\nThủ đô của một quốc gia châu Á:\nHà Nội        Bắc Kinh         Paris          Tokyo         Đà Nẵng\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khu vực không phải là thủ đô hoặc thủ đô của quốc gia không nằm trong châu Á là các dữ liệu không hợp lí.\nLời giải chi tiết\nDữ liệu không hợp lí là: Đà Nẵng, Paris.\nVì Đà Nẵng không là thủ đô và Paris không nằm trong châu Á."
+    }
+]

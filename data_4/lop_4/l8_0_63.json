@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 1: Số có chữ số tận cùng là 0; 2; 4; 6; 8 thì chia hết cho 2. Đúng hay sai? \nA. Đúng\nB. Sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có chữ số tận cùng là 0;2;4;6;8 thì chia hết cho 2.\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2: Số không chia hết cho 2 là số chẵn.  Đúng hay sai?\nA. Đúng\nB. Sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số chia hết cho 2 là số chẵn. Số không chia hết cho 2 là số lẻ.\nVậy khẳng định “Số không chia hết cho 2 là số chẵn” là sai."
+    },
+    {
+        "problem": "Câu 3: Trong các số sau số nào chia hết cho 2?\nA.\t1235\nB.\t1331\nC.\t2469\nD.\t1998",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 1235 có chữ số tận cùng là 5 nên 1235 không chia hết cho 2.\nSố 1331 có chữ số tận cùng là 1 nên 1331 không chia hết cho 2.\nSố 2469 có chữ số tận cùng là 9 nên 2469 không chia hết cho 2.\nSố 1998 có chữ số tận cùng là 8 nên 1998 chia hết cho 2.\nVậy trong các số đã cho, số chia hết cho 2 là 1998."
+    },
+    {
+        "problem": "Câu 4: Dãy gồm các số chia hết cho 2 là: \nA.\t98; 246; 1247; 5672; 9090\nB.\t36; 148; 8750; 17952; 3344\nC.\t67; 189; 987; 3553; 123321\nD.\t46; 128; 690; 4234; 6035",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dãy A có số 1247 có chữ số tận cùng là 7 nên 1247 không chia hết cho 2.\nDãy B  gồm các số chữ số tận cùng là 0;2;4;6;8 nên chia hết cho 2.\nDãy C gồm các số chữ số tận cùng là 1;3;5;7;9 nên không chia hết cho 2\nDãy D có số 6035 có chữ số tận cùng là 5 nên 6035 không chia hết cho 2.\nVậy dãy gồm các số chia hết cho 2 là 36;148;8750;17952;3344."
+    },
+    {
+        "problem": "Câu 5: Cho các số sau: 24; 35; 99; 158; 237; 1350; 2461; 12352; 87316. Có bao nhiêu số không chia hết cho 2? \nA.\t6 số\nB.\t5 số\nC.\t4 số\nD.\t3 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Những số có chữ số tận cùng là 1;3;5;7;9 thì  không chia hết cho 2.\nDo đó trong các số đã cho, các số không chia hết cho 2 là 35;99;237;2461.\nVậy có 4 số không chia hết cho 22."
+    },
+    {
+        "problem": "Câu 8: Từ ba chữ số 1; 6; 9 hãy viết các số có hai chữ số khác nhau và không chia hết cho 2. \nA.\t16; 96\nB.\t16; 69; 61; 91\nC.\t19; 91; 169\nD.\t16; 96; 169; 196",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ ba chữ số 1;6;9 viết được các số có hai chữ số khác nhau là 16;19;61;69;91;96.\nCác số 19;69;61;91 có chữ số tận cùng là 1 và 9 nên không chia hết cho 2.\nVậy từ ba chữ số 1;6;9 ta viết được các số có hai chữ số khác nhau và không chia hết cho 2 là 19;69;61;91."
+    }
+]

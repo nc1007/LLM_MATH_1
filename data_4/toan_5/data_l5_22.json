@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Số thập phân 325,98 đọc là ba trăm hai mươi lăm phẩy chín mươi tám. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân 325,98 đọc là ba trăm hai mươi lăm phẩy chín mươi tám.\nVậy cách đọc đã cho là đúng."
+    },
+    {
+        "problem": "Câu 4: Số nào dưới đây bằng với số 69,080?\nA.\t69,08\nB.\t69,0800\nC.\t69,08000\nD.\tCả ba đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 69,080 có thể thêm hoặc bớt vào tận cùng bên phải phần thập phân các chữ số 0 thì vẫn được một số thập phân bằng nó.\nTa có: 69,080 = 69,08 = 69,0800 = 69,08000 = ..."
+    },
+    {
+        "problem": "Câu 7: Chọn dấu thích hợp để điền vào chỗ chấm:\n75,168 … 75,98\nA. >\t \nB. <\nC. =",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy hai số thập phân 75,168 và 75,9 có cùng phần nguyên là 75, có hàng phần mười 1 < 9 nên 75,168 < 75,98.\nVậy đáp án cần điền là dấu: <."
+    },
+    {
+        "problem": "Câu 15: Một thửa ruộng hình chữ nhật có chu vi là 0,114 km, chiều dài hơn chiều rộng 7m. Người ta trồng lúa trên thửa ruộng đó, trung bình cứ 100 m^{2}  thì thu được 65 kg thóc. Hỏi trên cả thửa ruộng đó người ta thu được bao nhiêu tấn thóc?\nA.\t0,52 tấn\nB.\t1,04 tấn\nC.\t520 tấn\nD.\t104 tấn",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 0,114km = 114m\nNửa chu vi thửa ruộng đó là:\n114 : 2 = 57 (m) \nChiều dài thửa ruộng đó là:\n(57 + 7) : 2 = 32 (m)\nChiều rộng thửa ruộng đó là:\n57 - 32 = 25 (m) \nDiên tích thửa ruộng đó là:\n32 x 25 = 800 (m^{2} )\n800 m^{2}  gấp 100 m^{2}  số lần là:\n800 : 100 = 8 (lần)\nTrên cả thửa ruộng đó người ta thu được số ki-lô-gam thóc là:\n65 x 8 = 520 (kg)\n520kg = 0,52 tấn\nĐáp số: 0,52 tấn."
+    }
+]

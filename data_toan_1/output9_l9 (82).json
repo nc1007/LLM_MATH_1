@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Tìm ƯCLN của 126 và 162.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phân tích 126 và 162 ra thừa số nguyên tố.\n- Chọn ra các thừa số nguyên tố chung\n- Với mỗi thừa số nguyên tố chung, chọn lũy thừa với số mũ nhỏ nhất.\n- Lấy tích của các lũy thừa đã chọn.\nLời giải chi tiết\n\\(\\begin{array}{l}126 = {2.7.3^2}\\\\162 = {2.3^4}\\end{array}\\)\n\nThừa số nguyên tố chung là 2 và 3.\nSố mũ nhỏ nhất của 2 là 1;\nSố mũ nhỏ nhất của 3 là 2.\n=> ƯCLN{126;162} = \\({2.3^2}\\)= 18.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm ƯCLN(8,27).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân tích các số ra thừa số nguyên tố rồi tìm ƯCLN của 8 và 27.\nLời giải chi tiết\n\\(\\begin{array}{l}8 = {2^3}\\\\27 = {3^3}\\end{array}\\)\n8 và 27 không có thừa số nguyên tố chung. Ước chung của chúng chỉ có số 1.\nVậy ƯCLN(8,27) = 1."
+    },
+    {
+        "problem": "a) Tìm ƯCLN(4,9).\nb) Có thể rút gọn phân số \\(\\frac{4}{9}\\) được nữa không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm ƯCLN(4,9)\n- Phân số có thể rút gọn được khi ƯCLN của tử và mẫu khác 1.\nLời giải chi tiết\na) ƯCLN(4,9) = 1 vì 4 và 9 chỉ có đúng một ước chung là số 1.\nb) Không thể rút gọn phân số \\(\\frac{4}{9}\\) được nữa vì 4 và 9 không chia hết cho số nào ngoài số 1."
+    },
+    {
+        "problem": "Hai số 24 và 35 có nguyên tố cùng nhau không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tìm ƯCLN(24,35).\n- Hai số nguyên tố cùng nhau là hai số nguyên tố có ước chung lớn nhất bằng 1.\nLời giải chi tiết\nHai số 24 và 35 là hai số nguyên tố cùng nhau vì ƯCLN(24,35) = 1.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Số 1 có phải là ước chung của hai số tự nhiên bất kì không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tự nhiên n là ước chung của hai số tự nhiên a và b nếu n vừa là ước của a vừa là ước của b.\nLời giải chi tiết\nSố 1 là ước chung của hai số tự nhiên bất kì. Bởi vì tất cả các số tự nhiên đều có ước là 1."
+    },
+    {
+        "problem": "Tìm ước chung lớn nhất của từng cặp số trong 3 số sau đây:\na) 31, 22, 34\nb) 105, 128, 135",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Phân tích 3 số 31, 22, 34 ra thừa số nguyên tố.\n- Chọn 2 trong 3 số 31, 22, 34.\n- Tìm ƯCLN của 2 số đã chọn.\nb)\n- Phân tích 3 số 105,128,135 ra thừa số nguyên tố.\n- Chọn 2 trong 3 số 105,128,135.\n- Tìm ƯCLN của 2 số đã chọn.\nLời giải chi tiết\na)\n31 = 31\n22=2.11\n34=2.17\n+) ƯCLN(31,22) = 1\n+) ƯCLN(31,34) = 1\n+) ƯCLN (22,34) = 2\nb)\n\\(105 = 3.5.7;128 = {2^7};135 = 3.3.3.5 = {3^3}.5\\)\n+) ƯCLN (105,128) = 1\n+) ƯCLN (128,135) = 1\n+) ƯCLN (105,135) = 15."
+    },
+    {
+        "problem": "Tìm ƯCLN(126, 150). Từ đó hãy tìm tất cả các ước chung của 126, 150",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phân tích 3 số 126, 150 ra thừa số nguyên tố.\n- Sử dụng tính chất: Ước chung của 126 và 150 là ước của ƯCLN(126,150).\nLời giải chi tiết\nPhân tích:\n\\(\\begin{array}{l}126 = {2.3^2}.7\\\\150 = {2.3.5^2}\\end{array}\\)\nThừa số nguyên tố chung là 2 và 3.\nSố mũ nhỏ nhất của 2 là 1;\nSố mũ nhỏ nhất của 3 là 1.\n=> ƯCLN(126, 150) = 2.3 = 6\nƯC(126, 150) = {1;2;3;6}.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Rút gọn các phân số sau về phân số tối giản \\(\\frac{{60}}{{72}};\\frac{{70}}{{95}};\\frac{{150}}{{360}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phân tích các số trên tử và mẫu ra thừa số nguyên tố.\n- Tìm ƯCLN của tử và mẫu của mỗi phân số.\n- Chia cả tử và mẫu cho ƯCLN tìm được.\nLời giải chi tiết\n+) \\(\\begin{array}{l}60 = 2.2.3.5 = {2^2}.3.5\\\\72 = 2.2.2.3.3 = {2^3}{.3^2}\\end{array}\\)\n=>ƯCLN(60,72) = 12.\n=>\\(\\frac{{60}}{{72}} = \\frac{60:12}{72:12}= \\frac{5}{6}\\).\n+) \\(\\begin{array}{l}70 = 2.5.7\\\\95 = 5.19\\end{array}\\)\n=>ƯCLN (70,95) = 5\n=> \\(\\frac{{70}}{{95}} = \\frac{70:5}{95:5}= \\frac{{14}}{{19}}\\).\n+) \\(\\begin{array}{l}150 = {2.3.5^2}\\\\360 = {2^3}{.3^2}.5\\end{array}\\)\n=> ƯCLN(150,360)=2.3.5=30\n=> \\(\\frac{{150}}{{360}} = \\frac{150:30}{360:30}= \\frac{5}{{12}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Phân số \\(\\frac{4}{9}\\)  bằng các phân số nào trong các phân số sau: \\(\\frac{{48}}{{108}};\\frac{{80}}{{180}};\\frac{{60}}{{130}};\\frac{{135}}{{270}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Rút gọn các phân số đã cho về phân số tối giản.\n- Nếu phân số tối giản là \\(\\frac{4}{9}\\) thì phân số ban đầu bằng \\(\\frac{4}{9}\\).\nLời giải chi tiết\nƯCLN(48,108)=12\n=>\\(\\frac{{48}}{{108}} = \\frac{4}{9}\\)\nƯCLN(80,180)=20\n=> \\(\\frac{{80}}{{180}} = \\frac{4}{9}\\)\nƯCLN(60,130)=10\n=>\\(\\frac{{60}}{{130}} = \\frac{6}{{13}}\\)\nƯCLN(135,270)=135\n=>\\(\\frac{{135}}{{270}} = \\frac{1}{2}\\)\nPhân số  \\(\\frac{4}{9}\\)  bằng các phân số \\(\\frac{{48}}{{108}};\\frac{{80}}{{180}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một nhóm gồm 24 bạn nữ và 30 bạn nam tham gia một số trò chơi. Có thể chia các bạn thành nhiều nhất bao nhiêu đội chơi sao cho số bạn nam cũng như số bạn nữ được chia đều vào các đội?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi số đội được chia.\n- Số độ phải là ƯCLN của 24 và 30.\n- Tìm ƯCLN(24,30).\nLời giải chi tiết\nGọi a là số đội được chia. Khi đó a là ước chung của 24 và 30.\nVì số đội là nhiều nhất nên a phải là số lớn nhất\nDo đó, a là ước chung lớn nhất của 24 và 30.\nTa có: ƯC(24,30) = {1;2;3;6}\n=> ƯCLN (24,30) = 6.\nVậy có thể chia các bạn thành nhiều nhất 6 đội.\nLoigaihay.com"
+    },
+    {
+        "problem": "Một khu đất có dạng hình chữ nhật với chiều dài 48m, chiều rộng 42m. Người ta muốn chia khu đất ấy thành những mảnh hình vuông bằng nhau (với độ dài cạnh đo theo đơn vị mét là số tự nhiên) để trồng các loại rau. Có thể chia được bằng bao nhiêu cách? Với cách chia nào thì cạnh của mảnh đất hình vuông là lớn nhất và bằng bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Gọi số cách chia mảnh đất và độ dài cạnh hình vuông lớn nhất.\n- Tìm số ước chung của 48 và 42: Số cách chia.\n- Tìm ƯCLN(42, 48): độ dài cạnh lớn nhất.\nLời giải chi tiết\nGọi: x là số cách chia mảnh đất thành các mảnh hình vuông bằng nhau\ny là độ dài cạnh hình vuông lớn nhất mà ta có thể chia.\nĐể chia khu đất thành những mảnh hình vuông bằng nhau thì 48 và 42 phải chia hết cho độ dài cạnh hình vuông. Tức là cạnh hình vuông là ước chung của 48 và 42.\nVới mỗi cách chia ta được một số đo độ dài cạnh hình vuông, tức là một ước chung.\nVậy x là số ước chung của 48 và 42.\ny là ước chung lớn nhất của 48 và 42\nTa có: ƯC(42,48) = {1;2;3;6}. Vậy 48 và 42 có 4 ước chung nên có 4 cách chia.\nƯCLN(42, 48) = 6.\nVậy:"
+    },
+    {
+        "problem": "Hãy nêu bốn bội chung của 5 và 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các số vừa chia hết cho 5 vừa chia hết cho 9.\nLời giải chi tiết\nBốn bội chung của 5 và 9 là: 45, 90, 135, 180.\nChú ý: Các em có thể chọn 4 số khác vừa chia hết cho 5, vừa chia hết cho 9."
+    },
+    {
+        "problem": "Tìm tất cả các số có ba chữ số là bội chung của a và b, biết rằng BCNN(a,b)=300.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy BCNN(a,b) nhân với các số 1,2,3.\nLời giải chi tiết\nBCNN(a,b) = 300\n=> Tất cả các số có 3 chữ số là bội chung của a và b là: 300, 600, 900\nLoigiaihay.com"
+    }
+]

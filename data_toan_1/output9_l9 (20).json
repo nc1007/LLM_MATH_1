@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "a) Tìm các ước của -9;\nb) Tìm các bội của 4 lớn hơn -20 và nhỏ hơn 20.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi a \\( \\vdots \\) b (\\(a,b \\in \\mathbb{Z},\\,\\,b \\ne 0\\)), ta còn gọi a là một bội của b và b là một ước của a.\nLời giải chi tiết\na) Các ước nguyên dương của 9 là 1;3;9 nên\nTa có: Các ước của -9 là: -9; -3; -1; 1; 3; 9\nb) Các bội nguyên dương của 4 là: 0;4;8;12;16;20;... nên các bội của 4 là: ...; -20; -16; -12; -8; -4; 0; 4; 8; 12; 16; 20; ....\nTa có: Các bội của 4 lớn hơn -20 và nhỏ hơn 20 là: -16; -12; -8; -4; 0; 4; 8; 12; 16."
+    },
+    {
+        "problem": "Có hai số nguyên a, b khác nhau nào mà a \\( \\vdots \\) b và b \\( \\vdots \\) a không?\nBạn vuông:”Sao mà thế được!”\nBạn tròn: “A ha, tớ vừa tìm thấy hai số như vậy đấy!...”\nKhông biết tròn tìm được hai số nguyên nào nhỉ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét trường hợp đặc biệt hai số nguyên đối nhau.\nLời giải chi tiết\nHai số nguyên đối nhau thì thỏa mãn đề bài, ví dụ: 2\\( \\vdots \\)(-2)và (-2)\\( \\vdots \\)2\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính các thương:\na) 297 :(-3);\nb) (-396): (-12);\nc) (-600): 15.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dấu của thương\n(-) : (-) = (+)\n(+) : (-) = (-)\n(-) : (+) = (-)\nLời giải chi tiết\na) 297 : (-3) = -99\nb) (-396) : (-12) = 33\nc) (-600) : 15 = -40\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Tìm các ước của mỗi số: 30; 42, -50;\nb) Tìm các ước chung của 30 và 42.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Khi a \\( \\vdots \\) b (\\(a,b \\in \\mathbb{Z},\\,\\,b \\ne 0\\)), ta còn gọi a là một bội của b và b là một ước của a.\n+ Số m được gọi là ước chung của a và b nếu m vừa là ước của a, vừa là ước của b\nLời giải chi tiết\na) Các ước của 30 là: -30; -15; -10; -6; -5; -3; -2; -1; 1; 2; 3; 5; 6; 10; 15; 30\nCác ước của 42 là: -42; -21; -14; -7; -6; -3; -2; -1; 1; 2; 3; 6; 7; 14; 21; 42\nCác ước của -50 là: -50; -25; -10; -5; -2; -1; 1; 2; 5; 10; 25; 50\nb) Các ước chung của 30 và 42 là: -6; -3; -2; -1; 1; 2; 3; 6"
+    },
+    {
+        "problem": "Viết tập hợp sau bằng cách liệt kê phần tử\nM = \\({\\rm{\\{ }}x \\in \\mathbb{Z}|x \\vdots 4\\,\\)và \\( - 16 \\le x < 20\\} \\).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các bội của 4 lớn hơn hoặc bằng 16 và nhỏ hơn 20.\nLời giải chi tiết\nM = {-16; -12; -8; -4; 0; 4; 8; 12; 16}."
+    },
+    {
+        "problem": "Tìm hai ước của 15 có tổng bằng -4.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Liệt kê các ước của 15 rồi tìm hai ước có tổng bằng -4.\nLời giải chi tiết\nCác ước của 15 là: -15; -5; -3; -1; 1; 3; 5; 15\nTa thấy: (-5) + 1 = (-1) + (-3) = -4\nVậy hai ước có tổng bằng -4 là: -5 và 1 hoặc -1 và -3\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giải thích tại sao: Nếu hai số cùng chia hết cho -3 thì tổng và hiệu của hai số đó cũng chia hết cho -3. Hãy thử phát biểu một kết luận tổng quát.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi a\\( \\vdots \\)b thì ta có thể viết a = b.q (\\(b \\ne 0, a,b,q \\in Z\\))\nLời giải chi tiết\nHai số cùng chia hết cho -3 thì được viết dưới dạng (-3).a và (-3).b (a, b \\(\\in\\) Z)\nKhi đó:\nTổng 2 số là: (-3).a + (-3).b =  (-3).(a + b) \\( \\vdots \\) (-3)\nHiệu 2 số là: (-3).a - (-3).b = (-3).(a - b)\\( \\vdots \\) (-3)\nTổng quát: Cho các số a, b, c \\(\\in\\) Z, a và b cùng chia hết cho c thì tổng và hiệu của chúng cũng chia hết cho c."
+    },
+    {
+        "problem": "Cho  P = (-1).(-2).(-3).(-4).(-5)\na) Xác định dấu của tích P.\nb) Dấu của P thay đổi thế nào nếu đổi dấu ba thừa số của nó?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tích của n(lẻ) thừa số âm là 1 số âm\nTích của n(chẵn) thừa số âm là 1 số dương\nTích của các số dương là số dương\nLời giải chi tiết\na) P có 5 thừa số mang dấu âm nên P có tích số lẻ các thừa số mang dấu âm. Vì vậy P mang dấu âm.\nb) Nếu đổi dấu 3 thừa số của P thì P mới gồm 3 thừa số mang dấu dương và 2 thừa số mang dấu âm. Do đó P mang dấu dương vì tích của 2 thừa số mang dấu âm sẽ mang dấu dương.\nVậy tích P đổi dấu từ âm thành dương."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:a) (-12). (7 - 72) - 25. (55 - 43); b) (39 - 19) : (- 2) + (34 - 22). 5.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính trong ngoặc trước rồi phát hiện nhân tử chung\nLời giải chi tiết\na) (-12). (7 - 72) - 25. (55 - 43)\n= (-12). (- 65) - 25. 12\n= 12. 65 – 12. 25\n= 12. (65 - 25)\n= 12. 40\n= 480\nb) (39 - 19) : (- 2) + (34 - 22). 5\n= 20 : (- 2) + 12. 5\n= - 10 + 60\n= 60 - 10\n= 50."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức:\nA = 5ab – 3(a + b) với a = 4, b = - 3.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay các giá trị của a, b vào biểu thức rồi tính\nLời giải chi tiết\nThay a = 4, b = - 3 vào biểu thức A ta được:\nA = 5ab - 3(a + b)\n= 5.4. (-3) - 3. [4 + (-3)]\n= 20. (-3) – 3. (4 – 3)\n= - 60 – 3. 1\n= - 60 – 3\n= - (60 + 3)\n= - 63."
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) 17.[29 - (-111)] + 29.(-17);\nb) 19.43 + (-20).43 - (-40).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phát hiện nhân tử chung\nLời giải chi tiết\na) 17. [29 - (-111)] + 29. (-17)\n= 17. (29 + 111) - 29.17\n= 17. (29 + 111 - 29)\n= 17. [111 + (29 – 29)]\n= 17. (111 + 0)\n= 17. 111\n= 1 887\nb) 19.43 + (-20).43 - (-40)\n= 43. [19 + (-20)] + 40\n= 43. [-(20 – 19)] +40\n= 43. (-1) + 40\n= - 43 + 40\n= - (43 – 40)\n= - 3"
+    },
+    {
+        "problem": "a) Tìm các ước của 15 và các ước của – 25.\nb) Tìm các ước chung của 15 và – 25.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các ước dương của a\nSuy ra các ước của a\nLời giải chi tiết\na) * Tìm các ước của 15\nTa có \\(15 = 3. 5\\)\nCác ước nguyên dương của 15 là: 1; 3; 5; 15\nDo đó tất cả các ước của 15 là: - 15; - 5; - 3; - 1; 1; 3; 5; 15\n* Tìm các ước của 25\nTa có  \\(25=5^2\\)\nCác ước nguyên dương của 25 là: 1; 5; 25\nDo đó tất cả các ước của - 25 là: - 25; - 5; - 1; 1; 5; 25.\nb) Các ước chung nguyên dương của 15 và 25 là: 1; 5\nDo đó các ước chung của 15 và - 25 là:  - 5; -1; 1; 5."
+    },
+    {
+        "problem": "Sử dụng các phép tính với số nguyên để giải bài toán sau:Công nhân của một xưởng sản xuất được hưởng lương theo sản phẩm như sau:- Làm ra một sản phẩm đạt chất lượng thì được 50 000 đồng- Làm ra một sản phẩm không đạt chất lượng thì bị phạt 10 000 đồngTháng vừa qua một công nhân làm được 230 sản phẩm đạt chất lượng và 8 sản phẩm không đạt chất lượng. Hỏi công nhân đó được lĩnh bao nhiêu tiền lương?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính số tiền công nhân làm được\n- Tính số tiền công nhân bị phạt\n- Hiệu số tiền công nhân làm được và số tiền công nhân bị phạt là số tiền công nhân được lĩnh\nLời giải chi tiết\nSố tiền công nhân làm được 230 sản phẩm đạt chất lượng là:\n50 000. 230 = 11 500 000 (đồng)\nSố tiền công nhân bị phạt do làm ra 8 sản phẩm không đạt chất lượng là:\n10 000. 8 = 80 000 (đồng)\nSố tiền công nhân đó được lĩnh là:\n11 500 000 – 80 000 = 11 420 000 (đồng)\nVậy công nhân đó được thực lĩnh 11 420 000 đồng."
+    },
+    {
+        "problem": "Dùng số âm để diễn tả các thông tin sau:\na) Ở nơi lạnh nhất thế giới, nhiệt độ có thể xuống đến 60oC dưới 0°C.\nb) Do dịch bệnh, một công ty trong một tháng đã bị lỗ 2 triệu đồng.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhiệt độ dưới 0oC và số tiền lỗ được biểu thị bằng số âm\nLời giải chi tiết\na) Ở nơi lạnh nhất thế giới, nhiệt độ có thể xuống tới -60oC.\nb) Do dịch bệnh, một công ty trong một tháng đã thu về - 2 triệu đồng\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các số a, b, c, d, số nào dương, số nào âm nếu:\na > 0;            b < 0;          c \\( \\ge \\)1:                d\\( \\le \\)- 2.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh với số 0\n+Các số lớn hơn 0 là số dương\n+Các số nhỏ hơn 0 là số âm\nLời giải chi tiết\nTa có: +) a > 0 nên a là số dương\n+) b < 0 nên b là số âm\n+) c ≥ 1 > 0 nên c là số dương\n+) d ≤ -2 < 0 nên d là số âm.\nVậy: Các số dương là : a, c\nCác số âm là: b, d"
+    },
+    {
+        "problem": "Liệt kê các phần tử của tập hợp sau rồi tính tổng của chúng\na) S = \\({\\rm{\\{ }}x \\in \\mathbb{Z}| - 5 < x \\le 5\\} ;\\)\nb) T = \\({\\rm{\\{ }}x \\in \\mathbb{Z}| - 7 \\le x < 1\\} .\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Liệt kê các số lớn hơn âm 5 và nhỏ hơn hoặc bằng 5. Sau đó tính tổng\nb) Liệt kê các số lớn hơn hoặc bằng âm 7 và nhỏ hơn 1.\nLời giải chi tiết\na) S = {-4; -3; -2; -1; 0; 1; 2; 3; 4; 5}\nTổng các phần tử trong S:\n(-4) + (-3) + (-2) + (-1) + 0+ 1 + 2 + 3 + 4 + 5\n= [(-4)+4] + [(-3) + 3] + [(-2) + 2] + [(-1) +1] + 0 + 5\n= 0+0+0+0+0+5\n= 5\nb) T = {-7; -6; -5; -4; -3; -2; -1; 0}\nTổng các phần tử trong T:\n(-7) + (-6) + (-5) + (-4) + (-3) + (-2) + (-1) + 0 = -28"
+    },
+    {
+        "problem": "a) 15.(-236) + 15.235;\nb) 237. (-28) + 28. 137;\nc) 38. (27 - 44) - 27.(38 - 44).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất: a.(b + c) = ab + ac\nLời giải chi tiết\na) 15.(-236) + 15.235\n= 15.(-236 + 235)\n= 15.(-1)\n= -15\nb) 237.(-28) + 28.137\n= 237.(-28) - (-28).137\n= (-28).(237 - 137)\n= (-28).100\n= -2800\nc) 38.(27 - 44) - 27.(38 - 44)\n= 38.27 - 38.44 - 27.38 + 27.44\n= (38.27 - 27.38) + (-38). 44 + 27 . 44\n= 0 + 44.[(-38)+27]\n= 44.(-11)\n= -484"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức P = (-35). x - (-15) - 37 trong mỗi trường hợp sau:\na) x = 15;         b) x = -37.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay giá trị của x vào biểu thức P rồi tính.\nLời giải chi tiết\na) Thay x = 15 ta được:\nP = (-35).x - (-15).37 = (-35).15 - (-15).37\n= (-35).15 + 15.37 = 15.[(-35) +37] = 15.2 = 30.\nb) Thay x = -37 ta được:\nP = (-35).(-37) - (-15).37 = 35.37 + 15.37\n= 37.(15 + 35) = 37.50 = 1850."
+    },
+    {
+        "problem": "Có hay không hai số nguyên a và b mà hiệu a - b:\na) lớn hơn cả a và b;\nb) lớn hơn a nhưng nhỏ hơn b?\nTrong mỗi trường hợp, hãy cho ví dụ minh hoạ bằng số.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chọn b < 0  và a >2b\nb) Chọn b < 0 và a < 2b\nLời giải chi tiết\na) Ví dụ a = 3 và b = - 6 thì hiệu a - b = 3 – (-6) = 9 lớn hơn cả a và b.\nb) Ví dụ a = -7 và b = -1 thì hiệu a - b = -7 – (-1) = -6 lớn hơn a nhưng nhỏ hơn b.\nLoigiaihay.com"
+    }
+]

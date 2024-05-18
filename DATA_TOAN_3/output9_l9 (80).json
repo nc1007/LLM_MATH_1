@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Xét tính đồng biến và nghịch biến trên \\(\\mathbb{R}\\) của các hàm số sau :\n\\(f\\left( x \\right) = 2x - 3,g\\left( x \\right) =  - 2x - 5\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\)\n+ Đồng biến trên R khi \\(a > 0.\\)\n+ Nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\n\\(f\\left( x \\right) = 2x - 3\\) là hàm số đồng biến trên \\(\\mathbb{R}.\\) (Do \\(2 > 0\\))\n\\(f\\left( x \\right) =  - 2x - 5\\) là hàm số nghịch biến trên \\(\\mathbb{R}.\\) (Do \\( - 2 < 0\\))"
+    },
+    {
+        "problem": "Một nhóm bạn góp được 20 triệu đồng để làm một album ca nhạc. Một phòng thu âm cho biết giá cho việc sản xuất một đĩa gốc là 10 triệu đồng và mỗi đĩa in sao là 60000 đồng. Nếu nhóm muốn có c đĩa in sao thì số tiền còn lại là :\n\\(S\\left( c \\right) = 20000000 - \\left[ {10000000 + 60000c} \\right]\\)\\(\\, =  - 60000c + 10000000\\)( đồng ).\nHãy tính \\(S\\left( {50} \\right),S\\left( {80} \\right),S\\left( {100} \\right)\\) rồi so sánh chúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thay từng giá trị cụ thể 50, 80,100 vào hàm S(c) ta thu được kết quả cần tìm\nLời giải chi tiết\n\\(\\begin{array}{l}S\\left( c \\right) =  - 60000c + 10000000\\\\S\\left( {50} \\right) =  - 60000.50 + 10000000 = 7000000\\\\S\\left( {80} \\right) =  - 60000.80 + 10000000 = 5200000\\\\S\\left( {100} \\right) =  - 60000.100 + 10000000 = 4000000\\\\ \\Rightarrow S\\left( {100} \\right) < S\\left( {80} \\right) < S\\left( {50} \\right)\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = f\\left( x \\right) = \\dfrac{1}{2}x\\). Tính \\(f\\left( { - 2} \\right),f\\left( { - 1} \\right),f\\left( 0 \\right),f\\left( 2 \\right),f\\left( 4 \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thay từng giá trị cụ thể \\(x =  - 2;\\,x =  - 1;\\,x = \\,0  ;\\,x = \\,2;\\,\\,x = 4\\) vào hàm \\(f\\left( x \\right)\\) ta thu được kết quả cần tìm\nLời giải chi tiết\n\\(y = f\\left( x \\right) = \\dfrac{1}{2}x\\)\n\\(\\begin{array}{l}f\\left( { - 2} \\right) = \\dfrac{1}{2}.\\left( { - 2} \\right) =  - 1\\\\f\\left( { - 1} \\right) = \\dfrac{1}{2}.\\left( { - 1} \\right) =  - \\dfrac{1}{2}\\\\f\\left( 0 \\right) = \\dfrac{1}{2}.0 = 0\\\\f\\left( 2 \\right) = \\dfrac{1}{2}.2 = 1\\\\f\\left( 4 \\right) = \\dfrac{1}{2}.4 = 2\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = g\\left( x \\right) = \\dfrac{{ - 3}}{4}x\\). Tính \\(g\\left( { - 4} \\right),g\\left( { - 1} \\right),g\\left( 2 \\right),g\\left( 8 \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thay từng giá trị cụ thể \\(x =  - 4;\\,x = \\, - 1;\\,\\,x = \\,2;\\,\\,x = 8\\) vào hàm \\(g\\left( x \\right)\\) ta thu được kết quả cần tìm\nLời giải chi tiết\n\\(y = g\\left( x \\right) = \\dfrac{{ - 3}}{4}x\\)\n\\(\\begin{array}{l}g\\left( { - 4} \\right) = \\dfrac{{ - 3}}{4}.\\left( { - 4} \\right) = 3\\\\g\\left( { - 1} \\right) = \\dfrac{{ - 3}}{4}.\\left( { - 1} \\right) = \\dfrac{3}{4}\\\\g\\left( 2 \\right) = \\dfrac{{ - 3}}{4}.2 =  - \\dfrac{3}{2}\\\\g\\left( 8 \\right) = \\dfrac{{ - 3}}{4}.8 =  - 6\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Sau đây là bảng theo dõi nhiệt độ cao nhất T ( tính theo độ C ) trong một số ngày tại Thành phố Hồ Chí Minh :\nN(ngày)\nThứ 2\nThứ 3\nThứ 4\nThứ 5\nT\n\\({28^o}\\)\n\\({30^o}\\)\n\\({32^o}\\)\n\\({30^o}\\)\nT có phải là hàm số theo biến N không ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu đại lượng T phụ thuộc vào đại lượng thay đổi N sao cho 1 giá trị của N, ta luôn xác định được chỉ 1 giá trị của T thì T được gọi là hàm số của N\nLời giải chi tiết\nTa thấy T phụ thuộc vào đại lượng thay đổi N sao cho 1 giá trị của N, ta luôn xác định được chỉ 1 giá trị của T. Vậy T có là hàm số theo biến N\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chứng minh hàm số \\(f\\left( x \\right) =  - x\\) là hàm số nghịch biến trên \\(\\mathbb{R}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số \\(y = ax + b,\\,\\,\\left( {a \\ne 0} \\right)\\) đồng biến trên R khi \\(a > 0.\\)\nHàm số nghịch biến trên R khi \\(a < 0.\\)\nLời giải chi tiết\nHàm số \\(f\\left( x \\right) =  - x\\) có \\(a =  - 1 < 0\\) nên hàm số nghịch biến trên \\(\\mathbb{R}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các hàm số sau, hàm số nào là hàm số bậc nhất ? Nếu là hàm số bậc nhất thì nêu các hệ số a và b.\na)\\(y{\\rm{ }} = {\\rm{ }}5x{\\rm{ }} - 3\\) ;          b) \\(y = \\dfrac{2}{x} + 4\\);\nc)\\(y{\\rm{ }} = {\\rm{ }}2\\left( {x{\\rm{ }} - 1} \\right){\\rm{ }} + {\\rm{ }}3\\) ;     d) \\(y = 3{x^2} + 1\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hàm số bậc nhất có dạng \\(y = ax + b\\,\\,\\left( {a \\ne 0} \\right)\\)\nLời giải chi tiết\na) Hàm số \\(y = 5x - 3\\) là hàm số bậc nhất với \\(a = 5;b =  - 3\\)\nb) Hàm số \\(y = \\dfrac{2}{x} + 4\\) không là hàm số bậc nhất.\nc) Hàm số \\(y = 2\\left( {x - 1} \\right) + 3 = 2x + 1\\) là hàm số bậc nhất với \\(a = 2;b = 1\\)\nd) Hàm số \\(y = 3{x^2} + 1\\) không là hàm số bậc nhất.\nLoigiaihay.com"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 :  a x 1 = 1 x a = a. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mọi số nhân với 1 đều bằng chính nó.\nSố 1 nhân với số nào cũng bằng chính số đó.\nDo đó khẳng định a×1=1×a=a là đúng."
+    },
+    {
+        "problem": "Câu 2 : Cho phép tính: 34215 x 2 . Trong các cách sau, cách đặt tính nào đúng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đặt tính ta phải đặt chữ số 2 thẳng hàng với chữ số hàng đơn vị của số 34215, \nhay chữ số 2 phải đặt thẳng hàng với chữ số 5.\nTrong các cách đặt tính đã cho, cách đặt tính D là đúng."
+    },
+    {
+        "problem": "Câu 4 : Kết quả của phép tính 45268 x 3 là: \nA.\t134784\nB.\t134794\nC.\t135804\nD.\t135814",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính và thực hiện tính ta có:\nVậy 45268×3=135804."
+    },
+    {
+        "problem": "Câu 5 :  125384 x 6 = 752204. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính và thực hiện tính ta có:\n 125384×6=752304.\nMà 752204<752304\nVậy phép tính đã cho là sai."
+    },
+    {
+        "problem": "Câu 6 : Giá trị của biểu thức 156029 - 49347 x 3 là: \nA.\t7988\nB.\t7898\nC.\t320036\nD.\t320046",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "156029−49347×3=156029−148041=7988"
+    },
+    {
+        "problem": "Câu 7 : Tìm x biết:  x : 9 = 3856 + 28765  \nA.\tx = 29359\nB.\tx = 293569\nC.\tx = 293579\nD.\tx = 293589",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "x : 9 = 3856+28765\nx : 9 = 32621\nx = 32621×9\nx = 293589"
+    },
+    {
+        "problem": "Câu 11 : Một mảnh vườn thu hoạch cam rồi chia lên các xe tải, biết có 9 xe đầu, \nmỗi xe chở được 1425kg cam và 3 xe sau, mỗi xe chở 1750kg cam. \nHỏi mảnh vườn đó thu hoạch được tất cả bao nhiêu ki-lô-gam cam? \nA.\t18075kg\nB.\t18225kg\nC.\t12825kg\nD.\t15750kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "9 xe đầu chở được số ki-lô-gam cam là:\n             1425×9=12825(kg)\n3 xe sau chở được số ki-lô-gam cam là:\n               1750×3=5250(kg)\nMảnh vườn đó thu hoạch được số ki-lô-gam cam là:\n         12825+5250=18075(kg)\n                  Đáp số: 18075kg cam."
+    }
+]

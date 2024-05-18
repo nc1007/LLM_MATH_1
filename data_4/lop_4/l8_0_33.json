@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1 : 1 giờ = 60 phút. Đúng hay sai? \nA.\tĐúng \nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1 giờ =60 phút.\nVậy khẳng định đã cho là đúng"
+    },
+    {
+        "problem": "Câu 2 : Thế kỉ thứ hai được viết bằng chữ số La Mã là: \nA.\tVII\nB.\tII\nC.\tV\nD.\tXII",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thế kỉ thứ hai được viết bằng chữ số la mã là: II."
+    },
+    {
+        "problem": "Câu 5 : Từ năm 701 đến năm 800 là thế kỉ nào? \nA.\tThế kỷ V\nB.\tThế kỷ VII\nC.\tThế kỷ VI\nD.\tThế kỷ VIII",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Từ năm 1 đến năm 100 là thế kỉ một (thế kỉ I).\n- Từ năm 101 đến năm 200 là thế kỉ hai (thế kỉ II).  \n- Từ năm 201 đến năm 300 là thế kỉ ba (thế kỉ III).\n…\n- Từ năm 1901 đến năm 2000 là thế kỉ hai mươi (thế kỉ XX).\n- Từ năm 2001 đến năm 2100 là thế kỉ hai mươi mốt (thế kỉ XXI).\nVậy từ năm 701 đến năm 800 là thế kỉ tám (thế kỉ VIII)."
+    },
+    {
+        "problem": "Câu 7 : Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "1 thế kỉ  =100 năm.\nDo đó, 1/4 thế kỉ =100 năm : 4 = 25 : 4 = 25 năm.\nVậy đáp án đúng điền vào ô trống là 25."
+    },
+    {
+        "problem": "Câu 8 : 3 phút 3 giây = … giây.  \nSố thích hợp điền vào chỗ chấm là:\nA.\t33\nB.\t103\nC.\t183\nD.\t303",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 1 phút =60 giây nên 3 phút =180 giây.\nDo đó 3 phút 3 giây = 180 giây + 3 giây =183 giây.\nVậy 3 phút 3 giây = 183 giây."
+    },
+    {
+        "problem": "Câu 9 :  Điền số thích hợp vào ô trống:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:  1 ngày = 24 giờ.\nNên 1/2 ngày = 24 giờ : 2= 12 : 2 = 12 giờ.\nVậy đáp án đúng điền vào ô trống là 12."
+    },
+    {
+        "problem": "Câu 10 : Chiến thắng Điện Biên Phủ vào ngày 7 tháng 5 năm 1954. Vậy chiến thắng Điện Biên Phủ vào thế kỉ: \nA.\tXX\nB.\tXXI\nC.\tXIX\nD.\tXV",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ năm 1901 đến năm 2000 là thế kỉ hai mươi (thế kỉ XX).\nDo đó năm 1954 thuộc thế kỉ hai mươi (thế kỉ XX).\nVậy chiến thắng Điện Biên Phủ vào thế kỉ XX"
+    },
+    {
+        "problem": "Câu 11 : Chiến thắng Bạch Đằng năm 1288 đánh tan quân Mông Nguyên lần thứ ba thuộc thế kỉ nào? \nTính đến nay đã được bao nhiêu năm? \nA.\tThế kỷ XVI; 730 năm\nB.\tThế kỷ XII; 630 năm\nC.\tThế kỷ XIII; 730 năm\nD.\tThế kỷ VIII; 630 năm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Từ năm 1201 đến năm 1300 là thế kỉ mười ba (thế kỉ XIII).\nDo đó năm 1288 thuộc thế kỉ mười ba (thế kỉ XIII).\nTính đến nay (năm 2019) đã được số năm là:\n         2019−1288=731 (năm)\nVậy chiến thắng Bạch Đằng lần thứ ba vào thế kỉ XIII, tính đến nay đã được 731 năm."
+    },
+    {
+        "problem": "Câu 14 :  Đồng hồ sau đây chỉ mấy giờ?\nA.\t5 giờ kém 15 phút\nB.\t5 giờ 45 phút\nC.\t9 giờ kém 20 phút\nD.\t9 giờ 5 phút",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đồng trên có kim ngắn chỉ vào giữa số 4 và số 5, kim dài chỉ vào số 9.\nNên đồng hồ chỉ 4 giờ 45 phút hay 5 giờ kém 15 phút.\nVậy ta chọn đáp án: 5 giờ kém 15 phút."
+    }
+]

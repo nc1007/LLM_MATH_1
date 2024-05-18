@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "Biết rằng x và y tỉ lệ nghịch với nhau và x = 4 khi y =15.\na) Viết công thức tính y theo x.\nb) Tìm giá trị của y khi x = 6\nc) Tìm giá trị của x khi y = 0,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Lấy x nhân y, rút y theo x\nb) Từ x thay số để tìm y\nc) Rút x theo y. Thay y = 0,5 vào ta được.\nLời giải chi tiết\na) Ta có: \\(x.y = 4.15 = 60 \\Rightarrow y = \\dfrac{{60}}{x}\\)\nb) Khi x = 6 ta có \\(y = \\dfrac{{60}}{6} = 10\\).\nc)\nTừ \\(xy = 60 \\Rightarrow x = \\dfrac{{60}}{y}\\)\nDo đó với y = 0,5 ta có \\(x = \\dfrac{{60}}{{0,5}} = 120\\)."
+    },
+    {
+        "problem": "Biết rằng x và y là hai đại lượng tỉ lệ thuận và khi x = 5 thì y = 3.\na) Viết công thức tính y theo x.\nb) Tính giá trị của y khi x = 10.\nc) Tính giá trị của x khi \\(y = \\dfrac{3}{{35}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tỉ số y : x để suy ra công thức y theo x.\nLời giải chi tiết\na) Ta có: \\(y = \\dfrac{3}{5}x\\)\nb) Khi x = 10 thì \\(y = \\dfrac{3}{5}.10 = 6\\).\nc) Từ \\(y = \\dfrac{3}{5}x\\) suy ra \\(x = \\dfrac{5}{3}y\\)\nKhi \\(y = \\dfrac{3}{{25}}\\) thì \\(x = \\dfrac{5}{3}.\\dfrac{3}{{25}} = \\dfrac{1}{5}\\)."
+    },
+    {
+        "problem": "Tìm 2 số x và y, biết: \\(\\dfrac{x}{3} = \\dfrac{y}{5}\\)và \\(x + y = 16\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất dãy tỉ số bằng nhau: \\(\\dfrac{a}{b} = \\dfrac{c}{d} = \\dfrac{{a + c}}{{b + d}}\\).\nLời giải chi tiết\nÁp dụng tính chất của dãy tỉ số bằng nhau:\n\\(\\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{{x + y}}{{3 + 5}} = \\dfrac{{16}}{{3 + 5}} = 2\\)\n\\( \\Rightarrow x = 6;y = 10\\)"
+    },
+    {
+        "problem": "Tìm các tỉ số bằng nhau trong các tỉ số sau rồi lập tỉ lệ thức:\n\\(\\begin{array}{l}12:18\\\\0,24:0,32\\\\\\dfrac{4}{7}:\\dfrac{6}{7}\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Rút gọn các tỉ số.\n-Các tỉ số bằng nhau tạo thành đẳng thức.\nLời giải chi tiết\nTa có: \\(12:18 = \\dfrac{{12}}{{18}} = \\dfrac{{12:6}}{{18:6}} = \\dfrac{2}{3}\\)\n\\(0,24:0,32 =\\dfrac{{24}}{{32}} =\\dfrac{{24:8}}{{32:8}} =\\dfrac{{3}}{{4}} \\)\n\\(\\dfrac{4}{7}:\\dfrac{6}{7} =\\dfrac{4}{7}.\\dfrac{7}{6} = \\dfrac{4}{6} =\\dfrac{4:2}{6:2} = \\dfrac{2}{3}\\)\nVậy \\(12:18 = \\dfrac{4}{7}:\\dfrac{6}{7}\\)"
+    },
+    {
+        "problem": "Có thể lập được tỉ lệ thức từ các số sau đây không? Nếu được, hãy viết tất cả các tỉ lệ thức có thể lập được.\na) -49; -28; 4; 7\nb) 4; 18; 64; 256.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tìm ra đẳng thức bằng nhau trong 4 số\n-Lập 4 tỉ lệ thức từ đẳng thức trên: a.b = c.d\nThì 4 tỉ lệ thức là:\n\\(\\dfrac{a}{c} = \\dfrac{d}{b};\\dfrac{c}{a} = \\dfrac{b}{d};\\dfrac{a}{d} = \\dfrac{c}{b};\\dfrac{d}{a} = \\dfrac{b}{c}\\).\nLời giải chi tiết\na) Ta có: (-49).4 = -196\n(-28).7 = -196\nVậy ta có đẳng thức (-49).4 = (-28).7\nTừ đẳng thức trên ta lập được 4 tỉ lệ thức sau\n\\(\\dfrac{{ - 49}}{{ - 28}} = \\dfrac{7}{4};\\dfrac{{ - 28}}{{ - 49}} = \\dfrac{4}{7};\\dfrac{{ - 49}}{7} = \\dfrac{{ - 28}}{4};\\dfrac{7}{{ - 49}} = \\dfrac{4}{{ - 28}}.\\)\nb)\nTa có:\n4.18 = 72\n64.256 = 16384\n4.256 = 1024\n64.18 = 1152\nDo đó từ bốn số đã cho không có đẳng thức nên không thể lập được 1 tỉ lệ thức."
+    },
+    {
+        "problem": "Cho biết x và y là hai đại lượng tỉ lệ nghịch. Thay dấu “?” trong bảng sau bằng số thích hợp.\nx\n1\n2,5\n?\n?\n8\n?\ny\n?\n4\n2.5\n2\n?\n10\nViết công thức mô tả mối quan hệ giữa hai đại lượng x và y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính tích x.y ở cột 2, từ đó tìm được các ô còn thiếu.\nLời giải chi tiết\nỞ cột thức 2: x.y = 2,5.4 = 10. Tích của các cột còn lại cũng bằng 10.\nHoàn thành bảng, ta được:\nx\n1\n2,5\n4\n5\n8\n10\ny\n10\n4\n2,5\n2\n1,25\n1\nCông thức mô tả mối quan hệ phụ thuộc giữa hai đại lượng x và y là xy = 10."
+    },
+    {
+        "problem": "Cho biết x và y là hai đại lượng tỉ lệ thuận. Thay dấu “?” trong bảng sau bằng số thích hợp.\nx\n2\n5\n?\n?\n-1,5\n?\ny\n6\n?\n12\n-9\n?\n-1,5\nViết công thức mô tả mối quan hệ phụ thuộc giữa hai đại lượng x và y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \\(\\dfrac{y}{x} = \\dfrac{6}{2} = 3 \\Rightarrow y = 3x\\)\nHoàn thiện bảng trên.\nLời giải chi tiết\nTa có: \\(\\dfrac{y}{x} = \\dfrac{6}{2} = 3 \\Rightarrow y = 3x\\)\nTừ đó ta có bảng sau:\nx\n2\n5\n4\n-3\n-1,5\n-0,5\ny\n6\n15\n12\n-9\n-4,5\n-1,5"
+    },
+    {
+        "problem": "Tìm 2 số x và y, biết: 7x = 3y và y – x = -16.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất dãy tỉ số bằng nhau: \\(\\dfrac{a}{b} = \\dfrac{c}{d} = \\dfrac{{a - c}}{{b - d}}\\).\nLời giải chi tiết\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta được:\n\\(\\begin{array}{l}7x = 3y \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{7} = \\dfrac{{y - x}}{{7 - 3}} = \\dfrac{{ - 16}}{4} =  - 4\\\\ \\Rightarrow x = 3.\\left( { - 4} \\right) =  - 12\\\\\\,\\,\\,\\,\\,\\,y = 7.\\left( { - 4} \\right) =  - 28\\end{array}\\)\nVậy \\(x=-12;y=-28\\)."
+    },
+    {
+        "problem": "Tìm x trong các tỉ lệ thức sau:\na)\\(\\dfrac{x}{3} = \\dfrac{{ - 2}}{5}\\)\nb)\\(\\dfrac{4}{x} = \\dfrac{8}{{ - 10}}\\)\nc)\\(\\dfrac{x}{4} = \\dfrac{{2,4}}{{3,2}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất: \\(\\dfrac{a}{b} = \\dfrac{c}{d} \\Rightarrow a.d = b.c\\).\nLời giải chi tiết\na) \\(\\dfrac{x}{3} = \\dfrac{{ - 2}}{5} \\Rightarrow 5x =  - 6 \\Rightarrow x =  - \\dfrac{6}{5}\\)\nb) \\(\\dfrac{4}{x} = \\dfrac{8}{{ - 10}} \\Rightarrow 8x =  - 40 \\Rightarrow x =  - 5\\)\nc)\\(\\dfrac{x}{4} = \\dfrac{{2,4}}{{3,2}} \\Rightarrow 3,2x = 9,6 \\Rightarrow x = 3\\)"
+    },
+    {
+        "problem": "Tìm x trong mỗi tỉ lệ thức sau:\na)\\(\\dfrac{x}{{ - 2,5}} = \\dfrac{{ - 20}}{{25}}\\)\nb)\\(3,8:x = 0,75:1,5\\)\nc)\\(\\dfrac{{x + 5}}{4} = \\dfrac{{ - 1}}{2}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng \\(\\dfrac{a}{b} = \\dfrac{c}{d} \\Rightarrow a.d = b.c\\)\nTìm x.\nLời giải chi tiết\nÁp dụng tính chất của tỉ lệ thức, ta có:\na) \\(\\dfrac{x}{{ - 2,5}} = \\dfrac{{ - 20}}{{25}} \\Rightarrow 25x = \\left( { - 20} \\right).\\left( { - 2,5} \\right) \\Rightarrow 25x = 50 \\Rightarrow x = 50:25 \\Rightarrow x = 2\\).\nVậy \\(x = 2\\)\nb) \\(3,8:x = 0,75:1,5 \\Rightarrow \\dfrac{{3,8}}{x} = \\dfrac{{0,75}}{{1,5}} \\Rightarrow 3,8.1,5 = 0,75.x \\Rightarrow 0,75x = 5,7 \\Rightarrow x = 7,6.\\)\nVậy \\(x = 7,6\\)\nc) \\(\\dfrac{{x + 5}}{4} = \\dfrac{{ - 1}}{2} \\Rightarrow 2.\\left( {x + 5} \\right) = \\left( { - 1} \\right).4 \\Rightarrow x + 5 =  - 2 \\Rightarrow x =  - 2 - 5 \\Rightarrow x =  - 7.\\)\nVậy \\(x = -7\\)"
+    },
+    {
+        "problem": "Theo bảng giá trị dưới đây, hai đại lượng x và y có phải là hai đại lượng tỉ lệ nghịch không?\na)\nx\n6\n3\n-4\n5\ny\n10\n20\n-15\n12\nb)\nx\n-2\n-1\n2\n5\ny\n-15\n-30\n16\n6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kiểm tra tích x.y ở tất cả các cột có bằng nhau không?\n+ Nếu có thì 2 đại lượng đó là 2 đại lượng tỉ lệ nghịch.\n+ Nếu không thì 2 đại lượng đó không là 2 đại lượng tỉ lệ nghịch\nLời giải chi tiết\na)\nTa có: x.y = 6.10 = 3.20 = (-4).(-15) = 5.12\nHai đại lượng x và y là hai đại lượng tỉ lệ nghịch.\nb)\nTa có: x.y = (-2).(-15) = (-1).(-30) \\(\\ne\\) 2.16\nVậy x và y không phải là hai đại lượng tỉ lệ nghịch."
+    },
+    {
+        "problem": "Trong mỗi bảng giá trị dưới đây, hai đại lượng x và y có phải là hai đại lượng tỉ lệ thuận không?\na)\nx\n4\n-10\n22\n36\ny\n24\n-60\n132\n216\nb)\nx\n5\n-8\n14\n-26\ny\n20\n-32\n46\n-104",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kiểm tra các tỉ lệ x : y tương ứng có bằng nhau không? Nếu các tỉ lệ bằng nhau thì x, y là hai đại lượng tỉ lệ thuận\nLời giải chi tiết\na)\nTa có: \\(\\dfrac{x}{y} = \\dfrac{4}{{24}} = \\dfrac{{ - 10}}{{ - 60}} = \\dfrac{{22}}{{132}} = \\dfrac{{36}}{{216}} = \\dfrac{1}{6}\\)\nHai đại lượng x và y là hai đại lượng tỉ lệ thuận.\nb)\nTa có:\\(\\dfrac{x}{y} = \\dfrac{5}{{20}} = \\dfrac{{ - 8}}{{ - 32}} \\ne \\dfrac{{14}}{{26}}\\)\nHai đại lượng x và y không phải là hai đại lượng tỉ lệ thuận."
+    },
+    {
+        "problem": "Tìm 3 số x, y và z, biết: x : y : z = 3 : 5 : 7 và x – y + z = 35.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Biến đổi \\(x:y:z = 3:5:7 \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{7}\\).\n-Áp dụng tính chất dãy tỉ số bằng nhau tìm x, y, z.\nLời giải chi tiết\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\begin{array}{l}x:y:z = 3:5:7 \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{z}{7} = \\dfrac{{x - y + z}}{{3 - 5 + 7}} = \\dfrac{{35}}{5} = 7\\\\ \\Rightarrow x = 3.7 = 21\\\\\\,\\,\\,\\,\\,\\,\\,y = 5.7 = 35\\\\\\,\\,\\,\\,\\,\\,\\,\\,z = 7.7 = 49\\end{array}\\)"
+    },
+    {
+        "problem": "Lập tất cả các tỉ lệ thức có thể được từ đẳng thức \\(\\left( { - 16} \\right).35 = 28.\\left( { - 20} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu \\(ad = bc\\left( {a,b,c,d \\ne 0} \\right)\\) thì ta có các tỉ lệ thức sau:\n\\(\\dfrac{a}{b} = \\dfrac{c}{d};\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{a}{c} = \\dfrac{b}{d};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{d}{b} = \\dfrac{c}{a};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{d}{c} = \\dfrac{b}{a}\\)\nLời giải chi tiết\nTừ đẳng thức \\(\\left( { - 16} \\right).35 = 28.\\left( { - 20} \\right)\\)ta lập được các tỉ lệ thức sau:\n\\(\\dfrac{{ - 16}}{{28}} = \\dfrac{{ - 20}}{{35}};\\,\\,\\,\\,\\,\\,\\,\\dfrac{{ - 16}}{{ - 20}} = \\dfrac{{28}}{{35}};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{{35}}{{28}} = \\dfrac{{ - 20}}{{ - 16}};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{{35}}{{ - 20}} = \\dfrac{{28}}{{ - 16}}\\)"
+    },
+    {
+        "problem": "Tìm 2 số x và y, biết:\n\\(a)\\dfrac{x}{5} = \\dfrac{y}{7};2x - 3y = 22\\)\nb)\\(\\dfrac{x}{y} = \\dfrac{2}{3};x + 2y = 40.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n\\(\\dfrac{x}{5} = \\dfrac{y}{7} \\Rightarrow \\dfrac{{2x}}{{10}} = \\dfrac{{3y}}{{21}};2x - 3y = 22\\)\n-Sử dụng tính chất dãy tỉ số bằng nhau.\n\\(\\dfrac{a}{b} = \\dfrac{c}{d} = \\dfrac{{a - c}}{{b - d}}\\)\nb)\n\\(\\dfrac{x}{y} = \\dfrac{2}{3} \\Rightarrow \\dfrac{x}{2} = \\dfrac{y}{3} \\Rightarrow \\dfrac{x}{2} = \\dfrac{{2y}}{6};x + 2y = 40.\\)\n-Sử dụng tính chất dãy tỉ số bằng nhau.\n\\(\\dfrac{a}{b} = \\dfrac{c}{d} = \\dfrac{{a + c}}{{b + d}}\\)\nLời giải chi tiết\na)\nTa có: \\(\\dfrac{x}{5} = \\dfrac{y}{7} \\Rightarrow \\dfrac{{2x}}{{10}} = \\dfrac{{3y}}{{21}};2x - 3y = 22\\).\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\(\\begin{array}{l}\\dfrac{{2x}}{{10}} = \\dfrac{{3y}}{{21}} = \\dfrac{{2x - 3y}}{{10 - 21}} = \\dfrac{{22}}{{ - 11}} =  - 2\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x =  - 2.5 =  - 10\\\\y = 7.\\left( { - 2} \\right) =  - 14\\end{array} \\right.\\end{array}\\)\nVậy x = - 10 và y = -14\nb)\nTa có: \\(\\dfrac{x}{y} = \\dfrac{2}{3} \\Rightarrow \\dfrac{x}{2} = \\dfrac{y}{3} \\Rightarrow \\dfrac{x}{2} = \\dfrac{{2y}}{6};x + 2y = 40.\\)\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\(\\begin{array}{l}\\dfrac{x}{2} = \\dfrac{{2y}}{6} = \\dfrac{{x + 2y}}{{2 + 6}} = \\dfrac{{40}}{8} = 5\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 2.5 = 10\\\\y = 3.5 = 15\\end{array} \\right.\\end{array}\\)\nVậy x = 10 và y = 15."
+    },
+    {
+        "problem": "Đức cùng mẹ và chị Linh đi siêu thị và dự định mua 5 vỉ gồm 20 hộp sữa chua. Siêu thị đang trong đợt khuyến mại, sữa chua được giảm giá 20% mỗi hộp. Chị Linh nói rằng với số tiền ban đầu dự định mua sữa chua thì bây giờ có thể mua được 6 vỉ gồm 24 hộp (tăng thêm 20% số hộp so với ban đầu). Đức thì cho rằng với số tiền đó bây giờ sẽ mua được 25 hộp sữa chua (tăng thêm 25% số hộp so với ban đầu). Hỏi ai đúng, ai sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền dự định để mua sữa chua không thay đổi nên giá tiền mỗi hộp và số hộp sữa chua mua được là hai đại lượng tỉ lệ nghịch.\nLời giải chi tiết\nGọi x (đồng) là số tiền mua một hộp sữa chua khi giảm giá. Khi đó số tiền mua một hộp sữa chua sau khi giảm giá là 80%x = 0,8x.\nGọi y (hộp) là số hộp sữa chua mua được sau khi giảm giá.\nDo số tiền dự định để mua sữa chua không thay đổi nên giá tiền mỗi hộp và số hộp sữa chua mua được là hai đại lượng tỉ lệ nghịch.\nTa có: x.20 = 0,8x.y\nDo đó: \\(y = \\dfrac{{x.20}}{{0,8x}} = 25\\).\nVậy với số tiền dự định ban đầu, số hộp sữa chua mua được sau khi giảm giá là 25 hộp."
+    },
+    {
+        "problem": "Dưới đây là bảng tiêu thụ xăng của một loại ô tô cỡ nhỏ.\nQuãng đường đi được (km)\n10\n20\n30\n40\n50\n80\n100\nLượng xăng tiêu thụ (lít)\n0,8\n1,6\n2,4\n3,2\n4,0\n6,4\n8,0\nQuãng đường đi được có tỉ lệ thuận với lượng xăng tiêu thụ hay không? Nếu có thì hãy tìm hệ số tỉ lệ và tính lượng xăng tiêu thụ khi ô tô chạy được 150 km.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Kiểm tra quãng đường đi được : lượng xăng tiêu thụ\n-Tìm hệ số tỉ lệ\n-Xây dựng công thức y theo x.\nLời giải chi tiết\nQuãng đường đi được (km) tỉ lệ thuận với lượng xăng tiêu thụ (lít).\nHệ số tỉ lệ là \\(a = \\dfrac{{10}}{{0,8}} = 12,5\\).\nTa có quãng đường đi được y(km) liên hệ với lượng xăng tiêu thụ x (lít) theo công thức y = 12,5x. Do đó khi y = 150 thì \\(x = \\dfrac{{150}}{{12,5}} = 12\\)(lít)."
+    },
+    {
+        "problem": "Tìm diện tích của một mảnh vườn hình chữ nhật, biết rằng tỉ số giữa hai cạnh của nó bằng \\(\\dfrac{3}{5}\\) và chu vi bằng 48m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Gọi chiều rộng hình chữ nhật là x (m), chiều dài là y (m).\n-Tính nửa chu vi hình chữ nhật\n-Áp dụng tính chất dãy tỉ só bằng nhau.\n-Tính chiều dài, chiều rộng của hình chữ nhật\n-Tính diện tích hình chữ nhật = chiều dài . chiều rộng.\nLời giải chi tiết\nNửa chu vi hình chữ nhật là: 48 : 2 = 24 (m)\nGọi chiều rộng hình chữ nhật là x (m), chiều dài là y (m).\nTheo bài ra, ta có:\n\\(\\dfrac{x}{y} = \\dfrac{3}{5} \\Rightarrow \\dfrac{x}{3} = \\dfrac{y}{5}\\)\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\dfrac{x}{3} = \\dfrac{y}{5} = \\dfrac{{x + y}}{{3 + 5}} = \\dfrac{{24}}{8} = 3\\\\ \\Rightarrow x = 3.3 = 9\\\\y = 3.5 = 15.\\)\nDiện tích mảnh vườn hình chữ nhật là: 15.9 = 135 (m2)."
+    },
+    {
+        "problem": "Có thể lập được những tỉ lệ thức nào từ bốn số sau đây: 3; 18; 72; 12?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Nhóm số đầu và số cuối.\n- Nếu \\(ad = bc\\left( {a,b,c,d \\ne 0} \\right)\\) thì ta có các tỉ lệ thức sau:\n\\(\\dfrac{a}{b} = \\dfrac{c}{d};\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{a}{c} = \\dfrac{b}{d};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{d}{b} = \\dfrac{c}{a};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{d}{c} = \\dfrac{b}{a}\\)\nLời giải chi tiết\nTa có: 3.72 = 18.12 ( = 216). Do đó ta có thể lập được tỉ lệ thức từ bốn số này như sau:\n\\(\\dfrac{3}{{18}} = \\dfrac{{12}}{{72}};\\,\\,\\,\\,\\,\\,\\,\\,\\dfrac{3}{{12}} = \\dfrac{{18}}{{72}};\\,\\,\\,\\,\\,\\dfrac{{72}}{{18}} = \\dfrac{{12}}{3};\\,\\,\\,\\,\\dfrac{{72}}{{12}} = \\dfrac{{18}}{3}\\)."
+    }
+]

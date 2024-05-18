@@ -1,0 +1,140 @@
+[
+    {
+        "problem": "Bài 1: Phân tích đa thức x^{3}  + 12x thành nhân tử ta được\nA. x^{2} (x + 12)\nB. x(x^{2}  + 12)\nC. x(x^{2}  – 12)\nD. x^{2} (x – 12)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có x^{3}  + 12x = x.x^{2}  + x.12 = x(x^{2}  + 12)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 2: Phân tích đa thức mx + my + m thành nhân tử ta được\nA. m(x + y + 1)\nB. m(x + y + m)\nC. m(x + y) \nD. m(x + y – 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có mx + my + m = m(x + y + 1)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Đẳng thức nào sau đây là đúng\nA. y^{5}  – y^{4}  = y^{4} (y – 1)               \nB. y^{5}  – y^{4}  = y^{3} (y^{2}  – 1)\nC. y^{5}  – y^{4}  = y^{5} (1 – y)                \nD. y^{5}  – y^{4}  = y^{4} (y + 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có y^{5}  – y^{4}  = y^{4} .y – y^{4} .1 = y^{4} (y – 1)"
+    },
+    {
+        "problem": "Bai 4: Đẳng thức nào sau đây là đúng\nA. 4x^{3} y^{2}  – 8x^{2} y^{3}  = 4x^{2} y(xy – 2y^{2} )\nB. 4x^{3} y^{2}  – 8x^{2} y^{3}  = 4x^{2} y^{2} (x – y)\nC. 4x^{3} y^{2}  – 8x^{2} y^{3}  = 4x^{2} y^{2} (x – 2y)\nD. 4x^{3} y^{2}  – 8x^{2} y^{3}  = 4x^{2} y^{2} (x – 2y)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 4x^{3} y^{2}  – 8x^{2} y^{3}  = 4x^{2} y^{2} .x – 4x^{2} y^{2} .2y = 4x^{2} y^{2} (x – 2y) \nVậy 4x^{3} y^{2}  – 8x^{2} y^{3}  = 4x^{2} y^{2} (x – 2y)      \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 5: Chọn câu sai.\nA. (x – 1)^{3}  + 2(x – 1)^{2}  = (x – 1)^{2} (x + 1)        \nB. (x – 1)^{3}  + 2(x – 1) = (x – 1)[(x – 1)^{2}  + 2]\nC. (x – 1)^{3}  + 2(x – 1)^{2}  = (x – 1)[(x – 1)^{2}  + 2x – 2]\nD. (x – 1)^{3}  + 2(x – 1)^{2}  = (x – 1)(x + 3)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n+) (x – 1)^{3}  + 2(x – 1)^{2}  = (x – 1)^{2} (x – 1) + 2(x – 1)^{2} \n= (x – 1)^{2} (x – 1 + 2 = (x – 1)^{2} (x + 1) nên A đúng\n+) (x – 1)^{3}  + 2(x – 1)\n= (x – 1).(x – 1)^{2}  + 2(x – 1)\n= (x – 1)[(x – 1)^{2}  + 2] nên B đúng\n+) (x – 1)^{3}  + 2(x – 1)^{2} \n= (x – 1)(x – 1)^{2}  + 2(x – 1)(x – 1)\n= (x – 1)[(x – 1)^{2}  + 2(x – 1)]\n= (x – 1)[(x – 1)^{2}  + 2x – 2] nên C đúng\n+) (x – 1)^{3}  + 2(x – 1)^{2} \n= (x – 1)^{2} (x + 1)\n≠ (x – 1)(x + 3) nên D sai\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 6: Chọn câu sai.\nA. (x – 2)^{2}  – (2 – x)^{3}  = (x – 2)^{2} (x – 1) \nB. (x – 2)^{2}  – (2 – x) = (x – 2)(x – 1)\nC. (x – 2)^{3}  – (2 – x)^{2}  = (x – 2)^{2} (3 – x) \nD. (x – 2)^{2}  + x – 2 = (x – 2)(x – 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+) Đáp án A:\n(x – 2)^{2}  – (2 – x)^{3}  = (x – 2)^{2}  + (x – 2)^{3}  = (x – 2)^{2} (1 + x – 2)\n= (x – 2)^{2} (x – 1) nên A đúng.\n+) Đáp án B:\n(x – 2)^{2}  – (2 – x) = (x – 2)^{2}  + (x – 2) = (x – 2)(x – 2 + 1) = (x – 2)(x – 1)\nNên B đúng\n+) Đáp án C:\n(x – 2)^{3}  – (2 – x)^{2}  = (x – 2)^{3}  + (x – 2)^{2}  = (x – 2)^{2} (x – 2 – 1)\n= (x – 2)^{2} (x – 3) nên C sai.\n+) Đáp án D:\n(x – 2)^{2}  + x – 2 = (x – 2)(x – 2) + (x – 2) = (x – 2)(x – 2 + 1) = (x – 2)(x – 1)\nNên D đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 7: Phân tíc đa thức 3x(x – 3y) + 9y(3y – x) thành nhân tử ta được\nA. 3(x – 3y)^{2}                   \nB. (x – 3y)(3x + 9y)       \nC. (x – 3y) + (3 – 9y)     \nD. (x – 3y) + (3x – 9y)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 3x(x – 3y) + 9y(3y – x) = 3x(x – 3y) – 9y(x – 3y) = (x – 3y)(3x – 9y)\n                                                = (x – 3y).3(x – 3y) = 3(x – 3y)^{2} \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 8: Phân tích đa thức 5x(x – y) – (y – x) thành nhân tử ta được\nA. 5x(x – y) – (y – x) = (x – y)(5x + 1)\nB. 5x(x – y) – (y – x) = 5x(x – y)\nC. 5x(x – y) – (y – x) = (x – y)(5x – 1)\nD. 5x(x – y) – (y – x) = (x + y)(5x – 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 5x(x – y) – (y – x) = 5x(x – y) + (x – y) = (x – y)(5x + 1)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 9: Cho 3a^{2} (x + 1) – 4bx – 4b = (x + 1)(…).\nĐiền biểu thức thích hợp vao dấu …\nA. 3a^{2}  – b   \nB. 3a^{2} + 4b  \nC. 3a^{2}  – 4b \nD. 3a^{2}  + b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n3a^{2} (x + 1) – 4bx – 4b = 3a^{2} (x + 1) – (4bx + 4b)\n= 3a^{2} (x + 1) – 4b(x + 1) = (x + 1)(3a^{2}  – 4b)\nVậy ta điền vào dấu … biểu thức 3a^{2}  – 4b\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 10: Cho ab(x – 5) – a^{2} (5 – x) = a(x – 5)(…).Điền biểu thức thích hợp vào dấu …\nA. 2a + b    \nB. 1 + b      \nC. a^{2}  + ab   \nD. a + b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nab(x – 5) – a^{2} (5 – x) = ab(x – 5) + a^{2} (x – 5)\n= (x – 5)(ab + a^{2} ) = a(x – 5)(a + b)"
+    },
+    {
+        "problem": "Bài 11: Tìm nhân tử chung của biểu thức 5x^{2} (5 – 2x) + 4x – 10 có thể là\nA. 5 – 2x    \nB. 5 + 2x    \nC. 4x – 10  \nD. 4x + 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 5x^{2} (5 – 2x) + 4x – 10 = 5x^{2} (5 – 2x) – 2(-2x + 5)\n                                      = 5x^{2} (5 – 2x) – 2(5 – 2x)\nNhân tử chung là 5 – 2x\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 12: Nhân tử chung của biểu thức 30(4 – 2x)^{2}  + 3x – 6 có thể là\nA. x + 2      \nB. 3(x – 2)  \nC. (x – 2)^{2}    \nD. (x + 2)^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n30(4 – 2x)^{2}  + 3x – 6 = 30(2x – 4)^{2}  + 3(x – 2)\n= 30.2^{2} (x – 2) + 3(x – 2)\n= 120(x – 2)^{2}  + 3(x – 2)\n= 3(x – 2)(40(x – 2) + 1) = 3(x – 2)(40x – 79)\nNhân tử chung có thể là 3(x – 2)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 21: Phân tích đa thức 7x^{2} y^{2}  – 21xy^{2} z + 7xyz + 14xy ta được\nA. 7xy + (xy – 3yz + z + 2)                \nB. 7xy(xy – 21yz + z + 14)\nC. 7xy(xy – 3y^{2} z + z + 2)                   \nD. 7xy(xy – 3yz + z + 2)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 7x^{2} y^{2}  – 21xy^{2} z + 7xyz + 14xy\n= 7xy.xy – 7xy.3yz + 7xy.z + 7xy.2 = 7xy(xy – 3yz + z + 2)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 22: Phân tích đa thức 12x^{3} y – 6xy + 3xy^{2}  ta được\nA. 3xy(4x^{2}  – 2 + y)                           \nB. 3xy(4x^{2}  – 3 + y)        \nC. 3xy(4x^{2}  + 2 + y)                           \nD. 3xy(4x^{2}  – 2 + 3y)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 12x^{3} y – 6xy + 3xy^{2} \n= 3xy.4x^{2}  – 3xy.2 + 3xy.y = 3xy(4x^{2}  – 2 + y)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 23: Cho (a – b)(a + 2b) – (b – a)(2a – b) – (a – b)(a + 3b). Khi đặt nhân tử chung (a – b) ra ngoài thì nhân tử còn lại là\nA. 2a – 2b  \nB. 2a – b     \nC. 2a + 2b  \nD. a – b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\n(a – b)(a + 2b) – (b – a)(2a – b) – (a – b)(a + 3b)\n= (a – b)(a + 2b) + (a – b)(2a – b) – (a – b)(a + 3b)\n= (a – b)(a + 2b + 2a – b – (a + 3b))\n= (a – b)(3a + b – a – 3b) = (a – b)(2a – 2b)\nVậy khi đặt nhân tử chung (a – b) ra ngoài ta được biểu thức còn lại là 2a – 2b.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 24: Cho 4x^{n+2}  – 8x^{n}  (n Є N^{*} ). Khi đặt nhân tử chung x^{n } ra ngoài thì nhân tử còn lại là\nA. 4x^{2}  – 2   \nB. 4x^{2}  – 8   \nC. x^{2}  – 4     \nD. x^{2}  – 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 4x^{n+2}  – 8x^{n}  = 4x^{n} .x^{2}  – 8x^{n}  = x^{n} (4x^{2}  – 8)\nVậy khi đặt nhân tử chung x^{n } ra ngoài ta được biểu thức còn lại là 4x^{2}  – 8\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 25: Cho A = 2019^{n+1}  – 2019^{n} . Khi đó A chia hết cho số nào dưới đây với mọi n Є N.\nA. 2019      \nB. 2018      \nC. 2017      \nD. 2016",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có A = 2019^{n+1}  – 2019^{n} \n= 2019^{n} .2019 – 2019^{n}  = 2019^{n} (2019 – 1) = 2019^{n} .2018\nVì 2018 ⁝ 2018 ⇒ A ⁝ 2018 với mọi n Є N.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 26: Cho 299^{2}  + 299.201. Khi đó tổng trên chia hết cho số nào dưới đây?\nA. 500        \nB. 201        \nC. 599        \nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có 299^{2}  + 299.201 = 299.(299 + 201) = 299.500 ⁝ 500\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 27: Cho B = 8^{5}  – 2^{11} . Khi đó B chia hết cho số nào dưới đây?\nA. 151        \nB. 2^{12}          \nC. 15          \nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có B = 8^{5}  – 2^{11} \n= (2^{3} )^{5}  – 2^{11} \n= 2^{15}  – 2^{11} \n= 2^{11} .2^{4}  – 2^{11} \n             = 2^{11} (2^{4}  – 1) = 15.2^{11} \nVì 15 ⁝ 15 ⇒ B = 15.2^{11}  ⁝ 15\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 28: Cho M = 101^{n+1}  – 101^{n} . Khi đó M có hai chữ số tận cùng là\nA. 00          \nB. 11          \nC. 01          \nD. 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có M = 101^{n+1}  – 101^{n}  = 101^{n} .101 – 101^{n} \n          = 101^{n} (101 – 1) = 101^{n} .100\nSuy ra M có hai chữ số tận cùng là 00.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 29: Biết a – 2b = 0. Tính giá trị của biểu thức B = a(a – b)^{3}  + 2b(b – a)^{3} \nA. 0            \nB. 1            \nC. (a – b)^{3}             \nD. 2a + b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có B = a(a – b)^{3}  + 2b(b – a)^{3} \n          = a(a – b)^{3}  – 2b(a – b)^{3}  = (a – 2b)(a – b)^{3} \nMà a – 2b = 0 nên B = 0.(a – b)^{3}  = 0\nVậy B = 0\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 30: Biết x^{2}  + y^{2}  = 1. Tính giá trị của biểu thức M = 3x^{2} (x^{2}  + y^{2} ) + 3y^{2} (x^{2}  + y^{2} ) – 5(y^{2 } + x^{2} )\nA. -8          \nB. 2            \nC. 8            \nD. -2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có\nM = 3x^{2} (x^{2}  + y^{2} ) + 3y^{2} (x^{2}  + y^{2} ) – 5(y^{2 } + x^{2} )\n= (x^{2}  + y^{2} )(3x^{2}  + 3y^{2}  – 5)\n= (x^{2}  + y^{2} )[3(x^{2}  + y^{2} ) – 5]\nMà x^{2}  + y^{2}  = 1 nên M = 1.(3.1 – 5) = -2. Vậy M = -2\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 32: Cho biết x^{3}  = 2p + 1 trong đó x là số tự nhiên, p là số nguyên tố. Tìm x.\nA. x = 9      \nB. x = 7      \nC. x = 5      \nD. x = 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì p là số nguyên tố nên 2p + 1 là số lẻ. Mà x^{3}  = 2p + 1 nên x^{3}  cũng là một số lẻ, suy ra x là số lẻ\nGọi x = 2k + 1 (k Є N). ta có\nx^{3}  = 2p + 1\n⇔ (2k + 1)^{3}  = 2p + 1\n⇔ 8k^{3}  + 12k^{2}  + 6k + 1 = 2p + 1\n⇔ 2p = 8k^{3}  + 12k^{2}  + 6k\n⇔ p = 4k^{3}  + 6k^{2}  + 3k = k(4k^{2}  + 6k + 3)\nMà p là số nguyên tố nên k = 1 ⇒ x = 3\nVậy số cần tìm là x = 3\nĐáp án cần chọn là: D"
+    }
+]

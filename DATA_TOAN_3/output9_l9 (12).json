@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Trong tam giác vuông có hai cạnh góc vuông là \\(a,\\, b;\\) góc đối diện với cạnh \\(a\\) là \\(α ;\\) góc đối diện với cạnh \\(b\\) là \\(β\\) và cạnh huyền là \\(c.\\) Hãy tìm khẳng định đúng:\n(A) \\(a = c.sinα ;\\)\n(B) \\(a = c.cosα ;\\)\n(C) \\(a = c.tanα ;\\)\n(D) \\(a = c.cotα.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các hệ thức về cạnh và góc trong tam giác vuông, tam giác \\(ABC\\) vuông tại \\(A\\) có \\(AB=c,\\,AC=b,\\, BC=a\\) thì:\n\\(b=a.sin\\,B=a.cos\\,C\\)\n\\(b=c.tan\\,B=c.cot\\,C\\)\n\\(c=a.sin\\,C=a.cos\\,B\\)\n\\(c=b.tan\\,C=b.cot\\,B\\)\nLời giải chi tiết\n(A) \\(a = c.sinα\\)\nLoigiaihay.com"
+    }
+]

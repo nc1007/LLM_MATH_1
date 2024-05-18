@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Cho hàm số \\(y = f\\left( x \\right) = \\left( {m + 1} \\right)x + 5\\).\na) Tìm điều kiện của m để hàm số đã cho là hàm số bậc nhất.\nb) Với giá trị nào của m thì đồ thị của hàm số đã cho đi qua điểm A (5; 0).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng kiến thức hàm số bậc nhất để tìm m: Hàm số bậc nhất là hàm số được cho bởi công thức \\(y = ax + b\\) với a, b là các số cho trước và \\(a \\ne 0\\).\nb) Thay tọa độ của của điểm thuộc đồ thị hàm số vào hàm số để tìm m\nLời giải chi tiết\na) Để \\(y = f\\left( x \\right) = \\left( {m + 1} \\right)x + 5\\) là hàm số bậc nhất thì \\(m + 1 \\ne 0\\), suy ra \\(m \\ne  - 1\\)\nb) Vì đồ thị của hàm số đã cho đi qua điểm A (5; 0) nên:\n\\(0 = \\left( {m + 1} \\right).5 + 5\\), suy ra \\(m =  - 2\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\left( {m - 3} \\right)x\\).\na) Với giá trị nào của m thì đồ thị của hàm số đã cho đi qua điểm A (1; 2)?\nb) Với giá trị nào của m thì đồ thị của hàm số đã cho đi qua điểm B (1; -2)?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay tọa độ của các điểm thuộc đồ thị vào hàm số để tìm m.\nLời giải chi tiết\na) Để đồ thị của hàm số đã cho đi qua điểm A (1; 2) thì: \\(2 = \\left( {m - 3} \\right).1\\), suy ra \\(m = 5\\)\nb) Để đồ thị của hàm số đã cho đi qua điểm B (1; -2) thì: \\( - 2 = \\left( {m - 3} \\right).1\\), suy ra \\(m = 1\\)"
+    },
+    {
+        "problem": "Cho hai đường thẳng \\(d:y = x - 2\\) và \\(d':y =  - 2x + 1\\).\na) Tìm hệ số góc của hai đường thẳng d và d’.\nb) Tìm tọa độ giao điểm của hai đường thẳng d và d’ với trục Ox và Oy.\nc) Với giá trị nào của m thì đồ thị hàm số \\(y = \\left( {m - 2} \\right)x - m\\) song song với d và cắt d’.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về hệ số góc của đường thẳng: Hệ số a là hệ số góc của đường thẳng \\(y = ax + b\\left( {a \\ne 0} \\right)\\) + Cho hai đường thẳng \\(d:y = ax + b\\) và \\(d':y' = a'x + b'\\):\n+ Nếu \\(a = a',b \\ne b'\\) thì d và d’ song song với nhau và ngược lại.\n+ Nếu \\(a \\ne a'\\) thì d cắt d’.\nLời giải chi tiết\na) Đường thẳng \\(d:y = x - 2\\) có hệ số góc là 1; đường thẳng \\(d':y =  - 2x + 1\\) có hệ số góc là \\( - 2\\).\nb) Thay \\(x = 0\\) vào hàm số \\(y = x - 2\\) ta có: \\(y = 0 - 2 =  - 2\\). Khi đó, tọa độ giao điểm của đường thẳng d và trục Oy là (0; -2).\nThay \\(y = 0\\) vào hàm số \\(y = x - 2\\) ta có: \\(0 = x - 2\\), suy ra \\(x = 2\\). Khi đó, tọa độ giao điểm của đường thẳng d và trục Ox là (2; 0).\nThay \\(x = 0\\) vào hàm số \\(y =  - 2x + 1\\) ta có: \\(y =  - 2.0 + 1 = 1\\). Khi đó, tọa độ giao điểm của đường thẳng d’ và trục Oy là (0; 1).\nThay \\(y = 0\\) vào hàm số \\(y =  - 2x + 1\\) ta có: \\(0 =  - 2x + 1\\), suy ra \\(x = \\frac{1}{2}\\). Khi đó, tọa độ giao điểm của đường thẳng d’ và trục Ox là \\(\\left( {\\frac{1}{2};0} \\right)\\).\nc) Đồ thì hàm số \\(y = \\left( {m - 2} \\right)x - m\\) song song với d và cắt d’ thì \\(\\left\\{ \\begin{array}{l}m - 2 = 1\\\\ - m \\ne  - 2\\\\m - 2 \\ne  - 2\\end{array} \\right.\\), tức là \\(\\left\\{ \\begin{array}{l}m = 3\\\\m \\ne 2\\\\m \\ne 0\\end{array} \\right.\\), suy ra \\(m = 3\\)"
+    },
+    {
+        "problem": "Cho đường thẳng \\(d:y = \\left( {m - 2} \\right)x + 1\\). Với giá trị nào của m để:\na) Đường thẳng d song song với đường thẳng \\({d_1}:y = 2x + 3\\).\nb) Đường thẳng d cắt đường thẳng \\({d_2}:y =  - 5x + 1\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hai đường thẳng song song để tìm m: Cho hai đường thẳng \\(d:y = ax + b\\) và \\(d':y' = a'x + b'\\):\n+ Nếu \\(a = a',b \\ne b'\\) thì d và d’ song song với nhau và ngược lại.\n+ Nếu \\(a \\ne a'\\) thì d cắt d’.\nLời giải chi tiết\na) Đường thẳng d song song với đường thẳng \\({d_1}:y = 2x + 3\\) thì \\(\\left\\{ \\begin{array}{l}m - 2 = 2\\\\3 \\ne 1\\end{array} \\right.\\), suy ra \\(m = 4\\)\nb) Đường thẳng d cắt đường thẳng \\({d_2}:y =  - 5x + 1\\) thì \\(m - 2 \\ne  - 5\\), suy ra \\(m \\ne  - 3\\)"
+    },
+    {
+        "problem": "Xác định hàm số \\(y = ax + b\\) biết đồ thị hàm số đã cho song song với đường thẳng \\(y =  - 2x + 3\\) và đi qua \\(A\\left( {1; - 3} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hai đường thẳng song song để xác định hàm số: Cho hai đường thẳng \\(d:y = ax + b\\) và \\(d':y' = a'x + b'\\):\nNếu \\(a = a',b \\ne b'\\) thì d và d’ song song với nhau và ngược lại.\nLời giải chi tiết\nVì biết đồ thị hàm số đã cho song song với đường thẳng \\(y =  - 2x + 3\\) nên hàm số có dạng: \\(y =  - 2x + b\\left( {b \\ne 3} \\right)\\)\nVì đồ thị hàm số \\(y =  - 2x + b\\) đi qua \\(A\\left( {1; - 3} \\right)\\) nên: \\( - 3 = \\left( { - 2} \\right).1 + b\\), suy ra \\(b =  - 1\\) (thỏa mãn)\nVậy hàm số cần tìm là \\(y =  - 2x - 1\\)"
+    },
+    {
+        "problem": "Tìm điểm cố định mà mỗi đường thẳng \\(d':y = \\left( {m - 2} \\right)x + 3\\) luôn đi qua với mọi giá trị của m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi điểm \\(\\left( {{x_0};{y_0}} \\right)\\) là điểm cố định mà đồ thị hàm số \\(y = f\\left( x \\right)\\) luôn đi qua.\nDo đó, \\({y_0} = f\\left( {{x_0};m} \\right)\\) có nghiệm đúng với mọi m.\nLời giải chi tiết\nGiả sử điểm cố định của đường thẳng \\(d':y = \\left( {m - 2} \\right)x + 3\\) là điểm \\(M\\left( {{x_0};{y_0}} \\right)\\).\nThay \\(x = {x_0}\\) và \\(y = {y_0}\\) vào \\(y = \\left( {m - 2} \\right)x + 3\\) ta được:\n\\({y_0} = \\left( {m - 2} \\right){x_0} + 3\\)\n\\(m{x_0} - 2{x_0} + 3 - {y_0} = 0\\) (1)\nĐể (1) luôn đúng với mọi giá trị của m thì \\({x_0} = 0\\) và \\( - 2{x_0} + 3 - {y_0} = 0\\)\nSuy ra: \\({x_0} = 0\\) và \\({y_0} = 3\\)\nVậy điểm \\(M\\left( {0;3} \\right)\\) là điểm cố định mà đường thẳng \\(d':y = \\left( {m - 2} \\right)x + 3\\) luôn đi qua."
+    },
+    {
+        "problem": "Cho các đường thẳng \\({d_1}:y = x + 1;{d_2}:y =  - x - 3;{d_3}:y = mx + 2m - 1\\).\na) Vẽ hai đường thẳng \\({d_1}\\) và \\({d_2}\\) trên cùng một mặt phẳng tọa độ Oxy.\nb) Với giá trị nào của m thì đường thẳng \\({d_3}\\) trùng với đường thẳng \\({d_2}\\)?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng kiến thức về cách vẽ đồ thị hàm số bậc nhất \\(y = ax + b\\left( {a \\ne 0} \\right)\\)\nBước 1: Cho \\(x = 0\\) thì \\(y = b\\), ta được điểm M (0; b) trên Oy.\nCho \\(y = 0\\) thì \\(x = \\frac{{ - b}}{a}\\), ta được điểm \\(N\\left( {\\frac{{ - b}}{a};0} \\right)\\) trên Ox.\nBước 2: Vẽ đường thẳng đi qua hai điểm M, N, ta được đồ thị của hàm số \\(y = ax + b\\).\nb) Cho hai đường thẳng \\(d:y = ax + b\\) và \\(d':y' = a'x + b'\\): Nếu \\(a = a',b = b'\\) thì d và d’ trùng với nhau và ngược lại.\nLời giải chi tiết\n\na) Đường thẳng \\({d_1}\\) đi qua điểm (0; 1) và (-1; 0).\nĐường thẳng \\({d_2}\\) đi qua hai điểm (0; -3) và (-3; 0).\nb) Để đường thẳng \\({d_3}\\) trùng với đường thẳng \\({d_2}\\) thì \\(\\left\\{ \\begin{array}{l}m =  - 1\\\\2m - 1 =  - 3\\end{array} \\right.\\), tức là \\(\\left\\{ \\begin{array}{l}m =  - 1\\\\m =  - 1\\end{array} \\right.\\), suy ra \\(m =  - 1\\)."
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Câu 1. Tính độ dài của một chiếc hộp hình lập phương, biết rằng diện tích sơn 4 mặt bên của hộp đó là 144 cm^{2} .\nA. 4 cm; \nB. 8 cm; \nC. 6 cm; \nD. 5 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nGọi a (cm) là độ dài cạnh của chiếc hộp hình lập phương (a > 0).\nDiện tích xung quanh của hộp hình lập phương là: 144 = 4 . a^{2} .\nSuy ra a^{2}  = 36.\nDo đó a = ± 6 mà a > 0 nên a = 6.\nVậy độ dài cạnh của hộp hình phương là 6 cm."
+    },
+    {
+        "problem": "Câu 2. Một bể nước dạng hình hộp chữ nhật có kích thước các số đo trong lòng bể là: chiều dài 4 m, chiều rộng 3 m, chiều cao 2,5 m. Biết \\frac{3}{4} bể đang chứa nước. Hỏi thể tích phần bể không chứa nước là bao nhiêu?\nA. 30 m^{3} ; \nB. 22,5 m^{3} ; \nC. 7,5 m^{3} ; \nD. 5,7 m^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nVì bể nước có dạng hình hộp chữ nhật nên ta tính được thể tích bể nước là:\nV = 4 . 3 . 2,5 = 30 (m^{3} )\nVì \\frac{3}{4} bể đang chứa nước nên thể tích phần bể chứa nước là: \nVchứa nước = \\frac{3}{4} V = \\frac{3}{4} . 30 = 22,5 (m^{3} )\nThể tích phần bể không chứa nước là: \nVkhông chứa nước = V - Vchứa nước = 30 – 22,5 = 7,5 (m^{3} )\nVậy thể tích phần bể không chứa nước là 7,5 m^{3} ."
+    },
+    {
+        "problem": "Câu 3. Hình lập phương A có cạnh bằng \\frac{2}{3} cạnh hình lập phương B. Hỏi thể tích hình lập phương A bằng bao nhiêu phần thể tích hình lập phương B?\nA. \\frac{2}{9} ;\nB. \\frac{27}{8};\nC. \\frac{8}{27};\nD. \\frac{4}{9}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nGọi a là chiều dài một cạnh của hình lập phương A.\nVì hình lập phương A có cạnh bằng \\frac{2}{3} cạnh của hình lập phương B nên chiều dài một cạnh của hình lập phương B là \\frac{2}{3}a.\nThể tích hình lập phương A là: VA = a^{3} .\nThể tích hình lập phương B là:\nVB = \\frac{2}{3}a2 = \\frac{2}{3}3.a3 = \\frac{23}{33}.a3=\\frac{27}{8}a3\nVậy thể tích hình lập phương A bằng \\frac{27}{8} thể tích hình lập phương B."
+    },
+    {
+        "problem": "Câu 4. Một chiếc hộp hình lập phương được sơn 4 mặt bên cả mặt trong và mặt ngoài. Diện tích phải sơn tổng cộng là 1 152 cm^{2} . Tính thể tích của hình lập phương đó.\nA. 1 782 cm^{3} ; \nB. 1 728 cm^{3} ;\nC. 144 cm^{3} ; \nD. 1 827 cm^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nChiếc hộp hình lập phương có 4 mặt bên đều là hình vuông, mỗi hình vuông được sơn 2 mặt nên diện tích mỗi hình vuông là: 1152 : 8 = 144 (cm^{2} ).\nGọi a (cm) là độ dài cạnh của hình vuông.\nDiện tích của hình vuông là 144 = a^{2} .\nSuy ra a = ± 12 mà a > 0 nên a = 12 (cm).\nVậy cạnh của chiếc hộp hình lập phương là 12 cm.\nThể tích của chiếc hộp hình lập phương là:\n12^{3}  = 1 728 (cm^{3} ).\nVậy thể tích chiếc hộp hình lập phương là 1 728 cm^{3} ."
+    },
+    {
+        "problem": "Câu 5. Một bể cá dạng hình hộp chữ nhật bằng kính có chiều dài 80 cm, chiều rộng 50 cm. Mực nước trong bể cao 35 cm. Người ta cho vào bể một hòn đá thì thể tích tăng \n20 000 cm^{3} . Hỏi chiều cao mực nước trong bể khi cho hòn đá vào là bao nhiêu?\nA. 40 cm; \nB. 30 cm; \nC. 60 cm; \nD. 50 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThể tích phần bể chứa nước ban đầu là:\n V = 8 . 50 . 35 = 140 000 (cm^{3} ).\nSau khi cho vào một hòn đá thể tích tăng 20 000 cm^{3} . \nDo đó thể tích phần bể chứa nước lúc sau là:\nV1 = V + 20 000 = 140 000 + 20 000 = 160 000 (cm^{3} ).\nVì chiều dài và chiều rộng bể nước không thay đổi nên sự thay đổi là do chiều cao mực nước thay đổi. Gọi chiều cao mực nước lúc sau là h (cm). Ta có:\nV = 80. 50 . h = 160 000 \n4 000 . h = 160 000 \nh = 160 000 : 4 000\nh = 40 (cm).\nDo đó chiều cao mực nước trong bể khi cho hòn đá vào là 40 cm."
+    },
+    {
+        "problem": "Câu 6. Một người thuê sơn mặt trong và mặt ngoài 4 mặt bên của 1 cái thùng sắt dạng hình lập phương có cạnh 0,8 m. Biết giá tiền mỗi mét vuông là 15 000 đồng. Hỏi người ấy phải trả bao nhiêu tiền?\nA. 76 800 đồng;\nB. 9 600 đồng;\nC. 86 700 đồng;\nD. 78 600 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThùng sắt có dạng hình lập phương nên 4 mặt bên của thùng sắt đều là các hình vuông bằng nhau.\nDiện tích một mặt thùng sắt là:\nS = 0,8^{2}  = 0,64 (m^{2} )\nTa có diện tích mặt trong thùng sắt bằng diện tích mặt ngoài thùng sắt. Vậy diện tích mặt trong và mặt ngoài thùng sắt là: \nSmặt trong = Smặt ngoài = 4S = 4 . 0,64 = 2,56 (m^{2} )\nSố tiền người thuê sơn thùng sắt cần trả là: \n2,56 . 2 . 15 000 = 76 800 (đồng).\nVậy chọn đáp án A."
+    },
+    {
+        "problem": "Câu 15. Cho hai hình lập phương. Hình 1 có cạnh là 9 cm, hình 2 có cạnh là 3 cm. Kết luận nào dưới đây là đúng?\nA. Thể tích hình lập phương 1 gấp 3 lần thể tích hình lập phương 2;\nB. Thể tích hình lập phương 1 gấp 9 lần thể tích hình lập phương 2;\nC. Thể tích hình lập phương 1 gấp 12 lần thể tích hình lập phương 2;\nD. Thể tích hình lập phương 1 gấp 27 lần thể tích hình lập phương 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nThể tích hình lập phương 1 là:\n9^{3}  = 729 (cm^{3} )\nThể tích hình lập phương 2 là:\n3^{3}  = 27 (cm^{3} )\nThể tích hình lập phương 1 gấp số lần thể tích hình lập phương 2 là:\n729 : 27 = 27 (lần)\nVậy thể tích hình lập phương 1 gấp 27 lần thể tích hình lập phương 2."
+    },
+    {
+        "problem": "Câu 17. Một thùng giấy có dạng hình lập phương đựng được 250 bánh xà phòng có dạng hình lập phương có cạnh 4 cm. Thể tích thùng giấy đó là:\nA. 15 000 cm^{3} ;\nB. 1 600 cm^{3} ;\nC. 6 400 cm^{3} ;\nD. 16 000 cm^{3} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nThể tích một bánh xà phòng là: \nVxà phòng  = 4^{3}  = 64 (cm^{3} )\nThể tích thùng giấy đó là:\nVthùng = 64 . 250 = 16 000 (cm^{3} )\nVậy thể tích thùng giấy đó là 16 000 cm^{3} ."
+    },
+    {
+        "problem": "Câu 21. Công thức tính diện tích xung quanh của hình hộp chữ nhật có độ dài hai đáy là a và b, chiều cao là h là:\nA. 2 . a . b . c;\nB. 2 . (a + b);\nC. (a + b) . h;\nD. 2 . (a + b) . h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nCông thức tính diện tích xung quanh của hình hộp chữ nhật có độ dài hai đáy là a và b, chiều cao là h là 2. (a + b). h."
+    },
+    {
+        "problem": "Câu 22. Công thức tính diện tích xung quanh hình lập phương có cạnh là a là:\nA. a^{3} ;\nB. a^{2} ;\nC. 2. a^{2} ;\nD. 4. a^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nCông thức tính diện tích xung quanh hình lập phương có cạnh là a là: 4 . a^{2} ."
+    },
+    {
+        "problem": "Câu 23. Một căn phòng dạng hình hộp chữ nhật có chiều dài 8m, chiều rộng 4,5m, chiều cao 4m. Hỏi cần bao nhiêu tiền để quét sơn 4 bức tường bên trong xung quanh ngôi nhà? (Biết diện tích cửa 8,9m^{2}  và quét 1m^{2}  tốn 30 000 đồng)\nA. 6 000 000 đồng;\nB. 4 320 000 đồng;\nC. 5 733 000 đồng; \nD. 2 866 500 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDiện tích xung quanh của căn phòng là:\n2 . (8 + 4,5) . 8 = 200 (m^{2} )\nDiện tích căn phòng cần quét sơn là:\n200 – 8,9 = 191,1 (m^{2} )\nSố tiền cần trả để quét sơn là:\n30 000 . 191,1 = 5 733 000 (đồng)\nDo đó để quét sơn 4 bức tường bên trong xung quanh ngôi nhà thì cần 5 733 000 đồng."
+    },
+    {
+        "problem": "Câu 28. Công thức tính diện tích xung quanh của hình lăng trụ đứng là:\nA. 2 . Cđáy. h;\nB. Cđáy. h;\nC. Sđáy. h;\nD. 2 . Sđáy.h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nCông thức tính diện tích xung của hình lăng trụ đứng là: Cđáy. h."
+    },
+    {
+        "problem": "Câu 29. Công thức tính thể tích của hình lăng trụ đứng là:\nA. 2 . Cđáy. h;\nB. Cđáy. h;\nC. Sđáy. h;\nD. 2 . Sđáy. h.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCông thức tính thể tích của hình lăng trụ đứng là: Sđáy.h."
+    }
+]

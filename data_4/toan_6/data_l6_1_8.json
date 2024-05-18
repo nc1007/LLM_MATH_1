@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "A. 5 \nB. 8 \nC. 12\nD. 24",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nƯ(12) ={1;2;3;4;6;12}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Tìm tất cả các các bội của 3trong các số sau: 4;18;75;124;185;258\nA. {5;75;124}\nB. {18;124;258}\nC. {75;124;258}\nD. {18;75;258}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì  8⁝3; 75⁝3; 258⁝3 nên đáp án đúng là D.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Khẳng định nào sau đây sai?\nVới a là số tự nhiên khác 0 thì: \nA. a là ước của a\nB. a là bội của a\nC. 0 là ước của a\nD. 1 là ước của a",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án C sai vì không có số nào chia được cho 0.\n0 không bao giờ là ước của một số tự nhiên bất kì.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. 5 là phần tử của \nA. Ư(14)\nB. Ư(15)\nC. Ư(16)\nD. Ư(17)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: Ư(15) là tập hợp các ước của 15.\nMà 5 là một ước của 15 nên 5 là phần tử của Ư(15)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Số 26 không là phần tử của \nA. B(2)\nB. B(13)\nC. B(26)\nD. B(3)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 26 chia hết cho 2, 13, 26 nên 26 là bội của 3 số này. Hay 26 là phần tử của B(2), B(13), B(26).\n26 không chia hết cho 3 nên 26 không là bội của 3.\nVậy 26 không là phần tử của B(3)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Tìm x thuộc bội của 9và x < 63.\nA. x ϵ {0; 9; 18; 28; 35}\nB. x ϵ {0; 9; 18; 27; 36; 45; 54}\nC. x ϵ {9; 18; 27; 36; 45; 55; 63} \nD. x ϵ {9; 18; 27; 36; 45; 54; 63}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx∈B9x<63⇒x∈0;9;18;27;36;...x<63\n→ x ∈ {0; 9; 18; 27; 36; 45; 54}"
+    },
+    {
+        "problem": "Câu 7. Tìm x thuộc ước của 60 và x > 20.\nA. x ϵ {5; 15} \nB. x ϵ {30; 60}\nC. x ϵ {15; 20} \nD. x ϵ {20; 30; 60}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx∈U60x>20x∈1;2;3;4;5;6;10;12;15;20;30;60x>20⇒x∈30;60\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán về ước và bội\nCâu 1. Tìm tập hợp các bội của 6trong các số: 6; 15; 24; 30; 406; 15;24; 30; 40.\nA. {15; 24}\nB. {24; 30} \nC. {15; 24; 30}\nD. {6; 24; 30}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong các số trên thì B(6) = {6; 24; 30}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Tìm các số tự nhiên x sao cho x∈ Ư(32) và x > 5.\nA. 8; 16; 32\nB. 8; 16 \nC. 4; 16; 32\nD. 16; 32",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx∈U32x>5⇒x∈1;2;4;8;16;32x>5\n⇒ x ∈{8; 16; 32}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Có bao nhiêu số tự nhiên x∈B(8) và 8 < x ≤ 88\nA. 10\nB. 9 \nC. 12\nD. 11",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nx∈B88<x≤88⇒x∈0;8;16;24;32;...8<x≤88\n⇒x∈{16; 24; 32; 40; 48; 56; 64; 72; 80; 88}\nVậy có 10 số thỏa mãn yêu cầu bài toán.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Có bao nhiêu số có hai chữ số là bội của 9?\nA. 9 số\nB. 11 số \nC. 10 số\nD. 12 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố có hai chữ số là số lớn hơn hoặc bằng 10 và nhỏ hơn hoặc bằng 99.\nGọi A = {x∈B(9)|10 ≤ x ≤ 99}\n Suy ra A = {18; 27; 36;...; 99}\nSố phần tử của A là \n (99 − 18):9 + 1 = 10 (phần tử)\nVậy có 10 bội của 9 là số có hai chữ số. \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Khẳng định nào sau đây đúng?\nA. Ư(16) = {1,2,4,8,16}\nB. Ư(16) = {1;2;4;8}\nC. Ư(16) = {1;2;4;8;16}\nD. Ư(16) = {2;4;8}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 16:1 = 16; 16:2 = 8; 16:4 = 4; 16:8 = 2; 16:16 = 1\nCác ước của 16 là 1; 2; 4; 8; 16.\n=> Ư(16) = {1; 2; 4; 8; 16}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Khẳng định nào sau đây đúng?\nA. B(2) = {0,2,4,6,8,...}\nB. B(2) = {0;2;4;6;8;...}\nC. B (2) = {2;4;6;8;...}\nD. B(2) = {1;2;4;6;8;...}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa lấy 2 nhân với từng số 0 thì được 0 nên 0 là bội của 2, lấy 2.1 = 2 nên 2 là bội của 2, 2.2 = 4 nên 4 là bội của 2,...\nVậy B(2) = {0;2;4;6;8;...}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Có bao nhiêu số vừa là bội của 5 vừa là ước của 50?\nA. 4 số\nB. 5 số\nC. 6 số\nD. 7 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi x là số vừa là bội của 5 vừa là ước của 50.\nx∈B5x∈U50⇒x∈0;5;10;15;20;25;...x∈1;2;5;10;25;50\n⇒x∈{5; 10; 25; 50}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Tìm các số tự nhiên x sao cho 8⋮(x − 1)?\nA. x∈{1; 2; 4; 8}\nB. x∈{3; 5; 9}\nC. x∈{2; 3; 5; 9}\nD. x∈{2; 3; 4; 8}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n8⋮(x − 1) ⇒ (x − 1)∈Ư(8)\n⇒ (x − 1)∈{1; 2; 4; 8}\n+ Với x − 1= 1 thì x = 1 + 1 hay x = 2\n+ Với x – 1 = 2 thì x = 1 + 2 hay x = 3\n+ Với x – 1 = 4 thì x = 1 + 4 hay x = 5\n+ Với x − 1= 8 thì x = 1 + 8 hay x = 9\n⇒x∈{2; 3; 5; 9}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Đội Sao đỏ của trường có 24 bạn. Cô phụ trách muốn chia đội thành các nhóm đều nhau để kiểm tra vệ sinh lớp học, mỗi nhóm có ít nhất 2 bạn và có ít nhất 2 nhóm. Có bao nhiêu cách chia thành các nhóm như thế?\nA. 5\nB. 6\nC. 4\nD. 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐể chia đều 24 bạn thành các nhóm bằng nhau thì số học sinh trong nhóm phải là ước của 24. Các ước của 24 là: 1; 2; 3; 4; 6; 8; 12; 24.\nVì mỗi nhóm có ít nhất 2 bạn đồng thời số nhóm không thể là 1 nên số học sinh trong một nhóm cũng không thể là 24 bạn.\nVậy số học sinh trong một nhóm chỉ có thể là: 2; 3; 4; 6; 8; 12.\nVậy cô có thể chia đội thành:\n+ 12 nhóm, mỗi nhóm có 2 bạn;\n+ 8 nhóm, mỗi nhóm có 3 bạn;\n+ 6 nhóm, mỗi nhóm có 4 bạn;\n+ 4 nhóm, mỗi nhóm có 6 bạn;\n+ 3 nhóm, mỗi nhóm có 8 bạn.\n+ 2 nhóm, mỗi nhóm có 12 bạn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Tìm abcd¯ trong đó a, b, c, d là 4 số tự nhiên liên tiếp tăng dần và abcd¯∈B5\nA. 2345\nB. 3210 \nC. 8765\nD. 7890",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nabcd¯∈B5\nTa có:abcd¯∈B5⇒abcd¯⋮5⇒d∈0;5\nd=5⇒abcd¯=2345\nd = 0 ⇒ Loại, vì a, b, c, d là 4 số tự nhiên liên tiếp tăng dần.\nVậy abcd¯=2345\nĐáp án cần chọn là: A"
+    }
+]

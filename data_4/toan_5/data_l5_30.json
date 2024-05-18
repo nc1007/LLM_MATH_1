@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 6: Tìm x biết: 5 × x = 82,7\nA.\tx = 14,56\nB.\tx = 15,56\nC.\tx = 15,64\nD.\tx = 16,54",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "5 × x = 82,7\nx = 82,7 : 5\nx = 16,54\nVậy x = 16,54."
+    },
+    {
+        "problem": "Câu 9: Chọn đáp án đúng hoặc sai:\n4,6 + 201,25 : 23 > 13,25. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "4,6 + 201,25 : 23\n= 4,6 + 8,75\n= 13,35\nMà 13,5 = 13,5 nên 4,6 + 201,25 : 23 = 13,35\nVậy khẳng định 4,6 + 201,25 : 23 > 13,35 là sai."
+    },
+    {
+        "problem": "Câu 10: Tìm số trung bình cộng của các số 12,3; 28,45 và 52,31\nA.\t30,02\nB.\t31,02\nC.\t30,12\nD.\t31,12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy có tất cả 3 số.\nVậy số trung bình cộng của các số 12,3; 28,45 và 52,31 là:\n(12,3 + 28,45 + 52,31) : 3 = 31,02\nĐáp số: 31,02."
+    },
+    {
+        "problem": "Câu 11: 15 căn phòng như nhau có diện tích là 1447,5m^{2} . Hỏi 8 căn phòng như thế có diện tích là bao nhiêu mét vuông?\nA.\t772m^{2}  \nB.\t774m^{2}  \nC.\t776m^{2}  \nD.\t778m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích 1 căn phòng là:\n1447,5 : 15 = 96,5 (m^{2} )\nDiện tích 8 căn phòng là:\n96,5 × 8 = 772 (m^{2} )\nĐáp số: 772m^{2}"
+    }
+]

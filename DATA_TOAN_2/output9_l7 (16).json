@@ -1,0 +1,110 @@
+[
+    {
+        "problem": "Tìm số tự nhiên n sao cho đa thức \\(1,2{x^5} - 3{x^4} + 3,7{x^2}\\) chia hết cho \\({x^n}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đa thức đã cho chia hết cho \\({x^n}\\) nếu từng hạng tử của nó chia hết cho \\({x^n}\\) nếu từng hạng tử của nó chia hết cho \\({x^n}\\).\nLời giải chi tiết\nĐa thức đã cho chia hết cho \\({x^n}\\) nếu từng hạng tử của nó chia hết cho \\({x^n}\\) nếu từng hạng tử của nó chia hết cho \\({x^n}\\).\n\\( \\Rightarrow \\left\\{ \\begin{array}{l}{x^5} \\vdots {x^n}\\\\{x^4} \\vdots {x^n}\\\\{x^2} \\vdots {x^n}\\end{array} \\right. \\Rightarrow \\left\\{ \\begin{array}{l}n \\le 5\\\\n \\le 4\\\\n \\le 2\\end{array} \\right. \\Rightarrow n \\le 2 \\Rightarrow n \\in \\left\\{ {0;1;2} \\right\\}\\)"
+    },
+    {
+        "problem": "Tính:\n\\(a)\\left( {{x^3} + 3{x^2} - 5x - 1} \\right)\\left( {4x - 3} \\right)\\)\n\\(b)\\left( { - 2{x^2} + 4x + 6} \\right)\\left( { - \\dfrac{1}{2}x + 1} \\right)\\)\n\\(c)\\left( {{x^4} + 2{x^3} - 1} \\right)\\left( {{x^2} - 3x + 2} \\right).\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn nhân một đa thức với một đa thức, ta nhân mỗi hạng tử của đa thức này với từng hạng tử của đa thức kia rồi cộng các tích với nhau.\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\\\\\left( {{x^3} + 3{x^2} - 5x - 1} \\right)\\left( {4x - 3} \\right)\\\\ = 4{x^4} - 3{x^3} + 12{x^3} - 9{x^2} - 20{x^2} + 15x - 4x + 3\\\\ = 4{x^4} + \\left( { - 3{x^3} + 12{x^3}} \\right) + \\left( { - 9{x^2} - 20{x^2}} \\right) + \\left( {15x - 4x} \\right) + 3\\\\ = 4{x^4} + 9{x^3} - 29{x^2} + 11x + 3\\end{array}\\)\n\\(\\begin{array}{l}b)\\\\\\left( { - 2{x^2} + 4x + 6} \\right)\\left( { - \\dfrac{1}{2}x + 1} \\right)\\\\ = {x^3} - 2{x^2} - 2{x^2} + 4x - 3x + 6\\\\ = {x^3} - 4{x^2} + x + 6\\end{array}\\)\n\\(\\begin{array}{l}c)\\left( {{x^4} + 2{x^3} - 1} \\right)\\left( {{x^2} - 3x + 2} \\right)\\\\ = {x^6} - 3{x^5} + 2{x^4} + 2{x^5} - 6{x^4} + 4{x^3} - {x^2} + 3x - 2\\\\ = {x^6} - {x^5} - 4{x^4} + 4{x^3} - {x^2} + 3x - 2\\end{array}\\)"
+    },
+    {
+        "problem": "Trong các biểu thức sau đây, biểu thức nào là đa thức một biến?\na)\\(\\frac{{{x^2}}}{{\\sqrt 3 }} - \\sqrt 3 \\);          b)\\(\\sqrt {2x} \\);\nc)\\(\\left( {1 - \\sqrt 2 } \\right){x^3} + 2\\);            d)\\(x + \\frac{1}{x}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đa thức một biến là tổng của những đơn thức có cùng một biến; mỗi đơn thức trong tổng gọi là một hạng tử của đa thức đó.\nLời giải chi tiết\na) \\(\\dfrac{{{x^2}}}{{\\sqrt 3 }} - \\sqrt 3  = \\dfrac{1}{{\\sqrt 3 }}.{x^2} - \\sqrt 3 \\)  là đa thức một biến\nb) \\(\\sqrt {2x} \\) không là đa thức một biến\nc) \\(\\left( {1 - \\sqrt 2 } \\right){x^3} + 2\\)  là đa thức một biến\nd)\\(\\dfrac{1}{x}\\) không là đơn thức nên \\(x + \\dfrac{1}{x}\\) không là đa thức một biến."
+    },
+    {
+        "problem": "Viết biểu thức đại số biểu thị:\na) Hiệu các bình phương của hai số a và b;\nb) Tổng các lập phương của hai số x và y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Bình phương của số a là a mũ 2\nb)Lập phương của số x là x mũ 3\nLời giải chi tiết\na)\n-Bình phương của số a là \\({a^2}\\).\n-Bình phương của số b là \\({b^2}\\).\n-Hiệu các bình phương của hai số a và b là: \\({a^2} - {b^2}\\)\nb)\n-Lập phương của x là \\({x^3}\\)\n-Lập phương của y là \\({y^3}\\)\n-Tổng các lập phương của hai số x và y là: \\({x^3} + {y^3}\\)"
+    },
+    {
+        "problem": "Thu gọn và sắp xếp các đa thức sau theo luỹ thừa giảm dần của biến. Tìm bậc, hệ số cao nhất và hệ số tự do của mỗi đa thức đó.\na)\\({x^5} + 7{x^2} - x - 2{x^5} + 3 - 5{x^2};\\)\nb)\\(4{x^3} - 5{x^2} + x - 4{x^3} + 3{x^2} - 2x + 6\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Rút gọn đa thức\n-Bậc: bậc của hạng tử có bậc cao nhất gọi là bậc của đa thức\n-Hệ số cao nhất: Hệ số của hạng tử có bậc cao nhất.\n-Hệ số tự do: Hệ số của hạng tử không chứa biến x.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}{x^5} + 7{x^2} - x - 2{x^5} + 3 - 5{x^2}\\\\ = \\left( {{x^5} - 2{x^5}} \\right) + \\left( {7{x^2} - 5{x^2}} \\right) - x + 3\\\\ =  - {x^5} + 2{x^2} - x + 3\\end{array}\\)\nBậc: 5\nHệ số cao nhất: -1\nHệ số tự do: 3\nb)\n\\(\\begin{array}{l}4{x^3} - 5{x^2} + x - 4{x^3} + 3{x^2} - 2x + 6\\\\ = \\left( {4{x^3} - 4{x^3}} \\right) + \\left( { - 5{x^2} + 3{x^2}} \\right) + \\left( {x - 2x} \\right) + 6\\\\ =  - 2{x^2} - x + 6\\end{array}\\)\nBậc: 2\nHệ số cao nhất: -2\nHệ số tự do: 6."
+    },
+    {
+        "problem": "Thực hiện các phép chia sau:\n\\(a)\\left( { - 4{x^5} + 3{x^3} - 2{x^2}} \\right):\\left( { - 2{x^2}} \\right)\\)\n\\(b)\\left( {0,5{x^3} - 1,5{x^2} + x} \\right):0,5x;\\)\n\\(c)\\left( {{x^3} + 2{x^2} - 3x + 1} \\right):\\dfrac{1}{3}{x^2}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chia từng hạng tử của đa thức bị chia cho đa thức chia rồi tính tổng các thương vừa thu được\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\\\\\left( { - 4{x^5} + 3{x^3} - 2{x^2}} \\right):\\left( { - 2{x^2}} \\right)\\\\ = \\left( { - 4{x^5}} \\right):\\left( { - 2{x^2}} \\right) + 3{x^3}:\\left( { - 2{x^2}} \\right) + \\left( { - 2{x^2}} \\right):\\left( { - 2{x^2}} \\right)\\\\ = 2{x^3} - \\dfrac{3}{2}x + 1\\end{array}\\)\n\\(\\begin{array}{l}b)\\\\\\left( {0,5{x^3} - 1,5{x^2} + x} \\right):0,5x\\\\ = \\left( {0,5{x^3}:0.5x} \\right) - \\left( {1,5{x^2}:0,5x} \\right) + \\left( {x:0,5x} \\right)\\\\ = {x^2} - 3x + 2\\end{array}\\)\n\\(\\begin{array}{l}c)\\\\\\left( {{x^3} + 2{x^2} - 3x + 1} \\right):\\dfrac{1}{3}{x^2}\\\\ = \\left( {3x + 6} \\right).\\dfrac{1}{3}{x^2} + \\left( { - 3x + 1} \\right)\\end{array}\\)\nDo đa thức -3x + 1 có bậc là 1, nhỏ hơn bậc 2 của đa thức chia nên đẳng thức này chứng tỏ 3x + 6 là thương và -3x + 1 là dư trong phép chia đã cho."
+    },
+    {
+        "problem": "Bằng cách rút gọn biểu thức, chứng minh rằng mỗi biểu thức sau có giá trị không phụ thuộc vào giá trị của biến.\n\\(a)\\left( {x - 5} \\right)\\left( {2x + 3} \\right) - 2x\\left( {x - 3} \\right) + \\left( {x + 7} \\right);\\)\n\\(b)\\left( {{x^2} - 5x + 7} \\right)\\left( {x - 2} \\right) - \\left( {{x^2} - 3x} \\right)\\left( {x - 4} \\right) - 5\\left( {x - 2} \\right).\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đa thức là một số không đổi nên giá trị của nó không phụ thuộc vào giá trị của x.\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\\\\\left( {x - 5} \\right)\\left( {2x + 3} \\right) - 2x\\left( {x - 3} \\right) + \\left( {x + 7} \\right)\\\\ = 2{x^2} + 3x - 10x - 15 - \\left( {2{x^2} - 6x} \\right) + \\left( {x + 7} \\right)\\\\ = \\left( {2{x^2} - 2{x^2}} \\right) + \\left( {3x - 10x + 6x + x} \\right) + \\left( { - 15 + 7} \\right)\\\\ =  - 8\\end{array}\\)\n\\(\\begin{array}{l}b)\\\\\\left( {{x^2} - 5x + 7} \\right)\\left( {x - 2} \\right) - \\left( {{x^2} - 3x} \\right)\\left( {x - 4} \\right) - 5\\left( {x - 2} \\right)\\\\ = {x^3} - 2{x^2} - 5{x^2} + 10x + 7x - 14 - \\left( {{x^3} - 4{x^2} - 3{x^2} + 12x} \\right) - 5x + 10\\\\ = {x^3} - 7{x^2} + 17x - 14 - {x^3} + 7{x^2} - 12x - 5x + 10\\\\ = \\left( {{x^3} - {x^3}} \\right) + \\left( { - 7{x^2} + 7{x^2}} \\right) + \\left( {17x - 12x - 5x} \\right) + \\left( { - 14 + 10} \\right)\\\\ =  - 4\\end{array}\\)"
+    },
+    {
+        "problem": "Cho hai đa thức \\(A\\left( x \\right) = {x^4} - 5{x^3} + {x^2} + 5x - \\dfrac{1}{3};B\\left( x \\right) = {x^4} - 2{x^3} + {x^2} - 5x - \\dfrac{2}{3}.\\)\nHãy tính \\(A\\left( x \\right) + B\\left( x \\right);A\\left( x \\right) - B\\left( x \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết hai đa thức trong dấu ngoặc và nối chúng bởi dấu “+” (hay “-“). Sau đó bỏ dấu ngoặc rồi nhóm các hạng tử cùng bậc và thu gọn.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}A\\left( x \\right) + B\\left( x \\right)\\\\ = \\left( {{x^4} - 5{x^3} + {x^2} + 5x - \\dfrac{1}{3}} \\right) + \\left( {{x^4} - 2{x^3} + {x^2} - 5x - \\dfrac{2}{3}} \\right)\\\\ = {x^4} - 5{x^3} + {x^2} + 5x - \\dfrac{1}{3} + {x^4} - 2{x^3} + {x^2} - 5x - \\dfrac{2}{3}\\\\ = \\left( {{x^4} + {x^4}} \\right) + \\left( { - 5{x^3} - 2{x^3}} \\right) + \\left( {{x^2} + {x^2}} \\right) + \\left( {5x - 5x} \\right) + \\left( { - \\dfrac{1}{3} - \\dfrac{2}{3}} \\right)\\\\ = 2{x^4} - 7{x^3} + 2{x^2} - 1\\end{array}\\)\n\\(\\begin{array}{l}A\\left( x \\right) - B\\left( x \\right)\\\\ = \\left( {{x^4} - 5{x^3} + {x^2} + 5x - \\dfrac{1}{3}} \\right) - \\left( {{x^4} - 2{x^3} + {x^2} - 5x - \\dfrac{2}{3}} \\right)\\\\ = {x^4} - 5{x^3} + {x^2} + 5x - \\dfrac{1}{3} - {x^4} + 2{x^3} - {x^2} + 5x + \\dfrac{2}{3}\\\\ = \\left( {{x^4} - {x^4}} \\right) + \\left( { - 5{x^3} + 2{x^3}} \\right) + \\left( {{x^2} - {x^2}} \\right) + \\left( {5x + 5x} \\right) + \\left( { - \\dfrac{1}{3} + \\dfrac{2}{3}} \\right)\\\\ =  - 3{x^3} + 10x + \\dfrac{1}{3}\\end{array}\\)"
+    },
+    {
+        "problem": "Thu gọn và sắp xếp mỗi đa thức sau đây theo luỹ thừa giảm của biến rồi tìm bậc, hệ số cao nhất và hệ số tự do của mỗi đa thức đó.\na)\\(F\\left( x \\right) =  - 2 + 4{x^5} - 2{x^3} - 4{x^5} + 3x + 3\\)\nb)\\(G\\left( x \\right) =  - 5{x^3} + 4 - 3x + 4{x^3} + {x^2} + 6x - 3\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho một đa thức khác đa thức không. Trong dạng thu gọn của nó:\n-Bậc của hạng tử có bậc cao nhất gọi là bậc của đa thức;\n-Hệ số của hạng tủ có bậc cao nhất gọi là hệ số cao nhất;\n-Hệ số của hạng tử có bậc 0 (hạng tử không chứa biến) gọi là hệ số tự do.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}F\\left( x \\right) =  - 2 + 4{x^5} - 2{x^3} - 4{x^5} + 3x + 3\\\\F\\left( x \\right) = \\left( {4{x^5} - 4{x^5}} \\right) - 2{x^3} + 3x + \\left( { - 2 + 3} \\right)\\\\F\\left( x \\right) =  - 2{x^3} + 3x + 1\\end{array}\\)\nBậc: 3\nHệ số cao nhất: -2\nHệ số tự do: 1\nb)\n\\(\\begin{array}{l}G\\left( x \\right) =  - 5{x^3} + 4 - 3x + 4{x^3} + {x^2} + 6x - 3\\\\G\\left( x \\right) = \\left( { - 5{x^3} + 4{x^3}} \\right) + {x^2} + \\left( { - 3x + 6x} \\right) + \\left( {4 - 3} \\right)\\\\G\\left( x \\right) =  - {x^3} + {x^2} + 3x + 1\\end{array}\\)\nBậc: 3\nHệ số cao nhất: -1\nHệ số tự do: 1"
+    },
+    {
+        "problem": "Viết biểu thức đại số biểu thị:\na) Thể tích của hình hộp chữ nhật có chiều dài a, chiều rộng b và chiều cao là a + b;\nb) Diện tích của hình tứ giác có hai đường chéo vuông góc với nhau và độ dài của hai đường chéo đó là p và q.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thể tích hình hộp chữ nhật = \\({S_{đáy}}\\)x chiều cao = chiều dài x chiều rộng x chiều cao.\nb) Diện tích của hình tứ giác có hai đường chéo vuông góc với nhau bằng \\(\\dfrac{1}{2}\\) nhân tích 2 đường chéo.\nLời giải chi tiết\na)Thể tích hình hộp chữ nhật = \\({S_{đáy}}\\)x chiều cao = chiều dài x chiều rộng x chiều cao\nKhi đó: V = ab (a + b).\nb)Diện tích của hình tứ giác có hai đường chéo vuông góc với nhau bằng \\(\\dfrac{1}{2}\\) nhân tích 2 đường chéo.\nKhi đó: \\(S = \\dfrac{1}{2}pq.\\)"
+    },
+    {
+        "problem": "Cho 2 đa thức \\(f\\left( x \\right) = 4{x^4} - 5{x^3} + 3x + 2\\) và \\(g\\left( x \\right) =  - 4{x^4} + 5{x^3} + 7\\). Trong các số -4; -3; 0 và 1, số nào là nghiệm của đa thức \\(f\\left( x \\right) + g\\left( x \\right)\\)?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính tổng \\(f\\left( x \\right) + g\\left( x \\right)\\)\n-Tìm nghiệm: Cho \\(f\\left( x \\right) + g\\left( x \\right)=0\\)\nLời giải chi tiết\n\\(\\begin{array}{l}f\\left( x \\right) + g\\left( x \\right)\\\\ = \\left( {4{x^4} - 5{x^3} + 3x + 2} \\right) + \\left( { - 4{x^4} + 5{x^3} + 7} \\right)\\\\ = \\left( {4{x^4} - 4{x^4}} \\right) + \\left( { - 5{x^3} + 5{x^3}} \\right) + 3x + \\left( {2 + 7} \\right)\\\\ = 3x + 9\\end{array}\\)\n\\(\\begin{array}{l}f\\left( x \\right) + g\\left( x \\right) = 0\\\\ \\Rightarrow 3x + 9 = 0\\\\ \\Rightarrow 3x =  - 9\\\\ \\Rightarrow x =  - 9:3\\\\ \\Rightarrow x =  - 3\\end{array}\\)\nVậy đa thức \\(f\\left( x \\right) + g\\left( x \\right)\\) có nghiệm là x = 3"
+    },
+    {
+        "problem": "Đặt tính và làm phép chia sau:\n\\(a)\\left( {{x^3} - 4{x^2} - x + 12} \\right):\\left( {x - 3} \\right)\\)\n\\(b)\\left( {2{x^4} - 3{x^3} + 3{x^2} + 6x - 14} \\right):\\left( {{x^2} - 2} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt phép tính chia đa thức cho đa thức.\nCông thức: \\({a^m}:{a^n} = {a^{m - n}}\\)\nLời giải chi tiết\na)\n\nb)\n"
+    },
+    {
+        "problem": "Với giá trị nào của x thì \\(\\left( {{x^2} - 2x + 5} \\right)\\left( {x - 2} \\right) = \\left( {{x^2} + x} \\right)\\left( {x - 5} \\right)\\)?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chuyển vế và thu gọn để tìm x.\nLời giải chi tiết\n\\(\\begin{array}{l}\\left( {{x^2} - 2x + 5} \\right)\\left( {x - 2} \\right) = \\left( {{x^2} + x} \\right)\\left( {x - 5} \\right)\\\\ \\Rightarrow {x^3} - 2{x^2} - 2{x^2} + 4x + 5x - 10 = {x^3} - 5{x^2} + {x^2} - 5x\\\\ \\Rightarrow {x^3} - 4{x^2} + 9x - 10 - {x^3} + 4{x^2} + 5x = 0\\\\ \\Rightarrow 14x - 10 = 0\\\\ \\Rightarrow 14x = 10\\\\ \\Rightarrow x = \\dfrac{{10}}{{14}}\\\\ \\Rightarrow x = \\dfrac{5}{7}\\end{array}\\)"
+    },
+    {
+        "problem": "Cho đa thức \\(H\\left( x \\right) = {x^4} - 3{x^3} - x + 1\\). Tìm đa thức P(x) và Q(x) sao cho\na)\\(H\\left( x \\right) + P\\left( x \\right) = {x^5} - 2{x^2} + 2\\)\nb)\\(H\\left( x \\right) - Q\\left( x \\right) =  - 2{x^3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\\(P\\left( x \\right) = \\left( {{x^5} - 2{x^2} + 2} \\right) - H\\left( x \\right)\\)\nb)\\(Q\\left( x \\right) = H\\left( x \\right) - \\left( { - 2{x^3}} \\right)\\)\nLời giải chi tiết\na)\n\\(\\begin{array}{l}H\\left( x \\right) + P\\left( x \\right) = {x^5} - 2{x^2} + 2\\\\ \\Rightarrow P\\left( x \\right) = \\left( {{x^5} - 2{x^2} + 2} \\right) - H\\left( x \\right)\\\\ \\Rightarrow P\\left( x \\right) = {x^5} - 2{x^2} + 2 - \\left( {{x^4} - 3{x^3} - x + 1} \\right)\\\\ \\Rightarrow P\\left( x \\right) = {x^5} - 2{x^2} + 2 - {x^4} + 3{x^3} + x - 1\\\\ \\Rightarrow P\\left( x \\right) = {x^5} - {x^4} + 3{x^3} - 2{x^2} + x + 1\\end{array}\\)\nb)\n\\(\\begin{array}{l}H\\left( x \\right) - Q\\left( x \\right) =  - 2{x^3}\\\\ \\Rightarrow Q\\left( x \\right) = H\\left( x \\right) - \\left( { - 2{x^3}} \\right)\\\\ \\Rightarrow Q\\left( x \\right) = \\left( {{x^4} - 3{x^3} - x + 1} \\right) + 2{x^3}\\\\ \\Rightarrow Q\\left( x \\right) = {x^4} - {x^3} - x + 1\\end{array}\\)"
+    },
+    {
+        "problem": "Bằng cách tính giá trị của đa thức \\(F\\left( x \\right) = {x^3} + 2{x^2} + x\\) tại các giá trị của x thuộc tập hợp {-2; -1; 0; 1; 2}, hãy tìm hai nghiệm của đa thức \\(F\\left( x \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Thay x = -2; x = -1; x = 0; x = 1; x = 2 vào đa thức F(x).\n-Nếu tại x = a (với a là một số), giá trị của một đa thức bằng 0 thì ta gọi a (hay x = a) là một nghiệm của đa thức đó.\nLời giải chi tiết\nTa có:\n\\(F\\left( { - 2} \\right) = {\\left( { - 2} \\right)^3} + 2.{\\left( { - 2} \\right)^2} + \\left( { - 2} \\right) =  - 8 + 8 - 2 =  - 2\\)\n\\(F\\left( { - 1} \\right) = {\\left( { - 1} \\right)^3} + 2.{\\left( { - 1} \\right)^2} + \\left( { - 1} \\right) =  - 1 + 2 - 1 = 0\\)\n\\(F\\left( 0 \\right) = {0^3} + {2.0^2} + 0 = 0\\)\n\\(F\\left( 1 \\right) = {1^3} + {2.1^2} + 1 = 1 + 2 + 1 = 4\\)\n\\(F\\left( 2 \\right) = {2^3} + {2.2^2} + 2 = 8 + 8 + 2 = 18\\)\nHai nghiệm của đa thức F(x) là x = -1 và x = 0."
+    },
+    {
+        "problem": "Cho hai đa thức \\(f\\left( x \\right) =  - {x^5} + 3{x^2} + 4x + 8;g\\left( x \\right) =  - {x^5} - 3{x^2} + 4x + 2\\). Chứng minh rằng đa thức \\(f\\left( x \\right) - g\\left( x \\right)\\) không có nghiệm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Rút gọn \\(f\\left( x \\right) - g\\left( x \\right)\\)\n-Chứng minh \\(f\\left( x \\right) - g\\left( x \\right)>0\\), với mọi x.\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}f\\left( x \\right) - g\\left( x \\right)\\\\ = \\left( { - {x^5} + 3{x^2} + 4x + 8} \\right) - \\left( { - {x^5} - 3{x^2} + 4x + 2} \\right)\\\\ =  - {x^5} + 3{x^2} + 4x + 8 + {x^5} + 3{x^2} - 4x - 2\\\\ = \\left( { - {x^5} + {x^5}} \\right) + \\left( {3{x^2} + 3{x^2}} \\right) + \\left( {4x - 4x} \\right) + \\left( {8 - 2} \\right)\\\\ = 6{x^2} + 6\\end{array}\\)\nMà\n\\(\\begin{array}{l}{x^2} \\ge 0 \\Rightarrow 6{x^2} \\ge 0 \\Rightarrow 6{x^2} + 6 > 0\\\\ \\Rightarrow f\\left( x \\right) - g\\left( x \\right) > 0\\end{array}\\)\nDo đó \\(f\\left( x \\right) - g\\left( x \\right)\\) không có nghiệm."
+    },
+    {
+        "problem": "Khi làm phép chia \\(\\left( {6{x^3} - 7{x^2} - x + 2} \\right):\\left( {2x + 1} \\right)\\), bạn Quỳnh cho kết quả đa thức dư là 4x + 2.\na) Không làm phép chia, hãy cho biết bạn Quỳnh đúng hay sai, tại sao?\nb) Tìm thương và dư trong phép chia đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chú ý bậc của đa thức dư.\nb) Đặt phép tính chia 2 đa thức trên.\nLời giải chi tiết\na)\nQuỳnh sai.\nBạn Quỳnh cho kết quả đa thức dư là 4x + 2, mà dư vẫn tiếp tục chia được cho 2x + 1.\nVậy bậc của đa thức dư, nếu khác 0, phải nhỏ hơn bậc của đa thức chia.\nb)\n\nThương là \\(3{x^2} - 5x + 2\\)\nDư là 0."
+    },
+    {
+        "problem": "Rút gọn các biểu thức sau rồi tính giá trị của đa thức thu được.\n\\(a)\\left( {4{x^4} - 6{x^2} + 9} \\right)\\left( {2{x^2} + 3} \\right)\\) tại x = 0,5.\nb)\\(\\left( {{x^3} + 5{x^2} + 2x + 12} \\right)\\left( {{x^2} + 2x + 4} \\right) - x\\left( {7{x^3} + 16{x^2} + 36x + 32} \\right)\\) tại x = -2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Áp dụng quy tắc nhân đa thức với đa thức rồi rút gọn.\n-Thay x = 0,5 vào đa thức rút gọn\nb)\n-Áp dụng quy tắc nhân đa thức với đa thức rồi rút gọn.\n-Thay x = -2 vào đa thức rút gọn\nLời giải chi tiết\n\\(\\begin{array}{l}a)\\\\\\left( {4{x^4} - 6{x^2} + 9} \\right)\\left( {2{x^2} + 3} \\right)\\\\ = 8{x^6} + 12{x^4} - 12{x^4} - 18{x^2} + 18{x^2} + 27\\\\ = 8{x^6} + 27\\end{array}\\)\nThay x = 0,5 vào đa thức, ta được:\n\\(8.{\\left( {0,5} \\right)^6} + 27 = 27,125\\).\nb)\n\\(\\begin{array}{l}\\left( {{x^3} + 5{x^2} + 2x + 12} \\right)\\left( {{x^2} + 2x + 4} \\right) - x\\left( {7{x^3} + 16{x^2} + 36x + 32} \\right)\\\\ = {x^5} + 2{x^4} + 4{x^3} + 5{x^4} + 10{x^3} + 20{x^2} + 2{x^3} + 4{x^2} + 8x + 12{x^2} + 24x + 48 - 7{x^4} - 16{x^3} - 36{x^2} - 32x\\\\ = {x^5} + \\left( {2{x^4} + 5{x^4} - 7{x^4}} \\right) + \\left( {4{x^3} + 10{x^3} + 2{x^3} - 16{x^3}} \\right) + \\left( {20{x^2} + 4{x^2} + 12{x^2} - 36{x^2}} \\right) + \\left( {8x + 24x - 32x} \\right) + 48\\\\ = {x^5} + 48\\end{array}\\)\nThay x = -2 vào đa thức, ta được:\n\\({\\left( { - 2} \\right)^5} + 48 =  - 32 + 48 = 16\\)."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1.Điền vào chỗ trống sau: “Ba đường phân giác đi qua một điểm. Điểm này cách đều … của tam giác”. \nA. Ba đỉnh;\nB. Ba cạnh;\nC. Trọng tâm;\nD. Ba đường cao.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ba đường phân giác đi qua một điểm. Điểm này cách đều ba cạnh của tam giác"
+    },
+    {
+        "problem": "Câu 2. Điểm F nằm trên tia phân giác A^  của tam giác ABC thì :\nA.Điểm F cách đều hai cạnh AB và AC;\nB. Điểm F nằm trên tia phân giác ;\nC. FB = FC; \nD. Điểm E nằm trên tia phân giác .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐiểm F nằm trên tia phân giác A^ của tam giác ABC thì điểm F cách đều hai cạnh AB và AC."
+    },
+    {
+        "problem": "Câu 4. Điểm D cách đều hai cạnh AB, AC của tam giác ABC thì:\nA. Điểm D nằm trên tia phân giác của BAC^  ;\nB. Điểm D nằm trên tia phân giác của ACB^ ;\nC. Điểm D nằm trên tia phân giác của ABC^ ;\nD. DB = DC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐiểm D cách đều hai cạnh AB, AC của tam giác ABC thì điểm D nằm trên tia phân giác của ABC^  ."
+    },
+    {
+        "problem": "Câu 12. Chọn đáp án đúng nhất:\nA. Trong tam giác, đường phân giác xuất phát từ đỉnh cũng là đường trung tuyến;\nB. Giao điểm của ba đường phân giác cách đều ba đỉnh của tam giác;\nC. Ba đường phân giác của một tam giác đều đi qua một điểm. Điểm này được gọi là trực tâm của tam giác;\nD. Giao điểm của ba đường phân giác cách đều ba cạnh của tam giác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\n- Trong tam giác, đường phân giác xuất phát từ đỉnh cũng là đường trung tuyến chỉ đúng với một số loại tam giác. Loại đáp án A.\n- Giao điểm của ba đường phân giác cách đều ba đỉnh của tam giác là sai. Loại đáp án B.\n- Ba đường phân giác của một tam giác đều đi qua một điểm. Điểm này được gọi là trực tâm của tam giác là sai vì trực tâm là giao điểm của ba đường cao. Loại đáp án C.\n- Giao điểm của ba đường phân giác cách đều ba cạnh của tam giác là đúng. Chọn đáp án D."
+    }
+]

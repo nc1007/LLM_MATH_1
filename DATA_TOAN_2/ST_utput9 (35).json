@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Tính giá trị của biểu thức sau:\n7,05 – (a + 3,5 + 0,85) khi a = - 7,2\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay a = - 7,2 vào biểu thức\nPhá dấu ngoặc, thực hiện phép tính\nLời giải chi tiết\nThay a = - 7,2 vào 7,05 – (a + 3,5 + 0,85) ta được:\n7,05 – ( - 7,2 + 3,5 + 0,85)\n= 7,05 + 7,2 - 3,5 - 0,85\n= (7,05 - 0,85) + (7,2 - 3,5)\n= 6,2+3,7=9,9"
+    },
+    {
+        "problem": "Gạo là thức ăn chính của người dân Việt Nam. Theo Viện Dinh dưỡng Quốc gia, trong 100 g gạo tẻ giã có chứa khoảng 75 g chất bột đường; 8,1 g chất đạm; 1,3 g chất béo và nhiều vi chất khác.\nCâu a\nTính tỉ lệ phần trăm khối lượng chất béo có trong 100 g gạo.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tỉ lệ phần trăm khối lượng chất béo = khối lượng chất béo : khối lượng gạo . 100%\nLời giải chi tiết:\nTỉ lệ phần trăm khối lượng chất béo có trong 100 g gạo là:\n\\(\\dfrac{{1,3}}{{100}}.100\\%  = 1,3\\% \\)\nVậy tỉ lệ phần trăm chất béo có trong 100 g gạo là 1,3%.\nCâu b\nTrong 1,5 kg gạo có chứa bao nhiêu gam chất béo?\nPhương pháp giải:\nĐổi kg sang g\nTính a% của m, ta có: m.a%\nLời giải chi tiết:\nĐổi 1,5kg=1500 (g)\nKhối lượng chất béo trong 1,5 kg gạo là:\n1 500.1,3%=19,5 (g)"
+    },
+    {
+        "problem": "Cường ra siêu thị mua 3,5 kg khoai tây; 4 kg củ cải. Giá 1 kg khoai tây là 18 nghìn đồng; 1 kg củ cải là 15,6 nghìn đồng.\nCâu a\nTính tổng số tiền hàng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng số tiền hàng = Tiền khoai tây + Tiền củ cải.\nTiền khoai tây = số kg khoai tây . giá khoai tây\nTiền củ cải =  số kg củ cải . giá củ cải\nLời giải chi tiết:\nTổng số tiền hàng là:\n3,5.18+4.15,6=125,4 (nghìn đồng)\nCâu b\nKhi thanh toán Cường phải trả thêm tiền thuế giá trị gia tăng VAT, được tính bằng 10% tổng số tiền hàng. Tính số tiền Cường phải thanh toán.\nPhương pháp giải:\nSố tiền Cường phải thanh toán = số tiền hàng + tiền thuế\nLời giải chi tiết:\nSố tiền Cường phải thanh toán là:\n125,4+125,4.10%=125,4+12,54=137,94 (nghìn đồng)"
+    },
+    {
+        "problem": "Theo báo điện tử VINANET (14-2-2020), năm 2019 Việt Nam sản xuất khoảng 201 nghìn tấn hạt tiêu. Như vậy, sản lượng hạt tiêu Việt Nam chiếm khoảng 30% sản lượng hạt tiêu toàn thế giới. Em hãy tính sản lượng hạt tiêu đã sản xuất trên toàn thế giới vào năm 2019.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm a biết 30% của nó bằng b.\nLời giải chi tiết\nSản lượng hạt tiêu đã sản xuất trên toàn thế giới là:\n\\(201:\\dfrac{30}{100}=670\\) (nghìn tấn)."
+    }
+]

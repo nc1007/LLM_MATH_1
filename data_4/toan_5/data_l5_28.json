@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1: Phép nhân số thâp phân có tính chất nào dưới đây?\nA.\tTính chất giao hoán\nB.\tTính chất kết hợp\nC.\tCả A và B đều đúng\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tPhép nhân số thập phân có tính chất giao hoán: Khi đổi chỗ hai thừa số của một tích thì tích không thay đổi:  a × b = b × a.\n-\tPhép nhân số thập phân có tính chất kết hợp: Khi nhân một tích hai số với số thứ ba ta có thể nhân số thứ nhất với tích của hai số còn lại: (a × b) × c = a × (b × c).\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 2: Khi nhân một số thập phân với 0,1; 0,01; 0,001; … ta chỉ việc chuyện dấu phẩy của số đó lần lượt sang bên phải một, hai, ba… chữ số. Phát biểu trên đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số thập phân với 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba, … chữ số.\nVậy phát biểu đề bài đưa ra là sai."
+    },
+    {
+        "problem": "Câu 6: Tính nhẩm: 52,8 × 0,1\nA.\t0,0528\nB.\t0,528\nC.\t5,28\nD.\t52,8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi nhân một số thập phân với 0,1 ta chỉ việc chuyển dấu phẩy của số đó sang bên trái một chữ số.\nDo đó ta có: 52,8 × 0,1 = 5,28."
+    },
+    {
+        "problem": "Câu 7: Tính nhẩm: 36,1 × 0,001\nA.\t0,0361\nB.\t0,361\nC.\t3,61\nD.\t361",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 36,1 × 0,001 = 0036,1 x 0,001 = 0,0361"
+    },
+    {
+        "problem": "Câu 8: Tìm x biết x : 3,7 = 5,4\nA.\tx = 18,88\nB.\tx = 18,98\nC.\tx = 19,88\nD.\tx = 19,98",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nx : 3,7 = 5,4\nx = 5,4 x 3,7\nx = 19,98\nVậy x = 19,98"
+    },
+    {
+        "problem": "Câu 9: Số 128,09 nhân với số nào để được 1,8209?\nA.\t0,1\nB.\t0,01\nC.\t10\nD.\t100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy 1,8209 là số thập phân có dấu phẩy dịch chuyển sang trái hai chữ số so với số thập phân 182,09 nên để được số 1,8209 thì số 182,09 phải nhân với 0,01."
+    },
+    {
+        "problem": "Câu 10: Tính: 23,5 + 18,2 × 1,75\nA.\t55,35\nB.\t57,25\nC.\t70,45\nD.\t72,975",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n23,5 + 18,2 x 1,75\n= 23,5 + 31,85\n= 55,35 \nVậy đáp án đúng là 55,35."
+    },
+    {
+        "problem": "Câu 11: Chọn dấu thích hợp điền vào chỗ chấm: \n12,27 × 4,9 … 20,5 × 3,4\nA.\t=\nB.\t<\nC.\t>",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \n12,27 x 4,9 = 60,123;\n20,5 x 3,4 = 69,7.\nMà: 60,123 < 69,7  \nVậy 12,27 x 4,9 < 20,5 x 3,4"
+    },
+    {
+        "problem": "Câu 12: Một ô tô mỗi giờ đi được 52,5km. Hỏi trong 4,75 giờ ô tô đó đi được bao nhiêu ki-lô-mét?\nA.\t248,125km\nB.\t248,75km\nC.\t249,25km\nD.\t249,375km",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong 4,75 giờ ô tô đó đi được số ki-lô-mét là:\n52,5 × 4,75 = 249,375 (km)\nĐáp số: 249,375km"
+    }
+]

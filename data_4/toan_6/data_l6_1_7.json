@@ -1,0 +1,116 @@
+[
+    {
+        "problem": "A. Một số chia hết cho 9 thì số đó chia hết cho 3\nB. Một số chia hết cho 3thì số đó chia hết cho 9\nC. Một số chia hết cho 10thì số đó chia hết cho 5\nD. Một số chia hết cho 45thì số đó chia hết cho 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCâu sai là B: Số chia hết cho 3thì chia hết cho 9.Chẳng hạn số 3 chia hết cho 3 nhưng số 3 không chia hết cho 9.\n+ Mọi số chia hết cho 9 đều hia hết cho 3 nên A đúng.\n+ Một số chia hết cho 10thì số đó chia hết cho 5 vì các số chia hết cho 10 luôn có chữ số tận cùng là chữ số 0. Nên C đúng.\n+ Một số chia hết cho 45thì số đó chia hết cho 9 và chia hết cho 5 nên D đúng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Cho 1a52¯ chia hết cho 9. Số thay thế cho a có thể là\nA. 1\nB. 2\nC. 3\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng các chữ số của 1a52¯ là 1 + a +5 + 2 = a + 8  để số 1a52¯ chia hết cho 9 thì a + 8 phải chia hết cho 9.\nDo a là các số tự nhiên từ 0 đến 9 nên\n0 + 8 ≤ a + 8 ≤ 9 + 8 ⇒ 8 ≤ a + 8 ≤ 17\nSố chia hết cho 9 từ 8 đến 17 chỉ có đúng một số 9, do đó a + 8 = 9 ⇒ a = 1\nVậy số thay thế cho a chỉ có thể là 1\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Số vừa chia hết cho 2 vừa chia hết cho 9 là:\nA. 10008\nB. 152\nC. 153\nD. 2156",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố chia hết cho 2 là: 10008, 152 và 2156\n10008 có tổng các chữ số bằng 9 nên 10008 chia hết cho 9.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Trong những số sau, có bao nhiêu số chia hết cho 3?\n555464, 15645, 5464, 561565, 641550\nA. 1\nB. 2\nC. 4\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n555464 có tổng các chữ số là: 5+5+5+4+6+4 = 29 không chia hết cho 3 nên 555464 không chia hết cho 3.\n15645 có tổng các chữ số là: 1+5+6+4+5 = 21 chia hết cho 3 nên 15645 chia hết cho 3\n5464 có tổng các chữ số là: 5+4+6+4 = 19 không chia hết cho 3 nên 5464 không chia hết cho 3.\n561565 có tổng các chữ số là: 5+6+1+5+6+5 = 28 không chia hết cho 3 nên 561565 không chia hết cho 3.\n641550 có tổng các chữ số là: 6+4+1+5+5+0 = 21 chia hết cho 3 nên 641550 chia hết cho 3.\nVậy có tất cả 2 số chia hết cho 3 là: 15645 và 641550\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Cho 55a62¯ chia hết cho 3. Số thay thế cho a có thể là\nA. 1\nB. 2\nC. 3\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng các chữ số của 55a62¯ là 5 + 5 + a + 6 + 2 = a + 18\nđể số 55a62¯ chia hết cho 3 thì a + 18 phải chia hết cho 3.\nDo a là các số tự nhiên từ 0 đến 9 nên\n0 + 18 ≤ a + 18 ≤ 9 + 18 ⇒ 18 ≤ a + 18 ≤ 27\nSố chia hết cho 3 từ 18 đến 27 có thể là các số: 18, 21, 24, 27\nTức là a + 18 có thể nhận các giá trị: 18, 21, 24, 27\nVới a + 18 bằng 18 thì a = 18 – 18 = 0\nVới a + 18 bằng 21 thì a = 21 – 18 = 3\nVới a + 18 bằng 24 thì a = 24 – 18 = 6\nVới a + 18 bằng 27 thì a = 27 – 18 = 9\nVậy số có thể thay thế cho a là một trong các số 0; 3; 6; 9.\nVậy số thay thế cho a trong đề bài chỉ có thể là 3\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Các số có … chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\nA. các chữ số\nB. tổng các chữ số\nC. tổng\nD. chữ số tận cùng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Các số có tổng … chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nA. các chữ số\nB. tổng các chữ số\nC. các số\nD. chữ số tận cùng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Khối lớp 6 của một trường có 255 học sinh đi dã ngoại. Cô phụ trách muốn chia đều các học sinh của khối 6 thành 9 nhóm. Hỏi cô chia như vậy đúng hay sai?\nĐúng\nSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 255 có tổng các chữ số bằng 2 + 5 + 5 = 12 không chia hết cho 9 nên cô phụ trách không thể chia đều số học sinh thành 9 nhóm được."
+    },
+    {
+        "problem": "Câu 9. Trong các số 333; 354; 360; 2457; 1617; 152, các số chia hết cho 9là\nA. 333\nB. 360\nC. 2457 \nD. Cả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số 333; 2457; 360 là các số chia hết cho 9 vì tổng các chữ số của nó chia hết cho 9.\n+) Số 333 có tổng các chữ số là 3 + 3 + 3 = 9⁝9 nên 333⁝9.\n+) Số 2457 có tổng các chữ số là 2 + 4 + 5 + 7 = 18⁝9 nên 2457⁝9.\n+) Số 360 có tổng các chữ số là 3 + 6 + 0 = 9⁝9 nên 360⁝9.\nCác số còn lại 354; 1617; 152 đều có tổng các chữ số không chia hết cho 9 nên chúng không chia hết cho 9.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Dạng 2.Các dạng toán dấu hiệu chia hết cho 3, cho 9 \nCâu 1. Cho 55a62¯ chia hết cho 3. Số thay thế cho a có thể là\nA. 1\nB. 2\nC. 3\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng các chữ số của 55a62¯ là 5 + 5 + a + 6 + 2 = a + 18\nđể số 55a62¯ chia hết cho 3 thì a + 18 phải chia hết cho 3.\nDo a là các số tự nhiên từ 0 đến 9 nên\n0 + 18 ≤ a + 18 ≤ 9 + 18 ⇒ 18 ≤ a + 18 ≤ 27\nSố chia hết cho 3 từ 18 đến 27 có thể là các số: 18, 21, 24, 27\nTức là a + 18 có thể nhận các giá trị: 18, 21, 24, 27\nVới a + 18 bằng 18 thì a = 18 – 18 = 0\nVới a + 18 bằng 21 thì a = 21 – 18 = 3\nVới a + 18 bằng 24 thì a = 24 – 18 = 6\nVới a + 18 bằng 27 thì a = 27 – 18 = 9\nVậy số có thể thay thế cho a là một trong các số 0; 3; 6; 9.\nVậy số thay thế cho a trong đề bài chỉ có thể là 3\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Cho số A=a785b¯. Tìm tổng các chữ số avà bsao cho Achia 9dư 2.\nA. (a + b) ϵ {9; 18}\nB. (a + b) ϵ {0; 9; 18}\nC. (a + b) ϵ {1; 2; 3} \nD. (a + b) ϵ {4; 5; 6}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: a; b ϵ {0; 1; 2; 3; 4; 5; 6; 7; 8; 9} và a ≠ 0.\nA chia 9dư 2⇒ a + 7 + 8 + 5 + b = a + b + 20 chia 9dư 2 hay (a + b + 18)⁝9 .\nMà 18⁝9 ⇒ (a + b)⁝9 ⇒ (a + b) ϵ {9; 18}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Cho số N=5a27b¯ .Có bao nhiêu sốN sao cho Nlà số có 5 chữ số khác nhau và N chia cho 3 thì dư 2,N chia cho 5 thì dư 1 và N chia hết cho 2.\nA. 3\nB. 4\nC. 5\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐiều kiện: a; b ϵ {0; 1; 2;.......; 9}\nN=5a27b¯ chia 5 dư 1 nên bϵ{1; 6} .\nMà N chia hết cho 2 nên b = 6 , ta được số N=5a27b¯.\nVì N chia 3 dư 2 nên 5 + a + 2 + 7 + 6 = 20 + a chia 3 dư 2. Suy ra (18 + a)⁝3 .\nMà 18⁝3 ⇒ a⁝3 ⇒ a ϵ{0; 3; 6; 9} (do alà chữ số).\nLại có N là số có 5 chữ số khác nhau nên aϵ{0; 3; 9} .\nVậy có ba số N thỏa mãn là các số 50276; 53276; 59276\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Tìm các chữ số x, y biết rằng: 23x5y¯ chia hết cho 2; 5 và 9.\nA. x = 0; y = 6\nB. x = 6; y = 0\nC. x = 8; y = 0 \nD. x = 0; y = 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐiều kiện: x; y ϵ {0; 1; 2;.......; 9}\nVì 23x5y¯ chia hết cho cả 2 và 5 nên y = 0 ta được số 23x50¯.\nSố 23x50¯⁝9 ⇒ (2 + 3 + x + 5 + 0)⁝9 ⇒ (10 + x)⁝9 ⇒ x = 8.\nVậy x = 8; y = 0, ta có số 23850.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Có bao nhiêu số tự nhiên dạng 5a42b¯ chia hết cho cả 2; 5 và 3?\nA. 3\nB. 4\nC. 2\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì số 5a42b¯ chia hết cho cả 2; 5 nên b = 0.\nĐể 5a42b¯ chia hết cho 3 thì 5 + a + 4 + 2 + 0 = 11 + a  chia hết cho 3.\nSuy ra a ϵ {1; 4; 7}.\nVậy có ba số tự nhiên thỏa mãn là 51420; 54420; 57420.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Tìm số tự nhiên 145*¯chia hết cho cả 3 và 5.\nA. 1454\nB. 1450\nC. 1455 \nD. 1452",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì 145*¯ chia hết cho 5 nên * có thể bằng 0 hoặc 5.\n+ Nếu * bằng 0 thì ta được số 1450 có 1 + 4 + 5 + 0 = 103 nên loại\n+ Nếu * bằng 5 thì ta được số 1455 có 1 + 4 + 5 + 5 = 15⁝3 nên thỏa mãn.\nVậy số cần tìm là 1455.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Dùng ba trong bốn chữ số 5; 8; 4; 0 hãy lập ra các số tự nhiên chia hết cho 3 mà không chia hết cho 9.\nA. 840; 804; 408 \nB. 840; 804; 408; 480\nC. 540; 450; 405 \nD. 540; 450; 405; 504",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa thấy chỉ có 8 + 4 + 0 = 12 chia hết cho 3 nhưng không chia hết cho 9 nên các số cần tìm là 840; 480; 408; 804.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Có bao nhiêu cặp số a; b sao cho số 52ab¯ chia hết cho 9 và chia cho 5 dư 2.\nA. 4 \nB. 1\nC. 2 \nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì 52ab¯ chia cho 5 dư 2 nên bϵ{2; 7}\n+ Xét b = 2 ta có 52ab¯⁝9 ⇒ 5 + 2 + a + 2 = (9 + a)⁝9\nsuy ra a ϵ{0; 9}\n+ Xét b = 7 ta có 52ab¯⁝9 ⇒ 5+2+a+7=(14+a)⁝9\n suy ra a ϵ{4}\nVậy a = 0; b = 2 hoặc a = 9; b = 2 hoặc a = 4; b = 7.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9. Tìm x ϵ N, biết x chia hết cho 3 và 360 < x < 370?\nA. 360; 366; 369\nB. 363; 366; 369\nC. 362; 364; 368\nD. 365; 369; 366",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n360 < x < 370: Các số từ 361 đến 369. Đó là 361; 362; 363; 364; 365; 366; 367; 368; 369\nTrong các số trên chỉ có số 363; 366; 369 là chia hết cho 3 (Tính tổng các chữ số).\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Số A=abcd¯−a+b+c+d chia hết cho số nào dưới đây?\nA. 2 \nB. 5\nC. 9\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có A=abcd¯−a+b+c+d\n= 1000a + 100b+ 10c + d − (a + b + c + d)\n= 999a + 99b + 9c + (a + b + c + d) − (a + b + c + d)\n= 999a + 99b + 9c\nMà 999⁝9; 99⁝9; 9⁝9 nên A⁝9.\nĐáp án cần chọn là: C"
+    }
+]

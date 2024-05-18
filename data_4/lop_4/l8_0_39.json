@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1 : Chọn đáp án đúng nhất: a + b - 2 được gọi là: \nA.\tBiểu thức có chứa chữ\nB.\tBiểu thức có chứa một chữ\nC.\tBiểu thức có chứa hai chữ\nD.\tBiểu thức có chứa ba chữ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu thức a+b−2 bao gồm số, dấu tính dấu (+ và dấu -)  và hai chữ a,b.\nVậy a+b−2 được gọi là biểu thức có chứa hai chữ."
+    },
+    {
+        "problem": "Câu 2 : Trong các biểu thức sau, biểu thức nào là biểu thức có chứa ba chữ? \nA. 276+44-99\nB. a-b×5+256\nC. m×n:8\nD. a+b-c×7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 276+154−99 là biểu thức chỉ gồm các số.\na−b×5+256 và m×n:8 là các biểu thức có chứa hai chữ.\na+b−c×7 là biểu thức có chứa ba chữ."
+    },
+    {
+        "problem": "Câu 3 : Với a = 4637 và b = 8892 thì giá trị của biểu thức  a + b là: \nA.\t13529\nB.\t13519\nC.\t13429\nD.\t13419",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a=4637 và b=8892 thì a+b=4637+8892=13529\nVậy với  a=4637 và b=8892 thì giá trị của biểu thức a+b là 13529."
+    },
+    {
+        "problem": "Câu 5 :  Với a = 23658,b = 57291 và c = 33608 thì biểu thức a + b - c có giá trị là:\nA.\t47371\nB.\t47361\nC.\t47351\nD.\t47341",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a = 23658,b = 57291 và c = 33608 thì a+b−c=23658+57291−33608=80949−33608=47341\nVậy với a = 23658,b = 57291 và c = 33608 thì biểu thức a+b−c có giá trị là 47341."
+    },
+    {
+        "problem": "Câu 6 :  Nếu a = 4529,b = 3073 và c = 7 thì biểu thức  a + b : c - 357 có giá trị là 4601. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a=4529,b=3073 và c=7 thì:\na+b:c−357=4529+3073:7−357=4529+439−357=4968−357=4611\nVậy với a=4529,b=3073 và c=7 thì biểu thức a+b:c−357 có giá trị là 4611.\nMà 4611>4601.\nVây khẳng định đã cho là sai.\nChú ý\nHọc sinh có thể thực hiện sai thứ tự thực hiện phép tính, tính từ trái sang phải, \ntừ đó dẫn đến tính sai giá trị của biểu thức đã cho."
+    },
+    {
+        "problem": "Câu 10 : Cho hai biểu thức: P = 268 + 57 x m - 1659:n và  \nQ = (1085 - 35 x n):m + 4 x h. \nSo sánh giá trị của 2 biểu thức P và Q biết m = 8, n = 7, h = 58.\nA.\tP > Q\nB.\tP = Q\nC.\tP < Q",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Haylamdo biên soạn và sưu tầm m=8,n=7,h=58 thì:\nP=268+57×m−1659:n\n=268+57×8−1659:7\n=268+456−237\n=724−237\n=487\nQ=(1085−35×n):m+4×h\n=(1085−35×7):8+4×58\n=(1085−245):8+232\n=840:8+232\n=105+232\n\t=337\nMà 487>337 nên P>Q.\nVậy với m=8,n=7,h=58 thì P>Q.\nChú ý\nHọc sinh cần nhớ thứ tự thực hiện phép tính, từ đó tính đúng giá trị của P và Q ."
+    },
+    {
+        "problem": "Câu 12 : Cho biểu thức P = a + a + a + a + a + a + 1010 + b + b + b + b + b + b - 2018. Giá trị của biểu thức P với a + b = 468 là: \nA.\t1332\nB.\t1800\nC.\t1900\nD.\t3816",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \nP=a+a+a+a+a+a+1010+b+b+b+b+b+b−2018\nP=(a+a+a+a+a+a)+(b+b+b+b+b+b)+1010−2018\nP=a×6+b×6+1010−2018\nP=(a+b)×6+1010−2018\nThay a+b=468 ta có:\nP=468×6+1010−2018\n=2808+1010−2018\n=3818−2018\n=1800\nVậy giá trị của biểu thức P với a+b=468 là 1800."
+    },
+    {
+        "problem": "Câu 13 : Một hình chữ nhật có chiều dài là a, chiều rộng là b (a và b cùng đơn vị đo).\nCông thức tính chu vi của hình chữ nhật đó là:\n \nA. a+b×2\nB. (a+b)×2\nC. a×2+b\t\nD. a+b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính chu vi hình chữ nhật ta lấy tổng của chiều dài và chiều rộng rồi nhân với 2.\nVậy hình chữ nhật có chiều dài là a, chiều rộng là b (a và b cùng đơn vị đo) \nthì công thức tính chu vi của hình chữ nhật đó là:      \n                                (a+b)×2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 14 : Một hình chữ nhật có chiều dài là a, chiều rộng là b (a và b cùng đơn vị đo).\nNếu a = 275cm và b = 168cm thì chu vi hình chữ nhật đó là:\n \nA.\t443cm\nB.\t718cm\nC.\t611cm\nD.\t886cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình chữ nhật có chiều dài là a, chiều rộng là b (a và b cùng đơn vị đo) \nthì công thức tính chu vi của hình chữ nhật đó là:  (a+b)×2.\nHaylamdo biên soạn và sưu tầm a=275cm và b=168cm thì (a+b)×2=(275+168)×2=886(cm)\nDo đó chu vi hình chữ nhật đó là 886cm.\nĐáp án cần chọn là: D"
+    }
+]

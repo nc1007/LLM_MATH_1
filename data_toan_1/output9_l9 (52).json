@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Tìm số đối của các số nguyên sau: \\( - 5; - 10;4; - 4;0; - 100;2021\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Số đối của a là -a\nSố đối của một số nguyên dương là số nguyên âm\nSố đối của số nguyên âm là số nguyên dương\nSố đối của 0 là 0.\n\nLời giải chi tiết\nSố đối của \\( - 5\\) là 5\nSố đối của \\( - 10\\)là 10\nSố đối của 4 là \\( - 4\\)\nSố đối của \\( - 4\\) là 4\nSố đối của 0 là 0\nSố đối của \\( - 100\\) là 100\nSố đối của 2021 là \\( - 2021\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nhiệt độ trung bình trong tháng Một tại hai địa điểm: Vostok (Vô-xtốc) và Ottawa (Ốt –ta- oa) lần lượt là \\( - 31^\\circ C\\) và \\( - 7^\\circ C\\). Theo em, trong tháng Một, nơi nào lạnh hơn?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh hai số âm và kết luận.\nLời giải chi tiết\nVì 31 > 7 nên (-31) < (-7)\nỞ Vô-xtốc lạnh hơn vì nhiệt độ ở đó thấp hơn."
+    },
+    {
+        "problem": "So sánh các số nguyên sau:\na) \\( - 10\\) và \\( - 9\\)\nb) \\(2\\) và \\( - 15\\)\nc) 0 và \\( - 3\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân loại các số bài cho là số nguyên dương, số nguyên âm hay số 0.\nÁp dụng:\n- Mọi số nguyên dương đều lớn hơn số 0.\n- Mọi số nguyên âm đều nhỏ hơn số 0.\n- Mọi số nguyên âm đều nhỏ hơn bất kì số nguyên dương nào.\n- Với hai số nguyên âm số nào có số đối lớn hơn thì số đó nhỏ hơn.\nLời giải chi tiết\na) \\( - 10\\) và \\( - 9\\) là các số nguyên âm.\nSố đối của \\( - 10\\) là 10\nSố đối của \\( - 9\\) là 9.\nDo \\(10 > 9\\) nên \\( - 10 <  - 9\\).\nb) \\(2\\) là số nguyên dương và \\( - 15\\) là số nguyên âm nên \\(2 >  - 15\\)\nc) \\( - 3\\) là số nguyên âm nên \\( - 3\\) luôn nhỏ hơn 0 \\(\\left( { - 3 < 0} \\right)\\)"
+    },
+    {
+        "problem": "Cho ba số nguyên a, b, c và biết:\n\\(a > 2;b <  - 7; - 1 < c < 1\\).\nHỏi trong các số nói trên, số nào là số nguyên dương, số nào là số nguyên âm và số nào bằng 0?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu diễn các số trên trục số.\nSố nào lớn hơn thì điểm biểu diễn số đó nằm bên phải số còn lại. Số nào nhỏ hơn thì điểm biểu diễn số đó nằm bên trái số còn lại.\nChỉ có duy nhất một số nguyên là số 0 là số nằm giữa -1 và 1.\nLời giải chi tiết\n\\(a > 2\\), mà \\(2 > 0\\) nên \\(a >0\\). Vậy \\(a > 0\\) và là số nguyên dương.\n\\(b <  - 7\\), mà \\(-7 < 0\\) nên \\(b<0\\). Vậy \\(b < 0\\) và là số nguyên âm.\n\\( - 1 < c < 1\\)  nên số c là số nằm giữa  hai số -1 và 1. Mà chỉ có số 0 là số nguyên nằm giữa 2 số này nên c phải là số 0."
+    },
+    {
+        "problem": "Sắp xếp các số \\( - 5;4; - 2;0;2\\) theo thứ tự tăng dần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân loại các số bài cho là số nguyên dương, số nguyên âm hay số 0.\n+ Sắp xếp các số nguyên âm\n+ Sắp xếp các số nguyên dương.\nChú ý: Số nguyên âm luôn nhỏ hơn số nguyên dương.\nLời giải chi tiết\nCác số nguyên âm là: \\( - 5; - 2\\).\nDo \\(5 > 2 \\Rightarrow  - 5 <  - 2\\).\nTa có: \\(-5 < -2 < 0\\).\nCác số nguyên dương là: \\(4; 2\\).\nCó \\(0<2<4\\).\nTa được: \\(-5<-2<0<2<4\\).\nVậy sắp xếp các số theo thứ tự tăng dần là: \\( - 5; - 2;0;2;4\\)."
+    },
+    {
+        "problem": "So sánh các cặp số sau:\na) 6 và 5;           b) \\( - 5\\) và 0;\nc) \\( - 6\\) và 5;         d) \\( - 8\\) và \\( - 6\\);\ne) \\(3\\) và \\( - 10\\);      g) \\( - 2\\) và \\( - 5\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân loại các số bài cho là số nguyên dương, số nguyên âm hay số 0.\nÁp dụng:\n- Mọi số nguyên dương đều lớn hơn số 0.\n- Mọi số nguyên âm đều nhỏ hơn số 0.\n- Mọi số nguyên âm đều nhỏ hơn bất kì số nguyên dương nào.\n- Với hai số nguyên âm số nào có số đối lớn hơn thì số đó nhỏ hơn.\nLời giải chi tiết\na) \\(6 > 5\\)\nb) \\( - 5\\) là số nguyên âm nên \\( - 5 < 0\\)\nc) \\( - 6\\) là số nguyên âm, 5 là số nguyên dương nên \\( - 6 < 5\\)\nd) \\( - 8\\) và \\( - 6\\) là các số nguyên âm và có số đối lần lượt là 8 và 6.\n\\(8 > 6 \\Rightarrow  - 8 <  - 6\\)\ne) 3 là số nguyên dương, \\( - 10\\) là số nguyên âm nên \\(3 >  - 10\\)\ng) \\( - 2\\) và \\( - 5\\) là các số nguyên âm có số đối lần lượt là 2 và 5.\n\\(2 < 5 \\Rightarrow  - 2 >  - 5\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tìm số đối của các số nguyên: \\(5; - 4; - 1;0;10; - 2021\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số đối của a là -a\nSố đối của một số nguyên dương là số nguyên âm\nSố đối của số nguyên âm là số nguyên dương\nSố đối của 0 là 0.\nLời giải chi tiết\nSố đối của các số nguyên: \\(5; - 4; - 1;0;10; - 2021\\) lần lượt là \\( - 5;4;1;0; - 10;2021\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy liệt kê các phần tử của mỗi tập hợp sau:\na) \\(A = \\left\\{ {a \\in \\mathbb{Z}| - 4 < a <  - 1} \\right\\}\\)\nb) \\(B = \\left\\{ {b \\in \\mathbb{Z}| - 2 < b < 3} \\right\\}\\)\nc) \\(C = \\left\\{ {c \\in \\mathbb{Z}| - 3 < c < 0} \\right\\}\\)\nd) \\(A = \\left\\{ {d \\in \\mathbb{Z}| - 1 < d < 6} \\right\\}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vẽ trục số rồi tìm các số nguyên thỏa mãn các câu a, b, c, d.\nX < Y < Z nghĩa là Y là số nằm giữa X và Z trên trục số.\nLời giải chi tiết\na) \\(A = \\left\\{ {a \\in \\mathbb{Z}| - 4 < a <  - 1} \\right\\}\\)\nA là tập hợp các số nguyên a thỏa mãn \\( - 4 < a <  - 1\\).\n\\( - 4 < a <  - 1\\) có nghĩa là: a là số nguyên nằm giữa \\( - 4\\) và \\( - 1\\). Có các số \\( - 3; - 2\\).\nVậy \\(A = \\left\\{ { - 3; - 2} \\right\\}\\)\nb) \\(B = \\left\\{ {b \\in \\mathbb{Z}| - 2 < b < 3} \\right\\}\\)\nB là tập hợp các số nguyên b thỏa mãn \\( - 2 < b < 3\\).\n\\( - 2 < b < 3\\) có nghĩa là: b là số nguyên nằm giữa \\( - 2\\) và \\(3\\). Có các số \\( - 1;0;1;2\\).\nVậy \\(B = \\left\\{ { - 1;0;1;2} \\right\\}\\)\nc) \\(C = \\left\\{ {c \\in \\mathbb{Z}| - 3 < c < 0} \\right\\}\\)\nC  là tập hợp các số nguyên c thỏa mãn \\( - 3 < c < 0\\).\n\\( - 3 < c < 0\\) có nghĩa là: c là số nguyên nằm giữa \\( - 3\\) và 0. Có các số \\( - 2; - 1\\).\nVậy \\(C = \\left\\{ { - 2; - 1} \\right\\}\\)\nd) \\(D = \\left\\{ {d \\in \\mathbb{Z}| - 1 < d < 6} \\right\\}\\)\nD là tập hợp các số nguyên d thỏa mãn \\( - 1 < d < 6\\).\n\\( - 1 < d < 6\\) có nghĩa là: b là số nguyên nằm giữa \\( - 1\\) và 6. Có các số \\(0;1;2;3;4;5\\).\nVậy \\(D = \\left\\{ {0;1;2;3;4;5} \\right\\}\\)"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) 4+7\nb) \\(\\left( { - 4} \\right) + \\left( { - 7} \\right)\\)\nc) \\(\\left( { - 99} \\right) + \\left( { - 11} \\right)\\)\nd) \\(\\left( { + 99} \\right) + \\left( { + 11} \\right)\\)\ne) \\(\\left( { - 65} \\right) + \\left( { - 35} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Xác định dấu của hai số hạng trong phép cộng.\n- Muốn cộng hai số nguyên dương, ta cộng chúng như cộng hai số tự nhiên.\n- Muốn cộng hai số nguyên âm, ta cộng hai số đối của chúng rồi thêm dấu trừ đằng trước kết quả.\nLời giải chi tiết\na) \\(4+7=11\\)\nb) \\(\\left( { - 4} \\right)\\) và \\(\\left( { - 7} \\right)\\) là hai số nguyên âm có số đối lần lượt là 4 và 7 nên \\(\\left( { - 4} \\right) + \\left( { - 7} \\right) =  - \\left( {4 + 7} \\right) =  - 11\\).\nc) \\(\\left( { - 99} \\right)\\) có số đối là 99\n\\(\\left( { - 11} \\right)\\) có số đối là 11.\nVậy \\(\\left( { - 99} \\right) + \\left( { - 11} \\right) =  - \\left( {99 + 11} \\right) =  - 110\\)\nd) \\(\\left( { + 99} \\right) + \\left( { + 11} \\right) = 99 + 11 = 110\\)\ne) \\(\\left( { - 65} \\right) + \\left( { - 35} \\right) =  - \\left( {65 + 35} \\right) =  - 100\\)"
+    },
+    {
+        "problem": "Bác Hà là khách quen của cửa hàng tạp hóa nhà bác Lan nên có thể mua hàng trước, trả tiền sau. Hôm qua bác Lan đã cho bác Hà nợ 80 nghìn đồng, hôm nay bác Hà lại muốn nợ 40 nghìn đồng nữa. Em hãy dùng số nguyên để giúp bác Lan ghi vào sổ số tiền bác Hà còn nợ bác Lan.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền nợ là số nguyên âm.\nGhi lại số tiền bác Hà nợ hôm qua và hôm nay bằng số nguyên.\nSố tiền bác Hà còn nợ bác Lan là tổng số tiền nợ của hai ngày.\nLời giải chi tiết\nHôm qua: \\(\\left( { - 80} \\right)\\)\nHôm nay: \\(\\left( { - 40} \\right)\\)\nTổng số tiền nợ hai ngày là \\(\\left( { - 80} \\right) + \\left( { - 40} \\right) =  - \\left( {80 + 40} \\right) =  - 120\\)\nLoigiaihay.com"
+    }
+]

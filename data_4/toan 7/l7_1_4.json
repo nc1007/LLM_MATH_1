@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "B. không liên tiếp mãi;\nC. liên tiếp mãi;\nD. Không có đáp án đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTính chất của các số thập phân vô hạn tuần hoàn là: trong phần thập phân, bắt đầu từ một hàng nào đó, có một chữ số hay một cụm chữ số liền nhau xuất hiện liên tiếp mãi."
+    },
+    {
+        "problem": "Câu 2. Dạng viết gọn của 0,2333… là:\nA. 0,(23);\nB. 0,(233);\nC. 0,(2333);\nD. 0,2(3).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa thấy trong hàng thập phân của số 0,2333… có chữ số 3 xuất hiện liên tiếp mãi bắt đầu từ hàng trăm nên số 3 là chu kì của số thập phân vô hạn tuần hoàn 0,2333… và số thập phân đó được viết gọn là 0,2(3).\nVậy 0,2333 = 0,2(3)."
+    },
+    {
+        "problem": "Câu 3. Chọn phát biểu đúng:\nA. Thương của 10 chia 3 là một số thâp phân hữu hạn;\nB. Thương của 4 chia 3 là một số thập phân hữu hạn;\nC. Thương của 63 chia 15 là một số thập phân vô hạn tuần hoàn;\nD. Thương của 11 chia 18 là một số thập phân vô hạn tuần hoàn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nSử dụng máy tính cầm tay thực hiện các phép chia;\nTa có: 10 : 3 = 3.333… = 3,(3) là số thập phân vô hạn tuần hoàn; suy ra A sai; \n4 : 3 = 1,333… = 1,(3) là số thập phân vô hạn tuần hoàn; suy ra B sai;\n63 : 15 = 4,2 là số thập phân hữu hạn; suy ra C sai; \n11 : 18 = 0,6111… = 0,6(1) là số thập phân vô hạn tuần hoàn; suy ra D đúng."
+    },
+    {
+        "problem": "Câu 4. Phân số tối giản của số thập phân hữu hạn 7,4 được viết là:\nA.\\frac{37}{5}; \nB.\\frac{32}{5}; \nC.\\frac{74}{10}; \nD.\\frac{22}{5}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: 7,4\\frac{74}{10}\\frac{32}{5}. \nVậy phân số tối giản của số thập phân hữu hạn 7,4 được viết là: \\frac{32}{5}."
+    },
+    {
+        "problem": "Câu 5. Hoàn thành nhận xét sau: Mỗi số hữu tỉ được biểu diễn bởi ….\nA. Một số thập phân hữu hạn và một số thập phân vô hạn tuần hoàn;\nB. Một số thập phân hữu hạn;\nC. Một số thập phân hữu hạn hoặc vô hạn tuần hoàn;\nD. Một số thập phân vô hạn tuần hoàn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nMỗi số hữu tỉ được biểu diễn bởi một số thập phân hữu hạn hoặc vô hạn tuần hoàn."
+    },
+    {
+        "problem": "Câu 6. Tìm x, biết: 3.x\\frac{−}{5} \nA. x = \\frac{2}{3}; \nB. x = 1,3;\nC. x = 0,(3);\nD. x = 1,(3).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTa có: 3x\\frac{−}{5} \n3x\\frac{−}{5}\\frac{1}{5}\n3x\\frac{−}{5}\\frac{5}{1}\n3 . x + (− 3) = 1\n3 . x = 1 – (− 3) \n3 . x = 1 + 3\n3 . x = 4\nx\\frac{4}{3}...\nVậy x = 1,(3)."
+    },
+    {
+        "problem": "Câu 7. Chu kì của số thập phân vô hạn tuần hoàn 3,325555… là:\nA. Số 32;\nB. Số 5;\nC. Số 325;\nD. Số 3255.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTrong phần thập phân của số 3,325555…, chữ số 5 xuất hiện liên tiếp mãi bắt đầu từ hàng nghìn nên số 5 gọi là chu kì của số thập phân vô hạn tuần hoàn 3,325555… Có thể viết gọn là 3,32(5)."
+    },
+    {
+        "problem": "Câu 8. Chọn đáp án sai:\nA. 2,32565656… = 2,32(56);\nB. 1,2422 là số thập phân hữu hạn;\nC. 0,2412121212… = 0,241(21);\nD.\\frac{7}{3} = 2,(3).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n2,32565656… = 2,32(56) \nPhương án A là phát biểu đúng do trong phần thập phân có cụm chữ số 56 xuất hiện liên tiếp mãi bắt đầu từ hàng nghìn;\n1,2422 là số thập phân hữu hạn.\nPhương án B là phát biểu đúng do chỉ gồm hữu hạn chữ số sau dấu “,”;\n0,2412121212… \nPhương án C là phát biểu sai do trong phần thập có cụm chữ số 12 xuất hiện liên tiếp mãi bắt đầu từ hàng nghìn;\n \\frac{7}{3} = 2,(3)\nPhương án D là phát biểu đúng do \\frac{7}{3}..."
+    },
+    {
+        "problem": "Câu 9. Cho dãy số sau:\\frac{1}{3},\\frac{6}{5},\\frac{2}{9},\\frac{3}{4},\\frac{2}{5} . Có bao nhiêu số viết được dưới dạng số thập phân hữu hạn?\nA. 1 số;\nB. 2 số;\nC. 3 số;\nD. 5 số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: \\frac{1}{3}... là số thập phân vô hạn tuần hoàn;\n \\frac{6}{5} là số thập phân hữu hạn;\n \\frac{2}{9}... là số thập phân vô hạn tuần hoàn;\n \\frac{3}{4} là số thập phân hữu hạn;\n \\frac{2}{5} là số thập phân hữu hạn."
+    },
+    {
+        "problem": "Câu 10. Cho một số hữu tỉ được viết dưới dạng phân số tối giản là (a, b ∈ℤ ; b > 0). Chọn phát biểu đúng?\nA. Số hữu tỉ này mà mẫu không có ước nguyên tố khác 2 và 5 thì viết được dưới dạng số thập phân hữu hạn;\nB. Số hữu tỉ này mà mẫu có ước nguyên tố khác 2 và 5 thì viết được dưới dạng số thập phân hữu hạn;\nC. Số hữu tỉ này mà mẫu không có ước nguyên tố khác 2 và 3 thì viết được dưới dạng số thập phân hữu hạn;\nD. Số hữu tỉ này mà mẫu có ước nguyên tố khác 2 và 3 thì viết được dưới dạng số thập phân hữu hạn;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nMột phân số tối giản với mẫu dương mà mẫu không có ước nguyên tố khác 2 và 5 thì viết được dưới dạng số thập phân hữu hạn."
+    },
+    {
+        "problem": "Câu 11. Số thập phân 0,005 biểu diễn dưới dạng phân số tối giản nào?\nA. \\frac{1}{100}; \nB.\\frac{3}{200}; \nC.\\frac{1}{200}; \nD.\\frac{3}{100}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có: 0,005\\frac{5}{1000}\\frac{1}{200}. \nVậy số thập phân 0,005 biểu diễn dưới dạng phân số tối giản là \\frac{1}{200}."
+    },
+    {
+        "problem": "Câu 12. Số 0,(56) là dạng thập phân của phân số nào?\nA. \\frac{5}{99}; \nB. \\frac{56}{99}; \nC. \\frac{56}{999};\nD. \\frac{56}{100}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: \\frac{1}{99} ;\n0,(56) = 0,(01) . 56 = \\frac{1}{99} . 56 = \\frac{56}{99}."
+    },
+    {
+        "problem": "Câu 13. Khi số thập phân vô hạn tuần hoàn 0,(47) được viết dưới dạng phân số tối giản thì tử và mẫu hơn kém nhau bao nhiêu đơn vị?\nA. Mẫu nhỏ hơn tử 52 đơn vị;\nB. Mẫu nhỏ hơn tử 49 đơn vị;\nC. Mẫu lớn hơn tử 49 đơn vị;\nD. Mẫu nhỏ hơn tử 52 đơn vị.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: \\frac{1}{99} ;\n0.(47) = 0,(01) . 47 = 1 − 0,(99) \n= 1 − \\frac{99}{100} = \\frac{1}{99}\\frac{47}{99}; \nMẫu lớn hơn tử 99 – 47 = 52 đơn vị."
+    },
+    {
+        "problem": "Câu 14. So sánh 0,5(25) và 0,(52).\nA. 0, 5(25) > 0,(52);\nB. 0,5(25) = 0,(52);\nC. 0,5(25) < 0,(52);\nD. 0,5(25) 0,(52).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa xét hiệu: 0,5(25) – 0,(52) = 0,52525252… − 0,52525252… = 0;\nVậy 0,5(25) = 0,(52)."
+    },
+    {
+        "problem": "Câu 15. Biết m là một số thập phân vô hạn tuần hoàn và 2,347923 < m < 2,4452347. Tìm m?\nA. m = 2,(3);\nB. m = 2,(34);\nC. m = 2,(4);\nD. m = 2,(445).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có: 2(3) = 2,333… < 2,347923 do đó m = 2,(3) là sai.\n2,(34) = 2,343434… < 2,347923 do đó m = 2,(34) là sai.\n2,347923 < 2,444… < 2,4452347 do đó m = 2,(4) là đúng.\n2,445445445… > 2,4452347 do đó m = 2,(445) là sai.\nVậy m = 2,(4)."
+    }
+]

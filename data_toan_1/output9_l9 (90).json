@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Hãy thu thập dữ liệu về ngày, tháng, năm sinh của các bạn trong lớp và thống kê số bạn có cùng tháng sinh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thu thập ngày, tháng, năm sinh của các bạn trong lớp và phân loại thành các nhóm có cùng tháng sinh.\nLời giải chi tiết\nSố học sinh có cùng tháng sinh trong lớp có 46 học sinh trong bảng sau\nTháng\nSố bạn có ngày sinh nhật\n1\n3\n2\n4\n3\n4\n4\n2\n5\n6\n6\n4\n7\n3\n8\n4\n9\n7\n10\n4\n11\n2\n12\n3\nLời giải hay"
+    },
+    {
+        "problem": "Hãy thu thập, phân loại dữ liệu lấy ở địa phương em theo những tiêu chí mà em quan tâm (chẳng hạn nghề nghiệp của người dân, số người ở mỗi hộ gia đình,…)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chọn tiêu chí mà em quan tâm rồi thu thập dữ liệu và phân loại\nLời giải chi tiết\nTiêu chí: Số lượng người con ở mỗi hộ gia đình trong tổ dân phố:\nSố lượng người con\nSố hộ dân\n0\n2\n1\n10\n2\n18\n3\n6\n4\n3\n5\n1"
+    },
+    {
+        "problem": "Sau khi kiểm tra sức khỏe, giáo viên yêu cầu mỗi học sinh lớp 6B thống kê số đo chiều cao của các bạn trong cùng tổ. Bạn Châu liệt kê số đo chiều cao( theo đơn vị cm) của các bạn trong tổ như sau:\n140, 150, 140, 151, 142, 252, 154, 146, 138, 154\na)Hãy nêu đối tượng thống kê và tiêu chí thống kê\nb)Dãy số liệu bạn Châu liệt kê có hợp lí không? Vì sao?\nc)Số đo chiều cao trung bình của bốn bạn thấp nhất trong cùng tổ với bạn Châu là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào số liệu có phù hợp với thực tế không để kết luận dãy số liệu có hợp lí không\nCông thức tính số trung bình cộng\nLời giải chi tiết\na)Đối tượng thống kê: Các bạn trong tổ\nTiêu chí thống kê: Chiều cao các bạn trong tổ\nb)Dãy số liệu không hợp lí vì theo số liệu trong dãy, có 1 bạn cao 252 cm = 2,52 m không hợp lí\nc)Chiều cao của 4 bạn thấp nhất trong tổ là:\n138, 140, 140, 142.\nSố đo chiều cao trung bình của bốn bạn thấp nhất trong cùng tổ với bạn Châu là:\n(138+ 140 +140 + 142):4= 140 (cm)\nLời giải hay"
+    },
+    {
+        "problem": "Một hộp có 1 quả bóng xanh và 1 quả bóng đỏ; các quả bóng có kích thước và khối lượng như nhau. Lấy ngẫu nhiên một quả bóng trong hộp.\nNhững kết quả nào có thể xảy ra?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có 2 kết quả có thể xảy ra\nLời giải chi tiết\nCó 2 kết quả có thể xảy ra:\n*Quả bóng lấy ra là màu xanh\n* Quả bóng lấy ra là màu đỏ\nLời giải hay"
+    }
+]

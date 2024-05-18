@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Cho hàm số bậc nhất y = (m – 2)x + 3. Tìm các giá trị của m để hàm số:\na) Đồng biến\nb) Nghịch biến",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức : Hàm số bậc nhất y = ax + b xác định với mọi giá trị của x thuộc R và có tính chất sau:\na) Đồng biến trên R khi a > 0\nb) Nghịch biến trên R khi a < 0\nLời giải chi tiết\na) Hàm số: \\(y = (m - 2)x + 3\\) đồng biến khi \\( m-2>0\\Leftrightarrow m>2\\)\nVậy \\(m>2\\) thì hàm số đã cho đồng biến trên \\(\\mathbb{R}\\)\nb)  Hàm số: \\(y = (m - 2)x + 3\\) nghịch biến khi \\( m-2<0\\Leftrightarrow m<2\\)\nVậy \\(m<2\\) thì hàm số đã cho nghịch biến trên \\(\\mathbb{R}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một hình chữ nhật có các kích thước là 20cm và 30cm. Người ta bớt mỗi kích thước của nó đi x (cm) được hình chữ nhật mới có chu vi là y (cm). Hãy lập công thức tính y theo x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Biểu diễn chiều dài và chiều rộng của hình chữ nhật khi giảm đi x (cm)\n- Viết công thức tính chu vi hình chữ nhật rồi biến đổi để được công thức tính y theo x.\nLời giải chi tiết\nCác kích thước của hình chữ nhật mới là \\(20 - x\\) và \\(30 - x\\left( {cm} \\right)\\)\nCông thức tính chu vi y của hình chữ nhật mới là :\n\\(y = 2(20 - x + 30 - x) = 2(50 - 2x) = 100 - 4x\\)\nVậy \\(y = 100 - 4x\\) là công thức cần tìm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với những giá trị nào của m thì mỗi hàm số sau là hàm số bậc nhất ?\na) \\(y = \\sqrt {5 - m} \\left( {x - 1} \\right)\\).\nb) \\(y = \\dfrac{{m + 1}}{{m - 1}}x + 3,5\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức : Hàm số bậc nhất là hàm số được cho bởi công thức \\(y = ax + b,\\) trong đó \\(a, b\\) là các số cho trước và \\(a \\ne 0\\).\nLời giải chi tiết\na) Ta viết hàm số đã cho dưới dạng \\((y=ax+b)\\) quen thuộc: \\(y=\\sqrt{5 - m}(x - 1) \\)\\(=\\sqrt{5 - m}.x - \\sqrt{5 - m} \\)\nHàm số đã cho là hàm số bậc nhất khi các số đã cho \\((a,b)\\) phải xác định, và trong đó hệ số của \\(x\\) phải khác \\(0.\\)\n\\(\\sqrt{5 - m }\\) xác định và khác \\(0\\) khi \\(5-m> 0 \\Leftrightarrow m < 5\\)\nTrả lời: Khi \\(m<5\\) thì \\(y=\\sqrt{5 - m}(x - 1) \\) là hàm số bậc nhất.\nb) Hàm số \\(y = \\dfrac{{m + 1}}{{m - 1}}x + 3,5\\) là hàm số bậc nhất khi \\(\\dfrac{{m + 1}}{{m - 1}}\\) xác định và khác \\(0\\). Muốn vậy, ta phải có \\(m+1 \\ne 0 \\) và \\(m-1\\ne 0\\)\nSuy ra:\\(m\\ne 1\\) và \\(m \\ne -1\\). Viết gộp lại là \\(m \\ne  \\pm 1.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số bậc nhất \\(y = \\left( {1 - \\sqrt 5 } \\right)x - 1\\)\na) Hàm số trên là đồng biến hay nghịch biến ? Vì sao ?\nb) Tính giá trị của y khi \\(x = 1 + \\sqrt 5 \\)\nc) Tính giá trị của x khi \\(y = \\sqrt 5 \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Vận dụng kiến thức : Hàm số bậc nhất \\(y = ax + b\\) xác định với mọi giá trị của \\(x\\) thuộc \\(R\\) và đồng biến trên \\(R\\) khi \\(a > 0\\) và nghịch biến trên \\(R\\) khi \\(a < 0.\\)\nb) Để tính giá trị của hàm số \\(y = f\\left( x \\right)\\) tại \\(x = a\\) ta thay \\(x = a\\) vào \\(f\\left( x \\right)\\) và viết là \\(f\\left( a \\right)\\)\nc) Để tìm x khi \\(y = \\sqrt 5 \\) thì thay giá trị của y vào hàm số rồi giải bài toán tìm x.\nLời giải chi tiết\na) Hàm số bậc nhất \\(y = \\left( {1 - \\sqrt 5 } \\right)x - 1\\) là nghịch biến trên \\(\\mathbb{R}\\) vì \\(a = 1 - \\sqrt 5  < 0\\).\nb) Khi \\(x = 1 + \\sqrt 5 \\) thì giá trị của y là :\n\\(y = \\left( {1 + \\sqrt 5 } \\right)\\left( {1 - \\sqrt 5 } \\right) - 1 \\)\\(= 1 - 5 - 1 =  - 5\\)\nc) Khi \\(y = \\sqrt 5 \\) thì \\(\\left( {1 - \\sqrt 5 } \\right)x - 1 = \\sqrt 5 \\) \\( \\Rightarrow x = \\dfrac{{1 + \\sqrt 5 }}{{1 - \\sqrt 5 }} \\)\\( = \\dfrac{{\\left( {1 + \\sqrt 5 } \\right)\\left( {1 + \\sqrt 5 } \\right)}}{{\\left( {1 - \\sqrt 5 } \\right)\\left( {1 + \\sqrt 5 } \\right)}}\\)\\(= \\dfrac{{{{\\left( {1 + \\sqrt 5 } \\right)}^2}}}{{ - 4}} \\)\\(= \\dfrac{{6 + 2\\sqrt 5 }}{{ - 4}} =  - \\dfrac{{3 + \\sqrt 5 }}{2}\\)"
+    },
+    {
+        "problem": "Cho hai hàm số bậc nhất \\(y = mx + 3\\) và \\(y = \\left( {2m + 1} \\right)x - 5\\). Tìm giá trị của m để đồ thị của hai hàm số đã cho là:\na) Hai đường thẳng song song với nhau.\nb)  Hai đường thẳng cắt nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vận dụng kiến thức :\n+ Hàm số \\(y = ax + b\\) là hàm số bậc nhất khi \\(a \\ne 0\\)\n+ Hai đường thẳng \\(y = ax + b\\,\\,\\left( {a \\ne 0} \\right)\\) và \\(y = a'x + b'\\,\\,\\left( {a' \\ne 0} \\right)\\)\na) Song song với nhau khi \\(a = a'\\) và \\(b \\ne b'\\)\nb) Cắt nhau khi \\(a \\ne a'\\).\nLời giải chi tiết\nHai hàm số đã cho là hàm số bậc nhất khi :\n\\(m \\ne 0\\) và \\(2m + 1 \\ne 0\\)\n\\( \\Leftrightarrow m \\ne 0\\) và \\(m \\ne  - \\dfrac{1}{2}\\)    (1)\na) Hai đường thẳng đã cho song song với nhau khi \\(m = 2m + 1 \\Leftrightarrow m =  - 1\\)    (2)\nTừ các điều kiện (1) và (2) ta có kết luận :\nHai hàm số bậc nhất đã cho có đồ thị là hai đường thẳng song song với nhau khi \\(m =  - 1\\)\nb) Hai đường thẳng đã cho cắt nhau khi \\(m \\ne 2m + 1 \\Leftrightarrow m \\ne  - 1\\).        (3)\nTừ (1) và (3) ta có kết luận:\nHai hàm số đã cho là hai hàm số bậc nhất và có đồ thị là hai đường thẳng cắt nhau khi \\(m \\ne 0\\),\\(m \\ne  - \\dfrac{1}{2}\\) và \\(m \\ne  - 1\\) .\nLoigiaihay.com"
+    },
+    {
+        "problem": "Cho hàm số \\(y = ax + 3\\). Hãy xác định hệ số a trong mỗi trường hợp sau:\na) Đồ thị của hàm số song song với đường thẳng \\(y =  - 2x\\)\nb) Khi x = 2 thì hàm số có giá trị y = 7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Hai đường thẳng \\(y = ax + b\\,\\,\\left( {a \\ne 0} \\right)\\) và \\(y = a'x + b'\\,\\,\\left( {a' \\ne 0} \\right)\\) song song với nhau khi \\(a = a'\\) và \\(b \\ne b'\\).\nb) Thay giá trị \\(x = 2;y = 7\\) vào hàm số rồi tìm giá trị của a.\nLời giải chi tiết\na) Hệ số b và b’ của hai hàm số \\(y = ax + 3\\) và \\(y =  - 2x\\) đã khác nhau ( \\(b = 3\\) và \\(b' = 0\\) ), do đó, hai đường thẳng này song song với  nhau khi các hệ số a và a’ của x bằng nhau:\nVậy \\(a =  - 2\\).\nb) Theo giả thiết, khi x = 2 thì hàm số có giá trị y = 7, do đó ta có :\n\\(7 = a \\cdot 2 + 3 \\Leftrightarrow a = 2\\).\nLoigiaihay.com"
+    }
+]

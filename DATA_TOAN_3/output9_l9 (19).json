@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Phải chọn \\(a\\) và \\(b\\) như thế nào để phương trình \\(ax + by = c\\) xác định một hàm số bậc nhất của biến \\(x\\)?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Biến đổi phương trình \\(ax + by = c\\) về dạng một hàm số bậc nhất của biến \\(x\\) từ đó suy ra điều kiện của \\(a,b\\).\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}ax + by = c \\Leftrightarrow by = - ax + c\\\\ \\Rightarrow y = \\dfrac{{ - a}}{b}x + \\dfrac{c}{b}\\end{array}\\)\nĐể phương trình \\(ax + by = c\\) xác định một hàm số bậc nhất của biến \\(x\\) có dạng: \\(y = \\displaystyle - {a \\over b}x + {c \\over b}\\) thì \\(a \\ne 0\\) và \\(b \\ne 0\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giải thích vì sao khi \\(M\\left( {{x_0};{y_0}} \\right)\\) là giao điểm của hai đường thẳng \\(ax + by = c\\) và \\(a'x + b'y = c'\\) thì \\(\\left( {{x_0};{y_0}} \\right)\\) là nghiệm chung của hai phương trình ấy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Điểm \\(M({x_0};{y_0})\\) thuộc đường thẳng \\(ax+by=c\\)  \\( \\Leftrightarrow ax_0+by_0=c\\).\nLời giải chi tiết\nĐiểm \\(M\\left( {{x_0};{y_0}} \\right)\\) là giao điểm của hai đường thẳng \\(ax + by = c\\)  và \\(a'x + b'y = c'\\) nên \\(M\\) thuộc cả hai đường thẳng trên.\nVì điểm \\(M\\) thuộc đường thẳng \\(ax + by = c\\) nên tọa độ của nó thỏa mãn phương trình đường thẳng này, ta có: \\(a{x_0} + b{y_0} = c\\)\nVì \\(M\\) thuộc đường thẳng \\(a'x + b'y = c'\\) nên tọa độ của nó thỏa mãn phương trình đường thẳng này, ta có: \\(a'{x_0} + b'{y_0} = c'\\)\nVậy \\(\\left( {{x_0};{y_0}} \\right)\\) là nghiệm chung của hai phương trình \\(ax + by = c\\) và \\(a'x + b'y = c'\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hỏi bốn đường thẳng sau có đồng quy không:\n\\(\\eqalign{& \\left( {{d_1}} \\right):3x + 2y = 13 \\cr & \\left( {{d_2}} \\right):2x + 3y = 7 \\cr & \\left( {{d_3}} \\right):x - y = 6 \\cr & \\left( {{d_4}} \\right):5x - 0y = 25? \\cr} \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Tìm giao điểm \\(M\\) của hai đường thẳng bất kì:\nHoành độ giao điểm \\(M\\) của hai đường thẳng \\(y=ax+b\\) và \\(y=a'x+b'\\) là nghiệm của phương trình: \\(ax+b=a'x+b'\\).\nGiải phương trình trên ta tìm được \\(x\\). Thay giá trị của \\(x\\) vào phương trình \\(y=ax+b\\) hoặc \\(y=a'x+b'\\), ta tìm được tung độ giao điểm.\n- Nếu hai đường thẳng còn lại cùng đi qua điểm \\(M\\) thì 4 đường thẳng đã cho đồng quy tại điểm \\(M\\).\n- Đường thẳng \\(ax+by=c\\) đi qua điểm \\(M(x_0;y_0)\\) \\( \\Leftrightarrow ax_0+by_0=c\\).\nLời giải chi tiết\n- Ta có \\(\\left( {{d_2}} \\right):2x + 3y = 7 \\Leftrightarrow y= -\\dfrac{2}{3}x+\\dfrac{7}{3}\\)\n\\(\\left( {{d_3}} \\right):x - y = 6 \\Leftrightarrow y = x – 6\\)\nHoành độ giao điểm \\(M\\) của hai đường thẳng \\(\\left( {{d_2}} \\right)\\) và \\(\\left( {{d_3}} \\right)\\) là nghiệm của phương trình:\n\\(-\\dfrac{2}{3}x+\\dfrac{7}{3}=x-6 \\Leftrightarrow \\displaystyle  {5 \\over 3}x =\\dfrac{25}{3}  \\\\ \\Leftrightarrow x = 5\\)\nSuy ra tung độ giao điểm \\(M\\) là \\( y = 5-6=-1\\)\nVậy tọa độ giao điểm của hai đường thẳng \\(\\left( {{d_2}} \\right)\\) và \\(\\left( {{d_3}} \\right)\\) là \\( M(5;-1).\\)\n- Nếu \\(\\left( {{d_1}} \\right),\\left( {{d_4}} \\right)\\) cùng đi qua điểm \\(M(5; -1)\\) thì bốn đường thẳng đã cho đồng quy.\nThay \\(x=5;y=-1\\) vào phương trình đường thẳng \\(\\left( {{d_1}} \\right)\\) ta được:\n\\(3.5 + 2.\\left( { - 1} \\right) = 13  \\Leftrightarrow  13 = 13\\) (luôn đúng)\nDo đó \\(\\left( {{d_1}} \\right)\\)  đi qua \\(M (5; -1)\\).\nThay \\(x=5;y=-1\\) vào phương trình đường thẳng \\(\\left( {{d_4}} \\right)\\) ta được:\n\\(5.5-0.(-1) =25 \\Leftrightarrow  25 = 25\\) (luôn đúng)\nDo đó \\(\\left( {{d_4}} \\right)\\)  đi qua \\(M (5; -1)\\).)\nVậy bốn đường thẳng đã cho đồng quy tại \\(M (5; -1).\\)\nLoigiaihay.com"
+    }
+]

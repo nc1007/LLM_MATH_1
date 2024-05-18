@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Câu 1. Trong số 43 256 chữ số 3 nằm ở hàng nào?\nA. Hàng chục.\nB. Hàng trăm.\nC. Hàng nghìn.\nD. Hàng chục nghìn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trong số 43 256 số 3 nằm ở hàng nghìn.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Số La Mã IV biểu diễn cho số tự nhiên:\nA. 4.\nB. 5.\nC. 14.\nD. 9.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số La Mã IV biểu diễn cho số 4.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Nêu cách đọc số 123 875.\nA. Một hai ba nghìn tám bảy năm.\nB. Một trăm hai ba nghìn tám trăm bảy mươi lăm.\nC. Một trăm nghìn hai ba tám trăm bảy năm.\nC. Một trăm hai ba nghìn bảy trăm tám mươi lăm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Cách đọc số 123 875 là: Một trăm hai mươi ba nghìn tám trăm bảy mươi lăm.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Cho số 8 763. Số chục của số này là:\nA. 6.\nB. 63.\nC. 8 760.\nD. Đáp án khác.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trong số 8 763 số chục là 8 760\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Chữ số 7 trong số 7 110 385 có giá trị là bao nhiêu?\nA. 7 000 000.\nB. 7 000.\nC. 700.\nD. 7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Chữ số 7 trong số 7 110 385 nằm ở hàng triệu và có giá trị là 7 x 1000 000 = 7 000 000.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 6. Viết số 27 bằng số La Mã.\nA. XXVI.\nB. XXVII.\nC. XXVIII.\nD. XXIV.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Chữ số La Mã biểu diễn cho số 27 là XXVII.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 7. Trong các số sau: 11 191; 280 901; 12 009 020; 9 126 345. Số nào số 9 ở hàng nghìn.\nA. 11 191.\nB. 280 901.\nC. 12 009 020.\nD. 9 126 345.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n- Số 11 191, chữ số 9 nằm ở hàng chục.\n- Số 280 901, chữ số 9 nằm ở hàng trăm.\n- Số 12 009 020, chữ số 9 nằm ở hàng nghìn.\n- Số 9 126 345, chữ số 9 nằm ở hàng triệu.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 8. Hai mươi chín nghìn sáu trăm linh ba là số nào?\nA. 26 903.\nB. 29 603.\nC. 23 609.\nD. 20 603.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hai mươi chin nghìn sáu trăm linh ba là số: 29 603\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 9. Biểu diễn các chữ số La Mã: XXI, XXII, XIX bằng các số tự nhiên lần lượt là:\nA. 21; 22 và 19.\nB. 22; 21 và 19.\nC. 19; 21 và 22.\nD. 21; 19 và 22.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nXXI biểu diễn cho số 21;\nXXII biểu diễn cho số 22;\nXIX biểu diễn cho số 19.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 10. Cho số 23 473 872. Số triệu của số này là:\nA. 3\nB. 23 000 000\nC. 20 000 000\nD. 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số triệu của số 23 473 872 là 23 000 000.\nĐáp án: B"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Viết số 43 406 thành tổng giá trị các chữ số của nó.\nA. 43 406 = 4 + 3 + 4 + 0 + 6.\nB. 43 406 = 4x1 000 + 3x100 + 4x10 + 6.\nC. 43 406 = 4x10 000 + 3x1 000 + 4x100 + 0x10 + 6.\nD. 43 406 = 43x100 + 406.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nSố 43 406 được viết thành tổng giá trị các chữ số của nó là: \n43 406 = 4x10 000 + 3x1 000 + 4x100 + 0x10 + 6.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Một số tự nhiên có 6 chữ số được viết bởi ba chữ số 0 và ba chữ số 9 nằm xen kẽ nhau. Đó là số nào?\nA. 090 909.\nB. 909 909.\nC. 909 090.\nD. 909 009.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nSố tự nhiên có sáu chữ số từ ba số 0 và ba số 9.\nNếu số 0 nằm ở chữ số đầu tiên thì ta chỉ có số có 5 chữ số. Do đó số đầu tiên phải là số 9.\nVì 0 và 9 nằm xen kẽ nhau nên số cần viết là 909 090.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Một số được viết dưới dạng tộng các chữ số là: 8x10 000 + 9x100 + 2x10. Số đó là số nào?\nA. 89 020\nB. 89 200\nC. 80 902\nD. 80 920",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có 8x10 000 + 9x100 + 2x10 = 80 920.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Chỉ dùng bốn chữ số 0; 2; 3. Có tất cả bao nhiêu số tự nhiên có ba chữ số mà mỗi chữ số chỉ viết một lần.\nA. 2\nB. 4\nC. 6\nD. 8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì số 0 không thể năm ở hàng trăm nên chữ số hàng trăm chỉ có thể là 2 hoặc 3. Do đó ta có tất cả các số tự nhiên có ba chữ số được lập từ ba chữ số 0; 2 và 3 là\n203; 230; 302; 320.\nĐáp án: C"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Dùng các chữ số 0; 3; 5, viết một số tự nhiên có ba chữ số khác nhau mà chữ số 5 có giá trị 50.\nA. 350 \nB. 305\nC. 503\nD. 530",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì chữ số 5 có giá trị 50 nghĩa là chữ số 5 ở hàng chục.\nCòn chữ số hàng trăm không thể bằng 0 nên chữ số hàng trăm là chữ số 3.\nCòn lại chữ số hàng đơn vị là 0.\nVậy số cần tìm là 350.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Trong một cửa hàng bánh kẹo, người ta đóng gói kẹo thành các loại: mỗi gói có 10 cái kẹo; mỗi hộp có 10 gói; mỗi thùng có 10 hộp. Một người mua 9 thùng, 9 hộp và 9 gói kẹo. Hỏi người đó đã mua tất cả bao nhiêu cái kẹo?\nA. 9 999\nB. 9 090\nC. 9 009\nD. 9 990",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nMỗi thùng có số cái kẹo là: 10x10x10 = 1000.\nMỗi hộp có số kẹo là: 10x10 = 100.\nMột người mua 9 thùng, 9 hộp và 9 gói kẹo thì người đó đã mua được:\n9x1000 + 9x100 + 9x10 = 9 990 (cái kẹo).\nVậy người đó đã mua được tất cả 9 990 cái kẹo.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Bác Hoa đi chợ. Bác chỉ mang ba loại tiền: loại (có mệnh giá) 1 nghìn (1 000) đồng, loại 10 nghìn (10 000) đồng và loại 100 nghìn (100 000) đồng. Tổng số tiền bác phải trả là 492 nghìn đồng. Nếu mỗi loại tiền, bác mang theo không quá 9 tờ thì bác phải trả bao nhiêu tờ tiền mỗi loại, mà người bán không phải trả lại tiền thừa.\nA. 5 tờ 100 nghìn đồng, 9 tờ 10 nghìn đồng, 1 tờ 1 nghìn đồng.\nB. 5 tờ 100 nghìn đồng, 9 tờ 10 nghìn đồng, 2 tờ 1 nghìn đồng.\nC. 4 tờ 100 nghìn đồng, 9 tờ 10 nghìn đồng, 1 tờ 1 nghìn đồng.\nD. 4 tờ 100 nghìn đồng, 9 tờ 10 nghìn đồng, 2 tờ 1 nghìn đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTa có: 492 = 4.100 + 9.10 + 2.\nBác Hoa trả 4 tờ 100 nghìn đồng, 9 tờ 10 nghìn đồng và 2 tờ 1 nghìn thì người bán không phải trả lại tiền thừa.\nĐáp án: D"
+    }
+]

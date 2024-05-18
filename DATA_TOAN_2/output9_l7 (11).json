@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Tỉ lệ đói nghèo tính trên tổng số dân của Mỹ trong các năm từ 2015 đến 2019 được cho trong biểu đồ Hình 5.20\n\na) Cho biết xu thế của tỉ lệ đói nghèo tại Mỹ trong thời gian trên.\nb) Lập bảng thống kê biểu diễn số liệu biểu diễn trong biểu đồ.\nc) Năm 2019 dân số Mỹ là 328 triệu người (theo World Bank), tính số người đói nghèo ở Mỹ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ đoạn thẳng.\nBiểu đồ đi xuống cho thấy xu thế giảm theo thời gian.\nTìm m% của a, ta tính: \\(\\dfrac{m}{100}.a\\)\nLời giải chi tiết\na) Xu thế giảm theo thời gian.\nb) Bảng thống kê\nNăm\n2015\n2016\n2017\n2018\n2019\nTỉ lệ đói nghèo\n13,5%\n12,7%\n12,3%\n11,8%\n10,5%\nc) Số người nghèo đói ở Mỹ năm 2019 là:\n\\(\\dfrac{10,5}{100}.328 = 34,44\\) (triệu người)\nVậy số người đói nghèo ở Mỹ năm 2019 là: 34 440 000 người."
+    },
+    {
+        "problem": "Số trận động đất trên toàn cầu trong một số năm gần đây được cho trong bảng sau:\n\nVẽ biểu đồ đoạn thẳng biểu diễn số liệu trên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vẽ biểu đồ đoạn thẳng\nLời giải chi tiết\n"
+    },
+    {
+        "problem": "Một cuộc thăm dò ý kiến trên mạng Internet về việc không cho học sinh cấp THCS dùng điện thoại di động cho kết quả trong biểu đồ Hình 5.6\n\na) Cho biết biểu đồ gồm những thành phần nào?\nb) Lập bảng thống kê cho biết tỉ lệ phần trăm đồng ý, không đồng ý và không có ý kiến.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ hình quạt tròn.\nLời giải chi tiết\na) Các thành phần của biểu đồ gồm:\nTiêu đề: “ Không cho học sinh dùng điện thoại di động?”\nPhần hình tròn chia thành 3 hình quạt biểu diễn các tỉ lệ 40%, 45%, 15%. Phần chú giải cho biết các ý kiến Đồng ý, Không đồng ý, Không có ý kiến tương ứng với những hình quạt nào.\nb) Bảng thống kê:\nÝ kiến\nĐồng ý\nKhông đồng ý\nKhông ý kiến\nTỉ lệ\n40%\n45%\n15%"
+    },
+    {
+        "problem": "Để ước lượng chiều cao trung bình của học sinh khối 7, 1 nhóm nghiên cứu đã chọn ngẫu nhiên từ mỗi lớp ra 10 học sinh và đo chiều cao. Số liệu thu được có đảm bảo tính đại diện không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để đảm bảo tính đại diện cho toàn bộ đối tượng đang được quan tâm ta phải thu thập dữ liệu của các đối tượng một cách ngẫu nhiên.\nLời giải chi tiết\nSố liệu thu được đảm bảo tính đại diện vì các học sinh được chọn ra ngẫu nhiên."
+    },
+    {
+        "problem": "Cho biểu đồ hình 5.21\n\na) Lập bảng thống kê biểu diễn tỉ lệ mắc HIV theo vùng năm 2019.\nb) Năm 2019, thế giới có 1 700 ca mắc mới HIV. Số lượng mắc mới HIV của mỗi khu vực trên khoảng bao nhiêu người?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm m% của a, ta tính: \\(\\dfrac{m}{100}.a\\)\nLời giải chi tiết\na) Bảng thống kê\nKhu vực\nChâu Phi\nChâu Á\nThái Bình Dương\nCác khu vực khác\nTỉ lệ mắc mới HIV\n55,88%\n17,65%\n26,47%\n\nb) Số lượng mắc mới HIV của khu vực Châu Phi là:\n\\(\\dfrac{55,88}{100}.1700 \\approx 950\\) (người)\nSố lượng mắc mới HIV của khu vực Châu Á Thái Bình Dương là:\n\\(\\dfrac{17,65}{100}.1700 \\approx 300\\) (người)\nSố lượng mắc mới HIV của các khu vực khác là:\n\\(\\dfrac{26,47}{100}.1700 \\approx 450\\) (người)\nVậy số lượng người mắc mới HIV ở Châu Phi; Châu Á Thái Bình Dương; các khu vực khác lần lượt là: khoảng 950, 300 và 450."
+    },
+    {
+        "problem": "Cho 2 biểu đồ trong hình 5.16\n\nHai biểu đồ này có cùng biểu diễn một dãy số liệu? Giải thích.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc và ghi ra dãy số liệu mỗi biểu đồ biểu diễn và so sánh.\nLời giải chi tiết\nHai biểu đồ này biểu diễn cùng dãy một số liệu (Do số lượng tương ứng với mỗi năm là giống nhau)"
+    },
+    {
+        "problem": "Chỉ số BMI ở người Việt Nam trưởng thành được cho trong biểu đồ Hình 5.7.\n\na) Một người \\(BMI \\ge 23\\) BMI thì được coi là thừa cân. Tính tỉ lệ người Việt Nam trưởng thành bị thừa cân.\nb) Tính giá trị điền vào dấu “?” trong biểu đồ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Lấy tổng tỉ lệ người có BMI ở các mức từ 23 đến dưới 25, từ 25 đến dưới 30 và từ 30 đến dưới 35.\nb) Dựa vào tính chất cả hình tròn biểu diễn 100%.\nLời giải chi tiết\na) Tỉ lệ người Việt Nam trưởng thành bị thừa cân là:\n9,70+6,20+0,40=16,3(%)\nb) Ta có: 20,9+?+9,70+6,20+0,40=100\nDo đó, ? = 100 - (20,90+9,70+6,20+0,40) = 62,80(%)"
+    },
+    {
+        "problem": "Để xác định xem loại bánh nào được ưa thích, một cửa hàng bán bánh đã đánh số khách hàng và xác định loại bánh mà các vị khách thứ 5; 10; 15;…;500 đã mua khi đến cửa hàng. Trong số 100 người này, có 35 người mua bánh kem. Cửa hàng đã kết luận rằng có khoảng 35% khách hàng mua bánh kem. Kết luận này có hợp lí không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để đảm bảo tính đại diện cho toàn bộ đối tượng đang được quan tâm ta phải thu thập dữ liệu của các đối tượng một cách ngẫu nhiên.\nLời giải chi tiết\nKết luận này là hợp lí vì 100 hành khách được chọn ở các vị khách thứ 5; 10; 15; ...; 500 sẽ mua ngẫu nhiên các loại bánh khác nhau, do đó việc lựa chọn ở đây là ngẫu nhiên. Vậy 100 người khách này có tính đại diện cho toàn bộ khách hàng mua bánh ở cửa hàng. Do đó, kết luận của của hàng đưa ra là hợp lí."
+    },
+    {
+        "problem": "Một nghiên cứu đã đưa ra tỉ lệ học sinh cấp THCS nghiện điện thoại di động trong những năm gần đây như biểu đồ Hình 5.22.\n\na) Trục đứng biểu diễn đại lượng gì? Dữ liệu về đại lượng này thuộc loại nào?\nb) Năm 2021, một trường THCS có 1000 học sinh. Hãy ước lượng số học sinh nghiện điện thoại di động của trường.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm tỉ lệ học sinh nghiện điện thoại di động năm 2021 từ đó ước lượng số học sinh nghiện điện thoại trong 1000 học sinh của trường. Chú ý, tìm m% của a, ta tính: \\(\\dfrac{m}{100}.a\\)\nLời giải chi tiết\na) Trục đứng biểu diễn tỉ lệ học sinh THCS nghiện điện thoại di động.\nDữ liệu về đại lượng này thuộc loại số liệu.\nb) Năm 2021 có 15% học sinh THCS nghiện điện thoại di động.\nSố học sinh nghiện điện thoại di động của trường là:\n\\(\\dfrac{15}{100}.1000=150\\) (học sinh)"
+    },
+    {
+        "problem": "Cho biểu đồ trong hình 5.17\n\na) Trục đứng bên trái và trục đứng bên phải biểu diễn các đại lượng nào?\nb) Hai đường màu xanh và màu xám biểu diễn các số liệu nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ đoạn thẳng.\nLời giải chi tiết\na) Trục đứng bên trái biểu diễn chiều cao, đơn vị là xentimet. Trục đứng bên phải biểu diễn cân nặng, đơn vị là kilogam.\nb) Đường màu xanh biểu diễn cân nặng chuẩn của trẻ 1 – 10 tuổi. Đường màu xám biểu diễn chiều cao chuẩn của trẻ 1 – 10 tuổi."
+    },
+    {
+        "problem": "Cho biểu đồ Hình 5.8\n\na) Hãy cho biết thành phần nào sinh năng lượng nhiều nhất trong khẩu phần ăn của hộ gia đình vùng đồng bằng sông Cửu Long.\nb) Lập bảng thống kê biểu diễn số liệu trong biểu đồ này.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ hình quạt tròn.\nLời giải chi tiết\na) Glucid\nb) Bảng thống kê\nThành phần\nGlucid\nLipid\nProtein\nTỉ lệ\n63%\n20%\n17%"
+    },
+    {
+        "problem": "Để xác định xem người dân thường thích làm gì trong thời gian rảnh rỗi, một nhóm nghiên cứu đã phỏng vấn 200 phụ nữ thấy có 162 người nói rằng họ thích đi mua sắm. Nhóm nghiên cứu kết luận rằng đa phần người dân thích đi mua sắp trong thời gian rảnh rỗi. Kết luận này có hợp lí không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để đảm bảo tính đại diện cho toàn bộ đối tượng đang được quan tâm ta phải thu thập dữ liệu của các đối tượng một cách ngẫu nhiên.\nLời giải chi tiết\nKết luận này không hợp lí, vì kết luận cho người dân nhưng khi thu thập dữ liệu thì chỉ phỏng vấn phụ nữ."
+    },
+    {
+        "problem": "Cho biểu đồ hình 5.32\n\na) Các đường màu xanh, màu xám biểu diễn những dãy số liệu nào?\nb) Mỗi trục đứng bên trái, bên phải biểu diễn giá trị ứng với đường nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đọc biểu đồ đoạn thẳng.\nLời giải chi tiết\na) Đường màu xanh biểu diễn dãy số liệu tỉ lệ tái chế\nĐường màu xám biểu diễn số liệu tổng số chất thải thu hồi.\nb) Trục đứng bên trái biểu diễn giá trị tổng số chất thải thu hồi nên ứng với đường màu xám.\nTrục đứng bên phải biểu diễn giá trị tỉ lệ tái chế nên ứng với đường màu xanh."
+    }
+]

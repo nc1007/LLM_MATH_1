@@ -1,0 +1,152 @@
+[
+    {
+        "problem": "A. 30  cái kẹo\nB. 36  cái kẹo  \nC. 40  cái kẹo          \nD. 18 cái kẹo.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nKhánh cho Linh số kẹo là:\n45.\\frac{2}{3}=30 (cái kẹo)\nVậy Khánh cho Linh 30 cái kẹo.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Biết \\frac{3}{5} số học sinh giỏi của lớp 6A  là 12 học sinh. Hỏi lớp 6A  có bao nhiêu học sinh giỏi?\nA. 12 học sinh giỏi \nB. 15 học sinh giỏi \nC. 14 học sinh giỏi \nD. 20 học sinh giỏi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nLớp 6A có số học sinh giỏi là:\n12:\\frac{3}{5}=20 (học sinh giỏi)\nVậy lớp 6A có 20 học sinh giỏi.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Tìm chiều dài của một đoạn đường, biết rằng \\frac{4}{7} đoạn đường đó dài 40km.\nA. 75km          \nB. 48km   \nC. 70km\nD. 80km",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều dài đoạn đường đó là:\n40:\\frac{4}{7}=70km\nVậy chiều dài đoạn đường là 70km\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Có tất cả 840kg gạo gồm ba loại: \\frac{1}{6} số đó là gạo tám thơm, \\frac{3}{8} số đó là gạo nếp, còn lại là gạo tẻ. Tính số gạo tẻ.\nA. 390kg     \nB. 120kg         \nC. 270kg\nD. 385kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCó số gạo tám thơm là: \n 840.\\frac{1}{6}=140(kg)\nCó số gạo nếp là: 840.\\frac{3}{8}=315 (kg)\nCó số gạo tẻ là: 840 – 140 – 315 = 385(kg)\nVậy số gạo tẻ là 385kg\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Một hình chữ nhật có chiều dài là 20cm, chiều rộng bằng \\frac{2}{5} chiều dài. Tính diện tích hình chữ nhật đó.\nA. 80cm^{2} \nB. 45cm^{2}  \nC. 160cm^{2} \nD. 56cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều rộng hình chữ nhật là: 20.\\frac{2}{5}=8 (cm)\nDiện tích hình chữ nhật là: 20.8 = 160(cm^{2} )\nVậy diện tích hình chữ nhật là 160cm^{2} \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Một cửa hàng có hai thùng dầu. Biết \\frac{2}{3} số dầu ở thùng thứ nhất là 28 lít dầu, \\frac{4}{5}số dầu ở thùng thứ hai là 48 lít dầu. Hỏi cả hai thùng dầu có tất cả bao nhiêu lít dầu?\nA. 124(l)\nB. 102(l)   \nC. 92(l) \nD. 100(l)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố dầu ở thùng thứ nhất là: 28:\\frac{2}{3}=42l\nSố dầu ở thùng thứ hai là: 48:\\frac{4}{5}=60l\nCả hai thùng có số lít dầu là: 42 + 60 = 102(l)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 7. Trong rổ có 50 quả cam. Số táo bằng \\frac{9}{10} số cam và số cam bằng \\frac{10}{11} số xoài. Hỏi có tất cả bao nhiêu quả cam, táo và xoài?\nA. 150 quả\nB. 100 quả   \nC. 145 quả \nD. 140 quả",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong rổ có số quả táo là: 50.\\frac{9}{10}=45 (quả)\nTrong rổ có số quả xoài là: 50:\\frac{10}{11}=55 (quả)\nTrong rổ có tất cả số quả táo, cam và xoài là: 50 + 45 + 55 = 150 (quả)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Một cửa hàng nhập về 42kg bột mì. Cửa hàng đã bán hết \\frac{5}{7} số bột mì đó. Hỏi cửa hàng còn lại bao nhiêu ki-lô-gam bột mì?\nA. 12kg          \nB. 18kg  \nC. 25kg \nD. 30kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố kg bột mì đã bán là: 42:\\frac{5}{7}=30 (kg)\nSố kg bột mì còn lại là: 42 – 30 = 12(kg)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Hùng có một số tiền, Hùng đã tiêu hết 57000 đồng. Như vậy, số tiền đã tiêu bằng \\frac{3}{4} số tiền còn lại. Hỏi lúc đầu Hùng có bao nhiêu tiền?\nA. 311000 đồng\nB. 113000 đồng          \nC. 133000 đồng     \nD. 131000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố tiền còn lại sau khi Hùng đã tiêu là: 57000:\\frac{3}{4}=76000 (đồng)\nSố tiền lúc đầu Hùng có là: \n57000 + 76000 = 133000 (đồng)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Lớp 6A có 24 học sinh nam. Số học sinh nam bằng \\frac{4}{5} số học sinh cả lớp. Hỏi lớp 6A có bao nhiêu học sinh nữ?\nA. 30 học sinh \nB. 8 học sinh\nC. 6 học sinh\nD. 16  học sinh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nLớp 6A có số học sinh là: 24:\\frac{4}{5}=30 (học sinh)\nLớp 6A có số học sinh nữ là: 30 – 24 = 6 (học sinh)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11. Tìm diện tích của một hình chữ nhật, biết rằng \\frac{3}{8} chiều dài là 12cm, \\frac{2}{3}chiều rộng là 12cm.\nA. 515cm^{2} \nB. 520cm^{2} \nC. 576cm^{2} \nD. 535cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChiều dài của hình chữ nhật đó là:  12:\\frac{3}{8}=32(cm)\nChiều rộng của hình chữ nhật đó là: 12:\\frac{2}{3}=18  (cm)\nDiện tích của hình chữ nhật đó là:  32.18=576(cm2)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12. Minh đọc quyển sách trong 4 ngày. Ngày thứ nhất Minh đọc được \\frac{2}{5} số trang sách. Ngày thứ hai Minh đọc được \\frac{3}{5} số trang sách còn lại. Ngày thứ ba đọc được 80% số trang sách còn lại sau ngày thứ hai và ngày thứ tư đọc 30 trang cuối cùng. Hỏi cuốn sách đó có bao nhiêu trang?\nA. 375 trang\nB. 625 trang\nC. 500 trang\nD. 650 trang",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố phần trang sách còn lại sau ngày thứ nhất là: 1−\\frac{2}{5}=\\frac{3}{5} (quyển sách)\nSố phần trang sách đọc được của ngày thứ hai là: \\frac{3}{5}.\\frac{3}{5}=\\frac{9}{25} (quyển sách)\nSố phần trang sách còn lại sau ngày thứ hai là: 1−\\frac{2}{5}−\\frac{9}{25}=\\frac{6}{25} (quyển sách)\nSố phần trang sách đọc được ngày thứ ba là: \\frac{6}{25}.80%=\\frac{24}{125} (quyển sách)\nSố phần trang sách ứng với 30 trang cuối của ngày thứ tư là: \n1−\\frac{2}{5}−\\frac{9}{25}−\\frac{24}{125}=\\frac{6}{125} (quyển sách)\nSố trang sách của quyển sách là: \n20:\\frac{6}{125}=625 (trang sách)\nVậy quyển sách có 625 trang\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 13. Hiện nay tuổi anh bằng \\frac{2}{5} tuổi bố và bằng \\frac{4}{3} tuổi em. Tính tổng số tuổi của hai anh em, biết rằng hiện nay bố 40tuổi.\nA. 30\nB. 26\nC. 32\nD. 28",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHiện nay anh có số tuổi là: \\frac{2}{5}.40=16 (tuổi)\nHiện nay em có số tuổi là:16:\\frac{4}{3}=12 (tuổi)\nTổng số tuổi của hai anh em là: \n16 + 12 = 28 (tuổi)\nVậy tổng số tuổi của hai anh em là 28 tuổi\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14. Hai đám ruộng thu hoạch tất cả 990kg thóc. Biết rằng \\frac{2}{3} số thóc thu hoạch ở ruộng thứ nhất bằng \\frac{4}{5} số thóc thu hoạch ở ruộng thứ hai. Hỏi đám ruộng thứ hai thu hoạch bao nhiêu thóc?\nA. 450kg\nB. 540kg                     \nC. 600kg        \nD. 300kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTỉ số số thóc thu được của đám thứ nhất với đám thứ hai là: \\frac{4}{5}:\\frac{2}{3}=\\frac{6}{5}\nTổng số phần bằng nhau là:  (phần)\nSố thóc thu được của đám thứ hai là: 990: \\frac{11}{5}  = 450(kg)\nVậy đám thứ hai thu được 450kg\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 15. Tổng số đo chiều dài của ba tấm vải là 224m. Nếu cắt \\frac{3}{7} tấm vải thứ nhất,  \\frac{1}{5}tấm vải thứ hai và \\frac{2}{5} tấm vải thứ ba thì phần còn lại của ba tấm vải bằng nhau. Tính chiều dài tấm vải thứ nhất.\nA. 90m\nB. 224m         \nC. 84m\nD. 112m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhân số chỉ số vải còn lại của tấm thứ 1 là: 1−\\frac{3}{7}=\\frac{4}{7} (tấm thứ nhất)\nPhân số chỉ số vải còn lại của tấm thứ 2 là: 1−\\frac{1}{5}=\\frac{4}{5} (tấm thứ hai)\nPhân số chỉ số vải còn lại của tấm thứ 3 là: 1−\\frac{2}{5}=\\frac{3}{5} (tấm thứ ba)\nTỉ số giữa số mét vải tấm thứ hai và thứ nhất là: \\frac{4}{7}:\\frac{4}{5}=\\frac{5}{7}\nTỉ số giữa số mét vải tấm thứ ba và thứ nhất là: \\frac{4}{7}:\\frac{3}{5}=\\frac{20}{21}\n224m vải ứng với số phần tấm thứ nhất là: 1+\\frac{5}{7}+\\frac{20}{21}=\\frac{8}{3}\nTấm thứ nhất dài là: \nVậy tấm thứ nhất dài 84m.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 16. Một đội công nhân sửa một đoạn đường trong ba ngày: ngày thứ nhất sửa \\frac{5}{9} đoạn đường, ngày thứ hai sửa \\frac{1}{4}  đoạn đường. Ngày thứ ba đội sửa nốt 7m còn lại. Hỏi đoạn đường dài bao nhiêu mét?\nA. 36m\nB. 72m           \nC. 54m\nD. 60m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố phần mét đường đội sửa trong ngày thứ ba là:\n1−\\frac{5}{9}−\\frac{1}{4}=\\frac{7}{36} (đoạn đường)\nĐoạn đường đó dài là: 7:\\frac{7}{36}=36m\nVậy đoạn đường dài 36m\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 17. Một người mang một số trứng ra chợ bán. Buổi sáng bán được \\frac{3}{5} số trứng mang đi. Buổi chiều bán thêm được 39 quả. Lúc về còn lại số trứng bằng  \\frac{1}{8} số trứng đã bán. Hỏi người đó mang tất cả bao nhiêu quả trứng đi bán?\nA. 153\nB. 180\nC. 135\nD. 270",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì số trứng còn lại bằng \\frac{1}{8}số trứng đã bán nên:\nSố trứng còn lại bằng \\frac{1}{1+8}=\\frac{1}{9}tổng số trứng \nSố trứng đã bán bằng1−\\frac{1}{9}=\\frac{8}{9} tổng số trứng\n39 quả trứng ứng với: \\frac{8}{9}−\\frac{3}{5}=\\frac{13}{45} (tổng số trứng)\nSố trứng người đó mang đi bán là:  39:\\frac{13}{45}=135 (quả)\nVậy người đó mang đi 135 quả trứng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 18. Số sách ở ngăn A bằng \\frac{2}{3} số sách ở ngăn B. Nếu chuyển 3 quyển từ ngăn A sang ngăn B thì số sách ở ngăn A bằng \\frac{3}{7} số sách ở ngăn B. Tìm số sách lúc đầu ở ngăn B.\nA. 30\nB. 15\nC. 12\nD.18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng số sách ở hai ngăn không đổi khi ta chuyển 3 quyển từ ngăn A sang ngăn B.\nLúc đầu, số sách ở ngăn A bằng \\frac{2}{2+3}=\\frac{2}{5} (tổng số sách ở cả hai ngăn).\nSau khi chuyển 3 quyển từ ngăn A sang ngăn B thì số sách ở ngăn A bằng \\frac{3}{7+3}=\\frac{3}{10}(tổng số sách ở cả hai ngăn).\n33 quyển sách bằng \\frac{2}{5}−\\frac{3}{10}=\\frac{1}{10} (tổng số sách ở cả hai ngăn).\nVậy tổng số sách ở cả hai ngăn là:3:\\frac{1}{10}=30  (quyển).\nSố sách lúc đầu ở ngăn A là: \\frac{2}{5}.30=12(quyển)\nSố sách lúc đầu ở ngăn B là: \n30 – 12 = 18 (quyển).\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 19. Số thỏ ở chuồng A bằng \\frac{2}{5} tổng số thỏ ở cả hai chuồng A và B. Sau khi bán 3 con ở chuồng A thì số thỏ ở chuồng A bằng \\frac{1}{3} tổng số thỏ ở hai chuồng lúc đầu. Tính số thỏ lúc đầu ở chuồng B.\nA. 45\nB. 18\nC. 27\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nLúc đầu, số thỏ ở chuồng A bằng \\frac{2}{5} số thỏ ở cả hai chuồng, sau khi bán 3 con ở chuồng A thì số thỏ ở chuồng A bằng \\frac{1}{3} tổng số thỏ ở hai chuồng lúc đầu.\nVậy 3 con ứng với \\frac{2}{5}−\\frac{1}{3}=\\frac{1}{15} (tổng số thỏ hai chuồng lúc đầu).\nTổng số thỏ của hai chuồng lúc đầu là: 3:\\frac{1}{15}=45 (con).\nSố thỏ ở chuồng A là: \\frac{2}{5}.45=18 (con).\nSố thỏ ở chuồng B là: \n45 – 18 = 27 (con).\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 20\nBạn Thu đọc một cuốn sách trong 4 ngày. Ngày thứ nhất Thu đọc được \\frac{1}{5} cuốn sách và 10 trang. Ngày thứ hai, Thu đọc được \\frac{4}{9} số trang còn lại và 10 trang. Ngày thứ ba, Thu đọc được \\frac{2}{7} số trang còn lại và 10 trang. Ngày thứ tư, Thu đọc được \\frac{8}{9} số trang còn lại và 10 trang cuối cùng. Hỏi cuốn sách Thu đã đọc có bao nhiêu trang?\nA. 140 trang\nB. 270 trang\nC. 350 trang\nD. 280 trang",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n10 trang là:1−\\frac{8}{9}=\\frac{1}{9} số trang đọc trong ngày thứ tư.\nVậy số trang sách còn lại sau ngày thứ ba là: 10:\\frac{1}{9}=90 (trang).\n (90+10)=100 trang là: 1−\\frac{2}{7}=\\frac{5}{7}số trang sách còn lại sau ngày thứ hai.\nVậy số trang sách còn lại sau ngày thứ hai là: 100:\\frac{5}{7}=140 (trang).\n (140+10)=150 trang là:1−\\frac{4}{9}=\\frac{5}{9} số trang sách còn lại sau ngày thứ nhất.\nVậy số trang sách còn lại sau ngày thứ nhất là: 150:\\frac{5}{9}=270 (trang).\n (270+10)=280 trang là 1−\\frac{1}{5}=\\frac{4}{5}số trang của cả cuốn sách.\nSố trang của cả cuốn sách Thu đọc là: 280:\\frac{4}{5}=350 (trang).\nVậy cuốn sách Thu đọc có 350 trang.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 22. Một bác nông dân vừa thu hoạch 30 kg cà chua và 12 kg đậu đũa. Bác đem \\frac{4}{5} ở số cà chua đó đi bán, giá mỗi ki-lô-gam cà chua là 12 500 đồng. Hỏi bác nông dân nhận được bao nhiêu tiền?\nA. 468 750 đồng\nB. 300 000 đồng\nC. 250 000 đồng\nD. 125 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBác nông dân nhận được số tiền bán cà chua là:\n30.\\frac{4}{5}.12500=300000 (đồng)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 23. Một bác nông dân vừa thu hoạch 30 kg cà chua và 12 kg đậu đũa. Số đậu đũa bác vừa thu hoạch chi bằng \\frac{3}{4} số đậu đũa hiện có trong vườn. Nếu bác thu hoạch hết tất cả thì được bao nhiêu ki-lô-gam đậu đũa?\nA. 16 kg\nB. 8 kg\nC. 32 kg\nD. 9 kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNếu bác thu hoạch hết tất cả thì được số ki-lô-gam đậu đũa là:\n12:\\frac{3}{4}=16 (kg)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 24.  Bạn An tham gia đội hoạt động tình nguyện thu gom và phân loại rác thải trong xóm. Hết ngày, An thu được 9 kg rác khó phân huỷ và 12 kg rác dễ phân huỷ. An đem \\frac{3}{4} rác dễ phân huỷ đi đổi cây, biết cứ 3 kg rác dễ phân huỷ đổi được một cây sen đá. Vậy An nhận được bao nhiêu cây sen đá?\nA. 3 cây\nB. 6 cây\nC. 8 cây\nD. 9 cây",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố cây sen đá của An là: 12.\\frac{3}{4}=9 (cây)\nTheo bài ra cứ 3 kg rác dễ phân huỷ đối được một cây sen đá\nVậy An đổi được 9 : 3 = 3 (cây)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 25. Bạn An tham gia đội hoạt động tình nguyện thu gom và phân loại rác thải trong xóm. Hết ngày, An thu được 9 kg rác khó phân huỷ và 12 kg rác dễ phân huỷ. Số rác khó phân huỷ bạn An thu được bằng \\frac{3}{20} số rác khó phân huỷ cả đội thu được. Đội của An thu được tất cả bao nhiêu ki-lô-gam rác khó phân huỷ?\nA. 3 kg\nB. 4 kg\nC. 30 kg\nD. 80 kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐội của An thu được số ki lô gam rác khó phân hủy là: \n12:\\frac{3}{20}=12.\\frac{20}{3}=80 (kg)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 27 . Tìm một số, biết: \\frac{2}{11} của nó bằng 14?\nA. \\frac{28}{11}\nB. 24\nC. 56\nD. 77",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố cần tìm là:14:\\frac{2}{11}=14.\\frac{11}{2}=77\nĐáp án cần chọn là: D"
+    }
+]

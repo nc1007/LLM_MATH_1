@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Câu 1. Trong phép tính 12 + 145 = 157. Số 12 là:\nA. Số hạng \nB. Thừa số\nC. Tích\nD. Tổng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trong phép tính 12 + 145 = 157 thì 12, 145 là số hạng còn 157 là tổng.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Phép cộng số tự nhiên có tính chất:\nA. Giao hoán.\nB. Kết hợp.\nC. Vừa giao hoán, vừa kết hợp.\nD. Cả A, B, C đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Phép cộng số tự nhiên vừa có tính chất giao hoán, vừa có tính chất kết hợp.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Trong phép tính 123 – 11 = 112. Thì 112 là\nA. Số trừ\nB. Số bị trừ\nC. Tổng\nD. Hiệu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trong phép tính 123 – 11 = 112 thì 112 là hiệu.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Trong tập hợp số tự nhiên , phép trừ a – b chỉ thực hiện được khi\nA. a > b.\nB. a ≥ b.\nC. a < b.\nD.a ≤ b.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Trên tập , phép trừ a – b chỉ thực hiện được khi a ≥ b.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 5. Phát biểu nào dưới đây là đúng?\nA. Phép trừ 8 – 9 thực hiện được trên tập hợp số tự nhiên.\nB. Phép trừ 23 – 50 thực hiện được trên tập hợp số tự nhiên.\nC. Phép trừ 11 – 15 thực hiện được trên tập hợp số tự nhiên.\nD. Phép trừ 85 – 85 thực hiện được trên tập hợp số tự nhiên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Phép trừ hai số tự nhiên a và b thực hiện được trên tập hợp số tự nhiên nếu a ≥ b nên chỉ có đáp án D thỏa mãn.\nĐáp án: D"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Kết quả của phép tính: 1 201 – 89 = ?\nA. 1 112.\nB. 1 290.\nC. 1 121.\nD. 1 102.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Kết quả của phép tính 1 201 – 89 = 1 112.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Tìm x, thỏa mãn 123 + x = 981.\nA. x = 123.\nB. x = 981.\nC. x = 858.\nD. x = 1 104.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n123 + x = 981 \n          x = 981 – 123 \n          x = 858.\nVậy x = 858.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Thực hiện phép tính: 13 + 84 + 87 + 16\nA. 190\nB. 200\nC. 180\nD. 210",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n13 + 84 + 87 + 16\n= (13 + 87) + (84 + 16) \n= 100 + 100 \n= 200.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Sản lượng gieo trồng lúa vụ Thu Đông năm 2019 của vùng Đồng bằng sông Cửu Long ước tính đạt được 763 tấn thóc, tăng 103 tấn so với năm 2018. Hãy tính sản lượng thóc thu được vào năm 2018.\nA. 660 (tấn)\nB. 760 (tấn)\nC. 866 (tấn)\nD. 766 (tấn)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nSản lượng thóc năm 2018 là: 763 + 103 = 866 (tấn)\nVậy sản lượng thóc thu được năm 2018 là 866 tấn.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Thay dấu ? bằng số thích hợp:\n? + 2 874 = 2 874 + 7 869.\nA. 7 869.\nB. 10 743.\nC. 4 962.\nD. 13 617.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n? + 2 874 = 2 874 + 7 869.\n?              = 2 874 + 7 869 – 2 874 \n?              = (2 874 – 2 874) + 7 869\n?              = 0 + 7 869\n?           = 7869.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 6. Tính một cách hợp lí: 285 + 470 + 115 + 230\nA. 400\nB. 700\nC. 1 100\nD. 1 000.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n285 + 470 + 115 + 230\n= (285 + 115) + (470 + 230)\n= 400 + 700\n= 1 100.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Tìm số tự nhiên x, biết: x + (120 – 25) = 345 \nA. x = 240\nB. x = 250\nC. x = 300\nD. x = 255",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nx + (120 – 25) = 345 \nx + 95 = 345\nx         = 345 – 95\nx         = 250.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. Bạn Hùng có 127 viên bi, bạn An cho bạn Hùng thêm 17 viên bi nữa.\nHỏi bạn Hùng có tất cả bao nhiêu viên bi?\nA. 134 viên bi\nB. 124 viên bi\nC. 144 viên bi\nD. 149 viên bi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Bạn Hùng có số viên bi là: 127 + 17 = 149 (viên bi).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 9. Lớp 6A có 37 học sinh. Đầu năm lớp có 3 bạn chuyển đến và cuối năm có 4 bạn chuyển đi. Hỏi sĩ số của lớp 6A cuối năm là bao nhiêu?\nA. 36 học sinh.\nB. 35 học sinh.\nC. 33 học sinh.\nD. 40 học sinh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nSĩ số lớp 6A lúc đầu năm là: 37 + 3 = 40 (học sinh).\nSĩ số lớp 6A lúc cuối năm là: 40 – 4 = 36 (học sinh)\nVậy cuối năm lớp 6A có 36 học sinh.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 10. Bạn Thu An có 5 quyển sách ngữ văn, 12 quyển sách toán và 26 quyển sách tiếng anh. Hỏi bạn Thu An có tất cả bao nhiêu quyển sách?\nA. 17 quyển sách.\nB. 43 quyển sách.\nC. 38 quyển sách.\nD. 31 quyển sách.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Bạn Thu An có tất cả số quyển sách là: 5 + 12 + 26 = 43 (quyển sách).\nĐáp án: B"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Mai đi chợ mua cà tím hết 18 nghìn đồng, cà chua hết 21 nghìn đồng và rau cải hết 30 nghìn đồng. Mai đưa cô bán hàng tờ 100 nghìn đồng thì được trả lại bao nhiêu tiền?\nA. 30 nghìn đồng.\nB. 31 nghìn đồng.\nC. 21 nghìn đồng.\nD. 41 nghìn đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nSố tiền Mai đã mua là: 18 + 21 + 30 = 69 (nghìn đồng).\nSố tiền cô bán hàng trả lại Mai là: 100 – 69 = 31 (nghìn đồng).\nVậy cô bán hàng phải trả lại Mai 31 nghìn đồng.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Nhà ga số 1 và nhà ga số 2 của một sân bay có thể tiếp nhận tương ứng 6 526 300 và 4 090 000 lượt hành khách mỗi năm. Nhờ đưa vào sử dụng nhà ga số 3 mà mỗi năm sân bay có thể tiếp nhận được khoảng 22 851 200 lượt khách. Hãy tính số lượt khách mà nhà ga số 3 có thể tiếp nhận mỗi năm.\nA. 12 234 900 lượt khách.\nB. 12 324 900 lượt khách.\nC. 12 851 200 lượt khách.\nD. 10 616 300 lượt khách.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nSố lượt khách mà nhà ga số 1 và nhà ga số 2 có thể tiếp nhận được là:\n6 526 300 + 4 090 000 = 10 616 300 (lượt khách).\nSố lượt khách mà nhà ga số 3 có thể tiếp nhận được mỗi năm là: \n22 851 200 – 10 616 300 = 12 234 900 (lượt khách).\nVậy nhà ga số 3 có thể tiếp nhận được 12 234 900 lượt khách mỗi năm.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. An có 100 000 đồng để mua đồ dùng học tập. An đã mua 5 quyển vở, 6 cái bút bi và 2 cái bút chì. Biết rằng mỗi quyển vở có giá 6 000 đồng, mỗi cái bút bi hoặc bút chì có giá 5 000 đồng. Hỏi An còn lại bao nhiêu tiền?\nA. 20 000 đồng                \nB. 70 000 đồng                \nC. 100 000 đồng \nD. 30 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nAn mua 5 quyển vở hết số tiền là:  đồng.\nAn mua 6 cái bút bi và 2 cái bút chì hết số tiền là: (6+2) x 5000 = 40 000 đồng.\nSố tiền An đã dùng để mua đồ dùng học tập là: 30 000 + 40 000 = 70 000 đồng.\nSố tiền còn lại của An là: 100 000 – 70 000 = 30 000 đồng.\nVậy An còn lại 30000 đồng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Kết quả của phép tính: 2 021 + 2 022 + 2 023 + 2 024 + 2 025 + 2 026 + 2 027 + 2 028 + 2 029.\nA. 16 200\nB. 14 175\nC. 18 225\nD. 20 250",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n2 021 + 2 022 + 2 023 + 2 024 + 2 025 + 2 026 + 2 027 + 2 028 + 2 029\n= (2 021 + 2 029) + (2 022 + 2 028) + (2 023 + 2 027) + (2 024 + 2 026) + 2 025\n= 4 050 + 4 050 + 4 050 + 4 050 + 2 025\n= 16 200 + 2 025\n= 18 225.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Năm nay An 12 tuổi, mẹ hơn An 18 tuổi. Hỏi sau 6 năm nữa thì mẹ An bao nhiêu tuổi.\nA. 30 tuổi.\nB. 36 tuổi\nC. 32 tuổi\nD. 42 tuổi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNăm nay số tuổi của mẹ An là: 12 + 18 = 30 (tuổi).\nSau 6 năm nữa số tuổi của mẹ An là: 30 + 6 = 36 (tuổi).\nĐáp án: B"
+    }
+]

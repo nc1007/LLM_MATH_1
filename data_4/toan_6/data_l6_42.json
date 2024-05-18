@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "A. Góc là hình gồm hai tia chung gốc\nB. Hai tia chung gốc tạo thành góc bẹt\nC. Hai góc bằng nhau có số đo bằng nhau\nD. Hai góc có số đo bằng nhau thì bằng nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n + Góc là hình gồm hai tia chung gốc nên A đúng\n+ Góc bẹt là góc có hai cạnh là hai tia đối nhau nên B sai vì hai tia chung gốc chưa chắc đã đối nhau\n+ Hai góc bằng nhau có số đo bằng nhau nên C đúng\n+ Hai góc có số đo bằng nhau thì bằng nhau nên D đúng\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Cho 9 tia chung gốc  (không có tia nào trùng nhau) thì số góc tạo thành là\nA. 16   \nB. 72 \nC. 36\nD. 42",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố góc tạo thành là \\frac{9.9−1}{2}=36 góc.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Cho n(n ≥ 2) tia chung gốc, trong đó không có hai tia nào trùng nhau. Nếu có 28 góc tạo thành thì n bằng bao nhiêu?\nA. 8 \nB. 7\nC. 6\nD. 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTừ đề bài ta có \\frac{nn−1}{2}=28 nên n(n − 1) = 56  mà 56 = 8.7, lại có (n − 1) và n là hai số tự nhiên liên tiếp nên n = 8.\nVậy n = 8.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Cho trước 4 tia chung gốc O. Vẽ thêm 3 tia gốc O không trùng với các tia cho trước. Hỏi đã tăng thêm bao nhiêu góc đỉnh O?\nA. 3 \nB. 6\nC. 15\nD.18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố góc tạo thành khi có 4 tia chung gốc là \\frac{44−1}{2}=6 góc\nSố góc tạo thành khi có thêm ba tia chung gốc O nữa \\frac{77−1}{2}=21 là góc\nSố góc tăng thêm là \n21 – 6 = 15 góc\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Giả sử có n(n ≥ 2) đường thẳng đồng qui tại O thì số góc tạo thành là\nA. 2n(n−1) \nB.\\frac{nn−1}{2}\nC. 2n(2n − 1)\nD. n(2n − 1)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì có n(n ≥ 2) đường thẳng đồng qui tại O nên số các tia chung gốc tạo thành là 2n tia.\nSố góc tạo thành là\\frac{2n2n−1}{2}=n2n−1 góc.\nĐáp án cần chọn là: D"
+    }
+]

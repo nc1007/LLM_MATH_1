@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1: Muốn tính thể tích hình hộp chữ nhật ta lấy chiều dài nhân với chiều rộng rồi cộng với chiều cao (cùng đơn vị đo). Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính thể tích hình hộp chữ nhật ta lấy chiều dài nhân với chiều rộng rồi nhân với chiều cao (cùng đơn vị đo).\nVậy phát biểu trên là sai."
+    },
+    {
+        "problem": "Câu 2: Một hình hộp chữ nhật có chiều dài là a, chiều rộng là b, chiều cao là c. Công thức tính thể tích V của hình hộp chữ nhật đó là:\nA.\tV = (a + b) × c\nB.\tV = a × b × c\nC.\tV = a × b + c\nD.\tV = (a + b) × 2 × c",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tính thể tích hình hộp chữ nhật ta lấy chiều dài nhân với chiều rộng rồi nhân với chiều cao (cùng đơn vị đo).\nVậy công thức tính thể tích V của hình hộp chữ nhật đó là V = a × b × c."
+    },
+    {
+        "problem": "Câu 3: Tính thể tích hình hộp chữ nhật có chiều dài là 17cm, chiều rộng là 9cm, chiều cao là 11cm.\nA.\t286cm^{3}  \nB.\t572cm^{3}  \nC.\t876cm^{3}  \nD.\t1683cm^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thể tích hình hộp chữ nhật đó là:  \n17 × 9 × 11 = 1683 (cm^{3} )   \nĐáp số: 1683cm^{3} ."
+    },
+    {
+        "problem": "Câu 6: Một bể nước hình hộp chữ nhật có các kích thước trong bể là chiều dài 3m; chiều rộng kém chiều dài 1,8m; chiều cao 1,5m. Hỏi bể đó chứa được nhiều nhất bao nhiêu lít nước? (1 lít = 1dm^{3} )\nA.\t5,4 lít\nB.\t81 lít\nC.\t5400 lít\nD.\t8100 lít",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều rộng của bể nước đó là:   \n3 − 1,8 = 1,2 (m)\nThể tích của bể nước đó là:\n3 × 1,2 × 1,5 = 5,4 (m^{3} )     \n5,4m^{3}  = 5400dm^{3}  = 5400 lít\nSố lít nước bể có thể chứa được nhiều nhất bằng với thể tích của bể và bằng 5400 lít. \nĐáp số: 5400 lít."
+    },
+    {
+        "problem": "Câu 7: Một bể cá cảnh hình hộp chữ nhật có chiều dài 1,8m; chiều rộng 0,6m và chiều cao 0,9m. Hỏi người ta phải đổ vào trong bể cá đó bao nhiêu lít nước để lượng nước trong bể cao 0,6m?\nA.\t972 lít\nB.\t648 lít\nC.\t324 lít  \nD.\t234 lít",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lít nước cần đổ vào bể cá cảnh để lượng nước trong bể cao 0,6m là:  \n1,8 × 0,6 × 0,6 = 0,648 (m^{3} )            \n0,648m^{3}  = 648dm^{3}  = 648 lít     \nĐáp số: 648 lít."
+    },
+    {
+        "problem": "Câu 9: Một bể nước hình hộp chữ nhật có thể tích là 30dm^{3} , chiều cao là 0,4m. Biết đáy bể có chiều rộng là 1,5dm. tính chiều dài của đáy bể.\nA.\t5dm\nB.\t7,5dm\nC.\t16dm\nD.\t20dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 0,4m = 4dm\nDiện tích đáy của bể nước đó là:   \n30 : 4 = 7,5 (dm^{3} )\nChiều dài của đáy bể là:   \n7,5 : 1,5 = 5 (dm)  \nĐáp số: 5dm."
+    },
+    {
+        "problem": "Câu 11: Một bể nước dạng hình hộp chữ nhật có chiều dài 2m; chiều rộng 1,2m và chiều cao 1,4m. Hiện tại, lượng nước trong bể chiếm  thể tích của bể. Hỏi cần phải đổ thêm vào bể bao nhiêu lít nước để được đầy bề nước?\nA.\t134,4 lít\nB.\t201,6 lít\nC.\t1344 lít\nD.\t2016 lít",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thể tích của bể nước là:         \n2 × 1,2 × 1,4 = 3,36 (m^{3} )\nThể tích nước đang có trong bể là:     \n3,36 × 25 = 1,344 (m^{3} )\nThể tích cần đổ thêm vào bể để bể đầy nước là:     \n3,36 − 1,344 = 2,016 (m^{3} )\nĐổi 2,016m^{3}  = 2016dm^{3}  = 2016 lít    \nĐáp số: 2016 lít."
+    },
+    {
+        "problem": "Câu 13: Một bể cá dạng hình hộp chữ nhật có chiều dài 90cm, chiều rộng là 50cm và chiều cao 75cm. Mực nước ban đầu trong bể cao 45cm. Người ta cho vào bể một hòn đá có thể tích 18dm^{3} . Hỏi mực nước trong bể lúc này cao bao nhiêu xăng-ti-mét?\nA.\t49cm\nB.\t54cm\nC.\t63cm\nD.\t75cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi  18dm^{3}  = 18000cm^{3}  \nDiện tích đáy của bể cá là:       \n90 × 50 = 4500 (cm^{3} )\nChiều cao mực nước tăng thêm là:      \n18000 : 4500 = 4 (cm)\nChiều cao mực nước lúc sau khi thả hòn đá là: \n45 + 4 = 49 (cm)  \nĐáp số: 49cm."
+    },
+    {
+        "problem": "Câu 14: Một cái bể hình hộp chữ nhật có chiều dài là 1,5m, chiều rộng là 1,2m và chiều cao 0,9m. Bể đã hết nước. Người ta đổ vào đó 30 gánh nước, mỗi gánh 45 lít. Hỏi mặt nước còn cách miệng bể bao nhiêu xăng-ti-mét?\nA.\t5cm\nB.\t15cm\nC.\t30cm\nD.\t75cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích đáy của bể là:     \n1,5 × 1,2 = 1,8 (m^{3} )\nThể tích lượng nước đã đổ vào bể là:  \n45 × 30 = 1350 (lít)\nĐổi 1350 lít  = 1350dm^{3}  = 1,35m^{3} \nChiều cao mực nước trong bể là:   \n1,35 : 1,8 = 0,75 (m)\nMặt nước còn cách miệng bể là:  \n0,9 − 0,75 = 0,15 (m)  \n0,15m = 15cm \nĐáp số: 15cm."
+    }
+]

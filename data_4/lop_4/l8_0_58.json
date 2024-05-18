@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1 : Khi chia một số cho một tích hai thừa số, ta có thể chia số đó cho một thừa số, \nrồi lấy kết quả tìm được chia tiếp cho thừa số kia. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi chia một số cho một tích hai thừa số, ta có thể chia số đó cho một thừa số, \nrồi lấy kết quả tìm được chia tiếp cho thừa số kia.\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2 : Hồng viết lên bảng như sau:  \n180 : (9 × 4) = 180 : 9 : 4 = 180 : 4 : 9\nTheo em bạn Hồng viết đúng hay sai?\nA.\tĐúng \t\nB. Sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy biểu thức 180:(9×4) có dạng một số chia cho một tích.\nKhi chia một số cho một tích hai thừa số, ta có thể chia số đó cho một thừa số, \nrồi lấy kết quả tìm được chia tiếp cho thừa số kia.\nDo đó ta có: 180:(9×4)=180:9:4=180:4:9 \nVậy bạn Hồng viết đúng."
+    },
+    {
+        "problem": "Câu 3 : Cho biểu thức: 224 ∶ (8 × 7) = 224 ...7∶ 8  \nDấu thích hợp điền vào chỗ chấm trên là:\nA. +\nB. –\nC. ×\nD. :",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy biểu thức 224:(8×7) có dạng một số chia cho một tích.\nKhi chia một số cho một tích hai thừa số, ta có thể chia số đó cho một thừa số, \nrồi lấy kết quả tìm được chia tiếp cho thừa số kia.\nDo đó ta có: 224:(8×7)=224:8:7=224:7:8 \nVậy dấu thích hợp điền vào ô trống trên là dấu chia (dấu :)."
+    },
+    {
+        "problem": "Câu 5 : Viết phép tính 200 ∶ 40 dưới dạng chia một số cho một tích. \nA. 200∶(50-10)\nB. 200∶(20+20)\nC. 200∶(10×4)\nD. 200∶(400∶10)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Biểu thức 200:(50−10) có dạng một số chia cho một hiệu.\n- Biểu thức 200:(20+20) có dạng một số chia cho một tổng.\n- Biểu thức 200:(10×4) có dạng một số chia cho một tích.\n- Biểu thức 200:(400:10) có dạng một số chia cho một thương."
+    },
+    {
+        "problem": "Câu 6 : Chọn dấu thích hợp để điền vào chỗ chấm: \n180 ∶ (5 × 3)...180 ∶ 3 ∶ 5\nA.\t=\nB.\t>\nC.\t<",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy biểu thức 180:(5×3) có dạng một số chia cho một tích.\nKhi chia một số cho một tích hai thừa số, ta có thể chia số đó cho một thừa số, \nrồi lấy kết quả tìm được chia tiếp cho thừa số kia.\nDo đó ta có: 180:(5×3)=180:5:3=180:3:5.\nVậy ta chọn dấu bằng (dấu =)."
+    },
+    {
+        "problem": "Câu 8 : 1080 chia cho tích của 8 và 9 được kết quả là: \nA.\t25\nB.\t24\nC.\t15\nD.\t14",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Theo đề bài ta có biểu thức: 1080:(8×9).\nTa có: 1080:(8×9)=1080:9:8=120:8=15 \nVậy 1080 chia cho tích của 8 và 9  được kết quả là 15.\n\n\nTa có: 1080:(8×9)=1080:9:8=120:8=15 \nVậy 1080 chia cho tích của 8 và 9  được kết quả là 15.\n\nTa có: 1080:(8×9)=1080:9:8=120:8=15 \nVậy 1080 chia cho tích của 8 và 9  được kết quả là 15.\n\n\nVậy 1080 chia cho tích của 8 và 9  được kết quả là 15.\n\nVậy 1080 chia cho tích của 8 và 9  được kết quả là 15."
+    },
+    {
+        "problem": "Câu 10 : Có 2 bạn học sinh, mỗi bạn mua 4 cái bút chì cùng loại và phải trả tất cả 28000 đồng.Tính giá tiền mỗi cái bút. \nA.\t3200 đồng\nB.\t3500 đồng\nC.\t3800 đồng\nD.\t4500 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai bạn mua tất cả số cái bút là:\n         4×2=8 (cái bút)\nGiá tiền của một cái bút là:\n          28000:8=3500 (đồng)\n                  Đáp số: 3500 đồng."
+    },
+    {
+        "problem": "Câu 11 : Hãy so sánh 2 biểu thức M và N, biết:  \nM = 336699 ∶ (9 × 3);\n  N = 336699 ∶ 9 + 3\nA.\tM < N\nB.\tM > N\nC.\tM = N",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nM=33669:(9×3)=33669:9:3=3741:3=1247\nN=33669:9+3=3741+3=3744. \nMà 1247 < 3744 \nDo đó: 336699:(9×3) < 336699:9+3.\nHay M < N."
+    }
+]

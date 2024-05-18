@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Tính giá trị biểu thức:\na) \\(\\left( { - 12} \\right) - x\\) với \\(x = -28\\);\nb) \\(a - b\\) với \\(a = 12,b =  - 48\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Thay \\(x = 28\\) vào x ở \\(\\left( { - 12} \\right) - x\\).\n- Lấy \\(\\left( { - 12} \\right)\\) cộng với số đối của -28.\nb)\n- Thay \\(a = 12,b =  - 48\\) vào \\(a - b\\).\n- Lấy 12 cộng với số đối của \\( - 48\\).\nLời giải chi tiết\na)\nThay \\(x = -28\\) vào \\(\\left( { - 12} \\right) - x\\), ta được:\n\\(\\begin{array}{l}\\left( { - 12} \\right) - x\\\\ = \\left( { - 12} \\right) - (-28)\\\\ = \\left( { - 12} \\right) + 28\\\\ =  28-12\\\\= 16\\end{array}\\)\nb)\nThay \\(a = 12,b =  - 48\\) vào \\(a - b\\), ta được:\n\\(\\begin{array}{l}a - b\\\\ = 12 - \\left( { - 48} \\right)\\\\ = 12 + 48\\\\ = 60\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Nhiệt độ lúc 6 giờ là \\( - 3^\\circ C\\), đến 12 giờ nhiệt độ tăng \\(10^\\circ C\\), đến 20 giờ nhiệt độ lại giảm \\(8^\\circ C\\). Nhiệt độ lúc 20 giờ là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhiệt độ tăng là phép cộng, giảm là phép trừ.\n- Lấy \\( - 3^\\circ C\\) cộng \\(10^\\circ C\\) rồi trừ \\(8^\\circ C\\).\nLời giải chi tiết\nNhiệt độ lúc 20 giờ là:\n\\(\\begin{array}{l}\\left( { - 3} \\right) + 10 - 8\\\\ = 7 - 8\\\\ =  - 1\\left( {^\\circ C} \\right)\\end{array}\\)\nVậy nhiệt độ lúc 20 giờ là \\( - 1^\\circ C\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Hoàn thành các phép tính: \\(\\left( { - 3} \\right).4 = \\left( { - 3} \\right) + \\left( { - 3} \\right) + \\left( { - 3} \\right) + \\left( { - 3} \\right) = ?\\)\nb) So sánh: \\(\\left( { - 3} \\right).4\\) và \\( - \\left( {3.4} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính và so sánh\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\left( { - 3} \\right).4 = \\left( { - 3} \\right) + \\left( { - 3} \\right) + \\left( { - 3} \\right) + \\left( { - 3} \\right)\\\\ =  - \\left( {3 + 3 + 3 + 3} \\right) =  - 12\\end{array}\\)\nb)\n\\( - \\left( {3.4} \\right) =  - 12\\)\nVậy \\(\\left( { - 3} \\right).4 =  - \\left( {3.4} \\right)\\)."
+    },
+    {
+        "problem": "Tính\na) \\(\\left( { - 7} \\right).5\\);\nb) \\(11.\\left( { - 13} \\right)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Bỏ dấu “ – ” trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính tích của hai số nguyên dương nhận được.\nBước 3: Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tích cần tìm.\nLời giải chi tiết\na) (- 7) . 5 = - (7 . 5) = - 35\nb) 11 . (- 13) = - (11 . 13) = - 143\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giác trị của  biểu thức trong mỗi trường hợp sau:\na) \\( - 6x - 12\\) với \\(x =  - 2\\);\nb) \\( - 4y + 20\\) với \\(y =  - 8\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thay \\(x =  - 2\\) vào \\( - 6x - 12\\) rồi sử dụng quy tắc nhân hai số nguyên cùng dấu cho \\( - 6\\) và \\( - 2\\):\n+ Bước 1: Bỏ dấu “ – ” trước số \\( - 6\\) và \\( - 2\\).\n+ Bước 2: Tính tích 6.2, đây  là tích của \\(\\left( { - 6} \\right).\\left( { - 2} \\right)\\).\n+ Bước 3: Lấy tích của 6.2 trừ 12, ta được kết quả cần tìm.\nb) Thay \\(y =  - 8\\) vào \\( - 4y + 20\\) rồi sử dụng quy tắc nhân hai số nguyên cùng dấu cho \\( - 4\\) và \\( - 8\\):\n+ Bước 1: Bỏ dấu “ – ” trước số \\( - 4\\) và \\( - 8\\).\n+ Bước 2: Tính tích 4.8, đây  là tích của \\(\\left( { - 4} \\right).\\left( { - 8} \\right)\\).\n+ Bước 3: Lấy tích của 4.8  cộng 20, ta được kết quả cần tìm.\nLời giải chi tiết\na) Thay x = - 2\n=> - 6 . (- 2) – 12 = 6.2-12 = 12 – 12 = 0.\nb) Thay y = - 8\n=> - 4 . (- 8) + 20 = 4.8+20 = 32 + 20 = 52\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính và so sánh kết quả:\na) (- 4) . 7  và 7 . (- 4);\nb) [(- 3) . 4] . (- 5) và (- 3) . [4 . (- 5)];\nc) (- 4) . 1 và - 4;\nd) (- 4) . (7 + 3) và (- 4) . 7 + 7 . (- 4) . 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính và so sánh kết quả\nLời giải chi tiết\na) (- 4) . 7 = - (4 . 7) = - 28\n7 . (- 4) = - (7 . 4) = - 28\nVậy (- 4) . 7 = 7 . (- 4)\nb) [(- 3) . 4] . (- 5) = (- 12) . (- 5) = 12 . 5 = 60\n(- 3) . [4 . (- 5)] = (- 3) . (- 20) = 3 . 20 = 60\nVậy [(- 3) . 4] . (- 5) = (- 3) . [4 . (- 5)]\nc) (- 4) . 1 = - (4 . 1) = - 4\nd) (- 4) . (7 + 3) = (- 4) . (10) = - 40\n(- 4) . 7 + 7 . (- 4) . 3 = - (4 . 7) + [- (4 . 3)] = - 28 + (- 12) = - 40\nVậy (- 4) . (7 + 3) = (- 4) . 7 + 7 + (- 4) . 3"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) (- 6) . (- 3) . (- 5)\nb) 41 . 81 – 41 . (- 19).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n- Nhân hai số (-6) và (-5) trước rồi nhân với (-3).\nb)\n- Đặt số 41 chung ra ngoài, cho 81 và ( -19) vào trong ngoặc.\nLời giải chi tiết\na) (- 6) . (- 3) . (- 5) = - (6 . 5).( - 3) = (-30).(-3)=30.3=90\nb) 41 . 81 – 41 . (- 19) = 41 . [81 – ( - 19)] = 41 . 100 = 4100\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) 21 . (- 3);\nb) (- 16 ) . 5;\nc) 12 . 20;\nd) (- 21) . (- 6).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Nhân hai số nguyên khác dấu:\nBước 1: Bỏ dấu “ – ” trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính tích của hai số nguyên dương nhận được.\nBước 3: Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tích cần tìm.\n+ Nhân hai số nguyên cùng dấu:\nBước 1: Bỏ dấu “ – ” trước mỗi số.\nBước 2: Tính tích của hai số nguyên dương nhận được ở Bước 1, ta có tích cần tìm.\nLời giải chi tiết\na) 21 . (- 3) = - (21 . 3) = - 63\nb) (- 16 ) . 5 = - (16 . 5) = - 80\nc) 12 . 20 = 240\nd) (- 21) . (- 6) = 126\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính:\na) \\({10^{10}}.\\left( { - {{10}^4}} \\right)\\);\nb) \\(\\left( { - 2} \\right).\\left( { - 2} \\right).\\left( { - 2} \\right).\\left( { - 2} \\right).\\left( { - 2} \\right) + {2^5}\\);\nc) \\(\\left( { - 3} \\right).\\left( { - 3} \\right).\\left( { - 3} \\right).\\left( { - 3} \\right) - {3^4}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép nhân trước, cộng trừ sau.\nÁp dụng định nghĩa lũy thừa: \\(a.a...a =a^n\\)(n thừa số a)\nLời giải chi tiết\na) \\({10^{10}}.\\left( { - {{10}^4}} \\right) =  - \\left( {{{10}^{10}}{{.10}^4}} \\right) =  - \\left( {{{10}^{10 + 4}}} \\right) =  - {10^{14}}\\)\nb)\n\\(\\begin{array}{l}\\left( { - 2} \\right).\\left( { - 2} \\right).\\left( { - 2} \\right).\\left( { - 2} \\right).\\left( { - 2} \\right) + {2^5}\\\\ = (-2)^5 + {2^5}\\\\ =  - {2^5} + {2^5} = 0\\end{array}\\)\nc)\n\\(\\begin{array}{l}\\left( { - 3} \\right).\\left( { - 3} \\right).\\left( { - 3} \\right).\\left( { - 3} \\right) - {3^4}\\\\ = {(-3)^4} - {3^4} = {3^4} - {3^4} = 0\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính 8 . 25. Từ đó suy ra kết quả của các phép tính sau:\na) (- 8) . 25;          b) 8 . (- 25);           c) (- 8) . (- 25).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Sử dụng quy tắc nhân hai số nguyên khác dấu cho a và b.\n- Sử dụng quy tắc nhân hai số nguyên cùng dấu cho c.\nLời giải chi tiết\nTa có: 8 . 25 = 200\na) (- 8) . 25 = - 200.\nb) 8 . (- 25) = - 200.\nc) (- 8) . (- 25) = 200.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức trong mỗi trường hợp sau:\na) 2x, biết x = - 8;\nb) – 7y, biết y = 6;\nc) – 8z – 15, biết z = - 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n+ Thay x = - 8 vào 2x.\n+ Sử dụng quy tắc nhân hai số nguyên khác dấu.\nb)\n+ Thay y = 6 vào – 7y.\n+ Sử dụng quy tắc nhân hai số nguyên khác dấu.\nc)\n+ Thay z = - 4 vào – 8z – 15.\n+ Sử dụng quy tắc nhân hai số nguyên cùng dấu cho -8 và -4.\n+ Lấy tích nhận được trừ 15.\nLời giải chi tiết\na) Thay x = - 8 => 2 . (- 8) = - (2 . 8) = - 16.\nb) Thay y = 6 => (- 7) . 6 = - (7 . 6) = - 42.\nc) Thay z = - 4 => – 8 . (- 4)  – 15 = 8 . 4 – 15 = 32 – 15 = 17.\nLoigiaihay.com"
+    }
+]

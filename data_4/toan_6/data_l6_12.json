@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Câu 2. Sắp xếp các bước tìm BCNN của hai hay nhiều số lớn hơn 1:\n1 – Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\n2 – Chọn ra các thừa số nguyên tố chung và riêng.\n3 – Phân tích mỗi số ra thừa số nguyên tố.\nA. 1 – 2 – 3.\nB. 2 – 3 – 1.\nC. 3 – 1 – 2.\nD. 3 – 2 – 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác bước tìm BCNN của hai hay nhiều số lớn hơn 1:\n3 – Phân tích mỗi số ra thừa số nguyên tố.\n2 – Chọn ra các thừa số nguyên tố chung và riêng.\n1 – Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Bội chung của hai hay nhiều số là gì: \nA. là một tập hợp.\nB. là ước của tất cả các số đó.\nC. là bội của tất cả các số đó.\nD. A, B và C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Bội chung của hai hay nhiều số là bội của tất cả các số đó.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Mọi số tự nhiên a và b khác 0 ta có:\nA. BCNN(a, b, 1) = a.\nB. BCNN(a, b, 1) = b.\nC. BCNN(a, b, 1) = 1.\nD. BCNN(a, b, 1) = BCNN(a, b).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nMọi số tự nhiên đều là bội của 1. Do đó với  mọi số tự nhiên a và b (khác 0), ta có:\nBCNN(a, b, 1) = BCNN(a, b).\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Cho biết BC(4, 6) = {0; 12; 24; 36; 48; …}. Hãy cho biết BCNN(4, 6).\nA. BCNN(4,6) = 0.\nB. BCNN(4, 6) = 12.\nC. BCNN(4, 6) = 24.\nD. BCNN(4, 6) = 36.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTrong tập hợp BC(4, 6) ta thấy bội chung nhỏ nhất khác 0 là 12.\nNên BCNN(4, 6) = 12.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. Nếu 30 là số tự nhiên nhỏ nhất mà 30  a và 30  b thì 30 là …………….. của a và b.\nA. ước chung.\nB. bội chung.\nC. ước chung lớn nhất.\nD. bội chung nhỏ nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Nếu 30 là số tự nhiên nhỏ nhất mà 30  a và 30  b thì 30 là bội chung nhỏ nhất của a và b.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 9. Cho m = 3.5^{2}  và n = 5^{2} .7. Tìm ƯCLN(m, n):\nA. 5;\nB. 25;\nC. 75;\nD. 105.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: m = 3.5^{2}  và n = 5^{2} .7.\nTích các thừa số chung với số mũ nhỏ nhất là: 5^{2} . \nƯCLN(m, n) = 5^{2}  = 25.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 10. Cho m = 2^{2} .3.5 và n = 2.3^{2} .5. Tìm BCNN(m, n):\nA. 30;\nB. 60;\nC. 90;\nD. 180.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có m = 2^{2} .3.5 và n = 2.3^{2} .5\nTích các thừa số chung và riêng với số mũ lớn nhất là: 2^{2} .3^{2} .5 = 180.\nBCNN(m, n) = 180.\nĐáp án: D"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Cho hai số tự nhiên 15 và 25. Tập hợp BC(15, 25) là:\nA. BC(15, 25) = 75.\nB. BC(15, 25) = 0; 75; 150; 225; …\nC. BC(15, 25) = {0; 75; 150; 225; …}.\nD. BC(15, 25) = {75}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 15 = 3.5; 25 = 5^{2} .\nTích các thừa số chung và riêng với số mũ lớn nhất là: 3.5^{2} .\nBCNN(15, 25) = 3.5^{2}  = 3.25 = 75.\nBC(15, 25) = B(75) =  {0; 75; 150; 225; …}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Tìm bội chung nhỏ hơn 200 của 3, 4 và 7.\nA. 84.\nB. 0; 84.\nC. 0; 84; 168.\nD. 84; 168.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 3 = 3; 4 = 2^{2} ;  7 = 7.\nKhi đó BCNN(3, 4, 7) = 3.2^{2} .7 = 84.\nSuy ra BC(3, 4, 7) = B(84) = {0; 84; 168; 252; …}.\nBội chung nhỏ hơn 200 của 3, 4 và 7 là 0; 84; 168.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 6. Biết BCNN(84, 70) = 2^{x} .3^{y} .5^{z} .7^{t} . Tính tích x.y.z.t:\nA. 0;                               B. 2;                      C. 5;                      D. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 84 = 2^{2} .3.7;  70 = 2.5.7.\nTích các thừa số chung và riêng với số mũ lớn nhất là: 2^{2} .3.5.7.\nDo đó BCNN(84, 70) = 2^{2} .3.5.7.\nKhi đó x = 2, y = 1, z = 1, t = 1.\nVậy x.y.z.t = 2.1.1.1 = 2.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 7. Hai số có BCNN là 2^{3} .3.5^{3}  và ƯCLN là 2^{2} .5. Biết một trong hai số bằng 2^{2} .3.5, tìm số còn lại.\nA. 2^{2} .1.5^{3} ;             B. 2.1.5^{3} ;                        C. 2^{2} .1.5^{2} ;             D. 2.1.5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có tích hai số đúng bằng tích của BCNN và ƯCLN.\nNên số còn lại là: (2^{3} .3.5^{3} .2^{2} .5) : (2^{2} .3.5) = (2^{5} .3.5^{4} ):(2^{2} .3.5) \n= (2^{5} :2^{3} ).(3:3).(5^{4} :5) = 2^{2} .1.5^{3} .\nVậy số cần tìm là: 2^{2} .1.5^{3} .\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 9. Tìm BCNN(56, 24, 21).\nA. 8;\nB. 168;\nC. 21;\nD. 24.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 56 = 2^{3} .7; 24 = 2^{3} .3; 21 = 3.7.\nTích các thừa số chung và riêng với số mũ lớn nhất là: 2^{3} .3.7.\nBCNN(56, 24, 21) = 2^{3} .3.7 = 8.3.7 = 168.\nĐáp án: B"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Tìm các số tự nhiên a và b (a < b), biết ƯCLN(a, b) = 15 và BCNN(a, b) = 180. Hỏi có bao nhiêu cặp số a và b như thế? \nA. 0;\nB. 1;\nC. 2;\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nĐặt a = 15m, b = 15 n với , m < n và ƯCLN(m, n) = 1.\nTa có: ab = ƯCLN(a, b).BCNN(a, b) = 15.180 = 2 700.\nDo đó (15m).(15n) = 2700\nHay 15.15.m.n = 2 700\n225.m.n = 2 700\nm.n = 12 = 1.12 = 3.4 = 2.6.\nVì m, n là các số tự nhiên khác 0 thỏa mãn m < n và nguyên tố cùng nhau nên:\n+) m = 1, n = 12 suy ra a = 15, b = 180.\n+) m = 3, n = 4 suy ra a = 45; n = 60.\nVậy có 2 cặp (a, b).\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Học sinh lớp 6A khi xếp thành hàng 2, hàng 3, hàng 7 đều vừa đủ hàng. Hỏi số học sinh lớp 6A là bao nhiêu, biết rằng số học sinh nhỏ hơn 45?\nA. 42;\nB. 45;\nC.21;\nD. 35.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố học sinh lớp 6A khi xếp thành hàng 2, hàng 3, hàng 7 đều vừa đủ nên số học sinh là bội chung của 2, 3 và 7. \nTa có: 2 = 2, 3 = 3, 7 = 7. \nBCNN(2, 3, 7) = 2.3.7 = 42.\nBC(2, 3, 7) = B(42) = {0; 42; 84; 126; …}.\nMà số học sinh nhỏ hơn 45 nên số học sinh của 6A là 42 học sinh.\nĐáp án: A"
+    }
+]

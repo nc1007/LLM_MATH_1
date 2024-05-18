@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Quy đồng mẫu các phân số sau:\n\\(\\frac{5}{7}; \\frac{-3}{21}; \\frac{-8}{15}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Tìm mẫu số chung là BCNN của các mẫu số\n*Tìm thừa số phụ của mỗi mẫu bằng cách chia mẫu số chung cho từng mẫu\n*Nhân tử và mẫu của mỗi phân số với thừa số phụ tương ứng\nLời giải chi tiết\nTa có:\n7=7\n21=3.7\n15=3.5\n\\(\\Rightarrow\\) BCNN(7, 21, 15)=3.5.7=105\nThừa số phụ: 105 : 7 = 15; 105 : 21 = 5; 105 : 15 = 7.\nTa được: \\(\\frac{5}{7}=\\frac{5.15}{7.15}=\\frac{75}{105}\\);\n\\(\\frac{-3}{21}=\\frac{(-3). 5}{21.5}=\\frac{-15}{105}\\);\n\\( \\frac{-8}{15}=\\frac{(-8).7}{15.7}=\\frac{-56}{105}\\)"
+    },
+    {
+        "problem": "Tính đến hết ngày 31.12.2019, tổng diện tích đất rừng trên toàn quốc là khoảng 14 600 000 hécta, trong đó diện tích rừng tự nhiên khoảng 10 300 000 hecta, còn lại là diện tích rừng trồng. Hỏi diện tích rừng trồng chiếm bao nhiêu phần của tổng diện tích đất có rừng trên toàn quốc?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Tính diện tích rừng trồng\n*Tính tỉ số Diện tích rừng trồng: Tổng diện tích rừng\nLời giải chi tiết\nDiện tích rừng trồng là:\n14 600 000 – 10 300 000 = 4 300 000(ha)\nDiện tích rừng trồng chiếm số phần của tổng diện tích rừng là:\n4 300 000: 14 600 000= \\(\\frac{43}{146}\\)"
+    },
+    {
+        "problem": "Dùng tính chất cơ bản của phân số, hãy giải thích vì sao các phân số sau bằng nhau\na)\\(\\frac{20}{30}\\) và \\(\\frac{30}{45}\\)\nb)\\(\\frac{-25}{35}\\) và \\(\\frac{-55}{77}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Chia cả tử và mẫu của phân số cho ước chung của chúng, ta được 1 phân số mới bằng phân số đã cho\n*Chỉ ra 2 phân số cùng bằng 1 phân số\nLời giải chi tiết\na)      \\(\\frac{20}{30}=\\frac{20:10}{30:10}= \\frac{2}{3}\\)\n\\(\\frac{30}{45}=\\frac{30:15}{45:15}= \\frac{2}{3}\\)\nNhư vậy,\\(\\frac{20}{30} = \\frac{30}{45}\\)\nb)      \\(\\frac{-25}{35}= \\frac{(-25):5}{35:5}=\\frac{-5}{7}\\)\n\\(\\frac{-55}{77}= \\frac{(-55):11}{77:11}=\\frac{-5}{7}\\)\nNhư vậy, \\(\\frac{-25}{35}=\\frac{-55}{77}\\)"
+    },
+    {
+        "problem": "Tìm phân số lớn hơn 1 trong các phân số sau rồi viết chúng dưới dạng hỗn số.\n\\(\\frac{15}{8}; \\frac{47}{4}; \\frac{-3}{7}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số dương có tử số lớn hơn mẫu số thì phân số đó lớn hơn 1\n*Đổi phân số dương sang hỗn số: Chia tử số cho mẫu số. Thương thu được là phần nguyên. Số dư thu được là tử số của phần phân số. Mẫu số của phần phân số là mẫu số của phân số ban đầu\nLời giải chi tiết\nTa có: Các phân số lớn hơn 1 là: \\(\\frac{15}{8}; \\frac{47}{4}\\)\nVì 15:8= 1( dư 7). Ta được:\\(\\frac{15}{8}= 1\\frac{7}{8}\\)\nVì 47:4=11( dư 3). Ta được \\(\\frac{47}{4}=11\\frac{3}{4}\\)"
+    },
+    {
+        "problem": "Viết các hỗn số \\(4\\frac{1}{13}; 2\\frac{2}{5}\\) dưới dạng phân số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi hỗn số dương sang phân số: \\(a\\dfrac{b}{c} = \\dfrac{a.c+b}{c}\\)\nLời giải chi tiết\nTa có: \\(4\\dfrac{1}{13}=\\dfrac{4.13+1}{13}=\\dfrac{53}{13}\\)\n\\(2\\dfrac{2}{5}= \\dfrac{2.5+2}{5}=\\dfrac{12}{5}\\)"
+    },
+    {
+        "problem": "Tìm số nguyên x, biết\n\\(\\frac{-6}{x}=\\frac{30}{60}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất nếu \\(\\frac{a}{b}=\\frac{c}{d}\\) thì a.d= b.c\nLời giải chi tiết\nTa có:\n\\(\\frac{-6}{x}=\\frac{30}{60}\\)\nNên (-6). 60= x. 30\n-360 = x. 30\nx= (-360): 30\nx= -12\nVậy x= -12\nChú ý: Ta có thể rút gọn \\(\\frac{30}{60}= \\frac{1}{2}\\) rồi áp dụng tính chất trên."
+    },
+    {
+        "problem": "Một bộ 5 chiếc cờ lê như hình bên có thể vặn được 5 loại ốc vít có các đường kính là:\n\\(\\frac{9}{10}\\) cm; \\(\\frac{4}{5}\\) cm; \\(\\frac{3}{2}\\) cm; \\(\\frac{6}{5}\\) cm; \\(\\frac{1}{2}\\) cm\nEm hãy sắp xếp các số đo này theo thứ tự từ lớn đến bé",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*So sánh 5 phân số, sắp xếp theo thứ tự từ lớn đến bé\n*Để so sánh các phân số, ta quy đồng chúng để được các phân số có cùng mẫu số, tử số của phân số nào lớn hơn thì phân số đó lớn hơn\nLời giải chi tiết\nTa có: \\(\\frac{4}{5}=\\frac{4.2}{5.2}=\\frac{8}{10}\\)\n\\(\\frac{3}{2}=\\frac{3.5}{2.5}=\\frac{15}{10}\\)\n\\(\\frac{6}{5}=\\frac{6.2}{5.2}=\\frac{12}{10}\\)\n\\(\\frac{1}{2}=\\frac{1.5}{2.5}=\\frac{5}{10}\\)\nVì 15> 12> 9> 8 > 5 nên \\(\\frac{15}{10}> \\frac{12}{10}> \\frac{9}{10}> \\frac{8}{10} > \\frac{5}{10}\\)\nVậy \\(\\frac{3}{2}\\) cm> \\(\\frac{6}{5}\\) cm> \\(\\frac{9}{10}\\) cm> \\(\\frac{4}{5}\\) cm> \\(\\frac{1}{2}\\) cm\nChú ý: Nếu các số đo chưa ở cùng đơn vị thì ta cần đưa chúng về cùng đơn vị rồi so sánh"
+    }
+]

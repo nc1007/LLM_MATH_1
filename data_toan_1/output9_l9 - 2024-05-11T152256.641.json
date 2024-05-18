@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Theo các nhà khoa học, trong cơ thể người bình thường trung bình có khoảng 25 nghìn tỉ tế bào hồng cầu. Giả sử rằng tổng khối lượng hồng cầu này là 2,5 kg. Như vậy trong mỗi gam hồng cầu có bao nhiêu tế bào?\n(Theo healthline.com)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tế bào trong 1 gam hồng cầu = Tổng số tế bào : Khối lượng hồng cầu\nChú ý đơn vị\nLời giải chi tiết\n1 nghìn tỉ = 1.103 .109 =1012\nĐổi 1 kg = 1000 g\nTa được 2,5 kg = 2 500 g\nTrong mỗi gam hồng cầu có số tế bào là:\n25. 1012 : 2 500 = 1010 (tế bào) = 10 tỉ tế bào"
+    },
+    {
+        "problem": "Trên một tia số gốc O, ba điểm A, B và M lần lượt biểu diễn các số tự nhiên a, b và m. Hãy so sánh ba số a, b và m, biết rằng:\n* Trong ba điểm A, B và M, điểm B nằm gần gốc O nhất;\n*  Điểm M nằm giữa hai điểm A và B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Điểm A biểu diễn số tự nhiên a nên OA = a\nLời giải chi tiết\nVì ba điểm A, B và M lần lượt biểu diễn các số tự nhiên a, b và m nên OA = a, OB = b, OM =m.\nVì điểm B nằm gần gốc O nhất nên OB ngắn nhất hay b nhỏ nhất.\nMà điểm M nằm giữa hai điểm A và B, 3 điểm này nằm cùng phía với gốc O nên ta được OB < OM < OA.\nVậy b < m < a"
+    },
+    {
+        "problem": "Vận dụng dấu hiệu chia hết cho 2, 3 và 5, em hãy phân tích các số sau ra thừa số nguyên tố.\na) 9 720;\nb) 30 375.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Dấu hiệu chia hết cho 2: số có chữ số tận cùng là 0;2;4;6;8.\n+Dấu hiệu chia hết cho 5: số có chữ số tận cùng là 0;5\n+Dấu hiệu chia hết cho 3: số có tổng các chữ số là một số chia hết cho 3.\nLời giải chi tiết\na)     Ta có: 9 720 = 23 . 35 . 5\nb)    Ta có: 30 375 = 35 . 53."
+    },
+    {
+        "problem": "Hai anh Hoàng và Hà thuê trọ ở cùng một nhà nhưng làm ở hai công ty khác nhau. Anh Hoàng cứ 15 ngày đi trực một lần, anh Hà cứ 20 ngày đi trực một lần. Hai anh cùng trực vào thứ Sáu ngày 1-1-2021. Hỏi trong năm 2021, hai anh sẽ cùng trực vào ngày thứ Sáu bao nhiêu lần?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm chu kì cứ x ngày thì 2 anh cùng trực một ngày; cứ y ngày thì 2 anh cùng trực một ngày thứ Sáu.\nNăm 2021 có 365 ngày.\nLời giải chi tiết\nGọi x là số ngày ngắn nhất để 2 anh lại cùng trực một ngày.(x > 0)\ny là số ngày ngắn nhất để 2 anh lại cùng trực một ngày thứ Sáu (y > 0)\nTa có: x = BCNN (15, 20) = 60\nTa lại có 2 ngày thứ Sáu liên tiếp cách nhau 7 ngày nên y = BCNN (60,7) = 420\nVậy cần 420 ngày, 2 anh mới lại cùng trực một ngày thứ Sáu . Tuy nhiên, năm 2021 có 365 ngày nên trong năm 2021, 2 anh chỉ trực cùng nhau ngày 1-1-2021."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức P= a.b-3(17-a+2b) trong mỗi trường hợp sau:\na) a = 15 và b = -28;\nb) a = - 6 và b = 11;\nc)  a = -17 và b = -3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay các giá trị của a,b vào P rồi tính.\nLời giải chi tiết\na)     Thay a = 15 và b = -28  vào P ta được:\nP = 15. (-28) – 3. [17 – 15 + 2.(-28)]\n= (-420) – 3. [2 + (-56)]\n= (-420) – 3. (-54)\n= (-420) + 162\n= -258.\nb)    Thay a = -6 và b = 11  vào P ta được:\nP  = (-6) .11 – 3. [17 – (-6) +2 . 11]\n=  (-66) – 3 . (17 +6 +22)\n= (-66) – 3. 45\n=(-66) – 135\n= - 201\nc) Thay a = -17 và b = -3  vào P ta được:\nP = (-17) . (-3) – 3. [17 – (-17) +2.(-3)]\n=17 . 3 – 3. (17 + 17 – 6)\n= 17 . 3 – 3. 28\n= 3. (17 – 28)\n= 3. (-11)\n= -33"
+    },
+    {
+        "problem": "Trên quãng đường AB, hai xe cùng khởi hành một lúc. Xe tải đi từ A đến B hết 3 giờ, xe con đi từ B về A hết 2 giờ. Hỏi sau bao lâu thì hai xe gặp nhau?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác định xem trong 1 giờ, mỗi xe đi được bao nhiêu phần quãng đường để tìm tổng quãng đường 2 xe đi được trong 1 giờ.\nLời giải chi tiết\nTrong 1 giờ, xe tải đi được \\(\\frac{1}{3}\\) quãng đường AB, xe con đi được \\(\\frac{1}{2}\\) quãng đường AB. Như vậy,  trong 1 giờ, cả 2 xe đi được \\(\\frac{1}{3} + \\frac{1}{2} = \\frac{5}{6}\\) quãng đường AB.\n2 xe gặp nhau sau khoảng thời gian là:\n\\(1:\\frac{5}{6} = \\frac{6}{5}\\) giờ = 1 giờ 12 phút."
+    },
+    {
+        "problem": "Tính một cách hợp lí.\n\\(\\begin{array}{l}a)A =  - \\frac{{11}}{{13}} + \\frac{8}{{19}} + ( - \\frac{{54}}{{13}}) + \\frac{1}{5} + \\frac{{11}}{{19}};\\\\b)B = \\frac{{17}}{{20}} + ( - \\frac{8}{{21}}) + ( - \\frac{3}{4}) + \\frac{{29}}{{21}} - \\frac{{37}}{{20}}.\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhóm các số hạng có cùng mẫu số với nhau.\nLời giải chi tiết\n\\(\\begin{array}{l}a)A =  - \\frac{{11}}{{13}} + \\frac{8}{{19}} + ( - \\frac{{54}}{{13}}) + \\frac{1}{5} + \\frac{{11}}{{19}}\\\\ = [( - \\frac{{11}}{{13}}) + ( - \\frac{{54}}{{13}})] + (\\frac{8}{{19}} + \\frac{{11}}{{19}}) + \\frac{1}{5}\\\\ = ( - \\frac{{65}}{{13}}) + \\frac{{19}}{{19}} + \\frac{1}{5}\\\\ = ( - 5) + 1 + \\frac{1}{5}\\\\ =  - \\frac{{19}}{5}\\\\b)B = \\frac{{17}}{{20}} + ( - \\frac{8}{{21}}) + ( - \\frac{3}{4}) + \\frac{{29}}{{21}} - \\frac{{37}}{{20}}\\\\ = [( - \\frac{8}{{21}}) + \\frac{{29}}{{21}}] + (\\frac{{17}}{{20}} - \\frac{{37}}{{20}}) + ( - \\frac{3}{4})\\\\ = \\frac{{21}}{{21}} + ( - \\frac{{20}}{{20}}) + ( - \\frac{3}{4})\\\\ = 1 + ( - 1) + ( - \\frac{3}{4})\\\\ =  - \\frac{3}{4}\\end{array}\\)"
+    },
+    {
+        "problem": "Thời gian t (tính bằng phút) của hiện tượng nguyệt thực toàn phần được cho bởi công thức gần đúng:\n\\(t \\approx \\frac{{Dk - Kd}}{{60K}}\\)\nTrong đó d và D lần lượt là đường kính ( tính bằng kilomet) của Mặt Trăng và Mặt Trời; k và K lần lượt là khoảng cách (tính bằng kilomet) từ Trái Đất đến Mặt Trăng, Mặt Trời.\nSử dụng công thức trên hãy cho biết hiện tượng nguyệt thực toàn phần kéo dài trong bao lâu giây (làm tròn kết quả đến hàng phần trăm)\nCho biết: d = 3,48.103 ; D = 1,41 . 106 ; k = 3,82.105 ; K = 1,48 . 108.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay các giá trị của d, D, k, K vào công thức\nLời giải chi tiết\nHiện tượng nguyệt thực toàn phần kéo dài trong:\n\\(\\frac{{{{1.41.10}^6}{{.3.82.10}^5} - 1,{{48.10}^8}.3,{{48.10}^3}}}{{60.1,{{48.10}^8}}} \\approx 2,65\\)phút = 2 phút 39 giây"
+    },
+    {
+        "problem": "Trong khoảng thời gian từ năm 1977 đến năm 1999, một tàu vũ trụ đi được 22 tỉ dặm trong vũ trụ (dặm là một đơn vị đo chiều dài của các nước nói tiếng Anh, 1 dặm= 1,609 344 km). Em hãy cho biết:\na) Mỗi ngày, tàu vũ trụ đi được bao nhiêu dặm?\nb) Mỗi giờ, tàu vũ trụ đi được bao nhiêu dặm?\n(Làm tròn kết quả đến chữ số thập phân thứ nhất).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm số ngày trong khoảng thời gian từ năm 1977 đến năm 1999.\nLời giải chi tiết\nTrong khoảng thời gian từ năm 1977 đến năm 1999, có 22 năm, trong đó có 5 năm nhuận nến số ngày trong khoảng thời gian từ năm 1977 đến năm 1999 là:\n22.365 + 5 = 8 035 (ngày)\nMỗi ngày, tàu vũ trụ đi được số dặm là:\n22.109 : 8 035 \\( \\approx \\) 2 738 021, 2 (dặm)\nMỗi giờ, tàu vũ trụ đi được số dặm là:\n2 738 021, 2 : 24 \\( \\approx \\) 114 084,2 (dặm)"
+    }
+]

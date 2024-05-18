@@ -1,0 +1,158 @@
+[
+    {
+        "problem": "B. 2xy + 3y;\nC. x^{2}  + y;\nD. t^{2 } + t + \\frac{1}{t}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBiểu thức đại số 3x + 1 là đơn thức một biến x.\nBiểu thức đại số 2xy + 3y không là đơn thức một biến x vì có cả biến y.\nBiểu thức đại số x^{2}  + y không phải là đa thức một biến x vì có cả biến y.\nBiểu thức đại số t^{2 } + t + \\frac{1}{t}không phải là đa thức một biến t.\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 2. Bậc của đa thức 5x^{2}  + 3x + 1 là?\nA. 5;\nB. 3;\nC. 2;\nD. 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nSố mũ cao nhất của biến là 2 nên bậc của đa thức là 2.\nTa chọn phương án C."
+    },
+    {
+        "problem": "Câu 3. Giá trị của biểu thức A = –2a + b + 20 tại a = 1, b = 2 là:\nA. 20;\nB. 1;\nC. 2;\nD. -2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThay a = 1, b = 2 vào biểu thức A ta được:\nA = –2. 1 + 2 + 20 = 20\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 4. Viết đa thức bậc nhất có hệ số của biến bằng 2 và hệ số tự do bằng 2022.\nA. x – 2022;\nB. x + 2022;\nC. 2x – 2022;\nD. 2x + 2022.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nGọi đa thức bậc nhất cần tìm có dạng ax + b (a ≠ 0).\nVì đa thức này có hệ số của biến bằng 2 nên a = 2.\nĐa thức có hệ số tự do bằng 2022 nên b = 2022.\nDo đó đa thức cần tìm là 2x + 2022.\nVậy ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 5. Trong các số sau, số nào là nghiệm của đa thức A(x) = 3x + 6?\nA. 2;\nB. –2;\nC. 3;\nD. –3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nCách 1: Tìm trực tiếp nghiệm của đa thức\nA(x) = 0\nSuy ra 3x + 6 = 0\nHay 3x = –6\nDo đó x = –2.\nVậy x = –2 là nghiệm của đa thức A(x).\nTa chọn phương án B.\nCách 2: Xét từng phương án:\n• Tại x = 2 ta có:\nA(2) = 3.2 + 6 = 12 ≠ 0 \nDo đó số 2 không là nghiệm của A(x).\n• Tại x = –2 ta có:\nA(–2) = 3.(–2) + 6 = 0 \nDo đó số –2 là nghiệm của A(x).\n• Tại x = 3 ta có:\nA(3) = 3.3 + 6 = 15 ≠ 0 \nDo đó số 3 không là nghiệm của A(x).\n• Tại x = –3 ta có:\nA(–3) = 3.(–3) + 6 = –3 ≠ 0 \nDo đó số –3 không là nghiệm của A(x).\nVậy ta chọn phương án B."
+    },
+    {
+        "problem": "Câu 6. Cho đa thức P(x) = 4x^{3}  + 3x^{2}  + 2 – 4x^{3}  + 1. Tổng các hệ số của đa thức P(x) là:\nA. 3;\nB. 4;\nC. 5;\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có::\nP(x) = 4x^{3}  + 3x^{2}  + 2 – 4x^{3}  + 1\n= (4x^{3}  – 4x^{3} ) + 3x^{2}  + (2 + 1)\n= 3x^{2}  + 3\nTổng các hệ số là 3 + 3 = 6.\nTa chọn phương án D."
+    },
+    {
+        "problem": "Câu 7. Cho hai đa thức A(x) = 5x^{4}  + 4x^{3}  + 2x + 1 và B(x) = –5x^{4}  + x^{3}  + 3x^{2}  + x – 1. Tìm đa thức M(x) sao cho M(x) = A(x) + B(x).\nA. M(x) = 5x^{3}  – 3x^{2}  + 3x;\nB. M(x) = 5x^{3}  + 3x^{2}  + 3x;\nC. M(x) = 5x^{3}  + 3x^{2}  – 3x;\nD. M(x) = 5x^{3}  – 3x^{2}  – 3x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: M(x) = A(x) + B(x) \n= (5x^{4}  + 4x^{3}  + 2x + 1) + (–5x^{4}  + x^{3}  + 3x^{2}  + x – 1)\n= 5x^{4}  + 4x^{3}  + 2x + 1 – 5x^{4}  + x^{3}  + 3x^{2}  + x – 1\n= (5x^{4}  – 5x^{4} ) + (4x^{3}  + x^{3} ) + 3x^{2}  + (2x + x) + (1 – 1)\n= 5x^{3}  + 3x^{2}  + 3x.\nVậy M(x) = 5x^{3}  + 3x^{2}  + 3x.\nTa chọn phương án B."
+    },
+    {
+        "problem": "Câu 8. A(x) = 5x^{4}  + 4x^{3}  + 2x + 1 và B(x) = –5x^{4}  + x^{3}  + 3x^{2}  + x – 1. Tìm đa thức N(x) sao cho N(x) = A(x) – B(x).\nA. N(x) = 10x^{4}  + 3x^{3}  – 3x^{2}  + x + 2;\nB. N(x) = 10x^{4}  – 3x^{3}  + 3x^{2}  + x + 2;\nC. N(x) = 10x^{4}  + 3x^{3}  + 3x^{2}  + x + 2;\nD. N(x) = 10x^{4}  + 3x^{3}  – 3x^{2}  + x – 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: N(x) = A(x) – B(x) \n= (5x^{4}  + 4x^{3}  + 2x + 1) – (–5x^{4}  + x^{3}  + 3x^{2}  + x – 1)\n= 5x^{4}  + 4x^{3}  + 2x + 1 + 5x^{4}  – x^{3}  – 3x^{2}  – x + 1\n= (5x^{4}  + 5x^{4} ) + (4x^{3}  – x^{3} ) – 3x^{2}  + (2x – x) + (1 + 1)\n= 10x^{4}  + 3x^{3}  – 3x^{2}  + x + 2.\nVậy N(x) = 10x^{4}  + 3x^{3}  – 3x^{2}  + x + 2.\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 9. Cho hai đa thức P(x) = x^{2}  – 5x + 4 và Q(x) = 6x + 1. Tính A(x) = P(x).Q(x).\nA. A(x) = 6x^{3}  + 29x^{2}  + 19x + 4\nB. A(x) = 6x^{3}  – 29x^{2}  + 19x + 4\nC. A(x) = 6x^{3}  – 29x^{2}  + 19x – 4\nD. A(x) = 6x^{3}  – 29x^{2}  – 19x + 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: A(x) = P(x).Q(x) \n= (x^{2}  – 5x + 4).(6x+1)\n= x^{2} .6x + x^{2} .1 – 5x.6x – 5x.1 + 4.6x + 4.1\n= 6x^{3}  + x^{2}  – 30x^{2}  – 5x + 24x + 4\n= 6x^{3}  + (x^{2}  – 30x^{2} ) + (– 5x + 24x) + 4\n= 6x^{3}  – 29x^{2}  + 19x + 4\nVậy A(x) = 6x^{3}  – 29x^{2}  + 19x + 4.\nTa chọn phương án B."
+    },
+    {
+        "problem": "Câu 11. Một người làm vườn có hai khu vườn, khu vườn hình chữ nhật có chiều dài x + 2 (m), chiều rộng là x – 1 (m), khu vườn hình vuông có cạnh là x + 1 (m). Tính tổng diện tích hai khu vườn.\nA. 2x^{2}  – 3x – 3 (m^{2} );\nB. 2x^{2}  + 3x – 3 (m^{2} );\nC. 2x^{2}  – 3x + 3 (m^{2} );\nD. 2x^{2}  + 3x + 3 (m^{2} ).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nDiện tích khu vườn hình chữ nhật là: \n(x + 2)(x – 1) \n= x.x – x.1 + 2.x – 2 .1\n= x^{2}  + x – 2 (m^{2} )\nDiện tích khu vườn hình vuông là: \n(x + 1)^{2}  \n= (x + 1).(x + 1) \n= x.x + x.1 + 1.x + 1.1 \n= x^{2}  + 2x + 1 (m^{2} )\nTổng diện tích của hai khu vườn là:\nx^{2}  + x + 2 + x^{2}  + 2x + 1 \n= (x^{2}  + x^{2} ) + (x + 2x) + (2 + 1)\n= 2x^{2}  + 3x + 3 (m^{2} )\nVậy tổng diện tích của hai khu vườn là 2x^{2}  + 3x + 3 (m^{2} ).\nTa chọn phương án D."
+    },
+    {
+        "problem": "Câu 12. Một mảnh đất hình chữ nhật có chiều dài là 4x^{2}  + 20x + 25 (m), chiều rộng bằng 4x^{2}  + 12x (m). Biết chiều dài hơn chiều rộng là 41 m. Tính chu vi mảnh đất.\nA. 242 m;\nB. 240 m;\nC. 244 m;\nD. 246 m.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì chiều dài hơn chiều rộng là 41 m nên ta có:\n4x^{2}  + 20x + 25 – (4x^{2}  + 12x) = 41\n4x^{2}  + 20x + 25 – 4x^{2}  – 12x = 41\n(4x^{2}  – 4x^{2} ) + (20x – 12x) = 41 – 25 \n8x = 16\nx = 2\nChiều rộng mảnh đất là: \n4.2^{2}  + 12.2 = 4.4 + 24 = 16 + 24 = 40 (m)\nChiều dài mảnh đất là: \n4.2^{2}  + 20.2 + 25 = 4. 4 + 40 + 25 = 81 (m)\nChu vi mảnh đất là: \n(40 + 81).2 = 242 (m)\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 13. Một sân vận động hình chữ nhật có chiều dài là 5x + 3 (m) và chiều rộng là 5x – 3 (m). Mỗi cạnh được chừa ra 3 m làm lối đi, phần trong là phần trồng cỏ.\n13.1. Biểu thức S biểu thị diện tích trồng cỏ của sân vận động là:\nA. 25x^{2 } – 30x (m^{2} );\nB. 25x^{2 } – 9 (m^{2} );\nC. 25x^{2 } – 15x (m^{2} );\nD. 25x^{2 } – 15x – 18 (m^{2} ).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nChiều rộng sân cỏ là:\n5x – 3 – 3 = 5x – 6 (m)\nChiều dài sân cỏ là: \n5x + 3 – 3 = 5x (m)\nDiện tích trồng cỏ là: \nS = (5x – 6).5x \n= 5x.5x – 6.5x \n= 25x^{2 } – 30x (m^{2} )\nVậy S = 25x^{2 } – 30x (m^{2} )\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 13. Một sân vận động hình chữ nhật có chiều dài là 5x + 3 (m) và chiều rộng là 5x – 3 (m). Mỗi cạnh được chừa ra 3 m làm lối đi, phần trong là phần trồng cỏ.\n13.2. Tính số tiền trồng cỏ cho mặt sân khi x = 10. Biết số tiền để trồng 1 m^{2}  cỏ là 50 000 đồng.\nA. 110 000 000 đồng;\nB. 115 000 000 đồng;\nC. 120 000 000 đồng;\nD. 125 000 000 đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có S = 25x^{2 } – 30x (m^{2} )\nVới x = 10 ta có:\nS = 25.10^{2}  – 30.10 \n= 25.100 – 300 \n= 2200 (m^{2} )\nSố tiền để trồng cỏ là: \n2200. 50 000 = 110 000 000 đồng.\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 14. Một doanh nghiệp sản xuất cà phê cho biết sau khi rang xong, khối lượng cà phê giảm 12% so với trước khi rang. Để có khoảng 5 tấn cà phê sau khi rang thì doanh nghiệp cần sử dụng bao nhiêu tấn cà phê trước khi rang (làm tròn kết quả đến chữ số hàng phần trăm)?\nA. 5,58 tấn;\nB. 5,68 tấn;\nC. 5,78 tấn;\nD. 5,88 tấn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nGiả sử khối lượng cà phê trước khi rang là x (tấn)\nKhối lượng cà phê bị hao hụt khi rang là: \n12%.x = 0,12x (tấn)\nKhối lượng cà phê sau khi rang là:\nx – 0,12x (tấn)\nĐể có được khoảng 5 tấn cà phê sau khi rang thì ta có:\nx – 0,12x = 5\nSuy ra x(1 – 0,12) = 5\nHay 0,88.x = 5\nDo đó x ≈ 5,68\nVậy để có được khoảng 5 tấn cà phê sau khi rang thì doanh nghiệp cần sử dụng khoảng 5,68 tấn cà phê trước khi rang."
+    },
+    {
+        "problem": "Câu 15. Bác An gửi ngân hàng thứ nhất 100 triệu đồng với kì hạn 1 năm, lãi suất x%/năm. Bác An gửi ngân hàng thứ hai 100 triệu đồng với kì hạn 1 năm, lãi suất (x + 1,5)%/năm. Hết kì hạn 1 năm, bác An có được cả gốc lẫn lãi là bao nhiêu ở cả hai ngân hàng?\nA. 2x + 201,5 triệu đồng;\nB. 2x + 200 triệu đồng;\nC. 2x + 200,5 triệu đồng;\nD. 2x – 201,5 triệu đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nSố tiền lãi ở ngân hàng thứ nhất sau 1 năm là: \n100.x%=100.\\frac{x}{100}=x (triệu đồng)\nSố tiền cả gốc lẫn lãi ở ngân hàng thứ nhất sau kì hạn 1 năm là: \n100 + x (triệu đồng)\nSố tiền lãi ở ngân hàng thứ hai là: \n100.(x+1,5)%=100.\\frac{x+1,5}{100}=x+1,5 (triệu đồng)\nSố tiền cả gốc lẫn lãi ở ngân hàng thứ hai sau kì hạn 1 năm là: \n100 + x + 1,5 = 101,5 + x (triệu đồng)\nSố tiền bác An có được khi hết kì hạn 1 năm ở cả hai ngân hàng là:\n100 + x + 101,5 + x = 2x + 201,5 (triệu đồng)\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 16. Viết biểu thức đại số biểu thị tổng quãng đường đi được của một người, biết rằng người đó đi bộ trong x (giờ) với vận tốc 4 (km/h) và sau đó đi bằng xe đạp trong y (giờ) với vận tốc 18 (km/h)\nA. 4(x + y);\nB. 22(x + y);\nC. 4y + 18x;\nD. 4x + 18y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nQuãng đường mà người đó đi bộ là : 4.x = 4x (km)\nQuãng đường mà người đó đi bằng xe đạp là: 18.y = 18y (km)\nTổng quãng đường đi được của người đó là: 4x + 18y (km)\nVậy ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 17. Hệ số cao nhất và hệ số tự do của đa thức –7x^{5}  – 9x^{2}  + x^{6}  – x^{4}  + 10 lần lượt là:\nA. –7 và 10;\nB. 10 và –7;\nC. 10 và 1;\nD. 1 và 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nSắp xếp đa thức đã cho theo lũy thừa giảm dần của biến y như sau:\n–7x^{5}  – 9x^{2}  + x^{6}  – x^{4}  + 10\n= x^{6}  – 7x^{5}  –x^{4}  – 9x^{2}  + 10\nHệ số cao nhất của đa thức đã cho là 1.\nHệ số tự do của đa thức đã cho là 10.\nVậy ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 18. Theo tiêu chuẩn của Tổ chức Y tế thế giới (WHO), đối với bé gái công thức tính cân nặng chuẩn là C = 9 + 2(N – 1) (kg) với N là số tuổi của bé gái. Cân nặng chuẩn của bé gái 4 tuổi là:\nA. 15 kg;\nB. 16 kg;\nC. 17 kg;\nD. 18 kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nCân nặng chuẩn của bé gái 4 tuổi là: \nC = 9 + 2(4 – 1) = 9 + 2.3 = 9 + 6 = 15 (kg)\nVậy cân nặng chuẩn của bé gái 4 tuổi là 15 kg."
+    },
+    {
+        "problem": "Câu 19. Tính giá trị biểu thức B = 5x^{2}  – 2x – 18 tại |x| = 4\nA. B = 54;\nB. B = 70;\nC. B = 54 hoặc B = 70;\nD. B = 45 hoặc B = 70.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có |x| = 4 suy ra x = 4 hoặc x = –4.\n+) Trường hợp 1: x = 4. \nThay x = 4 vào biểu thức B ta được:\nB = 5.4^{2}  – 2.4 – 18 \n= 5.16 – 8 –18 \n= 80 – 8 – 18 \n= 54\nVậy B = 54 khi x = 4\n+) Trường hợp 2: x = –4. \nThay x = –4 vào biểu thức ta được:\nB = 5.(–4)^{2}  – 2.(–4) – 18 \n= 5.16 + 8 – 18 \n= 80 + 8 – 18 \n= 70\nVậy B = 70 khi x = –4\nVậy với |x| = 4 thì B = 54 hoặc B = 70."
+    },
+    {
+        "problem": "Câu 20. Quan hệ giữa quãng đường chuyển động y (m) và thời gian chuyển động x (giây) của chuyển động rơi tự do được biểu diễn gần đúng bởi công thức y = 5x^{2} . Người ta thả rơi tự do một vật nặng từ độ cao 200 m xuống đất. Hỏi khi vật nặng còn cách mặt đất 20 m thì nó đã rơi được thời gian bao lâu?\nA. 4 giây;\nB. 5 giây;\nC. 6 giây;\nD. 7 giây.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nKhi vật còn cách mặt đất 20 m thì nó đã rơi được:\n200 – 20 = 180 (m)\nKhi đó ta có: 5x^{<span>2</span>}  = 180\nSuy ra x^{2}  = 36 = 6^{2}  = (–6)^{2} \nVì x (giây) là thời gian chuyển động nên x > 0 \nDo đó ta có x = 6.\nVậy vật nặng rơi được 6 giây thì còn cách mặt đất 20 m.\nTa chọn phương án C."
+    },
+    {
+        "problem": "Câu 22. Ước tính chiều cao của con gái khi trưởng thành dựa trên chiều cao b của bố và chiều cao m của mẹ là \\frac{1}{2}. (0,923b + m). Chiều cao ước tính của con gái khi bố cao 175 cm và mẹ cao 155 cm là (làm tròn kết quả đến chữ số thâp phân thứ nhất):\nA. 158,2625 cm;\nB. 158 cm;\nC. 158,2 cm;\nD. 158,3 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nThay chiều cao của bố và của mẹ vào công thức \\frac{1}{2}. (0,923b + m) ta được:\n\\frac{1}{2}. (0,923 . 175 + 155) = 158,2625 (cm) ≈ 158,3 (cm).\nVậy chiều cao ước tính của con gái khi trưởng thành là khoảng 158,3 cm nếu bố cao 175 cm và mẹ cao 155 cm.\nVậy ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 23. Xác định P(x) = ax^{2}  + bx + c biết P(1) = 0; P(–1) = 6 và P(2) = 3\nA. P(x) = 3x – 3;\nB. P(x) = –2x^{2}  – 3x + 5;\nC. P(x) = 2x^{2}  – 3x + 1;\nD. P(x) = 2x^{2}  – 3x – 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n• Thay x = 1 vào P(x) = ax ^{2}  + bx + c ta được:\nP(1) = a. 1^{2}  + b.1 + c \n= a + b + c\nMà P(1) = 0 nên a + b + c = 0 \nSuy ra a + c = –b (1)\n• Thay x = –1 vào P(x) = ax ^{2}  + bx + c ta được:\nP(–1) = a.(–1)^{2}  + b.(–1) + c \n= a – b + c\nMà P (–1) = 6 nên a – b + c = 6 \nSuy ra a + c = 6 + b (2)\n• Thay x = 2 vào P(x) = ax ^{2}  + bx + c ta được:\nP(2) = a. 2^{2}  + b.2 + c \n= 4a + 2b + c\nMà P(2) = 3 nên 4a + 2b + c = 3 (3)\n• Từ (1), (2) ta có –b = 6 + b \nSuy ra: –2b = 6 \nDo đó b = –3\n• Thay b = –3 vào (1) ta được: a + c = 3 \nSuy ra c = 3 – a (4) \nThay b = –3 và c = 3 – a vào (3) ta được:\n4a + 2.(–3) + 3 – a = 3\n(4a – a) – 6 + 3 = 3\n3a = 6\nDo đó a = 2\nThay a = 2 vào (4) ta được c = 3 – 2 = 1\nDo đó ta có: a = 2, b = –3 và c = 1.\nVậy P(x) = 2x^{2 } – 3x + 1."
+    },
+    {
+        "problem": "Câu 24. Cho B = (m – 1)(m + 6) – (m + 1)(m – 6). Chọn kết luận đúng.\nA. B ⁝ 10 với mọi m ∈ ℤ; \nB. B ⁝ 15 với mọi m ∈ ℤ;\nC. B ⁝ 9 với mọi m ∈ℤ; \nD. B ⁝ 20 với mọi m ∈ ℤ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có B = (m – 1)(m + 6) – (m + 1)(m – 6)\n= m.m + m.6 – (1.m + 1.6) – (m.m – m.6 + 1.m – 1.6)\n= m^{2}  + 6m – m – 6 – (m^{2}  – 6m + m – 6)\n= m^{2}  + 5m – 6 – m^{2}  + 6m – m + 6 \n= (m^{2}  – m^{2} ) + (5m + 6m – m) + (–6 + 6)\n= 10m\nNhận thấy 10 ⁝ 10 \nDo đó 10.m ⁝ 10 \nNên B ⁝ 10 với mọi giá trị nguyên của m.\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 25. Bạn Nam dự định mua 4 quyển vở có giá 5 000 đồng/quyển và 5 chiếc bút giá x đồng/ chiếc. Khi đến cửa hàng, bạn Nam thấy giá quyển vở mà bạn định mua đã giảm 20% và giá chiếc bút đã tăng 10%. Viết biểu thức T tính số tiền bạn Nam phải trả khi mua số quyển vở, bút khi đã thay đổi giá và hỏi nếu bạn Nam mang 70 000 đồng có đủ để mua số lượng đồ đó không? Biết số tiền mang đi vừa đủ để mua vở và bút như dự định khi chưa thay đổi giá.\nA. T = 20 000 + 5x (đồng) và Nam mang đủ tiền;\nB. T = 16 000 + 4,5x (đồng) và Nam mang đủ tiền;\nC. T = 16 000 + 5,5x (đồng) và Nam mang thiếu tiền;\nD. T = 20 000 + 5,5x (đồng) và Nam mang thiếu tiền.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nMỗi quyển vở được giảm 20% nên quyển vở lúc này có giá bằng 100% – 20% = 80% giá niêm yết.\nGiá một quyển vở khi đã giảm giá là: \n5 000 . 80% = 4 000 (đồng)\nGiá mua 4 quyển vở khi đã giảm giá là: \n4. 4 000 = 16 000 (đồng)\nMỗi chiếc bút có giá x đồng, cửa hàng tăng giá 10% nên mỗi chiếc bút lúc này có giá bằng 100% + 10% = 110% giá niêm yết.\nGiá một chiếc bút khi đã tăng giá là: \nx.110% = 1,1x (đồng)\nGiá mua 5 chiếc bút khi đã tăng giá là:\n5. 1,1x = 5,5x (đồng)\nDo đó số tiền bạn Nam phải trả khi mua 4 quyển vở và 5 chiếc bút là: \nT = 16 000 + 5,5x (đồng)\nGiá mua 4 quyển vở khi chưa giảm giá là:\n4. 5 000 = 20 000 (đồng)\nGiá mua 5 chiếc bút khi chưa tăng giá là: \n5.x (đồng)\nGiá tiền Nam phải trả khi mua 4 quyển vở và 5 chiếc bút khi chưa thay đổi giá là:\n20 000 + 5x (đồng)\nMà bạn Nam mang 70 000 đồng đủ để mua 4 quyển vở và 5 chiếc bút khi chưa thay đổi giá nên ta có:\n20 000 + 5x = 70 000 (đồng)\nSuy ra 5x = 50 000\nDo đó x = 10 000 (đồng)\nTa thay x = 10 000 đồng vào biểu thức T = 16 000 + 5,5x ta được:\nT = 16 000 + 5,5 . 10 000 = 71 000 (đồng)\nVậy với 70 000 đồng thì bạn Nam không đủ để mau 4 quyển vở và 5 chiếc bút khi thay đổi giá.\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 26. Cho biểu thức P(x) = x^{2} (x^{2}  + x + 1) – 3x(x – a) + 4. Tìm a sao cho tổng các hệ số của đa thức bằng –2.\nA. –1;\nB. 1;\nC. –2;\nD. 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nP(x) = x^{2} (x^{2}  + x + 1) – 3x(x – a) + 4\n= x^{4}  + x^{3}  + x^{2}  – 3x^{2}  + 3ax + 4\n= x^{4}  + x^{3}  – 2x^{2}  + 3ax + 4\nTa có:\nHệ số của lũy thừa bậc 4 của x là 1;\nHệ số của lũy thừa bậc 3 của x là 1;\nHệ số của lũy thừa bậc 2 của x là –2;\nHệ số của lũy thừa bậc 1 của x là 3a;\nHệ số tự do là 4;\nTổng các hệ số của đa thức P(x) là:\n1 + 1 + (–2) + 3a + 4 = 3a + 4 \nDo tổng các hệ số của đa thức P(x) bằng –2 nên ta có:\n3a + 4 = –2 \nSuy ra 3a = –6\nDo đó a = –2 \nTa chọn phương án C."
+    },
+    {
+        "problem": "Câu 30. Cho A = (3x + 7)(2x + 3) – (3x – 5)(2x + 11)\nVà B = x(2x + 1) – x^{2} (x + 2) + x^{3}  – x + 3. \nChọn khẳng định đúng trong các khẳng định sau:\nA. A = B; \nB. A = 25B; \nC. A = 25B + 1;\nD. A = 2B.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nA = (3x + 7)(2x + 3) – (3x – 5)(2x + 11)\n= 3x.2x + 3x.3 + 7.2x + 7.3 – (3x.2x + 3x.11 – 5.2x – 5.11)\n= 6x^{2}  + 9x + 14x + 21 – (6x^{2}  + 33x – 10x – 55)\n= 6x^{2}  + 23x + 21 – 6x^{2}  – 33x + 10x + 55 \n= (6x^{2}  – 6x^{2} ) + (23x – 33x + 10x) + (21 + 55)\n= 76\nB = x(2x + 1) – x^{2} (x + 2) + x^{3}  – x + 3\n= x.2x + x – (x^{2} .x + 2x^{2} ) + x^{3}  – x + 3\n= 2x^{2}  + x – x^{3}  – 2x^{2}  + x^{3}  – x + 3 \n= (–x^{3}  + x^{3} ) + (2x^{2}  – 2x^{2} ) + (x – x) + 3\n= 3\nTừ đó ta có A = 76; B = 3 \nMà 76 = 25.3 + 1 nên A = 25B + 1.\nTa chọn phương án C."
+    }
+]

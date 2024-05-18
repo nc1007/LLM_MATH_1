@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 6: Chọn dáu thích hợp để điền vào chỗ chấm:\n41,7 - 26,34 ... 50 - 33,92\nA. =\t \nB. > \nC. <",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 41,7 - 26,34 = 15,36;   50 - 33,92 = 16,08\nMà 15,36 < 16,08\nVậy 41,7 - 26,34 < 50 - 33,92."
+    },
+    {
+        "problem": "Câu 11: : Một thùng đựng 65 kg đường. Người ta lấy ra từ thùng đó 23,5 kg đường, sau đó lại lấy ra 8,75 kg đường nữa. Hỏi trong thùng còn lại bao nhiêu ki-lô-gam đường?\nA.\t33,75 kg\nB.\t32,25 kg\nC.\t32,75 kg\nD.\t41,5 kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Người ta đã lấy ra số ki-lô-gam đường là:\n23,5 + 8,75 = 33,25 (kg) \nTrong thùng còn lại số ki-lô-gam đường là:\n65 - 32,25 = 23,75 (kg) \nĐáp số: 32,75kg."
+    },
+    {
+        "problem": "Câu 12: Cho số 79,468. Hỏi số này thay đổi như thế nào nếu xóa bỏ hai chữ số 4 và 8 ở phần thập phân?\nA.\tTăng 0,168 đơn vị\nB.\tGiảm 0,008 đơn vị\nC.\tGiảm 0,4408 đơn vị\nD.\tTăng 0,132 đơn vị",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 79,468 khi xóa bỏ hai chữ số 4 và 8 ở phần thập phân thì được số mới là 79,6.\nTa có: 79,468 < 79,6.\nSố ban đầu sau khi xóa bỏ hai chữ số 4 và 8 ở phần thập phân đã tăng lên số đơn vị là:  \n79,6 − 79,468 = 0,132"
+    },
+    {
+        "problem": "Câu 13: Biết trung bình cộng của ba số 208. Tổng của số thứ nhất và số thứ hai là 442,45. Tổng của số thứ hai và số thứ ba là 426,8. Hỏi trong ba số đã cho, số lớn nhất là số nào?\nA.\tSố thứ nhất\nB.\tSố thứ hai\nC.\tSố thứ ba",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng của ba số đó là : \n208 × 3 = 624\nSố thứ ba là: \n624 − 442,45 = 181,55\nSố thứ hai là:  \n426,8 − 181,55 = 245,25\nSố thứ nhất là:   \n442,45 − 245,25 = 197,2\nTa có 181,55 < 197,2 < 245,25 nên số thứ hai là số lớn nhất trong ba số."
+    }
+]

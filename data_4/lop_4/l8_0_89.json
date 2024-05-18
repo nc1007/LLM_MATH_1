@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1: Phép cộng các số tự nhiên có những tính chất nào dưới đây?\nA.\tTính chất giao hoán\nB.\tTính chất kết hợp\nC.\tTính chất cộng với số 0\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép cộng các số tự nhiên có tính chất:\n- Tính chất giao hoán: Khi đổi chỗ các số hạng trong một tổng thì tổng không thay đổi.\n- Tính chất kết hợp: Khi cộng một tổng hai số với số thứ ba, ta có thể cộng số thứ nhất với tổng của số thứ hai và số thứ ba.\n- Tính chất cộng với số 0: Mọi số tự nhiên cộng với số 0 đều bằng chính số đó.\nVậy các đáp án A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 2: Biểu thức a - b + c×5 + 2018 được gọi là:\nA.\tBiểu thức có chứa năm chữ\nB.\tBiểu thức có chứa ba chữ\nC.\tBiểu thức có chứa hai chữ\nD.\tBiểu thức có chứa bốn chữ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu thức a−b+c×5+2018 bao gồm các số, dấu tính và ba chữ a,b,c.\nVậy biểu thức đã cho là biểu thức có chứa ba chữ."
+    },
+    {
+        "problem": "Câu 8: Tìm x, biết x∶123 = 3256 - 2765.\nA.\tx = 60393\nB.\tx = 60273\nC.\tx = 60283\nD.\tx = 60383",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "x:123 = 3256−2765\nx:123 = 491\nx = 491×123\nx = 60393\nVậy đáp án đúng là x=60393."
+    },
+    {
+        "problem": "Câu 10: Với a = 138, b = 95 thì giá trị của biểu thức 246 + 113×a - b là:\nA.\t5105\nB.\t15437\nC.\t15745\nD.\t49447",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a=138,b=95 thì\n246+113×a−b=246+113×138−95=246+15594−95=15840−95=15745\nVậy với a=138, b=95 thì  biểu thức 246+113×a−b có giá trị là 15745.\nChú ý\nHọc sinh có thể làm sai khi tính lần lượt từ trái sang phải, từ đó chọn đáp án sai là D."
+    },
+    {
+        "problem": "Câu 14: Một mảnh đất hình chữ nhật có diện tích bằng diện tích mảnh đất  hình vuông cạnh 90m. Tính chu vi mảnh đất  hình chữ nhật đó, biết rằng chiều dài mảnh đất hình chữ nhật là 135m.\nA.\t390m\nB.\t340m\nC.\t195m\nD.\t170m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích mảnh đất hình vuông là:\n            90×90=8100(m^{2} )\nVậy diện tích mảnh đất hình chữ nhật là 8100m^{2} .\nChiều rộng mảnh đất hình chữ nhật đó là:\n           8100:135=60(m)\nChu vi mảnh đất hình chữ nhật đó là:\n            (135+60)×2=390(m)\n                                             Đáp số: 390m."
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1. Tia phân giác của một góc là:\nA. Tia nằm giữa hai cạnh của góc;\nB. Tia tạo với hai cạnh của góc hai góc bằng nhau;\nC. Tia nằm giữa hai cạnh của góc và tạo với hai cạnh ấy hai góc bằng nhau;\nD. Cả A, B, C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có tia phân giác của một góc là tia xuất phát từ đỉnh của góc, đi qua một điểm trong của góc và tạo với hai cạnh của góc đó hai góc bằng nhau.\nVậy chọn đáp án C."
+    },
+    {
+        "problem": "Câu 2.\n Với những điều kiện sau, điều kiện nào khẳng định tia Ot là tia phân giác của góc xOy?\nA.  = ; \nB.  +  = ;\nC.  +  =  và  = ;\nD. Tất cả các câu trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nĐể tia Ot là tia phân giác của góc xOy thì  =  và  +  = .\nVậy đáp án C đúng."
+    }
+]

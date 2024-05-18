@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Bài 3: Xe thứ hai đi chậm hơn xe thứ nhất 15km/h. Nếu gọi vận tốc xe thứ hai là x (km/h) thì vận tốc xe thứ nhất là:\nA. x – 15 (km/h)\nB. 15x (km/h)\nC. x + 15(km/h)\nD. 15 : x (km/h)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì xe thứ hai đi chậm hơn xe thứ nhất 15km/h nên vận tốc xe thứ nhất nhiều hơn vận tốc xe thứ hai là 15km/h\nDo đó nếu vậ tốc xe thứ hai là x (km/h) thì vận tốc xe thứ nhất là x + 15 (km/h)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 4: Xe máy và ô tô cùng đi trên một con đường, biết vận tốc của xe máy là x (km/h) và mỗi giờ ô tô lại đi nhanh hơn xe máy 20km. Công thức tính vận tốc ô tô là:\nA. x – 20 (km/h)\nB. 20x (km/h)\nC. 20 – x (km/h)\nD. 20 + x (km/h)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nMỗi giờ ô tô lại đi nhanh hơn xe máy 20km nghĩa là vận tốc ô tô lớn hơn vận tốc xe máy 20km/h.\nKhi dó vận tốc ô tô là x + 20 (km/h)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 5: Hai xe khởi hành cùng một lúc, xe thứ nhất đến sớm hơn xe thứ hai 3 giờ. Nếu gọi thời gian đi của xe thứ nhất là x giờ thì thời gian của xe thứ hai là:\nA. (x – 3) giờ\nB. 3x giờ\nC. (3 – x) giờ\nD. (x + 3) giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì hai xe khởi hành cùng một lúc, xe thứ nhất đến sớm hơn xe thứ hai 3 giờ nên thời gian xe thứ hai đi nhiều hơn xe thứ nhất 3 giờ.\nNếu thời gian đi của xe thứ nhất là x giờ thì thời gian đi của xe thứ hai là x + 3 giờ.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 6: Một ca nô và một tàu thủy khởi hành cùng một lúc trên một con sông. Biết tàu thủy đến chậm hơn ca nô 3 giờ. Nếu gọi thời gian đi của tàu thủy là x thì thời gian đi của ca nô là:\nA. x – 3\nB. 3x\nC. 3 – x\nD. x + 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTàu thủy đến chậm hơn ca nô 3 giờ hay thời gian đi của tàu thủy nhiều hơn ca nô là 3 giờ, nghĩa là ca nô đi với thời gian ít hơn tàu thủy 3 giờ.\nThời gian đi của tàu thủy là x – 3 (h)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 7: Chu vi một mảnh vườn hình chữ nhật là 45m. Biết chiều dài hơn chiều rộng 5m. Nếu gọi chiều rộng mảnh vườn là x (x > 0; m) thì phương trình của bài toán là\nA. (2x + 5).2 = 45\nB. x + 3\nC. 3 – x\nD. 3x",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi chiều rộng mảnh vườn là x (x > 0; m)\nVì chiều dài hơn chiều rộng 5m nên chiều dài mảnh vườn là x + 5 (m)\nVì chu vi mảnh vườn hình chữ nhật là 45m nên ta có phương trình:\n(x + x + 5).2 = 45 ⇔ 2(2x + 5) = 45\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 8: Một hình chữ nhật có chiều dài là x (cm), chiều dài hơn chiều rộng 3(cm). Diện tích hình chữ nhật là 4 (cm^{2} ). Phương trình ẩn x là:\nA. 3x = 4\nB. (x + 3).3 = 4\nC. x(x + 3) = 4\nD. x(x – 3) = 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nVì chiều dài hơn chiều rộng 3 cm nên chiều rộng là x – 3 (cm)\nVì diện tích hình chữ nhật là 4 (cm^{2} ) nên ta có phương trình: x(x – 3) = 4\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 11: Một xưởng dệt theo kế hoạch mỗi ngày phải dệt 30 áo. Trong thực tế mỗi ngày xưởng dệt được 40 áo nên đã hoàn thành trước thời hạn 3 ngày, ngoài ra còn làm thêm đươc 20 chiếc áo nữa. Hãy chọn câu đúng. Nếu gọi thời gian xưởng làm theo kế hoạch là x (ngày, x > 30). Thì phương trình của bài toán là:\nA. 40x = 30(x – 3) – 20\nB. 40x = 30(x – 3) + 20\nC. 30x = 40(x – 3) + 20\nD. 30x = 40(x – 3) – 20",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi thời gian xưởng làm theo kế hoạch là x (ngày, x > 30)\nTổng số áo theo kế hoạch là 30x (áo)\nVì đội hoàn thành trước thời hạn 3 ngày nên thời gian làm theo thực tế là x – 3 ngày\nVì theo thực tế đội làm thêm được 20 sản phẩm nên ta có phương trình\n40(x – 3) = 30x + 20 ⇔ 40(x – 3) – 20 = 30x.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 17: Một hình chữ nhật có chu vi 372 m nếu tăng chiều dài 21m và tăng chiều rộng 10m thì diện tích tăng 2862m^{2} . Chiều dài của hình chữ nhật là:\nA. 132m\nB. 124m\nC. 228m\nD. 114m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNửa chu vi của hình chữ nhật là: 372 : 2 = 186 (m)\nGọi chiều dài hình chữ nhật là x(m), (0 < x < 186)\n⇒ Chiều rộng hình chữ nhật là: 186 – x (m)\nDiện tích hình chữ nhật là: x(186 – x) = 186x – x^{2}  (m^{2} )\nTăng chiều dài lên 21m thì chiều dài mới là: x + 21 (m)\nTăng chiều rộng lên 10m thì chiều rộng là: 186 – x + 10 = 196 – x (m).\nDiện tích hình chữ nhật mới là: (x +21)(196 – x) = 175x – x^{2}  + 4116 (m^{2} )\nTheo đề bài ta có phương trình: 186x – x^{2}  + 2862 = 175x – x^{2}  + 4116\n⇔ 11x = 1254 ⇔ x = 114 (TM)\nVậy chiều dài hình chữ nhật là 114m.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 18: Một mảnh vườn hình chữ nhật có chu vi 56m. Nếu tăng chiều dài 4m và giảm chiều rộng 2m thì diện tích tăng 8m^{2} . Chiều dài của hình chữ nhật là:\nA. 16m\nB. 18m\nC. 15m\nD. 32m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nNửa chu vi của hình chữ nhật là: 56 : 2 = 28 (m)\nGọi chiều dài hình chữ nhật là x(m), (0 < x < 28)\n⇒ Chiều rộng hình chữ nhật là: 28 – x (m)\nDiện tích hình chữ nhật là: x(28 – x) = 28x – x^{2}  (m^{2} )\nTăng chiều dài lên 21m thì chiều dài mới là: x + 4 (m)\nGiản chiều rộng 2m thì chiều rộng mới là: 28 – x – 2 = 26 – x (m).\nDiện tích hình chữ nhật mới là: (x +4)(26 – x) = 104 + 22x – x^{2}  (m^{2} )\nTheo đề bài ta có phương trình: 28x – x^{2}  + 8 = 104 + 22x – x^{2} \n⇔ 6x = 96 ⇔ x = 16 (TM)\nVậy chiều dài hình chữ nhật là 16m.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 19: Năm nay tuổi mẹ gấp 3 lần tuổi Phương. Phương tính rằng 13 năm nữa thì tuổi mẹ chỉ còn gấp 2 lần tuổi Phương. Hỏi năm nay Phương bao nhiêu tuổi?\nA. 13 tuổi\nB. 14 tuổi\nC. 15 tuổi\nD. 16 tuổi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi x là tuổi của Phương năm nay. Điều kiện: x nguyên dương.\nTuổi của mẹ năm nay là 3x tuổi.\n13 năm nữa tuổi của Phương là: x + 13 (tuổi)\n13 năm nữa tuổi của mẹ Phương là: 3x + 13 (tuổi)\n13 năm nữa thì tuổi mẹ chỉ còn gấp 2 lần tuổi Phương nên ta có phương trình:\n3x + 13 = 2(x + 13) ⇔ 3x + 13 = 2x + 26 ⇔ x = 13 (tm)\nVậy Phương năm nay 13 tuổi\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 27: Một đội máy cày dự định cày 40 ha ruộng 1 ngày. Do dự cố gắng, đội đã cày được 52 ha mỗi ngày. Vì vậy, chẳng những đội đã hoàn thành sớm hơn 2 ngày mà còn cày vượt mức được 4 ha nữa. Tính diện tích ruộng đội phải cày theo dự định.\nA. 300 ha\nB. 630 ha\nC. 420 ha\nD. 360 ha",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi số ngày dự kiến đội hoàn thành cày ruộng theo kế hoạch là x (ngày, x > 0)\nĐội hoàn thành diện tích ruộng theo kế hoạch là: 40x (ha)\nThời gian thực tế đội hoàn thành diện tích ruộng là: x – 2 (ngày)\nĐọi hoàn thành diện tích ruộng theo thực tế là: 52(x – 2) (ha)\nVì tổ vượt mức 4ha nen ta có phương trình: 52(x – 2) = 40x + 4\n⇔ 12x = 108 ⇔ x = 9 (thỏa mãn)\nVậy diện tích ruộng cần cày theo dự định là 9.40 = 360 (ha)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 28: Một đội thợ mỏ theo kế hoạch mỗi ngày phải khai thác 50m^{3}  than. Do siêng năng làm việc nên trên thực tế mỗi ngày đội khai thác được 57m^{3}  than. Vì vậy không những đã xong trước thời hạn 1 ngày mà còn vượt mức 13m^{3}  than. Theo kế hoạch, đội phải khai thác số m^{3}  than là:\nA. 500m^{3} \nB. 513m^{3} \nC. 487m^{3} \nD. 513m^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi số ngày dự kiến đội hoàn thành khai thác theo kế hoạch là x (ngày, x > 0)\nThời gian đội hoàn thanh khai thác theo thực tế là: x – 1 (ngày)\nLượng than đội dự kiến khai thác là: 50x(m^{3} )\nLượng than đội khai thác thực tế là 57(x – 1) (m^{3} )\nVì đội vượt mức 13m^{3}  nên ta có phương trình:\n57(x – 1) = 50x + 13 ⇔ 7x = 70 ⇔ x = 10 (thỏa mãn)\nVậy lượng than dự định khai thác là: 10.50 = 500 (m^{3} )\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 31: Lúc 7 giờ một người đi xe máy khởi hành từ A với vận tốc 30 km/h. Sau đó một giờ, người thứ hai cũng đi xe máy từ A đuổi theo với vận tốc 45 km/h. Hỏi đến mấy giờ người thứ hai mới đuổi kịp người thứ nhất?\nA. 7 giờ\nB. 8 giờ\nC. 10 giờ\nD. 9 giờ",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nGọi thời gian người thứ nhất đi đến gặp nhau là x (x > 1) (giờ)\nThì thời gian người thứ hai đi đến khi gặp nhau là x – 1 (giờ)\nVì quãng đường hai người đi là bằng nhau nên ta có phương trình\n30x = 45(x – 1) ⇔ 15x = 45 ⇔ x = 3 (TM)\nVậy người thứ hai đuổi kịp người thứ nhất lúc 7 + 3 = 10 giờ\nĐáp án cần chọn là: C"
+    }
+]

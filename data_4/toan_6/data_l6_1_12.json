@@ -1,0 +1,140 @@
+[
+    {
+        "problem": "B.{6;7;8;9;10} \nC.{1;2;3;4} \nD.{1;2;3;4;5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTập hợp các số tự nhiên khác 0 và nhỏ hơn 5 là tập hợp {1;2;3;4}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Số la mã XVII có giá trị là:\nA. 7 \nB. 15 \nC. 12 \nD. 17",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố la mã XVII có giá trị tương ứng trong hệ thập phân là 17.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Cách tính đúng của phép tính 7^{4} .7^{3}  là:\nA. 7^{4} .7^{3}  = 7^{12} \nB. 7^{4} .7^{3}  = 1^{1} \nB. 7^{4} .7^{3}  = 14^{7} \nD. 7^{4} .7^{3}  = 7^{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n7^{4} .7^{3}  = 7^{4+3}  = 7^{7} \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 4. Với x ≠ 0 ta có x^{8} :x^{2}  bằng:\nA. x^{4} \nB. x^{6} \nC. x\nD. x^{10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVới x ≠ 0 thì x^{8} :x^{2 } = x^{8-2}  = x^{6} \nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 5. Chọn câu đúng.\nA. 10000 = 10^{3} \nB. 1020^{0 } = 0\nC. x.x^{7 } = x^{7} \nD. 12^{7} :12^{3 } = 12^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n10000 = 10^{4} \n1020^{0 } = 1\nx.x^{7 } = x^{1+7 } = x^{8} \n12^{7} :12^{4 } = 12^{7-4 } = 12^{3} \nDo đó chỉ có đáp án D đúng.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Tập hợp A = {3, 6, 9, 12,..., 150} có số phần tử là:\nA. 47 \nB. 48\nC. 50\nD. 51",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố phần tử của tập hợp chính là số số hạng của dãy 3, 6, 9,…, 150 và bằng:\n(150 − 3):3 + 1 = 50\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Cho tập hợp A = {x∈N|5 < x < 50, x⋮15}. Các phần tử của A là:\nA. A = {15; 30; 45}\nB. A = {10, 20, 30, 40}\nC. A = {15, 25, 35, 45}\nD. A = {15, 30, 45, 46}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTheo đề bài thì ta tìm trong khoảng từ 5 đến 50 các số chia hết cho 15 là: 15, 30, 45.\nDo đó A = {15, 30, 45}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Cho tập hợp A = {x∈N|2 < x ≤ 8}. Kết luận nào sau đây không đúng?\nA. 8A\nB. Tập hợp A có 6 phần tử\nC. 2A\nD. Tập hợp A gồm các số tự nhiên lớn hơn 2 và nhỏ hơn hoặc bằng 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong cách viết A = {x∈N|2 < x ≤ 8}, ta chỉ ra tính chất đặc trưng cho các phần tử x của tập hợp A đó là x > 2 và x ≤ 8 . Do đó 2 không là phần tử của tập A nên C sai.\nTập A còn có cách viết: A={3;4;5;6;7;8}⇒A có 6 phần tử nên đáp án B đúng. Dễ thấy A, D đều đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 9. Số phần tử của tập hợp các số tự nhiên chẵn lớn hơn 10 nhưng không vượt quá 2012 là:\nA. 500\nB. 1000\nC. 1001\nD. 501",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi B là tập hợp các số tự nhiên chẵn lớn hơn 10 nhưng không vượt quá 2012.B={1012;1014;1016;...;2008;2012}Xét dãy số 1012;1014;1016;...;2008;2012Ta thấy dãy trên là dãy số cách đều 2 đơn vị Số số hạng của dãy số trên là: (2012−1012):2+1=501 số hạngSố phần tử của tập hợp B cũng chính là số số hạng của dãy số trên Nên tập hợp các số tự nhiên chẵn lớn hơn 1010 nhưng không vượt quá 2012 có 501 phần tử.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 10. Cho tập hợp X = {2; 4}; Y = {1; 3; 7}Tập hợp M gồm các phần tử mà mỗi phần tử là tích của một phần tử thuộc X và một phần tử thuộc Y là:\nA. M = {2; 6; 14; 4; 12; 28}\nB. M = {2; 6; 14; 4; 12}\nC. M = {1; 2; 3; 4; 6}\nD. M = {2; 6; 14; 12}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nX = {2; 4}; Y = {1; 3; 7}Lấy mỗi phần tử thuộc tập hợp X nhân lần lượt với từng phần tử thuộc tập hợp Y ta được: 2.1 = 2; 2.3 = 6; 2.7 = 14; 4.1 = 4; 4.3 = 12; 4.7 = 28\nVậy M = {2; 6; 14; 4; 12; 28}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Tìm x biết: 914−[(x−300)+x]=654\nA. x = 560\nB. x = 280\nC. x = 20\nD. x = 40",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \n914 − [(x − 300) + x] = 654\n914 − (x – 300 + x) = 654\n914 − (2x − 300) = 654\n2x – 300 = 914 − 654\n2x – 300 = 260\n2x = 260 + 300\n2x = 560\nx = 560:2\nx = 280Vậy x = 280.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 12. BCNN(9; 24) là bao nhiêu?\nA. 54\nB. 18\nC. 72\nD. 36",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n9 = 3^{2} ; 24 = 2^{3} .3\n⇒ BCNN(9; 24) = 2^{3} .3^{3 } = 8.9 = 72\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13. Chọn câu đúng. BCNN(18; 32; 50) là một số:\nA. Có tổng các chữ số là 10\nB. Lẻ\nC. Chia hết cho 10\nD. Có chữ số hàng đơn vị là 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n18 = 2.3^{2} ; 32 = 2^{5} ; 50 = 2.5^{2} \nNên BCNN(18; 32; 50) = 2^{5} .3^{2} .5^{2 } = 7200.\nVì 7200 chia hết cho 10 nên C đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 15. Có bao nhiêu số tự nhiên x biết x⋮5; x⋮6 và 0 < x < 100.\nA. 1\nB. 2\nC. 5\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDo x⋮5;x⋮6 ⇒ x∈BC(5; 6) = {0; 30; 60; 90; 120;...}\nMà 0 < x < 100 nên x∈{30; 60; 90}\nVậy x∈{30; 60; 90}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 16. Cho A = 18 + 36 + 72 + 2x. Tìm giá trị của x biết rằng A chia hết cho 9và 45 < x < 55\nA. x = 45\nB. x = 54\nC. A, B đều sai\nD. A, B đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có A=18+36+72+2x\n mà A⁝9; 18⁝9; 36⁝9; 72⁝9 ⇒ 2x⁝9 ⇒ x⁝9\nMà 45 < x < 55 ⇒ x = 54\nVậy x = 54.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 17. Một trường học có khoảng từ 100 đến 150 học sinh khối 6. Khi xếp thành 10 hàng, 12 hàng, 15 hàng đều vừa đủ. Vậy hỏi số học sinh khối 6 của trường đó là bao nhiêu?\nA. 110\nB. 120\nC. 140\nD. 125",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số học sinh khối 6 là x(xN*) (học sinh)\nTheo bài ra ta có:\nx⁝10, x⁝12; x⁝15 ⇒ xBC(10; 12; 15) và 100 ≤ x ≤ 150.\nTa có\n10 = 2.5; 12 = 2^{2} .3;15 = 3.5\n⇒ BCNN(10; 12; 15) = 2^{2} .3.5 = 60\n⇒ BC(10; 12; 15) = {0; 60; 120; 180;...}\n⇒ x {0; 60; 120; 180;...}\nMà 100 ≤ x ≤ 150 nên x = 120.\nVậy số học sinh khổi 6 là 120 bạn.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 18 : Một buổi liên hoan ban tổ chức đã mua tất cả 840 cái bánh, 2352 cái kẹo và 560 quả quýt chia đều ra các đĩa, mỗi đĩa gồm cả bánh, kẹo và quýt. Tính số đĩa nhiều nhất mà ban tổ chức phải chuẩn bị?\nA. 28\nB. 48\nC. 63\nD. 56",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số đĩa cần chẩn bị là x cái (xN*)Vì số bánh, kẹo và quýt được chia đều vào các đĩa nên: 840⁝x; 2352⁝x; 560⁝xVà x là lớn nhất nên x = ƯCLN(840; 2352; 560)Ta có: \n840 = 2^{3} .3.5.7; 560 = 2^{4} .5.7; 2352 = 2^{4} .3.7^{2} \nSuy raƯCLN(840; 2352; 560) = 2^{3} .7 = 56Vậy số đĩa nhiều nhất cần chuẩn bị là 56 .\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 19. Giá trị của A = 28.231 + 69.28 + 72.231 + 69.72 gần nhất với số nào dưới đây?\nA. 30005\nB. 30100\nC. 31000\nD. 30010",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\n28.231 + 69.28 + 72.231 + 69.72\n= (28.231 + 69.28) + (72.231 + 69.72)\n= 28.(231 + 69) + 72.(231 + 69)\n= 28.300 + 72.300\n= 300.(28 + 72)\n= 300.100\n= 30000\nNhận thấy số 30000 gần với số 30005nhất trong các đáp ánnên chọn A.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 20. Tìm x biết \n (2x − 130):4 + 213 = 5^{2 } + 193\nA. x = 30\nB. x = 50\nC. x = 57\nD. x = 75",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n(2x − 130):4 + 213 = 5^{2 } + 193\n(2x − 130):4 + 213 = 25 + 193\n(2x − 130):4 + 213 = 218\n(2x − 130):4 = 218 − 213\n(2x − 130):4 = 52\nx – 130 = 5.42\nx – 130 = 202\nx = 20 + 1302\nx = 150\nx = 150:2\nx = 75\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 21. Tìm một số có hai chữ số biết rằng khi viết thêm chữ số 0 vào giữa hai chữ số của số đó thì được số mới gấp 7 lần số đã cho.\nA. 15\nB. 54\nC. 25\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi số có hai chữ số cần tìm là  (0 < a ≤ 9; 0 ≤ b ≤ 9; a,b∈N).\nKhi viết thêm chữ số 0 vào giữa hai chữ số ta được số mới là a0b¯\nTheo bài ra ta có:\na0b¯=7.ab¯\n100.a + b = 7.(10.a + b)\n100.a + b = 70.a + 7.b\n100.a − 70.a = 7.b − b\n30.a = 6.b\n5.a = b\nVì a, b là các chữ số và a ≠ 0 nên a = 1; b = 5\nVậy số cần tìm là 15.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 22. Biết 4 số tự nhiên liên tiếp mà tổng bằng 2010. Số nhỏ nhất trong 4 số đó là\nA. 502\nB. 500\nC. 505\nD. 501",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi n∈Nta có các số: n; n+1; n+2; n+3 là 4 số tự nhiên liên tiếp.\nTheo đề bài ta có:\nn + (n + 1) + (n + 2) + (n + 3) = 2010\n4.n + 6 = 2010\n4n = 2010−6\n4n = 2004\nn = 2004:4\nn = 501.\nVậy 4 số tự nhiên đó là 501; 502; 503; 504.\nSố nhỏ nhất là 501.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 23. Cần bao nhiêu chữ số để đánh số trang (bắt đầu từ trang 1) của một cuốn sách có 1031 trang?\nA. 2017\nB. 3071\nC. 3017\nD. 3008",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa chia các số trang của cuốn sách thành 4 nhóm:\n+ Nhóm các số có 1 chữ số (từ trang 1 đến trang 9): số chữ số cần dùng là 9.\n+ Nhóm các số có hai chữ số (từ trang 10 đến trang 99): số trang sách là: \n(99 − 10):1 + 1 = 90, số chữ số cần dùng là: 90.2 = 180 .\n+ Nhóm các số có 3 chữ số (từ trang 100 đến trang 999): số trang sách là:\n (999 − 100):1 + 1 = 900\n, số chữ số cần dùng để đánh số trang nhóm này là: 900.3 = 2700.\n+Nhóm các số có 4 chữ số (từ trang 1000 đến trang 1031): số trang sách là: \n(1031 − 1000):1 + 1 = 32 ; số chữ số cần dùng là 32.4 = 128 .\nVậy tổng số chữ số cần dùng để đánh số trang cuốn sách đó là:\n 9 + 180 + 2700 + 128 = 3017\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 24. Cho2 số:14n + 3 và 21n + 4 với n là số tự nhiên, chọn đáp án đúng.\nA. Hai số trên có hai ước chung\nB. Hai số trên có ba ước chung\nC. Hai số trên là hai số nguyên tố cùng nhau\nD. Hai số trên chỉ có một ước chung là 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi d = UCLN(14n+3; 21n+4) ta có:\n14n+3⋮d21n+4⋮d⇒314n+3⋮d221n+4⋮d⇒42n+9⋮d42n+8⋮d⇒42n+9−42n+8⋮d⇒1⋮d⇒d=1\nVậy ƯCLN(14n + 3; 21n + 4) = 1 hay hai số đó là hai số nguyên tố cùng nhau.\nĐáp án cần chọn là: C"
+    }
+]

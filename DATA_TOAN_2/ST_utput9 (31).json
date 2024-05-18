@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "\na) Theo em, khối lượng của hộp màu hồng nặng khoảng 6 kg hay 7 kg?\nb) Khối lượng của hộp màu vàng nặng khoảng 4 kg hay 5 kg?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát mũi tên chỉ số cân gần số nào hơn thì khối lượng khoảng từng đó kg.\nLời giải chi tiết\na) Mũi tên chỉ số cân gần số 6 hơn nên khối lượng màu hồng nặng khoảng 6kg.\nb) Mũi tên chỉ số cân gần số 5 hơn nên khối lượng của hộp màu vàng nặng khoảng 5 kg."
+    },
+    {
+        "problem": "Làm tròn số 3,14159 tới hàng phần nghìn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Xác định số ở hàng làm tròn.\n+ Để làm tròn một số thập phân dương tới một hàng nào đấy (gọi là hàng làm tròn) ta\nlàm như sau:\n- Đối với chữ số hàng làm tròn:\nGiữ nguyên nếu chữ số ngay bên phải nhỏ hơn 5;\nTăng 1 đơn vị nếu chữ số ngay bên phải lớn hơn hay bằng 5.\n- Đối với các chữ số sau hàng làm tròn:\nBỏ đi nếu ở phần thập phân\nThay bởi các chữ số 0 nếu ở phần số nguyên.\nLời giải chi tiết\nChữ số ở hàng phần nghìn là chữ số 1.\nChữ số bên phải hàng phần nghìn là số 5 nên ta tăng 1 thêm 1 đơn vị ở hàng phần nghìn. Ta có số được làm tròn là 3,142."
+    },
+    {
+        "problem": "Em hãy đọc đoạn tin ngắn ở phần mở đầu rồi làm tròn số 479 633 tới hàng nghìn và làm tròn số 232,142 372 tới hàng đơn vị. So sánh hai kết quả với các số liệu trong tiêu đề của đoạn tin đó.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Xác định số ở hàng làm tròn.\n+ Để làm tròn một số thập phân dương tới một hàng nào đấy (gọi là hàng làm tròn) ta làm như sau:\n- Đối với chữ số hàng làm tròn:\nGiữ nguyên nếu chữ số ngay bên phải nhỏ hơn 5;\nTăng 1 đơn vị nếu chữ số ngay bên phải lớn hơn hay bằng 5.\n- Đối với các chữ số sau hàng làm tròn:\nBỏ đi nếu ở phần thập phân\nThay bởi các chữ số 0 nếu ở phần số nguyên.\nLời giải chi tiết\n+) Làm tròn số 479 633 tới hàng nghìn :\nChữ số ở hàng làm tròn là chữ số 9.\nChữ số ngay bên phải hàng làm tròn là 6 > 5 nên ta tăng chữ số hàng làm tròn thêm 1 đơn vị; các chữ số sau hàng làm tròn thuộc phần số nguyên nên ta thay bằng chữ số 0 . Khi đó ta được số làm tròn là: 480 000.\n+) Làm tròn số 232,142 372 tới hàng đơn vị:\nChữ số ở hàng làm tròn là chữ số 2.\nChữ số ngay bên phải hàng làm tròn là 1 < 5 nên ta giữ nguyên chữ số ở hàng làm tròn; các chữ số sau hàng làm tròn thuộc phần thập phân nên ta bỏ đi hết . Khi đó ta được số làm tròn là: 232."
+    },
+    {
+        "problem": "Một xe hàng có khối lượng không hàng hóa là 12 tấn. Trên xe chở 9 thùng hàng, mỗi thùng có khối lượng là 1,3 tấn. Một cây cầu có biển chỉ dẫn cho phép qua cầu không?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính khối lượng của xe và của 9 thùng hàng. Nếu vượt quá 25 tấn thì xe không được phép đi qua cầu\nLời giải chi tiết\nDựa vào biển báo, ta thấy xe không quá 25 tấn được phép đi qua cầu.\nKhối lượng 9 thùng hàng là:\n1,3.9=11,7 tấn.\nKhối lượng cả xe và 9 thùng hàng là:\n11,7+12=23,7 tấn < 25 tấn\nVậy xe được phép qua cầu."
+    },
+    {
+        "problem": "Làm tròn số 387,0094 tới hàng:\na) phần mười;\nb) trăm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Xác định chữ số ở hàng làm tròn.\n+ Để làm tròn một số thập phân dương tới một hàng nào đấy (gọi là hàng làm tròn) ta làm như sau:\n- Đối với chữ số hàng làm tròn:\nGiữ nguyên nếu chữ số ngay bên phải nhỏ hơn 5;\nTăng 1 đơn vị nếu chữ số ngay bên phải lớn hơn hay bằng 5.\n- Đối với các chữ số sau hàng làm tròn:\nBỏ đi nếu ở phần thập phân\nThay bởi các chữ số 0 nếu ở phần số nguyên.\nLời giải chi tiết\na) Chữ số ở hàng làm tròn là số 0.\nChữ số ngay bên phải hàng làm tròn là số 0< 5 nên ta giữ nguyên số 0 ở hàng phần mười. Các chữ số sau hàng làm tròn ở phần thập phân nên ta bỏ đi . Khi đó ta được số làm tròn là: 387,0=387.\nb) Chữ số ở hàng làm tròn là số 4.\nChữ số ngay bên phải hàng làm tròn là số 8 > 5 nên ta tăng chữ số ở hàng trăm thêm 1 đơn vị. Các chữ số sau hàng làm tròn ở phần nguyên thì ta thay bởi các chữ số 0, ở phần thập phân thì ta bỏ đi . Khi đó ta được số làm tròn là: 400"
+    },
+    {
+        "problem": "Trong bốn số sau có một số là kết quả phép tính 256,3 + 892,37 + 45. Bằng cách ước lượng, em hãy cho biết số đó là số nào.\n(A) 1 190,65\n(B) 2 356,67\n(C) 1 193,67\n(D) 128,67.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta làm tròn các số đến hàng đơn vị.\nLời giải chi tiết\nTa có: \\(256,3 + 892,37 + 45 \\approx 256+892+45=1193\\). Vậy đáp án đúng là C."
+    },
+    {
+        "problem": "Chia đều một thanh gỗ dài 6,32 m thành bốn đoạn bằng nhau. Tính độ dài mỗi đoạn gỗ (Làm tròn kết quả tới hàng phần chục).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Tính độ dài mỗi đoạn thanh gỗ.\nBước 2: Làm tròn đến hàng phần chục.\nChú ý: Để làm tròn số thập phân dương tới một hàng nào đó ( gọi là hàng làm tròn) ta làm như sau:\n- Đối với chữ số hàng làm tròn:\n+ Giữ nguyên nếu chữ số ngay bên phải nhỏ hơn 5;\n+Tăng 1 đơn vị nếu chữ số ngay bên phải lớn hơn hoặc bằng 5\n- Đối với chữ số sau hàng làm tròn:\n+ Bỏ đi nếu ở phần thập phân;\n+ Thay bằng các chữ số 0 nếu ở phần số nguyên\nLời giải chi tiết\nĐộ dài thanh gỗ là:\n6,32:4=1,58 (m) \\(\\approx\\) 1,6 (m) (vì chữ số ở hàng ngay bên phải hàng làm tròn là 8>5 nên ta tăng chữ số hàng làm tròn lên 1 đơn vị).\nVậy thanh gỗ gần bằng 1,6m."
+    },
+    {
+        "problem": "Để đo khoảng cách giữa các hành tinh trong hệ Mặt Trời, người ta sử dụng đơn vị thiên văn là AU (1 AU xấp xỉ bằng khoảng cách giữa Trái Đất và Mặt Trời, được tính chính xác là 149 597 870 700 m). Để dễ viết, dễ nhớ, người ta nói 1 AU bằng khoảng 150 triệu kilômét. Nói như vậy nghĩa là ta đã làm tròn số liệu trên tới hàng nào?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 149 597 870 700 m về đơn vị km\nLàm tròn số 149 597 870,7 km đến hàng triệu\nLời giải chi tiết\n149 597 870 700 m =149 597 870,7 km\nLàm tròn số 149 597 870,7 km thành 150 triệu kilômét nghĩa là ta đã làm tròn số đến hàng triệu hoặc hàng chục triệu vì:\n+) Nếu làm tròn đến hàng triệu: Chữ số ngay sau hàng làm tròn là 5 nên tăng chữ số ở hàng làm tròn thêm 1 đơn vị. Các chữ số sau hàng làm tròn thay bằng chữ số 0.\n+) Nếu làm tròn đến hàng chục triệu: Chữ số ngay sau hàng làm tròn là 9 nên tăng chữ số ở hàng làm tròn thêm 1 đơn vị. Các chữ số sau hàng làm tròn thay bằng chữ số 0."
+    },
+]

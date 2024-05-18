@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Bài 5: Hãy chọn câu sai\nA. Hai tam giác bằng nhau thì đồng dạng\nB. Hai tam giác đều luôn đồng dạng với nhau\nC. Hai tam giác đồng dạng là hai tam giác có tất cả các cặp góc tương ứng bằng nhau và các cặp cạnh tương ứng tỉ lệ\nD. Hai tam giác vuông luôn đồng dạng với nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hai tam giác bằng nhau có các cặp góc tương ứng bằng nhau và các cạnh tương ứng bằng nhau nên chúng đồng dạng theo tỉ số 1.\n+ Hai tam giác đều có các góc đều bằng 60^{0}  và các cạnh tương ứng tỉ lệ nên chúng đồng dạng.\n+ Hai tam giác vuông chưa chắc đồng dạng nên D sai.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 6: Hãy chọn câu đúng.\nA. Hai tam giác bằng nhau thì đồng dạng\nB. Hai tam giác đồng dạng thì bằng nhau\nC. Hai tam giác bằng nhau thì không đồng dạng\nD. Hai tam giác vuông luôn đồng dạng với nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hai tam giác bằng nhau có các cặp góc tương ứng bằng nhau và các cạnh tương ứng bằng nhau nên chúng đồng dạng theo tỉ số 1 nên A đúng, C sai.\n+ Hai tam giác đồng dạng thì chưa chắc bằng nhau, nó chỉ bằng nhau khi tỉ số đồng dạng bằng 1 nên B sai.\n+ Hai tam giác vuông chưa chắc đồng dạng nên D sai.\nĐáp án cần chọn là: A"
+    }
+]

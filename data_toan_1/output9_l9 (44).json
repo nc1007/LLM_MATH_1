@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "Tính một cách hợp lí:\na) 2021 + 2022 + 2023 + 2024 + 2025 + 2026 + 2027 + 2028 + 2029\nb) 30.40.50.60",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Nhóm các số thích hợp để được các tổng bằng nhau\nb) Tách các số thành tích của 1 số nhân với 10\nLời giải chi tiết\na) \\(2021 + 2022 + 2023 + 2024 + 2025 + 2026 + 2027 + 2028 + 2029\\)\n\\(\\begin{array}{l} = \\left( {2021 + 2029} \\right) + \\left( {2022 + 2028} \\right) + \\left( {2023 + 2027} \\right) + \\left( {2024 + 2026} \\right) + 2025\\\\ = 4050 + 4050 + 4050 + 4050 + 2025\\\\ = 4050.4 + 2025\\\\ = 16200 + 2025\\\\ = 18225\\end{array}\\)\nb) Cách 1:\n\\(30.40.50.60 =(30.60).(40.50)=1800.2000=3600000\\)\nCách 2:\n\\(\\begin{array}{l}30.40.50.60 = 3.10.4.10.5.10.6.10\\\\ = 3.4.5.6.10000\\\\ = 3.20.6.10000\\\\ = 3.2.6.10.10000\\\\ = 36.100000\\\\ = 3600000\\end{array}\\)"
+    },
+    {
+        "problem": "Bình được mẹ mua cho 9 quyển vở, 5 cái bút bi và 2 cục tẩy. Giá mỗi quyển vở là 6500 đồng; giá mỗi cái bút bi là 4500 đồng; giá mỗi cục tẩy là 5 000 đồng. Mẹ Bình đã mua hết bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy số lượng nhân với giá tiền mỗi loại tương ứng rồi tính tổng\nLời giải chi tiết\nMẹ Bình đã mua hết số tiền là:\n9.6500 + 5.4500 + 2.5000 = 91 000 (đồng)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một chiếc đồng hồ đánh chuông theo đúng giờ. Đúng 8 giờ, nó đánh 8 tiếng “boong”; đúng 9 giờ nó đánh 9 tiếng “boong”…Từ lúc đúng 8 giờ đến lúc đúng 12 giờ trưa cùng ngày, nó đánh bao nhiêu tiếng “boong”?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng số tiếng đánh “boong” của 8 giờ, 9 giờ, 10 giờ, 11 giờ, 12 giờ\nLời giải chi tiết\nTừ lúc đúng 8 giờ đến lúc đúng 12 giờ trưa cùng ngày, nó đánh số tiếng “boong” là:\n8 + 9 + 10 +11 +12 = (8 + 12) + (9 +11) + 10 = 20 + 20 + 10 = 50\nVậy từ lúc đúng 8 giờ đến lúc đúng 12 giờ trưa cùng ngày đồng hồ đánh 50 tiếng “boong”.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Biết rằng độ dài đường xích đạo khoảng 40 000km. Khoảng cách giữa thành phố Hà Nội và Thành phố Hồ Chí Minh khoảng 2 000km. Độ dài đường xích đạo dài gấp mấy lần khoảng cách giữa hai thành phố trên?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lần = độ dài đường xích đạo : khoảng cách giữa hai thành phố.\nLời giải chi tiết\nĐộ dài đường xích đạo dài gấp số lần khoảng cách giữa hai thành phố trên là:\n40 000 : 2 000 = 20 (lần)\nVậy độ dài đường xích đạo dài gấp 20 lần khoảng cách giữa TP Hà Nội và TP Hồ Chí Minh."
+    },
+    {
+        "problem": "Viết gọn các tích sau bằng cách dùng lũy thừa.\na) 5.5.5\nb) 7.7.7.7.7.7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(a.a...a=a^n\\) (n thừa số a)\nLời giải chi tiết\na) \\(5.5.5 = {5^3}\\)\nb) \\(7.7.7.7.7.7 = {7^6}\\)"
+    },
+    {
+        "problem": "a) Viết các tích sau dưới dạng lũy thừa: 3.3.3;              6.6.6.6.\nb) Phát biểu hoàn thiện các câu sau:\n\\({3^2}\\) còn gọi là “3…” hay “…của 3”;  \\({5^3}\\) còn gọi là “5…” hay “…của 5”.\nc) Hãy đọc các lũy thừa sau và chỉ rõ cơ số, số mũ: \\({3^{10}}\\); \\({10^5}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lũy thừa bậc n của a, kí hiệu \\({a^n}\\), là tích của n thừa số a.\n\\({a^n} = a.a.\\,\\,....\\,\\,a\\,(n \\ne 0)\\)(n thừa số a)\nTa đọc \\({a^n}\\) là “a mũ n” hoặc “a lũy thừa n” hoặc “lũy thừa bậc n của a”.\nSố a được gọi là cơ số, n được gọi là số mũ.\nLời giải chi tiết\na) \\(3.3.3 = {3^3}\\);  \\(6.6.6.6 = {6^4}\\)\nb)\n\\({3^2}\\) còn gọi là “3 mũ 2” hay “bình phương của 3”;  \\({5^3}\\) còn gọi là “5 mũ 3” hay “lập phương của 5”.\nc) Ba mũ mười có cơ số là 3 và số mũ là 10\nMười mũ năm có cơ số là 10 và số mũ là 5\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết tích của hai lũy thừa sau thành một lũy thừa.\na) \\({3.3^3}\\)\nb) \\({2^2}{.2^4}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\({a^n} = a.a.\\,\\,....\\,\\,a\\,(n \\ne 0)\\)(n thừa số a)\nLời giải chi tiết\na) \\({3.3^3} = 3.(3.3.3)= 3.3.3.3={3^4}\\)\nb) \\({2^2}{.2^4}=(2.2).(2.2.2.2) =2.2.2.2.2.2= {2^6}\\)"
+    },
+    {
+        "problem": "Viết các tích sau dưới dạng một lũy thừa: \\({3^3}{.3^4};\\,\\,{10^4}{.10^3};\\,\\,{x^2}.{x^5}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\({a^m}.{a^n} = {a^{m + n}}\\)\nLời giải chi tiết\n\\(\\begin{array}{l}{3^3}{.3^4} = {3^{3 + 4}} = {3^7};\\\\{10^4}{.10^3}  = 10^{4+3}= {10^7};\\\\{x^2}.{x^5} = x^{2+5} = {x^7}.\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Từ phép tính \\({5^5}{.5^2} = {5^7}\\), em hãy suy ra kết quả của mỗi phép tính \\({5^7}:{5^2}\\)và \\({5^7}:{5^5}\\). Giải thích.\nb) Hãy nhận xét về mối liên hệ giữa số mũ của luỹ thừa vừa tìm được với số mũ của luỹ thừa của số bị chia và số chia trong mỗi phép tính ở trên.\nTừ nhận xét đó, hãy dự đoán kết quả của mỗi phép tính sau: \\({7^9}:{7^2}\\) và \\({6^5}:{6^3}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Lấy thương chia cho 1 thừa số ta được thừa số còn lại\nb) Quan sát số mũ và rút ra nhận xét, sau đó dự đoán kết quả của phép tính\nLời giải chi tiết\na) \\({5^7}:{5^2} = {5^5}\\) và \\({5^7}:{5^5} = {5^2}\\)\nb) Số mũ của luỹ thừa vừa tìm được bằng hiệu số mũ của luỹ thừa của số bị chia và số chia\nDự đoán: \\({7^9}:{7^2} = {7^7}\\) và \\({6^5}:{6^3} = {6^2}\\)."
+    },
+    {
+        "problem": "a) Viết kết quả mỗi phép tính sau dưới dạng một lũy thừa.\n\\(\\begin{array}{l}{11^7}{.11^3};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{11^7}:{11^7};\\\\{7^2}{.7^4};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{7^2}{.7^4}:{7^3}.\\end{array}\\)\nb) Cho biết mỗi phép tính sau đúng hay sai.\n\\(\\begin{array}{l}{9^7}:{9^2} = {9^5};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{7^{10}}:{7^2} = {7^5};\\\\{2^{11}}:{2^8} = 6;\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{5^6}:{5^6} = 5.\\end{array}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\({a^m}:{a^n} = {a^{m - n}}(a \\ne 0;m \\ge n)\\)\nLời giải chi tiết\na)\n\\(\\begin{array}{l}{11^7}{.11^3} =11^{7-3}={11^4};\\,\\,\\,\\,\\,\\,\\,{11^7}:{11^7} =11^{7-7}=11^0= 1;\\\\{7^2}{.7^4} = 7^{2+4}= {7^6};\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{7^2}{.7^4}:{7^3} = 7^{2+4-3}= {7^3}.\\end{array}\\)\nb) +) Phép tính đúng là:\n\\({9^7}:{9^2} = {9^5}\\) vì \\({9^7}:{9^2}=9^{7-2} = {9^5}\\)\n+) Các phép tính sai là:\n\\({2^{11}}:{2^8} = 6 \\) vì \\({2^{11}}:{2^8} = 2^{11-8} = 2^3\\) ;\n\\({7^{10}}:{7^2} = {7^5}\\) vì \\({7^{10}}:{7^2} = 7^{10-2} = 7^8\\);\n\\({5^6}:{5^6} = 5\\) vì \\({5^6}:{5^6}=5^{6-6}=5^0 =1\\)"
+    },
+    {
+        "problem": "Ghép mỗi phép tính ở cột A với luỹ thừa tương ứng của nó ở cột B.\nCột A\nCột B\na) \\({3^7}{.3^3}\\)\n1) \\({5^{17}}\\)\nb) \\({5^9}:{5^7}\\)\n2) \\({2^3}\\)\nc) \\({2^{11}}:{2^8}\\)\n3) \\({3^{10}}\\)\nd) \\({5^{12}}{.5^5}\\)\n4) \\({5^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\({a^m}.{a^n} = {a^{m + n}}\\) và \\({a^m}:{a^n} = {a^{m - n}}(a \\ne 0;m \\ge n)\\)\nLời giải chi tiết\na-3; b-4; c-2; d-1\nGiải thích:\n\\({3^7}{.3^3}=3^{7+3}=3^{10}\\)\n\\({5^9}:{5^7}=5^{9-7}=5^2\\)\n\\({2^{11}}:{2^8}=2^{11-8}=2^3\\)\n\\({5^{12}}{.5^5}=5^{12+5}=5^{17}\\)"
+    },
+    {
+        "problem": "a) Viết kết quả mỗi phép tính sau dưới dạng một luỹ thừa.\n\\({5^7}{.5^5};\\,\\,\\,\\,\\,{9^5}: {8^{10}};\\,\\,\\,{2^{10}}:64.16\\)\nb) Viết cấu tạo thập phân của các số 4 983; 54 297; 2 023 theo mẫu sau:\n\\(4983 = 4.1000+ 9. 100+ 8.10+ 3={4.10^3} + {9.10^2} + 8.10 + 3\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\({a^m}.{a^n} = {a^{m + n}}\\) và \\({a^m}:{a^n} = {a^{m - n}}(a \\ne 0;m \\ge n)\\)\nb) \\(\\overline {abcde}  = a.10000 + b.1000 + c.100 + d.10 + e\\)\nLời giải chi tiết\na)\n\\({5^7}{.5^5} = 5^{7+5}={5^{12}}\\)\n\\({9^5} :{8^0} = {9^5}:1 = {9^5}\\)\n\\(2^{10}:64.16 = 2^{10}:2^6.2^4 = 2^{10-6+4} = 2^8\\)\nb)\n\\(\\begin{array}{l}54297 = 5.10000 + 4.1000 + 2.100 + 9.10 + 7\\\\ = {5.10^4} + {4.10^3} + {2.10^2} + 9.10 + 7\\end{array}\\)\n\\(\\begin{array}{l}2023 = 2.1000 +0.100+2.10 + 3\\\\ = {2.10^3}+ 2.10 +3\\end{array}\\)"
+    },
+    {
+        "problem": "Theo Tổng cục Thống kê, tháng 10 năm 2020 dân số Việt Nam được làm tròn là 98000000 người.\nEm hãy viết dân số Việt Nam dưới dạng tích của một số với một luỹ thừa của 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\underbrace {\\overline {a\\,00...00} }_{n\\, chữ\\,số \\,0} = a.{10^n}\\)\nLời giải chi tiết\nDân số Việt Nam năm 2020 là: \\(98000000 =\\) \\({98.10^6}\\)"
+    },
+    {
+        "problem": "Biết rằng khối lượng của Trái Đất khoảng \\(\\underbrace {6\\,00...00}_{21\\,chữ\\,số \\,0}\\) tấn, khối lượng của Mặt Trăng khoảng \\(\\underbrace {75\\,00...00}_{18\\,chữ \\,số\\ 0}\\) tấn\na) Em hãy viết khối lượng Trái Đất và khối lượng Mặt Trăng dưới dạng tích của một số với một luỹ thừa của 10.\nb) Khối lượng Trái Đất gấp bao nhiêu lần khối lượng Mặt Trăng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\(\\underbrace {\\overline {a\\,00...00} }_{n\\,chữ\\,số \\,0} = a.{10^n}\\)\nb) Ta lấy khối lượng Trái Đất : Khối lượng Mặt Trăng\nLời giải chi tiết\na) Khối lượng Trái Đất: \\(\\underbrace {6\\,00...00}_{21\\,chữ\\,số \\,0}= 6.{10^{21}}\\)\nKhối lượng Mặt Trăng là: \\(\\underbrace {75\\,00...00}_{18\\,chữ\\,số\\, 0}= 75.10^{18}\\)\nb) Khối lượng Trái Đất gấp khối lượng Mặt Trăng số lần là:\n6.\\({10^{21}}\\): (75.\\({10^{18}})= 80\\) (lần)"
+    }
+]

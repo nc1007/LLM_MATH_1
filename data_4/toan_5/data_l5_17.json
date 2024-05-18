@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 2: Mỗi đơn vị của một hàng bằng bao nhiêu đơn vị của hàng thấp hơn liền sau?\nA.\t0,01 đơn vị\nB.\t0,1 đơn vị\nC.\t10 đơn vị\nD.\t100 đơn vị",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi đơn vị của một hàng bằng 10 đơn vị của hàng thấp hơn liền sau."
+    },
+    {
+        "problem": "Câu 3: Số thập phân 0,06 đọc là:\nA.\tKhông phẩy sáu\nB.\tKhông phẩy không sáu\nC.\tKhông phẩy không không sáu\nD.\tKhông phẩy không",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân 0,06 đọc là không phẩy không sáu."
+    },
+    {
+        "problem": "Câu 4: Số thập phân 136,269 đọc là: Một trăm ba mươi sáu phẩy hai sáu chín. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân 136,269 đọc là: Một trăm ba mươi sáu phẩy hai trăm sáu mươi chín.\nCách đọc của đề bài là đúng quy tắc nhưng đọc phần thập phân chưa đúng cách, 269 đọc là hai trăm sáu mươi chín, không được đọc là hai sáu chín.\nVậy cách đọc trên là sai."
+    },
+    {
+        "problem": "Câu 6: Cho số thập phân 48,15. Chữ số 5 thuộc hàng nào?\nA.\tHàng chục\nB.\tHàng đơn vị\nC.\tHàng phần mười\nD.\tHàng phần trăm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong số thập phân 48,15 chữ số 5 thuộc hàng phần trăm."
+    }
+]

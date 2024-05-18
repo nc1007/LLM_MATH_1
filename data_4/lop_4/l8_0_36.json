@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1 : Biểu đồ dưới đây nói về số học sinh của bốn khối lớp ở một trường tiểu học \nChọn đáp án đúng nhất:\nKhối lớp có nhiều học sinh nhất là:\nA.\tKhối lớp 2\nB.\tKhối lớp 3\n\tC.\tKhối lớp 4\n\tD.\tKhối lớp 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu đồ trên nói về số học sinh của bốn khối lớp của trường tiểu học.\nNhìn vào biểu đồ ta thấy:\nKhối lớp 2 nằm ở cột thứ nhất và trên đỉnh cột ghi số 120 nên khối lớp 2 có 120 học sinh.\nKhối lớp 3 nằm ở cột thứ hai và trên đỉnh cột ghi số 135 nên khối lớp 4 có 135 học sinh.\nKhối lớp 4 nằm ở cột thứ ba và trên đỉnh cột ghi số 148 nên khối lớp 3 có 148 học sinh.\nKhối lớp 5 nằm ở cột thứ tư và trên đỉnh cột ghi số 141 nên khối lớp 4 có 141 học sinh.\nTa thấy: 120<135<141<148.\nVậy khối lớp 4 có nhiều học sinh nhất.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2 : Số 56128 được đọc là: \nA.\tNăm sáu nghìn một trăm hai mươi tám\nB.\tNăm mươi sáu nghìn một trăm hai mươi tám\nC.\tNăm mươi sáu nghìn một trăm hai tám\nD.\tNăm sáu nghìn một trăm hai tám",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 56128 đọc là năm mươi sáu nghìn một trăm hai mươi tám."
+    },
+    {
+        "problem": "Câu 3 : 1 thế kỉ = 100 năm. Đúng hay sai? \nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1 thế kỉ = 100 năm.\nVậy khẳng định đã cho là đúng."
+    },
+    {
+        "problem": "Câu 6 : 8 tấn 8kg = ... kg.  \nSố thích hợp điền vào chỗ chấm là:\nA.\t88\nB.\t808\nC.\t880\nD.\t8008",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có 1 tấn =1000kg nên 8 tấn =8000kg.\t\nDo đó 8 tấn 8kg=8000kg+8kg=8008kg.\t\nVậy số thích hợp điền vào ô trống là 8008."
+    },
+    {
+        "problem": "Câu 7 :  Giá trị của chữ số 6 trong số 8 365 927 là:\nA.\t6 000 000\nB.\t600 000\nC.\t60 000\nD.\t6000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 6 trong số 8365927 nằm ở hàng chục nghìn nên có giá trị là 60000."
+    },
+    {
+        "problem": "Câu 8 : n số thích hợp vào ô trống: \nCho số 5 247 869. Các chữ số thuộc lớp đơn vị từ hàng cao tới hàng thấp lần lượt là",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 5247869 có chữ số hàng đơn vị là 9, chữ số hàng chục là 6, chữ số hàng trăm là 8.\nMà lớp đơn vị gồm hàng đơn vị, hàng chục, hàng trăm.\nDo đó, các chữ số thuộc lớp đơn vị từ hàng cao tới hàng thấp lần lượt là 8;6;9.\nVậy đáp án đúng điền vào ô trống theo thứ tự từ trái sang phải, từ trên xuống dưới là 8;6;9."
+    },
+    {
+        "problem": "Câu 11 : Số gồm hai tỉ và năm trăm nghìn có số chữ số 0 là: \nA.\t6\nB.\t7\nC.\t8\nD.\t9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số gồm hai tỉ và năm trăm nghìn được viết là 2 000 500 000.\nSố 2 000 500 000 có 8 chữ số 0.\nVậy số gồm hai tỉ và năm trăm nghìn có 8 chữ số 0."
+    },
+    {
+        "problem": "Câu 12 : Ngày 30 tháng 4 năm 2018 nước ta kỉ niệm 43 năm giải phóng miền Nam. \nHỏi năm giải phóng miền Nam thuộc thế kỉ nào? \nA.\tThế kỉ XXI\nB.\tThế kỉ XX\nC.\tThế kỉ XIX\nD.\tThế kỉ XVIII",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nước ta giải phóng miền Nam vào năm:\n        2018−43=1975\nMà từ năm 1901 đến năm 2000 là thế kỉ hai mươi (thế kỉ XX).\nVậy năm 1975 thuộc thế kỉ hai mươi (thế kỉ XX) hay năm giải \n\tphóng miền Nam thuộc thế kỉ hai mươi (thế kỉ XX)."
+    },
+    {
+        "problem": "Câu 14 : Sắp xếp các số sau theo thứ tự từ bé đến lớn:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh các số đã cho ta thấy:\n            6035<9872<24655<63298<63817<90909\nDo đó các số được sắp xếp theo thứ tự từ bé đến lớn như sau:\n                     6035;9872;24655;63298;63817;90909."
+    }
+]

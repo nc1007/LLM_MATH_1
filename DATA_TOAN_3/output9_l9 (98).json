@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Hãy viết các tỉ số lượng giác sau thành tỉ số lượng giác của các góc nhỏ hơn \\(:\\sin {60^o},\\cos{75^o},\\sin {52^o}30',\\)\\(\\,\\cot{82^o},\\tan {80^o}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất tỷ số lượng giác của hai góc phụ nhau\nLời giải chi tiết\n\\(\\begin{array}{l}\\sin {60^o} = \\cos {30^o},\\\\ \\cos{75^o} = \\sin {15^o},\\\\\\sin {52^o}30' = \\cos {37^o}30',\\\\ \\cot{82^o} = \\tan {8^o},\\,\\,\\,\\,\\\\\\tan {80^o} = \\cot {10^o}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng máy tính cầm tay để tìm các tỉ số lượng giác sau ( làm tròn đến chữ số thập phân thứ tư ) :\na) \\(\\sin {40^o}12'\\);           b) \\(\\cos {52^o}54'\\);\nc) \\(\\tan {63^o}36'\\);           d) \\(\\cot {25^o}18'\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bấm máy tính.\nLời giải chi tiết\na) \\(\\sin {40^o}12' \\approx 0,6455\\);\nb) \\(\\cos {52^o}54' \\approx 0,6032\\);\nc) \\(\\tan {63^o}36' \\approx 2,0145\\);\nd) \\(\\cot {25^o}18' \\approx 2,1155\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng máy tính cầm tay để tìm số đo của góc x ( làm tròn đến phút ) trong mỗi trường hợp sau :\na) \\({\\mathop{\\rm s}\\nolimits} {\\rm{inx}} = 0,2368\\);\nb) \\(\\cos x = 0,6224\\);\nb) \\(\\tan x = 2,154\\);\nd) \\(\\cot x = 3,251\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bấm máy tính.\nLời giải chi tiết\na) \\({\\mathop{\\rm s}\\nolimits} {\\rm{inx}} = 0,2368 \\Rightarrow x \\approx {13^o}42'\\);\nb) \\(\\cos x = 0,6224 \\Rightarrow x \\approx {51^o}31'\\);\nb) \\(\\tan x = 2,154 \\Rightarrow x \\approx {65^o}6'\\);\nd) \\(\\cot x = 3,251 \\Rightarrow x \\approx {17^o}6'\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính :\na) \\(\\dfrac{{\\sin {{25}^o}}}{{\\cos {{65}^o}}}\\);\nb) \\(\\tan {58^o} - \\cot {32^o}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tỷ số lượng giác của hai góc phụ nhau\nLời giải chi tiết\na) \\(\\dfrac{{\\sin {{25}^o}}}{{\\cos {{65}^o}}}\\);\nTa có: \\(\\sin {25^o} = \\cos \\left( {{{90}^o} - {{25}^o}} \\right) = \\cos {65^o} \\)\n\\(\\Rightarrow \\dfrac{{\\sin {{25}^o}}}{{\\cos {{65}^o}}} = 1\\)\nb) \\(\\tan {58^o} - \\cot {32^o}\\).\nTa có: \\(\\tan {58^o} = \\cot \\left( {{{90}^o} - {{58}^o}} \\right) = \\cot {32^o}\\)\n\\(\\Rightarrow \\tan {58^o} - \\cot {32^o} = 0\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh các cặp tỉ số lượng giác sau :\na) \\(\\sin {30^o}\\) và \\(\\sin {50^o}\\);\nb) \\(\\cos {22^o}\\) và \\(\\cos {78^o}\\);\nc) \\(\\tan {52^o}\\) và \\(\\tan {88^o}\\);\nd) \\(\\cot {14^o}\\) và \\(\\cot {49^o}\\);\ne) \\(\\sin {32^o}\\) và \\(\\cos {32^o}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": ":\\(0 \\le x \\le {90^o}\\). Nếu x tăng thì \\(\\sin x,\\,\\,\\tan x\\) tăng; \\(\\cos x,\\,\\,\\cot x\\)giảm và ngược lại.\nLời giải chi tiết\na) \\(\\sin {30^o}\\)<\\(\\sin {50^o}\\);\nb) \\(\\cos {22^o}\\)>\\(\\cos {78^o}\\);\nc) \\(\\tan {52^o}\\)<\\(\\tan {88^o}\\);\nd) \\(\\cot {14^o}\\)>\\(\\cot {49^o}\\);\ne) \\(\\sin {32^o}\\) và \\(\\cos {32^o}\\).\n\\(\\cos {32^o} = \\sin \\left( {{{90}^o} - {{32}^o}} \\right) \\)\\(\\,= \\sin {58^o} > \\sin {32^o} \\)\n\\(\\Rightarrow \\sin {32^o} < \\cos {32^o}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng máy tính cầm tay để tính giá trị rồi so sánh các cặp tỉ số lượng giác sau : a) \\(\\tan {25^o}\\) và \\(\\sin {25^o}\\);\nb) \\(\\tan {45^o}\\) và \\(\\cos {45^o}\\);\nc) \\(\\cot {32^o}\\) và \\(\\cos {32^o}\\);\nd) \\(\\cot {60^o}\\) và \\(\\sin {30^o}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bấm máy tính và so sánh.\nLời giải chi tiết\na) \\(\\tan {25^o} \\approx 0,47\\)>\\(\\sin {25^o} \\approx 0,42\\);\nb) \\(\\tan {45^o} = 1\\)>\\(\\cos {45^o} = \\dfrac{{\\sqrt 2 }}{2}\\);\nc) \\(\\cot {32^o} \\approx 1,6\\)>\\(\\cos {32^o} \\approx 0,85\\);\nd) \\(\\cot {60^o} = \\dfrac{{\\sqrt 3 }}{3}\\)>\\(\\sin {30^o} = \\dfrac{1}{2}\\).\nLoigiaihay.com"
+    }
+]

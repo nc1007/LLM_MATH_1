@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Bài 2: Hãy chọn câu đúng. Hình hộp chữ nhật có ba kích thước lần lượt là: a, a, 2a thể tích của hình hộp chữ nhật đó là:\nA. a^{2} \nB. 2a^{3} \nC. 2a^{4} \nD. a^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThê tích của hình hộp chữ nhật là: V = a.a.2a = 2a^{3}  (đvtt)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 3: Hãy chọn câu đúng. Cạnh của một hình lập phương bằng 5 cm khi đó thể tích của nó là:\nA. 25 cm^{3} \nB. 50 cm^{3} \nC. 125 cm^{3} \nD. 625 cm^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThê tích của hình lập phương cạnh 5 cm là: V = 5^{3}  = 125 cm^{3}           \nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 4: Thể tích của một hình lập phương a (cm) là:\nA. a^{3}  (cm^{3} )\nB. 2a^{3}  (cm^{3} )\nC. 3a^{3}  (cm^{3} )\nD. 6a (cm^{3} )",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThê tích của hình lập phương cạnh 5 cm là: V = a^{3}  (cm^{3} )      \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 14: Một chiếc hộp hình lập phương không có nắp được sơn cả mặt trong và mặt ngoài. Diện tích phải sơn tổng cộng là 1440 cm^{2} . Tính thể tích của hình lập phương đó.\nA. 1782 cm^{3} \nB. 1728 cm^{3} \nC. 144 cm^{3} \nD. 1827 cm^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nChiếc hộp hình lập phương không nắp gồm 5 hình vuông, mỗi hình vuông được sơn 2 mặt nên diện tích mỗi hình vuông là: 1440 : 10 = 144 (cm^{2} )\nVì diện tích hình vuông bằng hình bình phương một cạnh nên cạnh của hình lập phương bằng 12 cm nên thể tích của hình lập phương bằng 12^{3}  = 1728 (cm^{3} )\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 15: Một chiếc hộp hình lập phương không có nắp được sơn cả mặt trong và mặt ngoài. Diện tích phải sơn tổng cộng là 2880 cm^{2} . Tính thể tích của hình lập phương đó.\nA. 1782 cm^{3} \nB. 1728 cm^{3} \nC. 576 cm^{3} \nD. 13824 cm^{3}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nChiếc hộp hình lập phương gồm 5 hình vuông, mỗi hình vuông được sơn 1 mặt nên diện tích mỗi hình vuông là: 2880 : 5 = 576 (cm^{2} )\nCạnh của hình lập phương bằng 24 cm, thể tích của hình lập phương bằng 24^{3} = 13924 (cm^{3} )\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 22: Một người thuê sơn mặt trong và mặt ngoài của 1 cái thùng sắt không nắp dạng hình lập phương có cạnh 0, 8m. Biết giá tiền mỗi mét vuông là 15000 đồng. Hỏi người ấy phải trả bao nhiêu tiền?\nA. 86000 đồng\nB. 69000 đồng\nC. 96600 đồng\nD. 96000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThùng sắt (không nắp) có dạng hình lập phương ⇒ Thùng sắt có 5 mặt bằng nhau.\nDiện tích một thùng sắt là:\nS = 0, 8^{2}  = 0, 64 m^{2} \nTa có diện tích mặt trong thùng sắt bằng diện tích mặt ngoài thùng sắt. Vậy diện tích mặt trong và mặt ngoài thùng sắt là: Smt = Smn = 5S = 5. 0,64 = 3,2 m^{2} \nSố tiền người thuê sơn thùng sắt cần trả là: (Smt + Smn).15000 = (3, 2 + 3, 2).15000 = 6, 4. 15000 = 96000 đồng.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 22: Một người thuê sơn mặt ngoài của 1 cái thùng sắt không nắp dạng hình lập phương có cạnh 0, 8m. Biết giá tiền mỗi mét vuông là 15000 đồng. Hỏi người ấy phải trả bao nhiêu tiền?\nA. 48000 đồng\nB. 64000 đồng\nC. 45000 đồng\nD. 96000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nThùng sắt (không nắp) có dạng hình lập phương ⇒ Thùng sắt có 5 mặt bằng nhau.\nDiện tích một thùng sắt là:\nS = 0, 8^{2}  = 0, 64 m^{2} \nTa có diện tích mặt trong thùng sắt bằng diện tích mặt ngoài thùng sắt. Vậy diện tích mặt trong và mặt ngoài thùng sắt là: Smt = Smn = 5S = 5. 0,64 = 3,2 m^{2} \nSố tiền người thuê sơn thùng sắt cần trả là: 3, 2 .15000 = 48000 đồng.\nĐáp án cần chọn là: A"
+    }
+]

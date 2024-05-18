@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1: Số tự nhiên bé nhất là số nào?\nA.\t100\nB.\t10\nC.\t1\nD.\t0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Không có số tự nhiên nào liền trước 0 nên 0 là số tự nhiên nhỏ nhất."
+    },
+    {
+        "problem": "Câu 3: Số 26 378 được đọc là:\nA.\tHai triệu sáu nghìn ba trăm bảy tám\nB.\tHai mươi sáu triệu ba trăm bảy mươi tám nghìn\nC.\tHai mươi sáu nghìn ba trăm bảy mươi tám\nD.\tHai mươi sáu nghìn ba trăm bảy tám",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 26378 được đọc là hai mươi sáu nghìn ba trăm bảy mươi tám."
+    },
+    {
+        "problem": "Câu 4: Số gồm 4 triệu, 8 trăm nghìn, 5  nghìn, 9 trăm, 2 chục, 1 đơn vị viết là:\n.\t48005921\nB.\t4850921\nC.\t4085921\nD.\t4805921",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số gồm 4 triệu, 8 trăm nghìn, 5 nghìn, 9 trăm, 2 chục, 1 đơn vị viết là 4805921."
+    },
+    {
+        "problem": "Câu 5: Giá trị của chữ số 5 trong số 356 248 là :\nA.\t500000\nB.\t50000\nC.\t5000\nD.\t500",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 5 trong số 356248 thuộc hàng chục nghìn nên giá trị của chữ số 5 trong số 356248 là 50000."
+    },
+    {
+        "problem": "Câu 6: Viết số 5973 thành tổng (theo mẫu): \nMẫu: 4936 = 4000 + 900 + 30 + 6\nA.\t5973 = 5000 + 900 + 70 + 3\nB.\t5973 = 5000 + 700 + 90 + 3\nC.\t5973 = 5000 + 9000 + 70 + 3\nD.\t5973 = 9000 + 500 + 70 + 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 5973 gồm 5 nghìn, 9 trăm, 7 chục, 3 đơn vị.\nDo đó 5973=5000+900+70+3."
+    },
+    {
+        "problem": "Câu 8: Chọn dấu thích hợp để điền vào chỗ chấm:  \n24579 ... 24567\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai số 24579 và 24567 có số chữ số bằng nhau (đều có 5 chữ số).\nCác chữ số hàng chục nghìn đều bằng 2, hàng nghìn đều bằng 4 và chữ số hàng trăm đều bằng 5.\nĐến chữ số hàng chục có 7 > 6.\nDo đó: 24579 > 24567\nVậy đáp án đúng điền vào chỗ chấm là > ."
+    },
+    {
+        "problem": "Câu 11: Trong các số sau, số nào chia hết cho 2?\nA.\t1234\nB.\t35976\nC.\t81372\nD.\tTất cả các đáp án đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 1234 có chữ số tận cùng là 4 nên 1234 chia hết cho 2.\nSố 35976 có chữ số tận cùng là 6 nên 35976 chia hết cho 2.\nSố 81372 có chữ số tận cùng là 2 nên 81372 chia hết cho 2.\nVậy tất cả các đáp án A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 12: Tìm x, biết 123 < x < 135 và x là số lẻ chia hết cho 5.\nA.\t124\nB.\t125\nC.\t130\nD.\t133",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vì 123<x<135 và x là số chia hết cho 5 nên x=125 hoặc x=130.\nMà x là số lẻ nên x=125.\nVậy đáp án đúng là x=125."
+    },
+    {
+        "problem": "Câu 14: Có bao nhiêu số có hai chữ số chia hết cho cả 2 và 5?\nA.\t20 số\nB.\t15 số\nC.\t12 số\nD.\t9 số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số có chữ số tận cùng là 0 thì chia hết cho cả 2 và 5.\nDo đó các số có hai chữ số chia hết cho cả 2 và 5 là 10;20;30;...;80;90.\nDãy số trên là dãy số cách đều, hai số liên tiếp hơn (hoặc kém) nhau 10 đơn vị nên có số số hạng là:\n                       (90−10):10+1=9 (số hạng)\nVậy có 9 số có hai chữ số chia hết cho cả 2 và 5."
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 2: Công thức tìm hai số khi biết tổng và hiệu của hai số đó là:\nA. Số lớn = (tổng + hiệu) : 2\nB. Số bé = (tổng - hiệu) : 2\nC. Cả A và B đều đúng\nD. Cả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nSố bé = (tổng – hiệu) : 2  ;   Số lớn = (tổng + hiệu) : 2\nVậy cả A và B đều đúng."
+    }
+]

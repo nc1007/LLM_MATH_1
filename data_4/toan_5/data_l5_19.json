@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 11: Chọn đáp án đúng nhất:\n-\tBạn An nói: Hai đơn vị đo độ dài liền nhau hơn kém nhau 100 lần. \n-\tBạn Bình nói: Mỗi đơn vị đo độ dài sẽ gấp 10 lần đơn vị bé hơn liền nó.\nHỏi bạn nào nói đúng?\nA.\tBạn An\nB.\tBạn Bình\nC.\tCả hai bạn đều nói sai\nD.\tCả hai bạn đều nói đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong bảng đơn vị đo độ dài, hai đơn vị liền nhau hơn (kém) nhau 10 lần, tức là mỗi đơn vị đo độ dài sẽ gấp 10 lần đơn vị bé hơn liền nó.\nVậy bạn An nói sai, bạn Bình nói đúng."
+    }
+]

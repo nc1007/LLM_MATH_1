@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 2 : Trong cách đặt tính nhân một số với số có ba chữ số, \ntích riêng thứ ba lùi sang bên trái mấy hàng so với tích riêng thứ nhất? \nA.\t1 hàng\nB.\t2 hàng\nC.\t3 hàng\nD.\t4 hàng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đặt tính rồi tính, tích riêng thứ hai lùi sang trái một cột so với tích riêng thứ nhất, \ntích riêng thứ ba lùi sang trái hai cột so với tích riêng thứ nhất."
+    },
+    {
+        "problem": "Câu 4 : Kết quả của phép tính 245 × 314 là: \nA.\t76950\nB.\t76940\nC.\t76930\nD.\t76920",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính và thực hiện tính ta có:\nVậy: 245×314=76930"
+    },
+    {
+        "problem": "Câu 5 : Cho phép tính: 564 x 203. Cách đặt tính nào đúng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy 564×203=114492."
+    },
+    {
+        "problem": "Câu 7 : Giá trị của biểu thức 149 + 1236×142 là: \nA.\t175512\nB.\t175661\nC.\t196521\nD.\t196670",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "149+1236×142=149+175512=175661\nChú ý\nHọc sinh có thể áp dụng sai thứ tự thực hiện phép tính, \ntính lần lượt từ trái sang phải, từ đó chọn đáp án sai là D."
+    },
+    {
+        "problem": "Câu 8 : Tìm x biết:  x∶273 = 4551 - 3827  \nA.\t197252\nB.\t197562\nC.\t197625\nD.\t197652",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "x:273=4551−3827\nx:273=724\nx=724×273\nx=197652"
+    },
+    {
+        "problem": "Câu 9 : Điền số thích hợp vào ô trống: \nCác số cần điền vào ô trống từ trái sang phải lần lượt là:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n687+405=1092\n1092×135=147420\n147420−16852=130568\nVậy đáp án đúng điền vào ô trống lần lượt từ trái sang phải là 1092; 147420; 130568."
+    },
+    {
+        "problem": "Câu 10 : Chọn dấu thích hợp để điền vào chỗ chấm:  \n120478 - (208 + 469)×148 ...1067×243 - 852×278\nA.\t< \nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+) 120478−(208+469)×148 \n   =120478−677×148 \n   =120478−100196 \n    =20282 \n+) 1067×243−852×278 \n   =259281−236856 \n   =22425 \nMà 20282 < 22425\n\tDo đó 120478−(208+469)×148 < 1067×243−852×278.\nVậy đáp án đúng điền vào ô trống là <. \n\nDo đó 120478−(208+469)×148 < 1067×243−852×278.\nVậy đáp án đúng điền vào ô trống là <."
+    },
+    {
+        "problem": "Câu 13 : Trung bình cộng của 245 số tự nhiên là 198, trung bình cộng của 243 số tự nhiên trong dãy đó là 187. \nTìm hai số còn lại, biết số lớn hơn số bé 305 đơn vị. \nA.\tSố lớn: 1687; số bé: 1382\nB.\tSố lớn: 1678; số bé: 1391\nC.\tSố lớn: 1768; số bé: 1301\nD.\tSố lớn: 1876; số bé: 1193",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tổng của 245 số tự nhiên đó là:\n        198×245=48510 \nTổng của 243 số tự nhiên đó là:\n           187×243=45441 \nTổng của hai số tự nhiên đó là:\n           45810−45441=3069 \nTa có sơ đồ :\nSố lớn là:\n   (3069+305):2=1687 \nSố bé là:\n    3069−1687=1382 \n             Đáp số: Số lớn: 1687;\n                    Số bé: 1382."
+    }
+]

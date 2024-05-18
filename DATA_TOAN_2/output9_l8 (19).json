@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Biểu thức nào sau đây là đơn thức?\nA. \\({x^2} - y\\)\nB. \\({x^2} + y\\)\nC. \\({x^2}y\\)\nD. \\(\\frac{{{x^2}}}{y}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đơn thức là biểu thức đại số chỉ gồm một số, hoặc một biến, hoặc một tích giữa các số và biến.\nLời giải chi tiết\nĐáp án: C"
+    },
+    {
+        "problem": "Phân tích mỗi đa thức sau thành nhân tử:\na) \\(25{x^2} - \\frac{1}{4}\\)\nb) \\(36{x^2} + 12xy + {y^2}\\)\nc) \\(\\frac{{{x^3}}}{2} + 4\\)\nd) \\(27{y^3} + 27{y^2} + 9y + 1\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có thể phân tích đa thức thành nhân tử bằng cách vận dụng trực tiếp hằng đẳng thức hoặc bằng cách vận dụng hằng đẳng thức thông qua nhóm số hạng và đặt nhân tử chung.\nLời giải chi tiết\na) \\(25{x^2} - \\frac{1}{4} = {\\left( {5x} \\right)^2} - {\\left( {\\frac{1}{2}} \\right)^2} = \\left( {5x + \\frac{1}{2}} \\right)\\left( {5x - \\frac{1}{2}} \\right)\\)\nb) \\(36{x^2} + 12xy + {y^2} = {\\left( {6x} \\right)^2} + 2.6x.y + {y^2} = {\\left( {6x + y} \\right)^2}\\)\nc) \\(\\frac{{{x^3}}}{2} + 4 = \\frac{1}{2}\\left( {{x^3} + 8} \\right) = \\frac{1}{2}\\left( {{x^3} + {2^3}} \\right) = \\frac{1}{2}\\left( {x + 2} \\right)\\left( {{x^2} - 2x + 4} \\right)\\)\nd) \\(27{y^3} + 27{y^2} + 9y + 1 = {\\left( {3y} \\right)^3} + 3.{\\left( {3y} \\right)^2}.1 + 3.3y{.1^3} + {1^3} = {\\left( {3y + 1} \\right)^3}\\)"
+    },
+    {
+        "problem": "Viết mỗi biểu thức sau dưới dạng bình phương của một tổng hoặc một hiệu:\na) \\(9{x^2} + 12x + 4\\)\nb) \\(121{y^2} - 110y + 25\\)\nc) \\(36{x^2} - 96xy + 64y\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng hẳng đẳng thức bình phương của một tổng hoặc một hiệu để viết lại biểu thức.\nLời giải chi tiết\na) \\(9{x^2} + 12x + 4 = {\\left( {3x} \\right)^2} + 2.3.2x + {2^2} = {\\left( {3x + 2} \\right)^2}\\)\nb) \\(121{y^2} - 110y + 25 = {\\left( {11y} \\right)^2} - 2.11.5y + {5^2} = {\\left( {11y - 5} \\right)^2}\\)\nc) \\(36{x^2} - 96xy + 64y = {\\left( {6x} \\right)^2} - 6.2.8xy + {\\left( {8y} \\right)^2} = {\\left( {6x - 8y} \\right)^2}\\)"
+    },
+    {
+        "problem": "Cho hai đa thức: \\(A = {x^7} - 4{x^3}{y^2} - 5xy + 7;B = {x^7} + 5{x^3}{y^2} - 3xy - 3\\)\na) Tìm đa thức \\(C\\) sao cho \\(C = A + B\\)\nb) Tìm đa thức \\(D\\) sao cho \\(A + D = B\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng phương pháp cộng hai đa thức và trừ hai đa thức để tính đa thức \\(C\\) và \\(D\\).\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}C = A + B = \\left( {{x^7} - 4{x^3}{y^2} - 5xy + 7} \\right) + \\left( {{x^7} + 5{x^3}{y^2} - 3xy - 3} \\right)\\\\ = \\left( {{x^7} + {x^7}} \\right) + \\left( { - 4{x^3}{y^2} + 5{x^3}{y^2}} \\right) + \\left( { - 5xy - 3xy} \\right) + 7 - 3\\\\ = 2{x^7} + {x^3}{y^2} - 8xy + 4\\end{array}\\)\nb) Ta có:\n\\(\\begin{array}{l}D = B - A\\\\ = \\left( {{x^7} + 5{x^3}{y^2} - 3xy - 3} \\right) - \\left( {{x^7} - 4{x^3}{y^2} - 5xy + 7} \\right)\\\\ = \\left( {{x^7} - {x^7}} \\right) + \\left( {5{x^3}{y^2} + 4{x^3}{y^2}} \\right) + \\left( { - 3xy + 5xy} \\right) - 3 - 7\\\\ = 9{x^3}{y^2} + 2xy - 10\\end{array}\\)"
+    },
+    {
+        "problem": "a) Trong các biểu thức sau, biểu thức nào là đơn thức?\n\\(\\frac{{\\sqrt 2 }}{{11}}x\\); \\( - 3x + {y^4}\\); \\( - 3x{y^4}z\\); \\(\\frac{{ - 1}}{{321}}{x^3}{y^5} + 7\\)\nb) Trong các biểu thức sau, biểu thức nào là đa thức?\n\\(\\frac{{ - 13}}{{21}}{x^3}{y^2} + 9x{y^6} - 8\\); \\(x + y\\); \\(xyz + \\sqrt 2 \\); \\(\\frac{{x - 5z}}{{{x^2} + {z^2} + 1}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đơn thức nhiều biến là biểu thức đại số chỉ gồm một số, hoặc một biến, hoặc một tích giữa các số và các biến.\nĐa thức nhiều biến là một tổng của những đơn thức.\nLời giải chi tiết\na) Đơn thức là: \\(\\frac{{\\sqrt 2 }}{{11}}x; - 3x{y^4}z\\).\nb) Đa thức là: \\(\\frac{{ - 13}}{{21}}{x^3}{y^2} + 9x{y^6} - 8;x + y;xyz + \\sqrt 2 \\)"
+    },
+    {
+        "problem": "Biểu thức \\({\\left( {x - 2y} \\right)^2}\\)  bằng:\nA. \\({x^2} + 2xy + 2{y^2}\\)\nB. \\({x^2} - 2xy + 2{y^2}\\)\nC. \\({x^2} + 4xy + 4{y^2}\\)\nD. \\({x^2} - 4xy + 4{y^2}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng hằng đẳng thức bình phương của một tổng:\n\\({\\left( {A - B} \\right)^2} = \\left( {{A^2} - 2AB + {B^2}} \\right)\\)\nLời giải chi tiết\n\\({\\left( {x - 2y} \\right)^2} = {x^2} - 4xy + 4{y^2}\\)\n=> Đáp án: D"
+    },
+    {
+        "problem": "Phân tích mỗi đa thức sau thành nhân tử:\na) \\({x^3}\\left( {13xy - 5} \\right) - {y^3}\\left( {5 - 13xy} \\right)\\)\nb) \\(8{x^3}yz + 12{x^2}yz + 6xyz + yz\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có thể phân tích đa thức thành nhân tử bằng cách vận dụng trực tiếp hằng đẳng thức hoặc bằng cách vận dụng hằng đẳng thức thông qua nhóm số hạng và đặt nhân tử chung.\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}{x^3}\\left( {13xy - 5} \\right) - {y^3}\\left( {5 - 13xy} \\right) \\\\= {x^3}\\left( {13xy - 5} \\right) + {y^3}\\left( {13xy - 5} \\right)\\\\ = \\left( {{x^3} + {y^3}} \\right)\\left( {13xy - 5} \\right) \\\\= \\left( {13xy - 5} \\right)\\left( {x + y} \\right)\\left( {{x^2} - xy + {y^2}} \\right)\\end{array}\\)\nb) Ta có:\n\\(\\begin{array}{l}8{x^3}yz + 12{x^2}yz + 6xyz + yz\\\\ = yz\\left( {8{x^3} + 12{x^2} + 6x + 1} \\right)\\\\ = yz\\left( {{{\\left( {2x} \\right)}^3} + 3.{{\\left( {2x} \\right)}^2}.1 + 3.2x{{.1}^2} + {1^3}} \\right)\\\\ = yz{\\left( {2x + 1} \\right)^3}\\end{array}\\)"
+    },
+    {
+        "problem": "Viết mỗi biểu thức sau dưới dạng lập phương của một tổng hoặc một hiệu:\na) \\(8{x^3} + 12{x^2} + 6x + 1\\)\nb) \\(8{x^3} - 36{x^2}y + 54x{y^2} - 27{y^3}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng hằng đẳng thức lập phương của một tổng hoặc một hiệu để viết lại biểu thức.\nLời giải chi tiết\na) \\(8{x^3} + 12{x^2} + 6x + 1 = {\\left( {2x} \\right)^3} + 3.{\\left( {2x} \\right)^2}.1 + 3.2x{.1^2} + {1^3} = {\\left( {2x + 1} \\right)^3}\\)\nb) \\(8{x^3} - 36{x^2}y + 54x{y^2} - 27{y^3} = {\\left( {2x} \\right)^3} - 3.{\\left( {2x} \\right)^2}.3y + 3.2x.{\\left( {3y} \\right)^2} - {\\left( {3y} \\right)^3} = {\\left( {2x - 3y} \\right)^3}\\)"
+    },
+    {
+        "problem": "Rút gọn biểu thức:\na) \\(2x\\left( {{x^2} + y} \\right) - x\\left( {2y + 1} \\right) - x\\left( {2{x^2} - 21y} \\right)\\)\nb) \\(5x\\left( {6y - {x^2}} \\right) + 3y\\left( {y - 10x} \\right) - 3y\\left( {y - 1} \\right) + 15{x^3}\\)\nc) \\(18{x^{n + 1}}\\left( {{y^{n + 1}} + {x^{n + 3}}} \\right) + 9{y^3}\\left( { - 2{x^{n + 1}}{y^{n - 2}} + 1} \\right)\\) với \\(n\\) là số tự nhiên lớn hơn 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng phương pháp cộng, trừ, nhân chia hai đa thức để rút gọn biểu thức.\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}2x\\left( {{x^2} + y} \\right) - x\\left( {2y + 1} \\right) - x\\left( {2{x^2} - 21y} \\right)\\\\ = 2{x^3} + 2xy - 2xy - x - 2{x^3} + 21xy\\\\ = \\left( {2{x^3} - 2{x^3}} \\right) + \\left( {2xy - 2xy + 21xy} \\right) - x\\\\ = 21xy - x\\end{array}\\)\nb) Ta có:\n\\(\\begin{array}{l}5x\\left( {6y - {x^2}} \\right) + 3y\\left( {y - 10x} \\right) - 3y\\left( {y - 1} \\right) + 15{x^3}\\\\ = 30xy - 5{x^3} + 3{y^2} - 30xy - 3{y^2} + 3y + 15{x^3}\\\\ = \\left( {30xy - 30xy} \\right) + \\left( {-5{x^3} + 15{x^3}} \\right) + \\left( {3{y^2} - 3{y^2}} \\right) + 3y\\\\ = 10{x^3} + 3y\\end{array}\\)\nc) Ta có:\n\\(\\begin{array}{l}18{x^{n + 1}}\\left( {{y^{n + 1}} + {x^{n + 3}}} \\right) + 9{y^3}\\left( { - 2{x^{n + 1}}{y^{n - 2}} + 1} \\right)\\\\ = 18{x^{n + 1}}{y^{n + 1}} + 18{x^{2n + 4}} - 18{x^{n + 1}}{y^{n + 1}} + 9{y^3} = 18{x^{2n + 4}} + 9{y^3}\\end{array}\\)"
+    },
+    {
+        "problem": "Thu gọn mỗi đơn thức sau:\na) \\(\\frac{{ - 9}}{{17}}{x^{23}}{y^{22}}{y^{14}}\\)\nb) \\(\\frac{2}{{\\sqrt {121} }}x{y^3}z{y^2}{z^3}\\)\nc) \\(\\frac{{ - 187}}{{124}}{x^4}{y^6}{z^8}{x^5}{y^2}{z^{10}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đơn thức thu gọn là đơn thức chỉ gồm tích của một số với các biến, mà mỗi biến đã được nâng lên lũy thừa với số mũ nguyên dương và chỉ được viết một lần. Số nói trên gọi là hệ số, phần còn lại gọi là phần biến của đơn thức thu gọn.\nLời giải chi tiết\na) \\(\\frac{{ - 9}}{{17}}{x^{23}}{y^{22}}{y^{14}} = \\frac{{ - 9}}{{17}}{x^{23}}\\left( {{y^{22}}{y^{14}}} \\right) = \\frac{{ - 9}}{{17}}{x^{23}}{y^{36}}\\)\nb) \\(\\frac{2}{{\\sqrt {121} }}x{y^3}z{y^2}{z^3} = \\frac{2}{{11}}x\\left( {{y^3}{y^2}} \\right)\\left( {z.{z^3}} \\right) = \\frac{2}{{11}}x{y^5}{z^4}\\)\nc) \\(\\frac{{ - 187}}{{124}}{x^4}{y^6}{z^8}{x^5}{y^2}{z^{10}} = \\frac{{ - 187}}{{124}}\\left( {{x^4}{x^5}} \\right)\\left( {{y^6}{y^2}} \\right)\\left( {{z^8}{z^{10}}} \\right) = \\frac{{ - 187}}{{124}}{x^9}{y^8}{z^{18}}\\)"
+    },
+    {
+        "problem": "Biểu thức \\({x^3} + 64{y^3}\\) bằng:\nA. \\(\\left( {x + 4y} \\right)\\left( {{x^2} - 4xy + 16{y^2}} \\right)\\)\nB. \\(\\left( {x + 4y} \\right)\\left( {{x^2} - 4xy + 4{y^2}} \\right)\\)\nC. \\(\\left( {x + 4y} \\right)\\left( {{x^2} + 4xy + 16{y^2}} \\right)\\)\nD. \\(x + 4y\\left( {{x^2} - 8xy + 16{y^2}} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng hằng đẳng thức tổng hai lập phương: \\({A^3} + {B^3} = {A^3} + 3.{A^2}.B + 3.A.{B^2} + {B^3}\\)\nLời giải chi tiết\n\\({x^3} + 64{y^3} = \\left( {x + 4y} \\right)\\left( {{x^2} - 4xy + 16{y^2}} \\right)\\)\n=> Đáp án: A"
+    },
+    {
+        "problem": "Tính giá trị của mỗi biểu thức sau:\na) \\(A = {x^2} + xy + \\frac{{{y^2}}}{4}\\) biết \\(x + \\frac{y}{2} = 100\\)\nb) \\(B = 25{x^2}z - 10xyz + {y^2}z\\) biết \\(5x - y =  - 20\\) và \\(z =  - 5\\)\nc) \\(C = {x^3}yz + 3{x^2}{y^2}z + 3x{y^3}z + {y^4}z\\) biết \\(x + y =  - 0,5\\) và \\(yz = 8\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có thể phân tích đa thức thành nhân tử bằng cách vận dụng trực tiếp hằng đẳng thức hoặc bằng cách vận dụng hằng đẳng thức thông qua nhóm số hạng và đặt nhân tử chung.\nLời giải chi tiết\na) Ta có:\n\\(A = {x^2} + xy + \\frac{{{y^2}}}{4} = {x^2} + 2x.\\frac{y}{2} + {\\left( {\\frac{y}{2}} \\right)^2} = {\\left( {x + \\frac{y}{2}} \\right)^2}\\)\nDo \\(x + \\frac{y}{2} = 100\\) nên \\(A = {100^2} = 10000\\)\nb) Ta có:\n\\(B = 25{x^2}z - 10xyz + {y^2}z = z\\left( {25{x^2} - 10xy + {y^2}} \\right) = z{\\left( {5x - y} \\right)^2}\\)\nDo \\(5x - y =  - 20\\) và \\(z =  - 5\\) nên \\(B =  - 5{\\left( { - 20} \\right)^2} =  - 2000\\)\nc) Ta có:\n\\(\\begin{array}{l}C = {x^3}yz + 3{x^2}{y^2}z + 3x{y^3}z + {y^4}z\\\\ = yz\\left( {{x^3} + 3{x^2}y + 3x{y^2} + {y^3}} \\right)\\\\ = yz{\\left( {x + y} \\right)^3}\\end{array}\\)\nDo \\(x + y =  - 0,5\\) và \\(yz = 8\\) nên \\(C = 8{\\left( { - 0,5} \\right)^3} =  - 1\\)"
+    },
+    {
+        "problem": "Rút gọn rồi tính giá trị của mỗi biểu thức:\na) \\(A = \\left( {5x + 4} \\right)\\left( {5x - 4} \\right) - {\\left( {5x + 1} \\right)^2} + 123\\) tại \\(x =  - 1\\)\nb) \\(B = \\left( {2x + 1} \\right)\\left( {4{x^2} - 2x + 1} \\right) - 2x\\left( {4{x^2} - 5} \\right) - 11\\) tại \\(x = \\frac{1}{4}\\)\nc) \\(C = {\\left( {4x + y} \\right)^3} - {\\left( {4x - y} \\right)^3} - 2y\\left( {{y^2} + 48{x^2}} \\right) - 22x + 24y\\) tại \\(x =  - \\frac{1}{{22}};y =  - \\frac{1}{4}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hằng đẳng thức để rút gọn rồi tính giá trị của mỗi biểu thức.\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}A = \\left( {5x + 4} \\right)\\left( {5x - 4} \\right) - {\\left( {5x + 1} \\right)^2} + 123\\\\ = 25{x^2} - 16 - \\left( {25{x^2} + 10x + 1} \\right) + 123\\\\ =  - 10x + 106\\end{array}\\)\nGiá trị của \\(A\\) tại \\(x =  - 1\\) là: \\( - 10.\\left( { - 1} \\right) + 106 = 116\\).\nb) Ta có:\n\\(\\begin{array}{l}B = \\left( {2x + 1} \\right)\\left( {4{x^2} - 2x + 1} \\right) - 2x\\left( {4{x^2} - 5} \\right) - 11\\\\ = {\\left( {2x} \\right)^3} + {1^3} - 8{x^3} + 10x - 11\\\\ = 8{x^3} + 1 - 8{x^3} + 10x - 11\\\\ = 10x - 10\\end{array}\\)\nGiá trị của \\(B\\) tại \\(x = \\frac{1}{4}\\) là: \\(10.\\frac{1}{4} - 10 =  - \\frac{{15}}{2}\\).\nc) Ta có:\n\\(\\begin{array}{l}C = {\\left( {4x + y} \\right)^3} - {\\left( {4x - y} \\right)^3} - 2y\\left( {{y^2} + 48{x^2}} \\right) - 22x + 24y\\\\ = {\\left( {4x} \\right)^3} + 3.{\\left( {4x} \\right)^2}.y + 3.4x.{y^2} + {y^3} - {\\left( {4x} \\right)^3} + 3.{\\left( {4x} \\right)^2}.y - 3.4.{y^2}\\\\ + {y^3} - 2{y^3} - 96{x^2}y - 22x + 24y\\\\ =  - 22x + 24y\\end{array}\\)\nGiá trị của \\(C\\) tại \\(x =  - \\frac{1}{{22}};y =  - \\frac{1}{4}\\) là: \\( - 22. - \\frac{1}{{22}} + 24. - \\frac{1}{4} =  - 5\\)."
+    },
+    {
+        "problem": "Tìm ba số tự nhiên liên tiếp, biết tích của hai số sau lớn hơn tích của hai số trước là 12 đơn vị.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để nhân hai đơn thức, ta có thể làm như sau:\n+ Nhân các hệ số với nhau và nhân các phần biến với nhau\n+ Thu gọn đơn thức nhận được ở tích.\nLời giải chi tiết\nGọi ba số tự nhiên liên tiếp cần tìm là \\(a,a + 1,a + 2\\). Do tích của hai số sau lớn hơn tích của hai số trước là 12 đơn vị nên \\(\\left( {a + 1} \\right)\\left( {a + 2} \\right) - a\\left( {a + 1} \\right) = 12\\).\nTa có: \\(\\left( {a + 1} \\right)\\left( {a + 2} \\right) - a\\left( {a + 1} \\right) \\\\= {a^2} + 2a + a + 2 - {a^2} - a \\\\= 2a + 2\\)\nDo đó: \\(2a + 2 = 12\\). Suy ra \\(a = 5\\).\nVậy ba số tự nhiên cần tìm là 5,6,7."
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) \\(x{y^3} - 2x{y^3} - 12x{y^3}\\)\nb) \\(\\frac{{ - 12}}{{43}}{x^2}y + 2{x^2}y + \\frac{{ - 31}}{{43}}{x^2}y\\)\nc) \\(\\frac{{ - \\sqrt {16} }}{{75}}{x^6}{y^9}z + \\frac{{ - \\sqrt {49} }}{{15}}{x^6}{y^9}z - \\frac{1}{5}{x^6}{y^9}z\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thu gọn đa thức là làm cho đa thức đó không còn hai đơn thức nào đồng dạng.\nLời giải chi tiết\na) \\(x{y^3} - 2x{y^3} - 12x{y^3} = \\left( {1 - 2 - 12} \\right)x{y^3} =  - 13x{y^3}\\)\nb) \\(\\frac{{ - 12}}{{43}}{x^2}y + 2{x^2}y + \\frac{{ - 31}}{{43}}{x^2}y = \\left( {\\frac{{ - 12}}{{43}} + 2 - \\frac{{31}}{{43}}} \\right){x^2}y = {x^2}y\\)\nc) \\(\\frac{{ - \\sqrt {16} }}{{75}}{x^6}{y^9}z + \\frac{{ - \\sqrt {49} }}{{15}}{x^6}{y^9}z - \\frac{1}{5}{x^6}{y^9}z = \\left( {\\frac{{ - \\sqrt {16} }}{{75}} - \\frac{{\\sqrt {49} }}{{15}} - \\frac{1}{5}} \\right){x^6}{y^9}z = \\frac{{ - 18}}{{25}}{x^6}{y^9}z\\)"
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) \\({x^3}\\left( { - \\frac{5}{4}{x^2}y} \\right).\\left( {\\frac{2}{5}{x^3}{y^4}} \\right)\\)\nb) \\(\\left( { - \\frac{3}{4}{x^5}{y^4}} \\right)\\left( {x{y^2}} \\right)\\left( { - \\frac{8}{9}{x^2}{y^5}} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các phương pháp thực hiện phép tính nhân đa thức nhiều biến.\nLời giải chi tiết\na) \\({x^3}\\left( { - \\frac{5}{4}{x^2}y} \\right).\\left( {\\frac{2}{5}{x^3}{y^4}} \\right) =  - \\frac{1}{2}{x^8}{y^5}\\)\nb) \\(\\left( { - \\frac{3}{4}{x^5}{y^4}} \\right)\\left( {x{y^2}} \\right)\\left( { - \\frac{8}{9}{x^2}{y^5}} \\right) = \\frac{2}{3}{x^8}{y^{11}}\\)"
+    },
+    {
+        "problem": "Chứng minh biểu thức \\(B = {x^5} - 15{x^2} - x + 5\\) chia hết cho 5 với mọi số nguyên \\(x\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng các phương pháp phân tích đa thức thành nhân tử bằng cách nhóm số hạng và đặt nhân tử chung\nLời giải chi tiết\nTrước hết, ta chứng minh \\({x^5} - x \\vdots 5\\)\nTa có: \\({x^5} - x = x\\left( {{x^4} - 1} \\right) = x\\left( {{x^2} - 1} \\right)\\left( {{x^2} + 1} \\right) = x\\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right)\\)\nNếu \\(x = 5k\\) thì \\(x \\vdots 5\\)\nKhi đó \\(x\\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right) \\vdots 5\\) hay \\({x^5} - x \\vdots 5\\)\nNếu \\(x = 5k + 1\\) thì \\(x - 1 = 5k \\vdots 5\\)\nKhi đó \\(x\\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right) \\vdots 5\\) hay \\({x^2} - x \\vdots 5\\)\nNếu \\(x = 5k + 2\\) thì \\({x^2} + 1 = {\\left( {5k + 2} \\right)^2} + 1 = 25{k^2} + 20k + 5 \\vdots 5\\)\nKhi đó \\(x\\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right) \\vdots 5\\) hay \\({x^2} - x \\vdots 5\\)\nNếu \\(x = 5k + 3\\) thì \\({x^2} + 1 = {\\left( {5k + 3} \\right)^2} + 1 = 25{k^2} + 30k + 10 \\vdots 5\\)\nKhi đó \\(x\\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right) \\vdots 5\\) hay \\({x^2} - x \\vdots 5\\)\nNếu \\(x = 5k + 4\\) thì \\(x + 1 = 5k + 5 \\vdots 5\\)\nKhi đó \\(x\\left( {x - 1} \\right)\\left( {x + 1} \\right)\\left( {{x^2} + 1} \\right) \\vdots 5\\) hay \\({x^2} - x \\vdots 5\\)\nDo đó \\({x^5} - x \\vdots 5\\) với mọi số nguyên \\(x\\)\nTa có: \\({x^5} - x \\vdots 5;15{x^2} \\vdots 5;5 \\vdots 5\\) nên \\({x^5} - 15{x^2} - x + 5 \\vdots 5\\) với mọi số nguyên\\(x\\).\nVậy \\(B\\) chia hết cho 5 với mọi số nguyên \\(x\\)."
+    },
+    {
+        "problem": "Tính nhanh:\na) \\({202^2}\\)\nb) \\(299.301\\)\nc) \\({95^3} + {15.95^2} + 3.95.25 + {5^3}\\)\nd) \\(9\\left( {{{10}^2} + 10 + 1} \\right) + 100\\left( {{{98}^2} + 392 + {2^2}} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng các hằng đẳng thức để tính nhanh\nLời giải chi tiết\na) \\({202^2} = {\\left( {200 + 2} \\right)^2} = {200^2} + 2.200.2 + {2^2} = 40000 + 800 + 4 = 40804\\)\nb) \\(299.301 = \\left( {300 - 1} \\right)\\left( {300 + 1} \\right) = {300^2} - 1 = 90000 - 1 = 89999\\)\nc) \\(\\begin{array}{l}{95^3} + {15.95^2} + 3.95.25 + {5^3}\\\\ = {95^3} + {3.95^2}.5 + {3.95.5^2} + {5^3} = {\\left( {95 + 5} \\right)^3} = {100^3} = 1000000\\end{array}\\)\nd) \\(\\begin{array}{l}9\\left( {{{10}^2} + 10 + 1} \\right) + 100\\left( {{{98}^2} + 392 + {2^2}} \\right)\\\\ = \\left( {10 - 1} \\right)\\left( {{{10}^2} + 10 + 1} \\right) + 100\\left( {{{98}^2} + 2.98.2 + {2^2}} \\right) = {10^3} - 1 + 100{\\left( {98 + 2} \\right)^2}\\\\ = 1000 - 1 + {100.100^2} = 999 + 100.10000 = 999 + 1000000 = 1000999\\end{array}\\)"
+    },
+    {
+        "problem": "Chứng minh giá trị của mỗi biểu thức sau không phụ thuộc vào giá trị của biến:\na) \\(M = \\left( {x - 1} \\right)\\left( {{x^2} + x + 1} \\right) - {x^2}\\left( {x - 1} \\right) - {x^2} - 23\\);\nb) \\(N = \\left( {x - \\frac{1}{2}y} \\right)\\left( {{x^2} + 2y} \\right) - x\\left( {{x^2} + 2y} \\right) + y\\left( {\\frac{1}{2}{x^2} + y} \\right) - \\frac{1}{2}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Rút gọn biểu thức bằng cách áp dụng các phương pháp cộng, trừ, nhân, chia đa thức.\nĐể giá trị của mỗi đa thức không phụ thuộc vào biến thì kết quả sau khi rút gọn là một hằng số không chứa biến.\nLời giải chi tiết\na) Ta có:\n\\(\\begin{array}{l}M = \\left( {x - 1} \\right)\\left( {{x^2} + x + 1} \\right) - {x^2}\\left( {x - 1} \\right) - {x^2} - 23\\\\ = {x^3} + {x^2} + x - {x^2} - x - 1 - {x^3} + {x^2} - {x^2} - 23 =  - 24\\end{array}\\)\nVậy giá trị của \\(N\\) không phụ thuộc vào giá trị của biến.\nb) Ta có:\n\\(\\begin{array}{l}N = N = \\left( {x - \\frac{1}{2}y} \\right)\\left( {{x^2} + 2y} \\right) - x\\left( {{x^2} + 2y} \\right) + y\\left( {\\frac{1}{2}{x^2} + y} \\right) - \\frac{1}{2}\\\\ = {x^3} + 2xy - \\frac{1}{2}{x^2}y - {y^2} - {x^3} - 2xy + \\frac{1}{2}{x^2}y + {y^2} - \\frac{1}{2} =  - \\frac{1}{2}\\end{array}\\)\nVậy giá trị của \\(N\\) không phụ thuộc vào giá trị của biến."
+    },
+    {
+        "problem": "Thu gọn mỗi đa thức sau:\na) \\({x^2}{y^5} + 2x{y^2} - {x^2}{y^5} + \\frac{{24}}{{35}}x{y^2}\\)\nb) \\( - 11{y^2}{z^3} - 22x{y^3}{z^3} + 2{y^2}{z^3} - 33x{y^3}{z^3} - 72\\)\nc) \\(\\frac{{\\sqrt 4 }}{{41}}{x^2}{y^4}{z^3} + {x^2}{y^4}z + \\frac{{39}}{{41}}{x^2}{y^4}{z^3} - {x^2}{y^4}z + {z^{18}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thu gọn đa thức là làm cho đa thức không còn hai đơn thức nào đồng dạng.\nLời giải chi tiết\na) Ta có:\n\\({x^2}{y^5} + 2x{y^2} - {x^2}{y^5} + \\frac{{24}}{{35}}x{y^2} = \\left( {{x^2}{y^5} - {x^2}{y^5}} \\right) + \\left( {2x{y^2} + \\frac{{24}}{{35}}x{y^2}} \\right) = \\frac{{94}}{{35}}x{y^2}\\)\nb) Ta có:\n\\(\\begin{array}{l} - 11{y^2}{z^3} - 22x{y^3}{z^3} + 2{y^2}{z^3} - 33x{y^3}{z^3} - 72\\\\ = \\left( { - 11{y^2}{z^3} + 2{y^2}{z^3}} \\right) + \\left( { - 22x{y^3}{z^3} - 33x{y^3}{z^3}} \\right) - 72\\\\ =  - 9{y^2}{z^3} - 55x{y^3}{z^3} - 72\\end{array}\\)\nc) Ta có:\n\\(\\begin{array}{l}\\frac{{\\sqrt 4 }}{{41}}{x^2}{y^4}{z^3} + {x^2}{y^4}z + \\frac{{39}}{{41}}{x^2}{y^4}{z^3} - {x^2}{y^4}z + {z^{18}}\\\\ = \\left( {\\frac{{\\sqrt 4 }}{{41}}{x^2}{y^4}{z^3} + \\frac{{39}}{{41}}{x^2}{y^4}{z^3}} \\right) + \\left( {{x^2}{y^4}z - {x^2}{y^4}z} \\right) + {z^{18}}\\\\ = {x^2}{y^4}{z^3} + {z^{18}}\\end{array}\\)"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "problem": "Câu 1: Số thập phân gồm có bao nhiêu thành phần?\nA.\tMột thành phần, đó là phần nguyên\nB.\tMột thành phần, đó là phần thập phân\nC.\tHai thành phần, đó là phần nguyên và phần thập phân",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi số thập phân gồm hai phần: phần nguyên và phần thập phân, chúng được phân cách bởi dấu phẩy."
+    },
+    {
+        "problem": "Câu 2: Trong các số sau, số nào là số thập phân?\nA.\t0,6\nB.\t0,978\nC.\t35,7\nD.\tTất cả các đáp án đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Mỗi số thập phân gồm hai phần: phần nguyên và phần thập phân, chúng được phân cách bởi dấu phẩy.\nDo đó số 0,6; 0,978; 35,7 đều là số thập phân."
+    },
+    {
+        "problem": "Câu 3: Số thập phân 2,008 đọc là:\nA.\tHai phẩy tám\nB.\tHai phẩy không không tám\nC.\tHai phẩy không tám\nD.\tHai phẩy không không không tám",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thập phân 2,008 đọc là hai phẩy không không tám."
+    }
+]

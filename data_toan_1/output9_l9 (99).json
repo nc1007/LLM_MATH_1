@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Năm nay thành phố A có 3 triệu người. Giả sử tỉ lệ gia tăng dân số hằng năm của thành phố đều là 2%. Số dân của thành phố A là bao nhiêu người:\na) Sau 1 năm?\nb) Sau 2 năm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm giá trị trị \\(m\\% \\) của số a cho trước, ta tính \\(a.\\frac{m}{{100}}\\left( {m \\in \\mathbb{N}^*} \\right)\\).\na) Sau 1 năm số dân của thành phố A = Số dân năm nay + Số dân tăng sau 1 năm\nb) Sau 2 năm số dân của thành phố A = Số dân sau 1 năm + Số dân tăng từ sau 1 năm đến 2 năm\nLời giải chi tiết\na) Sau 1 năm số dân của thành phố A là: 3+ 3.2% = 3,06 (triệu người)\nb) Sau 2 năm số dân của thành phố A là: 3,06 + (3,06 . 2%) = 3,1212 (triệu người)."
+    },
+    {
+        "problem": "Lượng nước trong cỏ tươi là 55%. Nếu muốn có 135 kg cỏ khô (không còn nước) thì ta phải sấy bao nhiêu ki-lô-gam cỏ tươi?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn tìm một số biết \\(m\\% \\) của nó bằng a, ta tính \\(a:\\frac{m}{{100}}\\left( {m \\in \\mathbb{N}} \\right)\\).\nLời giải chi tiết\nCỏ khô (không chứa nước) chiếm số phần trong cỏ tươi là: 100%- 55% = 45%\nNếu muốn có 135 kg cỏ khô (không còn nước) thì ta phải sấy số ki-lô-gam cỏ tươi là:\n135 : \\(\\frac{{45}}{{100}}\\) = 135 . \\(\\frac{{100}}{{45}}\\) = 300 (kg)."
+    },
+    {
+        "problem": "Để làm món thịt kho dừa ngon, ta cần có cùi dừa, thịt ba chỉ, đường, nước mắm, muối. Lượng thịt ba chỉ bằng \\(\\frac{3}{2}\\) lượng cùi dừa và lượng đường bằng 5% lượng cùi dừa. Nếu có 0,6 kg thịt ba chỉ thì phải cần bao nhiêu ki-lô-gam cùi dừa và bao nhiêu ki-lô-gam đường để làm món thịt kho dừa?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để làm món thịt kho dừa ngon, ta cần có cùi dừa, thịt ba chỉ, đường, nước mắm, muối. Lượng thịt ba chỉ bằng \\(\\frac{3}{2}\\) lượng cùi dừa và lượng đường bằng 5% lượng cùi dừa. Nếu có 0,6 kg thịt ba chỉ thì phải cần bao nhiêu ki-lô-gam cùi dừa và bao nhiêu ki-lô-gam đường để làm món thịt kho dừa?\nLời giải chi tiết\nTheo bài ra 0,6 kg thịt ba chỉ bằng \\(\\frac{3}{2}\\) lượng cùi dừa.\nVậy số kg cùi dừa tương ứng với 0,6 kg thịt ba chỉ là: 0,6 : \\(\\frac{3}{2}\\) = 0,4 (kg).\nSố kg đường là: 5% . 0,4 = 0,02 kg.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Viết các số sau theo thứ tự tăng dần.\na) \\(\\frac{{ - 3}}{4};\\,\\,\\frac{2}{5};\\,\\,\\frac{{ - 2}}{3};\\,\\frac{1}{3}\\).\nb) \\( - 3,175;\\,1,9;\\,\\, - 3,169;\\,\\,1,89.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh các cặp số âm và các cặp số dương rồi sắp xếp theo thứ tự tăng dần.\nChú ý: Các số  âm luôn nhỏ hơn các số dương.\nLời giải chi tiết\na)\n+) Ta có: \\(\\frac{2}{5} = \\frac{6}{{15}}\\) và \\(\\frac{1}{3} = \\frac{5}{{15}}\\)\nDo \\(\\frac{5}{{15}} < \\frac{6}{{15}}\\) nên \\(\\frac{1}{3} < \\frac{2}{5}\\).\n+ Ta có: \\(\\frac{{ - 3}}{4} = \\frac{{ - 9}}{{12}}\\) và \\(\\frac{{ - 2}}{3} = \\frac{{ - 8}}{{12}}\\)\nDo \\(\\frac{{ - 9}}{{12}} < \\frac{{ - 8}}{{12}}\\) nên \\(\\frac{{ - 3}}{4} < \\frac{{ - 2}}{3}\\)\nSắp xếp: \\(\\frac{{ - 3}}{4} < \\frac{{ - 2}}{3} < \\frac{1}{3} < \\frac{2}{5}\\).\nb)\nTa có: \\( - 3,175 <  - 3,169\\) và \\(1,89 < 1,9\\)\nSắp xếp: \\( - 3,175 <  - 3,169 < 1,89 < 1,9\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính một cách hợp lí:\na) \\(\\left( {\\frac{{617}}{{191}} + \\frac{{29}}{{33}} - \\frac{{115}}{{117}}} \\right).\\left( {\\frac{1}{4}+ \\frac{-1}{5} - \\frac{1}{{20}}} \\right);\\)\nb) \\(\\frac{{12}}{5}.\\left( {\\frac{{-10}}{3} - \\frac{5}{{12}}} \\right)\\);\nc) \\(1,23 - 5,48 + 8,77 - 4,32;\\)\nd) \\(7.{\\rm{ }}0,25{\\rm{ }} + {\\rm{ }}9.(-0,25)\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng tính chất \\(a.0 = 0\\)\nb) Tính trong ngoặc trước rồi thực hiện phép nhân.\nc) \\(a - b + c - d = (a + c) - (b + d)\\)\nd) Áp dụng tính chất: \\(a.b + a.c = a.(b + c)\\).\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\left( {\\frac{{617}}{{191}} + \\frac{{29}}{{33}} - \\frac{{115}}{{117}}} \\right).\\left( {\\frac{1}{4} + \\frac{-1}{5} - \\frac{1}{{20}}} \\right)\\\\ = \\left( {\\frac{{617}}{{191}} + \\frac{{29}}{{33}} - \\frac{{115}}{{117}}} \\right).\\left( {\\frac{5}{{20}} + \\frac{-4}{{20}} - \\frac{1}{{20}}} \\right)\\\\ = \\left( {\\frac{{617}}{{191}} + \\frac{{29}}{{33}} - \\frac{{115}}{{117}}} \\right).0\\\\ = 0\\end{array}\\)\nb)\n\\(\\begin{array}{l}\\frac{{12}}{5}.\\left( {\\frac{{-10}}{3} - \\frac{5}{{12}}} \\right)\\\\ = \\frac{{12}}{5}.\\left( {\\frac{{-40}}{{12}} - \\frac{5}{{12}}} \\right)\\\\ = \\frac{{12}}{5}.\\frac{{-45}}{{12}}\\\\ = -9\\end{array}\\)\nc)\n\\(\\begin{array}{l}1,23 - 5,48 + 8,77 - 4,32\\\\ = \\left( {1,23 + 8,77} \\right) - \\left( {5,48 + 4,32} \\right)\\\\ = 10 - 9,8\\\\ = 0,2\\end{array}\\)\nd)\n\\(\\begin{array}{l}7.{\\rm{ }}0,25{\\rm{ }} + {\\rm{ }}9.(-0,25)\\\\=7 . 0,25 - 9. 0,25\\\\ = 0,25.\\left( {7 - 9} \\right)\\\\ = 0,25.(-2)\\\\ = -0,5 \\end{array}\\)"
+    },
+    {
+        "problem": "Trong tháng Tư, gia đình bà Mai quản lý tài chính như sau:\n- Thu nhập: 16 000 000 đồng;\n- Chi tiêu: 13 000 000 đồng;\n- Để dành: 3 000 000 đồng.\nTháng Năm thu nhập gia đình bà giảm 12% nhưng chi tiêu lại tăng 12% so với tháng Tư. Gia đình bà Mai trong tháng Năm còn để dành được bao nhiêu tiền hay thiếu bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính thu nhập của gia đình bà Mai vào tháng Năm sau khi giảm 12%.\n- Tính chi tiêu của gia đình bà Mai vào tháng Năm sau khi tăng 12%.\n=> Tính số tiền gia đình bà Mai để dành được hay thiếu\nLời giải chi tiết\nSau khi giảm 12%, thu nhập của gia đình bà Mai vào tháng Năm là:\n16 000 000 - (16 000 000 . 12% ) = 14 080 000 (đồng)\nSau khi tăng 12%, chi tiêu của gia đình bà Mai vào tháng Năm là:\n13 000 000 + 13 000 000 . 12% = 14 560 000 (đồng)\nGia đình bà Mai trong tháng Năm còn để dành được số tiền là:\n14 080 000 - 14 560 000 = - 480 000 (đồng)\nVậy tháng Năm gia đình bà Mai thiếu 480 000 (đồng).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Theo https://danso.org/viet-nam vào ngày 10/3/2021, dân số của Việt Nam là 97 912 500 người. Giả thiết rằng tỉ lệ gia tăng dân số hằng năm của Việt Nam luôn (xấp xỉ) là 2%. Hãy làm tròn số chỉ dân số của Việt Nam đến hàng thập phân thứ hai của triệu:\na) Sau 1 năm;\nb) Sau 2 năm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sau một năm, dân số Việt Nam = số dân năm 2021 + số dân tăng sau 1 năm từ năm 2021.\nb) Sau hai năm, dân số Việt Nam = số dân sau 1 năm từ năm 2021 + số dân tăng sau 2 năm từ năm 2021.\nLời giải chi tiết\na) Sau một năm, dân số Việt Nam là:\n97 912 500 + ( 97 912 500 . 2% ) = 99 870 750 (người)\n≈ 99,87 (triệu người)\nb) Sau hai năm, dân số Việt Nam là:\n99 870 750 + ( 99 870 750.2% ) = 101 868 165 (người)\n≈ 101,87 (triệu người)."
+    },
+    {
+        "problem": "Bạn Dũng đọc một quyển sách trong 3 ngày: ngày thứ nhất đọc được \\(\\frac{1}{3}\\) số trang, ngày thứ hai đọc được \\(\\frac{5}{8}\\)  số trang còn lại, ngày thứ ba đọc nốt 30 trang cuối cùng. Quyển sách đó có bao nhiêu trang?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Bước 1: Tìm phân số biểu thị số phần chưa đọc của quyển sách sau ngày thứ nhất\nBước 2: Tìm phân số biểu thị số phần đã đọc của quyển sách trong ngày thứ hai\nBước 3: Tìm phân số biểu thị số phần chưa đọc của quyển sách sau ngày thứ hai ( tương ứng với 30 trang)\nBước 4: Tìm số trang của quyển sách\nLời giải chi tiết\nSố phần quyển sách bạn Dũng chưa đọc sau ngày 1 là: \\(1-\\frac{1}{3}=\\frac{2}{3}\\) (quyển sách)\nSố phần quyển sách bạn Dũng đọc trong ngày 2 là: \\(\\frac{5}{8}.\\frac{2}{3} = \\frac{5}{{12}}\\) (quyển sách)\nSố phần quyển sách bạn Dũng chưa đọc sau ngày 2 là: \\(1-\\frac{1}{3}-\\frac{5}{{12}}=\\frac{1}{4}\\) (quyển sách)\nMà số trang bạn Dũng đọc được trong ngày 3 là 30 trang nên \\(\\frac{1}{4}\\) quyển sách tương ứng 30 trang.\nSố trang của quyển sách là:\n\\(30:\\frac{1}{4}=120\\) (trang)\nVậy quyển sách đó có 120 trang."
+    },
+    {
+        "problem": "Ông Ba muốn lát gạch và trồng cỏ cho sân vườn. Biết diện tích phần trồng cỏ bằng \\(\\frac{1}{5}\\) diện tích sân vườn và diện tích phần lát gạch là \\(36{\\rm{ }}{m^2}\\).\na) Tính diện tích sân vườn.\nb) Tính diện tích trồng cỏ.\nc) Giá \\(1\\,{m^2}\\) cỏ là 50 000 đồng, nhưng khi mua ông được giảm giá \\(5\\% \\). Vậy số tiền cần mua cỏ là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tính diện tích phần lát gạch chiếm bao nhiêu phần diện tích sân vườn\n=> Diện tích sân vườn.\nb) Diện tích phần trồng cỏ bằng \\(\\frac{1}{5}\\). Diện tích sân vườn\nc) Tính giá \\(1\\,{m^2}\\) cỏ khi được giảm giá\n=> Số tiền mua cỏ = giá \\(1\\,{m^2}\\) cỏ khi được giảm giá.50 000 đồng\nLời giải chi tiết\na)\nDiện tích phần trồng cỏ bằng \\(\\frac{1}{5}\\) diện tích sân vườn nên diện tích phần lát gạch bằng \\(1 - \\frac{1}{5} = \\frac{4}{5}\\) diện tích sân vườn\nMà diện tích phần lát gạch là \\(36{\\rm{ }}{m^2}\\) nên diện tích sân vườn là:\n\\(36:\\frac{4}{5} = 45\\,\\left( {{m^2}} \\right)\\)\nVậy diện tích sân vườn là \\(45\\,\\left( {{m^2}} \\right)\\).\nb) Diện tích phần trồng cỏ là: \\(\\frac{1}{5}.45 = 9\\left( {{m^2}} \\right)\\)\nc) Do được giảm giá 5% nên \\(1\\,{m^2}\\) cỏ có giá là:\n\\(50{\\rm{ }}000 - (50{\\rm{ }}000.5\\% ) = 47{\\rm{ }}500\\) (đồng)\nVậy số tiền mua cỏ là:\n\\(9\\,.\\,47{\\rm{ }}500 = 427{\\rm{ }}500\\) (đồng).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Người ta cũng sử dụng foot (đọc là phút, số nhiều là feet, kí hiệu là ft), là một đơn vị đo chiều dài, 1 ft = 304,8 mm. Người ta cũng sử dụng độ Fahrenhei (đọc là Fa-ren-hai, kí hiệu là F) để đo nhiệt độ. Công thức đổi từ độ C sang độ F là: F= (160 + 9C): 5, trong đó C là nhiệt độ theo độ C và F là nhiệt độ tương ứng theo độ F.\na) Tính nhiệt độ của nước sôi theo độ F, biết rằng nước sôi có nhiệt độ là 100 °C.\nb) Nhiệt độ mặt đường nhựa vào buổi trưa những ngày hè nắng gắt ở Hà Nội có thể lên đến 109 oF. Hãy tính (xấp xỉ) nhiệt độ của mặt đường nhựa vào thời điểm đó theo độ C.\nc) Điểm sôi của nước bị ảnh hưởng bởi những thay đổi về độ cao, Theo tính toán, địa hình cứ cao lên 1 km thì điểm sôi của nước giảm đi (khoảng) 3 °C. Tìm điểm sôi của nước (tính theo độ F) tại độ cao 5 000 ft.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thay nhiệt độ sôi của nước đơn vị độ C vào công thức: F= (160 + 9C) : 5.\nb) Thay nhiệt độ của mặt đường đơn vị độ F vào công thức: F= (160 + 9C) : 5 rồi suy ra C\nc) Đổi đơn vị ft sang km\nTính nhiệt độ giảm khi ở độ cao trên\n=> Điểm sôi của của nước\nLời giải chi tiết\na) Nhiệt độ của nước sôi theo độ F, biết rằng nước sôi có nhiệt độ là 100 °C là:\nF = (160 + 9 . 100) : 5 =1060 : 5 = 212 °F\nb) Nhiệt độ của mặt đường nhựa vào thời điểm đó theo độ C là:\n109 = ( 160 + 9 . C) : 5\n=> 160 + 9 . C = 109 . 5\n=> 9. C =  109 . 5 - 160\n=> 9. C = 385\n=> C = 42,78 °C\nc)\nTa có: 1 ft = 304,8 mm nên 5 000 ft = 5 000 . 304, 8 = 1 524 000 mm = 1,524 km\nVì cao lên 1 km giảm đi 3°C nên lên cao 1,524 km giảm số độ C là:\n1,524 . 3 = 4,572 °C\nĐiểm sôi của nước (theo độ C) tính tại độ cao 5 000 ft là:\n100 - 4,572 = 95,428 °C\nĐiểm sôi của nước ( theo độ F) tính tại độ cao 5 000 ft là:\nF = (160 + 9 .95,428) : 5 = 203,7704 °F"
+    },
+    {
+        "problem": "Theo kế hoạch, Tập đoàn Dầu khí Quốc gia Việt Nam khai thác 12,37 triệu tấn dầu thô trong năm 2019.\na) Hãy tính thể tích của lượng dầu thô khai thác năm 2019 theo kế hoạch, biết rằng khối lượng riêng của dầu thô (lấy tròn) là 900 kg/m3 và thể tích của một chất thì bằng khối lượng của chất đó chia cho khối lượng riêng của nó.\nb) Giả sử chúng ta phải vận chuyển hết lượng dầu thô khai thác năm 2019 đến các nhà máy lọc dầu bằng các tàu chở dầu thô có tải trọng 104 530 DWT (viết tắt của cụm từ tiếng Anh Deadweight Torinage, là đơn vị đo năng lực vận tải an toàn của tàu thuỷ). Biết rằng 1 DWT tương đương với 1,13 m3 (thể tích của khoang chứa dầu thô của tàu chở dầu). Cần ít nhất bao nhiêu chuyến tàu chở dầu thô như thế?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Đổi đơn vị ra kg\nThể tích của lượng dầu thô = Khối lượng : khối lượng riêng.\nb) Đổi thể tích ra đơn vị DWT\nSố chuyến cần = Tổng lượng dầu: Lượng dầu mỗi chuyến\nLời giải chi tiết\na) Ta có 12,37 triệu tấn = 12 370 000 tấn = 12 370 000 000 kg\nThể tích của lượng dầu thô khai thác năm 2019 theo kế hoạch là:\nV = \\(\\frac{{12{\\rm{ }}370{\\rm{ }}000{\\rm{ }}000}}{{900}}\\) = 13 744 444,44 m3\nb) Ta có 1 DWT tương đương với 1,13 m3\nSuy ra 13 744 444,44 m3 tương đương với:\n13 744 444,44 : 1,13 = 12 163 225,17 DWT\nCần số chuyến tàu chở dầu thô là: 12 163 225,17 : 104 530 = 116,36\nNhư vậy, cần ít nhất 117 chuyến tàu chở dầu thô\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thực hành tính chỉ số BMI của từng cá nhân trong nhóm (hoặc trong lớp)\nTừng cá nhân tính chỉ số BMI của bản thân mình.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào số liệu chiều cao, cân nặng của bản thân để tính chỉ số BMI rồi đánh giá thể trạng theo bảng đánh giá thể trạng ở người lớn theo BMI đối với người châu Á - Thái Bình Dương trang 74\nBMI=\\(\\frac{m}{h^2}\\). Trong đó m là cân nặng(kg); h là chiều cao(m)\nLời giải chi tiết\nHọ và tên\nChỉ số BMI\nĐánh giá thể trạng\nNguyễn Ngọc Mai\n22\nBình thường\n"
+    },
+    {
+        "problem": "Em hãy tìm chỉ số BMI của người thân trong gia đình( ông, bà, cha, mẹ, các anh chị em của em)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thu thập số liệu chiều cao, cân nặng của người thân để tính chỉ số BMI\nBMI=\\(\\frac{m}{h^2}\\). Trong đó m là cân nặng(kg); h là chiều cao(m)\nLời giải chi tiết\nHọ và tên\nChỉ số BMI\nĐánh giá thể trạng\nNguyễn Văn Tâm\n27\nBéo phì độ I\nTrần Thị Lan\n20\nBình thường\nNguyễn Văn Công\n31\nBéo phì độ II\nLời giải hay"
+    }
+]

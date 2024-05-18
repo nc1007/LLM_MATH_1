@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 1 : Trong hình dưới có bao nhiêu cặp cạnh vuông góc với nhau? \nA.\t1 cặp\nB.\t2 cặp \nC.\t3 cặp\nD.\t4 cặp",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hình trên có: \nAB vuông góc với AD;          DA vuông góc với DC\nBA vuông góc với BC;           CB vuông góc với CD.\nVậy hình đã cho có 4 cặp cạnh vuông góc với nhau."
+    },
+    {
+        "problem": "Câu 3 : Cho hình vẽ như sau : \nCạnh DE song song với mấy cạnh, đó là những cạnh nào?\nA.\t2 cạnh, đó là BC, AI\nB.\t2 cạnh, đó là IK, EK\nC.\t3 cạnh, đó là BC, GH, IK\nD.\t4 cạnh, đó là BC, GH, AD, EK",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình ta thấy cạnh DE song song với 33  cạnh là BC, GH, IK."
+    },
+    {
+        "problem": "Câu 5 : Cho hình vẽ như sau: \nCạnh PQ vuông góc với những cạnh nào?\nA.\tCạnh PE, PD\nB.\tCạnh QH, QG\nC.\tCạnh DE, GH\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình vẽ ta thấy cạnh PQ vuông góc với các cạnh là PE, PD, QH, QG, DE, GH."
+    },
+    {
+        "problem": "Câu 6 : Cho hình vẽ sau:  \nTrong hình trên có bao nhiêu cặp cạnh song song với nhau?\nA.\t10 cặp\nB.\t9 cặp\nC.\t8 cặp\nD.\t7 cặp",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình vẽ đã cho có:\n\t- Cạnh AB song song với cạnh CD.\n- Cạnh AB song song với cạnh MN .\n- Cạnh AB song song với cạnh PQ.\n- Cạnh AB song song với cạnh RT.\n- Cạnh CD song song với cạnh MN.\n- Cạnh CD song song với cạnh PQ.\n- Cạnh CD song song với cạnh RT .\n- Cạnh MN song song với cạnh PQ.\n- Cạnh MN song song với cạnh PT.\n\t- Cạnh PQ song song với cạnh RT.\nVậy trong hình đã cho có 10 cặp cạnh song song với nhau.\n\n- Cạnh AB song song với cạnh CD.\n- Cạnh AB song song với cạnh MN .\n- Cạnh AB song song với cạnh PQ.\n- Cạnh AB song song với cạnh RT.\n- Cạnh CD song song với cạnh MN.\n- Cạnh CD song song với cạnh PQ.\n- Cạnh CD song song với cạnh RT .\n- Cạnh MN song song với cạnh PQ.\n- Cạnh MN song song với cạnh PT.\n\t- Cạnh PQ song song với cạnh RT.\nVậy trong hình đã cho có 10 cặp cạnh song song với nhau."
+    },
+    {
+        "problem": "Câu 7 : Chọn hình vẽ có hai đường thẳng vuông góc với nhau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát các hình đã cho ta thấy hình thứ nhất có hai đường thẳng vuông góc với nhau."
+    },
+    {
+        "problem": "Câu 8 : Chọn hình vẽ có hai đường thẳng song song với nhau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát các hình đã cho ta thấy hình thứ ba từ trên xuống dưới có hai đường thẳng song song với nhau."
+    },
+    {
+        "problem": "Câu 9 : Cho hình vẽ như sau: \nCạnh AH vuông góc với cạnh nào dưới đây?\nA.\tBH, HC và BC\nB.\tBH và AC\nC.\tAB, AC và HC\nD.\tAB và AC",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát hình vẽ ta thấy AH vuông góc với các cạnh là HB, HC và BC."
+    }
+]

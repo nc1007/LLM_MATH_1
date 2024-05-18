@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 4. Hình lục giác đều có tất cả các góc bằng nhau và bằng:\nA. 60^{0} \nB. 90^{0} \nC. 120^{0} \nD. 180^{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Hình lục giác đều là hình có tất cả các góc bằng nhau và bằng 120^{0} .\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Trong giờ thảo luận nhóm, ba bạn Hùng, bạn Kiên, Minh phát biểu như sau:\n- Bạn Hùng nói: “Hình thoi chỉ có tâm đối xứng và không có trục đối xứng”.\n- Bạn Kiên nói: “Hình chữ nhật không có tâm đối xứng và chỉ có trục đối xứng”.\n- Bạn Minh phát biểu: “Hình vuông có cả tâm đối xứng và trục đối xứng”.\nTheo em, bạn nào phát biểu đúng?\nA. Bạn Minh\nB. Bạn Kiên\nC. Bạn Hùng\nD. Cả ba bạn đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nHình thoi là hình có tâm đối xứng là giao điểm của hai đường chéo và hai trục đối xứng là hai đường chéo. Do đó phát biểu của bạn Hùng là SAI.\nHình chữ nhật có tâm đối xứng là giao điểm của hai đường chéo và có hai trục đối xứng nối trung điểm của hai cạnh đối diện. Do đó phát biểu của bạn Kiên SAI.\nHình vuông có tâm đối xứng là giao điểm của hai đường chéo và có bốn trục đối xứng bao gồm hai đường chéo và hai đường nối trung điểm của hai cạnh đối diện. Do đó phát biểu của bạn Minh ĐÚNG.\nVậy phát biểu của bạn Minh là đúng.\nĐáp án: A"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Hình thoi có độ dài hai đường chéo lần lượt là 50 m và 60 m thì diện tích là:\nA. 300 m^{2} .                                      \nB. 3 000 m^{2} .\nC. 1 500 m^{2} .                                   \nD. 150 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDiện tích hình thoi đã cho là: 50.60 : 2 = 1500 m^{2} .\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Hình thang cân có độ dài cạnh đáy và chiều cao lần lượt là 40 m, 30 m, 25 m, có diện tích là:\nA. 1 750 m^{2} .                                   \nB. 175 m^{2} .\nC. 875 m^{2} .                                      \nD. 8 750 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDiện tích hình thang cân là: (40 + 30).25 : 2 = 875 m^{2} .\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Hình bình hành có chiều dài một cạnh và chiều cao tương ứng lần lượt là 70 dm và 50 dm có diện tích là:\nA. 35 m^{2} .                                        \nB. 3 500 m^{2} .\nC. 17,5 m^{2} .                                     \nD. 350 m^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nDiện tích hình bình hành là: 70.50 = 3500 (dm^{2} ).\nĐổi 3500 dm^{2 } = 35 m^{2} \nĐáp án: A"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Bác An muốn lát gạch một cái sân dạng hình chữ nhật có chiều dài và chiều rộng lần lượt là 12m và 9m. Tiền gạch là 130 000 đồng/m^{2}  và tiền công lát (tính cả vật liệu khác) là 70 000 đồng/m^{2} . Bác An phải trả tất cả bao nhiêu tiền?\nA. 14 040 000 đồng\nB. 7 560 000 đồng\nC. 21 600 000 đồng\nD. 19 600 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCách 1:\nDiện tích của sân hình chữ nhật là: 12.9 = 108 (m^{2} ).\nTiền gạch bác An phải trả là: 108. 130 000 = 14 040 000 (đồng).\nTiền công thợ bác An phải trả là: 108.70 000 = 7 560 000 (đồng).\nTổng số tiền bác An phải trả là: 14 040 000 + 7 560 000 = 21 600 000 (đồng).\nVậy số tiền bác An phải trả là: 21 600 000 đồng.\nCách 2:\nDiện tích của sân hình chữ nhật là: 12.9 = 108 (m^{2} ).\nTổng số tiền bác An phải trả là:\n108. 130 000 + 108.70 000\n= 108.(130 000 + 70 000)\n=108. 200 000 = 21 600 000 (đồng).\nVậy số tiền bác An phải trả là: 21 600 000 đồng.\nĐáp án: C"
+    }
+]

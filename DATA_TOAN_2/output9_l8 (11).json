@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "\nTrong Hình 5 có MQ là tia phân giác của \\(\\widehat {NMP}\\). Tỉ số \\(\\frac{x}{y}\\) là\nA. \\(\\frac{5}{2}\\).\nB. \\(\\frac{5}{4}\\).\nC. \\(\\frac{4}{5}\\).\nD. \\(\\frac{2}{5}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường phân giác của tam giác: Trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề đoạn ấy.\nLời giải chi tiết\nVì MQ là tia phân giác của góc NMP trong tam giác MNP nên: \\(\\frac{{QP}}{{NQ}} = \\frac{{MP}}{{NM}}\\), suy ra \\(\\frac{x}{y} = \\frac{{2,5}}{2} = \\frac{5}{4}\\)\nChọn B"
+    },
+    {
+        "problem": "Cho tam giác ABC có đường trung tuyến AM \\(\\left( {M \\in BC} \\right)\\). Tia phân giác của góc AMB cắt AB tại D, tia phân giác của góc AMC cắt AC tại E.\na) Chứng minh DE//BC.\nb) Gọi I là giao điểm của DE với AM. Chứng minh I là trung điểm của DE.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường phân giác của tam giác: Trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề đoạn ấy.\nLời giải chi tiết\n\na) Vì MD là phân giác góc AMB trong tam giác ABM nên: \\(\\frac{{AM}}{{MB}} = \\frac{{DA}}{{DB}}\\)\nVì ME là phân giác góc AMC trong tam giác AMC nên: \\(\\frac{{EA}}{{EC}} = \\frac{{MA}}{{MC}} = \\frac{{MA}}{{MB}}\\)\nDo đó, \\(\\frac{{DA}}{{DB}} = \\frac{{EA}}{{EC}}\\).\nTam giác ABC có: \\(\\frac{{DA}}{{DB}} = \\frac{{EA}}{{EC}}\\), suy ra DE//BC (định lí Thalès đảo).\nb) Tam giác ABM có DI//BM nên theo hệ quả định lí Thalès ta có: \\(\\frac{{DI}}{{MB}} = \\frac{{AI}}{{AM}}\\)\nTam giác ACM có EI//CM nên theo hệ quả định lí Thalès ta có: \\(\\frac{{EI}}{{MC}} = \\frac{{AI}}{{AM}}\\)\nDo đó: \\(\\frac{{ID}}{{MB}} = \\frac{{IE}}{{MC}}\\)\nMà \\(MB = MC\\) nên \\(ID = IE\\)\nVậy I là trung điểm của DE."
+    },
+    {
+        "problem": "Cho tam giác OPQ cân tại O có I là trung điểm của PQ. Kẻ IM//QO\\(\\left( {M \\in OP} \\right)\\), IN//PO \\(\\left( {N \\in QO} \\right)\\). Chứng minh:\na) Tam giác IMN cân tại I.\nb) OI là đường trung trực của MN.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về đường trung bình của tam giác để chứng minh: Đường thẳng đi qua trung điểm một cạnh của tam giác và song song với cạnh thứ hai thì đi qua trung điểm cạnh thứ ba.\n+ Sử dụng kiến thức về tính chất của đường trung bình của tam giác để chứng minh: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh ấy.\nLời giải chi tiết\n\na) Tam giác OPQ có: \\(IP = IQ\\), IM//QO nên \\(MO = MP\\)\nTam giác OPQ có: \\(IP = IQ\\), \\(MO = MP\\) nên IM là đường trung bình của tam giác OPQ, suy ra \\(IM = \\frac{1}{2}QO\\)\nTương tự ta có: \\(IN = \\frac{1}{2}PO\\).\nMà \\(PO = QO\\) (do tam giác POQ cân tại O) nên \\(IM = IN\\), suy ra tam giác IMN cân tại I.\nb) Gọi K là giao điểm của IO và MN.\nTam giác OPQ có: \\(MO = MP\\), \\(NO = NQ\\) nên MN là đường trung bình của tam giác OPQ, suy ra MN//PQ (1).\nTam giác OPQ cân tại O có OI là đường trung tuyến nên OI cũng là đường cao của tam giác OPQ.\nSuy ra: \\(OI \\bot PQ\\) (2)\nTừ (1) và (2) suy ra: \\(MN \\bot OI\\) tại K hay \\(MN \\bot IK\\)\nMà tam giác IMN cân tại I nên IK là đường trung trực của MN hay OI là đường trung trực của MN."
+    },
+    {
+        "problem": "Cho tam giác ABC và điểm D trên cạnh BC sao cho \\(\\frac{{BD}}{{BC}} = \\frac{3}{4}\\), điểm E trên đoạn AD sao cho \\(\\frac{{AE}}{{AD}} = \\frac{1}{3}\\). Gọi K là giao điểm của BE và AC. Tính tỉ số \\(\\frac{{AK}}{{KC}}\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí Thalès trong tam giác để tính: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó các đoạn thẳng tương ứng tỉ lệ.\nLời giải chi tiết\n\nVẽ DM//BK (M thuộc AC).\nTam giác MDA có KE//MD nên theo định lí Thalès trong tam giác ta có:\n\\(\\frac{{AK}}{{KM}} = \\frac{{AE}}{{ED}} = \\frac{1}{2}\\), suy ra \\(AK = \\frac{1}{2}KM\\)\nTam giác CKB có KB//MD nên theo định lí Thalès trong tam giác ta có:\n\\(\\frac{{KM}}{{KC}} = \\frac{{BD}}{{BC}} = \\frac{3}{4}\\), suy ra \\(KM = \\frac{3}{4}KC\\)\nDo đó, \\(AK = \\frac{3}{8}KC\\), suy ra \\(\\frac{{AK}}{{CK}} = \\frac{3}{8}\\)"
+    },
+    {
+        "problem": "\nCho hình vuông ABCD có M, N, P, Q lần lượt là trung điểm của AB, BC, CD, DA (Hình 6). Đẳng thức nào sau đây là đúng?\nA. \\({S_{MNPQ}} = \\frac{1}{4}{S_{ABCD}}\\).\nB. \\({S_{MNPQ}} = \\frac{1}{3}{S_{ABCD}}\\).\nC. \\({S_{MNPQ}} = {S_{ABCD}}\\).\nD. \\({S_{MNPQ}} = \\frac{1}{2}{S_{ABCD}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức diện tích hình vuông: Diện tích hình vuông có độ dài cạnh bằng a là: \\(S = {a^2}\\)\n+ Sử dụng kiến thức diện tích tam giác vuông: Diện tích tam giác vuông bằng một nửa độ dài hai cạnh hình vuông.\nLời giải chi tiết\nGọi độ dài cạnh của hình vuông ABCD bằng a.\nVì ABCD là hình vuông nên \\(\\widehat A = \\widehat B = \\widehat C = \\widehat D = {90^0},AB = BC = CD = DA = a\\)\nVì M, N, P, Q lần lượt là trung điểm của AB, BC, CD, DA nên \\(AM = MB = BN = NC = PC = PD = QD = QA = \\frac{a}{2}\\)\nDiện tích hình vuông ABCD là: \\({S_{ABCD}} = A{B^2} = {a^2}\\)\nDiện tích tam giác vuông QAM vuông tại A là: \\({S_1} = \\frac{1}{2}AM.AQ = \\frac{1}{2}.\\frac{a}{2}.\\frac{a}{2} = \\frac{{{a^2}}}{8}\\)\nDiện tích tam giác vuông BNM vuông tại B là: \\({S_2} = \\frac{1}{2}BM.BN = \\frac{1}{2}.\\frac{a}{2}.\\frac{a}{2} = \\frac{{{a^2}}}{8}\\)\nDiện tích tam giác vuông PNC vuông tại C là: \\({S_3} = \\frac{1}{2}CN.PC = \\frac{1}{2}.\\frac{a}{2}.\\frac{a}{2} = \\frac{{{a^2}}}{8}\\)\nDiện tích tam giác vuông QDP vuông tại D là: \\({S_4} = \\frac{1}{2}DP.DQ = \\frac{1}{2}.\\frac{a}{2}.\\frac{a}{2} = \\frac{{{a^2}}}{8}\\)\nDo đó, \\({S_{MNPQ}} = {S_{ABCD}} - {S_1} - {S_2} - {S_3} - {S_4} = {a^2} - 4.\\frac{{{a^2}}}{8} = \\frac{{{a^2}}}{2}\\)\nSuy ra: \\({S_{MNPQ}} = \\frac{1}{2}{S_{ABCD}}\\)\nChọn D."
+    },
+    {
+        "problem": "Cho tam giác ABC và điểm M trên cạnh AB sao cho \\(\\frac{{AM}}{{MB}} = \\frac{3}{2}\\). Kẻ MN//BC \\(\\left( {N \\in AC} \\right)\\). Biết \\(BC = 6cm\\), tính độ dài MN.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hệ quả định lí Thalès trong tam giác để tính: Nếu một đường thẳng cắt hai cạnh của một tam giác song song với cạnh thứ ba thì tạo ra một tam giác mới có ba cạnh tương ứng tỉ lệ với ba cạnh của tam giác đã cho.\nLời giải chi tiết\n\nVì \\(\\frac{{AM}}{{MB}} = \\frac{3}{2}\\) nên \\(AM = \\frac{3}{5}AB\\)\nTam giác ABC có: MN//BC nên theo hệ quả của định lí Thalès ta có:\n\\(\\frac{{MN}}{{BC}} = \\frac{{AM}}{{AB}}\\) nên \\(\\frac{{MN}}{6} = \\frac{3}{5}\\), suy ra: \\(MN = \\frac{{18}}{5}\\left( {cm} \\right)\\)"
+    },
+    {
+        "problem": "\nCho hình bình hành ABCD có M, N lần lượt là trung điểm của BC, AD. Vẽ MP//BD \\(\\left( {P \\in AC} \\right)\\) và \\(NQ//BD\\left( {Q \\in AC} \\right)\\). Phát biểu nào sau đây đúng?\nA. \\(AQ = QP = PC\\).\nB. O là trung điểm PQ.\nC. MNPQ là hình bình hành.\nD. MNPQ là hình chữ nhật.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường trung bình của tam giác để chứng minh: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh ấy.\nLời giải chi tiết\nVì ABCD là hình bình hành nên \\(AO = OC,OB = OD\\)\nTam giác BOC có: M là trung điểm của BC, MP//BD nên \\(CP = OP = \\frac{1}{2}OC\\)\nTam giác BOC có: M là trung điểm của BC, P là trung điểm của OC nên MP là đường trung bình của tam giác, do đó: \\(MP = \\frac{1}{2}OB\\)\nTam giác AOD có: N là trung điểm của AD, \\(NQ//BD\\) nên \\(AQ = OQ = \\frac{1}{2}OA\\)\nTam giác AOD có: N là trung điểm của AD, Q là trung điểm của OA nên NQ là đường trung bình của tam giác, do đó: \\(QN = \\frac{1}{2}OD\\)\nVì \\(AO = OC\\), \\(CP = OP = \\frac{1}{2}OC\\), \\(AQ = OQ = \\frac{1}{2}OA\\) nên \\(AQ = OQ = OP = PC\\). Do đó, O là trung điểm của PQ.\nVì MP//QN (cùng song song với BD), \\(MP = \\frac{1}{2}OB = \\frac{1}{2}OD = QN\\) nên tứ giác MPNQ là hình bình hành.\nChọn B."
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A có MN//BC \\(\\left( {M \\in AB,N \\in AC} \\right)\\). Biết \\(AB = 9cm,AM = 3cm,AN = 4cm\\). Tính độ dài NC, MN, BC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về định lí Thalès trong tam giác để tính: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó các đoạn thẳng tương ứng tỉ lệ.\n+ Sử dụng kiến thức về hệ quả định lí Thalès trong tam giác để tính: Nếu một đường thẳng cắt hai cạnh của một tam giác song song với cạnh thứ ba thì tạo ra một tam giác mới có ba cạnh tương ứng tỉ lệ với ba cạnh của tam giác đã cho.\nLời giải chi tiết\n\nTa có: \\(MB = AB - AM = 6cm\\)\nTam giác ABC có: MN//BC nên theo định lí Thalès trong tam giác ta có: \\(\\frac{{AM}}{{MB}} = \\frac{{AN}}{{NC}}\\),\nsuy ra: \\(NC = \\frac{{MB.AN}}{{AM}} = \\frac{{6.4}}{3} = 8\\left( {cm} \\right)\\)\nÁp dụng định lí Pythagore vào tam giác AMN vuông tại A có: \\(MN = \\sqrt {A{M^2} + A{N^2}}  = \\sqrt {{3^2} + {4^2}}  = 5\\left( {cm} \\right)\\)\nTam giác ABC có: MN//BC nên theo hệ quả định lí Thalès trong tam giác ta có: \\(\\frac{{AM}}{{AB}} = \\frac{{MN}}{{BC}}\\),\nsuy ra: \\(BC = \\frac{{AB.MN}}{{AM}} = \\frac{{9.5}}{3} = 15\\left( {cm} \\right)\\)"
+    },
+    {
+        "problem": "Cho tam giác ABC đều cạnh bằng 1dm. Gọi E, F lần lượt là trung điểm của AB, AC. Chu vi hình thang EFCB bằng:\nA. \\(\\frac{5}{2}dm\\).\nB. 3dm.\nC. 3,5dm.\nD. 4dm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường trung bình của tam giác để tính: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh ấy.\nLời giải chi tiết\n\nTam giác ABC đều nên \\(AB = BC = CA = 1dm\\)\nVì E, F lần lượt là trung điểm của AB, AC nên \\(BE = \\frac{1}{2}AB = 0,5dm;FC = \\frac{1}{2}AC = 0,5dm\\)\nTam giác ABC có E, F lần lượt là trung điểm của AB, AC nên theo hệ quả định lí Thalès ta có: \\(EF = \\frac{1}{2}BC = 0,5dm\\)\nVậy chu vi hình thang EFCB là:\n\\(BE + FE + FC + BC = 1 + 0,5 + 0,5 + 0,5 = 2,5\\left( {dm} \\right)\\)\nChọn A."
+    },
+    {
+        "problem": "\nCho hình thang ABCD (AB//CD) và \\(DE = EC\\) (Hình 8). Gọi O là giao điểm của AC và BD, K là giao điểm của EO và AB. Trong các khẳng định sau, có bao nhiêu khẳng định đúng?\n(I) \\(\\frac{{AK}}{{EC}} = \\frac{{KB}}{{DE}}\\), (II) \\(AK = KB\\), (III) \\(\\frac{{AO}}{{AC}} = \\frac{{AB}}{{DC}}\\), (IV) \\(\\frac{{AK}}{{EC}} = \\frac{{OB}}{{OD}}\\)\nA. 1.\nB. 2.\nC. 3.\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hệ quả định lí Thalès trong tam giác để tìm câu đúng: Nếu một đường thẳng cắt hai cạnh của một tam giác song song với cạnh thứ ba thì tạo ra một tam giác mới có ba cạnh tương ứng tỉ lệ với ba cạnh của tam giác đã cho.\nLời giải chi tiết\nTam giác AKO có AK//CE nên theo hệ quả định lí Thalès ta có: \\(\\frac{{AK}}{{CE}} = \\frac{{KO}}{{EO}} = \\frac{{AO}}{{OC}}\\)\nTam giác BKO có BK//DE nên theo hệ quả định lí Thalès ta có: \\(\\frac{{BK}}{{DE}} = \\frac{{KO}}{{EO}} = \\frac{{OB}}{{OD}}\\)\nDo đó, \\(\\frac{{AK}}{{EC}} = \\frac{{KB}}{{DE}}\\) và \\(\\frac{{AK}}{{EC}} = \\frac{{OB}}{{OD}}\\)\nMà \\(DE = EC\\) nên \\(AK = KB\\)\nTa có: \\(\\frac{{AO}}{{OC}} = \\frac{{AK}}{{CE}} = \\frac{{2AK}}{{2CE}} = \\frac{{AB}}{{DC}}\\)\nVậy có 3 khẳng định đúng.\nChọn C."
+    },
+    {
+        "problem": "Cho tam giác ABC có cạnh \\(BC = 10cm\\). Trên cạnh AB lấy các điểm D, E sao cho \\(AD = DE = EB\\). Từ D, E kẻ các đường thẳng song song với BC, cắt cạnh AC lần lượt tại M và N. Tính độ dài DM và EN.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hệ quả định lí Thalès trong tam giác để tính: Nếu một đường thẳng cắt hai cạnh của một tam giác song song với cạnh thứ ba thì tạo ra một tam giác mới có ba cạnh tương ứng tỉ lệ với ba cạnh của tam giác đã cho.\nLời giải chi tiết\n\nTam giác ABC có DM//BC nên theo hệ quả của định lí Thalès ta có: \\(\\frac{{DM}}{{BC}} = \\frac{{AD}}{{AB}}\\), suy ra \\(\\frac{{DM}}{{10}} = \\frac{1}{3},DM = \\frac{{10}}{3}cm\\)\nTam giác ABC có EN//BC nên theo hệ quả của định lí Thalès ta có: \\(\\frac{{EN}}{{BC}} = \\frac{{EA}}{{AB}}\\), suy ra \\(\\frac{{EN}}{{10}} = \\frac{2}{3},EN = \\frac{{20}}{3}cm\\)"
+    },
+    {
+        "problem": "Cho tam giác ABC có \\(I \\in AB\\) và \\(K \\in AC\\). Kẻ IM//BK \\(\\left( {M \\in AC} \\right)\\), KN//CI \\(\\left( {N \\in AB} \\right)\\). Chứng minh MN//BC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về định lí Thalès trong tam giác để chứng minh: Nếu một đường thẳng song song với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó các đoạn thẳng tương ứng tỉ lệ.\n+ Sử dụng kiến thức về định lí Thalès để chứng minh: Nếu một đường thẳng cắt hai cạnh của một tam giác và định ra trên hai cạnh này những đoạn thẳng tương ứng tỉ lệ thì đường thẳng đó song song với cạnh còn lại của tam giác.\nLời giải chi tiết\n\nTam giác ABK có IM//BK nên theo định lí Thalès ta có: \\(\\frac{{AI}}{{AB}} = \\frac{{AM}}{{AK}}\\)\nTam giác AIC có KN//CI nên theo định lí Thalès ta có: \\(\\frac{{AN}}{{AI}} = \\frac{{AK}}{{AC}}\\)\nDo đó, \\(\\frac{{AI}}{{AB}}.\\frac{{AN}}{{AI}} = \\frac{{AM}}{{AK}}.\\frac{{AK}}{{AC}} = \\frac{{AM}}{{AC}}\\), suy ra \\(\\frac{{AN}}{{AB}} = \\frac{{AM}}{{AC}}\\)\nTam giác ABC có: \\(\\frac{{AN}}{{AB}} = \\frac{{AM}}{{AC}}\\) nên theo định lí Thalès đảo ta có MN//BC."
+    },
+    {
+        "problem": "Để đo khoảng cách giữa hai điểm A và B bị ngăn cách bởi một hồ nước, người ta đóng các cọc tại các vị trí A, B, M, N, O như Hình 9 và đo được \\(MN = 45m\\). Tính khoảng cách AB biết M, N lần lượt là trung điểm OA, OB.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường trung bình của tam giác để tính: Đường trung bình của tam giác thì song song với cạnh thứ ba và bằng nửa cạnh ấy.\nLời giải chi tiết\nTam giác OAB có M, N lần lượt là trung điểm OA, OB nên MN là đường trung bình của tam giác OAB. Do đó, \\(MN = \\frac{1}{2}AB\\) nên \\(AB = 2MN = 2.45 = 90\\left( m \\right)\\)"
+    },
+    {
+        "problem": "Cho Hình 10, tính độ dài x, y.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường trung bình của hình thang: Đường thẳng đi qua trung điểm một cạnh bên của hình thang và song song với hai đáy thì đi qua trung điểm của cạnh bên thứ hai và được gọi là đường trung bình của hình thang. Đường trung bình của hình thang song song với hai đáy và bằng nửa tổng hai đáy.\nLời giải chi tiết\nVì EF//DC (cùng vuông góc với AD) nên tứ giác EFCD là hình thang.\nHình thang EFCD có: H là trung điểm của FC, GH//EF//DC (cùng vuông góc với AD) nên G là trung điểm của ED. Suy ra, GH là đường trung bình của hình thang EFCD. Suy ra: \\(GH = \\frac{{FE + DC}}{2} = \\frac{{10 + 14}}{2} = 12\\) hay \\(y = 12\\)\nVì AB//GH (cùng vuông góc với AD) nên tứ giác ABHG là hình thang.\nHình thang ABHG có: F là trung điểm của BH, AB//EF//GH (cùng vuông góc với AD) nên E là trung điểm của AG. Suy ra, EF là đường trung bình của hình thang ABHG. Suy ra: \\({\\rm{EF}} = \\frac{{AB + GH}}{2}\\), hay \\(10 = \\frac{{x + 12}}{2}\\), suy ra \\(x = 8\\)."
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A có \\(AB = 6cm,AC = 8cm\\). Tia phân giác của \\(\\widehat {ABC}\\) cắt AC tại D.\na) Tính độ dài DA, DC.\nb) Tia phân giác của \\(\\widehat {ACB}\\) cắt BD ở I. Gọi M là trung điểm của BC. Chứng minh \\(\\widehat {BIM} = {90^0}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường phân giác của tam giác: Trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề đoạn ấy.\nLời giải chi tiết\n\na) Áp dụng định lí Pythagore vào tam giác ABC vuông tại A có: \\(BC = \\sqrt {A{B^2} + A{C^2}}  = 10\\left( {cm} \\right)\\)\nVì BD là tia phân giác của góc ABC trong tam giác ABC nên theo tính chất đường phân giác của tam giác ta có: \\(\\frac{{DA}}{{DC}} = \\frac{{BA}}{{BC}} = \\frac{6}{{10}} = \\frac{3}{5}\\)\nDo đó, \\(\\frac{{DA}}{3} = \\frac{{DC}}{5} = \\frac{{AC}}{8} = 1\\). Suy ra: \\(DA = 3cm,DC = 5cm\\)\nb) Áp dụng định lí Pythagore vào tam giác ABD vuông tại A có: \\(BD = \\sqrt {A{B^2} + A{D^2}}  = 3\\sqrt 5 \\left( {cm} \\right)\\)\nVì CI là đường phân giác của góc DCB trong tam giác BCD nên theo tính chất đường phân giác của tam giác ta có: \\(\\frac{{ID}}{{IB}} = \\frac{{DC}}{{BC}} = \\frac{5}{{10}} = \\frac{1}{2}\\), suy ra \\(\\frac{{ID}}{1} = \\frac{{IB}}{2} = \\frac{{BD}}{3} = \\sqrt 5 \\)\nSuy ra: \\(ID = \\sqrt 5 cm,IB = 2\\sqrt 5 cm\\)\nChứng minh \\(\\Delta IDC = \\Delta IMC\\left( {c - g - c} \\right)\\) nên \\(IM = ID = \\sqrt 5 cm\\)\nVì \\(I{M^2} + I{B^2} = 25 = M{B^2}\\) nên tam giác IMB vuông tại I (định lí Pythagore đảo). Do đó, \\(\\widehat {BIM} = {90^0}\\)"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại A có \\(AB = 6cm,AC = 8cm\\). Tia phân giác của \\(\\widehat {ABC}\\) cắt AC tại D.\na) Tính độ dài DA, DC.\nb) Tia phân giác của \\(\\widehat {ACB}\\) cắt BD ở I. Gọi M là trung điểm của BC. Chứng minh \\(\\widehat {BIM} = {90^0}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tính chất của đường phân giác của tam giác: Trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng tỉ lệ với hai cạnh kề đoạn ấy.\nLời giải chi tiết\n\na) Áp dụng định lí Pythagore vào tam giác ABC vuông tại A có: \\(BC = \\sqrt {A{B^2} + A{C^2}}  = 10\\left( {cm} \\right)\\)\nVì BD là tia phân giác của góc ABC trong tam giác ABC nên theo tính chất đường phân giác của tam giác ta có: \\(\\frac{{DA}}{{DC}} = \\frac{{BA}}{{BC}} = \\frac{6}{{10}} = \\frac{3}{5}\\)\nDo đó, \\(\\frac{{DA}}{3} = \\frac{{DC}}{5} = \\frac{{AC}}{8} = 1\\). Suy ra: \\(DA = 3cm,DC = 5cm\\)\nb) Áp dụng định lí Pythagore vào tam giác ABD vuông tại A có: \\(BD = \\sqrt {A{B^2} + A{D^2}}  = 3\\sqrt 5 \\left( {cm} \\right)\\)\nVì CI là đường phân giác của góc DCB trong tam giác BCD nên theo tính chất đường phân giác của tam giác ta có: \\(\\frac{{ID}}{{IB}} = \\frac{{DC}}{{BC}} = \\frac{5}{{10}} = \\frac{1}{2}\\), suy ra \\(\\frac{{ID}}{1} = \\frac{{IB}}{2} = \\frac{{BD}}{3} = \\sqrt 5 \\)\nSuy ra: \\(ID = \\sqrt 5 cm,IB = 2\\sqrt 5 cm\\)\nChứng minh \\(\\Delta IDC = \\Delta IMC\\left( {c - g - c} \\right)\\) nên \\(IM = ID = \\sqrt 5 cm\\)\nVì \\(I{M^2} + I{B^2} = 25 = M{B^2}\\) nên tam giác IMB vuông tại I (định lí Pythagore đảo). Do đó, \\(\\widehat {BIM} = {90^0}\\)"
+    }
+]

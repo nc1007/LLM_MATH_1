@@ -1,0 +1,67 @@
+[
+    {
+        "problem": "Khi biết \\(\\Delta ABC = \\Delta MNP\\) thì góc nào tương ứng với góc PNM và cạnh nào tương ứng với cạnh NP. Hãy viết các cặp cạnh bằng nhau và các cặp góc bằng nhau của hai tam giác ABC và MNP đã cho.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa 2 tam giác bằng nhau.\nLời giải chi tiết\n-Góc CBA tương ứng với góc PNM, cạnh BC tương ứng với cạnh NP\n-Các cặp cạnh bằng nhau là: \\(BC = NP;CA = PM;AB = MN.\\)\n- Các cặp góc bằng nhau là: \\(\\widehat {CAB} = \\widehat {PMN};\\widehat {ABC} = \\widehat {MNP};\\widehat {BCA} = \\widehat {NPM}.\\)"
+    },
+    {
+        "problem": "Hãy tính các số đo các góc A, D, N trong các tam giác dưới đây (H.4.3). Trong các tam giác đó, hãy chỉ ra tam giác nào là nhọn, tù, vuông.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Áp dụng tổng 3 góc trong 1 tam giác bằng 180 độ.\n-Tam giác tù khi có 1 góc lớn hơn 90 độ\n-Tam giác vuông khi có 1 góc bằng 90 độ\n-Tam giác nhọn khi 3 góc đều nhọn (mỗi góc đều nhỏ hơn 90 độ)\nLời giải chi tiết\na) Áp dụng định lí tổng ba góc trong tam giác ABC, ta có:\n\\(\\begin{array}{l}\\widehat A + \\widehat B + \\widehat C = {180^0}\\\\ \\Rightarrow \\widehat A + {45^0} + {35^0} = {180^0}\\\\ \\Rightarrow \\widehat A = {180^0} - {80^0}\\\\ \\Rightarrow \\widehat A = {100^0} > {90^0}\\end{array}\\)\nTam giác ABC là tam giác tù.\nb) Áp dụng định lí tổng ba góc trong tam giác DEF, ta có:\n\\(\\begin{array}{l}\\widehat D + \\widehat E + \\widehat F = {180^0}\\\\ \\Rightarrow \\widehat D + {70^0} + {50^0} = {180^0}\\\\ \\Rightarrow \\widehat D = {180^0} - {120^0}\\\\ \\Rightarrow \\widehat D = {60^0} < {90^0}\\end{array}\\)\nTam giác DEF là tam giác nhọn vì cả 3 góc đều nhọn.\nc) Áp dụng định lí tổng ba góc trong tam giác MNP, ta có:\n\\(\\begin{array}{l}\\widehat M + \\widehat N + \\widehat P = {180^0}\\\\ \\Rightarrow {40^0} + \\widehat N + {50^0} = {180^0}\\\\ \\Rightarrow \\widehat N = {180^0} - {90^0}\\\\ \\Rightarrow \\widehat N = {90^0}\\end{array}\\)\nTam giác MNP vuông tại N."
+    },
+    {
+        "problem": "Tính số đo các góc x, y, z, t, v trong hình 4.55\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Trong tam giác vuông tổng hai góc còn lại bằng 90 độ\n-Tổng 3 góc trong 1 tam giác bằng 180 độ\nLời giải chi tiết\nVì tam giác BED vuông tại E nên \\(x+40^0=90^0 \\Rightarrow x = {90^0} - {40^0} = {50^0}\\).\nVì \\(x+y+70^0=180^0 \\Rightarrow y = {180^0} - x - {70^0} = {60^0}\\).\nVì tam giác AED vuông tại E nên \\(z+y=90^0 \\Rightarrow  z = {90^0} - y = 90^0-60^0={30^0}\\).\nVì tam giác ADC có AC = AD nên là tam giác cân tại A \\(\\Rightarrow v = {70^0}\\).\nÁp dụng định lí tổng ba góc trong một tam giác trong tam giác ADC, có:\n\\(v+70^0+t=180^0 \\\\\\Rightarrow t = {180^0} - {70^0} - v ={180^0} - {70^0}-70^0= {40^0}\\).\nVậy \\(x=50^0;y=60^0;z=30^0; v=70^0;t=40^0\\)."
+    },
+    {
+        "problem": "Tính số đo các góc còn lại trong các tam giác cân dưới đây (H.4.47)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tam giác cân có 2 góc ở đáy bằng nhau\n-Tổng 3 góc trong 1 tam giác bằng 180 độ.\nLời giải chi tiết\n-\\(\\Delta ABC\\) cân tại A \\( \\Rightarrow \\widehat B = \\widehat C = {65^0}\\)\n\\(\\widehat A + \\widehat B + \\widehat C = {180^0}\\) (Tổng 3 góc trong 1 tam giác)\n\\(\\begin{array}{l} \\Rightarrow \\widehat A + {65^0} + {65^0} = {180^0}\\\\ \\Rightarrow \\widehat A = {180^0} - {130^0}\\\\ \\Rightarrow \\widehat A = {50^0}\\end{array}\\)\n-\\(\\Delta MNP\\) cân tại M \\( \\Rightarrow \\widehat N = \\widehat P = \\dfrac{{\\widehat N + \\widehat P}}{2} = \\dfrac{{{{180}^0} - {{75}^0}}}{2} = {52,5^0}\\)."
+    },
+    {
+        "problem": "Cho 2 tam giác ABC và DEF bất kì, thoả mãn AB = FE, BC = DF, \\(\\widehat {ABC} = \\widehat {DFE}\\). Những câu nào dưới đây đúng?\na)\\(\\Delta ABC = \\Delta DFE\\)\nb)\\(\\Delta BAC = \\Delta EFD\\)\nc)\\(\\Delta CBA = \\Delta EFD\\)\nd)\\(\\Delta ABC = \\Delta EFD\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng trường hợp bằng nhau thứ hai (c.g.c)\nLời giải chi tiết\nVì \\(\\widehat {ABC} = \\widehat {DFE}\\) nên đỉnh B tương ứng với đỉnh F.\nMà AB = FE nên đỉnh A tương ứng với đỉnh E.\nTa được đỉnh C tương ứng với đỉnh D\nDo vậy chỉ có câu d) đúng."
+    },
+    {
+        "problem": "Với hai tam giác ABC và MNP bất kì, sao cho \\(\\Delta ABC = \\Delta MNP\\), những câu nào dưới đây đúng?\na)\\(AB = MN;AC = MP;BC = NP.\\)\nb)\\(\\widehat A = \\widehat M;\\widehat B = \\widehat N;\\widehat C = \\widehat P.\\)\nc)\\(BA = NM;CA = PM;CB = PN.\\)\nd)\\(\\widehat B = \\widehat P;\\widehat C = \\widehat M;\\widehat A = \\widehat N\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Định nghĩa 2 tam giác bằng nhau.\nLời giải chi tiết\na)Đúng\nb) Đúng\nc) Đúng\nd) Sai. \\(\\widehat A = \\widehat M;\\widehat B = \\widehat N;\\widehat C = \\widehat P.\\)"
+    },
+    {
+        "problem": "Tam giác ABC có 2 đường chéo BE và CF bằng nhau (H.4.48). Chứng minh rằng tam giác ABC cân tại đỉnh A.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chứng minh \\(\\Delta AEB = \\Delta AFC\\left( {g - c - g} \\right)\\), từ đó suy ra 2 cạnh tương ứng bằng nhau.\nLời giải chi tiết\nXét \\(\\Delta AEB\\) và \\(\\Delta AFC\\) có:\n\\(\\widehat {AEB} = \\widehat {AFC}( = {90^0})\\\\BE = CF\\left( {gt} \\right)\\\\\\widehat {ABE}= \\widehat {ACF} (= {90^0} - \\widehat A)\\\\ \\Rightarrow \\Delta AEB = \\Delta AFC\\left( {g - c - g} \\right)\\\\ \\Rightarrow AB = AC\\) ( 2 cạnh tương ứng)\nVậy tam giác ABC cân tại A."
+    {
+        "problem": "Cho 2 tam giác ABC và MNP bất kì, thoả mãn \\(\\widehat {ABC} = \\widehat {PNM},\\widehat {ACB} = \\widehat {NPM}\\) và BC = PN. Những câu nào dưới đây đúng?\na)\\(\\Delta ABC = \\Delta PNM\\)\nb)\\(\\Delta ABC = \\Delta NPM\\)\nc)\\(\\Delta ABC = \\Delta MPN\\)\nd)\\(\\Delta ABC = \\Delta MNP\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng trường hợp bằng nhau thứ ba của tam giác (g.c.g)\nLời giải chi tiết\nVì đỉnh B, C tương ứng với N, P nên A tương ứng với M. Do vậy chỉ có câu d) đúng\nChọn d"
+    },
+    {
+        "problem": "Với 2 tam giác ABC và DEF bất kì, sao cho \\(\\Delta ABC = \\Delta DEF\\), những câu nào dưới đây đúng?\na)\\(\\Delta BCA = \\Delta FED\\)\nb) \\(\\Delta CAB = \\Delta EDF\\)\nc) \\(\\Delta BAC = \\Delta EDF\\)\nd) \\(\\Delta CBA = \\Delta FDE\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chỉ ra các cặp góc bằng nhau của \\(\\Delta ABC = \\Delta DEF\\)\nLời giải chi tiết\nVì đỉnh A tương ứng với đỉnh D, đỉnh B tương ứng với đỉnh E, đỉnh C tương ứng với đỉnh F, nên chỉ có câu c) đúng.\n"
+    },
+    {
+        "problem": "Tìm các số đo góc x, y trong Hình 4.5.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tìm x: kề bù với góc 100 độ\n-Tìm y: Tổng 3 góc trong 1 tam giác.\nLời giải chi tiết\nTa có: \\(x = {180^0} - {100^0} = {80^0}\\)(2 góc kề bù)\n\\(x + y + {50^0} = {180^0}\\)(tổng 3 góc trong 1 tam giác)\n\\(\\begin{array}{l} \\Rightarrow {80^0} + y + {50^0} = {180^0}\\\\ \\Rightarrow y = {180^0} - {80^0} - {50^0}\\\\ \\Rightarrow y = {50^0}\\end{array}\\)"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại đỉnh A. Gọi M là trung điểm của BC và D là điểm nằm trên tia đối của tia MA sao cho MD = MA (H.4.49). Chứng minh rằng:\na)\\(\\Delta ABD\\) vuông tại B.\nb)\\(\\Delta ABD = \\Delta BAC\\)\nc) Các tam giác AMB, AMC là các tam giác cân tại đỉnh M.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Chứng minh:\\(\\Delta AMC = \\Delta DMB\\left( {c - g - c} \\right)\\)\nb)Dựa vào ý a suy ra BD = CA\nc)\n-Chứng minh: \\(\\widehat {BDA} = \\widehat {CAD}\\left( {AC\\parallel BD} \\right)\\)\n-Chứng minh các góc ở đáy bằng nhau.\nLời giải chi tiết\na)\nXét \\(\\Delta AMC\\)và \\(\\Delta DMB\\) có\nMA = MD\nMC = MB\n\\(\\widehat {AMC} = \\widehat {DMB}\\)(2 góc đối đỉnh)\n\\( \\Rightarrow \\Delta AMC = \\Delta DMB\\left( {c - g - c} \\right)\\)\n\\(\\Rightarrow \\widehat {DBM} = \\widehat {MCA}\\) ( 2 góc tương ứng)\nTa có:\n\\(\\widehat {ABD} = \\widehat {ABM} + \\widehat {DBM} = \\widehat {ABC} + \\widehat {BCA} = {90^0}\\)\nVậy tam giác ABD vuông tại B.\nb)\nXét \\(\\Delta ABD\\) và \\(\\Delta BAC\\) có:\n\\(\\begin{array}{l}\\widehat {ABD} = \\widehat {BAC} = {90^0}\\\\BD = CA\\left( {do\\,\\Delta AMC = \\Delta DMB} \\right)\\end{array}\\)\nAB: Cạnh chung\n\\( \\Rightarrow \\Delta ABD = \\Delta BAC\\left( {c - g - c} \\right)\\)\nc)\nTa có: \\(\\Delta ABD = \\Delta BAC\\left( {cmt} \\right) \\Rightarrow \\widehat {ACB} = \\widehat {BDA}\\) ( 2 góc tương ứng)\nMặt khác: \\(AC//BD\\)(vì cùng vuông góc với AB) nên \\(\\widehat {BDA} = \\widehat {CAD}\\)(2 góc so le trong)\nVì vậy ta có: \\(\\widehat {MCA} = \\widehat {ACB} = \\widehat {CAD} = \\widehat {CAM}\\)\nDo đó tam giác AMC cân tại đỉnh M nên MA = MC\nVì M là trung điểm của BC nên MB = MC\n\\(\\Rightarrow MA=MB\\)\nDo đó tam giác AMB cân tại đỉnh M."
+    }
+]

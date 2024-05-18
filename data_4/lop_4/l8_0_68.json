@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 2: Một hình bình hành có độ dài đáy là a, chiều cao là h. Khi đó công thức tính\ndiện tích hình bình hành đó là:\nA. S = (a+h)×2\nB. S = a+h\nC. S = a×h\nD. S = a×h∶2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình bình hành bằng độ dài đáy nhân với chiều cao (cùng một đơn vị đo).\nDo đó, bình hành có độ dài đáy là a, chiều cao là h thì diện tích hình bình hành đó \nđược tính theo công thức: \n                         S=a×h."
+    },
+    {
+        "problem": "Câu 3: Diện tích hình bình hành có độ dài đáy là 14cm và chiều cao là 8cm là:\nA. 22cm^{2} \nB. 44cm^{2} \nC. 56cm^{2} \nD. 112cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích hình bình hành đó là:\n            14×8=112(cm^{2} )\t\n                             Đáp số: 112cm^{2} ."
+    },
+    {
+        "problem": "Câu 6: Độ dài đáy của hình bình hành có chiều cao 24cm và diện tích là 432cm^{2}  là: \nA.\t16cm\nB.\t17cm\nC.\t18cm\nD.\t19cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài đáy của hình bình hành đó là:\n          432:24=18(cm)\n                            Đáp số: 18cm."
+    },
+    {
+        "problem": "Câu 8: Một khu rừng dạng hình bình hành có chiều cao là 678m, độ dài đáy gấp đôi \nchiều cao. Diện tích khu rừng đó là:\nA. 991368m^{2} \nB. 939148m^{2} \nC. 919348m^{2} \nD. 919368m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài đáy của khu rừng đó là:\n            678×2=1356(m)\nDiện tích của khu rừng đó là:\n            678×1356=919368(m^{2} )\n                                   Đáp số: 919368m^{2} ."
+    }
+]

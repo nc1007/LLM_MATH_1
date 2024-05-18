@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Hai ông Buffon và Pearson  tiến hành gieo một đồng xu nhiều lần, kết quả thu được như sau:\nNgười làm thí nghiệm\nSố lần tung (nghìn lần)\nSố lần xuất hiện mặt sấp (nghìn lần)\nBuffon\n40\n22\nPearson\n240\n120\na)    Tính xác suất thực nghiệm của sự kiện “xuất hiện mặt sấp” trong mỗi thí nghiệm.\nb)    Cả Buffon và Pearson đã tung tất cả bao nhiêu lần? Trong đó có bao nhiêu lần xuất hiện mặt sấp? Tính xác suất thực nghiệm của sự kiện xuất hiện mặt sấp dựa trên kết quả tổng hợp của cả hai thí nghiệm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm xuất hiện mặt sấp bằng\nSố lần xuất hiện mặt sấp : Tổng số lần tung đồng xu\nLời giải chi tiết\na) *Thí nghiệm của Buffon có xác suất thực nghiệm là: \\(\\frac{{22000}}{{40000}} = \\frac{{11}}{{20}}\\)\n*Thí nghiệm của Pearson có xác suất thực nghiệm là: \\(\\frac{{120000}}{{240000}} = \\frac{1}{2}\\)\nb) Cả Buffon và Pearson đã tung tất cả số lần là: 40 000 + 240 000 = 280 000 (lần)\nTrong đó, số lần xuất hiện mặt sấp là: 22 000 + 120 000 = 142 000 (lần)\nXác suất thực nghiệm của sự kiện xuất hiện mặt sấp dựa trên kết quả tổng hợp của cả hai thí nghiệm là:\n\\(\\frac{{142000}}{{280000}} = \\frac{{71}}{{140}}\\)\n"
+    },
+    {
+        "problem": "Một xạ thủ bắn 200 viên đạn vào một mục tiêu và thấy có 148 viên trúng mục tiêu. Tính xác suất thực nghiệm của sự kiện “Xạ thủ bắn trúng mục tiêu”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm của sự kiện “Xạ thủ bắn trúng mục tiêu” bằng\nSố lần bắn trúng : tổng số lần bắn\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện “Xạ thủ bắn trúng mục tiêu” là:\n\\(\\frac{{148}}{{200}} = \\frac{{37}}{{50}}\\)"
+    },
+    {
+        "problem": "Một trò chơi có luật chơi như sau: Ở mỗi ván chơi người chơi gieo một con xúc xắc, nếu xuất hiện mặt 6 chấm thì người chơi thắng cuộc. Bốn người chơi A,B,C,D chơi trò chơi đó. Mỗi người chơi 25 ván. Kết quả số ván thắng của A, B, C, D tương ứng là 4, 5, 4, 3. Hãy tính xác suất thực nghiệm của các sự kiện: “A thắng”, “B thắng”, “C thắng”, “D thắng”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm của sự kiện “ A thắng” bằng\nSố lần A thắng : Tổng số lần A chơi\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện “ A thắng” là: \\(\\frac{4}{{25}} = 16\\% \\)\nXác suất thực nghiệm của sự kiện “ B thắng” là: \\(\\frac{5}{{25}} = \\frac{1}{5} = 20\\% \\)\nXác suất thực nghiệm của sự kiện “ C thắng” là: \\(\\frac{4}{{25}} = 16\\% \\)\nXác suất thực nghiệm của sự kiện “ D thắng” là: \\(\\frac{3}{{25}} = 12\\% \\)"
+    },
+    {
+        "problem": "Nam chơi Sudoku 50 lần thì có 15 lần thắng cuộc. Tính xác suất thực nghiệm của sự kiện “Nam thắng khi chơi Sudoku”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm của sự kiện “Nam thắng khi chơi Sudoku” bằng\nSố lần Nam thắng : Tổng số lần chơi\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện “Nam thắng khi chơi Sudoku” là:\n\\(\\frac{{15}}{{50}} = \\frac{3}{{10}} = 30\\% \\)"
+    },
+    {
+        "problem": "Trong ngày lễ hội tại địa phương, Linh có chơi trò chơi ném phi tiêu vào một tấm bia có ghi các số 2; 3; 4. Linh ném 30 lần và ghi lại số ở ô mà phi tiêu trúng và được kết quả như sau:\n2;4;4;3;2;2;2;4;3;2;2;4;2;3; 2; 2; 2;3; 3; 2; 2; 4; 4; 3;2;2; 2;4;2;2.\nTính xác suất thực nghiệm của sự kiện “Phi tiêu trúng vào ô ghi số 2”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số lần phi vào ô số 2\nXác suất thực nghiệm của sự kiện “Phi tiêu trúng vào ô ghi số 2” bằng\nSố lần phi tiêu vào ô ghi số 2 :  Tổng số lần phi tiêu\nLời giải chi tiết\nSố lần phi vào ô số 2 là: 17\nXác suất thực nghiệm của sự kiện “Phi tiêu trúng vào ô ghi số 2” là: \\(\\frac{{17}}{{30}} \\approx 56,7\\% \\)"
+    }
+]

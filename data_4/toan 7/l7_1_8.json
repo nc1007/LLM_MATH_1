@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 2. Chọn phát biểu đúng.\nA. Giá trị tuyệt đối của một số luôn là một số dương;\nB. Giá trị tuyệt đối của một số luôn là một số không âm;\nC. Giá trị tuyệt đối của một số luôn là một số không dương.\nD. Giá trị tuyệt đối của một số luôn là một số âm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nGiá trị tuyệt đối của một số luôn là một số không âm: |x| ≥ 0 với mọi số thực x."
+    },
+    {
+        "problem": "Câu 3. Với mọi x∈ℚ khẳng định nào sau đây là sai?\nA. |x| = |–x|;\nB. |x| < –x;\nC. |x| ≥ 0;\nD. |x| ≥ x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nVới mọi x∈ℚ ta luôn có |x| = |–x|; |x| ≥ 0 và |x| ≥ x nên B sai.\nVới x ≥0 thì |x| = x > - x\nVới x < 0 thì |x| = - x \nNên |x| ≥ - x"
+    },
+    {
+        "problem": "Câu 8. Tìm x biết |x| = \\frac{2}{3}\nA. x = \\frac{2}{3};\nB. x = - \\frac{2}{3};\nC. x = \\frac{2}{3} hoặc x = - \\frac{2}{3};\nD. Không có giá trị x nào thoả mãn yêu cầu đề bài.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nVì |x| = \\frac{2}{3} nên x = \\frac{2}{3} hoặc x = - \\frac{2}{3}.\nVậy giá trị x thoả mãn x = \\frac{2}{3} hoặc x = - \\frac{2}{3}."
+    },
+    {
+        "problem": "Câu 10. Giá trị của biểu thức A = –|–3,6| : 1,2 là:\nA. A = –3;\nB. A = 3;\nC. A = –0,3;\nD. A = 0,3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nA = –|–3,6| : 1,2 \nA = –[–(–3,6)] : 1,2 \nA = –[3,6] : 1,2\nA = –3.\nVậy A = –3."
+    },
+    {
+        "problem": "Câu 11. Cho biểu thức M = |x + 3,4| – |–1,5|. Khi x = –0,2 thì giá trị của M là:\nA. 4,7;\nB. 1,7;\nC. –4,7;\nD. –1,7.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nThay x = –0,2 vào biểu thức M = |x + 3,4| – |–1,5| ta được:\nM = |–0,2 + 3,4| – |–1,5|\nM = |3,2| – [–(–1,5)]\nM = 3,2 – 1,5\nM = 1,7.\nVậy khi x = –0,2 thì M = 1,7."
+    },
+    {
+        "problem": "Câu 14. Tìm số thực x biết |x – 2021| = –2022.\nA. x = 1;\nB. x = –1;\nC. x = 4043;\nD. Không có số thực x nào thoả mãn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nVì |x – 2021| > 0 với mọi số thực x, mà –2022 < 0.\nVậy không có số thực x nào thoả mãn yêu cầu đề bài."
+    },
+    {
+        "problem": "Câu 15. Có bao nhiêu giá trị x thoả mãn 7,5 – 3.|5 – 2x| = –4,5?\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có:\n7,5 – 3.|5 – 2x| = –4,5\n3.|5 – 2x| = 7,5 –(–4,5)\n3.|5 – 2x| = 7,5 + 4,5\n3.|5 – 2x| = 12\n|5 – 2x| = 12 : 3\n|5 – 2x| = 4\nTrường hợp 1: 5 – 2x = 4\n2x = 5 – 4 \n2x = 1\nx=\\frac{1}{2}\nTrường hợp 2: 5 – 2x = –4 \n2x = 5 – (–4)\n2x = 5 + 4\n2x = 9\nx = 9 : 2\nx=\\frac{9}{2}\nVậy có hai giá trị của x thoả mãn là x=\\frac{1}{2}; x=\\frac{9}{2}."
+    }
+]

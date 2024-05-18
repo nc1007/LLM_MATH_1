@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Câu 1: Muốn nhân hai phân số, ta lấy tử số nhân với tử số, mẫu số nhân với mẫu số.  Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn nhân hai phân số, ta lấy tử số nhân với tử số, mẫu số nhân với mẫu số.\nVậy phát biểu đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2: Phép nhân phân số có những tính chất nào dưới đây?\nA.\tTính chất giao hoán\nB.\tTính chất kết hợp\nC.\tTính chất phân phối\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép nhân phân số có các tính chất:\n+) Tính chất giao hoán : Khi đổi chỗ các phân số trong một tích thì tích của chúng không thay đổi.\n               a×b=b×a \n+) Tính chất kết hợp: Khi nhân một tích hai phân số với phân số thứ ba, ta có thể nhân phân số thứ nhất với tích của hai phân số còn lại.\n               (a×b)×c=a×(b×c) \n+ Tính chất phân phối: Khi nhân một tổng hai phân số với phân số thứ ba, ta có thể nhân lần lượt từng phân số của tổng với phân số thứ ba rồi cộng các kết quả đó lại với nhau.\n               (a+b)×c=a×c+b×c \n+ Nhân với số 1: Phân số nào nhân với 1 cũng bằng chính phân số đó.\n               a×1=1×a=a \n+ Nhân với số 0: Phân số nào nhân với 0 cũng bằng 0.\n              a×0=0×a=0 \nVậy tất cả các đáp án A, B, C đều đúng."
+    }
+]

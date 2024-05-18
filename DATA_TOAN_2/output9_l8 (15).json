@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Một hộp chứa 8 tấm thẻ cùng loại được đánh số 6; 7; 8; 9; 10; 11; 12; 13. Thúy lấy ra ngẫu nhiên 1 tấm thẻ từ hộp. Xác suất để thẻ chọn ra ghi số là số nguyên tố là\nA. 0,225.\nB. 0,375.\nC. 0,435.\nD. 0,525.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nCác số nguyên tố là: 7; 11; 13.\nSố kết quả thuận lợi của biến cố “thẻ chọn ra ghi số là số nguyên tố” là 3.\nXác suất của biến cố “thẻ chọn ra ghi số là số nguyên tố” là: \\(\\frac{3}{8} = 0,375\\).\nChọn B."
+    },
+    {
+        "problem": "\nCho tấm bìa như Hình 1. Thu xoay tấm bìa quanh tâm của nó và xem khi tấm bìa dừng lại, mũi tên chỉ vào ô ghi số nào. Kết quả sau 150 lần xoay được ghi lại ở bảng sau:\nÔ số\n1\n2\n3\n4\n5\nSố lần\n36\n12\n54\n27\n21\nHãy tính xác suất thực nghiệm của các biến cố:\nA: “Mũi tên chỉ vào ô ghi số 1”;\nB: “Mũi tên chỉ vào ô ghi số chẵn”;\nC: “Mũi tên chỉ vào ô ghi số lớn hơn 3”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất thực nghiệm của biến cố: Gọi P(A) là xác suất xuất hiện biến cố A khi thực hiện một phép thử. Gọi m(A) là số lần xuất hiện biến cố A khi thực hiện một phép thử đó m lần. Xác suất thực nghiệm của biến cố A là tỉ số \\(\\frac{{m\\left( A \\right)}}{m}\\).\nLời giải chi tiết\nVì có 36 lần xảy ra biến cố A trong 150 lần thử nên xác suất thực nghiệm của các biến cố A sau 150 lần thử là: \\(\\frac{{36}}{{150}} = 0,24\\)\nVì có \\(12 + 27 = 39\\) lần xảy ra biến cố B trong 150 lần thử nên xác suất thực nghiệm của các biến cố B sau 150 lần thử là: \\(\\frac{{39}}{{150}} = 0,26\\)\nVì có \\(27 + 21 = 48\\) lần xảy ra biến cố C trong 150 lần thử nên xác suất thực nghiệm của các biến cố C sau 150 lần thử là: \\(\\frac{{48}}{{150}} = 0,32\\)"
+    },
+    {
+        "problem": "Một hộp đựng 20 tấm thẻ cùng loại được đánh số thứ tự 1; 2; …; 20. Lấy ngẫu nhiên một thẻ từ hộp. Hãy nêu các kết quả thuận lợi cho mỗi biến cố sau:\nA: “Số ghi trên thẻ lấy ra là bội của 5”;\nB: “Số ghi trên thẻ lấy ra là ước của 24”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về kết quả thuận lợi của biến cố: Trong một phép thử, mỗi kết quả làm cho một biến cố xảy ra được gọi là một kết quả thuận lợi của biến cố đó.\nLời giải chi tiết\nCác kết quả thuận lợi của biến cố A là: 5; 10; 15; 20.\nCác kết quả thuận lợi của biến cố B là: 1; 2; 3; 4; 6; 8; 12."
+    },
+    {
+        "problem": "Một hộp chứa các thẻ màu xanh và thẻ màu đỏ kích thước và khối lượng như nhau. Vinh lấy ra ngẫu nhiên 1 thẻ, xem màu rồi trả lại hộp. Lặp lại thực nghiệm đó 75 lần, Vinh thấy có 24 lần lấy được thẻ màu xanh. Xác suất thực nghiệm của sự kiện lấy được thẻ màu đỏ là\nA. 0,24.\nB. 0,28.\nC. 0,32.\nD. 0,68.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất thực nghiệm của biến cố: Gọi P(A) là xác suất xuất hiện biến cố A khi thực hiện một phép thử. Gọi m(A) là số lần xuất hiện biến cố A khi thực hiện một phép thử đó m lần. Xác suất thực nghiệm của biến cố A là tỉ số \\(\\frac{{m\\left( A \\right)}}{m}\\).\nKhi m càng lớn, xác suất thực nghiệm của biến cố A càng gần P(A).\nLời giải chi tiết\nXác suất của biến cố rút được 1 tấm thẻ màu xanh là: \\(\\frac{{24}}{{75}} = \\frac{8}{{25}} = 0,32\\)\nXác suất của biến cố rút được 1 tấm thẻ màu đỏ là: \\(1 - 0,32 = 0,68\\)\nChọn D."
+    },
+    {
+        "problem": "Một hộp chứa 7 tấm thẻ màu đỏ và một số tấm thẻ màu vàng có cùng kích thước và khối lượng. Hạ lấy ra ngẫu nhiên 1 tấm thẻ từ hộp, xem màu rồi trả lại hộp. Hạ lặp lại thử nghiệm đó 120 lần và thấy có 40 lần lấy được tấm thẻ màu đỏ. Hỏi trong hộp có khoảng bao nhiêu tấm thẻ màu vàng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất thực nghiệm của biến cố: Gọi P(A) là xác suất xuất hiện biến cố A khi thực hiện một phép thử. Gọi m(A) là số lần xuất hiện biến cố A khi thực hiện một phép thử đó m lần. Xác suất thực nghiệm của biến cố A là tỉ số \\(\\frac{{m\\left( A \\right)}}{m}\\).\nKhi m càng lớn, xác suất thực nghiệm của biến cố A càng gần P(A).\nLời giải chi tiết\nXác suất của biến cố rút được 1 tấm thẻ màu đỏ là: \\(\\frac{{40}}{{120}} = \\frac{1}{3}\\)\nGọi n là số tấm thẻ màu vàng có trong hộp.\nTổng số tấm thẻ có trong hộp là \\(7 + n\\)\nVì các tấm thẻ cùng kích thước và khối lượng nên chúng có cùng khả năng được chọn. Vì vậy, xác suất lí thuyết của biến cố “lấy được 1 tấm thẻ màu đỏ” là: \\(\\frac{7}{{7 + n}}\\).\nVì số phép thử lớn nên xác suất thực nghiệm và xác suất lí thuyết của biến cố “lấy được 1 tấm thẻ màu đỏ” là gần bằng nhau. Do đó, \\(\\frac{7}{{7 + n}} \\approx \\frac{1}{3}\\), \\(7 + n \\approx 21\\), \\(n \\approx 14\\)\nVậy trong hộp có khoảng 14 tấm thẻ màu vàng."
+    },
+    {
+        "problem": "Cho tấm bìa hình tròn như Hình 2. Xoay tấm bìa quanh tâm của nó và xem khi tấm bìa dừng lại, mũi tên chỉ vào ô ghi số nào.\n\nHãy nêu các kết quả thuận lợi cho mỗi biến cố sau:\nA: “Mũi tên chỉ vào ô ghi số lớn hơn 3”;\nB: “Mũi tên chỉ vào ô ghi số lẻ”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về kết quả thuận lợi của biến cố: Trong một phép thử, mỗi kết quả làm cho một biến cố xảy ra được gọi là một kết quả thuận lợi của biến cố đó.\nLời giải chi tiết\nCác kết quả thuận lợi của biến cố A là: ô ghi số 4; ô ghi số 5; ô ghi số 6; ô ghi số 7.\nCác kết quả thuận lợi của biến cố B là: ô ghi số 1; ô ghi số 3; ô ghi số 5; ô ghi số 7."
+    },
+    {
+        "problem": "Có 46% học sinh ở một trường trung học cơ sở thường xuyên đi đến trường bằng xe buýt. Gặp ngẫu nhiên một học sinh của trường. Xác suất học sinh đó không thường đi xe buýt đến trường là\nA. 0,16.\nB. 0,94.\nC. 0,54.\nD. 0,35.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nXác suất học sinh đó không thường đi xe buýt đến trường là: \\(1 - 0,46 = 0,54\\)\nChọn C."
+    },
+    {
+        "problem": "Các quả bóng trong một bình có cùng kích thước và khối lượng, được đánh số lần lượt từ 1 cho đến hết. Bắc lấy ra ngẫu nhiên 1 quả bóng, xem số rồi trả lại bình. Bắc lặp lại thử nghiệm đó 200 lần thì thấy có 40 lần lấy được quả bóng ghi số có một chữ số. Hỏi trong bình có khoảng bao nhiêu quả bóng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất thực nghiệm của biến cố: Gọi P(A) là xác suất xuất hiện biến cố A khi thực hiện một phép thử. Gọi m(A) là số lần xuất hiện biến cố A khi thực hiện một phép thử đó m lần. Xác suất thực nghiệm của biến cố A là tỉ số \\(\\frac{{m\\left( A \\right)}}{m}\\).\nKhi m càng lớn, xác suất thực nghiệm của biến cố A càng gần P(A).\nLời giải chi tiết\nXác suất thực nghiệm của biến cố “lấy 1 quả bóng ghi số có một chữ số” là: \\(\\frac{{40}}{{200}} = 0,2\\)\nGọi số quả bóng trong bình là n \\(\\left( {n > 9} \\right)\\)\nXác suất lí thuyết của biến cố “lấy 1 quả bóng ghi số có một chữ số” là: \\(\\frac{9}{n}\\).\nVì số phép thử lớn nên xác suất thực nghiệm và xác suất lí thuyết của biến cố “lấy 1 quả bóng ghi số có một chữ số” là gần bằng nhau. Do đó, \\(\\frac{9}{n} \\approx 0,2\\), \\(n \\approx \\frac{9}{{0,2}} \\approx 45\\) (thỏa mãn)\nVậy trong bình có khoảng 45 quả bóng."
+    },
+    {
+        "problem": "Một hộp kín chứa 4 viên bi màu xanh, 6 viên bi màu đỏ có cùng kích thước và khối lượng. Lấy ra ngẫu nhiên 1 viên bi từ hộp. Tính xác suất của các biến cố sau:\nA: “Viên bi lấy ra có màu xanh”;\nB: “Viên bi lấy ra có màu đỏ”;\nC: “Viên bi lấy ra có màu vàng”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nVì hộp kín chứa 4 viên bi màu xanh, 6 viên bi màu đỏ có cùng kích thước và khối lượng nên có 10 kết quả có cùng khả năng xảy ra đối với phép thử lấy ra ngẫu nhiên 1 viên bi từ hộp.\nSố các kết quả thuận lợi của biến cố A là 4. Xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{4}{{10}} = \\frac{2}{5}\\)\nSố các kết quả thuận lợi của biến cố B là 6. Xác suất của biến cố B là: \\(P\\left( B \\right) = \\frac{6}{{10}} = \\frac{3}{5}\\)\nSố các kết quả thuận lợi của biến cố C là 0. Xác suất của biến cố C là: \\(P\\left( C \\right) = 0\\)"
+    },
+    {
+        "problem": "Gieo 2 con xúc xắc cân đối và đồng chất. Xác suất của biến cố tích số chấm xuất hiện trên hai con xúc xắc bằng 21 là\nA. 0.\nB. \\(\\frac{1}{{36}}\\).\nC. \\(\\frac{1}{{18}}\\).\nD. \\(\\frac{1}{{12}}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nVì số mặt trên xúc xắc là từ 1 đến 6 nên tích số chấm xuất hiện trên hai con xúc xắc không thể bằng 21. Do đó, xác suất của biến cố tích số chấm trên hai con xúc xắc bằng 21 là 0.\nChọn A"
+    },
+    {
+        "problem": "Xét nghiệm máu cho 120 người được lựa chọn ngẫu nhiên từ một khu vực thì thấy có 55 người nhóm máu O. Gọi A là biến cố: “Một người được lựa chọn ngẫu nhiên ở khu vực có nhóm máu O”.\na) Ước lượng xác suất của biến cố A.\nb) Dân số của khu vực đó là 15 000 người. Hỏi trong khu vực đó có khoảng bao nhiêu người có nhóm máu O?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất thực nghiệm của biến cố: Gọi P(A) là xác suất xuất hiện biến cố A khi thực hiện một phép thử. Gọi m(A) là số lần xuất hiện biến cố A khi thực hiện một phép thử đó m lần. Xác suất thực nghiệm của biến cố A là tỉ số \\(\\frac{{m\\left( A \\right)}}{m}\\).\nKhi m càng lớn, xác suất thực nghiệm của biến cố A càng gần P(A).\nLời giải chi tiết\na) Xác suất thực nghiệm của biến cố A là: \\(\\frac{{55}}{{120}} = \\frac{{11}}{{24}}\\)\nVì số người được lựa chọn tương đối lớn nên xác suất thực nghiệm và xác suất lí thuyết của biến cố A gần bằng nhau. Vậy xác suất lí thuyết của biến cố A xấp xỉ bằng \\(\\frac{{11}}{{24}}\\).\nb) Gọi N là số người có nhóm máu O.\nKhi đó, \\(P\\left( A \\right) = \\frac{N}{{15\\;000}} \\approx \\frac{{11}}{{24}}\\), \\(N \\approx \\frac{{11}}{{24}}.15\\;000 = 6\\;875\\)\nVậy khu vực đó có khoảng 6 875 người có nhóm máu O."
+    },
+    {
+        "problem": "Mật khẩu mở điện thoại của bác Minh là một dãy số gồm 6 chữ số. Vì bác Minh quên mất chữ số cuối cùng của mật khẩu nên bác chọn ngẫu nhiên một 1 chữ số để thử vào vị trí đó. Tính xác suất để bác Minh mở được điện thoại.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nVì bác Minh quên mất chữ số cuối cùng của mật khẩu nên có 10 kết quả đồng khả năng bác Minh cho phép thử chọn ngẫu nhiên một 1 chữ số để vào vị trí bị quên.\nXác suất để bác Minh mở được điện thoại là: \\(P = \\frac{1}{{10}}\\)."
+    },
+    {
+        "problem": "Cường gieo một con xúc xắc cân đối 540 lần. Số lần xuất hiện mặt 6 chấm trong 540 lần gieo đó có khả năng lớn nhất thuộc vào tập hợp nào dưới đây?\nA. \\(\\left\\{ {80;81;...;100} \\right\\}\\).\nB. \\(\\left\\{ {101;102;...;120} \\right\\}\\).\nC. \\(\\left\\{ {121;122;...;161} \\right\\}\\).\nD. \\(\\left\\{ {20;21;...;40} \\right\\}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất lí thuyết và xác suất thực nghiệm để tính: Giả sử xác suất của biến cố A là p. Khi thực hiện phép thử n lần thì số lần xuất hiện biến cố A sẽ gần bằng (nhưng không nhất thiết phải bằng) np.\nLời giải chi tiết\nVì con xúc xắc cân đối đồng chất nên xác suất để xuất hiện mặt 6 chấm là: \\(\\frac{1}{6}\\).\nVì gieo con xúc xắc 540 lần nên số lần xuất hiện mặt 6 chấm vào khoảng: \\(540.\\frac{1}{6} = 90\\) (lần)\nVậy số lần xuất hiện mặt 6 chấm trong 540 lần gieo đó có khả năng lớn nhất thuộc vào tập hợp là: \\(\\left\\{ {80;81;...;100} \\right\\}\\)\nChọn A"
+    },
+    {
+        "problem": "Một nhóm học sinh gồm 2 bạn quê ở Hà Giang, 4 bạn quê ở Đà Nẵng, 4 bạn quê ở Cần Thơ và 6 bạn quê ở Hà Nội. Chọn ngẫu nhiên 1 bạn trong nhóm. Tính xác suất của các biến cố sau:\nA: “Bạn được chọn quê ở Cần Thơ”;\nB: “Bạn được chọn quê ở miền Bắc”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nVì một nhóm học sinh gồm 2 bạn quê ở Hà Giang, 4 bạn quê ở Đà Nẵng, 4 bạn quê ở Cần Thơ và 6 bạn quê ở Hà Nội nên có 16 kết quả có cùng khả năng xảy ra đối với phép thử chọn ngẫu nhiên 1 bạn trong nhóm.\nSố kết quả thuận lợi của biến cố A là 4 nên xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{4}{{16}} = \\frac{1}{4}\\)\nSố kết quả thuận lợi của biến cố B là 8 nên xác suất của biến cố B là: \\(P\\left( B \\right) = \\frac{8}{{16}} = \\frac{1}{2}\\)"
+    },
+    {
+        "problem": "Một hộp có 4 cây bút xanh, 3 cây bút đen và 2 cây bút đỏ có cùng kích thước và khối lượng. Hà chọn ra ngẫu nhiên 1 cây bút từ hộp. Tính xác suất của các biến cố sau:\nA: “Cây bút lấy ra là bút xanh”;\nB: “Cây bút lấy ra không phải là bút đen”;\nC: “Cây bút lấy ra là bút tím”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nVì hộp có 4 cây bút xanh, 3 cây bút đen và 2 cây bút đỏ có cùng kích thước và khối lượng nên có 9 kết quả có cùng khả năng xảy ra đối với phép thử lấy ra ngẫu nhiên 1 cây bút từ hộp.\nSố các kết quả thuận lợi của biến cố A là 4. Xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{4}{9}\\)\nSố các kết quả thuận lợi của biến cố B là \\(4 + 2 = 6\\). Xác suất của biến cố B là: \\(P\\left( B \\right) = \\frac{6}{9} = \\frac{2}{3}\\)\nSố các kết quả thuận lợi của biến cố C là 0. Xác suất của biến cố C là: \\(P\\left( C \\right) = 0\\)"
+    },
+    {
+        "problem": "Một hộp chứa 20 quả bóng màu xanh và một số quả bóng màu đỏ. Các quả bóng có cùng kích thước và khối lượng. Lấy ra ngẫu nhiên 1 quả bóng từ hộp. Biết rằng xác suất của biến cố “Quả bóng lấy ra có màu xanh” là 0,4. Hỏi trong hộp có bao nhiêu quả bóng màu đỏ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nGọi số quả bóng màu đỏ là x (quả).\nVì hộp chứa 20 quả bóng màu xanh và một số quả bóng màu đỏ và các quả bóng có cùng kích thước và khối lượng nên số có \\(20 + x\\) kết quả có cùng khả năng xảy ra đối với phép thử lấy ra ngẫu nhiên 1 quả bóng từ hộp.\nSố kết quả thuận lợi của biến cố “Quả bóng lấy ra có màu xanh” là: 20.\nVì xác suất của biến cố “Quả bóng lấy ra có màu xanh” là 0,4 nên ta có:\n\\(\\frac{{20}}{{20 + x}} = 0,4\\)\n\\(20 + x = 50\\)\n\\(x = 30\\)\nVậy trong hộp có 30 quả bóng màu đỏ."
+    },
+    {
+        "problem": "Một nhóm học sinh gồm 6 bạn có tên là Thái, Thảo, Thanh, Thuận, Vinh, Vũ. Chọn ra ngẫu nhiên 1 bạn trong nhóm. Tính xác suất của các biến cố sau:\nA: “Tên của bạn được chọn bắt đầu bằng chữ V”;\nB: “Tên của bạn được chọn gồm 4 chữ cái”;\nC: “Tên của bạn được chọn chứa 2 nguyên âm”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nVì nhóm học sinh gồm 6 bạn có tên là Thái, Thảo, Thanh, Thuận, Vinh, Vũ nên có 6 kết quả có cùng khả năng xảy ra đối với phép thử chọn ra ngẫu nhiên 1 bạn trong nhóm.\nSố các kết quả thuận lợi của biến cố A là 2. Xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{2}{6} = \\frac{1}{3}\\)\nSố các kết quả thuận lợi của biến cố B là 3. Xác suất của biến cố B là: \\(P\\left( B \\right) = \\frac{3}{6} = \\frac{1}{2}\\)\nSố các kết quả thuận lợi của biến cố C là 3. Xác suất của biến cố C là: \\(P\\left( C \\right) = \\frac{3}{6} = \\frac{1}{2}\\)"
+    },
+    {
+        "problem": "\nBiểu đồ bên thống kê số đội viên tiêu biểu của các trường tiểu học trên một thị trấn tham dự một buổi giao lưu. Chọn ngẫu nhiên 1 đội viên trong buổi giao lưu đó. Tính xác suất của các biến cố sau:\nA: “Đội viên được chọn học lớp 5 trường Tiểu học Kim Đồng”;\nB: “Đội viên được chọn học trường Tiểu học Đoàn Kết”;\nC: “Đội viên được chọn học lớp 4”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nTổng số đội viên tham gia buổi giao lưu là: \\(5 + 7 + 7 + 5 + 5 + 6 + 8 + 7 = 50\\)\nDo đó, có 50 kết quả có cùng khả năng xảy ra đối với phép thử chọn ngẫu nhiên 1 đội viên trong buổi giao lưu đó.\nSố các kết quả thuận lợi của biến cố A là 7. Xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{7}{{50}}\\)\nSố các kết quả thuận lợi của biến cố B là 12. Xác suất của biến cố B là: \\(P\\left( B \\right) = \\frac{{12}}{{50}} = \\frac{6}{{25}}\\)\nSố các kết quả thuận lợi của biến cố C là 25. Xác suất của biến cố C là: \\(P\\left( C \\right) = \\frac{{25}}{{50}} = \\frac{1}{2}\\)"
+    },
+    {
+        "problem": "Một hộp chứa 5 lá thăm cùng loại được đánh số 4; 7; 19; 23; 25. Lấy ra ngẫu nhiên 1 lá thăm từ hộp. Hãy sắp xếp các biến cố sau theo thứ tự xác suất xảy ra tăng dần.\nA: “Lá thăm được lấy ra ghi số lẻ”;\nB: “Lá thăm được lấy ra ghi số nhỏ hơn 10”;\nC: “Lá thăm được lấy ra ghi số nguyên tố”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng\nLời giải chi tiết\nVì hộp chứa 5 lá thăm cùng loại nên có 5 kết quả có cùng khả năng xảy ra đối với phép thử lấy ra ngẫu nhiên 1 lá thăm từ hộp.\nSố các kết quả thuận lợi của biến cố A là 4. Xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{4}{5}\\)\nSố các kết quả thuận lợi của biến cố B là 2. Xác suất của biến cố B là: \\(P\\left( B \\right) = \\frac{2}{5}\\)\nSố các kết quả thuận lợi của biến cố C là 3. Xác suất của biến cố C là: \\(P\\left( C \\right) = \\frac{3}{5}\\)\nVậy biến cố sau theo thứ tự xác suất xảy ra tăng dần là: B, C, A."
+    },
+    {
+        "problem": "Anh Cao rút ngẫu nhiên 1 lá bài từ bộ bài tây 52 lá. Tính xác suất của các biến cố sau:\nA: “Anh Cao rút được lá bài K”;\nB: “Anh Cao rút được lá bài chất rô”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về xác suất của biến cố để tính: Khi tất cả các kết quả của một trò chơi hay một phép thử đều có khả năng xảy ra bằng nhau thì xác suất của biến cố A là tỉ số giữa số kết quả thuận lợi cho A và tổng số kết quả có thể xảy ra của phép thử, tức là:\n\nLưu ý: Để nhận biết các kết quả có cùng khả năng, chú ý đến các “từ khóa” liên quan đến phép thử: đồng xu, xúc xắc cân đối và đồng chất; các thẻ cùng loại, cùng kích thước; quả bóng, viên bi có cùng kích thước và khối lượng.\nLời giải chi tiết\nVì hộp bài tây có 52 lá nên có 52 kết quả có cùng khả năng đối với phép thử rút ngẫu nhiên 1 lá bài từ bộ bài.\nSố các kết quả thuận lợi của biến cố A là 4. Xác suất của biến cố A là: \\(P\\left( A \\right) = \\frac{4}{{52}} = \\frac{1}{{13}}\\)\nSố các kết quả thuận lợi của biến cố B là 13. Xác suất của biến cố B là: \\(P\\left( B \\right) = \\frac{{13}}{{52}} = \\frac{1}{4}\\)"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Bài 3: Tổng số đo các góc của đa giác đều 7 cạnh là:\nA. 900^{0} \nB. 540^{0} \nC. 1080^{0} \nD. 108^{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTổng các góc của đa giác 7 cạnh bằng (7 – 2).180^{0}  = 900^{0} \nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 4: Tổng số đo các góc của đa giác đều 9 cạnh là:\nA. 900^{0} \nB. 1026^{0} \nC. 1080^{0} \nD. 1260^{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTổng các góc của đa giác 7 cạnh bằng (9 – 2).180^{0}  = 1260^{0} \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 7: Tổng số đo các góc của hình đa giác n cạnh là 1440^{0}  thì số cạnh n là:\nA. n = 9\nB. n = 10\nC. n = 7 \nD. n = 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTừ giả thiết ta có (n – 2).180^{0}  = 1440^{0}  ⇔ n – 2 = 8 ⇔ n = 10\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 8: Tổng số đo các góc của hình đa giác n cạnh là 1620^{0}  thì số cạnh n là:\nA. n = 9\nB. n = 10\nC. n = 11\nD. n = 8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTừ giả thiết ta có (n – 2).180^{0}  = 1620^{0}  ⇔ n – 2 = 9 ⇔ n = 11\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 12: Chọn câu đúng. Cho các hình: Hình chữ nhật, hình thoi, hình vuông, tam giác cân, tam giác đều.\nA. 1\nB. 2\nC. 4\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình vuông là tứ giác đều (có bốn cạnh bằng nhau và các góc cùng bằng 90^{0} ) và tam giác đều là những đa giác đều.\nHình chữ nhật là đa giác không đều vì hình chữ nhật có 4 góc vuông nhưng các cạnh không bằng nhau nên không là đa giác đều.\nHình thoi là đa giác không đều vì các cạnh bằng nhau nhưng các góc không bằng nhau.\nTam giác cân không là đa giác đều vì có ba cạnh không bằng nhau\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 13: Chọn câu đúng\nA. Lục giác có sáu góc bằng nhau là lục giác đều.  \nB. Hình thoi là đa giác không đều có các góc bằng nhau.\nC. Ngũ giác có năm cạnh bằng nhau được gọi là ngũ giác đều.\nD. Hình chữ nhật là đa giác không đều có các góc bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình chữ nhật là đa giác không đều vì hình chữ nhật có 4 góc vuông nhưng các cạnh không bằng nhau nên không là đa giác đều.\nHình thoi là đa giác không đều vì các cạnh bằng nhau nhưng các góc không bằng nhau.\nĐáp án cần chọn là: D"
+    }
+]

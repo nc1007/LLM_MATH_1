@@ -1,0 +1,86 @@
+[
+    {
+        "problem": "B.  \\frac{9}{20};4,5\nC.  450;45000\nD.  \\frac{9}{200};4,5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 6km = 6000m\n+ Tỉ số của 2700m 6000m là  2700:6000=\\frac{9}{20}\n+ Tỉ số phần trăm của 2700m so với 6000m là  \\frac{2700.100}{6000}=45\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2: Chọn câu sai. Viết dưới dạng tỉ số của hai số tự nhiên.\nA. \\frac{2\\frac{11}{12}}{6\\frac{1}{8}}=\\frac{10}{21}\nB.  66\\frac{2}{3}=\\frac{11}{25}\nC.  0,72:2,7=\\frac{4}{15}\nD.  0,075:5=\\frac{3}{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáp án A: \\frac{2\\frac{11}{12}}{6\\frac{1}{8}}=2\\frac{11}{12}:6\\frac{1}{8}=\\frac{35}{12}:\\frac{49}{8}=\\frac{35}{12}.\\frac{8}{49}=\\frac{10}{21} nên A đúng.\nĐáp án B: 66\\frac{2}{3}=\\frac{200}{3}:100=\\frac{200}{3}.\\frac{1}{100}=\\frac{2}{3} nên B sai.\nĐáp án C: 0,72:2,7=\\frac{72}{100}:\\frac{27}{10}=\\frac{18}{25}.\\frac{10}{27}=\\frac{4}{15} nên C đúng.\nĐáp án D: 0,075:5=\\frac{75}{1000}:\\frac{5}{100}=\\frac{75}{1000}.\\frac{100}{5}=\\frac{3}{2} nên D đúng.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3:\n \\frac{27}{100} được viết dưới dạng tỉ số phần trăm là:\nA. 0,27%\nB. 2,7%\nC. 27%\nD. 270%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \\frac{27}{100}=27\nVậy \\frac{27}{100} được viết dưới dạng tỉ số phần trăm là 27%.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4:\nĐiền số thích hợp vào ô trống:\n\\frac{124}{400} = ... %",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:  \\frac{124}{400}=\\frac{124:4}{400:4}=\\frac{31}{100}=31\nVậy đáp án đúng điền vào ô trống là 31"
+    },
+    {
+        "problem": "Câu 5:  \nChọn số thích hợp điền vào chỗ chấm: 2\\frac{2}{8}=...%\nA. 22\nB. 32\nC. 225\nD. 228",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:  2\\frac{2}{8}=2\\frac{1}{4}=2\\frac{25}{100}=\\frac{225}{100}=225\nVậy 2\\frac{2}{8}=225\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6:\nViết tỉ số phần trăm thành phân số tối giản: 72%=\\frac{......}{......}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có :  72=\\frac{72}{100}=\\frac{72:4}{100:4}=\\frac{18}{25}\nVậy đáp án đúng cần điền vào ô trống theo thứ tự từ trên xuống dưới là 18;25"
+    },
+    {
+        "problem": "Câu 7:\nĐiền số thích hợp vào ô trống:\nSố thứ nhất là số lớn nhất có hai chữ số khác nhau. Số thứ hai là số lẻ nhỏ nhất có ba chữ số khác nhau. Vậy tỉ số của số thứ nhất và số thứ hai là\\frac{a}{b}   .\nVậy a =  ...  ;  b = ...",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố lớn nhất có hai chữ số khác nhau là 98. Vậy số thứ nhất là 98.\nSố lẻ nhỏ nhất có ba chữ số khác nhau là 103. Vậy số thứ hai là 103.\nTỉ số của số thứ nhất và số thứ hai là \\frac{98}{103}\nVậy đáp án đúng điền vào ô trống lần lượt từ trái sang phải là 98;103."
+    },
+    {
+        "problem": "Câu 8:\nTỉ số của a và b (b khác 0) là:\nA. a + b\nB. a − b\nC. a × b\nD. a : b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTỉ số của a và b là a : b  hay \\frac{a}{b} (b khác 0).\nVậy đáp án đúng là a : b.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9:\nTỉ số của 3 và 5 là:  \nA. 3 : 5        \nB. \\frac{3}{5} \nC. Cả A và B đều đúng\nD. Cả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n Tỉ số của 3 và 5 là 3 : 5 hay \\frac{3}{5}\nVậy cả đáp án A và B đều đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10:\nTỉ số của 10 và 21 là \\frac{21}{10} . Đúng hay sai?\nA. Đúng\nB. Sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTỉ số của 10 và 21 là 10 : 21 hay \\frac{10}{21} \nVậy khẳng định tỉ số của 10 và 21 là  là sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 11:\nMột hộp đựng 7 quả bóng xanh và 9 quả bóng đỏ. Tỉ số của số quả bóng đỏ và số quả bóng xanh là:\nA. \\frac{7}{16}\nB.  \\frac{9}{16}\nC.  \\frac{7}{9}\nD.  \\frac{9}{7}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCó 7 quả bóng xanh và 9 quả bóng đỏ nên tỉ số của số quả bóng đỏ và số quả bóng xanh là  \\frac{9}{7}\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 12:\nLớp 4A có 15 học sinh nam và 18 học sinh nữ. Viết tỉ số của số học sinh nam và số học sinh cả lớp.\nA.   \\frac{15}{18}\nB.  \\frac{18}{15}\nC.  \\frac{15}{33}\nD.  \\frac{18}{33}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nLớp 4A có tất cả số học sinh là: 15 + 18 = 33 (học sinh)\nLớp 4A có tất cả 33 học sinh, trong đó có 15 học sinh nam , do đó tỉ số của số học sinh nam và số học sinh cả lớp là  \\frac{15}{33}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13:\nĐiền số thích hợp vào ô trống:\nMột hình chữ nhật có chu vi là 72cm. Chiều rộng kém chiều dài là 14cm. Vậy tỉ số của chiều rộng và chiều dài là \\frac{a}{b} .\nVậy a = ... ; b = ...",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNửa chu vi hình chữ nhật là:72 : 2 = 36(cm) \nChiều rộng của hình chữ nhật đó là:(36 − 14) : 2 = 11(cm) \nChiều dài của hình chữ nhật đó là:11 + 14 = 25(cm) \nHình chữ nhật có chiều rộng 11cm  và chiều dài 25cm. Vậy tỉ số của chiều rộng và chiều dài là \\frac{11}{25} .\nVậy đáp án đúng điền vào ô trống từ trái sang phải lần lượt là 11; 25."
+    },
+    {
+        "problem": "Câu 14:\nĐiền số thích hợp vào ô trống:\nBiết a = 11; b = 15 thì tỉ số của b và a là ....",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVới a = 11; b = 15 thì tỉ số của b và a là 15 : 11 hay  \\frac{15}{11}"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "A. h(x) = 12x^{2 }  + 8x – 7 và bậc của h(x) là 2;\nB. h(x) = –3 và bậc của h(x) là 1;\nC. h(x) = 8x – 3 và bậc của h(x) là 1;\nD. h(x) = –3 và bậc của h(x) là 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTa có: h(x) = f(x) + g(x) \n= (6x^{2}  + 4x – 5) + (–6x^{2}  – 4x + 2)\n= 6x^{2}  + 4x – 5 – 6x^{2}  – 4x + 2\n= (6x^{2}  – 6x^{2} ) + (4x – 4x) + (–5 + 2)\n= –3\nVậy h(x) = –3 và bậc của h(x) là 0."
+    },
+    {
+        "problem": "Câu 2. Cho hai đa thức f(x) = x^{2}  + 3x – 5 và g(x) = –5x^{2}  – x + 2.\nTính k(x) = f(x) –g(x) và tìm bậc củak(x).\nA. k(x) = 6x^{2 } + 4x – 7 và bậc của k(x) là 2;\nB. h(x) = –4x^{2}  + 2x – 3 và bậc của k(x) là 2;\nC. k(x) = 6x^{2}  + 4x – 7 và bậc của k(x) là 6;\nD. k(x) = –4x^{2}  + 2x – 3 và bậc của k(x) là 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: k(x) = f(x) – g(x) \n= (x^{2}  + 3x – 5) – (–5x^{2}  – x + 2)\n= x^{2}  + 3x – 5 + 5x^{2}  + x – 2\n= (x^{2}  + 5x^{2} ) + (3x + x) + (–5 – 2) \n= 6x^{2}  + 4x – 7\nVậy k(x) = 6x^{2 } + 4x – 7 và bậc của k(x) là 2."
+    },
+    {
+        "problem": "Câu 3. Cho f(x) = 3x^{5}  – 3x^{4}  + x^{2}  – 5 và g(x) = 2x^{4}  – x^{3}  – x^{2}  + 5.\nTính hiệu f(x) – g(x) rồi sắp xếp kết quả theo lũy thừa tăng dần của biến ta được:\nA. 10 + 2x^{2}  + x^{3}  – 5x^{4}  + 3x^{5} ;\nB. –10 + 2x^{2}  + x^{3}  – 5x^{4}  + 3x^{5} ;\nC. 3x^{5}  – 5x^{4}  + x^{3}  + 2x^{2}  + 10;\nD. 3x^{5}  – 5x^{4}  + x^{3}  + 2x^{2}  – 10.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có:\nf(x) – g(x) \n= (3x^{5}  – 3x^{4}  + x^{2}  – 5) – (2x^{4}  – x^{3}  – x^{2}  + 5)\n= 3x^{5}  – 3x^{4}  + x^{2}  – 5 – 2x^{4}  + x^{3}  + x^{2}  – 5\n= 3x^{5}  + (–3x^{4}  – 2x^{4} ) + x^{3}  + (x^{2}  + x^{2} ) – 5 – 5\n= 3x^{5}  – 5x^{4}  + x^{3}  + 2x^{2}  – 10\nSắp xếp kết quả theo lũy thừa tăng dần của biến ta được: \nf(x) – g(x) = –10 + 2x^{2}  + x^{3}  – 5x^{4}  + 3x^{5} .\nVậy ta chọn phương án B."
+    },
+    {
+        "problem": "Câu 4. Cho P(x) = 3x^{4}  + 4x^{3}  – 3x^{2}  + 2x – 1 và Q(x) = –x^{4}  + 2x^{3}  – 3x^{2}  + 4x – 5.\nTính P(x) + Q(x) rồi tìm bậc của đa thức thu gọn.\nA. P(x) + Q(x) = 6x^{3}  – 6x^{2}  + 6x – 6 có bậc là 3;\nB. P(x) + Q(x) = 2x^{4}  + 6x^{3}  – 6x^{2}  + 6x + 6 có bậc là 4;\nC. P(x) + Q(x) = 2x^{4}  + 6x^{3}  – 6x^{2}  + 6x – 6 có bậc là 4;\nD. P(x) + Q(x) = 2x^{4}  + 6x^{3}  + 6x – 6 có bậc là 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\nP(x) + Q(x) \n= (3x^{4}  + 4x^{3}  – 3x^{2}  + 2x – 1) + (–x^{4}  + 2x^{3}  – 3x^{2}  + 4x – 5)\n= 3x^{4}  + 4x^{3}  – 3x^{2}  + 2x – 1 – x^{4}  + 2x^{3}  – 3x^{2}  + 4x – 5\n= (3x^{4}  – x^{4} ) + (4x^{3}  + 2x^{3} ) + (–3x^{2}  – 3x^{2} ) + (2x + 4x) – 1 – 5\n= 2x^{4}  + 6x^{3}  – 6x^{2}  + 6x – 6.\nBậc của đa thức P(x) + Q(x) = 2x^{4}  + 6x^{3}  – 6x^{2}  + 6x – 6 là 4.\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 5. Tìm hệ số cao nhất của đa thức k(x) biết f(x) + k(x) = g(x) và f(x) = 5x^{4}  – 4x^{2}  + 6x^{3}  + x – 1; g(x) = 3 – 2x.\nA. –1;\nB. –5;\nC. 4;\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: f(x) + k(x) = g(x)\nSuy ra k(x) = g(x) – f(x)\n= 3 – 2x – (5x^{4}  – 4x^{2}  + 6x^{3}  + x – 1)\n= 3 – 2x – 5x^{4}  + 4x^{2}  – 6x^{3}  – x + 1\n= –5x^{4}  – 6x^{3}  + 4x^{2}  + (–2x – x) + 3 + 1\n= –5x^{4}  – 6x^{3}  + 4x^{2}  – 3x + 4 \nNhận thấy số hạng có lũy thừa cao nhất của biến là –5x^{4}  nên hệ số cao nhất là –5.\nVậy ta chọn phương án B."
+    },
+    {
+        "problem": "Câu 6. Cho đa thức P(x) = –6x^{5}  – 4x^{4}  + 3x^{2}  – 2x và Q(x) = 2x^{5}  – 4x^{4}  – 2x^{3}  + 2x^{2}  – x – 3. Tính M(1) với M(x) = P(x) – Q(x).\nA. –3;\nB. 3;\nC. –2;\nD. 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: M(x) = P(x) – Q(x)\nM(x) = P(x) – Q(x)\n= (–6x^{5}  – 4x^{4}  + 3x^{2}  – 2x) – (2x^{5}  – 4x^{4}  – 2x^{3}  + 2x^{2}  – x – 3)\n= –6x^{5}  – 4x^{4}  + 3x^{2}  – 2x – 2x^{5}  + 4x^{4}  + 2x^{3}  – 2x^{2}  + x + 3\n= (–6x^{5}  – 2x^{5} ) + (–4x^{4}  + 4x^{4} ) + 2x^{3}  + (3x^{2}  – 2x^{2} ) + (–2x + x) + 3\n= –8x^{5}  + 2x^{3}  + x^{2}  – x + 3\nNên M(x) = –8x^{5}  + 2x^{3}  + x^{2}  – x + 3\nThay x = 1 vào M(x) ta được:\nM(1) = –8.1^{5}  + 2.1^{3}  + 1^{2}  – 1 + 3\n= –8.1 + 2.1 + 1 – 1 + 3\n= –8 + 2 + 3\n= –3\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 7. Cho A(x) = 5x^{3}  – 4x^{2}  + 3x + 3; B(x) = 4 – x – 4x^{2}  + 5x^{3} . Giá trị nào của x sau đây là thỏa mãn C(x) = 7 biết C(x) = A(x) – B(x)?\nA. x = 2;\nB. x = –2;\nC. x = 1;\nD. x = –1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có:\nC(x) = A(x) – B(x)\n= (5x^{3}  – 4x^{2}  + 3x + 3) – (4 – x – 4x^{2}  + 5x^{3} ) \n= 5x^{3}  – 4x^{2}  + 3x + 3 – 4 + x + 4x^{2}  – 5x^{3} \n= (5x^{3}  – 5x^{3} ) + (–4x^{2}  + 4x^{2} ) + (3x + x) + (3 – 4)\n= 4x – 1\nLại có: C(x) = 7\nSuy ra 4x – 1 = 7\nHay 4x = 8.\nDo đó x = 2.\nVậy ta chọn phương án A."
+    },
+    {
+        "problem": "Câu 8. Cho hai đa thức P(x) và Q(x) dưới đây, hai đa thức nào thỏa mãn P(x) – Q(x) = 2x – 2 là:\nA. P(x) = x^{2}  – 2x; Q(x) = –2x – 2;\nB. P(x) = x^{2}  – 2x; Q(x) = 2x^{2}  + 2x;\nC. P(x) = 2x; Q(x) = –2;\nD. P(x) = x^{3}  – 2; Q(x) = x^{3}  – 2x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTheo đề bài ta có: P(x) – Q(x) = 2x – 2\n• Xét phương án A với P(x) = x^{2}  – 2x; Q(x) = –2x – 2 thì\nP(x) – Q(x) \n= x^{2}  – 2x – (–2x – 2)\n= x^{2}  – 2x + 2x + 2\n= x^{2}  + (–2x + 2x) + 2\n= x^{2}  + 2 \nĐa thức này khác đa thức 2x – 2, do đó A không thoả mãn yêu cầu.\n• Xét phương án B với P(x) = 2x^{2}  - 2; Q(x) = 2x^{2}  + 2x thì\nP(x) – Q(x) \n= 2x^{2}  – 2 – (2x^{2}  + 2x)\n= 2x^{2}  – 2 – 2x^{2}  – 2x\n= (2x^{2}  – 2x^{2} ) – 2x – 2 \n= –2x – 2 \nĐa thức này khác đa thức 2x – 2, do đó B không thoả mãn yêu cầu.\n• Xét phương đáp án C với P(x) = 2x; Q(x) = –2 thì\nP(x) – Q(x) \n= 2x – (– 2) \n= 2x + 2 \nĐa thức này khác đa thức 2x – 2, do đó C không thỏa mãn yêu cầu bài toán.\n• Xét phương án D với P(x) = x^{3}  – 2; Q(x) = x^{3}  – 2x thì\nP(x) – Q(x) \n= x^{3}  – 2 – (x^{3}  – 2x)\n= x^{3}  – 2 – x^{3}  + 2x\n= 2x – 2\nDo đó D thỏa mãn yêu cầu bài toán.\nVậy ta chọn phương án D."
+    },
+    {
+        "problem": "Câu 9. Cho f(x) = 2x^{4}  – 4x^{2}  + 6x^{3}  + 2x + 3; g(x) = x + 3 và f(x) + k(x) = g(x). Hệ số tự do của đa thức k(x) là:\nA. –1;\nB. 4;\nC. 0;\nD. 6.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có f(x) + k(x) = g(x) \nSuy ra k(x) = g(x) – f(x)\n= x + 3 – (2x^{4}  – 4x^{2}  + 6x^{3}  + 2x + 3)\n= x + 3 – 2x^{4}  + 4x^{2}  – 6x^{3}  – 2x – 3 \n= –2x^{4}  – 6x^{3}  + 4x^{2}  + (x – 2x) + 3 – 3 \n= –2x^{4}  – 6x^{3}  + 4x^{2}  – x \nVậy hệ số tự do của k(x) là 0."
+    },
+    {
+        "problem": "Câu 12. A(x) = 5x^{4}  + 4x^{3}  + 2x + 1 và B(x) = –5x^{4}  + x^{3}  + 3x^{2}  + x – 1. Bậc của đa thức N(x) = A(x) + B(x) là:\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: N(x) = A(x) – B(x) \n= (5x^{4}  + 4x^{3}  + 2x + 1) + (–5x^{4}  + x^{3}  + 3x^{2}  + x – 1)\n= 5x^{4}  + 4x^{3}  + 2x + 1 – 5x^{4}  + x^{3}  + 3x^{2}  + x – 1\n= (5x^{4}  – 5x^{4} ) + (4x^{3}  + x^{3} ) + 3x^{2}  + (2x + x) + (1 – 1)\n= 5x^{3}  + 3x^{2}  + 3x.\nDo đó N(x) = 5x^{3}  + 3x^{2}  + 3x.\nVậy bậc của đa thức N(x) là 3.\nTa chọn phương án A."
+    },
+    {
+        "problem": "Câu 13. Bạn Minh nói: Tổng của hai đa thức bậc ba luôn là đa thức bậc ba.\nBạn Quân nói: Hiệu của hai đa thức bậc ba luôn là đa thức bậc ba.\nBạn Nam nói: Tổng của hai đa thức bậc ba chưa chắc là đa thức bậc ba.\nChọn khẳng định đúng.\nA. Quân nói đúng;\nB. Minh nói đúng;\nC. Nam nói đúng;\nD. Cả 3 bạn đều nói đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n• Ta lấy ví dụ:\nCho hai đa thức bậc ba A(x) = –x^{3}  + 2x + 1 và B(x) = x^{3}  + 3\nTa thấy:\nA(x) + B(x) \n= –x^{3}  + 2x + 1 + x^{3}  + 3 \n= (–x^{3}  + x^{3} ) + 2x + (1 + 3) \n= 2x + 4 \nĐa thức này không phải là đa thức bậc ba nên Minh nói không đúng.\nTừ đó ta thấy tổng của hai đa thức bậc ba chưa chắc là đa thức bậc ba nên Nam nói đúng.\n• Ta có ví dụ: P(x) = –2x^{3}  + x^{2}  + 5x và Q(x) = –2x^{3}  + 4x^{2}  + 2x + 3\nTa thấy:\nP(x) – Q(x) \n= –2x^{3}  + x^{2}  + 5x – (–2x^{3}  + 4x^{2}  + 2x + 3)\n= –2x^{3}  + x^{2}  + 5x + 2x^{3}  – 4x^{2}  – 2x – 3\n= (–2x^{3}  + 2x^{3} ) + (x^{2}  – 4x^{2} ) + (5x – 2x) – 3\n= –3x^{2}  + 3x – 3\nĐa thức này không phải là đa thức bậc ba nên Quân nói chưa đúng.\nVậy ta chọn phương án C."
+    },
+    {
+        "problem": "Câu 14. Xác định P(x) = ax^{2}  + bx + c biết P(1) = 0; P(–1) = 6 và P(2) = 3\nA. P(x) = 3x – 3;\nB. P(x) = –2x^{2}  – 3x + 5;\nC. P(x) = 2x^{2}  – 3x + 1;\nD. P(x) = 2x^{2}  – 3x – 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\n• Thay x = 1 vào P(x) = ax ^{2}  + bx + c ta được:\nP(1) = a. 1^{2}  + b.1 + c \n= a + b + c\nMà P(1) = 0 nên a + b + c = 0 \nSuy ra a + c = –b (1)\n• Thay x = –1 vào P(x) = ax ^{2}  + bx + c ta được:\nP(–1) = a.(–1)^{2}  + b.(–1) + c \n= a – b + c\nMà P (–1) = 6 nên a – b + c = 6 \nSuy ra a + c = 6 + b (2)\n• Thay x = 2 vào P(x) = ax ^{2}  + bx + c ta được:\nP(2) = a. 2^{2}  + b.2 + c \n= 4a + 2b + c\nMà P(2) = 3 nên 4a + 2b + c = 3 (3)\n• Từ (1), (2) ta có –b = 6 + b \nSuy ra: –2b = 6 \nDo đó b = –3\n• Thay b = –3 vào (1) ta được: a + c = 3 \nSuy ra c = 3 – a (4) \nThay b = –3 và c = 3 – a vào (3) ta được:\n4a + 2.(–3) + 3 – a = 3\n(4a – a) – 6 + 3 = 3\n3a = 6\nDo đó a = 2\nThay a = 2 vào (4) ta được c = 3 – 2 = 1\nDo đó ta có: a = 2, b = –3 và c = 1.\nVậy P(x) = 2x^{2 } – 3x + 1."
+    },
+    {
+        "problem": "Câu 15. Người ta rót nước từ một can đựng 20 lít nước sang một bể rỗng có dạng hình lập phương với cạnh 40 cm. Khi mực nước trong bể cao h (cm) thì thể tích nước trong can còn lại là bao nhiêu? Biết rằng 1 lít = 1 dm^{3} .\nA. 20 – 0,4h (lít);\nB. 20 + 0,4 (lít);\nC. 20 + 0,4h (lít);\nD. 20 – 0,4 (lít).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nKhi đổ nước vào trong bể sẽ có dạng hình hộp chữ nhật. \nKhi đó thể tích của nước trong bể là: \n20. 20. h \n= 400. h (cm^{3} ) \n= 0,4. h (dm^{3} ) \n= 0,4h (lít).\nThể tích nước trong can còn lại là 20 – 0,4h lít.\nVậy ta chọn phương án A."
+    }
+]

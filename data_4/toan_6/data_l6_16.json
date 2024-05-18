@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "Câu 1. Khi bỏ dấu ngoặc có dấu “+” đằng trước, ta\nA. giữ nguyên dấu của các số hạng trong ngoặc\nB. đổi dấu tất cả các số hạng trong dấu ngoặc\nC. giữ nguyên dấu của số hạng đầu, các số hạng còn lại đổi dấu\nD. Đổi dấu số hạng đầu, các số hạng còn lại giữ nguyên dấu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Khi bỏ dấu ngoặc có dấu “+” đằng trước, ta giữ nguyên dấu của các số hạng trong ngoặc.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Cho phép tính 4 – (12 – 15). Sau khi phá ngoặc ta được:\nA. 4 – 12 – 15 \nB. 4 + 12 – 15\nC. 4 – 12 + 15 \nD. 4 – 12 – 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải 4 – (12 – 15) = 4 – 12 + 15\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Khi bỏ dấu ngoặc đằng trước có dấu “ – “ đằng trước, ta:\nA. giữ nguyên dấu của các số hạng trong ngoặc\nB. đổi dấu tất cả các số hạng trong dấu ngoặc\nC. giữ nguyên dấu của số hạng đầu, các số hạng còn lại đổi dấu\nD. Đổi dấu số hạng đầu, các số hạng còn lại giữ nguyên dấu",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Khi bỏ dấu ngoặc đằng trước có dấu “ – “ đằng trước, ta đổi dấu tất cả các số hạng trong dấu ngoặc.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 4. Cho phép tính (-385 + 210) + (217 – 385). Khi bỏ dấu ngoặc, ta được:\nA. – 385 + 210 + 385 – 217 \nB. 385 + 210 + 217 – 385 \nC. – 385 + 210 + 217 – 385\nD. 385 – 210 + 217 – 385",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải (-385 + 210) + (217 – 385) = -385 + 210 + 217 – 385 \nĐáp án: C"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Tính giá trị biểu thức: (-314) – (75 + x) nếu x = 25\nA. – 214\nB. – 314\nC. – 414\nD. – 404",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nThay x = 25 vào biểu thức (-314) – (75 + x), ta có:\n(-314) – (75 + 25) = (-314) – 100 = -314 – 100 = - (314 + 100) = -414.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Trong các phát biểu sau, có bao nhiêu phát biểu đúng?\na) Với a, b là các số nguyên dương, hiệu a – b là một số nguyên dương.\nb) Với a, b là các số nguyên âm, hiệu a – b là một số nguyên âm.\nc) số 0 trừ đi một số nguyên thì bằng số đối của số nguyên đó.\nA. 0\nB. 1\nC. 2\nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nPhát biểu a) là sai. Chẳng hạn a = 9, b = 10 là hai số nguyên dương thì a – b = 9 – 10 = 9 + (-10) = -(10 – 9) = -1 là một số nguyên âm.\nPhát biểu b) là sai. Chẳng hạn a = - 122 và b = - 133 là hai số nguyên âm thì a – b   = (-122) – (-133) = (-122) + 133 = 133 – 122 = 11 là một số nguyên dương.\nPhát biểu c) là đúng. Với số nguyên a thì 0 – a = 0 + (-a) = (-a) là số đối của số nguyên a.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Thực hiện các phép tính sau: 333 – [(-14 657) + 57] – 78.\nA. 14 855\nB. - 14 345\nC. 14 303\nD. 14 969",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n333 – [(-14 657) + 57] – 78\n= 333 – [-(14 657 – 57)] – 78\n= 333 – (-14 600) – 78\n= 333 + 14 600 – 78\n= 14 933 – 78\n= 14 855.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Tính một cách hợp lí: (39 – 2 689) + 2 689;\nA. – 5 339\nB. 5 405\nC. 40\nD. 39",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(39 – 2 689) + 2 689\n= 39 – 2 689 + 2 689\n= 39 + (-2 689) + 2 689\n= 39 + [(-2 689) + 2 689]\n= 39 + 0\n= 39.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Tìm số nguyên x, y; biết:\na) x – 345 = 69;\nb) y – 345 – 69 = -12;\nNhận xét nào sau đây là đúng?\nA. x = y\nB. x > y\nC. x < y\nD. x = 2y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \na) x – 345 = 69\nx = 69 + 345\nx = 414\nb) y – 345 – 69 = -12\ny + (-345) + (-69) = -12\ny + (-414) = -12\ny = -12 – (-414)\ny = -12 + 414 \ny = 402\nVậy y < x\nĐáp án: B"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Vào mùa mưa, mực nước trung bình của một hồ chứa cao hơn 5m so với mực nước thông thường. Vào mùa khô, mực nước trung bình của hồ chứa đó lại thấp hơn 3m so với mực nước thông thường. Mực nước trung bình của hồ chứa nước đó vào mùa mưa và mùa khô chênh lệch bao nhiêu?\nA. 2m\nB. 8m\nC. 5m\nD. -3m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố nguyên biểu thị mực nước mùa mưa so với mực nước thông thường của hồ đó là: 5m.\nSố nguyên biểu thị mực nước mùa khô so với mực nước thông thường của hồ đó là: -3m.\nMức chênh lệch của mực nước trung bình của hồ đó vào mùa mưa với mùa khô là: \n5 – (-3) = 5 + 3 = 8m. \nVậy mực nước trung bình của hồ chứa nước đó vào mưa chênh lệch 8m so với mực nước trung bình của hồ đó vào mùa khô.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Tính một cách hợp lí: (-21) – 23 – [16 – (-18) – 18 – 16] + 2 144;\nA. 2 188\nB. 2 142\nC. 2 146\nD. 2 100",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-21) – 23 – [16 – (-18) – 18 – 16] + 2 144\n= (-21) + (-23) – 16 + (-18) + 18 + 16 + 2 144\n= [(-21) + (-23)] + [(-16) + 16)] + [(-18) + 18] + 2 144\n= -44 + 0 + 0 + 2 144\n= 2 144 – 44\n= 2 100.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Tại câu lạc bộ Toán học, ba bạn Lâm, Hùng và Khánh tranh luận với nhau:\nBạn Lâm khẳng định luôn tìm được hai số nguyên mà hiệu của chúng lớn hơn cả số trừ và số bị trừ; bạn Hùng thì bảo tìm được hai số nguyên mà hiệu của chúng chỉ lớn hơn số bị trừ; còn bạn Khánh cho rằng không thể tìm được hai số nguyên nào như bạn Lâm và Hùng khẳng định. Theo em, bạn nào sai? \nA. Bạn Lâm\nB. Bạn Hùng\nC. Bạn Khánh\nD. Cả ba bạn đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nBạn Lâm và bạn Hùng đều đúng.\nVới hai số nguyên là 2 và (-3), ta có 2 – (-3) = 2 + 3 = 5 và 5 > 2, 5 > (-3). Do đó bạn Lâm đúng.\nVới hai số nguyên là 15 và 7, ta có 15 – 7 = 8 và 8 > 7. Do đó bạn Hùng đúng.\nVì vậy bạn Khánh sai.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Cho các số nguyên a, b, c, d. Biết: x = (-a) + b – (c + d) và y = c – b + (d + a).\nKhẳng định nào dưới đây là đúng.\nA. x = y\nB. x = -y \nC. x > y\nD. x < y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: x = (-a) + b – (c + d) \n= (-a) + b – c – d \ny = c – b + (d + a)\n= c + (-b) + d + a\n= a + (-b) + c + d\n= -[(-a) + b – c – d]\n= - x \nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Kết quả của phép tính: (-2 020) – 2 018 – 2 016 – … – 2 008.\nA. – 8 056\nB. – 4 130\nC. – 16 112\nD. - 14 098",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-2 020) – 2 018 – 2 016 – … – 2 008\n= (-2 020) + (-2 018) + (-2 016) + … + (-2 008)\n= [(-2 020) + (-2 008)] + [(-2 018) + (-2 010)] + [(-2 016) + (-2 012)] + (-2 014)\n= (-4 028) + (-4 028) + (-4 028) + (-2 014)\n= -(4 028 + 4 028 + 4 028 + 2 014)\n= -14 098.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Tìm x, biết: 12 987 – x – [(-720) + 1 247 – 247] = 12 987.\nA. 280\nB. -280\nC. 12 707\nD. -12 707",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n12 987 – x – [(-720) + 1 247 – 247] = 12 987\n12 987 – x – [(-720) + 1 000] = 12 987\n12 987 – x – 280 = 12 987\n12 987 – (x + 280) = 12 987\nx + 280 = 12 987 – 12 987\nx + 280 = 0\nx = 0 – 280\nx = 0 + (-280)\nx = -280.\nVậy x = -280.\nĐáp án: B"
+    }
+]

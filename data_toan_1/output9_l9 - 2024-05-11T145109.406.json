@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Sử dụng kết quả a.b= ƯCLN(a,b). BCNN(a,b)\nLời giải chi tiết\nTa có tích của hai số cần tìm chính là tích của ƯCLN và BCNN của hai số đó.\nGọi hai số đó là a và b.\nTa có: a. b = ƯCLN(a, b). ƯCLN(a, b)\nMà ƯCLN(a, b) = 32.5; BCNN(a, b) = 23.34.53\nDo đó: a. b = (32.5). (23.34.53) = 23.(32.34).(5.53) = 23.36.54\nBiết một trong hai số là 23.32.5, ta giả sử a = 23.32.5\nKhi đó: (23.32.5). b = 23.36.54\nb = (23.36.54): (23.32.5)\nb = (23 : 23).(36 : 32).(54 : 5)\nb = 36-2.54-1\nb = 34.53\nVậy số còn lại là 34.53.\n\nLời giải hay"
+    },
+    {
+        "problem": "Nếu ta nhân số 12 345 679 với một số a bất kì có một chữ số, rồi nhân kết quả đó với 9 thì ta được số có 9 chữ số, mỗi chữ số đều là a, chẳng hạn khi a = 3 thì\n12 345 679. 3 = 37 037 037;\n37 037 037. 9 = 333 333 333.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện theo từng phép tính của đề bài. Chú ý x.9=x.(10 – 1) = x.10 - x\nLời giải chi tiết\nTa nhân số 12 345 679 với một số a bất kì có một chữ số, rồi nhân kết quả đó với 9, ta được: 12 345 679. a. 9 = (12 345 679. 9). a\n+) Ta có: 12 345 679. 9 = 12 345 679. (10 – 1) = 12 345 679. 10 - 12 345 679. 1\n= 123 456 790 – 12 345 679 = 111 111 111\nDo đó: 12 345 679. a. 9 = (12 345 679. 9). a = 111 111 111.a\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "(n+1) ∈ Ư(6)\nLời giải chi tiết\nVì 6 ⁝ (n+1) nên (n + 1) ∈ Ư(6) = {1; 2; 3; 6}\nTa có bảng sau:\nn + 1\n1\n2\n3\n6\nn\n0\n1\n2\n5\nVì n là số tự nhiên nên n ∈ {0; 1; 2; 5}\nVậy n ∈ {0; 1; 2; 5}.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Sử dụng kết quả a.b= ƯCLN(a,b). BCNN(a,b)\nLời giải chi tiết\nGọi x = 23.3a  và y = 2b.35\nTa có: x. y = ƯCLN(x, y). BCNN(x, y)\nVì ước chung lớn nhất của hai số là 22.35 và bội chung nhỏ nhất của hai số là 23.36\nTa được x.y= \\(2^2.3^5.2^3.3^6=2^2.2^3.3^5.3^6=2^5. 3^{11}\\)\nMà xy =\\(2^{3+b}.3^{a+5}\\)\nTa được 5=3+b và 11=a+5\nVậy b=2 và a=6\nLời giải hay"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Tìm mẫu số chung là BCNN của 2 mẫu số của 2 phân số rồi cộng, trừ 2 phân số có cùng mẫu số\n*Phương pháp tìm BCNN\n- Phân tích mỗi số ra thừa số nguyên tố,\n- Chọn ra các thừa số nguyên tố chung và riêng;\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ lớn nhất. Tích đó là BCNN cần tìm.\nLời giải chi tiết\na) Ta có 14 = 2. 7;\n21 = 3. 7\nBCNN(14, 21) = 2. 3. 7 = 42\nTa có thể chọn mẫu chung của hai phân số là 42\n\\(\\frac{9}{{14}} + \\frac{8}{{21}} = \\frac{{9.3}}{{14.3}} + \\frac{{8.2}}{{21.2}} = \\frac{{27}}{{42}} + \\frac{{16}}{{42}} = \\frac{{43}}{{42}}\\)\nTa có: 15 = 3. 5;\n12 = 22.3\nBCNN(15, 12) = 22.3.5 = 60\nTa có thể chọn mẫu chung của hai phân số là 60\n\\(\\frac{{13}}{{15}} - \\frac{7}{{12}} = \\frac{{13.4}}{{15.4}} - \\frac{{7.5}}{{12.5}} = \\frac{{52}}{{60}} - \\frac{{35}}{{60}} = \\frac{{17}}{{60}}\\)\nLời giải hay"
+    }
+]

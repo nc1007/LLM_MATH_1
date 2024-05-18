@@ -1,0 +1,80 @@
+[
+    {
+        "problem": "Tính \\(12,5.1,2\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy 125.12\nDịch chuyển dấu “,” sang trái 2 đơn vị.\nLời giải chi tiết\n125.12=1500\nNên 12,5.1,2=15,00=15"
+    },
+    {
+        "problem": "Thực hiện phép nhân sau bằng cách quy về phép nhân hai số thập phân dương tương tự như với số nguyên:\na) \\(\\left( { - 12,5} \\right).1,2\\)\nb) \\(\\left( { - 12,5} \\right).\\left( { - 1,2} \\right)\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Nhân hai số nguyên khác dấu:\nBước 1: Bỏ dấu “ – ” trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính tích của hai số nguyên dương nhận được.\nBước 3: Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tích cần tìm.\nb) Nhân hai số nguyên cùng dấu:\nBước 1: Bỏ dấu “ – ” trước mỗi số.\nBước 2: Tính tích của hai số nguyên dương nhận được ở Bước 1, ta có tích cần tìm.\nLời giải chi tiết\na) \\(\\left( { - 12,5} \\right).1,2 =  - \\left( {12,5.1,2} \\right) =  - 15\\)\nb) \\(\\left( { - 12,5} \\right).\\left( { - 1,2} \\right) = 12,5.1,2 = 15\\)"
+    },
+    {
+        "problem": "Tính\na) \\(2,72.\\left( { - 3,25} \\right)\\)\nb) \\(\\left( { - 0,827} \\right).\\left( { - 1,1} \\right)\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Nhân hai số khác dấu:\nBước 1: Bỏ dấu “ – ” trước số âm, giữ nguyên số còn lại.\nBước 2: Tính tích của hai số dương nhận được.\nBước 3: Thêm dấu “ – ” trước kết quả nhận được ở Bước 2, ta có tích cần tìm.\nb) Nhân hai số cùng dấu:\nBước 1: Bỏ dấu “ – ” trước mỗi số.\nBước 2: Tính tích của hai số dương nhận được ở Bước 1, ta có tích cần tìm.\nLời giải chi tiết\na) \\(2,72.\\left( { - 3,25} \\right) =  - \\left( {2,72.3,25} \\right)\\)\\( =  - 8,84\\)\nb) \\(\\left( { - 0,827} \\right).\\left( { - 1,1} \\right) = 0,827.1,1\\)\\( = 0,9097\\)"
+    },
+    {
+        "problem": "Mức tiêu thụ nhiên liệu của một chiếc xe máy là 1,6 lít trên 100 kilômét. Giá một lít xăng E5 RON 92-II ngày 20-10-2020 là 14 260 đồng (đã bao gồm thuế). Một người đi xe máy đó trên quãng đường 100 km thì sẽ hết bao nhiêu tiền xăng?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tiền xăng đi hết 100 kilômét bằng tiền xăng của 1,6 lít.\nLời giải chi tiết\nTiền xăng đi hết 100 kilômét là: 1,6.14 260=22816 (đồng)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau bằng cách quy về phép chia hai số thập phân dương tương tự như với số nguyên:\na) \\(\\left( { - 31,5} \\right):1,5\\)\nb) \\(\\left( { - 31,5} \\right):\\left( { - 1,5} \\right)\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chia hai số nguyên khác dấu:\nBước 1: Bỏ dấu “-” trước số nguyên âm, giữ nguyên số còn lại.\nBước 2: Tính thương của hai số nguyên dương nhận được ở Bước 1.\nBước 3: Thêm dấu “-” trước kết quả nhận được ở Bước 2, ta có thương cần tìm.\nb) Chia hai số nguyên âm:\nBước 1: Bỏ dấu “-” trước mỗi số.\nBước 2: Tính thương của hai số nguyên dương nhận được ở Bước 1 ta có thương cần tìm\nLời giải chi tiết\na) \\(\\left( { - 31,5} \\right):1,5 =  - \\left( {31,5:1,5} \\right) =  - 21\\)\nb) \\(\\left( { - 31,5} \\right):\\left( { - 1,5} \\right) = 31,5:1,5 = 21\\)"
+    },
+    {
+        "problem": "Thương của hai số khi nào là số dương? Khi nào là số âm?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tương tự với phép chia hai số nguyên:\n+ Thương của phép chia hai số nguyên khác dấu luôn là số âm.\n+ Thương của phép chia hai số nguyên cùng dấu luôn là số dương.\nLời giải chi tiết\nThương của 2 số là số dương khi 2 số đó cùng dấu và âm khi hai số khác dấu."
+    },
+    {
+        "problem": "Tính:\na) \\(\\left( { - 5,24} \\right):1,31\\)\nb) \\(\\left( { - 4,625} \\right):\\left( { - 1,25} \\right)\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chia hai số khác dấu:\nBước 1: Bỏ dấu “-” trước số âm, giữ nguyên số còn lại.\nBước 2: Tính thương của hai số dương nhận được ở Bước 1.\nBước 3: Thêm dấu “-” trước kết quả nhận được ở Bước 2, ta có thương cần tìm.\nb) Chia hai số âm:\nBước 1: Bỏ dấu “-” trước mỗi số.\nBước 2. Tính thương của hai số dương nhận được ở Bước 1 ta có thương cần tìm\nLời giải chi tiết\na) \\(\\left( { - 5,24} \\right):1,31 =  - \\left( {5,24:1,31} \\right)\\)\\( =  - \\left( {524:131} \\right) =  - 4\\)\nb) \\(\\left( { - 4,625} \\right):\\left( { - 1,25} \\right) = 4,625:1,25\\)\\( = 4625:1250 = 3,7\\)"
+    },
+    {
+        "problem": "Tài khoản vay ngân hàng của một chủ xưởng gỗ có ghi số dư \\( - 1,252\\) tỉ đồng. Sau khi chủ xưởng trả được một nửa khoản nợ thì số dư tài khoản là bao nhiêu?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số nợ biểu thị cho số dư âm. Một nửa khoản nợ tương đương với một nửa số dư.\nLời giải chi tiết\nSố tiền nợ là \\( - 1,252\\) tỉ đồng, tức là số dư ban đầu là \\( - 1,252\\) tỉ đồng. Chủ xưởng trả được một nửa khoản nợ tức là số dư tài khoản còn một nửa.\nMột nửa số dư ban đầu là: \\( - 1,252:2 =  - \\left( {1,252:2} \\right)\\)\\(=  - 0,626\\)(tỉ đồng)\nVậy số dư tài khoản là \\( - 0,626\\) tỉ đồng."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau:\n\\(21.0,1 - \\left[ {4 - \\left( { - 3,2 - 4,8} \\right)} \\right]:0,1\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất giao hoán, kết hợp, phân phối.\nLời giải chi tiết\n\\(\\begin{array}{l}21.0,1 - \\left[ {4 - \\left( { - 3,2 - 4,8} \\right)} \\right]:0,1\\\\ = 2,1 - \\left[ {4 - \\left( { - 8} \\right)} \\right]:0,1\\\\ = 2,1 - \\left[ {4 + 8} \\right]:0,1\\\\ = 2,1 - 12:0,1\\\\ = 2,1 - 12.10\\\\ = 2,1 - 120\\\\ =  - \\left( {120 - 2,1} \\right)\\\\ =  - 117,9\\end{array}\\)"
+    },
+    {
+        "problem": "Từ độ cao \\( - 0,21km\\) (so với mực nước biển), tàu thăm dò đáy biển bắt đầu lặn xuống. Biết rằng cứ sau mỗi phút, tàu lặn xuống sâu thêm được 0,021 km. Tính độ cao xác định vị trí tàu sau 10 phút kể từ khi tàu bắt đầu lặn.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính quãng đường lặn thêm được sau 10 phút.\nĐộ cao tàu so với mực nước biển bằng độ cao ban đầu trừ đi quãng đường lặn thêm được.\nLời giải chi tiết\nSau 10 phút, tàu lặn sâu thêm được:\n\\(0,021.10 = 0,21\\) (km)\nĐộ cao tàu so với mực nước biển sau 10 phút:\n\\( - 0,21 - 0,021.10 = -0,42\\) (km)\nVậy độ cao xác định vị trí tàu sau 10 phút kể từ khi tàu bắt đầu lặn là - 0,42 km."
+    },
+    {
+        "problem": "Thầy giáo viết lên bảng dãy số \\( - 3,2; - 0,75;120; - 0,1\\) rồi yêu cầu mỗi học sinh chọn hai số rồi làm một phép tính với hai số đã chọn.\na) Mai làm phép trừ và nhận được kết quả là \\(120,75\\). Theo em, Mai đã chọn hai số nào?\nb) Hà thực hiện phép chia và nhận được kết quả là 32. Em có biết Hà đã chọn hai số nào không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm hai số rồi trừ hai số cho nhau, kết quả bằng \\(120,75\\) thì lấy hai số đó.\nb) Tìm hai số rồi chia hai số cho nhau, kết quả bằng 32 thì lấy hai số đó.\nLời giải chi tiết\na) \\(120 - \\left( {-0,75} \\right) = 120 + 0,75 = 120,75\\)\nVậy hai số đó là 120 và -0,75\nb) Ta có \\( - 3,2:\\left( { - 0,1} \\right) = 3,2:0,1\\)\\( = 32:1 = 32\\)\nVậy hai số đó là \\( - 3,2; - 0,1\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Điểm đông đặc và điểm sôi của thủy ngân lần lượt là \\( - 38,83^\\circ C\\) và \\(356,73^\\circ C\\). Một lượng thủy ngân đang để trong tủ bảo quản ở nhiệt độ \\( - 51,2^\\circ C\\).\na) Ở nhiệt độ đó, thủy ngân ở thể rắn, thể lỏng hay thể khí?\nb) Nhiệt độ của tủ phải tăng thêm bao nhiêu độ để lượng thủy ngân bắt đầu bay hơi?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) So sánh nhiệt độ bảo quản với điểm đông đặc và điểm sôi\n- Nhiệt độ nhỏ hơn điểm đông đặc thì ở thể rắn\n- Nhiệt độ lớn hơn điểm đông đặc và nhỏ hơn điểm sôi thì ở thể lỏng\n- Nhiệt độ lớn hơn điểm sôi thì ở thể khí\nb) Thực hiện phép trừ số thập phân\nLời giải chi tiết\na) Vì 51,2 > 38,83 nên -51,2 < -38,83 nên ở nhiệt độ \\( - 51,2^\\circ C\\) thì thủy ngân ở thể rắn.\nb) Nhiệt độ của tủ phải tăng thêm số độ để lượng thủy ngân bắt đầu bay hơi là:\n\\(356,73 - (-51,2)= 407,93 ^\\circ C\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một khối nước đá có nhiệt độ \\( - 4,5^\\circ C\\). Nhiệt độ của khối nước đá đó phải tăng thêm bao nhiêu độ để chuyển thành thể lỏng? (biết điểm nóng chảy của nước \\(0^\\circ C\\)).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhiệt độ của khối nước đá  phải tăng lên đến \\(0^\\circ C\\)\nLời giải chi tiết\nNhiệt độ của khối nước đá  phải tăng lên đến \\(0^\\circ C\\)\nNhiệt độ của khối nước đá phải tăng thêm là: \\(0 - \\left( { - 4,5} \\right) = 4,5\\left( {^\\circ C} \\right)\\)"
+    }
+]

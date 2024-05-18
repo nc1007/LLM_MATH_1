@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 1 : Cho phép tính:4025 - 98. Trong các cách tính sau, cách tính nào đúng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy 4025−98=3927."
+    },
+    {
+        "problem": "Câu 2 : Thực hiện phép tính: 80508 – 4936 \nA.\t31148\nB.\t32148\nC.\t76672\nD.\t75572",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\nVậy 80508−4936=75572.\nChú ý\nHọc sinh có thể đặt tính sai nên chọn đáp án sai là A,\n hoặc tính toán sai nên chọn đáp án sai là C."
+    },
+    {
+        "problem": "Câu 4 : 73041 - 5828 = 14761. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta đặt tính và thực hiện tính như sau:\n 73041−5828=67213\n Vậy phép tính đã cho là sai.\nChú ý\n Học sinh có thể đặt tính sai nên tìm ra kết quả 73041−5828=14761, \n do đó chọn đáp án sai là A."
+    },
+    {
+        "problem": "Câu 6 : Tìm x, biết 6095 - x = 2816 . \nA.\tx = 3279\t\nB.\tx = 3389\t\nC.\tx = 4879\t\nD.\tx = 8911",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "6095 − x = 2816\nx = 6095−2816\nx = 3279\n\tVậy x = 3279."
+    },
+    {
+        "problem": "Câu 8 :  Tìm y biết: y + 32487 = 63048 - 2827.\nA.\ty = 27743\nB.\ty = 92718\nC.\ty = 92708\nD.\ty = 27734",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "y+32487 = 63048−2827\t\ny+32487 = 60221\t\ny = 60221−32487\t\ny = 27734\t\nVậy y = 27734"
+    },
+    {
+        "problem": "Câu 10 : Ghép phép tính ở cột màu xanh với phép tính ở cột màu nâu để được hai phép tính có kết quả bằng nhau:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n\t925+146=1071;\t\t\t\t\t1302−78×5=1302−390=912;\n31045−12888=18157;\t\t\t\t1700−629=1071;\n228×4=912;\t\t\t\t\t\t8080−7256=824;\n711:3+587=237+58=824;\t\t\t56289−38132=18157\n\n925+146=1071;\t\t\t\t\t1302−78×5=1302−390=912;\n31045−12888=18157;\t\t\t\t1700−629=1071;\n228×4=912;\t\t\t\t\t\t8080−7256=824;\n711:3+587=237+58=824;\t\t\t56289−38132=18157"
+    },
+    {
+        "problem": "Câu 11 : Một nhà máy trong hai tháng sản xuất được 38675kg đường. \nBiết tháng thứ nhất nếu sản xuất thêm 238kg thì sẽ sản xuất được 20 tấn đường. \nHỏi tháng thứ hai nhà máy đó sản xuất được bao nhiêu ki-lô-gam đường? \nA.\t18437kg\nB.\t18913kg\nC.\t18675kg\nD.\t19762kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi: 20 tấn =20000kg\nTháng thứ nhất nhà máy sản xuất được số ki-lô-gam đường là:v\n\t                        20000−238=19762(kg)\nTháng thứ hai nhà máy sản xuất được số ki-lô-gam đường là:\n                38675−19762=18913(kg)\n                                                         Đáp số: 18913kg.\n\n                       20000−238=19762(kg)\nTháng thứ hai nhà máy sản xuất được số ki-lô-gam đường là:\n                38675−19762=18913(kg)\n                                                         Đáp số: 18913kg."
+    },
+    {
+        "problem": "Câu 12 :  Khi thực hiện phép trừ hai số, một bạn đã sơ ý viết sai như sau: ở số trừ có 2 chữ số cuối cùng \nlà 28 đã viết thành 82 nên phép trừ sai có kết quả là 1945. \nVậy hiệu đúng của hai số đó là:\nA.\t1891\nB.\t1889\nC.\t1973\nD.\t1999",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ở số trừ có 2 chữ số cuối cùng là 28 đã bị viết sai thành 82 nên số trừ đã tăng thêm số đơn vị là: \n82−28=54 (đơn vị)\nKhi số trừ tăng thêm 54 đơn vị thì hiệu giảm bớt 54 đơn vị.\nTheo đề bài phép trừ sai có kết quả là 1945, \ndo đó hiệu đúng giảm đi 54 đơn vị thì được hiệu sai là 1945.\nVậy hiệu đúng là: \n    1945+54=1999"
+    }
+]

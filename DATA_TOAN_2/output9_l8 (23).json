@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Cho đường thẳng \\(d:y = \\left( {m - \\frac{1}{2}} \\right)x + 2m - 2\\) với \\(m \\ne \\frac{1}{2}\\). Tìm giá trị của \\(m\\) để:\na)     Đường thẳng \\(d\\) song song với đường thẳng \\({d_1}:y = \\frac{1}{2}mx - 2\\) với \\(m \\ne 0\\);\nb)    Đường thẳng \\(d\\) trùng với đường thẳng \\({d_2}:y = x - \\frac{2}{3}m + 2\\);\nc)     Đường thẳng \\(d\\) và đường thẳng \\({d_3}:y = \\sqrt 2 x - m + 2\\) cắt nhau tại một điểm nằm trên trục \\(Oy\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào điều kiện song song, trùng nhau, cắt nhau của hai đường thẳng để tìm giá trị của \\(m\\).\nLời giải chi tiết\na)     Để \\(d\\) song song với \\({d_1}\\) thì \\(m - \\frac{1}{2} = \\frac{1}{2}m\\) và \\(2m - 2 \\ne  - 2\\). Suy ra \\(m = 1\\).\nDễ thấy với \\(m = 1\\) ta có \\(d\\) và \\({d_1}\\) trở thành \\(d:y = \\frac{1}{2}x\\) và \\({d_1}:y = \\frac{1}{2}x - 2\\). Khi đó, \\(d\\) song song với \\({d_1}\\).\nb)    Để \\(d\\) trùng với \\({d_1}\\) thì \\(m - \\frac{1}{2} = 1\\) và \\(2m - 2 =  - \\frac{2}{3}m + 2\\). Suy ra \\(m = \\frac{3}{2}\\).\nc)     Đường thẳng \\(d\\)và đường thẳng \\({d_3}\\) lần lượt cắt trục \\(Oy\\) tại \\(A\\left( {;2m - 2} \\right)\\) và \\(B\\left( {0; - m + 2} \\right)\\). Do đó, \\(d\\) và \\({d_3}\\) cắt nhau tại một điểm nằm trên trục \\(Oy\\) khi \\(m - \\frac{1}{2} \\ne \\sqrt 2 \\) và \\(2m - 2 =  - m + 2\\). Suy ra \\(m = \\frac{4}{3}\\).\nDễ thấy với \\(m = \\frac{4}{3}\\) ta có \\(d\\) và \\({d_3}\\) trở thành \\(d:y = \\frac{5}{6}x + \\frac{2}{3}\\) và \\({d_3}:y = \\sqrt 2 x + \\frac{2}{3}\\)\nKhi đó \\(d\\) và \\({d_3}\\) cắt nhau tại điểm \\(\\left( {0;\\frac{2}{3}} \\right)\\) nằm trên trục \\(Oy\\)"
+    },
+    {
+        "problem": "Xác định đường thẳng \\(y = ax + b\\left( {a \\ne 0} \\right)\\) đi qua điểm \\(A\\left( {2;0} \\right)\\) và song song với đường thẳng \\(y = 2x - 5\\). Sau đó vẽ đường thẳng tìm được trên mặt phẳng tọa độ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Để vẽ đồ thị của hàm số \\(y = ax + b\\left( {a \\ne 0,b \\ne 0} \\right)\\), ta có thể xác định hai điểm \\(P\\left( {0;b} \\right)\\) và \\(Q\\left( { - \\frac{b}{a};0} \\right)\\) rồi vẽ đường thẳng đi qua hai điểm đó.\nLời giải chi tiết\nDo đường thẳng \\(y = ax + b\\) song song với đường thẳng \\(y = 2x - 5\\) nên \\(a = 2\\) (thỏa mãn) và \\(b \\ne  - 5\\). Mà đường thẳng \\(y = ax + b\\) đi qua điểm \\(A\\left( {2;0} \\right)\\), suy ra  \\(0 = 2.2 + b\\) hay \\(b =  - 4\\) (thỏa mãn). Do đó, đường thẳng cần tìm là \\(y = 2x - 4\\).\nVới \\(x = 0\\) thì \\(y =  - 4\\), ta được điểm \\(B\\left( {0; - 4} \\right)\\) thuộc đồ thị của hàm số \\(y = 2x - 4\\). Vậy đồ thị của hàm số \\(y = 2x - 4\\) là đường thẳng đi qua hai điểm \\(A\\left( {2;0} \\right)\\) và \\(B\\left( {0; - 4} \\right)\\).\n"
+    },
+    {
+        "problem": "Giá nước sinh hoạt của một hộ gia đình được tính như sau: \\(10{m^3}\\) đầu tiên giá \\(7000\\) đồng/\\({m^3}\\); từ trên \\(10{m^3}\\) đến \\(20{m^3}\\) giá \\(8200\\) đồng/\\({m^3}\\); từ trên \\(20{m^3}\\) đến \\(30{m^3}\\) giá \\(10000\\) đồng/\\({m^3}\\); từ trên \\(30{m^3}\\) giá \\(18\\,000\\) đồng/\\({m^3}.\\)\na) Viết công thức biểu thị số tiền \\(y\\) (đồng) mà nhà bạn Mai phải trả khi sử dụng \\(x\\,\\left( {{m^3}} \\right)\\) trong tháng 12/2020 với \\(x > 30.\\) Hỏi \\(y\\) có phải hàm số bậc nhất của \\(x\\) hay không?\nb) Nhà bạn Mai đã phải trả \\(342\\,000\\) đồng cho tiền nước tháng 1/2023. Tính số mét khối nước nhà bạn Mai đã sử dụng trong tháng 1/2023, biết rằng số nước đó lớn hơn \\(30{m^3}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Viết công thức biểu thị số tiền \\(y\\) (đồng) mà nhà bạn Mai phải trả khi sử dụng \\(x\\,\\left( {{m^3}} \\right)\\) trong tháng 12/2020 với \\(x > 30.\\) Dựa vào định nghĩa hàm số để trả lời câu hỏi.\nb) Tìm giá trị của \\(x\\) khi \\(y = 342\\,000\\).\nLời giải chi tiết\na) \\(y = 7\\,000.10 + 8\\,200.10 + \\,10\\,000.10 + 18\\,000\\left( {x - 30} \\right)\\)\n\\(y = 18\\,000x - 288\\,000\\). Vậy \\(y\\) là hàm số của \\(x\\) vì với mỗi giá trị của \\(x\\) chỉ xác định đúng một giá trị của \\(y.\\)\nb) Thay \\(y = 342\\,000\\) vào hàm số \\(y = 18\\,000x - 288\\,000\\) ta được:\n\\(342\\,000 = 18\\,000x - 288\\,000\\) suy ra \\(x = 35.\\)\nVậy số mét khối nước nhà bạn Mai đã sử dụng trong tháng 1/2023 là \\(35{m^3}.\\)"
+    },
+    {
+        "problem": "Cho tam giác \\(ACD\\) như Hình 5.\na)     Xác định tọa độ các điểm \\(A,C,D\\)\nb)    Xác định tọa độ điểm \\(B\\) để tứ giác \\(ABCD\\) là hình chữ nhật\nc)     Gọi \\(M,N,P,Q\\) lần lượt là trung điểm của \\(AB,BC,CD,DA\\). Xác định tọa độ các điểm \\(M,N,P,Q\\).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng cách xác định tọa độ các điểm trên mặt phẳng tọa độ để xác định các điểm \\(A,B,C,D,M,N,P,Q\\).\nLời giải chi tiết\n\nTa vẽ các điểm \\(B,M,N,P,Q\\) như Hình.\na)     \\(A\\left( {1;1} \\right),C\\left( {5; - 1} \\right),D\\left( {5;1} \\right)\\)\nb)    \\(B\\left( {1; - 1} \\right)\\)\nc)     \\(M\\left( {1;0} \\right),N\\left( {3; - 1} \\right),P\\left( {5;0} \\right),Q\\left( {3;1} \\right)\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(f\\left( x \\right) = 2 - 3x.\\) Trong các phát biểu sau, phát biểu nào đúng?\na) \\(f\\left( { - 1} \\right) = 5.\\)\nb) \\(f\\left( 0 \\right) =  - 3.\\)\nc) \\(f\\left( {\\frac{1}{3}} \\right) =  - 1.\\)\nd) \\(f\\left( { - \\frac{1}{3}} \\right) = 3.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính các giá trị tương ứng của \\(f\\left( x \\right)\\) khi \\(x =  - 1;x = 0;x = \\frac{1}{3}\\) và \\(x = \\frac{{ - 1}}{3}\\) và kiểm tra tính đúng sai của từng phát biểu.\nLời giải chi tiết\na) \\(f\\left( { - 1} \\right) = 2 - 3.\\left( { - 1} \\right) = 5.\\) Suy ra phát biểu a đúng.\nb) \\(f\\left( 0 \\right) = 2 - 3.0 = 2\\) khác \\( - 3\\). Suy ra phát biểu b sai.\nc) \\(f\\left( {\\frac{1}{3}} \\right) = 2 - 3.\\frac{1}{3} = 1\\) khác \\( - 1\\). Suy ra phát biểu c sai.\nd) \\(f\\left( { - \\frac{1}{3}} \\right) = 2 - 3.\\left( {\\frac{{ - 1}}{3}} \\right) = 3.\\) Suy ra phát biểu d đúng."
+    },
+    {
+        "problem": "Xác định đường thẳng \\(d:y = ax + b\\left( {a \\ne 0} \\right)\\) trong mỗi trường hợp sau:\na)     Đường thẳng \\(d\\) song song với đường thẳng \\(d':y =  - 3x - \\frac{2}{3}\\) và đi qua điểm \\(A\\left( { - 2; - 4} \\right)\\).\nb)    Đường thẳng \\(d\\) đi qua điểm \\(B\\) và có hệ số góc bằng -3. Biết \\(B\\) là giao điểm của đường thẳng \\(y = 2x - 2\\) với trục hoành.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào điều kiện song song của hai đường thẳng và giao điểm của hai đường thẳng để xác định đường thẳng \\(d:y = ax + b\\left( {a \\ne 0} \\right)\\).\nLời giải chi tiết\na)     Để đường thẳng \\(d\\) song song với đường thẳng \\(d':y =  - 3x - \\frac{2}{3}\\) thì \\(a = a'\\) vậy đồ thị hàm số của đường thẳng \\(d:y =  - 3x + b\\).\nMà \\(d\\) đi qua điểm \\(A\\left( { - 2; - 4} \\right)\\), ta có: \\( - 4 =  - 3. - 2 + b\\) suy ra \\(b =  - 10\\).\nVậy đường thẳng \\(d:y =  - 3x - 10\\).\nb)    \\(B\\) là giao điểm của đường thẳng \\(y = 2x - 2\\) với trục hoành nên \\(B\\left( {1;0} \\right)\\). Từ đó, ta tìm được \\(d:y =  - 3x + 3\\)."
+    },
+    {
+        "problem": "Một thiết bị tiệt khuẩn y tế bằng năng lượng mặt trời được mua với giá 60 triệu đồng, mỗi năm thiết bị tiệt khuẩn đó đều khấu hao \\(k\\) (triệu đồng) với \\(0 < k < 60\\). Gọi \\(y\\) (triệu đồng) là giá của thiết bị tiệt khuẩn đó sau \\(x\\) năm sử dụng.\na)     Chứng tỏ rẳng \\(y\\) là hàm số bậc nhất của \\(x\\), tức là \\(y = ax + b\\left( {a \\ne 0} \\right)\\).\nb)    Trong Hình 10, tia \\(At\\) là một phần của đường thẳng \\(y = ax + b\\). Tìm \\(a,b\\). Từ đó, cho biết sau 12 năm sử dụng thì giá của thiết bị tiệt khuẩn đó bằng bao nhiêu phần trăm so với giá mua ban đầu.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào đồ thi của hàm số bậc nhất để tính tỉ số phần trăm giữa giá của thiết bị tiệt khuẩn đó sau 12 năm sử dụng và giá mua ban đầu.\nLời giải chi tiết\na)     Công thức biểu thị giá của thiết bị tiệt khuẩn đó sau \\(x\\) năm sử dụng là: \\(y = 60 - kx\\) hay \\(y =  - kx + 60\\). Mà \\(k \\ne 0\\), suy ra \\(y\\) là hàm số bậc nhất của \\(x\\).\nb)    Từ câu a, ta có \\(b = 60\\). Do đường thẳng \\(y = ax + b\\) đi qua điểm \\(B\\left( {10;30} \\right)\\) nên \\(30 = a.10 + 60\\). Suy ra \\(a =  - 3\\). Khi đó, đường thẳng cần tìm là: \\(y =  - 3x + 60\\).\nGiá của thiết bị tiệt khuẩn đó sau 12 năm sử dụng là:\n\\( - 3.12 + 60 = 24\\) (triệu đồng)\nTỉ số phần trăm giữa giá của thiết bị tiệt khuẩn đó sau 12 năm sử dụng và giá mua ban đầu là: \\(\\frac{{24.100}}{{60}}\\%  = 40\\% \\).\nVậy sau 12 năm sử dụng thì giá của thiết bị tiệt khuẩn đó bằng \\(40\\% \\) so với giá mua ban đầu."
+    },
+    {
+        "problem": "Một đội xe chuyển \\(945\\) tấn hàng từ kho tổng về cửa hàng.\nBiết mỗi ngày đội xe đó chuyển được \\(35\\) tấn. Gọi \\(y\\) (tấn) là khối lượng hàng hóa trong kho tổng sau \\(x\\) ngày vận chuyển.\na) Viết công thức tính \\(y\\) theo \\(x\\). Hỏi \\(y\\) có phải hàm số bậc nhất của \\(x\\) hay không?\nb) Đội xe đó cần bao nhiêu ngày để chuyển hết 945 tấn hàng từ kho tổng về cửa hàng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Viết công thức tính \\(y\\) theo \\(x\\). Dựa vào định nghĩa hàm số để trả lời câu hỏi.\nb) Để chuyển hết \\(945\\) tấn hàng thì số hàng còn lại trong kho hàng bằng 0. Tính giá trị của \\(x\\) khi \\(y = 0.\\)\nLời giải chi tiết\na) \\(y = 945 - 35x\\). Vậy \\(y\\) là hàm số của \\(x\\) vì với mỗi giá trị của \\(x\\) chỉ xác định đúng một giá trị của \\(y.\\)\nb) Để chuyển hết \\(945\\) tấn hàng thì số hàng còn lại trong kho hàng bằng 0 hay \\(y = 0\\). Ta được \\(0 = 945 - 35x\\) suy ra \\(x = 27.\\)\nVậy đội xe đó cần 27 ngày để chuyển hết 945 tấn hàng từ kho tổng về cửa hàng."
+    },
+    {
+        "problem": "Cho tam giác \\(GIK\\) như Hình 6.\na)     Xác định tọa độ các điểm \\(G,I,K\\)\nb)    Xác định tọa độ điểm \\(H\\) để tứ giác \\(KOIH\\) là hình vuông\nc)     Ba điểm \\(G,H,K\\) có thẳng hàng hay không? Vì sao?\nd)    Tính tỉ số \\(\\frac{{GH}}{{HK}}\\)\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng cách xác định tọa độ các điểm trên mặt phẳng tọa độ để trả lời các câu hỏi.\nLời giải chi tiết\n\nTa vẽ điểm \\(H\\) như Hình.\na)     \\(G\\left( { - 2;3} \\right),I\\left( {0;2} \\right),K\\left( { - 2;0} \\right)\\)\nb)    \\(H\\left( { - 2;2} \\right)\\)\nc)     Ba điểm \\(G,H,K\\) thẳng hàng vì ba điểm đều thuộc đường thẳng đi qua điểm -2 trên trục \\(Ox\\) và vuông góc với trục \\(Ox\\)\nd)    Ta có: \\(\\frac{{GH}}{{HK}} = \\frac{1}{2}\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(g\\left( x \\right) = 5{x^2} + 7.\\) Bạn Bình nhận định: Luôn tìm được hai số \\(a\\) và \\(b\\) sao cho \\(a < b\\) mà \\(g\\left( a \\right) > g\\left( b \\right).\\) Nhận định của bạn Bình đúng hay sai? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính giá trị tương ứng của \\(g\\left( x \\right)\\) với \\(x =  - 1\\) và \\(x = 0,\\) sau đó trả lời câu hỏi.\nLời giải chi tiết\nNhận định của bạn Bình là đúng do với \\(a =  - 1\\) và \\(b = 0,\\) ta có:\n\\(a < b\\) và \\(g\\left( a \\right) = 12 > g\\left( b \\right) = 7.\\)"
+    },
+    {
+        "problem": "Cho hai hàm số \\(y = x + 5;y =  - x + 1\\).\na)     Vẽ đồ thị của hai hàm số đó trên cùng một mặt phẳng tọa độ.\nb)    Gọi \\(A\\) là giao điểm của hai đường thẳng \\(y = x + 5;y =  - x + 1\\); \\(B,C\\) lần lượt là giao điểm của hai đường thẳng đó với trục \\(Ox\\). Tính diện tích của tam giác \\(ABC\\) (đơn vị đo trên các trục tọa độ là centimet).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vẽ đồ thị của hai hàm số trên cùng một mặt phẳng tọa độ và áp dụng công thức tính diện tích của tam giác để tính diện tích của tam giác  \\(ABC\\) (đơn vị đo trên các trục tọa độ là centimet).\nLời giải chi tiết\nXét đồ thị hàm số \\(y = x + 5\\), ta có:\nChọn \\(x = 0\\) suy ra \\(y = 5\\)\nChọn \\(y = 0\\) suy ra \\(x =  - 5\\)\nVậy đồ thị của hàm số \\(y = x + 5\\) là đường thẳng đi qua hai điểm \\(A\\left( {0;5} \\right),B\\left( { - 5;0} \\right)\\).\nXét đồ thị hàm số \\(y =  - x + 1\\), ta có:\nChọn \\(x = 0\\) suy ra \\(y = 1\\)\nChọn \\(y = 0\\) suy ra \\(x = 1\\).\nVậy đồ thị của hàm số \\(y =  - x + 1\\) là đường thẳng đi qua hai điểm \\(C\\left( {0;1} \\right)\\), \\(D\\left( {1;0} \\right)\\)\nVẽ đồ thị hàm số trên mặt phẳng tọa độ:\n\na)     Gọi \\(H\\) là hình chiếu của \\(E\\) trên trục \\(Ox\\)\n\nTa có: \\(E\\left( { - 2;3} \\right),B\\left( { - 5;0} \\right),C\\left( {1;0} \\right),H\\left( { - 2;0} \\right)\\). Khi đó \\(EH = 3cm\\), \\(BD = 6cm\\)\nVậy diện tích của tam giác \\(EBD\\) là: \\(\\frac{1}{2}.3.6 = 9\\left( {c{m^2}} \\right)\\)."
+    },
+    {
+        "problem": "Cho đường thẳng \\(d:y = \\left( {m - 2} \\right)x + 2\\) với \\(m \\ne 2\\).\na)     Tìm giá trị của \\(m\\) để đường thẳng \\(d\\) cùng với các trục \\(Ox,Oy\\) tạo thành tam giác có diện tích bằng 2.\nb)    Chứng tỏ rằng khi giá trị của \\(m\\) thay đổi thì tập hợp các đường thẳng \\(d\\) luôn đi qua một điểm cố định.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đầu tiên tìm tọa độ giao điểm của đường thẳng \\(d\\) với trục \\(Ox\\) và \\(Oy\\) sau đó áp dụng công thức tính diện tích của tam giác để tìm giá trị của \\(m\\).\nLời giải chi tiết\na)     Với \\(y = 0\\) thì \\(x = \\frac{{ - 2}}{{m - 2}}\\), ta được điểm \\(A\\left( {\\frac{{ - 2}}{{m - 2}};0} \\right)\\) là giao điểm của đường thẳng \\(d\\) với trục \\(Ox\\). Khi đó \\(OA = \\left| {\\frac{{ - 2}}{{m - 2}}} \\right|\\).\nVới \\(x = 0\\) thì \\(y = 2\\), ta được điểm \\(B\\left( {0;2} \\right)\\) là giao điểm của đường thẳng \\(d\\) với trục \\(Oy\\). Khi đó \\(OB = 2\\).\nTa có diện tích của tam giác \\(OAB\\) bằng 2 nên \\(\\frac{1}{2}.OA.OB = 2\\) hay \\(OA.OB = 4\\).\nSuy ra \\(\\left| {\\frac{{ - 2}}{{m - 2}}} \\right|.2 = 4\\) hay \\(\\left| {\\frac{{ - 2}}{{m - 2}}} \\right| = 2\\). Do đó \\(\\frac{{ - 2}}{{m - 2}} = 2\\) hoặc \\(\\frac{{ - 2}}{{m - 2}} =  - 2\\).\nVậy \\(m = 1\\) hoặc \\(m = 3\\) (thỏa mãn) thì đường thẳng \\(d\\) cùng với các trục \\(Ox,Oy\\) tạo thành tam giác có diện tích bằng 2.\nb)    Từ câu a, ta có đường thẳng \\(d\\) luôn đi qua điểm \\(B\\left( {0;2} \\right)\\) với mọi giá trị của \\(m\\). Vậy khi giá trị của \\(m\\) thay đổi thì tập hợp các đường thẳng \\(d\\) luôn đi qua điểm \\(B\\left( {0;2} \\right)\\) cố định."
+    },
+    {
+        "problem": "Những trận động đất ngầm có tâm chấn nằm sâu trong lòng đại dương là một trong những nguyên nhân gây ra sóng thần. Tốc độ sóng thần và chiều sâu đại dương (nơi bắt đầu của sóng thần) liên hệ với nhau bởi hàm số \\(v = \\sqrt {gd} ,\\) trong đó \\(v\\left( {m/s} \\right)\\) là tốc độ sóng thần, \\(g = 9,8\\,m/{s^2},\\,d\\left( m \\right)\\) là chiều sâu đại dương. Biết độ sâu trung bình của Thái Bình Dương là \\(4\\,280\\,m.\\) Tính tốc độ sóng thần xuất phất từ độ sâu trung bình của Thái Bình Dương (làm tròn kết quả đến hàng phần mười).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tốc độ sóng thần xuất phất từ độ sâu trung bình của Thái Bình Dương là là giá trị của \\(v\\) với \\(g = 9,8;\\,d = 4\\,280\\).\nLời giải chi tiết\nThay \\(g = 9,8;\\,d = 4\\,280\\) vào hàm số \\(v = \\sqrt {gd} \\) ta được:\n\\(v = \\sqrt {9,8.\\,4\\,280}  = 204,8.\\)\nTốc độ sóng thần xuất phất từ độ sâu trung bình của Thái Bình Dương là \\(204,8\\,m/s.\\)"
+    },
+    {
+        "problem": "Hiện tại, cô Hạnh đã tiết kiệm được 500 triệu đồng. Để thực hiện dự định mua một căn chung cư có giá trị 2,6 tỉ đồng, cô Hạnh đã lên kế hoạch hằng tháng tiết kiệm 15 triệu đồng. Gọi \\(y\\) (triệu đồng) là số tiền cô Hạnh tiết kiệm được sau \\(x\\) (tháng) kể từ hiện tại.\na)     Viết công thức tính \\(y\\) theo \\(x\\). Hỏi \\(y\\) có phải là hàm số bậc nhất của \\(x\\) hay không?\nb)    Hỏi sau bao lâu kể từ hiện tại thì cô Hạnh có thể mua được căn hộ chung cư đó bằng tiền tiết kiệm?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào đồ thị của hàm số bậc nhất để viết công thức tính \\(y\\) theo \\(x\\).\nLời giải chi tiết\na)     \\(y = 15x + 500\\). Vậy \\(y\\) là hàm số bậc nhất của \\(x\\).\nb)    Mà 140 tháng = 11 năm + 8 tháng, suy ra sau 11 năm 8 tháng kể từ hiện tại thì cô Hạnh có thể mua được căn hộ chung cư đó bằng tiền tiết kiệm."
+    },
+    {
+        "problem": "Một xưởng may sản xuất một lô khẩu trang với tiền vốn dùng cho máy móc thiết bị và vật tư là \\(40\\,000\\,000\\) đồng và giá bán mỗi thùng khẩu trang là \\(1\\,000\\,000\\) đồng.\na) Viết công thức tính lợi nhuận \\(y\\) (đồng) của xưởng may đó khi bán \\(x\\) thùng khẩu trang. Hỏi \\(y\\) có phải là hàm số của \\(x\\) hay không? Vì sao?\nb) Xưởng may cần phải sản xuất bao nhiêu thùng khẩu trang thì thu được số tiền vốn ban đầu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Viết công thức tính lợi nhuận \\(y\\) (đồng) của xưởng may đó khi bán \\(x\\) thùng khẩu trang. Dựa vào định nghĩa hàm số trả lời câu hỏi.\nb) Để thu được số vốn ban đầu, lợi nhuận của công ty đó phải bằng \\(40\\,000\\,000\\) đồng hay \\(y = 40\\,000\\,000.\\)\nTìm giá trị tương ứng của \\(x\\) với \\(y = 40\\,000\\,000.\\)\nLời giải chi tiết\na) Công thức tính lợi nhuận \\(y\\) (đồng) của xưởng may đó khi bán \\(x\\) thùng khẩu trang là: \\(y = 1\\,000\\,000x - 40\\,000\\,000.\\) Vậy \\(y\\) là hàm số của \\(x\\) vì với mỗi giá trị của \\(x\\) chỉ xác định đúng một giá trị của \\(y.\\)\nb) Để thu được số vốn ban đầu, lợi nhuận của công ty đó phải bằng \\(40\\,000\\,000\\) đồng hay \\(y = 40\\,000\\,000.\\)\nThay \\(y = 40\\,000\\,000\\) vào \\(y = 1\\,000\\,000x - 40\\,000\\,000\\) ta được.\n\\(40\\,000\\,000 = 1\\,000\\,000x - 40\\,000\\,000\\) suy ra \\(x = 40.\\)\nVậy xưởng may cần phải sản xuất \\(40\\) thùng khẩu trang thì thu được số tiền vốn ban đầu."
+    },
+    {
+        "problem": "Ảnh hưởng của thời tiết và dịch bệnh là nguyên nhân dẫn đến thu nhập của một hợp tác xã trồng rau bị giảm dần trong năm 2021. Đoạn thẳng \\(AB\\) ở Hình 12 biểu thị số tiền (đơn vị: trăm triệu đồng) mà hợp tác xã đó thu được trong mỗi tháng của năm 2021.\na)     Tính hàm số bậc nhất sao cho đồ thị của hàm số là đường thẳng \\(AB\\).\nb)    Biết cứ mỗi yến rau bán được thì hợp tác xã đó thu được 125 000 đồng. Hỏi hợp tác xã đó đã thu được bao nhiêu tấn rau trong tháng 11/2021 (làm tròn kết quả đến hàng đơn vị)?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào đồ thị của hàm số bậc nhất để tính hàm số bậc nhất sao cho đồ thị của hàm số là đường thẳng \\(AB\\).\nLời giải chi tiết\na)     Gọi hàm số bậc nhất có đồ thị của hàm số là đường thẳng \\(AB\\) có dạng: \\(y = ax + b\\) với \\(a \\ne 0\\).\nDo đường thẳng \\(AB\\) đi qua điểm \\(A\\left( {1;5} \\right)\\) và \\(B\\left( {12;2} \\right)\\) nên ta có: \\(5 = a.1 + b\\) và \\(2 = a.12 + b\\) hay \\(a + b = 5\\) và \\(11a + \\left( {a + b} \\right) = 2\\). Suy ra, \\(a =  - \\frac{3}{{11}}\\) và \\(b = \\frac{{58}}{{11}}\\)\nVậy hàm số bậc nhất có đồ thị của hàm số là đường thẳng \\(AB\\) là: \\(y =  - \\frac{3}{{11}}x + \\frac{{58}}{{11}}\\)\nb)    Hợp tác xã đó đã thu được khoảng 18 tấn rau trong tháng 11/2021"
+    }
+]

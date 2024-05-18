@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "a) Tính độ dài cung \\(60^\\circ \\)  của một đường tròn có bán kính \\(3 dm\\).\nb) Tính chu vi vành xe đạp có đường kính \\(650 mm\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng công thức tính độ dài cung \\(l = \\dfrac{{\\pi Rn}}{{180}}\\)  với \\(n^\\circ \\) là số đo cung và \\(R\\) là bán kính đường tròn.\nb) Chu vi đường tròn có bán kính \\(R\\) là \\(C = 2\\pi R = \\pi d\\) với \\(d = 2R\\) là đường kính của đường tròn.\nLời giải chi tiết\na) Theo công thức \\(l = \\dfrac{{\\pi Rn}}{{180}},\\) ta có \\(n^\\circ  = 60^\\circ ,R = 2dm = 20cm.\\)\nVậy \\(l = \\dfrac{{\\pi Rn}}{{180}} = \\dfrac{{\\pi .20.60}}{{180}} = \\dfrac{{20\\pi }}{3}\\) (cm)\nb) Từ công thức \\(C = \\pi d,\\) ta có \\(d = 650mm = 65cm\\).\nVậy \\(C = \\pi d = 65\\pi \\,\\left( {cm} \\right).\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Máy kéo nông nghiệp có hai bánh sau to hơn hai bánh trước. Khi bơm căng, bánh xe có đường kính là \\(1,672 m\\) và bánh xe trước có đường kính là \\(88 cm\\). Hỏi khi bánh xe sau lăn được \\(10\\) vòng thì bánh xe trước lăn được mấy vòng ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tính chu vi các bánh xe theo công thức: Chu vi đường tròn có bán kính \\(R\\) là \\(C = 2\\pi R = \\pi d\\) với \\(d = 2R\\) là đường kính của đường tròn.\n+ Tính quãng đường ứng với bánh xe sau lăn được \\(10\\) vòng, từ đó tính số vòng bánh xe trước lăn được.\nLời giải chi tiết\nTa gọi \\({d_1} = 88cm = 0,88m;\\) \\({d_2} = 1,672m\\) và \\({C_1};{C_2}\\) lần lượt là độ dài của bánh xe trước và bánh xe sau.\nTheo công thức \\(C = \\pi d\\) ta có : \\({C_1} = 0,88\\pi \\,\\left( m \\right),\\)\\({C_2} = 1,672\\pi \\,\\left( m \\right).\\)\nBánh xe sau lăn được 10 vòng tương ứng với quãng đường là :\n\\({C_2}.10 = 16,72\\pi \\,\\left( m \\right).\\)\nVậy số vòng bánh  xe trước lăn được là: \\(\\dfrac{{{C_2}.10}}{{{C_1}}} = 19\\) ( vòng).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chân một đống cát đổ trên một nền phẳng nằm ngang là một hình tròn có chu vi là \\(12 m\\). Hỏi chân đống cát đó chiếm một diện tích là bao nhiêu mét vuông ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Tính bán kính đường tròn từ công thức chu vi \\(C = 2\\pi R\\)\n+ Tính diện tích hình tròn bán kính \\(R\\) theo công thức \\(S = \\pi {R^2}\\)\nLời giải chi tiết\nTừ công thức \\(C = 2\\pi R\\) \\( \\Rightarrow R = \\dfrac{C}{{2\\pi }} = \\dfrac{6}{\\pi }\\,\\left( m \\right)\\)\nKhi đó, diện tích chân đống cát là \\(S = \\pi {\\left( {\\dfrac{6}{\\pi }} \\right)^2} = \\dfrac{{36}}{\\pi }\\,{m^2}.\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính diện tích một hình quạt tròn có bán kính \\(6 cm\\), số đo cung là \\(36\\)o",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình quạt tròn bán kính \\(R\\), cung \\({n^o}\\) có diện tích \\(S = \\dfrac{{\\pi {R^2}n}}{{360}}\\)\nLời giải chi tiết\nTheo công thức \\(S = \\dfrac{{\\pi {R^2}n}}{{360}}\\), ta có diện tích hình quạt tròn là :\n\\(S = \\dfrac{{\\pi {{.6}^2}.36}}{{360}} = 3,6\\pi \\,\\left( {c{m^2}} \\right).\\)\nLoigiaihay.com"
+    }
+]

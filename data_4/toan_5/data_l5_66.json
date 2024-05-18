@@ -1,0 +1,26 @@
+[
+    {
+        "problem": "Câu 1: Số 248503 được đọc là:\nA.\tHai bốn tám nghìn năm linh ba\nB.\tHai trăm bốn mươi tám nghìn năm trăm linh ba\nC.\tHai triệu bốn mươi tám nghìn năm trăm linh ba\nD.\tHai mươi bốn triệu tám nghìn năm trăm linh ba",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 248503 được đọc là hai trăm bốn mươi tám nghìn năm trăm linh ba."
+    },
+    {
+        "problem": "Câu 4: Giá trị của chữ số 8 trong số 71806 là 8000. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 8 ở vị trí hàng trăm, do đó giá trị của chữ số 8 trong số 71806 là 800.\nVậy khẳng định giá trị của chữ số 8 trong số 71806 là 8000 là sai."
+    },
+    {
+        "problem": "Câu 9: Sắp xếp các số sau theo thứ tự từ bé đến lớn: 2467; 7642; 6247; 4276\nA.\t2467; 6247; 4276; 7642\nB.\t7642; 6247; 4276; 2467 \nC.\t2467; 4276; 7642; 6247 \nD.\t2467; 4276; 6247; 7642",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có các số 2467; 7642 ;6247; 4276 đều có bốn chữ số. Ở hàng phần nghìn ta có 2 < 4 < 6 < 7.\nDo dó: 2467 < 4276 < 6247 < 7642\nVậy dãy các số được sắp xếp theo thứ tự từ bé đến lớn là 2467; 4276; 6247; 7642."
+    },
+    {
+        "problem": "Câu 10: Cho các số sau: 45687; 87465; 56874; 87456. Số lớn nhất trong các số đã cho là:\nA.\t45687\nB.\t87465\nC.\t56874\nD.\t87456",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có các số 45687; 87465; 56874; 87456 đều có năm chữ số.\nỞ hàng phần chục nghìn ta có 4 < 5 < 8 nên hai số 87465; 87456 lớn hơn hai số còn lại.\nXét hai số 87465; 87456 ta có chữ số ở hàng phần chục nghìn cùng là 8, chữ số ở hàng phần nghìn cùng là 7, chữ số ở hàng phần trăm cùng là 4, ở hàng phần trăm chục có 6 > 5.\nDo đó: 87456 < 87465.\nVậy ta có 45687 < 56874 < 87456 < 87465.\nSố lớn nhất trong các số đã cho là 87465."
+    }
+]

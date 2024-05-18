@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Một xạ thủ bắn 200 viên đạn vào một mục tiêu và thấy có 148 viên trúng mục tiêu. Tính xác suất thực nghiệm của sự kiện “Xạ thủ bắn trúng mục tiêu”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Xác suất thực nghiệm của sự kiện “Xạ thủ bắn trúng mục tiêu” bằng\nSố lần bắn trúng : tổng số lần bắn\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện “Xạ thủ bắn trúng mục tiêu” là:\n\\(\\frac{{148}}{{200}} = \\frac{{37}}{{50}}\\)"
+    },
+    {
+        "problem": "Một trò chơi có luật chơi như sau: Ở mỗi ván chơi người chơi gieo một con xúc xắc, nếu xuất hiện mặt 6 chấm thì người chơi thắng cuộc. Bốn người chơi A,B,C,D chơi trò chơi đó. Mỗi người chơi 25 ván. Kết quả số ván thắng của A, B, C, D tương ứng là 4, 5, 4, 3. Hãy tính xác suất thực nghiệm của các sự kiện: “A thắng”, “B thắng”, “C thắng”, “D thắng”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm của sự kiện “ A thắng” bằng\nSố lần A thắng : Tổng số lần A chơi\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện “ A thắng” là: \\(\\frac{4}{{25}} = 16\\% \\)\nXác suất thực nghiệm của sự kiện “ B thắng” là: \\(\\frac{5}{{25}} = \\frac{1}{5} = 20\\% \\)\nXác suất thực nghiệm của sự kiện “ C thắng” là: \\(\\frac{4}{{25}} = 16\\% \\)\nXác suất thực nghiệm của sự kiện “ D thắng” là: \\(\\frac{3}{{25}} = 12\\% \\)"
+    },
+    {
+        "problem": "Nam chơi Sudoku 50 lần thì có 15 lần thắng cuộc. Tính xác suất thực nghiệm của sự kiện “Nam thắng khi chơi Sudoku”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xác suất thực nghiệm của sự kiện “Nam thắng khi chơi Sudoku” bằng\nSố lần Nam thắng : Tổng số lần chơi\nLời giải chi tiết\nXác suất thực nghiệm của sự kiện “Nam thắng khi chơi Sudoku” là:\n\\(\\frac{{15}}{{50}} = \\frac{3}{{10}} = 30\\% \\)"
+    },
+    {
+        "problem": "Trong ngày lễ hội tại địa phương, Linh có chơi trò chơi ném phi tiêu vào một tấm bia có ghi các số 2; 3; 4. Linh ném 30 lần và ghi lại số ở ô mà phi tiêu trúng và được kết quả như sau:\n2;4;4;3;2;2;2;4;3;2;2;4;2;3; 2; 2; 2;3; 3; 2; 2; 4; 4; 3;2;2; 2;4;2;2.\nTính xác suất thực nghiệm của sự kiện “Phi tiêu trúng vào ô ghi số 2”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số lần phi vào ô số 2\nXác suất thực nghiệm của sự kiện “Phi tiêu trúng vào ô ghi số 2” bằng\nSố lần phi tiêu vào ô ghi số 2 :  Tổng số lần phi tiêu\nLời giải chi tiết\nSố lần phi vào ô số 2 là: 17\nXác suất thực nghiệm của sự kiện “Phi tiêu trúng vào ô ghi số 2” là: \\(\\frac{{17}}{{30}} \\approx 56,7\\% \\)"
+    },
+    {
+        "problem": "Em quan tâm đến một số câu hỏi sau. Hãy cho biết bằng cách nào em có thể trả lời được các câu hỏi đó\na)     Năm quốc gia nào có diện tích lớn nhất?\nb)    Hoạt động yêu thích nhất của các bạn trong lớp ở kì nghỉ hè này là gì?\nc)     Trong lớp có bao nhiêu bạn đeo đồng hồ đeo tay đến lớp?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Có nhiều phương pháp thu thập dữ liệu: quan sát, làm thí nghiệm, tra cứu Internet, sách báo, lập bảng hỏi,….\nLời giải chi tiết\na)     Tra cứu Internet\nb)    Lập bảng hỏi hoặc phỏng vấn\nc)     Quan sát"
+    },
+    {
+        "problem": "Em muốn tìm hiểu về đội bóng yêu thích của các bạn trong lớp. Em hãy thiết kế bảng hỏi để thực hiện mong muốn đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phiếu khảo sát cần có đủ mục thông tin cần thu thập\nLời giải chi tiết\nĐội bóng mà bạn yêu thích nhất là:……………………………………………"
+    }
+]

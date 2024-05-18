@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Bài 1: Hình vuông là tứ giác có\nA. Có bốn cạnh bằng nhau\nB. Có bốn góc bằng nhau\nC. Có 4 góc vuong và bốn cạnh bằng nhau\nD. Cả A, B, C đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình vuông là tứ giác có bốn góc vuông và bốn cạnh bằng nhau.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Bài 2: Điền cụm từ thích hợp nhất vào chỗ trống: “Tứ giác có 4 cạnh bằng nhau và 4 góc bằng nhau là …”\nA. Hình vuông\nB. Hình chữ nhật\nC. Hình bình hành\nD. Hình thoi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình vuông là tứ giác có bốn góc vuông và bốn cạnh bằng nhau.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Bài 3: Khẳng định nào sau đây là sai?\nA. Hình vuông vừa là hình thoi vừa là hình chữ nhật\nB. Hình vuông là hình chữ nhật nhưng không là hình thoi\nC. Hình vuông có hai đường chéo bằng nhau và vuông góc với nhau\nD. Hình vuông có đường chéo là phân giác các góc trong hình vuông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình vuông vừa là hình chữ nhật và hình thoi nên nó có đầy đủ tính chất của hình chữ nhật và hình thoi.\nTừ đó A, C, D đúng, B sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 4: Nếu ABCD là hình vuông thì:\nA. AC = BD\nB. AC, BD giao nhau tại trung điểm mỗi đường\nC. AC ⊥ BD\nD. Cả A, B, C đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình vuông có hai đường chéo bằng nhau, vuông góc với nhau và giao nhau tại trung điểm mỗi đường nên ABCD là hình vuông thì AC = BD, AC ⊥ BD, AC và BD giao nhau tại trung điểm mỗi đường.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 7: Chọn câu trả lời đúng. Tứ giác nào có hai đường chéo vuông góc với nhau?\nA. Hình thoi\nB. Hình vuông\nC. Hình chữ nhật\nD. Cả A và B",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\n+ Hình thoi và hình vuông đều có hai đường chéo vuông góc với nhau.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 8: Chọn câu sai. Tứ giác nào có hai đường chéo bằng nhau.\nA. Hình vuông\nB. Hình thang cân\nC. Hình chữ nhật\nD. Hình thoi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nTrong các hình: hình vuông, hình chữ nhật, hình thang cân, hình thoi thì hình thoi là hình có hai đường chéo không bằng nhau.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 11: Cho hình vuông có chu vi 28 cm. Độ dài cạnh hình vuông là:\nA. 4cm\nB. 7 cm\nC. 14 cm\nD. 8 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình vuông có 4 cạnh bằng nhau nên chu vi hình vuông bằng 4a. (a là độ dài một cạnh)\nTừ giả thiết ta có 4a = 28 ⇔ a = 7cm.\nVậy cạnh hình vuông là a = 7cm\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Bài 12: Cho hình vuông có chu vi 32 cm. Độ dài cạnh hình vuông là:\nA. 10cm\nB. 15 cm\nC. 5 cm\nD. 8 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nHình vuông có 4 cạnh bằng nhau nên chu vi hình vuông bằng 4a. (a là độ dài một cạnh)\nTừ giả thiết ta có 4a = 32 ⇔ a = 8cm.\nVậy cạnh hình vuông là a = 8cm\nĐáp án cần chọn là: D"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 1: Trong một hình tròn, đường kính dài gấp 2 lần bán kính. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong một hình tròn, đường kính dài gấp 2 lần bán kính. Vậy phát biểu đã cho là đúng."
+    },
+    {
+        "problem": "Câu 2: Cho hình tròn tâm O có bán kính là r và đương kính d. Công thức tính chu vi hình tròn tâm O là:\nA.\tC = d × 3,14\nB.\tC = r × 2 × 3,14\nC.\tCả A và B đều đúng\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hình tròn tâm O có bán kính là r và đường kính là d thì chu vi hình tròn tâm O là: \nC = d × 3,14 hoặc C = r × 2 × 3,14\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 4: Tính chu vi hình tròn có bán kính là 5cm.\nA.\t1,57cm\nB.\t3,14cm\nC.\t15,7cm \nD.\t31,4cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chu vi hình tròn đó là:\n5 × 2 × 3,14 = 31,4 (cm)"
+    },
+    {
+        "problem": "Câu 6: Đường kính của hình tròn có chu vi C = 15,7cm là:\nA.\t2,5cm\nB.\t3,5cm\nC.\t5cm\nD.\t10cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đường kính của hình tròn đó là:\n15,7 : 3,14 = 5 (cm)\nĐáp số: 5cm."
+    },
+    {
+        "problem": "Câu 9: Đường kính của bánh xe là 7dm. Hỏi bánh xe lăn trên mặt đất được bao nhiêu vòng để đi được quãng đường dài 439,6m?\nA.\t20 vòng\nB.\t100 vòng\nC.\t150 vòng\nD.\t200 vòng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi 439,6m = 4396dm\nChu vi của bánh xe đó là:        \n7 × 3,14 = 21,98 (dm)\nĐể đi được quãng đường dài 439,6m, bánh xe lăn trên mặt đất số vòng là: \n4396 : 21,98 = 200 (vòng)\nĐáp số: 200 vòng"
+    },
+    {
+        "problem": "Câu 12: Vân đi một vòng xung quanh một cái hồ hình tròn và đếm hết 942 bước. Mỗi bước chân của Vân dài 4dm. Hỏi đường kính của hồ bằng bao nhiêu mét? Biết Vân đi sáy mép hồ.\nA.\t12m\nB.\t60m\nC.\t120m\nD.\t600m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Độ dài quãng đường mà Vân đã đi là:  \n4 × 942 = 3768 (dm)\nVậy chu vi của cái hồ đó là 3768dm.\nĐường kính của cái hồ đó là:  \n3768 : 3,14 = 1200 (dm) \n1200dm = 120m\nĐáp số: 120m."
+    }
+]

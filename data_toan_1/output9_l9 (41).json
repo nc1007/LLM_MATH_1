@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Số tự nhiên n có sáu chữ số phân biệt, hai chữ số cạnh nhau luôn là hai số tự nhiên liên tiếp. Hãy tìm số n, biết rằng trong sáu chữ số của nó, chữ số 4 có giá trị bằng 4 000. Em tìm được mấy số như vậy?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sáu chữ số phân biệt là 6 chữ số khác nhau từ 0 đến 9.\nLời giải chi tiết\nGọi số có 6 chữ số phân biệt là \\(\\overline {abcdef} \\).\nChữ số 4 có giá trị bằng 4 000 nên số 4 ở vị trí c. Số cần tìm là \\(\\overline {ab4def} \\)\nVì hai chữ số cạnh nhau luôn là hai số tự nhiên liên tiếp nên số b, 4 và d là 3 số tự nhiên liên tiếp. Do đó, \\(\\overline {b4d} \\) có thể là 345 hoặc 543.\n+ Nếu \\(\\overline {b4d} \\) là 345 thì a=2, e=6, f=7. Ta được n = 234 567.\n+ Nếu \\(\\overline {b4d} \\) là 543 thì a=6, e=2, f=1. Ta được n = 654 321.\nVậy tìm được 2 số là 234 567 và 654 321"
+    },
+    {
+        "problem": "Hai bạn An và Bình mua một số sách. Khi trả tiền, Bình nhận thấy An đưa cho người bán hàng 2 tờ 100 nghìn đồng, 4 tờ 10 nghìn đồng và 6 tờ 1 nghìn đồng. Hãy biểu diễn số tiền sách (đơn vị nghìn đồng ) mà An đã trả dưới dạng tổng giá trị các chữ số của nó rồi so sánh với số tờ tiền mà An dùng để trả và nêu nhận xét.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Số tiền: Lấy số tờ nhân với từng mệnh giá (100 nghìn, 10 nghìn, 6 nghìn) rồi cộng với nhau.\n+ Tính tổng giá trị các chữ số của số tiền mà An đã trả.\n+ Tính số tờ tiền rồi so sánh với tổng các giá trị các chữ số của số tiền.\nLời giải chi tiết\nBiểu diễn số tiền sách dưới dạng tổng các giá trị các chữ số của nó là:\n2. 100 000 + 4. 10 000 + 6. 1 000\nSố tiền sách 2 bạn mua là:\n2. 100 000 + 4. 10 000 + 6. 1 000 = 246 000 (đồng)\nTổng các chữ số của 246 000 là 2+4+6+0+0+0=12\nSố tờ tiền mà An dùng là: 2+4+6=12(tờ)\nNhận xét: Tổng giá trị các chữ số của số tiền và tổng số tờ tiền bằng nhau."
+    },
+    {
+        "problem": "Tính giá trị của các biểu thức sau rồi phân tích kết quả ra thừa số nguyên tố:\na. \\(160 - \\left( {{2^3}{{.5}^2} - 6.25} \\right)\\);\nb. \\(37.3 + 225:{15^2}\\)\nc. \\(5871:103 - 64:{2^5}\\)\nd. \\(\\left( {1 + 2 + 3 + 4 + 5 + 6 + 7 + 8} \\right){.5^2} - 850:2\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính giá trị của biểu thức:\n+ Tính trong ngoặc trước, ngoài ngoặc sau.\n+ Tính lũy thừa trước rồi đến phép nhân phép chia, rồi đến phép cộng, trừ.\nLời giải chi tiết\na. \\(160 - \\left( {{2^3}{{.5}^2} - 6.25} \\right)\\)\n\\(\\begin{array}{l} = 160 - \\left( {8.25 - 6.25} \\right)\\\\ = 160 - 25.\\left( {8 - 6} \\right)\\\\ = 160 - 25.2\\\\ = 160 - 50\\\\ = 110\\end{array}\\)\nTa có: 110 = 2.5.11\nb. \\(37.3 + 225:{15^2}\\)\n\\(\\begin{array}{l} = 37.3 + 225:225\\\\ = 37.3 + 1\\\\ = 111 + 1\\\\ = 112\\end{array}\\)\nTa có: \\(112 = 2^4.7\\)\nc. \\(5871:103 - 64:{2^5}\\)\n\\(\\begin{array}{l} = 5871:103 - 64:32\\\\ = 57 - 2 = 55\\end{array}\\)\nTa có: 55 = 5. 11\nd. \\(\\left( {1 + 2 + 3 + 4 + 5 + 6 + 7 + 8} \\right){.5^2} - 850:2\\)\n\\(\\begin{array}{l} = \\left[ {\\left( {1 + 8} \\right) + \\left( {2 + 7} \\right) + \\left( {3 + 6} \\right) + \\left( {4 + 5} \\right)} \\right]{.5^2} - 850:2\\\\ = \\left( {9 + 9 + 9 + 9} \\right){.5^2} - 850:2\\\\ = {9.4.5^2} - 850:2\\\\ = {36.5^2} - 425\\\\ = {36.5^2} - {5^2}.17\\\\ = {5^2}.\\left( {36 - 17} \\right)\\\\ = {5^2}.19=475\\end{array}\\)\nTa có: \\(475 = 5^2.19\\)"
+    },
+    {
+        "problem": "Một phân xưởng có 30 công nhân. Dự kiến mỗi giờ công nhân làm được 100 sản phẩm. Khi đó phân xưởng sẽ hoàn thành một đơn hàng trong 24 giờ. Hãy viết biểu thức số biểu thị ( không cần tính giá trị biểu thức):\na. Tổng số sản phẩm mà phân xưởng phải hoàn thành theo đơn hàng.\nb. Số sản phẩm mà mỗi công nhân phải làm để hoàn thành đơn hàng.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a. Sản phẩm một đơn hàng bằng số sản phẩm 30 công nhân làm trong 24 giờ\nb. Số sản phẩm mà mỗi công nhân phải làm bằng số sản phẩm mỗi công nhân làm trong 24 giờ.\nLời giải chi tiết\na. Biểu thức số biểu thị tổng số sản phẩm mà phân xưởng phải hoàn thành theo đơn hàng:\n30 x24 x100 sản phẩm\nb. Biểu thức số biểu thị số sản phẩm mà mỗi công nhân phải làm để hoàn thành đơn hàng là:\n24 x 100 sản phẩm.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Khoảng 3 000 người tham gia một lễ kỉ niệm. Nếu họ xếp hàng 7, hàng 8, hàng 9 hay hàng 10 thì đều còn dư ra 6 người. Hỏi chính xác có bao nhiêu người tham gia?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khoảng 3 000 người tham gia một lễ kỉ niệm nên số người tham gia lễ kỉ niệm gần 3000 người.\nXếp người thành hàng 7 dư 6 người có nghĩa là số người trừ đi 6 thì chia hết cho 7.\nLời giải chi tiết\nGọi a là số người tham gia lễ kỉ niệm.\nVì khi họ xếp thành 7,8,9,10 đều dư 6 người nên (a-6 ) là BC (7,8,9,10)\nTa có: BCNN(7,8,9,10) =2520 nên (a - 6) là B ( 2520) và (a-6) bằng khoảng 3000\nTa được (a-6)=2520 \\(\\Rightarrow\\) a=2526.\nVậy số người tham gia lễ kỉ niệm là: 2526 người."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau (tính hợp lí, nếu có thể):\na) \\(\\frac{{ - 3}}{7}.\\frac{2}{5} + \\frac{2}{5}.\\left( { - \\frac{5}{{14}}} \\right) - \\frac{{18}}{{35}}\\)\nb) \\(\\left( {\\frac{2}{3} - \\frac{5}{{11}} + \\frac{1}{4}} \\right):\\left( {1 + \\frac{5}{{12}} - \\frac{7}{{11}}} \\right)\\);\nc) \\(\\left( {13,6 - 37,8} \\right).\\left( { - 3,2} \\right)\\)\nd) \\(\\left( { - 25,4} \\right).\\left( {18,5 + 43,6 - 16,8} \\right):12,7\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng tính chất phân phối của phép nhân đối với phép cộng ( a.b+a.c=a.(b+c))\nb) Thực hiện các phép tính trong ngoặc trước rồi thực hiện phép chia.\nc) Thực hiện phép tính trong ngoặc trước rồi thực hiện phép nhân.\nd) Thự hiện các phép tính trong ngoặc trước rồi thực hiện phép chia.\nLời giải chi tiết\na) \\(\\frac{{ - 3}}{7}.\\frac{2}{5} + \\frac{2}{5}.\\left( { - \\frac{5}{{14}}} \\right) - \\frac{{18}}{{35}}\\)\n\\(\\begin{array}{l} = \\frac{2}{5}.\\left( {\\frac{{ - 3}}{7} + \\frac{{ - 5}}{{14}}} \\right) - \\frac{{18}}{{35}}\\\\ = \\frac{2}{5}.\\left( {\\frac{{ - 6}}{{14}} + \\frac{{ - 5}}{{14}}} \\right) - \\frac{{18}}{{35}}\\\\ = \\frac{2}{5}.\\frac{{ - 11}}{{14}} - \\frac{{18}}{{35}} = \\frac{{ - 11}}{{35}} - \\frac{{18}}{{35}} =  \\frac{{ -29}}{{35}}\\end{array}\\)\nb) \\(\\left( {\\frac{2}{3} - \\frac{5}{{11}} + \\frac{1}{4}} \\right):\\left( {1 + \\frac{5}{{12}} - \\frac{7}{{11}}} \\right)\\)\n\\(\\begin{array}{l} = \\left( {\\frac{{2.11.4}}{{3.11.4}} - \\frac{{5.3.4}}{{11.3.4}} + \\frac{{1.3.11}}{{4.3.11}}} \\right):\\left( {\\frac{11.12}{11.12} + \\frac{{5.11}}{{12.11}} - \\frac{{7.12}}{{11.12}}} \\right)\\\\ = \\left( {\\frac{{88 - 60 + 33}}{{132}}} \\right):\\left( { \\frac{{132+55 - 84}}{{132}}} \\right)\\\\ = \\frac{{61}}{{132}}:\\frac{{103}}{{132}} = \\frac{{61}}{{132}}.\\frac{{132}}{{103}}= \\frac{{61}}{{103}}\\end{array}\\)\nc) \\(\\left( {13,6 - 37,8} \\right).\\left( { - 3,2} \\right)\\)\n\\( = \\left( { - 24,2} \\right).\\left( { - 3,2} \\right) = 77,44\\)\nd) \\(\\left( { - 25,4} \\right).\\left( {18,5 + 43,6 - 16,8} \\right):12,7\\)\n\\(\\begin{array}{l} = \\left( { - 25,4} \\right).\\left( {62,1 - 16,8} \\right):12,7\\\\ = \\left( { - 25,4} \\right).45,3:12,7\\\\ = \\left( { - 25,4} \\right):12,7.45,3\\\\ =  (- 2).45,3 =  - 90,6\\end{array}\\)"
+    },
+    {
+        "problem": "Tính giá trị của các biểu thức sau (tính hợp lí nếu có thể):\na) \\(\\left( {\\frac{7}{3} + 3,5} \\right):\\left( { - \\frac{{25}}{6} + \\frac{{22}}{7}} \\right) + 0,5\\);\nb) \\(\\frac{{38}}{7} + \\left( { - 3,25} \\right) - \\frac{{17}}{7} + 4,55\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Thực hiện phép tính trong ngoặc trước rồi thực hiện phép chia rồi đến phép cộng.\nb) Đưa số thập phân về phân số rồi cộng trừ các phân số.\nLời giải chi tiết\na) \\(\\left( {\\frac{7}{3} + 3,5} \\right):\\left( { - \\frac{{25}}{6} + \\frac{{22}}{7}} \\right) + 0,5\\)\n\\(\\begin{array}{l} = \\left( {\\frac{7}{3} + \\frac{7}{2}} \\right):\\left( { - \\frac{{25}}{6} + \\frac{{22}}{7}} \\right) + \\frac{1}{2}\\\\ = \\frac{{35}}{6}:\\frac{{ - 25.7 + 22.6}}{{6.7}} + \\frac{1}{2}\\\\ = \\frac{{35}}{6}:\\frac{{ - 43}}{{7.6}} + \\frac{1}{2} = \\frac{{35}}{6}.\\frac{{7.6}}{{ - 43}} + \\frac{1}{2}\\\\ = \\frac{{ - 245}}{{43}} + \\frac{1}{2} = \\frac{{ - 245.2 + 43}}{{43.2}} = \\frac{{ - 447}}{{86}}\\end{array}\\)\nb) \\(\\frac{{38}}{7} + \\left( { - 3,25} \\right) - \\frac{{17}}{7} + 4,55\\)\n\\(\\begin{array}{l} = \\left( {\\frac{{38}}{7} - \\frac{{17}}{7}} \\right) + \\left( {4,55 - 3,25} \\right)\\\\ = \\frac{{38 - 17}}{7} + 1,3 = \\frac{{21}}{7} +1,3\\\\ = 3 + 1,3 =  4,3\\end{array}\\)"
+    },
+    {
+        "problem": "Tìm x biết:\na) \\(x:1\\frac{2}{7} =  - 3,5\\)\nb) \\(0,4.x - \\frac{1}{5}.x = \\frac{3}{4}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Chuyển hỗn số thành phân số:  \\(1\\frac{2}{7} = 1 + \\frac{2}{7}\\)\nb) Chuyển 0,4 thành phân số rồi đặt x chung, nhóm các số vế trái vào trong ngoặc.\nLời giải chi tiết\na) \\(1\\frac{2}{7} = 1 + \\frac{2}{7} = \\frac{9}{2}\\)\n\\(\\begin{array}{l}x:1\\frac{2}{7} =  - 3,5\\\\x:\\frac{9}{7} =  - \\frac{7}{2}\\\\x =  - \\frac{7}{2}.\\frac{9}{7}\\\\x =  - \\frac{9}{2}\\end{array}\\)\nb) \\(0,4.x - \\frac{1}{5}.x = \\frac{3}{4}\\)\n\\(\\begin{array}{l}\\frac{2}{5}.x - \\frac{1}{5}.x = \\frac{3}{4}\\\\\\left( {\\frac{2}{5} - \\frac{1}{5}} \\right).x = \\frac{3}{4}\\\\\\frac{1}{5}.x = \\frac{3}{4}\\\\x = \\frac{3}{4}:\\frac{1}{5}\\\\x = \\frac{3}{4}.5\\\\x = \\frac{{15}}{4}\\end{array}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một mảnh đất hình chữ nhật có kích thước 50 m x 30 m. Trên mảnh đất đó, người ta làm 1 lối đi xung quanh rộng 2 m, diện tích còn lại dùng để trồng rau. Hỏi diện tích trồng rau là bao nhiêu mét vuông?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm chiều dài và chiều rộng của khu vực trồng rau: Lấy chiều dài và chiều rộng ban đầu trừ đi 2m.\nDiện tích hình chữ nhật là a.b với a, b lần lượt là chiều dài và chiều rộng của hình chữ nhật.\nLời giải chi tiết\nChiều dài khu vực trồng rau là 50 - 2 = 48 (m).\nChiều rộng khu vực trồng rau là 30 -2 = 28 (m).\nDiện tích trồng rau là:\n48.28=1344(\\({m^2}\\))"
+    },
+    {
+        "problem": "Bốn thửa ruộng thu hoạch được tất cả 10,5 tấn thóc. Số thóc thu hoạch ở ba thửa ruộng đầu lần lượt bằng 0,2; 15%; và \\(\\frac{2}{7}\\) tổng số thóc thu được ở cả bốn thửa ruộng. Tính số thóc thu được ở thửa ruộng thứ tư.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính số phần biểu diễn số thóc ở thửa ruộng thứ 4 (Coi cả 4 thửa ruộng là 1 phần).\n- Số thóc = Số phần  x 10,5\nLời giải chi tiết\nSố phần biểu diễn số thóc thu được ở thửa ruộng thứ 4 là:\n\\(1 - 0,2 - 15\\%  - \\frac{2}{7} = 1 - \\frac{1}{5} - \\frac{3}{{20}} - \\frac{2}{7} = \\frac{{51}}{{140}}\\) (phần)\nSố thóc thu được ở thửa ruộng thứ tư là:\n\\(\\frac{{51}}{{140}}\\).10,5=3,825 (tấn ).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một người bán một tấm vải. Ngày thứ nhất, người đó bán được 25% tấm vải và 15m; ngày thứ hai bán được \\(\\frac{1}{3}\\) số vải còn lại sau ngày thứ nhất và còn lại 28m. Hỏi tấm vải đó dài bao nhiêu mét?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số vải sau 2 ngày bán bằng \\(1 - \\frac{1}{3} = \\frac{2}{3}\\) số vải còn lại sau ngày thứ nhất.\n- Tính số vải còn lại sau ngày thứ nhất.\n- Số vải còn lại sau ngày thứ nhất cộng thêm 15m thì bằng (1-25%) số vải ban đầu.\n- Tính độ dài vải.\nLời giải chi tiết\nSố vải sau 2 ngày bán bằng \\(1 - \\frac{1}{3} = \\frac{2}{3}\\) số vải còn lại sau ngày thứ nhất nên \\(\\frac{2}{3}\\) số vải còn lại sau ngày thứ nhất bằng 28m. Vậy số vải còn lại sau ngày thứ nhất là:\n28:(1-\\(\\frac{1}{3}\\))=42(mét)\nSố vải còn lại sau ngày thứ nhất cộng thêm 15m thì bằng (1-25%) số vải ban đầu. Độ dài tấm vải ban đầu là:\n(42+15):(1-25%)=76 (mét).\nLoigiaihay.com"
+    }
+]

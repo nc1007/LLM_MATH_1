@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Tính hợp lí theo mẫu:\n25. 19 = 25. (20 – 1) = 25. 20 – 25. 1 = 500 – 25 = 475.\na) 45. 29\nb) 47. 98",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tách 1 thừa số thành hiệu của 1 số \"đẹp” (tròn trăm, tròn chục,...) và 1 số khác\nLời giải chi tiết\na) 45. 29 = 45. (30 – 1) = 45. 30 – 45. 1 = 45. (3. 10) – 45 = (45. 3). 10 – 45\n= 135. 10 – 45 = 1 350 – 45 = 1 305.\nb) 47. 98 = 47. (100 – 2) = 47. 100 – 47. 2 = 4 700 – 94 = 4 606\nc) 15. 998 = 15. (1 000 – 2) = 15. 1 000 – 15. 2 = 15 000 – 30 = 14 970."
+    },
+    {
+        "problem": "Tính hợp lí:\na) 5. 11. 18 + 9. 31. 10 + 4. 29. 45;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính giao hoán, kết hợp và phân phối giữa phép nhân và phép cộng\nLời giải chi tiết\na) 5. 11. 18 + 9. 31. 10 + 4. 29. 45\n= (5. 18). 11 + (9. 10). 31 + (2. 2). 29. 45\n= 90. 11 + 90. 31 + (2. 45). (2. 29)\n= 90. 11 + 90. 31 + 90. 58\n= 90. (11 + 31 + 58)\n= 90. 100\n= 9 000\nb) 37. 39 + 78. 14 + 13. 85 + 52. 55\n= 37. 39 + (39. 2). 14 + 13. (5. 17) + (13. 4). (5. 11)\n= 37. 39 + 39. (2. 14) + (13. 5). 17 + (13. 5). (4. 11)\n= 39. 37 + 39. 28 + 65. 17 + 65. 44\n= (39. 37 + 39. 28) + (65. 17 + 65. 44)\n= 39. (37 + 28) + 65. (17 + 44)\n= 39. 65 + 65. 61\n= 65. 39 + 65. 61\n= 65. (39 + 61)\n= 65. 100\n= 6 500\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi chiều rộng của hình chữ nhật là b (cm, b > 0, b ∈ N).\nBiểu diễn diện tích qua chiều rộng và dùng điều kiện a là một số tự nhiên từ 220 đến 228 suy ra b\nLời giải chi tiết\nGiả sử chiều rộng của hình chữ nhật là b (cm, b > 0, b ∈ N).\nDiện tích của hình chữ nhật là: a = 16. b (cm2)\nMà theo đề bài, a là một số tự nhiên từ 220 đến 228 nên 220 ≤ a ≤ 228  hay\n220 ≤ 16b ≤ 228. Do đó: 220 : 16 ≤ b ≤ 228: 16\nPhép chia 220: 16 = 13 (dư 12)\nPhép chia 228: 16 = 14 (dư 4)\nVì b ∈ N nên b = 14 cm.\nVậy chiều rộng của hình chữ nhật là 14cm.\nLời giải hay"
+    },
+    {
+        "problem": "a) Khẩu phần ăn nhẹ bữa chiều của các bé mẫu giáo là một cái bánh. Nếu trường có 537 cháu thì phải mở bao nhiêu hộp bánh, biết rằng mỗi hộp có 16 chiếc bánh;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép chia\na)      Phép chia có dư, cần mở “thương +1“ hộp sữa\nb)      Mua được “thương” quyển vở\nLời giải chi tiết\na) Ta có: 537: 16 = 33 (dư 9). Do vậy phải mở thêm 1 hộp bánh cho 9 bé ăn\nVậy nếu trường có 537 cháu thì phải mở: 33 + 1 = 34 hộp bánh.\nb) Ta có: 300: 17 = 17 (dư 11) nên với 300 nghìn đồng bạn có thể mua được nhiều nhất là 17 quyển vở loại này\nLời giải hay"
+    },
+    {
+        "problem": "Không đặt tính, hãy so sánh:\na) m = 19. 90 và n = 31. 60",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất giao hoán, kết hợp, phân phối giữa phép nhân và phép cộng\nLời giải chi tiết\na)+) m = 19. 90 = 19. (3. 30) = (19. 3). 30\n+) n = 31. 60 = 31. (3. 20) = (20. 3). 31\nVì 19 < 20; 30 < 31 nên (19. 3). 30 < (20. 3). 31 hay m < n.\nVậy m < n.\nb) p = 2 011. 2 019 = 2 011. (2 015 + 4) = 2 011. 2 015 + 2 011. 4\nq = 2 015. 2 015 = (2 011 + 4). 2 015 = 2 011. 2 015 + 4. 2015\n= 2 011. 2 015 + 2 015. 4\nVì 2 011 < 2 015 nên 2 011. 4 < 2 015. 4\nnên 2 011. 2 015 + 2 011. 4 < 2 011. 2 015 + 2 015. 4\nDo đó p < q\nVậy p < q\nLời giải hay"
+    },
+    {
+        "problem": "Áp dụng các tính chất của phép cộng và phép nhân, tính nhanh:\na) (1 989. 1 990 + 3 978): (1 992. 1 991 – 3 984);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)      Biểu diễn trong ngoặc thành tích rồi tiến hành chia\nb)      Phân tích số bị chia xem gấp mấy lần số chia\nLời giải chi tiết\na) (1 989. 1 990 + 3 978): (1 992. 1 991 – 3 984)\n+) 1 989. 1 990 + 3 978 = 1 989. 1 990 + 1 989. 2 = 1 989. (1 990 + 2) = 1 989. 1 992\n+) 1 992. 1 991 – 3 984 = 1 992. 1 991 – 1 992. 2 = 1 992. (1 991 – 2) = 1 992. 1 989\nVậy\n(1 989. 1 990 + 3 978): (1 992. 1 991 – 3 984)\n= (1 989. 1 992): (1 992. 1 989)\n= (1 989: 1 989). (1 992: 1 992)\n= 1. 1\n= 1\nb) (637. 527 – 189): (526. 637 + 448)\n+) 637. 527 – 189 = 637. (526 + 1) – 189 = 637. 526 + 637. 1 – 189\n= 637. 526 + (637 – 189) = 637. 526 + 448\nDo đó: (637. 527 – 189): (526. 637 + 448) = (637. 526 + 448): (637. 526 + 448) = 1.\nLời giải hay"
+    },
+    {
+        "problem": "Không đặt tính, hãy so sánh:\na) a = 53. 571 và b = 57. 531",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Sử dụng tính chất giao hoán, kết hợp, phân phối giữa phép nhân và phép cộng\n+ Nếu a\n+Nếu a<b, c\nLời giải chi tiết\na)\na = 53. 571 = 53. (531 + 40) = 53. 531 + 53. 40 = 53. 531 + 53. (10.4)\n= 53. 531 + (53. 10). 4 = 53. 531 + 530. 4\nb = 57. 531 = (53 + 4). 531 = 531. (53 + 4) = 531. 53 + 531. 4\nVì 530 < 531 nên 530. 4 < 531. 4 do đó 53. 531 + 530. 4 < 531. 53 + 531. 4 hay a < b.\nVậy a < b.\nb)\na = 25. 26 261 = 25. (26 260 + 1) = 25. 26 260 + 25. 1 = 25. (10. 2 626) + 25\n= (25. 10). 2 626 + 25\n= 25. 10. (26. 101) + 25 = 10. 25. 26. 101 + 25;\nb = 26. 25 251 = 26. (25 250 + 1) = 26. 25 250 + 26. 1 = 26. (10. 2 525) + 26\n= 26. 10. 2 525 + 26 = 26. 10. 25. 101 + 26 = 10. 25. 26. 101 + 26;\nVì 25 < 26 nên 10. 25. 26. 101 + 25 < 10. 25. 26. 101 + 26 hay a < b.\nVậy a < b.\nLời giải hay"
+    },
+    {
+        "problem": "Viết gọn các tích sau bằng cách dùng lũy thừa:\na) 2. 2. 2. 2. 2;\nb) 2. 3. 6. 6. 6;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dùng định nghĩa lũy thừa \\(a^n=a.a….a\\) (n thừa số a)\nLời giải chi tiết\na) 2. 2. 2. 2. 2 = \\(2^5\\)\nb) 2. 3. 6. 6. 6 = 6. 6. 6. 6 =\\(6^4\\)\nc) 4. 4. 5. 5. 5 = (4. 4). (5. 5. 5) = \\(4^2.5^3\\)\nLời giải hay"
+    },
+    {
+        "problem": "a) Viết các bình phương của hai mươi số tự nhiên đầu tiên thành một dãy theo thứ tự từ nhỏ đến lớn;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay từng giá trị a vào \\(a^2\\) rồi tính \\(a^2=a.a\\)\nLời giải chi tiết\na)\n1) Với a = 0 thì \\(a^2=0^2=0.0=0\\)\n2) Với a = 1 thì \\(a^2=1^2=1.1=1\\)\n3) Với a = 2 thì \\(a^2=2^2=2.2=4\\)\n4) Với a = 3 thì \\(a^2=3^2=3.3=9\\)\n5) Với a = 4 thì \\(a^2=4^2=4.4=16\\)\n6) Với a = 5 thì \\(a^2=5^2=5.5=25\\)\n7) Với a = 6 thì \\(a^2=6^2=6.6=36\\)\n8) Với a = 7 thì \\(a^2=7^2=7.7=49\\)\n9) Với a = 8 thì \\(a^2=8^2=8.8=64\\)\n10) Với a = 9 thì \\(a^2=9^2=9.9=81\\)\n11) Với a = 10 thì \\(a^2=10^2=10.10=100\\)\n12) Với a = 11 thì \\(a^2=11^2=11.11=121\\)\n13) Với a = 12 thì \\(a^2=12^2=12.12=144\\)\n14) Với a = 13 thì \\(a^2=13^2=13.13=169\\)\n15) Với a = 14 thì \\(a^2=14^2=14.14=196\\)\n16) Với a = 15 thì \\(a^2=15^2=15.15=225\\)\n17) Với a = 16 thì \\(a^2=16^2=16.16=256\\)\n18) Với a = 17 thì \\(a^2=17^2=17.17=289\\)\n19) Với a = 18 thì \\(a^2=18^2=18.18=324\\)\n20) Với a = 19 thì \\(a^2=19^2=19.19=361\\)\nVậy các bình phương của hai mươi số tự nhiên đầu tiên thành một dãy theo thứ tự từ nhỏ đến lớn là: 0; 1; 4; 9; 16; 25; 36; 49; 64; 81; 100; 121; 144; 169; 196; 225; 256; 289; 324; 361.\nb)\n+) 64 = 8. 8 = \\(8^2\\)\n+) 100 = 10. 10 =\\(10^2\\)\n+) 121 = 11. 11 = \\(11^2\\)\n+) 196 = 14. 14 = \\(14^2\\)\n+) 289 = 17. 17 = \\(17^2\\)\nLời giải hay"
+    },
+    {
+        "problem": "a) Tính nhẩm \\(10^n\\) với n ∈ {0; 1; 2; 3; 4; 5}. Phát biểu quy tắc tổng quát tính lũy thừa của 10 với số mũ đã cho;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Quy ước \\(a^0=1\\)\n+ \\(10^n=10.10…..10\\) (n thừa số)\nLời giải chi tiết\nVới n=0 thì \\(10^n=10^0=1\\)\nVới n=1 thì \\(10^n=10^1=10\\)\nVới n=2 thì \\(10^n=10^2=100\\)\nVới n=3 thì \\(10^n=10^3=1 000\\)\nVới n=4 thì \\(10^n=10^4=10 000\\)\nVới n=5 thì \\(10^n=10^5=100 000\\)\nTổng quát:\nLũy thừa của 10 với số mũ n là 10…..0(n chữ số 0)\nb)\n\\(10=10^1; 10 000=10^4; 100 000=10^5; 10 000 000=10^7; 1 tỉ=1 000 000 000=10^9\\).\nLời giải hay"
+    },
+    {
+        "problem": "Tính:\na) \\(2^5\\)\nb) \\(5^2\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+) \\(a^n=a.a….a\\)( n thừa số a)\nLời giải chi tiết\na)\\(2^5= 2.2.2.2.2 = 4.2.2.2 = 8.2.2 = 16.2 = 32\\)\nb) \\(5^2 = 5. 5 = 25\\)\nc) \\(2^4. 3^2.7= (2. 2. 2. 2). (3.3).7 = 16. 9. 7 = 144. 7 = 1 008\\)\nLời giải hay"
+    },
+    {
+        "problem": "Tìm n, biết:\na) \\(5^4= n\\)\nb) \\(n^3 = 125\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ \\(a^x=b^x\\) (a,b,x là số tự nhiên) thì a=b\n+ \\(a^x=a^y\\)(a,x,y là số tự nhiên) thì x=y\nLời giải chi tiết\na) \\(5^4= n\\) nên 5.5.5.5=n. Do đó 625=n\nVậy n = 625.\nb) \\(n^3 = 125 \\)\n\\(n^3= 5.5.5\\)\n\\(n^3=5^3\\)\nn = 5\nVậy n = 5.\nc) \\(11^n= 1331\\)\n\\(11^n=11.11.11\\)\n\\(11^n=11^3\\)\nn=3\nVậy n = 3.\nLời giải hay"
+    },
+    {
+        "problem": "Viết kết quả các phép tính sau dưới dạng một lũy thừa:\na)\\(3.3^4.3^5\\)\nb)\\(7^3:7^2:7\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ \\(x^a. x^b. x^c=x^{a+b+c}\\)\n+ \\(x^a: x^b : x^c=  x^{a-b-c}\\)\n+ \\((x^a)^{b}=x^{a.b}\\)\nLời giải chi tiết\na)\\(3. 3^4.3^5=3^1. 3^4.3^5=3^{1+4+5}=3^{10}\\)\nb) \\(7^3:7^2:7= 7^{3-2-1}=7^0=1\\)\nc) \\((x^4)^3=x^{4.3}=x^{12}\\)"
+    },
+    {
+        "problem": "Kết luận sau đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số chính phương là bình phương của 1 số tự nhiên\n+Dựa vào chữ số tận cùng\nLời giải chi tiết\nCác số tự nhiên có chữ số tận cùng là 0; 1; 2; 3; 4; 5; 6; 7; 8; 9 khi bình phương sẽ có chữ số tận cùng lần lượt là 0; 1; 4; 9; 6; 5; 6; 9; 4; 1. Do đó số chính phương bất kì sẽ có chữ số tận cùng là 0; 1; 4; 5; 6; 9.\nVì vậy kết luận không có số chính phương nào có chữ số hàng đơn vị là 2 là đúng."
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Chữ số tận cùng của \\(47^5\\) là chữ số tận cùng của 7.7.7.7.7\n+ Sử dụng kết quả của bài 1.58, nếu số không có tận cùng là 0;1;4;5;6;9 thì không phải số chính phương\nLời giải chi tiết\n+) Ta có: Chữ số tận cùng của \\(47^5=47.47.47.47.47\\) là chữ số tận cùng của 7.7.7.7.7 là 7\nVì vậy chữ số tận cùng của số \\(47^5\\) là 7.\n+) 2 021 có chữ số tận cùng là 1\nTa có:\n\\(2021^6= 2 021. 2 021. 2 021. 2 021. 2 021. 2 021 \\)có chữ số tận cùng của 1. 1. 1. 1. 1. 1 là 1\nVì vậy chữ số tận cùng của số \\(2021^6 \\) là 1.\nVậy \\(47^5+2021^6\\) có chữ số tận cùng là 7 + 1 = 8.\nMà các số tự nhiên có chữ số tận cùng là 0; 1; 2; 3; 4; 5; 6; 7; 8; 9 khi bình phương sẽ có chữ số tận cùng lần lượt là 0; 1; 4; 9; 6; 5; 6; 9; 4; 1. Do đó số chính phương bất kì sẽ có chữ số tận cùng là 0; 1; 4; 5; 6; 9.\nVậy \\(47^5+2021^6\\) có chữ số tận cùng là 8 thì không phải là số chính phương.\nLời giải hay"
+    },
+    {
+        "problem": "Không tính các lũy thừa, hãy so sánh:\na)\\(27^{11} \\) và \\(81^8\\)\nb)\\(625^5\\) và \\(125^7\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đưa các số cần so sánh về dạng 2 lũy thừa có cùng cơ số hoặc cùng số mũ rồi so sánh\nLời giải chi tiết\na)\\(27^{11} \\) và \\(81^8\\)\nTa có: \\(\\begin{array}{l}{27^{11}} = {({3^3})^{11}} = {3^{3.11}} = {3^{33}};\\\\{81^8} = {({3^4})^8} = {3^{4.8}} = {3^{32}}\\end{array}\\)\nVì 33>32 nên \\(3^{33}>3^{32}\\).\nVậy \\(27^{11} \\) > \\(81^8\\)\nb)\\(625^5\\) và \\(125^7\\)\nTa có: \\(\\begin{array}{l}{625^5} = {({5^4})^5} = {5^{4.5}} = {5^{20}};\\\\{125^7} = {({5^3})^7} = {5^{3.7}} = {5^{21}}\\end{array}\\)\nVì 20 < 21 nên \\({5^{20}} < {5^{21}}\\)\nVậy \\(625^5\\) < \\(125^7\\)\nc) \\(5^{36}\\) và \\(11^{24}\\)\nTa có: \\(\\begin{array}{l}{5^{36}} = {5^{3.12}} = {({5^3})^{12}} = {125^{12}};\\\\{11^{24}} = {11^{2.12}} = {({11^2})^{12}} = {121^{12}}\\end{array}\\)\nVì 125>121 nên \\(125^{12} > 121^{12}\\)\nVậy \\(5^{36}\\) > \\(11^{24}\\)\nLời giải hay"
+    }
+]

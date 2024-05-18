@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Khi được hỏi còn tiền không, Nam hóm hỉnh đáp: \"Trong túi tớ còn âm mười nghìn đồng\".\nEm hiểu câu nói đó của Nam Có nghĩa là gì?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số dương và số âm được dùng để biểu thị các đại lượng đối lập nhau, hoặc có hướng ngược nhau.\nLời giải chi tiết\nTức là trong túi Nam không còn tiền và bạn ấy đang nợ ai đó mười nghìn đồng"
+    },
+    {
+        "problem": "Trên trục số, mỗi điểm sau nằm cách gốc O bao nhiêu đơn vị?\na) Điểm 2,               b) Điểm -4.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát trục số và đếm các khoảng, mỗi khoảng là 1 đơn vị.\nLời giải chi tiết\nĐiểm 2 cách gốc O hai đơn vị.\nĐiểm -4 cách gốc O bốn đơn vị"
+    },
+    {
+        "problem": "Xuất phát từ gốc O, ta sẽ đi đến điểm nào nếu:\na) Di chuyển 5 đơn vị theo chiều dương?\nb) Di chuyển 5 đơn vị theo chiều âm?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Di chuyển theo chiều dương là phía bên phải trục số.\nDi chuyển theo chiều âm là di chuyển về phía bên trái trục số.\nLời giải chi tiết\na) Di chuyển 5 đơn vị theo chiều dương ta sẽ đến điểm 5\nb) Di chuyển 5 đơn vị theo chiều âm ta sẽ đến điểm -5"
+    },
+    {
+        "problem": "Trên trục số các số nguyên âm nằm ở bên trái hay bên phải gốc O? Từ đó em hãy sắp xếp ba số 0, 1 và –1 theo thứ tự từ nhỏ đến lớn.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Trên trục số chiều từ trái sang phải là chiều dương, chiều ngược lại là chiều âm.\n- Cho hai số nguyên a và b. Trên trục số, nếu điểm a nằm bên trái điểm b thì số a nhỏ hơn số b.\nLời giải chi tiết\nTrên trục số các số nguyên âm nằm bên trái gốc O.\nVì -1 < 0 và 0 < 1 nên -1 < 0 < 1\nSắp xếp theo thứ tự từ nhỏ đến lớn: -1; 0; 1."
+    },
+    {
+        "problem": "Quan sát trên trục số (h.3.6), ta thấy:\n3 < 5 nhưng -3 > -5;\n4 > 1 nhưng - 4 < -1.\nTheo em, trong hai số – 12 và -15, số nào lớn hơn?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a < b thì –a > -b.\nLời giải chi tiết\nDo 12 < 15 nên -12 > -15."
+    },
+    {
+        "problem": "1.Sắp xếp các số sau theo thứ tự tăng dần 2, -4; 0; 5; -11; -3; 9.\n2.Trong tập \\({\\rm{\\{ }}x \\in \\mathbb{Z}| - 5 < x \\le 2\\} \\) những số nào lớn hơn – 1?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a, b là hai số nguyên dương và a > b thi –a < - b.\nLời giải chi tiết\n1. Vì 0 < 3 < 4 < 11 nên 0 > -3 > -4 > -11\nMà 0 < 2 < 5 < 9\nTa được: -11 < -4 < -3 < 0 < 2 < 5 < 9\nSắp xếp các số theo thứ tự tăng dần: -11; -4; -3; 0; 2; 5; 9\n2. Ta có: \\({\\rm{\\{ }}x \\in \\mathbb{Z}| - 5 < x \\le 2\\} \\)= \\({\\rm{\\{ }} - 4;\\, - 3\\,;\\, - 2;\\, - 1;\\,\\,0;\\,\\,1;\\,\\,2{\\rm{\\} }}\\)\nTrong đó, những số lớn hơn -1 là: 0; 1; 2"
+    },
+    {
+        "problem": "Một con kiến bò trên sợi dây (giống như một trục số). Nếu nó đi được 4 đơn vị theo chiều dương, ta nói kiến bò được 4 đơn vị; nếu nó đi được 4 đơn vị nhưng theo chiều âm, ta nói kiến bò được – 4 đơn vị.\na) Em hiểu thế nào nếu nói: \"Kiến A bò được 12 đơn vị\" và \"Kiến B bò được -15 đơn vị”?\nb) Từ nhận xét rằng 12 > -15, An kết luận: Kiến A bò được quãng đường dài hơn kiến B.\nEm có đồng ý với An không?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Đọc ví dụ trên đề bài rồi làm tương tự\nb) So sánh quãng đường hai con kiến bò được.\nLời giải chi tiết\na) Kiến A bò được 12 đơn vị tức là kiến bò được 12 đơn vị theo chiều dương\nKiến B bò được -15 đơn vị tức là kiến B bò được 15 đơn vị nhưng theo chiều âm.\nb) Em không đồng ý với An vì theo câu a) hai con kiến bò khác chiều nhau nên ta xét xem quãng đường hai con kiến bò được bao nhiêu rồi kết luận.\nDo 15 > 12 nên kiến B bò được quãng đường dài hơn kiến A.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hãy sử dụng số nguyên âm để diễn tả lại ý nghĩa của các câu sau đây:\na) Độ sâu trung bình của vịnh Thái Lan khoảng 45 m và độ sâu lớn nhất là 80 m dưới mực nước biển\nb) Mùa đông ở Siberia (Nga) dài và khắc nghiệt, với nhiệt độ trung bình tháng 1 là 25°C dưới 0o C\nc) Năm 2012, núi lửa Havre (Bắc New Zealand) phun ra một tro từ độ sâu 700 m dưới mực nước biển.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Độ sâu dưới mực nước biển tức là là độ cao là số nguyên âm\n- Nhiệt độ dưới 0oC kí hiệu bằng số nguyên âm\nLời giải chi tiết\na) Độ cao trung bình của vịnh Thái Lan khoảng - 45m và độ cao lớn nhất là - 80m ;\nb) Mùa đông ở Siberia (Nga) dài và khắc nghiệt với nhiệt độ trung bình tháng 1 là – 25oC\nc) Năm 2012, núi lửa Harve (Bắc New Zealand) phun ra cột tro từ độ cao - 700m .\nLoigiaihay.com"
+    },
+    {
+        "problem": "Em hiểu ý nghĩa của mỗi câu sau như thế nào (diễn tả bằng một câu không sử dụng số km):\na) Khi máy bay ở độ cao 10 000 m, nhiệt độ bên ngoài có thể xuống đến -50°C;\nb) Cá voi xanh có thể lặn được -2 500 m.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Độ sâu dưới mức nước biển kí hiệu bằng số nguyên âm\n- Nhiệt độ dưới 0oC kí hiệu bằng số âm\nLời giải chi tiết\na) Khi máy bay ở độ cao 10 000m, nhiệt độ bên ngoài có thể xuống đến kém hơn 50o C so với 0o C\nb) Cá voi xanh có thể lặn được độ sâu 2 500m dưới mực nước biển.\nLoigiaihay.com"
+    }
+]

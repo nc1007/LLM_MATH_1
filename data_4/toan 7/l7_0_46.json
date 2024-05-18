@@ -1,0 +1,188 @@
+[
+    {
+        "problem": "Câu 1. Biến cố “Nhiệt độ thấp nhất trong năm sau tại Việt Nam là 6^{o} C” là\nA. Biến cố chắc chắn;\nB. Biến cố ngẫu nhiên;\nC. Biến cố không thể;\nD. Các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBiến cố “Nhiệt độ thấp nhất trong năm sau tại Việt Nam là 6^{o} C” là biến cố ngẫu nhiên vì năm sau chưa đến nên chưa thể biết là nó có xảy ra hay không."
+    },
+    {
+        "problem": "Câu 2.Biến cố “Chúng ta có thể quay về quá khứ” là\nA. Biến cố chắc chắn;\nB. Biến cố ngẫu nhiên;\nC. Biến cố không thể;\nD. Các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nBiến “Chúng ta có thể quay về quá khứ” là biến cố không thể vì chúng ta không thể quay ngược thời gian."
+    },
+    {
+        "problem": "Câu 3. Biến cố “Khi gieo ba con xúc xắc thì tổng số chấm xuất hiện trên ba con xúc xắc lớn hơn 2” là \nA. Biến cố chắc chắn;\nB. Biến cố ngẫu nhiên;\nC. Biến cố không thể;\nD. Các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBiến cố “Khi gieo ba con xúc xắc thì tổng số chấm xuất hiện trên ba con xúc xắc lớn hơn 2” là biến cố chắc chắn vì số chấm nhỏ nhất xuất hiện trên mặt xúc xắc là 1.\nDo đó tổng số chấm xuất hiện trên ba con xúc xắc nhỏ nhất bằng 3 tức là luôn lớn hơn 2."
+    },
+    {
+        "problem": "Câu 4. Hai túi I và II chứa các tấm thẻ được ghi số 4; 5; 6; 7. Từ mỗi túi rút ngẫu nhiên một tấm thẻ. Biến cố “Tổng hai số ghi trên hai tấm thẻ nhỏ hơn 8” bằng\nA. 1;\nB. 0; \nC. \\frac{1}{4};\nD. \\frac{1}{6}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBiến cố “Tổng hai số ghi trên hai tấm thẻ nhỏ hơn 8” là biến cố không thể vì tổng hai số ghi trên hai tấm thẻ luôn lớn hơn hoặc bằng 8 vì nếu tấm thẻ ghi số nhỏ nhất trong 2 túi là tấm thẻ ghi số 4 nên nếu rút trúng cả 2 tấm thẻ này thì tổng hai số ghi trên hai tấm thẻ nhỏ nhất bằng 8. Vậy xác suất của biến cố này bằng 0."
+    },
+    {
+        "problem": "Câu 5. Một thùng có 5 quả bóng màu đỏ và 10 quả bóng màu vàng giống nhau. An lấy ngẫu nhiên một quả bóng trong thùng. Xác suất của biến cố “Lấy được quả bóng màu đỏ” bằng \nA. 1;\nB. 0; \nC. \\frac{1}{6};\nD. \\frac{1}{3}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTrong hoạt động lấy ngẫu nhiên một quả bóng trong thùng có 2 kết quả có thể xảy ra là lấy được quả bóng màu đỏ hoặc lấy được quả bóng màu vàng. \nVì tổng số quả bóng là 5 + 10 = 15 (quả bóng), trong đó có 5 quả bóng đỏ nên xác xuất xảy ra của biến cố là 5 : 15 = \\frac{1}{3}."
+    },
+    {
+        "problem": "Câu 6. Một hộp đựng 18 thẻ gồm các thẻ được ghi số từ 1 đến 18. Chọn ngẫu nhiên một thẻ ra từ hộp. Xác suất của biến cố “Số ghi trên thẻ là số có một chữ số” bằng\nA. 1;\nB. 0; \nC. \\frac{1}{6};\nD. \\frac{1}{2}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nVì số ghi trên thẻ từ 1 đến 18 nên số ghi trên thẻ có một chữ số là: 1; 2; 3; 4; 5; 6; 7; 8; 9 tức là có 9 thẻ, số ghi trên thẻ có 2 chữ số là: 10; 11; 12; 13; 14; 15; 16; 17; 18 tức là có 9 thẻ. \nNên khi chọn ngẫu nhiên một thẻ ra từ hộp sẽ có 2 kết quả xảy ra hoặc số ghi trên thẻ lấy ra có một chữ số hoặc số ghi trên thẻ lấy ra có hai chữ số. \nVì các thẻ giống nhau nên mỗi kết quả đều có khả năng xảy ra bằng nhau. Vậy xác suất của biến cố bằng \\frac{1}{2}."
+    },
+    {
+        "problem": "Câu 7. Một hộp đựng 20 quả bóng cùng kích thước, khác nhau về màu sắc trong đó có 4 quả bóng màu xanh, 6 quả bóng màu đỏ, 5 quả bóng màu vàng, 5 quả bóng màu hồng. Lấy ra ngẫu nhiên một quả bóng từ trong hộp. Gọi A là biến cố: “Lấy được quả bóng màu xanh”. Tìm P(A)?\nA. P(A) = 1;\nB. P(A) = 0;\nC. P(A) = \\frac{1}{3};\nD. P(A) = \\frac{1}{5}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nTrong hoạt động trên có 4 kết quả có thể xảy ra đó là ở lần lấy thứ nhất có thể lấy ra quả bóng màu vàng, quả bóng màu xanh, quả bóng màu đỏ hoặc quả bóng màu hồng. \nVì các quả bóng có kích thước giống nhau nên mỗi kết quả đều có khả năng xảy ra bằng nhau. \nTổng số quả bóng là 20 quả trong đó có 4 quả bóng màu xanh do đó xác suất của biến cố đã cho bằng \\frac{4}{20}=\\frac{1}{5}.\nĐáp án D đúng."
+    },
+    {
+        "problem": "Câu 8. Một thùng kín có 20 quả bóng cùng kích thước, một số quả màu xanh, một số quả màu vàng. Bạn An lấy ngẫu nhiên một quả bóng trong thùng. Biết rằng biến cố “Lấy được quả bóng màu vàng” có xác suất bằng \\frac{1}{2}. Hỏi trong thùng chứa bao nhiêu quả bóng màu vàng?\nA. 10;\nB. 20;\nC. 5;\nD. 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì trong thùng chỉ gồm quả bóng màu vàng hoặc màu xanh nên khi lấy ngẫu nhiên một quả bóng trong thùng chỉ có 2 kết quả có thể xảy ra. \nBiến cố “Lấy được quả bóng màu vàng” có xác suất bằng \\frac{1}{2} chứng tỏ mỗi kết quả có khả năng xảy ra như nhau.\nDo đó số quả bóng màu vàng và số quả bóng màu xanh bằng nhau và cùng bằng 20 : 2 = 10 quả.\nĐáp án A đúng."
+    },
+    {
+        "problem": "Câu 9. Một chuyến xe bus có 18 hành khách nữ và 21 hành khách nam. Đến một bến xe có một số hành khách nam xuống xe. Chọn ngẫu nhiên một hành khách còn lại trên xe. Biết rằng xác suất để chọn được hành khách nữ là \\frac{1}{2}. Hỏi có bao nhiêu hành khách nam đã xuống xe?\nA. 0;\nB. 1;\nC. 2; \nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nGọi số hành khách nam đã xuống xe là x (người). \nKhi đó trên xe còn (21 – x) hành khách nam và 18 hành khách nữ. \nXác suất để chọn được hành khách nữ là \\frac{1}{2} nên số hành khách nữ trên xe bằng số hành khách nam còn lại. \nDo đó, 21 – x = 18 suy ra x = 3.\nVậy có 3 hành khách nam đã xuống xe."
+    },
+    {
+        "problem": "Câu 10. Trong lớp 7A tổ 1 có 6 bạn là Hà, Hiền, Minh, Hùng, An, Huy. Chọn ngẫu nhiên 1 bạn trong tổ. Hãy nêu tập hợp các kết quả làm cho biến cố “Tên của bạn được chọn bắt đầu bằng chữ H” xảy ra.\nA. M = {Hà; Hiền; Minh};\nB. M = {Hà; Hiền; Hùng}; \nC. M = {Hà; Hiền; Hùng; Huy};\nD. M = {Hà; Hiền}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nChọn một học sinh có tên bắt đầu bằng chữ H trong tổ 1 lớp 7A có thể xảy ra kết quả là Hà, Hiền, Hùng, Huy.\nDo đó tập hợp những kết quả xảy ra của biến cố là: M = {Hà; Hiền; Hùng; Huy}."
+    },
+    {
+        "problem": "Câu 11. Một hộp có 4 lá thăm được đánh số 2; 4; 6; 8. Lấy ra ngẫu nhiên từ hộp 2 lá thăm. Biến cố “Tổng các số ghi trên hai lá thăm là số chẵn” là \nA. Biến cố chắc chắn;\nB. Biến cố ngẫu nhiên;\nC. Biến cố không thể;\nD. Các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBiến cố “Tổng các số ghi trên hai lá thăm là số chẵn” là biến cố chắc chắn vì tổng của 2 số bất kì trong các số 2; 4; 6; 8 luôn là số chẵn."
+    },
+    {
+        "problem": "Câu 12. Bạn An định gọi điện thoại cho cô giáo để hỏi nội dung bài tập về nhà nhưng quên mất chữ số tận cùng bên phải của số điện thoại. Bạn An chọn ngẫu nhiên 1 số cho chữ số tận cùng đó và thực hiện cuộc gọi. Xác suất của biến cố “An gọi đúng số của cô giáo” bằng:\nA. 0;\nB. 1;\nC. \\frac{1}{10};\nD. \\frac{1}{2}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nDo có 10 chữ số tận cùng bên phải khác nhau là 0; 1; 2; 3; 4; 5; 6; 7; 8; 9 nên xác suất An gọi đúng số của cô giáo là \\frac{1}{10}."
+    },
+    {
+        "problem": "Câu 13. Một hộp chứa 9 viên bi có kích thước và khối lượng như nhau trong đó có 6 viên bi màu xanh, 1 viên bi màu đỏ, 2 viên bi màu vàng. Chọn ngẫu nhiên một viên bi từ trong hộp. Xác suất của biến cố “Viên bi lấy ra có màu xanh” bằng:\nA. 1;\nB. 0;\nC. \\frac{2}{3};\nD. 0,5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nKhi chọn ngẫu nhiên một viên bi từ trong hộp có thể xảy ra 3 kết quả. \nVì các viên bi có khối lượng và kích thước như nhau nên mỗi kết quả đều có khả năng xảy ra bằng nhau. \nCó tổng 9 viên bi trong đó có 6 viên bi màu xanh do đó xác suất của biến cố đã cho là \\frac{6}{9}=\\frac{2}{3}. \nVậy xác suất của biến cố “Viên bi lấy ra có màu xanh” bằng \\frac{2}{3}."
+    },
+    {
+        "problem": "Câu 14. Gieo ngẫu nhiên xúc xắc một lần. Xác suất của biến cố “Mặt xuất hiện của xúc xắc có số chấm là ước của 6” bằng\nA. 0;\nB. 1;\nC.\\frac{1}{3};\nD.\\frac{2}{3}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nKhi gieo xúc xắc có 6 kết quả xảy ra đó là số chấm trên mặt xúc xắc bằng 1; 2; 3; 4; 5; 6. \nTrong 6 kết quả trên có 4 kết quả là ước của 6, đó là 1; 2; 3; 6.\nVì xúc xắc gieo ngẫu nhiên nên mỗi kết quả đều có khả năng xảy ra bằng nhau. \nVậy xác suất của biến cố “Mặt xuất hiện của xúc xắc có số chấm là ước của 6” bằng \\frac{4}{6}=\\frac{2}{3}\nĐáp án đúng là D."
+    },
+    {
+        "problem": "Câu 15. Viết ngẫu nhiên một số tự nhiên có một chữ số. Xác suất của biến cố “Số tự nhiên được viết ra nhỏ hơn 3”.\nA. 1;\nB. 0; \nC. \\frac{3}{10}; \nD. \\frac{2}{10}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCác số tự nhiên có một chữ số là 0; 1; 2; 3; 4; 5; 6; 7; 8; 9.\nCác số tự nhiên nhỏ hơn 3 là 0; 1; 2.\nNhư vậy khi viết ngẫu nhiên một số tự nhiên có một chữ số có 10 kết quả có thể xảy ra. \nTrong đó có 3 kết quả thỏa mãn biến cố “Số tự nhiên được viết ra nhỏ hơn 3” nên xác suất của biến cố “Số tự nhiên được viết ra nhỏ hơn 3” bằng \\frac{3}{10}."
+    },
+    {
+        "problem": "Câu 16. Gieo một con xúc xắc hai lần liên tiếp và quan sát số chấm xuất hiện trong mỗi lần gieo. Biến cố “Tổng số chấm xuất hiện trong hai lần gieo chia hết cho 2” là biến cố gì?\nA. Biến cố ngẫu nhiên; \nB. Biến cố không thể; \nC. Biến cố chắc chắn; \nD. Các đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBiến cố “Tổng số chấm trên hai mặt con xúc xắc chia hết cho 2” là biến cố ngẫu nhiên vì biến cố này không thể biết trước có xảy ra hay không. \nVí dụ: Nếu lần 1 tung được 2 chấm, lần 2 tung được 6 chấm thì tổng 2 lần là 8 chia hết cho 2 và biến cố sẽ xảy ra. Nhưng nếu lần 1 tung được 2 chấm, lần 2 tung được 1 chấm thì tổng 2 lần là 3 không chia hết cho 2 nên biến cố đã cho là ngẫu nhiên."
+    },
+    {
+        "problem": "Câu 17. Mỗi hộp có 52 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, ..., 51, 52; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên một thẻ trong hộp. Xét biến cố “Số xuất hiện trên thẻ được rút ra là số bé hơn 10”. Nêu tập hợp những kết quả xảy ra của biến cố đó.\nA. N = {1; 2; 3; 4; 5; 6; 7; 8; 9; 10};\nB. N = {1; 2; 3; 4; 5; 6; 7; 8; 9};\nC. N = {1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11};\nD. Các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nVì để số xuất hiện trên thẻ được rút ra là số bé hơn 10 nên tập hợp những kết quả xảy ra của biến cố đó là N = {1; 2; 3; 4; 5; 6; 7; 8; 9}."
+    },
+    {
+        "problem": "Câu 18. Chọn ngẫu nhiên một số trong tập hợp {2; 3; 5; 6; 7; 8; 10}. Trong các biến cố sau, biến cố nào là biến cố chắc chắn?\nA. “Số được chọn là số nguyên tố”;\nB. “Số được chọn là số bé hơn 11”;\nC. “Số được chọn là số chính phương”;\nD. “Số được chọn là số chẵn”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBiến cố A và D là biến cố ngẫu nhiên vì nó có thể xảy ra hoặc không xảy ra.\nChẳng hạn, nếu chọn số 3 thì biến cố A xảy ra, biến cố D không xảy ra nhưng nếu chọn số 2 thì biến cố D xảy ra, biến cố A không xảy ra.\nBiến cố C là biến cố không thể vì trong các số 2; 3; 5; 6; 7; 8; 10 không có số nào là số chính phương.\nBiến cố B là biến cố chắc chắn vì các số 2; 3; 5; 6; 7; 8; 10 đều nhỏ hơn 11.\nVậy đáp án đúng là B."
+    },
+    {
+        "problem": "Câu 19. Minh lấy ngẫu nhiên một viên bi trong một túi đựng 5 viên bi trắng và 5 viên bi đen có cùng kích thước. Trong các biến cố sau, biến cố nào là biến cố không thể?\nA. “Minh lấy được viên bi màu trắng”;\nB. “Minh lấy được viên bi màu đen”;\nC. “Minh lấy được viên bi màu trắng hoặc màu đen”;\nD. “Minh lấy được viên bi màu đỏ”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nBiến cố A, B là biến cố ngẫu nhiên vì nó có thể xảy ra hoặc không xảy ra.\nChẳng hạn nếu Minh lấy được viên bi màu trắng thì biến cố A xảy ra, biến cố B không xảy ra, ngược lại nếu Minh lấy được viên bi màu đen thì biến cố B xảy ra, biến cố A không xảy ra.\nBiến cố C là biến cố chắc chắn vì các viên bi trong túi chỉ có màu đen hoặc màu trắng.\nBiến cố D là biến cố không thể vì trong túi không có viên bi nào màu đỏ.\nVậy đáp án đúng là D."
+    },
+    {
+        "problem": "Câu 20. Gieo một con xúc xắc được chế tạo cân đối. Tính xác suất của biến cố sau: A: “Số chấm xuất hiện trên mặt con xúc xắc là 6”\nA. 1;\nB. 0; \nC. \\frac{1}{4};\nD. \\frac{1}{6}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nKhi gieo một con xúc xắc cân đối thì 6 mặt của nó có khả năng xuất hiện bằng nhau nên xác suất xuất hiện của mỗi mặt đều là \\frac{1}{6}.\nDo 6 kết quả đều có khả năng xảy ra bằng nhau nên P(A) = \\frac{1}{6}."
+    },
+    {
+        "problem": "Câu 21. Một tổ học sinh của lớp 7A có 4 bạn nam và 4 bạn nữ. Giáo viên gọi ngẫu nhiên một bạn lên bảng để kiểm tra bài tập. Tìm xác suất biến cố sau: “Bạn được gọi lên là bạn nam”?\nA. 0; \nB. 1;\nC. \\frac{1}{2};\nD. \\frac{1}{3}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTrong hoạt động trên có 2 kết quả có thể xảy ra. \nVì số học sinh nam và số học sinh nữ trong tổ bằng nhau nên mỗi kết quả đều có khả năng xảy ra bằng nhau do đó xác suất của biến cố đã cho bằng \\frac{1}{2}."
+    },
+    {
+        "problem": "Câu 22. Một hộp có 52 chiếc thẻ cùng loại, mỗi thẻ được ghi một trong các số 1, 2, 3, ..., 51, 52; hai thẻ khác nhau thì ghi hai số khác nhau. Rút ngẫu nhiên một thẻ trong hộp. Xét biến cố “Số xuất hiện trên thẻ là số 10”. Xác suất của biến cố trên là:\nA. 1;\nB. 0;\nC. \\frac{1}{10};\nD. \\frac{1}{52}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nHộp có 52 thẻ nên có 52 kết quả xảy ra. Vì các thẻ cùng loại nên mỗi kết quả đều có khả năng xảy ra bằng nhau do đó xác suất của biến cố đã cho bằng \\frac{1}{52}."
+    },
+    {
+        "problem": "Câu 23. Một túi đựng 6 tấm thẻ được ghi các số 6; 8; 10; 12; 14; 16. Xét biến cố “Rút được tấm thẻ chia hết cho 2”. Xác suất của biến cố trên bằng bao nhiêu?\nA. 0;\nB. 1;\nC. 0,5; \nD. Các đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBiến cố “Rút được tấm thẻ chia hết cho 2” là biến cố chắc chắn vì cả 6 tấm thẻ đều ghi các số chia hết cho 2. \nVậy xác suất của biến cố trên là 1."
+    },
+    {
+        "problem": "Câu 24. Trong một ống cắm bút có 1 bút vàng, 1 bút đỏ và 1 bút đen. Lần lượt lấy ra 2 bút từ ống. Gọi A là biến cố: ''Lấy được bút đỏ ở lần thứ nhất''. Hãy nêu tập hợp các kết quả làm cho biến cố A xảy ra.\nA. X = {đỏ - vàng, đỏ - đen};\nB. X = {đỏ - xanh, đỏ - vàng}; \nC. X = {đỏ - hồng, đỏ - đen};\nD. X = {đỏ - vàng, đỏ - đỏ xanh};",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nVì trong ống cắm bút có 1 bút vàng, 1 bút đỏ, 1 bút đen, nên nếu lần thứ nhất lấy bút đỏ thì trong hộp chỉ còn bút vàng và bút đen. Vậy ở lần lấy thứ hai chỉ lấy được hoặc bút vàng hoặc bút đen. \nVậy tập hợp các kết quả làm cho biến cố A xảy ra là X = {đỏ - vàng, đỏ - đen}.\nĐáp án A đúng."
+    },
+    {
+        "problem": "Câu 25. Tung một đồng xu hai lần. Hỏi trong các biến cố sau, biến cố nào là biến cố không thể? Biết rằng hai lần tung đều xuất hiện mặt ngửa.\nA. “Lần tung thứ hai xuất hiện mặt ngửa”;\nB. “Lần tung thứ nhất xuất hiện mặt ngửa”;\nC. “Xuất hiện hai mặt giống nhau trong hai lần tung”;\nD. “Có ít nhất một lần tung xuất hiện mặt sấp”.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nBiến cố A, B là biến cố chắc chắn vì cả 2 lần tung đều xuất hiện mặt ngửa hay lần thứ nhất và lần thứ hai đều tung được mặt ngửa.\nBiến cố C là biến cố chắc chắn vì hai lần tung đều là 2 mặt giống nhau: mặt ngửa.\nBiến cố D là biến cố không thể vì cả 2 lần tung đều xuất hiện mặt ngửa hay cả hai lần tung đều không xuất hiện mặt sấp."
+    },
+    {
+        "problem": "Câu 26. Biến cố “Có sáu cơn bão đổ bộ vào nước ta trong năm tới” là biến cố loại gì?\nA. Biến cố ngẫu nhiên; \nB. Biến cố không thể; \nC. Biến cố chắc chắn; \nD. Các đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBiến cố “Có sáu cơn bão đổ bộ vào nước ta trong năm tới” là biến cố ngẫu nhiên vì năm tới chưa đến nên không thể biết nó có xảy ra không."
+    },
+    {
+        "problem": "Câu 27. Một túi đựng 8 quả cầu được ghi các số 3; 5; 7; 12; 18; 20; 22; 24. Lấy ngẫu nhiên một quả cầu trong túi. Tính xác suất để: “Lấy được quả cầu ghi số chia hết cho 3”.\nA. 1; \nB. 0; \nC. \\frac{1}{2}; \nD. Các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nBiến cố “Lấy được quả cầu chia hết cho 3” xảy ra khi lấy được quả cầu ghi số: 3; 12; 18; 24.\nBiến cố “Lấy được quả cầu không chia hết cho 3” xảy ra khi lấy được quả cầu ghi số: 5; 7; 20; 22.\nNhư vậy biến cố “Lấy được quả cầu chia hết cho 3” và biến cố “Lấy được quả cầu không chia hết cho 3” là cùng khả năng vì có 4 quả cầu ghi số chia hết cho 3 và 4 quả cầu ghi số không chia hết cho 3. Vậy xác suất của biến cố cần tìm là \\frac{1}{2}."
+    },
+    {
+        "problem": "Câu 28. Biến cố không thể là:\nA. biến cố luôn xảy ra; \nB. biến cố không bao giờ xảy ra; \nC. biến cố không thể biết trước nó có xảy ra hay không; \nD. Các đáp án trên đều sai.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nBiến cố không thể là biến cố không bao giờ xảy ra."
+    },
+    {
+        "problem": "Câu 29.Khi gieo một con xúc xắc thì số chấm xuất hiện trên con xúc xắc bé hơn 7 là biến cố gì?\nA. Biến cố ngẫu nhiên; \nB. Biến cố không thể; \nC. Biến cố chắc chắn; \nD. Các đáp án trên đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nSố chấm xuất hiện trên mặt của con xúc xắc là: 1 chấm; 2 chấm; 3 chấm; 4 chấm; 5 chấm; 6 chấm.\nTa thấy số chấm xuất hiện trên mặt con xúc xắc luôn bé hơn 7.\nDo đó, khi gieo một con xúc xắc thì số chấm xuất hiện trên con xúc xắc bé hơn 7 là biến cố chắc chắn vì đây là biến cố luôn xảy ra."
+    },
+    {
+        "problem": "Câu 30. An và Bình mỗi người gieo một con xúc xắc. Tìm xác suất của các biến cố sau: “Tổng số chấm xuất hiện trên hai con xúc xắc lớn hơn 1”.\nA. 1;\nB. 0; \nC. \\frac{1}{6};\nD. \\frac{1}{2}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nSố chấm xuất hiện trên mỗi mặt của con xúc xắc ít nhất là 1.\nSuy ra tổng số chấm xuất hiện trên mỗi mặt của hai mặt của con xúc xắc luôn lớn hơn 1.\nDo đó biến cố “Tổng số chấm xuất hiện trên hai con xúc xắc lớn hơn 1” là biến cố chắc chắn.\nVậy xác suất của biến cố này bằng 1."
+    },
+    {
+        "problem": "Câu 31. Tổ I của lớp 7D có 5 học sinh nữ là: Ánh, Châu, Hương, Hoa, Ngân và 5 học sinh nam là: Bình, Dũng, Hùng, Huy, Việt. Chọn ra ngẫu nhiên một học sinh trong Tổ I của lớp 7D. Xét biến cố “Học sinh được chọn ra là học sinh nữ”. Nêu tập hợp những kết quả xảy ra của biến cố đó.\nA. M = {Ánh, Châu, Dũng, Hoa, Ngân};\nB. M = {Ánh, Huy, Hương, Hoa, Ngân}; \nC. M = {Ánh, Châu, Hương, Dũng, Ngân};\nD. M = {Ánh, Châu, Hương, Hoa, Ngân}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nChọn một học sinh nữ trong tổ I lớp 7D có thể xảy ra kết quả là Ánh, Châu, Hương, Hoa, Ngân. \nDo đó tập hợp những kết quả xảy ra của biến cố là: M = {Ánh, Châu, Hương, Hoa, Ngân}."
+    }
+]

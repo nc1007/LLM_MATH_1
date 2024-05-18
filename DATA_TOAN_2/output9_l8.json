@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Tính khoảng cách x từ đầu thang đến chân tường (Hình 9).\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí Pythagore vào tam giác vuông để tìm x: Trong một tam giác vuông, bình vuông độ dài của cạnh huyền bằng tổng các bình phương độ dài của hai cạnh góc vuông.\nLời giải chi tiết\nÁp dụng định lí Pythagore vào tam giác vuông ta có: \\({x^2} + 1,{5^2} = {9^2}\\) nên \\({x^2} = {9^2} - 1,{5^2} = 78,75\\), do đó \\(x = \\sqrt {78,75} m\\)\nVậy khoảng cách từ đầu thang đến chân tường là \\(x = \\sqrt {78,75} m\\)"
+    },
+    {
+        "problem": "Một hình vuông có cạnh bằng \\(\\sqrt 8 cm\\). Độ dài đường chéo của hình vuông bằng\nA. 4cm.\nB. \\(2\\sqrt 2 cm\\).\nC. 8cm.\nD. \\(\\sqrt 2 cm\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí Pythagore vào tam giác vuông để tính: Trong một tam giác vuông, bình vuông độ dài của cạnh huyền bằng tổng các bình phương độ dài của hai cạnh góc vuông.\nLời giải chi tiết\nĐộ dài đường chéo của hình vuông là: \\(\\sqrt {{{\\left( {\\sqrt 8 } \\right)}^2} + {{\\left( {\\sqrt 8 } \\right)}^2}}  = \\sqrt {8 + 8}  = 4\\left( {cm} \\right)\\)\nChọn A"
+    },
+    {
+        "problem": "Cho hình bình hành ABCD có hai đường chéo cắt nhau tại O. Gọi M và N lần lượt là trung điểm của OB và OD. Chứng minh tứ giác AMCN là hình bình hành.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về tính chất hình bình hành để chứng minh: Hình bình hành có hai đường chéo cắt nhau tại trung điểm của mỗi đường.\n+ Sử dụng kiến thức về dấu hiệu nhận biết hình bình hành để chứng minh: Tứ giác có hai đường chéo cắt nhau tại trung điểm của mỗi đường là hình bình hành.\nLời giải chi tiết\n\nTứ giác ABCD là hình bình hành nên \\(OA = OC\\), \\(OB = OD\\)\nMà: \\(ON = \\frac{1}{2}OD\\) (do N là trung điểm của OD)\n\\(OM = \\frac{1}{2}OB\\) (do M là trung điểm của OB)\nDo đó, \\(OM = ON\\)\nTứ giác AMCN có: \\(OM = ON\\) (cmt), \\(OA = OC\\) (cmt) nên tứ giác AMCN là hình bình hành."
+    },
+    {
+        "problem": "Chứng minh rằng trong một tứ giác, tổng độ dài hai đường chéo lớn hơn nửa chu vi tứ giác đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về đường chéo trong tứ giác: Trong tứ giác, đường chéo là đoạn thẳng nối hai đỉnh đối nhau.\n+ Sử dụng kiến thức về bất đẳng thức trong tam giác để chứng minh: Trong một tam giác, tổng độ dài hai cạnh tam giác lớn hơn độ dài cạnh còn lại.\nLời giải chi tiết\n\nVẽ tứ giác ABCD có I là giao điểm của hai đường chéo AC và BD.\nTheo bất đẳng thức trong tam giác, ta có:\n\\(IA + IB > AB\\), \\(IB + IC > BC\\), \\(IC + ID > CB\\), \\(IA + ID > AD\\)\nDo đó: \\(2\\left( {IA + IB + IC + ID} \\right) > AB + BC + CD + DA\\)\nHay \\(2\\left( {AC + BD} \\right) > AB + BC + CD + DA\\)\nDo đó: \\(AC + BD > \\frac{{AB + BC + CD + DA}}{2}\\) (đpcm)"
+    },
+    {
+        "problem": "Một máy bay đang ở độ cao 5,2km. Khoảng cách từ hình chiếu vuông góc của máy bay xuống mặt đất đến vị trí A của sân bay là 10,2km (Hình 10). Tính khoảng cách từ vị trí máy bay đến vị trí A của sân bay.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí Pythagore vào tam giác vuông để tìm: Trong một tam giác vuông, bình vuông độ dài của cạnh huyền bằng tổng các bình phương độ dài của hai cạnh góc vuông.\nLời giải chi tiết\nGọi khoảng cách từ vị trí máy bay đến vị trí A của sân bay là x \\(\\left( {km,x > 0} \\right)\\)\nÁp dụng định lí Pythagore vào tam giác vuông ta có: \\({x^2} = 5,{2^2} + 10,{2^2} = 131,08\\) nên \\(x = \\sqrt {131,08} km\\)\nVậy khoảng cách từ vị trí máy bay đến vị trí A của sân bay bằng \\(\\sqrt {131,08} km\\)"
+    },
+    {
+        "problem": "Một hình bình hành có thể không có tính chất nào sau đây?\nA. Hai cạnh đối bằng nhau.\nB. Hai cạnh đối song song.\nC. Hai đường chéo cắt nhau tại trung điểm của mỗi đường.\nD. Hai đường chéo bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất của hình bình hành để tìm câu sai: Hình bình hành có:\n+ Các cặp cạnh đối song song và bằng nhau.\n+ Các cặp góc đối bằng nhau.\n+ Hai đường chéo cắt nhau tại trung điểm mỗi đường.\nLời giải chi tiết\nHình bình hành có thể không có tính chất: Hai đường chéo bằng nhau.\nChọn D."
+    },
+    {
+        "problem": "Tính độ dài cạnh chưa biết của các tam giác vuông trong Hình 1\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về định lí Pythagore vào tam giác vuông để tính: Trong một tam giác vuông, bình vuông độ dài của cạnh huyền bằng tổng các bình phương độ dài của hai cạnh góc vuông.\nLời giải chi tiết\nÁp dụng định lí Pythagore vào tam giác vuông ta có:\nHình 1a: \\({x^2} + {5^2} = {8^2}\\) nên \\({x^2} = {8^2} - {5^2} = 39\\) nên \\(x = \\sqrt {39} \\)cm\nHình 1b: \\({x^2} + {37^2} = {40^2}\\) nên \\({x^2} = {40^2} - {37^2} = 231\\) nên \\(x = \\sqrt {231} \\)cm\nHình 1c: \\({x^2} + {7^2} = {16^2}\\) nên \\({x^2} = {16^2} - {7^2} = 207\\) nên \\(x = \\sqrt {207} km\\)"
+    },
+    {
+        "problem": "Tìm số đo các góc chưa biết của các tứ giác trong Hình 2.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về tổng các góc của một tứ giác để tìm số đo góc còn lại: Tổng số đo các góc của một tứ giác bằng 360 độ.\nLời giải chi tiết\nHình 2a: Tam giác ABD và tam giác CBD có: \\(AB = BC,AD = DC,BD\\;chung\\)\nDo đó, \\(\\Delta ABD = \\Delta CBD\\left( {c - c - c} \\right)\\) nên \\(\\widehat A = \\widehat C = {114^0}\\)\nTa có: \\(\\widehat D = {360^0} - \\widehat A - \\widehat {ABC} - \\widehat {BCD} = {360^0} - {114^0} - {88^0} - {114^0} = {44^0}\\)\nHình 2b: Tam giác FEH và tam giác FGH có: \\(FE = FG,EH = GH,FH\\;chung\\)\nDo đó, \\(\\Delta FEH = \\Delta FGH\\left( {c - c - c} \\right)\\) nên \\(\\widehat E = \\widehat G\\)\nTa có: \\(\\widehat E + \\widehat G + \\widehat {GFE} + \\widehat {GHE} = {360^0}\\)\n\\(\\widehat E + \\widehat E = {360^0} - {95^0} - {60^0} = 205\\)\n\\(\\widehat E = {\\frac{{205}}{2}^0}\\) nên \\(\\widehat G = {\\frac{{205}}{2}^0}\\)"
+    },
+    {
+        "problem": "Cho tứ giác EKIT có \\(EK = ET,IK = IT,\\widehat {KET} = {90^0},\\widehat {EKI} = {105^0}\\). Gọi S là giao điểm của hai đường chéo. Tính số đo các góc \\(\\widehat {KIS},\\widehat {SKI}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về đường chéo của tứ giác để tìm số đo góc còn lại: Trong tứ giác, đường chéo là đoạn thẳng nối hai đỉnh đối nhau\nLời giải chi tiết\n\nVì \\(EK = ET\\) nên E thuộc đường trung trực của KT.\nVì \\(IK = IT\\) nên I thuộc đường trung trực của KT.\nDo đó, EI là đường trung trực của KT. Suy ra: \\(EI \\bot KT\\) tại S.\nTam giác EKT có: \\(EK = ET\\), \\(\\widehat {KET} = {90^0}\\) nên tam giác EKT vuông cân tại E. Do đó, ES là đường trung trực đồng thời là đường phân giác. Do đó, \\(\\widehat {KES} = \\frac{1}{2}\\widehat {KET} = {45^0}\\)\nTam giác KEI có: \\(\\widehat {KIE} = {180^0} - \\widehat {EKI} - \\widehat {KES} = {30^0}\\)\nTam giác KIS vuông tại S có: \\(\\widehat {SKI} = {90^0} - \\widehat {KIS} = {90^0} - {30^0} = {60^0}\\)"
+    },
+    {
+        "problem": "Tính chiều cao của hình thang cân ABCD biết rằng cạnh bên \\(BC = 25cm\\) và các cạnh đáy \\(AB = 10cm,CD = 24cm\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về định lí Pythagore vào tam giác vuông để tính: Trong một tam giác vuông, bình vuông độ dài của cạnh huyền bằng tổng các bình phương độ dài của hai cạnh góc vuông.\n+ Sử dụng kiến thức về tính chất hình thang cân để tính: Hình thang cân có hai cạnh bên bằng nhau.\nLời giải chi tiết\n\nKẻ \\(AE \\bot DC,BF \\bot DC\\left( {E,F \\in DC} \\right)\\) nên \\(\\widehat {AED} = \\widehat {AEF} = \\widehat {BFE} = \\widehat {BFC} = {90^0}\\)\nVì ABCD là hình thang cân nên \\(\\widehat D = \\widehat C\\), \\(AD = BC\\)\nTam giác AED và tam giác BFC có:\n\\(\\widehat {AED} = \\widehat {BFC} = {90^0}\\), \\(\\widehat D = \\widehat C\\), \\(AD = BC\\)\nDo đó, \\(\\Delta AED = \\Delta BFC\\left( {ch - gn} \\right)\\). Suy ra \\(DE = CF\\)\nTứ giác ABFE có: AB//EF, AE//BF (cùng vuông góc với DC) nên tứ giác ABFE là hình bình hành. Do đó, \\(AB = FE = 10cm\\)\nSuy ra: \\(DE = FC = \\frac{{DC - EF}}{2} = \\frac{{24 - 10}}{2} = 7\\left( {cm} \\right)\\)\nÁp dụng định lí Pythagore vào tam giác ADE vuông tại E có: \\(A{E^2} = A{D^2} - D{E^2} = {25^2} - {7^2} = 576\\), suy ra \\(AE = 24cm\\)"
+    },
+    {
+        "problem": "Cho hình thang cân ABCD có AB//CD, DB là tia phân giác của góc D, \\(DB \\bot BC\\). Biết \\(AB = 4cm\\). Tính chu vi của hình thang đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức về chu vi hình thang: Chu vi hình thang bằng tổng độ dài hai đáy và hai cạnh bên của hình đó.\n+ Sử dụng kiến thức về tính chất hình thang cân: Hình thang cân có:\nLời giải chi tiết\n\nVì AB//CD nên \\(\\widehat {{B_1}} = \\widehat {{D_2}}\\) (hai góc so le trong).\nVì DB là tia phân giác của góc ADC nên \\(\\widehat {{D_1}} = \\widehat {{D_2}}\\)\nDo đó, \\(\\widehat {{B_1}} = \\widehat {{D_1}}\\) nên tam giác ABD cân tại A, suy ra \\(AD = AB = 4cm\\)\nMà ABCD là hình thang cân nên \\(AD = BC = 4cm\\)\nGọi M là giao điểm của AD và BC.\nTam giác MDC có DB vừa là đường phân giác vừa là đường cao nên tam giác MDC cân tại D nên \\(\\widehat M = \\widehat C\\)\nMà \\(\\widehat C = \\widehat {ADC}\\) (do ABCD là hình thang cân) nên \\(\\widehat C = \\widehat {ADC} = \\widehat M\\). Suy ra, tam giác MDC là tam giác đều.\nSuy ra: \\(DC = MC = 2BC = 8cm\\)\nChu vi hình thang ABCD là: \\(AB + BC + CD + DA = 20cm\\)"
+    },
+    {
+        "problem": "Cho tam giác ABC cân tại A có \\(BC = 6cm\\). Gọi M, N, P lần lượt là trung điểm của AB, AC, BC.\na) Tính độ dài MN. Chứng minh MBCN là hình thang cân.\nb) Gọi K là điểm đối xứng của B qua N. Chứng minh tứ giác ABCK là hình bình hành.\nc) Gọi H là điểm đối xứng của P qua M. Chứng minh AHBP là hình chữ nhật.\nd) Chứng minh AMPN là hình thoi.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng kiến thức: Đoạn thẳng đi qua trung điểm hai cạnh của một tam giác thì song song với cạnh còn lại và có độ dài bằng \\(\\frac{1}{2}\\) cạnh còn lại.\nb) Sử dụng kiến thức về dấu hiệu nhận biết hình bình hành để chứng minh: Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường là hình bình hành.\nc) Sử dụng kiến thức về dấu hiệu nhận biết hình chữ nhật để chứng minh: Hình bình hành có một góc vuông là hình chữ nhật.\nd) Sử dụng kiến thức về dấu hiệu nhận biết hình thoi để chứng minh: Tứ giác có bốn cạnh bằng nhau là hình thoi.\nLời giải chi tiết\nXét bài toán phụ: Cho tam giác ABC có M, N lần lượt là trung điểm của cạnh AB, AC. Lấy P đối xứng với M qua N. Chứng minh rằng MN//BC, \\(MN = \\frac{{BC}}{2}\\)\nChứng minh:\n\nTam giác AMN và tam giác CPN có:\n\\(NA = NC\\left( {gt} \\right),\\widehat {{N_1}} = \\widehat {{N_2}}\\) (hai góc đối đỉnh), \\(NM = NP\\) (gt). Do đó, \\(\\Delta ANM = \\Delta CNP\\left( {c - g - c} \\right)\\)\nSuy ra \\(\\widehat {{A_1}} = \\widehat {{C_1}}\\), mà hai góc này ở vị trí so le trong nên CP//AB hay CP//BM\nLại có: \\(CP = AM = BM\\)\nTứ giác BMPC có: CP//BM, \\(CP = BM\\) nên tứ giác BMPC là hình bình hành. Do đó, MN//BC, \\(MN = \\frac{{BC}}{2}\\)\nGiải bài 15:\n\na) Tam giác ABC có M, N lần lượt là trung điểm của AB, AC nên theo bài toán phụ ta có: \\(MN = \\frac{1}{2}BC = 3cm\\) và MN//BC\nTứ giác MNCB có: MN//BC nên MNCB là hình thang. Mà \\(\\widehat {MBC} = \\widehat {NCB}\\) (do tam giác ABC cân tại A) nên MBCN là hình thang cân\nb) Vì K là điểm đối xứng của B qua N nên N là trung điểm của BK. Mà N là trung điểm của AC (gt)\nDo đó, tứ giác ABCK là hình bình hành.\nc) Vì H là điểm đối xứng của P qua M nên M là trung điểm của HP. Mà M là trung điểm của AB nên tứ giác AHBP là hình bình hành. Lại có \\(\\widehat {APB} = {90^0}\\) (tam giác ABC cân tại A nên AP là đường trung tuyến đồng thời là đường cao). Vậy AHBP là hình chữ nhật.\nd) Vì M, P lần lượt là trung điểm của AB, BC nên theo bài toán phụ ta có: \\(MP = \\frac{1}{2}AC\\)\nVì N, P lần lượt là trung điểm của AC, BC nên theo bài toán phụ ta có: \\(NP = \\frac{1}{2}AB\\)\nLại có: \\(AM = \\frac{1}{2}AB,AN = \\frac{1}{2}AC,AB = AC\\) nên \\(AM = AN = MP = PN\\) nên tứ giác AMPN là hình thoi."
+    },
+    {
+        "problem": "Cho hình bình hành ABCD. Trên đường chéo BD lấy hai điểm M và N sao cho \\(BM = DN\\)\na) Chứng minh rằng tứ giác AMCN là hình bình hành.\nb) Xác định vị trí của điểm M để tia AM cắt BC tại trung điểm của BC.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho hình bình hành ABCD. Trên đường chéo BD lấy hai điểm M và N sao cho \\(BM = DN\\)\na) Chứng minh rằng tứ giác AMCN là hình bình hành.\nb) Xác định vị trí của điểm M để tia AM cắt BC tại trung điểm của BC.\nLời giải chi tiết\n\na) Vì ABCD là hình bình hành nên \\(AB = CD\\), AB//CD. Do đó, \\(\\widehat {MBA} = \\widehat {NDC}\\) (hai góc so le trong)\nTam giác AMB và tam giác CND có:\n\\(AB = CD\\)(cmt), \\(\\widehat {MBA} = \\widehat {NDC}\\), \\(BM = DN\\) (gt)\nDo đó, \\(\\Delta AMB = \\Delta CND\\left( {c - g - c} \\right)\\) nên \\(AM = CN\\)\nChứng minh tương tự ta có: \\(\\Delta AND = \\Delta CMB\\left( {c - g - c} \\right)\\) nên \\(AN = CM\\)\nTứ giác AMCN có: \\(AM = CN\\), \\(AN = CM\\) nên tứ giác AMCN là hình bình hành.\nb) Gọi E là giao điểm của AM và BC, O là giao điểm của AC và BD nên O là trung điểm của AC\nĐể E là trung điểm của của BC thì AE là đường trung tuyến của tam giác ABC.\nLại có BO là trung tuyến của tam giác ABC.\nM là giao điểm của EA và BO nên M là trọng tâm của tam giác ABC. Do đó, \\(MB = \\frac{2}{3}BO\\)\nMà \\(BO = \\frac{1}{2}BD\\) nên \\(MB = \\frac{1}{2}.\\frac{2}{3}BD = \\frac{1}{3}BD\\)\nVậy khi M nằm trên đoạn thẳng BD sao cho \\(MB = \\frac{1}{3}BD\\) thì tia AM cắt BC tại trung điểm của BC."
+    },
+    {
+        "problem": "Cho hình bình hành ABCD có O là giao điểm của hai đường chéo. Lấy các điểm M, N, P, Q lần lượt là trung điểm của AO, BO, CO, DO.\na) Chứng minh tứ giác MNPQ là hình bình hành.\nb) Chứng minh tứ giác ANCQ là hình bình hành.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng kiến thức về dấu hiệu nhận biết hình bình hành để chứng minh: Tứ giác có hai đường chéo cắt nhau tại trung điểm mỗi đường là hình bình hành\nb) Sử dụng kiến thức về dấu hiệu nhận biết hình bình hành để chứng minh: Tứ giác có hai cặp cạnh đối bằng nhau là hình bình hành.\nLời giải chi tiết\n\na) Vì ABCD là hình bình hành nên \\(AO = CO,BO = DO\\), \\(AB = CD,AD = BC\\), AB//CD, AD//BC\nVì M, P lần lượt là trung điểm của AO, CO nên \\(MA = MO = \\frac{1}{2}AO = \\frac{1}{2}CO = OP = PC\\)\nVì N, Q lần lượt là trung điểm của BO, DO nên \\(NB = NO = \\frac{1}{2}BO = \\frac{1}{2}DO = OQ = QD\\)\nTứ giác MNPQ có: \\(MO = OP,NO = OQ\\) nên tứ giác MNPQ là hình bình hành.\nb) Vì AB//CD nên \\(\\widehat {ABN} = \\widehat {QDC}\\) (hai góc so le trong)\nTam giác ABN và tam giác CDQ có:\n\\(AB = CD\\left( {cmt} \\right),\\widehat {ABN} = \\widehat {QDC}\\left( {cmt} \\right),NB = DQ\\left( {cmt} \\right)\\)\nDo đó, \\(\\Delta ABN = \\Delta CDQ\\left( {c - g - c} \\right)\\) nên \\(AN = CQ\\)\nVì AD//CB nên \\(\\widehat {QDA} = \\widehat {NBC}\\) (hai góc so le trong)\nTam giác ADQ và tam giác CBN có:\n\\(AD = CB\\left( {cmt} \\right),\\widehat {QDA} = \\widehat {NBC}\\left( {cmt} \\right),DQ = NB\\left( {cmt} \\right)\\)\nDo đó, \\(\\Delta ADQ = \\Delta CBN\\left( {c - g - c} \\right)\\) nên \\(AQ = CN\\)\nTứ giác ANCQ có: \\(AN = CQ\\), \\(AQ = CN\\) nên tứ giác ANCQ là hình bình hành."
+    },
+    {
+        "problem": "Cho hình chữ nhật ABCD có \\(AB = 2BC\\). Gọi I là trung điểm của AB và K là trung điểm của CD. Chứng minh:\na) AIKD và BIKC là hình vuông.\nb) \\(IK = \\frac{{DC}}{2}\\) và \\(\\widehat {DIC} = {90^0}\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Sử dụng kiến thức về dấu hiệu nhận biết hình vuông để chứng minh: Hình thoi có một góc vuông là hình vuông.\nb) Sử dụng kiến thức về tính chất của hình vuông để chứng minh: Trong hình vuông:\n+ Các đường chéo là các đường phân giác của các góc hình vuông\n+ Có 4 góc vuông.\nLời giải chi tiết\n\n\na) Vì I là trung điểm của AB nên \\(AI = IB = \\frac{1}{2}AB\\)\nVì K là trung điểm của CD nên \\(DK = CK = \\frac{1}{2}DC\\)\nVì ABCD là hình chữ nhật nên AB//CD, \\(AB = CD\\), \\(AD = BC\\)\nDo đó, \\(IA = IB = DK = CK\\)\nMà \\(AB = 2BC\\) nên \\(IA = IB = DK = CK = AD = BC\\)\nTứ giác AIKD có: \\(DK = AI\\), AI//DK nên AIKD là hình bình hành. Mà \\(IA = AD\\) nên AIKD là hình thoi. Lại có \\(\\widehat A = {90^0}\\) nên AIKD là hình vuông.\nTứ giác BIKC có: \\(IB = KC\\), BI//CK nên BIKC là hình bình hành. Mà \\(IB = BC\\) nên BIKC là hình thoi. Lại có \\(\\widehat B = {90^0}\\) nên BIKC là hình vuông.\nb) Vì AIKD là hình vuông nên \\(IK = DK = \\frac{{DC}}{2}\\) và \\(\\widehat {IDC} = \\frac{1}{2}\\widehat {ADC} = {45^0}\\)\nVì BIKC là hình vuông nên \\(\\widehat {DCI} = \\frac{1}{2}\\widehat {DCB} = {45^0}\\)\nTam giác DIC có: \\(\\widehat {DIC} = {180^0} - \\widehat {DCI} - \\widehat {CDI} = {90^0}\\)"
+    },
+    {
+        "problem": "Cho hình bình hành ABCD. Gọi DE, BK lần lượt là đường phân giác của hai góc \\(\\widehat {ADB},\\widehat {DBC}\\left( {E \\in AB,K \\in CD} \\right)\\)\na) Chứng minh DE//BK.\nb) Giả sử \\(DE \\bot AB\\). Chứng minh \\(DA = DB\\).\nc) Trong trường hợp \\(DE \\bot AB\\), tìm số đo của \\(\\widehat {ADB}\\) để tứ giác DEBK là hình vuông.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho hình bình hành ABCD. Gọi DE, BK lần lượt là đường phân giác của hai góc \\(\\widehat {ADB},\\widehat {DBC}\\left( {E \\in AB,K \\in CD} \\right)\\)\na) Chứng minh DE//BK.\nb) Giả sử \\(DE \\bot AB\\). Chứng minh \\(DA = DB\\).\nc) Trong trường hợp \\(DE \\bot AB\\), tìm số đo của \\(\\widehat {ADB}\\) để tứ giác DEBK là hình vuông.\nLời giải chi tiết\n\na) Vì ABCD là hình bình hành nên AD//BC. Suy ra \\(\\widehat {ADB} = \\widehat {DBC}\\) (hai góc so le trong)\nDo đó: \\(\\frac{{\\widehat {ADB}}}{2} = \\frac{{\\widehat {DBC}}}{2}\\), suy ra \\(\\widehat {EDB} = \\widehat {KBD}\\)\nMà hai góc này ở vị trí so le trong nên DE//BK.\nb) Tam giác DAB có DE vừa là đường cao đồng thời là phân giác nên tam giác DAB cân tại D. Do đó, \\(DA = DB\\)\nc) Tứ giác DEBK có: DE//BK, EB//DK nên tứ giác DEBK là hình bình hành. Mà \\(\\widehat {DEB} = {90^0}\\) nên DEBK là hình chữ nhật.\nĐể hình chữ nhật DEBK là hình vuông thì \\(DE = EB\\)\nMà tam giác DAB cân tại D nên DE là trung tuyến của tam giác DAB.\nSuy ra: \\(DE = EB = AE = \\frac{{AB}}{2}\\), do đó tam giác DAB vuông tại D hay \\(\\widehat {ADB} = {90^0}\\)"
+    }
+]

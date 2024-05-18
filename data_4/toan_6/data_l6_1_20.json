@@ -1,0 +1,200 @@
+[
+    {
+        "problem": "A. 49cm\nB. 28cm^{2} \nC. 49cm^{2} \nD. 112cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Ta có cạnh AB = BC = CD = DA = 28 : 4 = 7 cm.- Diện tích hình vuông ABCD = 7 .7 = 49 cm^{2} .\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Một hồ nước hình vuông cạnh 30 m. Tính chu vi hồ nước đó.\nA. 120 m\nB. 60 m\nC. 120 dm\nD. 900 m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChu vi hồ nước là:\n30 . 4 = 120 (m)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Cần bao nhiêu viên gạch hình vuông cạnh 50 cm để lát kín căn phòng có nền là hình vuông có cạnh 12 m?\nA. 240 viên\nB. 144 viên\nC. 24 viên\nD. 576 viên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 50 cm = 0,5 m.\nDiện tích một viên gạch là: 0,5.0,5 = 0,25(m^{2} )\nDiện tích căn phòng là: 12.12 = 144(m^{2} )\nSố viên gạch để lát kín căn phòng là: 144:0,25 = 576 (viên)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6. Chu vi và diện tích hình vuông có cạnh là 7 cm lần lượt là\nA. 28cm;  49cm\nB. 28cm^{2} ; 49cm\nC. 49cm; 28cm^{2} \nD. 28cm; 49cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChu vi hình vuông là: 4.7 = 28 (cm)\nDiện tích hình vuông là: 7^{2 } = 49(cm^{2} )\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 9. Một thửa ruộng hình chữ nhật có chu vi 200 m. Chiều dài hình chữ nhật hơn hai lần chiều rộng là 10m. Tính diện tích hình chữ nhật đó.\nA. 1200 m^{2} \nB. 2100 m^{2} \nC. 200 m^{2} \nD. 100 m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNửa chu vi thửa ruộng là:\n200 : 2 = 100 (m)\nChiều rộng của thửa ruộng là:\n(100 - 10) : 3 = 30 (m)\nChiều dài của thửa ruộng là:\n100 - 30 = 70 (m)\nDiện tích hình chữ nhật là:\n70 . 30 = 2100 (m^{2} )\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 11. Diện tích hình chữ nhật ABCD có chiều dài AB là 15cm và chiều rộng BD là 8cm là:\nA. 23cm^{2} \nB. 46cm^{2} \nC. 120cm^{2} \nD. 120cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích hình chữ nhật ABCD là: 15.8 = 120(cm^{2} ).\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12. Chu vi và diện tích của hình chữ nhật có chiều rộng bằng 15cm và nửa chu vi bằng 40cm?\nA. 80 dm và 600 dm^{2} \nB. 80 dm và 375 dm^{2} \nC. 40 dm và 375 dm^{2} \nD. 80 cm và 375cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChu vi của hình chữ nhật là:\n40.2 = 80(cm)\nChiều dài của hình chữ nhật là:\n40 – 15 = 25(cm)\nDiện tích của hình chữ nhật là:\n15.25 = 375(cm^{2} )\nVậy chu vi và diện tích hình chữ nhật lần lượt là: 80 cm và 375cm^{2} \nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 13. Một miếng bìa hình chữ nhật có chu vi 96 cm, nếu giảm chiều dài 13 cm và giảm chiều rộng 5 cm thì được một hình vuông. Hỏi miếng bìa hình chữ nhật đó có diện tích bằng bao nhiêu?\nA. 560cm^{2} \nB. 560dm^{2} \nC. 56dm\nD. 65cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nMiếng bìa hình chữ nhật có chiều dài hơn chiều rộng là:\n13 – 5 = 8 (cm)\nNửa chu vi hình chữ nhật:\n96 : 2 = 48 (cm)\nChiều rộng hình chữ nhật là:\n(48 – 8) : 2 = 20 (cm)\nChiều dài hình chữ nhật là:\n20 + 8 = 28 (cm)\nDiện tích miếng bìa hình chữ nhật là:\n28 . 20 = 560 (cm^{2} )\nĐáp số: 560 (cm^{2} )\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 14. Diện tích của một hình chữ nhật có chiều rộng 26 cm và có chu vi gấp 3 lần chiều dài là:\nA. 2028cm\nB. 1352cm\nC. 2028cm^{2} \nD. 1352cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTheo đề bài:\nChu vi = 3. chiều dài\n=> Chu vi = 2. chiều dài + chiều dài.\nMà: Chu vi = 2. chiều dài + 2. chiều rộng\n=> Chiều dài = 2. chiều rộng.\nSuy ra chiều dài hình chữ nhật là: 2. 26 = 52 cm.\nDiện tích hình chữ nhật là: 52 . 26 = 1352 (cm^{2} ).\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 16. Tìm chu vi hình tam giác ABC có ba cạnh bằng nhau, biết cạnh AC = 5 cm.\nA. 15 dm\nB. 10 cm\nC. 15 cm\nD. 20 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDo hình tam giác ABC có bốn cạnh bằng nhau và AC = 5 cm nên :\nChu vi tam giác ABC là: 5 + 5 + 5 = 15(cm)\nCách khác:\nChu vi tam giác ABC là: 5.3 = 15 (cm).\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 17. Tìm chu vi hình tứ giác MNPQ có bốn cạnh bằng nhau, biết cạnh MN = 4cm.\nA. 16 dm\nB. 16 mm\nC. 12 cm\nD. 16 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDo hình tứ giác MNPQ có bốn cạnh bằng nhau và MN = 4cm nên :\nChu vi tứ giác MNPQ là: 4 + 4 + 4 + 4 = 16 (cm)\nCách khác:\nChu vi tứ giác MNPQ là: 4.4 = 16 (cm)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 19.\nCho chu vi tứ giác ACDE bằng 45 cm, chu vi tam giác ABC bằng 32 cm, AC = 10 cm. Khi đó chu vi hình ABCDE là:\nA. 77 cm\nB. 67 cm\nC. 57 cm\nD. 87 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTổng chu vi tứ giác ACDE và tam giác ABC là:\n45 + 32 = 77 (cm)\nTrong tổng trên cạnh AC đã được tính hai lần, mà hình ABCDE không chứa cạnh AC nên:\nChu vi hình ABCDE là: 77 − 2.10 = 57 (cm)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 20. Cho tam giác ABC có độ dài cạnh AB bằng 12 cm.Tổng độ dài hai cạnh BC và CA hơn độ dài cạnh AB là 7cm, chu vi tam giác ABC bằng:\nA. 19 cm\nB. 31 cm\nC. 17 cm\nD. 31 dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Tổng độ dài hai cạnh BC và CA bằng:\n12 + 7 = 19 (cm)\n- Chu vi tam giác ABC:\n12 + 19 = 31 (cm)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2.Chu vi và diện tích của một số hình trong thực tiễn (tiếp) \n Câu 1. Diện tích hình thang sau bằng:\nA. 49cm\nB. 49cm^{2} \nC. 98cm^{2} \nD. 98c",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích hình thang đã cho là: \\frac{5+9.7}{2}=49cm2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 2. Một hình thang có diện tích 20 m^{2} , đáy lớn 55dm và đáy bé 45dm. Tính chiều cao của hình thang?\nA. 2 dm\nB. 4 dm\nC. 40 dm\nD. 20 dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 20m^{2 } = 2000dm^{2} \nChiều cao của hình thang là:\n2.2000:(55 + 45) = 40(dm)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 3. Tính trung bình cộng hai đáy của một hình thang, biết rằng diện tích hình thang bằng 7m^{2}  và chiều cao bằng 2m.\nA. 3,5 m\nB. 7 m\nC. 14 m\nD. 9 m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrung bình cộng hai đáy của hình thang là: 7:2 = 3,5 (m)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Một thửa ruộng hình thang có đáy bé 26m, đáy lớn hơn đáy bé 8m, đáy bé hơn chiều cao 6m. Trung bình cứ 100m^{2}  thu hoạch được 70,5kg thóc. Hỏi thu hoạch được bao nhiêu ki-lô-gam thóc trên thửa ruộng đó?\nA. 423 kg\nB. 600 kg\nC. 432 kg\nD. 141 kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐáy lớn của thửa ruộng hình thang là:\n26 + 8 = 34 (m)\nChiều cao của thửa ruộng hình thang là:\n26 – 6 = 20 (m)\nDiện tích thửa ruộng hình thang là:\n\\frac{34+26.20}{2}=600m2\n600m^{2}  gấp 6 lần 100m^{2} \nSố ki-lô-gam thóc thu hoạch được trên thửa ruộng đó:\n6 . 70,5 = 423 (kg)\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Cho hình thang có độ dài hai cạnh bên là 5 cm và 7 cm, đáy lớn gấp đôi đáy nhỏ, biết độ dài đáy nhỏ là 6 cm. Chu vi hình thang là:\nA. 36 cm\nB. 18 cm\nC. 30 cm\nD. 24 cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐộ dài đáy lớn là: 6.2 = 12 (cm)\nChu vi hình thang là: 5 + 7 + 6 + 12 = 30 (cm)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Diện tích hình thoi có độ dài hai đường chéo là 15cm và 6cm là:\nA. 90 cm^{2} \nB. 45 dm^{2} \nC. 45 cm^{2} \nD. 50 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích hình thoi là: \\frac{15.6}{2}=45cm2\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Nếu hình thoi có độ dài 1 cạnh là a thì:\nA. Chu vi của hình thoi là 4a\nB. Chu vi của hình thoi là 6a\nC. Chu vi của hình thoi là a^{2} \nD. Chu vi của hình thoi là a + b + c trong đó b và c là độ dài hai đường chéo.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNếu hình thoi có độ dài 1 cạnh là a thì chu vi của hình thoi là 4a.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Một mảnh đất dạng hình thoi có độ dài đường chéo bé là 24m, độ dài đường chéo lớn gấp hai lần đường chéo bé. Diện tích của mảnh đất đó là:\nA. 576 m^{2} \nB. 144 m^{2} \nC. 1152 m^{2} \nD. 288 m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Độ dài đường chéo lớn là: 24.2 = 48(m)\n=> Diện tích hình thoi là: \\frac{24.48}{2}=576m2\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 9. Tính diện tích của hình thoi có tổng độ dài hai đường chéo là 30cm và đường chéo lớn hơn đường chéo bé 2cm.\nA. 110 cm^{2} \nB. 112 cm^{2} \nC. 111 cm^{2} \nD. 114 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐộ dài đường chéo lớn là: (30 + 2):2 = 16(cm)\nĐộ dài đường chéo bé là: 30 – 16 = 14(cm)\nDiện tích hình thoi là: \\frac{16.14}{2}=112cm2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Hình thoi A có độ dài hai đường chéo gấp đôi độ dài hai đường chéo của hình thoi B. Hỏi hình thoi A có diện tích gấp mấy lần diện tích hình thoi B?\nA. 2 lần\nB. 3 lần\nC. 4 lần\nD. 6 lần",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi độ dài hai đường chéo của hình thoi B lần lượt là m, n.\n=> Độ dài hai đường chéo của hình thoi A lần lượt là 2m, 2n.\nDiện tích của hình thoi A là: \\frac{2m.2n}{2}=2mn\nDiện tích của hình thoi B là: \\frac{m.n}{2}\nVậy hình thoi A có diện tích gấp 4 lần diện tích hình thoi B.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 11. Một hình thoi có diện tích 12dm^{2} , độ dài một đường chéo là 3dm. Tính độ dài đường chéo thứ 2.\nA. 2 dm\nB. 4 dm\nC. 8 dm\nD. 10 dm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐộ dài đường chéo thứ 2 là: 2.12:3 = 8(dm)\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 12. Một khu đất hình thoi có độ dài cạnh là 12 m. Người ta định xây tường rào xung quanh và bớt lại cửa ra vào rộng 1,5m. Hỏi người ta cần xây bao nhiêu mét tường rào?\nA. 10,5 m\nB. 21 m\nC. 13, 5m\nD. 46, 5m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Chu vi hình thoi là: 12.4 = 48(m)\n- Số mét tường phải xây là: 48 − 1,5 = 46,5(m)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 13. Cho hình bình hành có diện tích là 312 m^{2} , độ dài đáy là 24 m, chiều cao hình bình hành đó là:\nA. 17m\nB. 30m\nC. 37m\nD. 13m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHình bình hành đã cho có diện tích là 312 m^{2}  và độ dài đáy là 24 m nên:\nChiều cao hình bình hành là: 312 : 24 = 13 (m)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14. Cho hình bình hành có diện tích là 312 m^{2} , độ dài đáy là 24 m, chiều cao hình bình hành đó là:\nA. 17m\nB. 30m\nC. 37m\nD. 13m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHình bình hành đã cho có diện tích là 312 m^{2}  và độ dài đáy là 24 m nên:\nChiều cao hình bình hành là: 312 : 24 = 13 (m)\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 15. Cho khu đất hình bình hành độ dài đáy là 300 dm, chiều cao khu đất hình bình hành là 20 m. Diện tích hình bình hành đó là:\nA. 6000 cm^{2} \nB. 600 cm^{2} \nC. 600 dm^{2} \nD. 600 m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐổi 300 dm = 30 m\nDiện tích hình bình hành đã cho là: 30 . 20 = 600 (m^{2} )\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 16. Chọn câu đúng:\nA. Diện tích hình bình hành bằng nửa tích của cạnh đáy nhân với chiều cao.\nB. Diện tích hình bình hành bằng tổng của cạnh đáy và chiều cao.\nC. Diện tích hình bình hành bằng tích của cạnh đáy nhân với chiều cao.\nD. Diện tích hình bình hành bằng hiệu của cạnh đáy và chiều cao.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nDiện tích hình bình hành bằng tích của cạnh đáy nhân với chiều cao.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 17. Chọn câu đúng:\nA. Chu vi của một hình bình hành bằng tổng một cặp cạnh kề nhau bất kỳ.\nB. Chu vi hình bình hành bằng tổng của cạnh đáy và chiều cao.\nC. Chu vi hình bình hành bằng tích của cạnh đáy nhân với chiều cao.\nD. Chu vi của một hình bình hành bằng 2 lần tổng một cặp cạnh kề nhau bất kỳ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nChu vi của một hình bình hành bằng 2 lần tổng một cặp cạnh kề nhau bất kỳ.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 18. Cho hình bình hành có chu vi là 480cm, có độ dài cạnh đáy gấp 5 lần cạnh kia và gấp 8 lần chiều cao. Tính diện tích hình bình hành\nA. 5000 cm\nB. 10000 cm\nC. 2500 cm^{2} \nD. 5000 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Ta có nửa chu vi hình bình hành là: 480 : 2 = 240 (cm)\n Cạnh đáy gấp 5 lần cạnh kia nên nửa chu vi sẽ gấp 6 lần cạnh kia.\n- Ta có cạnh đáy hình bình hành là: 240 : 6 . 5 = 200 (cm)\n- Chiều cao của hình bình hành là: 200 : 8 = 25 (cm)\n- Diện tích của hình bình hành là: 200 . 25 = 5000 (cm^{2} )\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 19. Mảnh đất hình bình hành có cạnh đáy là 47 m, mở rộng mảnh đất bằng cách tăng các cạnh đáy của hình bình hành này thêm 7 m thì được mảnh đất hình bình hành mới có diện tích hơn diện tích mảnh đất ban đầu là 189 m^{2} . Hãy tính diện tích mảnh đất ban đầu.\nA. 1296 m^{2} \nB. 1926 m^{2} \nC. 1629 m^{2} \nD. 1269 m^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nPhần diện tích tăng thêm chính là diện tích hình bình hành có cạnh đáy 7m và chiều cao là chiều cao của mảnh đất hình bình hành ban đầu.\nChiều cao mảnh đất là: 189 : 7 = 27 (m)\nDiện tích mảnh đất hình bình hành ban đầu là: 27 . 47 = 1269 (m^{2} )\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 20. Cho hình bình hành ABCD có chiều cao hạ xuống cạnh CD là 5 cm, chiều dài CD là 15 cm, diện tích hình bình hành ABCD là:\nA. 20 cm^{2} \nB. 75 cm\nC. 20 cm\nD. 75 cm^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHình bình hành ABCD có chiều cao bằng 5 cm và độ dài cạnh đáy bằng 15 cm nên:\nDiện tích hình bình hành ABCD là: 5 . 15 = 75 cm^{2} \nĐáp án cần chọn là: D"
+    }
+]

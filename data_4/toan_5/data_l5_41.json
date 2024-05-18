@@ -1,0 +1,50 @@
+[
+    {
+        "problem": "Câu 3: Tìm một số biết 26% của nó bằng 10,4.\nA.\t2,704\nB.\t32\nC.\t40\nD.\t400",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số cần tìm là: 10,4 : 26 × 100 = 40"
+    },
+    {
+        "problem": "Câu 7: Tích của hai số là 38,4. Nếu gấp thừa số thứ nhất lên 2,5 lần và gấp thừa số thứ hai lên 1,6 lần thì tích hai số là:\nA.\t150,6\nB.\t155,6\nC.\t135,6\nD.\t153,6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu gấp thừa số thứ nhất lên 2,5 lần và gấp thừa số thứ hai lên 1,6 lần thì tích hai số là:\n38,4 × 2,5 × 1,6 = 153,6"
+    },
+    {
+        "problem": "Câu 8: Một người gửi tiết kiệm 3000000 đồng với lãi suấ 1,2% mỗi tháng. Tính số tiền người đó nhận được sau 1 tháng.\nA.\t3030000 đồng\nB.\t3036000 đồng\nC.\t3360000 đồng\nD.\t3630000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền lãi sau một tháng là:  \n3000000 : 100 × 1,2 = 36000 (đồng)\nSố tiền người đó nhận được sau một tháng là:   \n3000000 + 36000 = 3036000 (đồng)\nĐáp số: 3036000 đồng."
+    },
+    {
+        "problem": "Câu 10: Một cửa hàng bán một chiếc ti ci với giá 8567500 đồng thì lãi 15% so với tiền vốn. Tính tiền vốn của chiếc ti vi đó.\nA.\t7450000 đồng\nB.\t7750000 đồng\nC.\t8275000 đồng\nD.\t9852625 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Coi giá vốn của chiếc ti vi là 100%.\nGiá bán của chiếc ti vi chiếm số phần trăm so với giá vốn là:  \n100%+ 15% = 115% giá vốn\nGiá vốn của chiếc ti vi đó là:\n8567500 : 115 × 100 =  7450000 (đồng)\nĐáp số: 7540000 đồng"
+    },
+    {
+        "problem": "Câu 12: Một cửa hàng bán tạp hóa cả ngày bán được 7440000 đồng. Nếu tiền bán được tăng thêm 400000 đồng thì tiền lãi sẽ là 1640000 đồng. Hỏi tiền lãi thực sự bằng bao nhiêu phần trăm tiền vốn?\nA.\t20%\nB.\t22,04%\nC.\t24,4%\nD.\t28%",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tiền lãi thực sự cửa hàng thu được là: \n1640000 – 400000 = 1240000 (đồng)\nTiền vốn là:     \n7440000 – 1240000 = 6200000 (đồng)\nTỉ số phần trăm của tiền lãi so với tiền vốn là:     \n1240000 : 6200000 = 0,2 = 20%\nĐáp số: 20%."
+    },
+    {
+        "problem": "Câu 13: Một người mua 200 lọ hoa về bán. Khi chuyên chở đã có 16 lọ hoa bị vỡ. Mỗi lọ hoa còn lại người đó bán với giá 75000 đồng và được lãi 15% so với số tiền mua lọ hoa. Hỏi giá tiền mua mỗi tá lọ hoa là bao nhiêu?\nA.\t900000 đồng\nB.\t1380000 đồng\nC.\t600000 đồng\nD.\t720000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số lọ hoa không bị vỡ là: \n200 – 16 = 184 (lọ hoa)\nBán hết số lọ hoa được số tiền là: \n75000 × 184 = 13800000 (đồng)\nTỉ số phần trăm của tiền bán so với tiền mua lọ hoa là:  \n100% + 15% = 115%\nMua 200 lọ hoa đó hết số tiền là: \n13800000 : 115 × 100 = 12000000 (đồng)\nMua mỗi tá lọ hoa đó hết số tiền là:  \n12000000 : 200 × 12 = 720000 (đồng)\nĐáp số: 720000 đồng"
+    },
+    {
+        "problem": "Câu 14: Chọn đáp án đúng nhất:\nA.\tMuốn nhân một số thập phân với 10, 100, 1000,… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba,… chữ số.\nB.\tMuốn chuyển nhân một số thập phân với 0,1; 0,01; 0,001;… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.\nC.\tMuốn chia một số thập phân cho 10, 100, 1000,… ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.\nD.\tCả A, B, C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-\tMuốn nhân một số thập phân với 10; 100; 1000,... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên phải một, hai, ba,… chữ số.  \n-\tMuốn nhân một số thập phân với 0,1; 0,01; 0,001;... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.  \n-\tMuốn chia một số thập phân cho 10; 100; 1000,... ta chỉ việc chuyển dấu phẩy của số đó lần lượt sang bên trái một, hai, ba,… chữ số.\nVậy cả A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 15: Tính nhẩm: 38,83 × 0,01\nA.\t0,03883\nB.\t0,3883\nC.\t388,3\nD.\t3883",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn nhân một số thập phân với 0,01 ta chỉ việc chuyển dấu phẩy của số đó sang bên trái hai chữ số.\nDo đó ta có :  \n38,83 × 0,01 = 0,3883."
+    }
+]

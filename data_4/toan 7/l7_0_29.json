@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 3. Biểu thức của diện tích hình chữ nhật có chiều dài hơn chiều rộng 5 cm (với a là chiều dài của hình chữ nhật) là:\nA. a^{2}  + 5a;\nB. a^{2}  − 5;\nC. 5 − 5a;\nD. 5a − 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nChiều dài của hình chữ nhật là a (cm)\nChiều rộng của hình chữ nhật là a − 5 (cm)\nDiện tích của hình chữ nhật là:a(a − 5) = a^{2 } − 5a."
+    },
+    {
+        "problem": "Câu 6. Biểu thức đại số biểu thị hiệu các bình phương của a và b là:\nA. a^{2}  − b^{2} \nB. a^{2}  + b^{2} \nC. (a − b)^{2} \nD. (a + b)^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBình phương của a là : a^{2} .\nBình phương của b là: b^{2} .\nHiệu bình phương của a và b là: a^{2 } − b^{2} ."
+    },
+    {
+        "problem": "Câu 7. Rút gọn biểu thức: 3x + 4y − 7x + 5y, ta được biểu thức nào trong các biểu thức sau đây?\nA. 7x −  2y;\nB. −4x + 9y;\nC. 9x − 4y;\nD. 10x + 9y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTa có: 3x + 4y − 7x + 5y \n= (3x− 7y) + (4y+ 5y) \n=– 4x + 9y."
+    },
+    {
+        "problem": "Câu 8. Rút gọn biểu thức: 5(x^{2 } − x) + 2x^{2}  + 7x, ta được biểu thức nào trong các biểu thức sau đây?\nA. 7x^{2}  + 2x;\nB. 5x^{2} − 5x + 2x^{2 } + 7x;\nC. 5x^{2} − 5x;\nD. 2x^{2}  − 7x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: 5(x^{2 } − x) + 2x^{2}  + 7x \n= 5x^{2 } − 5x + 2x^{2}  + 7x \n= (5 + 2).x^{2}  + ( −5 + 7).x \n= 7x^{2}  + 2x"
+    },
+    {
+        "problem": "Câu 9. Giá trị của biểu thức (a − b)^{2}  − 2c khi a = 9, b = 4, c = 5 bằng bao nhiêu?\nA. 5;\nB. 10;\nC. 25;\nD. 15.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nThay a = 9, b = 4, c = 5 vào biểu thức trên, ta được: \n(9 − 4)^{2}  − 2.5 = 5^{2}  − 10 \n= 25 − 10 = 15."
+    },
+    {
+        "problem": "Câu 10. Giá trị của biểu thức 2x^{2}  − 3x + 10 khi x = 4 là:\nA. 30;\nB. 32;\nC. 54;\nD. 34.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nThay x = 4 vào biểu thức 2x^{2 } − 3x + 10, ta được:\n2 . 4^{2}  – 3 . 4 + 10 \n= 2 . 16 – 12 + 10 \n= 32 – 12 + 10 = 30."
+    },
+    {
+        "problem": "Câu 11. Rút gọn biểu thức: 2x(x − y) + 3y(y − x) − 2y^{2}  − 2x^{2}  ta được biểu thức nào trong các biểu thức sau?\nA. y^{2}  − 5xy;\nB. x − 2xy + y^{2} ;\nC. −5xy;\nD. 2x^{2}  + 3y^{2} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTa có: 2x(x − y) + 3y(y − x) − 2y^{2}  − 2x^{2} \n= 2x^{2}  − 2xy + 3y^{2}  − 3xy − 2y^{2}  − 2x^{2} \n= (2 − 2).x^{2 } + (3 − 2).y^{2 } + (−2 − 3).xy \n= y^{2 } − 5xy."
+    },
+    {
+        "problem": "Câu 12. Biểu thức số biểu thị tổng số học sinh trong lớp biết có 20 học sinh nam và 15 học sinh nữ là:\nA. 30;\nB. 20 + 15;\nC. 15;\nD. 20.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nSố học sinh trong lớp bằng tổng số học sinh nam và học sinh nữ nên biểu thức số biểu thị là 20 + 15."
+    },
+    {
+        "problem": "Câu 13. Cho biết giá bán của một chiếc lò vi sóng tại một cửa hàng là T− aT (triệu đồng), với T là giá gốc và a là mã giảm giá áp dụng cho khách hàng thân thiết. Tính giá bán của chiếc lò vi sóng khi được giảm giá với T= 3 (triệu đồng) và a= 10%.\nA. 2 triệu đồng;\nB. 2,7 triệu đồng;\nC. 1 triệuđồng;\nD. 1,5 triệu đồng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nThay T = 3 và a = 10% vào biểu thứcT – aT, ta được:\nT – aT = 3 − 10%. 3 = 3 − 0,3 = 2,7 (triệu đồng)\nVậy giá bán của chiếc lò vi sóng khi được giảm giá là 2,7 triệu đồng."
+    },
+    {
+        "problem": "Câu 15. Đạt có x nghìn đồng, mua một cuốn sách hết y nghìn đồng , mua một cây bút hết z nghìn đồng và được chị Lan cho thêm t nghìn đồng. Tính số tiền mà Đạt còn lại sau khi được chị Lan cho thêm t nghìn đồng, biết x = 50, y =30, z = 15, t = 40.\nA. 45;\nB. 0;\nC. 50;\nD. 55.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nBiểu thức đại số của số tiền mà Đạt còn lại sau khi được chị Lan cho thêm t nghìn đồng: x − y − z + t.\nThay x = 50, y = 30, z = 15, t = 40 vào biểu thức trên, ta được: \n50 − 30 − 15 + 40 = 20 − 15 + 40 = 5 + 40= 45 (nghìn đồng).\nVậy số tiền mà Đạt còn lại sau khi được chị Lan cho thêm 40 nghìn đồng là 45 nghìn đồng."
+    }
+]

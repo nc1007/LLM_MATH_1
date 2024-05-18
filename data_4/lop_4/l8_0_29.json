@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Câu 1 : 10 trăm nghìn được gọi là 10 triệu. Đúng hay sai? \nA.\tĐúng \nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "10 trăm nghìn được gọi là 1 triệu.\nVậy phát biểu “10 trăm nghìn được gọi là 10 triệu” là sai."
+    },
+    {
+        "problem": "Câu 2 : Lớp triệu gồm những hàng nào\nA.\tHàng triệu\nB.\tHàng chục triệu\nC.\tHàng trăm triệu\nD.\tTất cả các đáp án trên đều đúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lớp triệu gồm các hàng: triệu, chục triệu, trăm triệu.\nVậy tất cả các đáp án A, B, C đều đúng."
+    },
+    {
+        "problem": "Câu 3 :  Số 2 chục triệu được viết là: \nA.\t20000\nB.\t200000\nC.\t2000000\nD.\t20000000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 1 chục triệu được viết là 10000000.\nDo đó số 2 chục triệu được viết là: 20000000."
+    },
+    {
+        "problem": "Câu 4 : Số 5 trăm triệu có bao nhiêu chữ số 0 ? \nA.\t6 chữ số\nB.\t7 chữ số\nC.\t8 chữ số\nD.\t9 chữ số",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 5 trăm triệu được viết là 500000000.\nSố 500000000 có 8 chữ số 0 .\nVậy số 5 trăm triệu có 8 chữ số 0."
+    },
+    {
+        "problem": "Câu 5 : Số 7162805 được đọc là: \nA.\tBảy mươi mốt triệu sáu mươi hai nghìn tám trăm linh năm\nB.\tBảy triệu một trăm sáu mươi hai nghìn tám trăm linh năm\nC.\tBảy mươi mốt triệu một trăm sáu hai nghìn không trăm tám mươi lăm\nD.\tBảy triệu một trăm sáu mươi hai nghìn tám trăm không năm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 7162805 đọc là bảy triệu một trăm sáu mươi hai nghìn tám trăm linh năm."
+    },
+    {
+        "problem": "Câu 6 : Chữ số 4 trong số 492357061 thuộc hàng nào? \nA.\tHàng trăm triệu\nB.\tHàng trăm nghìn\nC.\tHàng chục triệu\nD.\tHàng trăm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 4 trong số 492357061 thuộc hàng trăm triệu."
+    },
+    {
+        "problem": "Câu 8 : Chữ số 8 trong số 81379452 thuộc lớp nào và có giá trị bằng bao nhiêu? \nA.\tLớp nghìn và có giá trị 80000\nB.\tLớp chục triệu và có giá trị 8000000\nC.\tLớp chục triệu và có giá trị 80000000\nD.\tLớp triệu và có giá trị 80000000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 8 trong số 81379452 nằm ở hàng chục triệu \nnên nó thuộc lớp triệu và có giá trị bằng 80000000.\nChú ý\nHọc sinh có thể không đọc kĩ đề, xác định chữ số 8 nằm ở hàng chục triệu \nnên chọn đáp án chữ số 8 thuộc lớp chục triệu và có giá trị là 80000000."
+    },
+    {
+        "problem": "Câu 9 : Viết số 35027186 thành tổng theo mẫu:  \n3984003 = 3000000 + 900000 + 80000  + 4000 + 3\nA.\t35027186 = 30 000 000 + 50 000 000 + 200 000 + 1000 + 700 + 80 + 6\nB.\t35027186 = 3 000 000 + 5 000 000 + 200 000 + 700 + 100 + 80 + 6\nC.\t35027186 = 30 000 000 + 5 000 000 + 20 000 + 7000 + 100 + 80 + 6\nD.\t35027186 = 30 000 000 + 50 000 000 + 200 000 + 7000 + 100 + 80 + 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\nSố 35027186 gồm 3 chục triệu, 5 triệu, 2 chục nghìn, 7 nghìn, 1 trăm, 8 chục, 6 đơn vị\nNên 35027186=30000000+5000000+20000+7000+100+80+6."
+    },
+    {
+        "problem": "Câu 11 : Số “năm tỉ” được viết là \nA.\t5 000 000 000\nB.\t500 000 000\nC.\t50 000 000 000\nD.\t500 000 000 000",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: một nghìn triệu gọi là một tỉ, viết là 1 000 000 000.\nVậy số “năm tỉ” được viết là 5 000 000 000."
+    },
+    {
+        "problem": "Câu 12 : Số tròn chục liền sau số 980247392 gồm 98 chục triệu ,24 chục nghìn ,7 nghìn,4 trăm. Đúng hay sai?  \nA.\tSai\t\nB.\tĐúng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tròn chục liền sau số 980247392 là 980247400\nMà 980247400=900000000+80000000+200000+40000+7000+400980247400\n= 90 chục triệu + 8 chục triệu + 20 chục nghìn + 4 chục nghìn + 7 nghìn +4 trăm\n= 98 chục triệu + 24 chục nghìn + 7 nghìn + 4 trăm\nHay số 980247400 gồm 98 chục triệu, 24 chục nghìn, 7 nghìn, 4 trăm.\nVậy phát biểu đã cho là đúng."
+    },
+    {
+        "problem": "Câu 13 : Chọn đáp án đúng nhất điền vào bảng sau theo thứ tự từ trái sang phải: \nA.\t500000; 5000\t\nB.\t500000; 50000\t\nC.\t50000000; 5000\t\nD.\t50000000; 500",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chữ số 5 trong số 52804246 nằm ở hàng chục triệu nên có giá trị là 50000000.\nChữ số 5 trong số 166745983 nằm ở hàng nghìn nên có giá trị là 5000.\nVậy đáp án đúng điền vào ô trống lần lượt từ trái sang phải là 50000000;5000."
+    }
+]

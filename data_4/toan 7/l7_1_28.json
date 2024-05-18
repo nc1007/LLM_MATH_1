@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "B. \\frac{1}{4} ;\nC. \\frac{1}{3} ;\nD. \\frac{1}{5} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTập hợp gồm các kết quả có thể xảy ra đối với mặt xuất hiện của xúc xắc là: {mặt 1 chấm, mặt 2 chấm, mặt 3 chấm, mặt 4 chấm, mặt 5 chấm, mặt 6 chấm}.\nCó 3 kết quả thuận lợi cho biến cố “Mặt xuất hiện của xúc xắc có số chấm là số chia hết cho 2” là: mặt 2 chấm, mặt 4 chấm, mặt 6 chấm.\nDo đó, xác suất của biến cố trên là \\frac{3}{6}=\\frac{1}{2} ."
+    },
+    {
+        "problem": "Câu 2. Tung hai đồng xu cân đối một số lần ta được kết quả như sau:\nBiến cố\nHai đồng sấp\nMột đồng sấp, một đồng ngửa\nHai đồng ngửa\nSố lần\n22\n20\n8\nXác suất của biến cố “Một đồng sấp, một đồng ngửa” là:\nA. \\frac{1}{5} ;\nB. \\frac{2}{5} ;\nC. \\frac{3}{5} ;\nD. \\frac{4}{5} ;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTổng số lần tung là: 22 + 20 + 8 = 50 lần.\nSố lần sự kiện “Một đồng sấp, một đồng ngửa” xảy ra là 20.\nXác suất của biến cố này là   \\frac{20}{50}=\\frac{2}{5}.\nVậy xác suất của biến cố “Một đồng sấp, một đồng ngửa” là \\frac{2}{5} ."
+    },
+    {
+        "problem": "Câu 3. Gieo một con xúc xắc 6 mặt một số lần ta được kết quả như sau:\nMặt\n1 chấm\n2 chấm\n3 chấm\n4 chấm\n5 chấm\n6 chấm\nSố lần\n8\n7\n3\n12\n10\n10\nHãy tính xác suất của biến cố “gieo được mặt có số lẻ chấm” trong 50 lần gieo trên.\nA. \\frac{21}{100};  \nB. \\frac{11}{25};\nC. \\frac{21}{50};   \nD. \\frac{29}{50};",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTổng số lần gieo là: 8 + 7 + 3 + 12 + 10 + 10 = 50 (lần).\nCác mặt có số lẻ chấm của con xúc xắc là mặt 1, 3 và 5.\nSố lần được mặt 1 chấm là 8 lần, mặt 3 chấm là 3 lần, mặt 5 chấm là 10 lần.\nSố lần được mặt có số lẻ chấm là: 8 + 3 + 10 = 21 (lần).\nXác suất của biến cố “gieo được mặt có số lẻ chấm” trong 50 lần là: \\frac{21}{50} ."
+    },
+    {
+        "problem": "Câu 4. Gieo một con xúc xắc 6 mặt cân đối. Tính xác suất của biến cố “Gieo được mặt có số chấm nhiều hơn 6”.\nA. 0;\nB. 0,2;\nC. 0,4;\nD. 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nKhông có mặt nào của xúc xắc có số chấm nhiều hơn 6 nên không có kết quả thuận lợi cho biến cố “Gieo được mặt có số chấm nhiều hơn 6”.\nVậy xác suất của biến cố này là 0 : 6 = 0."
+    },
+    {
+        "problem": "Câu 5. Trong trò chơi gieo xúc xắc, số các kết quả có thể xảy ra đối với mặt xuất hiện của xúc xắc là 6. Nếu k là số các kết quả thuận lợi cho biến cố thì xác xuất của biến cố là:\nA. \\frac{k}{6} ;\nB. \\frac{2k}{6} ;\nC. \\frac{3k}{6} ;\nD. \\frac{4k}{6} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nNếu k là số các kết quả thuận lợi cho biến cố thì xác xuất của biến cố là \\frac{k}{6} ."
+    },
+    {
+        "problem": "Câu 6. Một hộp có 10 lá thăm có kích thước giống nhau và được đánh số từ 1 đến 10. Lấy ngẫu nhiên 1 lá thăm từ hộp. Tính xác suất của biến cố “Lấy được là thăm ghi số 9”.\nA. 0;\nB. \\frac{9}{10} ;\nC. \\frac{1}{10} ;\nD. 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nCó 1 kết quả thuận lợi cho biến cố “Lấy được là thăm ghi số 9” nên xác suất của biến cố này là \\frac{1}{10} ."
+    },
+    {
+        "problem": "Câu 7. Trước trận chung kết bóng đá World Cup năm 2010 giữa hai đội Hà Lan và Tây Ban Nha, để dự đoán kết quả người ta bỏ cùng loại thức ăn vào hai hộp giống nhau, một hộp có gắn cờ Hà Lan, một hộp gần cờ Tây Ban Nha và cho Paul chọn hộp thức ăn. Người ta cho rằng nếu Paul chọn hộp gắn cờ nước nào thì đội bóng của nước đó thắng. Paul chọn ngẫu nhiên một hộp. Tính xác suất để Paul dự đoán đội Tây Ban Nha thắng.\nA. \\frac{3}{10}; \nB. \\frac{1}{2};\nC.\\frac{7}{10};   \nD. \\frac{9}{10}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nPaul chọn một trong hai hộp nên xác suất dự đoán đội Tây Ban Nha thắng là   \\frac{1}{2}."
+    },
+    {
+        "problem": "Câu 8. Xác suất của biến cố A trong trò chơi rút thẻ từ trong hộp bằng \\frac{nA}{n} , với n(A) là số các kết quả thuận lợi cho biến cố A; n là:\nA. Xác suất của biến cố A;\nB. Số các kết quả có thể xảy ra của A;\nC. Số các kết quả không thể xảy ra của A;\nD. Số các kết quả có thể xảy ra đối với số xuất hiện trên thẻ được rút ra.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nXác suất của một biến cố trong trò chơi rút thẻ từ trong hộp bằng tỉ số của số các kết quả thuận lợi cho biến cố và số các kết quả có thể xảy ra đối với số xuất hiện trên thẻ được rút ra."
+    },
+    {
+        "problem": "Câu 9. Đội múa có 1 bạn nam và 5 bạn nữ. Chọn ngẫu nhiên 1 bạn để phỏng vấn. Biết mỗi bạn đều có khả năng được chọn. Tính xác suất của biến cố “Bạn được chọn là nam”.\nA. 1;\nB. \\frac{1}{5} ;\nC. \\frac{5}{6} ;\nD. \\frac{1}{6} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nMỗi bạn đều có khả năng được chọn nên có 6 kết quả có thể xảy ra.\nCó một kết quả thuận lợi cho biến cố “Bạn được chọn là nam”.\nXác suất của biến cố bạn được chọn là nam là \\frac{1}{6} ."
+    },
+    {
+        "problem": "Câu 10. Chọn ngẫu nhiên một số trong bốn số 11, 12, 13, 14. Tính xác suất để chọn được số chia hết cho 6.\nA. \\frac{1}{4} ;\nB. \\frac{1}{2} ;\nC. \\frac{1}{3} ;\nD. \\frac{1}{5} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTrong 4 số số 11, 12, 13, 14 có 1 số chia hết cho 6 là 12.\nXác suất để chọn được số chia hết cho 6 là \\frac{1}{4} ."
+    },
+    {
+        "problem": "Câu 11. Một xạ thủ bắn 20 mũi tên vào một tấm bia. Điểm số ở các lần bắn được cho bởi bảng sau:\n7\n8\n9\n9\n8\n10\n10\n9\n8\n10\n8\n8\n9\n10\n10\n7\n6\n6\n9\n9\nXác suất để xạ thủ bắn được 10 điểm là:\nA. \\frac{1}{4} ;\nB. \\frac{1}{2} ;\nC. \\frac{10}{20} ;\nD. \\frac{7}{20} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A\nTổng số lần xạ thủ bắn mũi tên vào bia là 20, số lần xạ thủ bắn được 10 điểm là 5 lần.\nXác suất để cố xạ thủ bắn được 10 điểm là \\frac{5}{20}=\\frac{1}{4} ."
+    },
+    {
+        "problem": "Câu 12. Nếu tung một đồng xu 30 lần liên tiếp có 12 lần xuất hiện mặt ngửa thì xác suất xuất hiện mặt sấp bằng bao nhiêu?\nA. \\frac{2}{5} ;\nB. \\frac{1}{5} ;\nC. \\frac{3}{5} ;\nD. \\frac{3}{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTổng số lần tung là 30 (lần).\nSố lần tung được mặt sấp là 30 – 12 = 18 (lần).\nXác suất xuất hiện mặt sấp là \\frac{18}{30}=\\frac{3}{5} ."
+    },
+    {
+        "problem": "Câu 13. Trong hộp có một số bút xanh, một số bút vàng và một số bút đỏ. Lấy ngẫu nhiên 1 bút từ hộp, xem màu gì rồi trả lại. Lặp lại hoạt động trên 40 lần ta được kết quả như sau:\nMàu bút\nXanh\nVàng\nĐỏ\nSố lần\n14\n10\n16\nTính xác suất của biến cố không lấy ra được bút màu vàng?\nA. \\frac{1}{4};  \nB. \\frac{3}{4};  \nC. \\frac{1}{10};  \nD. \\frac{9}{10}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nTổng số lần lấy bút là 40.\nSố lần lấy được màu vàng là 10.\nSố lần không lấy được màu vàng là 40 – 10 = 30.\nXác suất suất của sự kiện không lấy được màu vàng là: \\frac{30}{40}=\\frac{3}{4}."
+    },
+    {
+        "problem": "Câu 14. Tổng hợp kết quả xét nghiệm bệnh viêm gan ở một phòng khám trong một năm ta được bảng sau:\nQuý\nSố ca xét nghiệm\nSố ca dương tính\nI\n210\n21\nII\n150\n15\nIII\n180\n9\nIV\n240\n48\nCó bao nhiêu quý có xác suất của biến cố “một ca có kết quả dương tính” dưới   \\frac{1}{10}?\nA. 1;\nB. 2;\nC. 3;\nD. 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nXác suất của biến cố “một ca có kết quả dương tính” của quý I là:   \\frac{21}{210}=\\frac{1}{10}=0,1;\nXác suất của biến cố “một ca có kết quả dương tính” của quý II là: \\frac{15}{200}=\\frac{3}{40}=0,075;  \nXác suất của biến cố “một ca có kết quả dương tính” của quý III là: \\frac{9}{180}=\\frac{1}{20}=0,05;  \nXác suất của biến cố “một ca có kết quả dương tính” của quý IV là: \\frac{48}{240}=\\frac{1}{5}=0,2 .\nTa có: \\frac{1}{10}=0,1  \nTa có hai số nhỏ hơn 0,1 là 0,05 và 0,075.\nVậy có 2 quý có xác suất  của biến cố “một ca có kết quả dương tính” dưới"
+    },
+    {
+        "problem": "Câu 15. Kết quả kiểm tra môn Toán và Ngữ văn của một số học sinh được lựa chọn ngẫu nhiên cho ở bảng sau:\n            Ngữ văn\n    Toán\nGiỏi\nKhá\nTrung bình\nGiỏi\n40\n20\n15\nKhá\n15\n30\n10\nTrung bình\n5\n15\n20\nQuan sát bảng trên và cách đọc bảng dữ liệu (ví dụ: số học sinh môn Toán có kết quả kiểm tra Khá và môn Ngữ Văn có kết quả kiểm tra Trung bình là 10 học sinh), hãy tính xác suất của biến cố một học sinh được chọn ra một cách ngẫu nhiên có kết quả loại Khá trở lên ở cả hai môn.\nA. \\frac{9}{17} ;\nB. \\frac{7}{17} ;\nC. \\frac{21}{34} ;\nD. \\frac{7}{34} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTổng số học sinh là tổng tất cả các số trên bảng: 170 học sinh.\nCác học sinh được loại khá trở lên ở cả 2 môn:\n+ Toán ‒ Giỏi, Ngữ văn ‒ Giỏi: 40 (học sinh);\n+ Toán ‒ Giỏi, Ngữ văn  ‒ Khá: 20 (học sinh);\n+ Toán ‒ Khá, Ngữ văn  ‒ Giỏi: 15 (học sinh);\n+ Toán ‒ Khá, Ngữ văn ‒ Khá: 30 (học sinh);\nSố học sinh được loại Khá trở lên ở cả 2 môn là: 40 + 20 + 15 + 30 = 105 (học sinh).\nXác suất của biến cố một học sinh được chọn ra một cách ngẫu nhiên được loại khá trở lên ở cả 2 môn là \\frac{105}{170}=\\frac{21}{34} ."
+    }
+]

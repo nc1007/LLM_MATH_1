@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Cho biết một quả chuối nặng 100g có chứa:\n- Đường: 12,1g;\n- Protein: 1,1 g.\nEm hãy cho biết trong quả chuối đó, khối lượng đường nhiều gấp mấy lần khối lượng protein?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy khối lượng đường chia cho khối lượng protein\nLời giải chi tiết\nKhối lượng đường nhiều gấp số lần khối lượng protein là:\n\\(12,1:1,1 = 11\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "a) Cho hai số thập phân x= 14,3 và y = 2,5.\nHãy tính x,y và x:y.\nb) Hãy dùng quy tắc dấu của tích và thương hai số nguyên để tìm kết quả của các\nphép tính sau:\n(-14,3).(-2,5) = ?       (-14,3):(-2,5) = ?     (-14,3). (2,5) = ?\n(-14,3): (2,5) = ?        (14,3).(-2,5) = ?      (14,3):(-2,5) = ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tích và thương của hai số thập phân cùng dấu luôn là một số dương.\n- Tích và thương của hai số thập phân khác dấu luôn là một số âm.\n- Khi nhân hoặc chia hai số thập phân cùng âm, ta nhân hoặc chia hai số đối của chúng.\n- Khi nhân hoặc chia hai số thập phân khác dấu, ta chỉ thực hiện phép nhân hoặc chia giữa số dương và số đối của số âm rồi thêm dấu trừ (-) trước kết quả nhận được.\nLời giải chi tiết\na) x.y = 14,3. 2,5 = 35,75\nx : y = 14,3 : 2,5 = 5,72\nb)\n\\(\\begin{array}{*{20}{l}}{\\left( { - 14,3} \\right).\\left( { - 2,5} \\right) = 35,75\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;}\\\\{\\left( { - 14,3} \\right):\\left( { - 2,5} \\right) = 5,72\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;\\;\\;}\\\\{\\left( { - 14,3} \\right).\\left( {2,5} \\right) =  - 35,75}\\\\{\\left( { - 14,3} \\right):\\left( {2,5} \\right) =  - 5,72\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;}\\\\{\\left( {14,3} \\right){\\rm{ }}.\\left( { - 2,5} \\right) =  - 35,75\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;{\\rm{ }}\\;}\\\\{\\left( {14,3} \\right){\\rm{ }}.\\left( { - 2,5} \\right) =  - 5,72}\\end{array}\\)"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) (- 45,5). 0,4;\nb) (- 32,2).( - 0,5);\nc) (- 9,66): 3,22;\nd) (- 88,24) : (-0,2).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tích và thương của hai số thập phân cùng dấu luôn là một số dương.\n- Tích và thương của hai số thập phân khác dấu luôn là một số âm.\n- Khi nhân hoặc chia hai số thập phân cùng âm, ta nhân hoặc chia hai số đối của chúng.\n- Khi nhân hoặc chia hai số thập phân khác dấu, ta chỉ thực hiện phép nhân hoặc chia giữa số dương và số đối của số âm rồi thêm dấu trừ (-) trước kết quả nhận được.\nLời giải chi tiết\na) (- 45,5) . 0,4 =  - 18,2\nb) ( - 32,2) . (-0,5) = 16,1\nc) (- 9,66) : 3,22 =  -3\nd) (- 88,24) : (- 0,2) = 441,2.\nLoigiaihay.com"
+    },
+    {
+        "problem": "So sánh kết quả của các phép tính:\na) 2,1 + 3,2 và 3,2 + 2,1;\nc) (-1,2).(-0,5) và (-0,5).(-1,2);\ne) 0,2.(1,5 + 8,5) và 0,2.1,5 + 0,2.8,5.\nb) (2,1 + 3,2) + 4,5 và 21 + (3,2 + 4,5);\nd) (2,4.0,2).(-0,5) và 2,4 .[0,2.(-0,5)];",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính và so sánh kết quả.\nLời giải chi tiết\na) 2,1 + 3,2 = 5,3 và 3,2 + 2,1 = 5,3\n=> 2,1 + 3,2 = 3,2 + 2,1\nb) (2,1 + 3,2) + 4,5  = 5,3 + 4,5 =9,8 và 2,1 + ( 3,2 + 4,5)= 2,1 + 7,7= 9,8\n=> (2,1 + 3,2) + 4,5  = 2,1 + ( 3,2 + 4,5)\nc) (-1,2).(-0,5) = 0,6 và (-0,5).(-1,2) = 0,6\n=> (-1,2).(-0,5) = (-0,5).(-1,2)\nd) (2,4.0,2).(-0,5) =0,48 . (-0,5) =  -0,24 và 2,4.[0,2.(-0,5)]=2,4 . (-0,1) = -0,24.\n=> (2,4.0,2).(-0,5) = 2,4.[0,2.(-0,5)]\ne) 0,2.(1,5 + 8,5) =0,2.10 = 2 và 0,2.1,5 + 0,2.8,5 = 0,3 + 1,7 = 2\n=> 0,2.(1,5 + 8,5) = 0,2.1,5 + 0,2.8,5."
+    },
+    {
+        "problem": "Tính bằng cách hợp lí:\na) 4,38 - 1,9 + 0,62;\nb) [(-100). (-1,6)] : (-2);\nc) (2,4.5,55): 1,11;\nd) 100. (2,01 + 3,99).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Áp dụng tính chất giao hoán của phép cộng\nb) Thực hiện phép tính trong ngoặc trước.\nc) (a.b):c = a.(b:c)\nd) Thực hiện phép tính trong ngoặc trước.\nLời giải chi tiết\na) 4,38 - 1,9 + 0,62               b) [(-100).(-1,6)]:(-2)\n= (4,38 + 0,62) - 1,9              =  100.1,6 : (-2)\n=  5 - 1,9 = 3,1                       =  160 : (-2) = -80\nc) (2,4.5,55): 1,11                 d) 100. (2,01 + 3,99)\n= 2,4. (5,55:1,11)                   = 100. 6\n= 2,4. 5 =12                            = 600"
+    },
+    {
+        "problem": "Tính diện tích S của một hình tròn có bán kính R = 10 cm theo công thức S = \\(\\pi {R^2}\\) với \\(\\pi \\) = 3,142.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay giá trị \\(\\pi = 3, 142\\) và R = 10 vào công thức S = \\(\\pi {R^2}\\)\nLời giải chi tiết\nDiện tích hình tròn là: \\(S = 3,{142.10^2} = 314,2 (\\,c{m^2})\\)"
+    },
+    {
+        "problem": "Tính bằng cách hợp lí:\na) 14,7 +(-8, 4) + (-4,7);\nb) (- 4,2). 5,1 + 5,1.(-5,8);\nc) (- 0,4:0,04 + 10). (1,2.20 + 12.8).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Áp dụng tính chất giao hoán của phép cộng\nb) Áp dụng tính chất phân phối của phép nhân đối với phép cộng.\nc) Thực hiện phép tính trong ngoặc trước.\nLời giải chi tiết\na) 14,7 + (-8,4) + (-4,7) = (14,7 - 4,7) + (-8,4)\n= 10 - 8,4 = 1,6\nb) (-4,2).5,1 + 5,1.(-5,8) = 5,1. (- 4,2 - 5,8)\n= 5,1. (-10) = -51\nc) (-0,4: 0,04 + 10) . (1,2.20 + 12.8)\n= (-10 + 10). (1,2.20 + 12.8)\n= 0. (1,2.20 + 12.8) = 0.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thực hiện các phép tính sau:\na) 32 - (-1,6);\nb) (-0,5) . 1,23;\nc) (-2,3) + (-7,7);\nd) 0,325 - 3,21.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện các phép tính cộng, trừ, nhân các số thập phân.\nLời giải chi tiết\na) 32 - (-1,6) = 32 + 1,6 = 33,6\nb) (-0,5). 1,23  = -0,615\nc) (-2,3) + (-7,7) = -(2,3 +7,7)= -10\nd) 0,325 - 3,21 = -(3,21-0,325) = -2,885"
+    },
+    {
+        "problem": "Thực hiện phép tính:\na) (-8,4). 3,2;     b) 3,176 - (2,104 +1,18);\nc) (2,89 - 8,075) + 3,14.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính trong ngoặc trước.\nLời giải chi tiết\na) (-8,4).3,2 = - (8,4 . 3,2) = -26,88.\nb) 3,176 - (2,104 + 1,18) = 3,176 - 3,284 = -(3,284 - 3,176)= -0,108.\nc) - ( 2,89 - 8,075) + 3,14 = - [-(8,075-2,89)] + 3,14 = - (-5,185) + 3,14= 5,185 + 3,14 = 8,325."
+    },
+    {
+        "problem": "Tính bằng cách hợp lí:\na) (-4,5) + 3,6 +4,5 + (-3,6);\nb) 2,1 + 4,2 + (-7,9) + (-2,1) + 7,9;\nc) (- 3,6). 5,4 + 5,4.(- 6,4).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Nhóm thành các tổng hai số đối nhau\n- Áp dụng tính chất phân phối của phép nhân đối với phép cộng.\nLời giải chi tiết\na) (-4,5) + 3,6 + 4,5 + (-3,6)\n=  [(-4,5) + 4,5] + [3,6 + (-3,6)]\n= 0 + 0 = 0\nb) 2,1 + 4,2 + (-7,9) + (-2,1) + 7,9\n= [2,1 + (-2,1)] + [(-7,9) + 7,9] + 4,2\n= 0 + 0 + 4,2 = 4,2\nc) (-3,6).5,4 + 5,4.(-6,4)\n= 5,4. [(-3,6) + (-6,4)]\n= 5,4. (-10) = - 54."
+    },
+    {
+        "problem": "Tính diện tích một hình chữ nhật có chiều dài 31,21 cm và chiều rộng 22,52 cm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích của hình chữ nhật = chiều dài . chiều rộng.\nLời giải chi tiết\nDiện tích của hình chữ nhật đó là:\n31,21 . 22,52 = 702,8492 (cm2)\nĐáp số: 702,8492 cm2"
+    },
+    {
+        "problem": "Khối lượng vitamin C trung bình trong một quả ớt chuông là 0,135 g, còn trong một quả cam là 0,045 g. Khối lượng vitamin C trong quả ớt chuông gấp bao nhiêu lần trong quả cam?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy khối lượng vitamin C trong quả ớt chuông chia cho khối lượng lượng vitamin C trong quả cam.\nLời giải chi tiết\nKhối lượng vitamin C trong quả ớt chuông gấp số lần trong quả cam là:\n0,135 : 0,045 =3 ( lần)\nĐáp số: 3 lần.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính chu vi của một hình tròn có bán kính R = 1,25 m theo công thức C = \\(2\\pi R\\) với \\(\\pi \\) = 3,142.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng công thức C = \\(2\\pi R\\).\nLời giải chi tiết\nChu vi của hình tròn đó là:\nC = 2πR = 2.3,142.1,25 = 7,855 (m)\nĐáp số: 7,855 m"
+    },
+    {
+        "problem": "Làm tròn các số sau đây: \\( - 10,349;{\\rm{ }}1995,921;{\\rm{ }} - 822,399;{\\rm{ }}99,999\\)\na) đến hàng phần mười;\nb) đến hàng phần trăm;\nc) đến hàng đơn vị;\nd) đến hàng chục.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi làm tròn các số thập phân đến hàng nào thì hàng đó gọi là hàng quy tròn.\nMuốn làm tròn một số thập phân đến một hàng quy tròn nào đó, ta thực hiện các bước sau:\n- Gạch dưới chữ số thập phân của hàng quy tròn.\n- Nhìn sang chữ số ngay bên phải:\n• Nếu chữ số đó lớn hơn hoặc bằng 5 thì tăng chữ số gạch dưới lên một đơn vị rồi thay\ntất các chữ sổ bên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\n• Nếu chữ số đó nhỏ hơn 5 thì giữ nguyên chữ số gạch dưới và thay tất cả các chữ số\nbên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\nLời giải chi tiết\na) \\( - 10,3;\\,\\,1995,9;\\,\\, - 822,4;\\,\\,100,\\,0\\)\nb) \\( - 10,35;\\,\\,1995,92;\\,\\, - 822,40;\\,\\,100,\\,00\\)\nc) \\( - 10;\\,\\,1996;\\, - 822;\\,100\\)\nd) \\( - 10;\\,2000;\\,\\, - 820;\\,100\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Làm tròn các số sau đây: -492,7926; 320,1415; -568,7182\na) đến hàng phần mười, hàng phần trăm, hàng phần nghìn\nb) đến hàng đơn vị, hàng chục, hàng trăm.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi làm tròn các số thập phân đến hàng nào thì hàng đó gọi là hàng quy tròn.\nMuốn làm tròn một số thập phân đến một hàng quy tròn nào đó, ta thực hiện các bước sau:\n- Gạch dưới chữ số thập phân của hàng quy tròn.\n- Nhìn sang chữ số ngay bên phải:\n• Nếu chữ số đó lớn hơn hoặc bằng 5 thì tăng chữ số gạch dưới lên một đơn vị rồi thay\ntất các chữ sổ bên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\n• Nếu chữ số đó nhỏ hơn 5 thì giữ nguyên chữ số gạch dưới và thay tất cả các chữ số\nbên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\nLời giải chi tiết\na) Hàng phần mười: -492,8; 320,1; -568,7\nHàng phần trăm: -492,79; 320,14; -568,72\nHàng phần nghìn: -492,793; 320,141; -568,718\nb) Hàng đơn vị: -493;  320; -569\nHàng chục: -490; 320; -570\nHàng trăm: -500; 300; -600"
+    },
+    {
+        "problem": "Làm tròn các số thập phân sau đến chữ số thập phân thứ hai:\na) –79,2384;\nb) 60,403;\nc) -0,255;\nd) 50,996.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn làm tròn một số thập phân đến một hàng quy tròn nào đó, ta thực hiện các bước sau:\n- Gạch dưới chữ số thập phân của hàng quy tròn.\n- Nhìn sang chữ số ngay bên phải:\n• Nếu chữ số đó lớn hơn hoặc bằng 5 thì tăng chữ số gạch dưới lên một đơn vị rồi thay tất các chữ sổ bên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\n• Nếu chữ số đó nhỏ hơn 5 thì giữ nguyên chữ số gạch dưới và thay tất cả các chữ số bên phải bằng số 0 hoặc bỏ đi nếu chúng ở phần thập phân.\nLời giải chi tiết\na) -79,24              b) 60,40\nc) -0,26                d) 51,00"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Sắp xếp các số hữu tỉ sau theo thứ tự từ bé đến lớn rồi biểu diễn chúng trên trục số.\n\\( - 1,5; - \\dfrac{3}{4};1,25;1,25\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết các số dưới dạng phân số với mẫu số chung là 8:\n\\( - 1,5 = \\dfrac{{ - 3}}{2} = \\dfrac{{ - 12}}{8}....\\)\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l} - 1,5 =  - \\dfrac{3}{2} = \\dfrac{{ - 12}}{8}\\\\ - \\dfrac{3}{4} = \\dfrac{{ - 6}}{8}\\\\0,125 = \\dfrac{1}{8}\\\\1,25 = \\dfrac{{10}}{8}\\\\Do\\, - \\dfrac{{12}}{8} <  - \\dfrac{6}{8} < \\dfrac{1}{8} < \\dfrac{{10}}{8}\\\\ \\Rightarrow  - 1,5 <  - \\dfrac{3}{4} < 0,125 < 1,25\\end{array}\\)\nChia đoạn thẳng đơn vị thành 8 phần bằng nhau, lấy một đoạn làm đơn vị mới. Sau đó, biểu diễn các số hữu tỉ trên trục số."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau:\n\\(B = \\dfrac{{{8^5} + {{\\left( { - 2} \\right)}^{12}}}}{{{2^{15}} + {{64}^3}}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng công thức:\n\\(\\begin{array}{l}{\\left( {{a^m}} \\right)^n} = {a^{m.n}}\\\\{a^m}.{a^n} = {a^{m + n}}\\\\{a^m}:{a^n} = {a^{m - n}}\\end{array}\\)\nLời giải chi tiết\n\\(B = \\dfrac{{{8^5} + {{\\left( { - 2} \\right)}^{12}}}}{{{2^{15}} + {{64}^3}}} = \\dfrac{{{{\\left( {{2^3}} \\right)}^5} + {2^{12}}}}{{{2^{15}} + {{\\left( {{2^6}} \\right)}^3}}} = \\dfrac{{{2^{15}} + {2^{12}}}}{{{2^{15}} + {2^{18}}}} = \\dfrac{{{2^{12}}.\\left( {{2^3} + 1} \\right)}}{{{2^{15}}.\\left( {1 + {2^3}} \\right)}} = \\dfrac{1}{{{2^3}}} = \\dfrac{1}{8}\\)"
+    },
+    {
+        "problem": "Bạn Minh đọc một cuốn sách trong ba ngày thì xong. Ngày thứ nhất, Minh đọc được \\(\\dfrac{1}{4}\\)số trang sách. Ngày thứ hai, Minh đọc được số trang sách còn lại. Ngày thứ ba, Minh đọc nốt 36 trang còn lại. Hỏi cuốn sách bạn Minh có bao nhiêu trang?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Tính số phần trang sách ngày thứ 2 Minh đọc.\n-Tính số phần trang sách ngày thứ 3 Minh đọc.\n-Ngày thứ 3 đọc được 36 trang, từ đó tính được số trang của cuốn sách.\nLời giải chi tiết\nNgày thứ 2 Minh đọc số phần trang sách là:\n\\(\\dfrac{3}{5} \\cdot \\left( {1 - \\dfrac{1}{4}} \\right) = \\dfrac{3}{5} \\cdot \\dfrac{3}{4} = \\dfrac{9}{{20}}\\)(số trang sách)\nSố trang sách còn lại sau 2 ngày là:\n\\(1 - \\left( {\\dfrac{1}{4} + \\dfrac{9}{{20}}} \\right) = 1 - \\dfrac{7}{{10}} = \\dfrac{3}{{10}}\\) (số trang sách)\nTheo bài ra, ta có: \\(\\dfrac{3}{{10}}\\)số trang sách là 36 trang\nCuốn sách của Minh có số trang là:\n\\(36:\\dfrac{3}{{10}} = 36.\\dfrac{{10}}{3} = 120\\)(trang)\nVậy cuốn sách Minh đọc có 120 trang."
+    },
+    {
+        "problem": "a)Không dùng máy tính, hãy tính \\(\\sqrt {\\dfrac{{50}}{8}} \\)\nb)Trong hai số 1,7(3) và \\(\\sqrt 3 \\), số nào lớn hơn?\nHD:Trước hết hãy dùng máy tính để tính \\(\\sqrt 3 \\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Rút gọn số trong căn\n-Bấm máy tính, kiểm tra \\(\\sqrt 3 \\).\nLời giải chi tiết\na)\\(\\sqrt {\\dfrac{{50}}{8}}  = \\sqrt {\\dfrac{{25}}{4}}  = \\sqrt {\\dfrac{{{5^2}}}{{{2^2}}}}  = \\dfrac{5}{2}\\)\nb)\nTa có: \\(\\sqrt 3  = 1,7320508... < 1,733 < 1,7\\left( 3 \\right).\\)"
+    },
+    {
+        "problem": "a)Trên trục số, hãy xác định điểm biểu diễn số \\(\\sqrt 2  - 1\\).\nb)Viết biểu thức \\(\\left| {1 - \\sqrt 2 } \\right|\\) dưới dạng không chứa dấu giá trị tuyệt đối.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\left| A \\right| = A\\)nếu \\(A \\ge 0\\)\n\\(\\left| A \\right| =  - A\\) nếu \\(A < 0\\)\nLời giải chi tiết\n\na) Gọi A là điểm biểu diễn số \\(\\sqrt 2 \\). Khi đó ta có OA = \\(\\sqrt 2 \\)\nDo đó, muốn có điểm B biểu diễn số \\(\\sqrt 2  - 1\\), từ điểm A, ta di chuyển 1 đơn vị theo chiều âm như hình bên.\nBằng dụng cụ học tập ta xác định điểm B như sau:\n+Xác định điểm A biểu diễn số \\(\\sqrt 2 \\)\n+Vẽ cung tròn tâm A, bán kính 1 đơn vị sao cho nó cắt trục số tại một điểm nằm giữa O và A. Đó chính là điểm B cần tìm.\nb) Ta có: 1 < 2 nên \\(1 < \\sqrt 2  \\Rightarrow 1 - \\sqrt 2  < 0\\)\nDo đó: \\(\\left| {1 - \\sqrt 2 } \\right| =  - \\left( {1 - \\sqrt 2 } \\right) = \\sqrt 2  - 1\\)"
+    },
+    {
+        "problem": "Trong một đợt phát động làm kế hoạch nhỏ, ba lớp 7A, 7B, 7C tham gia thu gom giấy vụn. Số kilogam giấy vụn gom được của ba lớp này lần lượt tỉ lệ với 2; 4; 5. Biết rằng khối lượng giấy vụn gom được của cả hai lớp 7A và 7C nhiều hơn của lớp 7B là 27 kg. Hỏi mỗi lớp thu gom được bao nhiêu kilogam giấy vụn?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Gọi x, y, z (kg) lần lượt là khối lượng giấy vụn thu gom được của ba lớp 7A, 7B và 7C.\n-\\(\\dfrac{x}{2} = \\dfrac{y}{4} = \\dfrac{z}{5};x + z - y = 27\\)\n-Áp dụng tính chất dãy tỉ số bằng nhau.\nLời giải chi tiết\nGọi x, y, z (kg) lần lượt là khối lượng giấy vụn thu gom được của ba lớp 7A, 7B và 7C.\nTheo đề bài,  ta có:\\(\\dfrac{x}{2} = \\dfrac{y}{4} = \\dfrac{z}{5};x + z - y = 27\\)\nÁp dụng tính chất dãy tỉ số bằng nhau ta có:\n\\(\\begin{array}{l}\\dfrac{x}{2} = \\dfrac{y}{4} = \\dfrac{z}{5} = \\dfrac{{x + z - y}}{{2 + 5 - 4}} = \\dfrac{{27}}{3} = 9\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}x = 2.9 = 18\\\\y = 4.9 = 36\\\\z = 5.9 = 45\\end{array} \\right.\\end{array}\\)\nVậy khối lượng giấy vụn của lớp 7A, 7B và 7C thu gom được lần lượt là 18 kg, 36 kg và 45 kg."
+    },
+    {
+        "problem": "Xe ô tô và xe máy cùng đi từ tỉnh A đến tỉnh B trên cùng một con đường. Biết rằng xe ô tô đi với vận tốc 80 km/h, xe máy đi với vận tốc 60 km/h. Thời gian đi từ A đến B của xe ô tô ít hơn thời gian đi tương ứng của xe máy là 30 phút. Hãy tính thời gian mỗi xe đi từ A đến B và độ dài quãng đường AB.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Do 2 xe cùng đi quãng đường AB nên thời gian đi tỉ lệ nghịch với vận tốc đi.\n-Áp dụng tính chất dãy tỉ số bằng nhau để tính.\nLời giải chi tiết\nGọi \\({t_1}\\)(giờ) là thời gian xe ô tô khi đi từ A đến B.\nGọi \\({t_2}\\) (giờ) là thời gian xe máy khi đi từ A đến B.\nDo 2 xe cùng đi quãng đường AB nên thời gian đi tỉ lệ nghịch với vận tốc đi.\nDo đó, ta có:\\(80{t_1} = 60{t_2} \\Rightarrow \\dfrac{{{t_1}}}{{60}} = \\dfrac{{{t_2}}}{{80}} \\Rightarrow \\dfrac{{{t_1}}}{3} = \\dfrac{{{t_2}}}{4}\\)\nĐổi 30 phút = 0,5 giờ\nTheo bài ra, ta có: \\({t_2} - {t_1} = 0,5\\)\nÁp dụng tính chất của dãy tỉ số bằng nhau, ta có:\n\\(\\begin{array}{l}\\dfrac{{{t_1}}}{3} = \\dfrac{{{t_2}}}{4} = \\dfrac{{{t_2} - {t_1}}}{{4 - 3}} = \\dfrac{{0,5}}{1} = 0,5\\\\ \\Rightarrow \\left\\{ \\begin{array}{l}{t_1} = 0,5.3 = 1,5\\\\{t_2} = 0,5.4 = 2\\end{array} \\right.\\end{array}\\)\nVậy thời gian để đi từ tỉnh A đến tỉnh B của xe ô tô và xe máy lần lượt là 1,5 giờ và 2 giờ.\nQuãng đường AB dài là: S = v.t = 80 . 1,5 = 120 (km)"
+    },
+    {
+        "problem": "Hai đa thức A(x) và B(x) thoả mãn:\n\\(A\\left( x \\right) + B\\left( x \\right) = {x^3} - 5{x^2} - 2x + 4;A\\left( x \\right) - B\\left( x \\right) =  - {x^3} + 3{x^2} - 2\\)\na)Tìm A(x), B(x) rồi xác định bậc, hệ số cao nhất và hệ số tự do của mỗi đa thức đó.\nb)Tìm giá trị của mỗi đa thức A(x) và B(x) tại x = -1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Lấy vế trái cộng vế trái, vế phải cộng vế phải: \\(A\\left( x \\right) + B\\left( x \\right) + A\\left( x \\right) - B\\left( x \\right) \\Rightarrow A\\left( x \\right) \\Rightarrow B\\left( x \\right)\\)\n-Thay x = -1 vào 2 đa thức tìm được.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}A\\left( x \\right) + B\\left( x \\right) = {x^3} - 5{x^2} - 2x + 4\\\\A\\left( x \\right) - B\\left( x \\right) =  - {x^3} + 3{x^2} - 2\\end{array}\\)\nLấy vế trái cộng vế trái, vế phải cộng vế phải, ta được:\n\\(\\begin{array}{l}A\\left( x \\right) + B\\left( x \\right) + A\\left( x \\right) - B\\left( x \\right) = \\left( {{x^3} - 5{x^2} - 2x + 4} \\right) + \\left( { - {x^3} + 3{x^2} - 2} \\right)\\\\2A\\left( x \\right) = \\left( {{x^3} - {x^3}} \\right) + \\left( { - 5{x^2} + 3{x^2}} \\right) + \\left( { - 2x} \\right) + \\left( {4 - 2} \\right)\\\\2A\\left( x \\right) =  - 2{x^2} - 2x + 2\\\\A\\left( x \\right) =  - {x^2} - x + 1\\end{array}\\)\nBậc: 2\nHệ số cao nhất:-1\nHệ số tự do: 1\nMà\n\\(\\begin{array}{l}A\\left( x \\right) + B\\left( x \\right) = {x^3} - 5{x^2} - 2x + 4\\\\ \\Rightarrow B\\left( x \\right) = \\left( {{x^3} - 5{x^2} - 2x + 4} \\right) - A\\left( x \\right)\\\\ \\Rightarrow B\\left( x \\right) = \\left( {{x^3} - 5{x^2} - 2x + 4} \\right) - \\left( { - {x^2} - x + 1} \\right)\\\\ \\Rightarrow B\\left( x \\right) = {x^3} - 5{x^2} - 2x + 4 + {x^2} + x - 1\\\\ \\Rightarrow B\\left( x \\right) = {x^3} - 4{x^2} - x + 3\\end{array}\\)\nBậc: 3\nHệ số cao nhất: 1\nHệ số tự do: 3\nb)\nTa có:\n\\(\\begin{array}{l}A\\left( { - 1} \\right) =  - {\\left( { - 1} \\right)^2} - \\left( { - 1} \\right) + 1 =  - 1 + 1 + 1 = 1\\\\B\\left( { - 1} \\right) = {1^3} - {4.1^2} - 1 + 3 = 1 - 4 - 1 + 3 =  - 1\\end{array}\\)"
+    },
+    {
+        "problem": "Cho đa thức \\(F\\left( x \\right) = {x^4} - {x^3} - 6{x^2} + 15x - 9\\)\na)Kiểm tra lại rằng x = 1 và x = -3 là hai nghiệm của F(x).\nb)Tìm đa thức G(x) sao cho \\(F\\left( x \\right) = \\left( {x - 1} \\right)\\left( {x + 3} \\right).G\\left( x \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\begin{array}{l}F\\left( x \\right) = \\left( {x - 1} \\right)\\left( {x + 3} \\right).G\\left( x \\right)\\\\ \\Rightarrow G\\left( x \\right) = F\\left( x \\right):\\left[ {\\left( {x - 1} \\right)\\left( {x + 3} \\right)} \\right]\\\\ \\Rightarrow G\\left( x \\right) = \\left( {{x^4} - {x^3} - 6{x^2} + 15x - 9} \\right):\\left( {{x^2} + 2x - 3} \\right)\\end{array}\\)\nLời giải chi tiết\na)\nTa có:\n\\(\\begin{array}{l}F\\left( 1 \\right) = {1^4} - {1^3} - {6.1^2} + 15.1 - 9 = 0\\\\F\\left( 3 \\right) = {3^4} - {3^3} - {6.3^2} + 15.3 - 9 = 0\\end{array}\\)\nVậy x = 1 và x = -3 là hai nghiệm của F(x).\nb)\n\\(\\begin{array}{l}F\\left( x \\right) = \\left( {x - 1} \\right)\\left( {x + 3} \\right).G\\left( x \\right)\\\\ \\Rightarrow G\\left( x \\right) = F\\left( x \\right):\\left[ {\\left( {x - 1} \\right)\\left( {x + 3} \\right)} \\right]\\\\ \\Rightarrow G\\left( x \\right) = \\left( {{x^4} - {x^3} - 6{x^2} + 15x - 9} \\right):\\left( {{x^2} + 2x - 3} \\right)\\end{array}\\)\nTa đặt tính chia:\n\nVậy \\(G\\left( x \\right) = {x^3} - 3x + 3\\)"
+    },
+    {
+        "problem": "Tìm góc MBy trong hình 1, biết rằng Ax // By\nHD: Kẻ thêm đường thẳng đi qua M và song song với Ax.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Kẻ thêm đường thẳng đi qua M và song song với Ax\n-Chỉ ra các cặp góc so le trong bằng nhau\n-Từ đó, tính được góc MBy.\nLời giải chi tiết\n\nKẻ thêm đường thẳng đi qua M và song song với Ax.\nTừ các đường thẳng song song, ta có:\n\\(\\widehat {xAM} = \\widehat {{M_1}} = {40^0}\\) (2 góc so le trong)\nMà \\(\\widehat {{M_1}} + \\widehat {{M_2}} = {90^0}\\left( {gt} \\right) \\Rightarrow {40^0} + \\widehat {{M_2}} = {90^0} \\Rightarrow \\widehat {{M_2}} = {90^0} - {40^0} = {50^0}\\)\nMặt khác: \\(\\widehat {MBy} = \\widehat {{M_2}} = {50^0}\\) (2 góc so le trong)."
+    },
+    {
+        "problem": "Cho 5 điểm A, B, C, D, E cùng nằm trên một đường thẳng d sao cho AB = DE, BC = CD. Điểm M không thuộc d sao cho MC vuông góc với d. Chứng minh rằng:\na)\\(\\Delta MBC = \\Delta MDC,\\Delta MAC = \\Delta MEC\\)\nb)\\(\\Delta MAB = \\Delta MED\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Chứng minh:\n\\(\\begin{array}{l}\\Delta MBC = \\Delta MDC\\left( {c - g - c} \\right),\\\\\\Delta MAC = \\Delta MEC\\left( {c - g - c} \\right)\\end{array}\\)\n-Áp dụng kết quả ý a, chứng minh b) \\(\\Delta MAB = \\Delta MED\\left( {c - c - c} \\right)\\)\nLời giải chi tiết\n\na)\n-Xét \\(\\Delta MBC\\) và \\(\\Delta MDC\\)có:\n\\(\\begin{array}{l}\\widehat {MCB} = \\widehat {BCD} = {90^0}\\\\BC = CD\\left( {gt} \\right)\\\\MC:chung\\\\ \\Rightarrow \\Delta MBC = \\Delta MDC\\left( {c - g - c} \\right)\\\\ \\Rightarrow MB = MD\\left( {ctu} \\right)\\end{array}\\)\n-Xét \\(\\Delta MAC\\) và \\(\\Delta MEC\\)có:\n\\(\\begin{array}{l}\\widehat {MCA} = \\widehat {MCE} = {90^0}\\\\MC:chung\\\\\\left\\{ \\begin{array}{l}AC = AB + BC\\\\EC = DE + CD\\end{array} \\right.\\\\Do\\,AB = DE;BC = CD\\left( {gt} \\right)\\\\ \\Rightarrow AC = EC\\\\ \\Rightarrow \\Delta MAC = \\Delta MEC\\left( {c - g - c} \\right)\\\\ \\Rightarrow MA = ME\\left( {ctu} \\right)\\end{array}\\)\nb)\nXét \\(\\Delta MAB\\)và \\(\\Delta MED\\)có:\nMA = ME (cmt)\nMB = MD (cmt)\nAB = ED (gt) \\( \\Rightarrow \\Delta MAB = \\Delta MED\\left( {c - c - c} \\right)\\)"
+    },
+    {
+        "problem": "Cho tam giác ABC vuông tại đỉnh A; ba điểm M, N, P lần lượt nằm trên các cạnh BC, CA, AB của tam giác ABC sao cho M là trung điểm của BC, MN vuông góc với AC và MP vuông góc với AB. Chứng minh rằng:\na)\\(\\Delta MNC = \\Delta BPM\\)\nb)\\(\\widehat {NMP} = {90^0}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) \\( \\Delta MNC = \\Delta BPM\\left( {ch - gn} \\right)\\)\nb) Chứng minh tứ giác MNAP là hình chữ nhật\\(\\widehat {MCN} = \\widehat {BMP}\\).\nLời giải chi tiết\n\na)\nXét \\(\\Delta MNC\\) và \\(\\Delta BPM\\)có:\n\\(\\begin{array}{l}\\widehat {MNC} = \\widehat {BPM} = {90^0}\\\\MC = BM\\left( {gt} \\right)\\end{array}\\)\n\\(\\widehat {MCN} = \\widehat {BMP}\\)(cùng phụ với góc B)\n\\( \\Rightarrow \\Delta MNC = \\Delta BPM\\left( {ch - gn} \\right)\\)\nb)\nXét tứ giác MNAP có:\n\\(\\widehat A = \\widehat {MPA} = \\widehat {MNA} = {90^0}\\)\n\\( \\Rightarrow \\)Tứ giác MNAP là hình chữ nhật\n\\( \\Rightarrow \\widehat {NMP} = {90^0}\\)"
+    },
+    {
+        "problem": "Cho bốn điểm A, B, C và D như Hình 2. Biết rằng \\(\\widehat {BEC} = {40^0};\\widehat {EBA} = {110^0};AB = DC\\). Chứng minh rằng:\na)Tam giác BEC cân tại đỉnh E.\nb)EA = ED.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)Chứng minh \\(\\widehat {EBC} = \\widehat {ECB} = {70^0}\\)\nb)Chứng minh: \\(\\Delta ABE = \\Delta DCE\\left( {c - g - c} \\right)\\).\nLời giải chi tiết\na)\nTa có: \\(\\widehat {ABE} + \\widehat {EBC} = {180^0}\\)(2 góc kề bù)\n\\(\\begin{array}{l} \\Rightarrow {110^0} + \\widehat {EBC} = {180^0}\\\\ \\Rightarrow \\widehat {EBC} = {180^0} - {110^0}\\\\ \\Rightarrow \\widehat {EBC} = {70^0}\\end{array}\\)\nXét tam giác EBC: \\(\\widehat E + \\widehat B + \\widehat C = {180^0}\\) (Tổng ba góc trong tam giác)\n\\(\\begin{array}{l} \\Rightarrow {40^0} + {70^0} + \\widehat C = {180^0}\\\\ \\Rightarrow \\widehat C = {180^0} - {110^0}\\\\ \\Rightarrow \\widehat C = {70^0}\\\\ \\Rightarrow \\widehat {EBC} = \\widehat {ECB} = {70^0}\\end{array}\\)\n\\( \\Rightarrow \\Delta EBC\\) cân tại E\n\\( \\Rightarrow EB = EC\\)\nb)CM: EA = ED\nTa có:\n\\(\\begin{array}{l}\\widehat {ECD} = {180^0} - \\widehat {ECB} = {180^0} - {70^0} = {110^0}\\\\ \\Rightarrow \\widehat {ABE} = \\widehat {DCE}\\end{array}\\)\nXét \\(\\Delta ABE\\)và có:\n\\(\\begin{array}{l}BE = CE\\left( {cmt} \\right)\\\\\\widehat {ABE} = \\widehat {DCE}\\left( {cmt} \\right)\\\\AB = DC\\left( {gt} \\right)\\\\ \\Rightarrow \\Delta ABE = \\Delta DCE\\left( {c - g - c} \\right)\\\\ \\Rightarrow AE = DE\\end{array}\\)"
+    },
+    {
+        "problem": "Tròn đưa cho Vuông một tờ giấy, trên đó có vẽ điểm C và hai đường thẳng a và b không đi qua C, cho biết hai đường thẳng a và b không song song với nhau (giao điểm của a và b nằm ngoài tờ giấy). Tròn đố Vuông vẽ được đường thẳng c đi qua C sao cho ba đường thẳng a, b, c đồng quy. Sau một hồi suy nghĩ, Vuông làm như sau (H.3):\n\n-Vẽ đường thẳng đi qua C và vuông góc với a. Đường thẳng này cắt b tại B.\n-Vẽ đường thẳng đi qua C và vuông góc với b. Đường thẳng này cắt a tại A.\nVuông khẳng định rằng đường thẳng c cần vẽ chính là đường thằng đi qua C và vuông góc với AB.\nEm hãy giải thích tại sao Vuông lại khẳng định như vậy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chứng minh: a, b, c là 3 đường cao trong tam giác.\nLời giải chi tiết\nXét tam giác ABC, có: \\(\\left\\{ \\begin{array}{l}a \\bot BC\\\\b \\bot AC\\\\c \\bot AB\\end{array} \\right.\\)\n\\( \\Rightarrow a,b,c\\) là ba đường cao của tam giác ABC nên chúng đồng quy"
+    },
+    {
+        "problem": "a)Chứng minh rằng nếu tam giác ABC có đường trung tuyến xuất phát từ A bằng một nửa cạnh BC thì tam giác đó vuông tại đỉnh A.\nb)Cho đoạn thẳng AB. Hãy nêu một cách sử dụng kết quả của câu a để vẽ đường thẳng vuông góc với AB tại A (bằng thước và compa)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- MA = MB = MC\n- Chỉ ra các tam giác cân và các góc bằng nhau\n- Chứng minh góc A bằng 90 độ.\nLời giải chi tiết\n\na) Ta có:MA = MB = MC (gt)\n\\( \\Rightarrow \\Delta MAB;\\Delta MAC\\) là hai tam giác cân tại đỉnh M\n\\( \\Rightarrow \\left\\{ \\begin{array}{l}\\widehat {{A_1}} = \\widehat {{B_1}}\\\\\\widehat {{A_2}} = \\widehat {{C_1}}\\end{array} \\right.\\)\nXét tam giác ABC:\n\\(\\widehat A + \\widehat B + \\widehat C = {180^0}\\) (Tổng 3 góc trong 1 tam giác)\n\\(\\begin{array}{l} \\Rightarrow \\widehat {{A_1}} + \\widehat {{A_2}} + \\widehat B + \\widehat C = {180^0}\\\\ \\Rightarrow \\left( {\\widehat {{A_1}} + \\widehat B} \\right) + \\left( {\\widehat {{A_2}} + \\widehat C} \\right) = {180^0}\\\\ \\Rightarrow 2\\widehat {{A_1}} + 2\\widehat {{A_2}} = {180^0}\\\\ \\Rightarrow \\widehat {{A_1}} + \\widehat {{A_2}} = {90^0}\\end{array}\\)\nb)\nVẽ tam giác cân MAB rồi kéo dài BM về phía M đến điểm C sao cho MC = BM. Khi đó tam giác ABC vuông tại A."
+    },
+    {
+        "problem": "Cho hai biểu đồ sau biểu diễn các số liệu tại một trường Trung học cơ sở:\n\na)Biểu đồ a biểu diễn đại lượng nào theo thời gian?\nb)Nêu nhận xét về sự thay đổi số lượt học sinh tham gia các câu lạc bộ từ năm 2016 đến năm 2021.\nc)Lập bảng thống kê cho số liệu biểu diễn trong Biểu đồ 2.\nd)Tính số lượt học sinh đăng kí trong mỗi câu lạc bộ trong năm 2020.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào biểu đồ đọc các dữ liệu\nLời giải chi tiết\na)Biểu đồ 1 biểu diễn số lượt học sinh tham gia các câu lạc bộ từ năm 2016 đến năm 2021.\nb)\nNăm 2017, số lượt học sinh tham gia các câu lạc bộ giảm so với năm 2016.\nCác năm tiếp theo, số lượt học sinh tham gia các câu lạc bộ đều tăng so với năm trước đó.\nc)\nBảng thống kê\nCâu lạc bộ\nThể thao\nNghệ thuật\nHọc tập\nTỉ lệ lượt học sinh tham gia (%)\n30\n25\n45\n\nd)\nTổng số lượt học sinh tham gia các câu lạc bộ năm 2020 là 800 (lượt)\nSố lượt học sinh tham gia câu lạc bộ Thể thao là: 800 . 30% = 240 (lượt)\nSố lượt học sinh tham gia câu lạc bộ Nghệ thuật là: 800 . 25% = 200 (lượt)\nSố lượt học sinh tham gia câu lạc bộ Học tập là: 800 . 45% = 360 (lượt)"
+    },
+    {
+        "problem": "Cho một hộp đựng n viên bi màu xanh và m viên bi màu đỏ. Lấy ngẫu nhiên một viên bi trong hộp.\na)Tìm điều kiện của m và n để biến cố “Lấy được viên bi màu đỏ” có:\nb)Giả sử n = 10; m = 5. Tính xác suất để lấy được viên bi màu đỏ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a)\n-Biến cố chắc chắn có xác suất bằng 1\n-Biến cố không thể có xác suất bằng 0\nb)\nTìm các biến cố đồng khả năng, rồi tính xác suất.\nLời giải chi tiết\na)\nGọi A : “ Lấy được viên bi màu đỏ”\n-Biến cố A có xác suất bằng 1 khi A là biến cố chắc chắn. Khi đó trong hộp đựng toàn viên bi màu đỏ, không có viên bi màu xanh. Vậy n = 0.\n-Biến cố A có xác suất bằng 0 khi A là biến cố không thể. Khi đó trong hộp phải không có viên bi màu đỏ, tức là: m = 0.\n-Biến cố A có xác suất bằng \\(\\dfrac{1}{2}\\)  khi biến cố “Lấy được viên bi màu đỏ” và biến cố “ lấy được viên bi màu xanh” là đồng khả năng. Khi đó  m = n.\nb)\nĐánh số viên bi đỏ là D1; D2;…;D5 và 10 viên bi màu xanh là X1; X2; …; X10.\nXét các biến cố sau:\nA: “ Lấy được một trong năm viên bi D1; .. , D5”;\nB: “Lấy được một trong năm viên bi X1; …; X5\nC: “Lấy được một trong năm viên bi X6; … ; X10”.\nMỗi viên bi có khả năng lấy được như nhau\nDo đó, 3 biến cố A, B, C đồng khả năng\nVì luôn xảy ra duy nhất 1 trong 3 biến cố nên xác suất của biến cố A là 1/3.\nVậy xác suất lấy được viên bi màu đỏ là \\(\\dfrac{1}{3}\\)"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Câu 1. Trong các số sau số nào chia hết cho 2:\nA. 102;\nB. 1 443;\nC. 305;\nD. 909.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số chia hết cho 2 là các số có chữ số tận cùng là 0; 2; 4; 6; 8.\nTa thấy 102 có tận cùng bằng 2 nên 102 chia hết cho 2.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 2. Trong các số: 10 203; 450; 305; 194 724; 234 500. Có bao nhiêu số chia hết cho 5.\nA. 0;\nB. 1;\nC. 2;\nD. 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số chia hết cho 5 có chữ số tận cùng là 0 hoặc 5 là: 450; 305 và 234 500.\nVậy có 3 số chia hết cho 5.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Trong các số: 102; 355; 270; 2 350; 6 708. Số nào chia hết cho cả 2 và 5.\nA. 102 và 270.\nB. 355 và 2 350.\nC. 270 và 2 350.\nD. 355 và 6 708.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Số vừa chia hết cho 2 và 5 là số có tận cùng bằng 0.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Trong các số sau số nào chia hết cho 3: 421; 248; 2 020; 2025.\nA. 421.\nB. 248.\nC. 2 020.\nD. 2 025.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 4 + 2 +1 = 7 không chia hết cho 3 nên 421 không chia hết cho 3.\nTa có: 2 + 4 + 8 = 14 không chia hết cho 3 nên 248 không chia hết cho 3.\nTa có 2 + 0 + 2 + 0 = 4 không chia hết cho 3 nên 2 020 không chia hết cho 3.\nTa có: 2 + 0 + 2 +5 = 9 chia hết cho 3 nên 2 025 chia hết cho 3.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Phát biểu nào dưới đây là đúng?\nA. Các số có tổng các chữ số chia hết cho 3 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9.\nB. Các số có chữ số tận cùng là 3; 6; 9 thì chia hết cho 3.\nC. Các số có chữ số tận cùng là 0; 2; 4; 6; 8 thì chia hết cho 5.\nD. Các số có chữ số tận cùng là 0; 5 thì chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác số có tổng các chữ số chia hết cho 9 thì chia hết cho 9 và chỉ những số đó mới chia hết cho 9. Do đó A sai.\nCác số có tổng các chữ số chia hết cho 3 thì chia hết cho 3 và chỉ những số đó mới chia hết cho 3. Do đó B sai.\nCác số có chữ số tận cùng là 0; 2; 4; 6 là các số chia hết cho 2. Do đó C sai.\nCác số có chữ số tận cùng là 0 hoặc 5 là các số chia hết cho 5. Do đó D đúng\nĐáp án: D"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Không thực hiện phép tính, em hãy cho biết phát biểu nào là đúng.\nA. 1 953 + 1 975 chia hết cho 9.\nB. 2 020 – 938 chia hết cho 2.\nC. 1 942 – 1 930 chia hết cho 5.\nD. 2 225 + 1 113 chia hết cho 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 1 + 9 + 5 + 3 = 18 chia hết cho 9 nên 1 953 chia hết cho 9, nhưng 1 + 9 + 7 + 5 = 22 không chia hết cho 9 nên 1 975 không chia hết cho 9.\nSuy ra 1 953 + 1 975 không chia hết cho 9. Do đó A sai.\n2 020 và 938 là số có chữ số tận cùng lần lượt là 0 và 8 nên cả hai số đều chia hết cho 2. \nSuy ra 2 020 – 938 chia hết cho 2. Do đó B đúng.\nTa có 1 942 có tận cùng là 2 không chia hết cho 5, còn 1 930 có tận cùng là 0 nên chia hết cho 5. Như vậy 1 942 – 1 930 không chia hết cho 5. Do đó C sai.\nTa có 2 + 2 + 2 + 5 = 11 không chia hết cho 3, 1 + 1 + 1 + 3 = 6 chia hết cho 3. \nSuy ra 2 225 + 1 113 chia hết cho 3. Do đó D sai.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Dùng ba chữ số 3; 0; 4 để viết các số có ba chữ số khác nhau chia hết cho 2. Hỏi có bao nhiêu số như vậy?\nA. 6.\nB. 4.\nC. 2.\nD. 0.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố chia hết cho 2 thì chữ số tận cùng chỉ có thể là 0 hoặc 4.\nNên các số ba chữ số khác nhau lập từ ba chữ số 3; 0; 4 mà chia hết cho 2 là: 304; 340.\nVậy có 2 số như vậy.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 4. Từ các chữ số 5; 0; 4; 2. Viết các số tự nhiên có ba chữ số khác nhau sao cho mỗi số đó chia hết cho 3.\nA. 2;\nB. 4;\nC. 6;\nD.8.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 5 + 0 +   4 = 9 chia hết cho 3 nên các số có ba chữ số khác nhau chia hết cho 3 lập từ ba chữ số này là: 504; 540; 405; 450.\nTa có: 0 + 4 + 2 = 6 chia hết cho 3 nên các số có ba chữ số khác nhau chia hết cho 3 lập từ ba chữ số này là: 402; 420; 240; 204.\nVậy có tất cả 8 số.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Trong các phát biểu dưới đây, có bao nhiêu phát biểu đúng?\nI) Số có chữ số tận cùng là 4 thì chia hết cho 2.\nII) Số chia hết cho 2 thì có chữ số tận cùng là 4.\nIII) Số vừa chia hết cho 2 vừa chia hết cho 5 thì có chữ số tận cùng là 0.\nIV) Số chia hết cho 5 thì có chữ số tận cùng là 5.\nA. 1;\nB. 2;\nC. 3;\nD. 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố có chữ số tận cùng là 4 thì chia hết cho 2. Suy ra (I) đúng.\nSố chia hết cho 2 có thể có chữ số tận cùng là các số 0; 2; 4; 6; 8 không nhất thiết là số 4. Suy ra (II) sai.\nSố vừa chia hết cho 2 vừa chia hết cho 5 thì có chữ số tận cùng là 0. Suy ra (III) đúng.\nSố chia hết cho 5 có chữ số tận cùng là 0 hoặc 5 không chỉ mỗi số 5. Suy ra (IV) sai.\nVậy có 2 phát biểu đúng.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Có 162 học sinh tham gia chương trình đào tạo bóng đá, được chia thành các đội. Mỗi đội cần có 9 học sinh. Nhận xét nào dưới đây là đúng.\nA. Có một đội không đủ 9 học sinh.\nB. Có hai một không đủ 9 học sinh.\nC. Có ba đội không đủ 9 học sinh.\nD. Không có đội nào không đủ 9 học sinh.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tổng các chữ số của 162 là 1 + 6 + 2 = 9 chia hết cho 9 nên 162 chia hết cho 9. Do đó chia 162 em học sinh thành các đội, thì không có đội nào không đủ 9 học sinh.\nĐáp án: D"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "problem": "Câu 1. Viết phân số âm năm phần tám\nA.\\frac{5}{8}\nB.\\frac{8}{−5}\nC.\\frac{−5}{8}\nD. -5,8",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số âm năm phần tám được viết là\\frac{−5}{8}\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu2. Trong các cách viết sau đây, cách viết nào cho ta phân số:\nA.\\frac{12}{0}\nB.\\frac{−4}{5}\nC.\\frac{3}{0,25}\nD.\\frac{4,4}{11,5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+)\\frac{12}{0}không là phân số vì mẫu số bằng0.\n+)\\frac{3}{0,25} không là phân số vì mẫu số là số thập phân.\n+)\\frac{4,4}{11,5} không là phân số vì tử số và mẫu số là số thập phân.\n+)\\frac{−4}{5} là phân số vì−4,5∈Z và mẫu số là 5khác0.\nĐáp án cần chọn là:B"
+    },
+    {
+        "problem": "Câu 4. Phân số nào dưới đây bằng với phân số\\frac{−2}{5}\nA.\\frac{4}{10}\nB.\\frac{−6}{15}\\frac{−2}{5}≠\\frac{6}{15}\nC.\\frac{6}{15}\nD.\\frac{−4}{−10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án A: Vì −2.10≠4.5 nên\\frac{−2}{5}≠\\frac{4}{10}\n→ A sai.\nĐáp án B: Vì −2.15=−6.5=−30 nên\\frac{−2}{5}=\\frac{−6}{15}\n→ B đúng\nĐáp án C: Vì −2.15≠6.5 nên\\frac{−2}{5}≠\\frac{6}{15}\n→ C sai.\nĐáp án D: Vì −2.−10≠−4.5 nên\\frac{−2}{5}≠\\frac{−4}{−10}\n→ D sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu5. Điền số thích hợp vào chỗ chấm\\frac{15}{90}=\\frac{5}{...}\nA. 20\nB. −60\nC. 60\nD. 30",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\frac{15}{90}=\\frac{5}{x} <=>15x=90.5 <=> x=\\frac{90.5}{15} <=>x = 30\nVậy số cần điền là 30\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 6 . Viết số nguyên – 16 dưới dạng phân số ta được:\nA.\\frac{−16}{0}\nB.\\frac{16}{1}\nC.\\frac{−16}{1}\nD.\\frac{16}{0}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết số nguyên – 16 dưới dạng phân số ta được:\\frac{−16}{1}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu7. Nhận xét nào sau đây làđúngkhi nói về phân số?\nA. Phân số nhỏ hơn số 0 gọi là phân số âm.\nB. Phân số lớn hơn số 0 gọi là phân số dương.\nC. Phân số âm nhỏ hơn phân số dương.\nD. Cả A, B và C đều đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Những nhận xét đúng là:\n- Phân số nhỏ hơn số 0 gọi là phân số âm.\n- Phân số lớn hơn số 0 gọi là phân số dương.\n- Phân số âm nhỏ hơn phân số dương.\nĐáp án cần chọn là:D"
+    },
+    {
+        "problem": "Câu8. Phân số có tử bằng−4, mẫu bằng5được viết là:\nA.\\frac{−5}{4}\nB.\\frac{4}{5}\nC.\\frac{−4}{5}\nD.\\frac{5}{4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số có tử bằng−4, mẫu bằng5được viết là:\\frac{−4}{5}\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu9. Tổng các sốa; b; cthỏa mãn\\frac{6}{9}=\\frac{12}{a}=\\frac{b}{−54}=\\frac{−738}{c}là:\nA. 1161\nB. −1125 \nC. −1053 \nD. 1089",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n\\frac{6}{9}=\\frac{12}{a}⇒6.a=9.12⇒a=\\frac{9.12}{6}=18\\frac{6}{9}=\\frac{b}{−54}⇒6.−54=9.b⇒b=\\frac{6.−54}{9}=−36\\frac{6}{9}=\\frac{−738}{c}⇒6.c=9.−738⇒c=\\frac{9.−738}{6}=−1107\nVậya+b+c=18+−36+−1107=−1125\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu10. Cho tậpA = {1;−2; 3; 4}. Có bao nhiêu phân số có tử số và mẫu số thuộcAmà có tử số khác mẫu số và tử số trái dấu với mẫu số?\nA. 9\nB. 6\nC. 3\nD. 12",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các phân số thỏa mãn bài toán là:\n\\frac{1}{−2};\\frac{3}{−2};\\frac{4}{−2};\\frac{−2}{1};\\frac{−2}{3};\\frac{−2}{4}\nVậy có tất cả6phân số.\nĐáp án cần chọn là:B"
+    },
+    {
+        "problem": "Dạng 2. Các dạng toán về mở rộng khái niệm phân số, phân số bằng nhau\nCâu 1. Hãy viết phép chia sau dưới dạng phân số: (- 58) : 73\nA.\\frac{−58}{73}\nB.\\frac{58}{73}\nC.\\frac{73}{−58}\nD.\\frac{58}{73}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phép chia(−58):73được viết dưới dạng phân số là\\frac{−58}{73}\nĐáp án cần chọn là:A"
+    },
+    {
+        "problem": "Câu 3. Chọn câu sai?\nA.\\frac{1}{3}=\\frac{45}{135}\nB.\\frac{−13}{20}=\\frac{26}{−40}\nC.\\frac{−4}{15}=\\frac{−16}{−60}\nD.\\frac{6}{7}=\\frac{−42}{−49}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án A: Vì 1.135=3.45nên\\frac{1}{3}=\\frac{45}{135}\n→ A đúng\nĐáp án B: Vì −13.−40=20.26 nên\\frac{−13}{20}=\\frac{26}{−40}\n→ B đúng\nĐáp án C: Vì −4.−60≠15.−16 nên\\frac{−4}{15}=\\frac{−16}{−60}\n→ C sai\nĐáp án D: Vì 6.−49=7.−42 nên\\frac{−4}{15}=\\frac{−16}{−60}\n→ D đúng\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Tìm số nguyên x biết\\frac{35}{15}=\\frac{x}{3}\nA. x = 7\nB. x = 5\nC. x = 15\nD. x = 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Vậy x = 7\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Viết 20 dm^{2}  dưới dạng phân số với đơn vị là mét vuông\nA.\\frac{100}{20}m2\nB.\\frac{20}{100}m2\nC.\\frac{20}{10}m2\nD.\\frac{20}{1000}m2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:20dm2=\\frac{20}{100}m2\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu8. Cho các phân số:\\frac{15}{60};\\frac{−7}{5};\\frac{6}{15};\\frac{28}{−20};\\frac{3}{12}\nSố cặp phân số bằng nhau trong những phân số trên là:\nA. 4\nB. 1\nC. 3\nD. 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Các phân số dương:\\frac{15}{60};\\frac{6}{15};\\frac{3}{12}\n+ Vì:15.15≠60.6 Nên\\frac{15}{60}≠\\frac{6}{15}\n+ Vì: 6.12≠15.3 Nên\\frac{6}{15}≠\\frac{3}{12}\n+ Vì: 15.12=60.3 Nên\\frac{15}{60}=\\frac{3}{12}\n- Các phân số âm:\\frac{−7}{5};\\frac{28}{−20}\nVì−7.−20=5.28\nNên\\frac{−7}{5}=\\frac{28}{−20}\nVậy có hai cặp phân số bằng nhau trong các phân số đã cho.\nĐáp án cần chọn là:D"
+    },
+    {
+        "problem": "Câu 9. Tính tổng các giá trịx∈Z biết rằng−\\frac{111}{37}<x<\\frac{91}{13}\nA. 22\nB. 20\nC. 18\nD. 15",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n−\\frac{111}{37}<x<\\frac{91}{13}⇒−3<x<7⇒x∈−2;−1;0;1;2;3;4;5;6\nVậy tổng các giá trị củaxthỏa mãn là:(−2) + (−1) + ... + 5 + 6 = 18\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu 11. Có bao nhiêu cặp số nguyên (x; y) thỏa mãn \\frac{x}{5}=\\frac{3}{y}và x > y\nA. 4\nB. 3\nC. 2\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n\\frac{x}{5}=\\frac{3}{y}⇒x.y=5.3=15\nMà15=5.3=15.1=−3.−5=−1.−15\nVàx,y∈Z,x<y\nNênx;y∈5;3,15;1,−3;−5,−1;−15\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu12. Tìmx; ybiết\\frac{x−4}{y−3}=\\frac{4}{3}vàx – y = 5\nA. x = 15; y = 5\nB. x = 5; y = 15\nC. x = 20; y = 15\nD. x = 25; y = 10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:x−y=5⇒x=y+5\nThay vào\\frac{x−4}{y−3}=\\frac{4}{3}ta được:\n\\frac{y+5−4}{y−3}=\\frac{4}{3} \\frac{y+1}{y−3}=\\frac{4}{3}3y+1=4y−33y+3=4y−123y−4y=−12−3−y=−15 ⇒x=15+5=20\nVậy x = 20; y = 15\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu13. Tìm số nguyênxbiết rằng\\frac{x}{3}=\\frac{27}{x}vàx < 0.\nA. x = 81\nB. x = −81\nC. x = −9\nD. x = 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\frac{x}{3}=\\frac{27}{x}\nx.x = 81\nx^{2 } = 81\nTa có:x = 9hoặcx = −9\nKết hợp điều kiệnx < 0nên có một giá trịxthỏa mãn là:x = −9\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu14. Viết số nguyênadưới dạng phân số ta được:\nA.\\frac{a}{0}\nB.\\frac{0}{a}\nC.\\frac{a}{1}\nD.\\frac{1}{a}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Viết số nguyênadưới dạng phân số ta được:\\frac{a}{1}\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu15. Cách viết nào sau đây cho ta một phân số:\nA.\\frac{4}{0}\nB.\\frac{1,5}{3}\nC.\\frac{0}{7}\nD.\\frac{−5}{3,5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+\\frac{4}{0}có mẫu bằng0nên không là phân số\n+\\frac{1,5}{3} có1,5∉Z nên không là phân số\n+\\frac{0}{7}là phân số\n+\\frac{−5}{3,5} có3,5∉Z nên không là phân số\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu 16. Phân số\\frac{−9}{7} được đọc là:\nA. Chín phần bảy\nB. Âm bảy phần chín\nC. Bảy phần chín\nD. Âm chín phần bảy",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Phân số \\frac{−9}{7} được đọc là: Âm chín phần bảy\nĐáp án cần chọn là:D"
+    },
+    {
+        "problem": "Dạng 3. Tính chất cơ bản của phân số\nCâu 1. Chọn câu sai. Vớia;b;m∈Z;b,m≠0\nA.\\frac{a}{b}=\\frac{a.m}{b.m}\nB.\\frac{a}{b}=\\frac{a+m}{b+m}\nC.\\frac{a}{b}=\\frac{−a}{−b}\nD.\\frac{a}{b}=\\frac{a:n}{b:n}với n là ước chung của a; b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dựa vào các tính chất cơ bản của phân số:\n\\frac{a}{b}=\\frac{a.m}{b.m};m∈Z;m≠0\nVà\\frac{a}{b}=\\frac{a:n}{b:n};n∈UCa;b\nVà\\frac{a}{b}=\\frac{−a}{−b}\nthì các đáp án A, C, D đều đúng.\nĐáp án B sai.\nĐáp án cần chọn là:B"
+    },
+    {
+        "problem": "Câu2. Tìm sốa; bbiết\\frac{24}{56}=\\frac{a}{7}=\\frac{−111}{b}\nA. a = 3, b = −259\nB. a = −3, b = −259\nC. a = 3,b = 259\nD. a = −3, b = 259",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n\\frac{24}{56}=\\frac{24:8}{56:8}=\\frac{3}{7}=\\frac{a}{7}⇒a=3\n\\frac{3}{7}=\\frac{3.−37}{7.−37}=\\frac{−111}{−259}=\\frac{−111}{b}⇒b=−259\nVậy a = 3; b = - 259\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu3. Nhân cả tử số và mẫu số của phân số\\frac{14}{23} với số nào để được phân số\\frac{168}{276} ?\nA. 14\nB. 23\nC. 12\nD. 22",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:168:14=12 và276:23=12 nên số cần tìm là12\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu 4. Hãy cho phân số không bằng phân số \\frac{−8}{9}trong các phân số dưới đây?\nA.\\frac{16}{−18}\nB.\\frac{−72}{81}\nC.\\frac{−24}{−27}\nD.\\frac{−88}{99}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án A:\\frac{16}{−18}=\\frac{−16}{18}=\\frac{−16:2}{18:2}=\\frac{−8}{9} nên A đúng.\nĐáp án B: \\frac{−72}{81}=\\frac{−72:9}{81:9}=\\frac{−8}{9}nên B đúng.\nĐáp án C: \\frac{−24}{−27}=\\frac{24}{27}=\\frac{24:3}{27:3}=\\frac{8}{9}≠\\frac{−8}{9}nên C sai.\nĐáp án D:\\frac{−88}{99}=\\frac{−88:11}{99:11}=\\frac{−8}{9}nên D đúng.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 5. Phân số\\frac{−m}{−n};n,m∈Z;n≠0 bằng phân số nào sau đây\nA.\\frac{m}{n}\nB.\\frac{n}{m}\nC.\\frac{−n}{m}\nD.\\frac{m}{−n}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\\frac{−m}{−n}=\\frac{m}{n}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu6. Tìmxbiết\\frac{2323}{3232}=\\frac{x}{32}\nA. 101\nB. 32\nC. −23\nD. 23",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\\frac{2323}{3232}=\\frac{2323:101}{3232:101}=\\frac{23}{32}=\\frac{x}{32}⇒x=23\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Viết dạng tổng quát của các phân số bằng với phân số\\frac{−12}{40}\nA.\\frac{−3k}{10k},k∈Z\nB.\\frac{−3k}{10},k∈Z,k≠0\nC.\\frac{−3k}{10k},k∈Z,k≠0\nD.\\frac{−3}{10}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Rút gọn phân số:\\frac{−12}{40}=\\frac{−12:4}{40:4}=\\frac{−3}{10}\n- Dạng tổng quát của phân số đã cho là:\\frac{−3k}{10k},k∈Z,k≠0\nĐáp án cần chọn là:C"
+    },
+    {
+        "problem": "Câu 8. Rút gọn phân số sau thành phân số tối giản:\\frac{5}{20}=?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy 5 và 20 cùng chia hết cho 5 nên ta có: \\frac{5}{20}=\\frac{5:5}{20:5}=\\frac{1}{4}\nVậy đáp án đúng điền vào ô trống lần lượt từ trên xuống dưới là1; 4."
+    },
+    {
+        "problem": "Dạng 4. Các dạng toán về tính chất cơ bản của phân số\nCâu 1. Tìm x biết \\frac{2323}{3232}=\\frac{x}{32}\nA. 101 \nB. 32  \nC. −23\nD. 23",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \\frac{2323}{3232}=\\frac{2323:101}{3232:101}=\\frac{23}{32}=\\frac{x}{32}⇒x=23\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 2. Phân số bằng phân số  mà có tử số và mẫu số đều là số dương, có ba chữ số là phân số nào?\nA. \\frac{151}{201}\nB. \\frac{602}{806}\nC. \\frac{301}{403}\nD. \\frac{903}{1209}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n+ \\frac{301}{403}=\\frac{301.2}{403.2}=\\frac{602}{806}TM\n+ \\frac{301}{403}=\\frac{301.3}{403.3}=\\frac{903}{1209}L\nDo đó ở các trường hợp nhân cả tử và mẫu với một số tự nhiên lớn hơn 33 ta cũng đều loại được.\nNgoài ra phân số \\frac{301}{403} tối giản nên không thể rút gọn được.\nVậy phân số cần tìm là \\frac{602}{806}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Tìm x biết  \\frac{−5}{−14}=\\frac{20}{6−5x}\nA. x = 10 \nB. x = −10           \nC. x = 5     \nD. x = 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \\frac{−5}{−14}=\\frac{−5.−4}{−14.−4}=\\frac{20}{56}=\\frac{20}{6−5x}\n⇒ 56 = 6 − 5x\n56 – 6 = −5x\n50 = −5x\nx = 50:(−5)\nx = −10\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4.  Cho A=\\frac{1.3.5.7...39}{21.22.23...40} và A=\\frac{1.3.5...2n−1}{n+1n+2n+3...2n}n∈N*\nChọn câu đúng.\nA. A=\\frac{1}{220};B=\\frac{1}{2n}\nB. A=\\frac{1}{225};B=\\frac{1}{2n+1}\nC. A=\\frac{1}{220};B=\\frac{1}{22n}\nD. A=\\frac{1}{221};B=\\frac{1}{2n+1}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Nhân cả tử và mẫu của A với 2.4.6…40 ta được:\nA=\\frac{1.3...39.2.4...40}{2.4.6...40.21.22...40}=\\frac{1.2.3...39.40}{2.1.2.2.2.3...2.20.21.22...40}=\\frac{1.2.3...39.40}{220.1.2.3...20.21.22...40}=\\frac{11}{220}\n+ Nhân cả tử và mẫu của B với 2.4.6…2n ta được:\nB=\\frac{1.3...2n−1.2.4...2n}{2.4.6...2n.n+1.n+2...2n}=\\frac{1.2.3...2n−1.2n}{2.1.2.2.2.3...2.n.n+1.n+2...2n}=\\frac{1.2.3...2n−1.2n}{2n.1.2.3...n.n+1.n+2...2n}=\\frac{1}{2n}\nVậy A=\\frac{1}{220};B=\\frac{1}{2n}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Tìm phân số bằng với phân số \\frac{200}{520} mà có tổng của tử và mẫu bằng 306\nA. \\frac{84}{222}\nB. \\frac{200}{520}\nC. \\frac{85}{221}\nD. \\frac{100}{260}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: \\frac{200}{520}=\\frac{5}{13}\nNên có dạng tổng quát là: \\frac{5k}{13k}k∈Z,k≠0\nDo tổng và tử và mẫu của phân số cần tìm bằng 306 nên: \n5k+13k=306\n18k=306\nk=306:18\nk=17\nVậy phân số cần tìm là \\frac{5.17}{13.17}=\\frac{85}{221}\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6.\nCho các phân số \\frac{6}{n+8};\\frac{7}{n+9};\\frac{8}{n+10};...;\\frac{35}{n+37} . Tìm số tự nhiên nn nhỏ nhất để các phân số trên tối giản.\nA. 35      \nB. 34           \nC. 37                        \nD. 36",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các phân số đã cho đều có dạng \\frac{a}{a+n+2}\nVà tối giản nếu a và n + 2 nguyên tố cùng nhau\nVì: [a + (n + 2)] – a = n + 2 với\na = 6; 7; 8; .....; 34; 35\nDo đó n + 2 nguyên tố cùng nhau với các số 6; 7; 8; .....; 34; 35\nSố tự nhiên n+2 nhỏ nhất thỏa mãn tính chất này là 37\nTa có n+2=37nên n=37−2=35\nVậy số tự nhiên nhỏ nhất cần tìm là 35\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7.\nTrong các phân số dưới đây, phân số nào bằng phân số \\frac{3}{5}\nA. \\frac{6}{15}\nB. \\frac{20}{12}\nC. \\frac{15}{25}\nD. \\frac{18}{36}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n\\frac{6}{15}=\\frac{6:3}{15:3}=\\frac{2}{5}\n\\frac{15}{25}=\\frac{15:5}{25:5}=\\frac{3}{5} \\frac{20}{12}=\\frac{20:4}{12:4}=\\frac{5}{3}\\frac{18}{36}=\\frac{18:18}{36:18}=\\frac{1}{2}\nVậy trong các phân số đã cho, phân số bằng với phân số \\frac{3}{5}  là phân số \\frac{15}{25}\nĐáp án cần chọn là: C"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Cho hình vuông MNPQ, khẳng định nào sau đây đúng?\nA. MN và PQ song song\nB. MN và NP song song\nC. MQ và PQ song song\nD. MN và MQ song song",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong hình vuông MNPQ có hai cặp cạnh đối song song với nhau là:\n+ MN và PQ.\n+ MQ và NP\n=> Đáp án A đúng.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Chọn phát biểu sai?\nA. Hình vuông có bốn cạnh bằng nhau\nB. Hình vuông có bốn cặp cạnh đối song song\nC. Hình vuông có hai đường chéo bằng nhau\nD. Hình vuông có bốn góc bằng nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nHình vuông có hai cặp cạnh đối song song => Đáp án B sai.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Phát biểu nào sau đây sai?\nA. Hình lục giác đều có 6 đỉnh\nB. Hình lục giác đều có 6 cạnh\nC. Hình lục giác đều có 6 đường chéo chính\nD. Hình lục giác đều có 6 góc",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác đáp án A, B, D đúng.\nHình lục giác đều có 3 đường chéo chính => Đáp án C sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Chọn phát biểu sai:\nA. Tam giác đều có ba cạnh\nB. Ba cạnh của tam giác đều bằng nhau\nC. Bốn góc của tam giác đều bằng nhau\nD. Tam giác đều có ba đỉnh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong tam giác đều ba góc bằng nhau  =>  Đáp án C sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Cho tam giác đều MNP có MN = 5cm, khẳng định nào sau đây đúng?\nA. NP = 3cm\nB. MP = 4cm\nC. NP = 6cm\nD. MP = 5cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTrong tam giác đều ba cạnh bằng nhau mà MN = 5cm nên ta có: MN = NP = MP = 5cm\n=> Chọn D\nĐáp án cần chọn là: D"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "problem": "Câu 1 : Hãy chọn đáp án đúng nhất: \nA.\tTrong hai số tự nhiên, số nào có nhiều chữ số hơn thì lớn hơn\nB.\tTrong hai số tự nhiên, số nào có ít chữ số hơn thì bé hơn\nC.\tCả A và B đều đúng\nD.\tCả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trong hai số tự nhiên:\n- Số nào có nhiều chữ số hơn thì lớn hơn.  Số nào có ít chữ số hơn thì bé hơn.\n- Nếu hai số có chữ số bằng nhau thì so sánh từng cặp chữ số \nở cùng một hàng kể từ trái sang phải.\nVậy cả A và B đều đúng."
+    },
+    {
+        "problem": "Câu 2 :  Chọn dấu thích hợp điền vào chỗ chấm: \n 1378 ... 968\nA.\t>\nB.\t<\nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số 1378 có nhiều chữ số hơn số 968 nên 1378>968.\nVậy 1378>968."
+    },
+    {
+        "problem": "Câu 4 : Chọn dấu thích hợp để điền vào chỗ chấm: \n453982 ... 458127\nA.\t=\nB.\t>\nC.\t<",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai số đã cho có số chữ số bằng nhau.\n chữ số hàng trăm nghìn đều bằng 4, hàng chục nghìn đều bằng 5, \nđến hàng nghìn ta có 3<8.\nDo đó 453982<458127.\nVậy: 453982<458127."
+    },
+    {
+        "problem": "Câu 5 : Tìm số tự nhiên x, biết:  x < 8.   \nA.\t0; 1; 2; 3; 4; 5; 6; 7; 8\nB.\t1; 2; 3; 4; 5; 6; 7\nC.\t1; 2; 3; 4; 5; 6; 7; 8\nD.\t0; 1; 2; 3; 4; 5; 6; 7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Các số tự nhiên nhỏ hơn 8 là 0;1;2;3;4;5;6;7.\nVậy x  là: 0;1;2;3;4;5;6;7"
+    },
+    {
+        "problem": "Câu 6 :  Tìm số tự nhiên x biết x là số chẵn lớn nhất sao cho 151 < x < 168.\nA.\t168\nB.\t166\nC.\t158\nD.\t152",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Giữa số 151 và số 168 có các số chẵn là: 152;154;156;158;160;162;164;166.\nMà x là số chẵn lớn nhất nên x là 166.\nThử lại ta có: 151<166<168\nVậy x là 166."
+    },
+    {
+        "problem": "Câu 7 :  Cho x là số liền sau của số 2016 và y là số liền trước của số 2018. Hãy so sánh x và y. \nA.\tx = y\nB.\tx < y\nC.\tx > y",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số liền sau của số 2016 là 2017. Do đó x=2017.\n liền trước của số 2018 là 2017. Do đó y=2017.\nMà  2017=2017.\nVậy x=y."
+    },
+    {
+        "problem": "Câu 8 : ọn chữ số thích hợp để điền vào chỗ chấm biết:  123507 < 12350... \nA.\t7; 8\nB.\t8\nC.\t8; 9\nD.\t7; 8; 9",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai số 123507<12350... có chữ số ở hàng trăm nghìn cùng là 1, \nchữ số ở hàng chục nghìn cùng là 2, chữ số ở hàng nghìn cùng là 3, \nchữ số ở hàng trăm cùng là 5, chữ số ở hàng chục cùng là 0.  \nLại có đề bài 123507<12350..., từ đó suy ra chữ số cần điền vào chỗ chấm \nphải lớn hơn chữ số hàng đơn vị của số 123507, \nhay chữ số cần điền vào chỗ chấm lớn hơn 7.\nCác chữ số lớn hơn 7 là 8;9.\nVậy chữ số thích hợp điền vào ô trống là 8;9."
+    },
+    {
+        "problem": "Câu 10 :  Cho A là số lớn nhất nhỏ hơn số chẵn nhỏ nhất có sáu chữ số khác nhau. Tổng tất cả các chữ số của số A là: \nA.\t15 \nB.\t16\nC.\t18\nD.\t20",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số chẵn nhỏ nhất có sáu chữ khác nhau là: 102346.\nSố lớn nhất nhỏ hơn số chẵn nhỏ nhất có sáu chữ số khác nhau chính là số liền trước \ncủa số chẵn nhỏ nhất có sáu chữ số khác nhau, \nhay A là số liền trước của số 102346, tức là A=102345.\nTổng tất cả các chữ số của A là:\n   1+0+2+3+4+5=15"
+    },
+    {
+        "problem": "Câu 12 : Sắp xếp các số sau theo thứ tự từ bé đến lớn:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta thấy số 8659 có 4 chữ số, ba số 19415;69684;14775 đều có 5 chữ số. \nDo đó số bé nhất là 8659.\nTa sẽ so sánh ba số còn lại.\nXét chữ số hàng chục nghìn ta có 1<6. Vậy số lớn nhất là 69684.\nHai số 19415;14775 có chữ số ở hàng chục nghìn cùng là 1, \nở hàng nghìn có 9>4 nên 19415>14775 hay 14775<19415.\nDo đó ta có: 8659<14775<19415<69684.\nCác số sắp xếp theo thứ tự từ bé đến lớn là 8659;14775;19415;69684."
+    }
+]

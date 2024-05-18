@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Một máy bay đang ở độ cao 10 km. Khi máy bay hạ cánh xuống mặt đất, đường bay tạo một góc nghiêng lên so với mặt đất.\na) Nếu phi công muốn tạo góc nghiêng \\({3^o}\\) thì cách sân bay bao nhiêu ki-lô-mét phải cho máy bay bắt đầu hạ cánh (làm tròn đến chữ số hàng thập phân thứ ba) ?\nb) Nếu cách sân bay 300 km, máy bay bắt đầu hạ cánh thì góc nghiêng là bao nhiêu (làm tròn đến độ) ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng hệ thức lượng giác và các hệ thức về cạnh và góc trong tam giác vuông để tính.\nLời giải chi tiết\na) Nếu phi công muốn tạo góc nghiêng \\({3^o}\\) thì cách sân bay \\(10.\\cot {3^o} \\approx 190,811\\) km phải cho máy bay bắt đầu hạ cánh\nb) Nếu cách sân bay 300 km, máy bay bắt đầu hạ cánh thì gọi góc nghiêng là x\n\\( \\Rightarrow \\tan x = \\dfrac{{10}}{{300}} = \\dfrac{1}{{30}} \\Rightarrow x \\approx {2^o}\\)\nVậy nếu cách sân bay 300 km, máy bay bắt đầu hạ cánh thì góc nghiêng là khoảng \\({2^o}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một người quan sát ở đài hải đăng cao 800 feet (đơn vị đo lường Anh) so với mực nước biển nhìn thấy một con tàu ở xa với một góc nghiêng xuống là \\({1^o}42'\\).\nHỏi khoảng cách từ tàu đến chân ngọn hải đăng là bao nhiêu hải lí ( 1 hải lí = 5280 feet ) ?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi các số đo về cùng đơn vị, áp dụng hệ thức về cạnh và góc trong tam giác vuông để tính.\nLời giải chi tiết\nĐổi 800 feet = \\(\\dfrac{{800}}{{5280}} = \\dfrac{5}{{33}}\\) hải lí\nKhoảng cách từ tàu đến chân ngọn hải đăng là khoảng\\(\\dfrac{5}{{33}}.\\cot {1^o}42' \\approx 5,11\\) hải lí\nLoigiaihay.com"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "problem": "Câu 12: Bác Na nuôi 45 con gà. Trung bình mỗi ngày một con gà ăn hết 236 g thóc. Hỏi cần bao nhiêu ki-lô-gam thóc để nuôi số gà đó trong 30 ngày?\nA.\t10,62 kg\nB.\t31,86 kg\nC.\t106,2 kg\nD.\t318,6 kg",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số thóc để nuôi số gà đó trong 1 ngày là: \n236 x 45 = 10620 (g)\nSố thóc để nuôi số gà đó trong 30 ngày là:\n10620 x 30 = 318600 (g)\n318600 g = 318,6 kg\nĐáp số: 318,6kg"
+    }
+]

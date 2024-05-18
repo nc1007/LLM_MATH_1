@@ -1,0 +1,110 @@
+[
+    {
+        "problem": "Hãy chọn câu sai:\nA. Số chia hết cho 2 và 5 có tận cùng là số 0\nB. Một số chia hết cho 10 thì số đó chia hết cho 2\nC. Số chia hết cho 2 thì có tận cùng là số lẻ\nD. Số dư trong phép chia một số cho 2bằng số dư trong phép chia chữ số tận cùng của nó cho 2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố chia hết cho 2 có tận cùng là số chẵn nên câu sai là: Số chia hết cho 2 có tận cùng là số lẻ.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. Từ ba trong 4 số 5, 6, 3, 0, hãy ghép thành số có ba chữ số khác nhau là số lớn nhất chia hết cho 2 và 5.\nA. 560 \nB. 360\nC. 630 \nD. 650",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố chia hết cho 2và 5có tận cùng là 0nên chữ số hàng đơn vị của các số này là 0.\nTừ đó ta lập được các số có 3 chữ số khác nhau chia hết cho 2và 5 là: \n560; 530; 650; 630; 350; 360.\nSố lớn nhất trong 6 số trên là 650.\nVậy số cần tìm là 650.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 3. Chọn câu trả lời đúng.\nTrong các số 2055; 6430; 5041; 2341; 2305\nA. Các số chia hết cho 5 là 2055; 6430; 5041\nB. Có hai số chia hết cho 3 là 2055 và 6430\nC. Các số chia hết cho 5 là 2055; 6430; 2305\nD. Không có số nào chia hết cho 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số 2055; 6430; 2305 có tận cùng là 0 hoặc 5 nên các số đó chia hết cho 5. Suy ra C đúng, A sai.\nChỉ có mộtsố chia hết cho 3 là 2055 nên B, D sai.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 4. Số tự nhiên a chia cho 65 dư 10. Khi đó số tự nhiên a\nA. Chia cho 5 dư 1.\nB. Chia cho 5 dư 4.\nC. Chia cho 5 dư 3.\nD. Chia hết cho 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì số tự nhiên a chia cho 65 dư 10 nên ta có a = 65q + 10(qϵN)\nMà 65⁝5 và 10⁝5 nên a = 65q + 10chia hết cho 5.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Cho 17*¯ chia hết cho 2. Số thay thế cho * có thể là\nA. 1\nB. 2\nC. 3\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì * là chữ số tận cùng của 17*¯ nên * chỉ có thể là 0; 2; 4; 6; 8.\nVậy số 2 là số cần tìm.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Các số có chữ số tận cùng là … thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\nA. 0, 1, 2, 3\nB. 0, 2, 4, 6, 8\nC. 1, 3, 5, 7, 9\nD. 0 hoặc 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số có chữ số tận cùng là 0 hoặc 5 thì chia hết cho 5 và chỉ những số đó mới chia hết cho 5.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 7. Trong những số sau, có bao nhiêu số chia hết cho 2?\n100000984, 12345, 12543456, 1234567, 155498\nA. 2\nB. 3\nC. 4\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nCác số 100000984, 12543456, 155498 có chữ số tận cùng là số chẵn nên chia hết cho 2.\nCác số còn lại có chữ số tận cùng là số lẻ (5, 7) nên không chia hết cho 2.\nVậy có 3 số chia hết cho 2.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 8. Tổng chia hết cho 5 là\nA. A = 5+15+70+1995\nB. B = 10+25+34+2000\nC. C = 25+15+33+45\nD. D = 15+25+1000+2007",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì 5⁝5; 15⁝5; 70⁝5; 1995⁝5 nên A = (5+15+70+1995)⁝5Đáp án cần chọn là: A"
+    },
+    {
+        "problem": "Dạng 2.các dạng toán về dấu hiệu chia hết cho 2, cho 5\nCâu 1.Lớp 6A có 45 học sinh, có thể chia lớp thành hai nhóm, mỗi nhóm có số lượng học sinh bằng nhau.\nĐúng\nSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nĐể mỗi nhóm có số lượng học sinh bằng nhau thì 45 phải chia hết cho 2.\nĐiều này không xảy ra vì chữ số tận cùng của 45 là 5 nên 45 không chia hết cho 2."
+    },
+    {
+        "problem": "Câu 2. Số lớn nhất có 4 chữ số khác nhau và chia hết cho 2 là:\nA. 9998\nB. 9876\nC. 1234\nD. 1023",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố lớn nhất có 4 chữ số khác nhau bắt đầu bằng chữ số 9. Hai chữ số tiếp theo là 8 và 7.\nChữ số cuối cùng chia hết cho 2 và khác 8 nên là số 6.\nVậy số lớn nhất có 4 chữ số khác nhau và chia hết cho 2 là: 9876\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Trong những số sau, có bao nhiêu số chia hết cho 5?\n10005459, 12345, 1254360, 1234544, 155498\nA. 2\nB. 3\nC. 4\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố 12345 có chữ số tận cùng là 5 nên chia hết cho 5\nSố 1254360 có chữ số tận cùng là 0 nên chia hết cho 5\nCác số còn lại không có chữ số tận cùng là 0 cùng không có chữ số tận cùng là 5 nên không chia hết cho 5.\nVậy có 2 số chia hết cho 5.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 4. Bà Huệ có 19 quả xoài và 40 quả quýt. Khẳng định nào sau đây đúng?\nA. Bà Huệ có thể chia số xoài thành 5 phần bằng nhau.\nB. Bà Huệ có thể chia số xoài thành 5 phần và không thể chia số quýt thành 5 phần bằng nhau.\nC. Bà Huệ không thể chia số quýt thành 5 phần bằng nhau.\nD. Bà Huệ không thể chia số xoài thành 5 phần bằng nhau và có thể chia số quýt thành 5 phần bằng nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nBà Huệ có thể chia số quýt thành 5 phần bằng nhau vì số quýt là 40 chia hết cho 5.\nBà Huệ không thể chia số xoài thành 5 phần bằng nhau vì số xoài là 19 không chia hết cho 5.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 5. Cho 17*¯ chia hết cho 2. Số thay thế cho * có thể là\nA. 1\nB. 2\nC. 3\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì * là chữ số tận cùng của 17*¯ nên * chỉ có thể là 0; 2; 4; 6; 8.\nVậy số 2 là số cần tìm.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 6. Trong các số sau, số nào vừa chia hết cho 2 vừa chia hết cho 5?\nA. 550\nB. 9724\nC. 7905\nD. 5628",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n550 có chữ số tận cùng là 0.\nSố có chữ số tận cùng là 0 thì chia hết cho 2 và chia hết cho 5.\nVậy 550 vừa chia hết cho 2 vừa chia hết cho 5\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Tìm chữ số thích hợp ở dấu * để số 212*¯ vừa chia hết cho 2 vừa chia hết cho 5. \nA. 4\nB. 5\nC. 0\nD. 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n212*¯ chia hết cho cả 2 và 5 => * = 0.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 8. Tìm các số tự nhiên x vừa chia hết cho 2 vừa chia hết cho 5 và 1998 < x < 2018.\nA. xϵ{2010}\nB. xϵ{2000; 2010}\nC. xϵ{2010} \nD. xϵ{1990; 2000; 2010}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì x⁝2; x⁝5 nên x có chữ số tận cùng là 0 và 1998 < x < 2018 \nsuy ra x = 2000; x = 2010.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Cô giáo có một số quyển vở đủ để chia đều cho 5 bạn điểm cao nhất lớp trong kì thi. Hỏi cô giáo có bao nhiêu quyển vở biết rằng cô giáo có số vở nhiều hơn 30 và ít hơn 40 quyển?\nA. 30 quyển\nB. 34 quyển\nC. 35 quyển\nD. 36 quyển",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố vở của cô phải chia đều cho 5 bạn nên là số chia hết cho 5.\nTrong các số từ 31 đến 39 chỉ có số 35 chia hết cho 5.\nVậy số chia hết cho 5 là 35.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 10. Kết quả của phép tính 99^{5 } − 98^{4 } + 97^{3 } − 96^{2}  chia hết cho\nA. 2 \nB. 5\nC. Cả 2 và 5. \nD. 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có số 99^{5}  có chữ số tận cùng là 9\nSố 98^{4}  có chữ số tận cùng là 6\nSố 97^{3}  có chữ số tận cùng là 3\nSố 96^{2}  có chữ số tận cùng là 6\nNên phép tính\n99^{5} – 98^{4 } + 97^{3 } – 96^{2}  có chữ số tận cùng là 0 (do 9 – 6 + 3 – 6 = 10)\nDo đó kết quả của phép tính \n99^{5 } – 98^{4 } + 97^{3 } – 96^{2} chia hết cho cả 2 và 5.\nĐáp án cần chọn là: C"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "problem": "Câu 1 : Bình nói: “a + b = b + a”. Đúng hay sai?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Khi đổi chỗ các số hạng trong một tổng thì tổng đó không thay đổi.\nNên : “a+b=b+a”.\nVậy Bình nói đúng."
+    },
+    {
+        "problem": "Câu 6 : m + n = n + ... . Đáp án đúng điền vào chỗ chấm là: \nA.\tn\nB.\t0\nC.\t20\nD.\tm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: m+n=n+m\nVậy đáp án đúng điền vào chỗ chấm là m."
+    },
+    {
+        "problem": "Câu 7 : Cho biểu thức: 375 +28. Biểu thức nào sau đây có giá trị bằng biểu thức đã cho? \nA.\t28 + 377\nB.\t28 + 375\nC.\t28 + 370\nD.\t28 + 357",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 375+28=28+375\nVậy biểu thức có giá trị bằng với biểu thức 375+28 là 28+375."
+    },
+    {
+        "problem": "Câu 10 : 5269 + 2017 ... 2017 + 5962   \nDấu thích hợp điền vào chỗ chấm là:\nA.\t< \nB.\t> \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:   5269+2017=2017+5269\nLại có 5269<5962 nên 2017+5269<2017+5692\nDo đó 5269+2017<2017+5962"
+    },
+    {
+        "problem": "Câu 13 : Tìm y biết: 248×145 + 1900:100 = 1900:100 + 248×y \nA.\ty = 19\nB.\ty = 141\nC.\ty = 145\nD.\ty = 248",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất giao hoán của phép cộng ta có:\n      248×145+1900:100=1900:100+248×145\nTheo đề bài ta có: 248×145+1900:100=1900:100+248×y.\nDo đó 1900:100+248×145=1900:100+248×y.\nTừ đó suy ra y=145."
+    }
+]

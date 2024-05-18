@@ -1,0 +1,122 @@
+[
+    {
+        "problem": "Cho hai đường thẳng \\(y = \\frac{1}{4}x + 4\\) và \\(y = \\frac{1}{4}x - 4\\). Hai đường thẳng đã cho:\nA. Cắt nhau tại điểm có hoành độ là 4.\nB. Song song với nhau.\nC. Cắt nhau tại điểm có tung độ là 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cho hai đường thẳng \\(d:y = ax + b\\) và \\(d':y' = a'x + b'\\):\n+ Nếu \\(a = a',b \\ne b'\\) thì d và d’ song song với nhau và ngược lại.\n+ Nếu \\(a \\ne a'\\) thì d cắt d’.\n+ Nếu \\(a = a',b = b'\\) thì d và d’ trùng với nhau và ngược lại.\nLời giải chi tiết\nVì \\(\\frac{1}{4} = \\frac{1}{4};4 \\ne  - 4\\) nên hai đường thẳng song song với nhau\nChọn B"
+    },
+    {
+        "problem": "Hãy xác định hàm số \\(y = ax + b\\) biết đồ thị của hàm số là đường thẳng đi qua các điểm sau:\na) A (1; 5) và B (0; 2).\nb) M (1; 9) và N (0;1).\nc) P (0; 2) và Q (1; 0).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hàm số bậc nhất để làm: Thay tọa độ của các điểm thuộc hàm số vào hàm số để tìm a, b\nLời giải chi tiết\na) Vì đồ thị hàm số \\(y = ax + b\\) đi qua điểm B (0; 2) nên \\(2 = a.0 + b\\), hay \\(b = 2\\). Khi đó, \\(y = ax + 2\\).\nVì đồ thị hàm số \\(y = ax + 2\\) đi qua điểm A (1; 5) nên \\(5 = a.1 + 2\\), suy ra \\(a = 3\\)\nKhi đó, hàm số cần tìm là: \\(y = 3x + 2\\)\nb) Vì đồ thị hàm số \\(y = ax + b\\) đi qua điểm N (0;1) nên \\(1 = a.0 + b\\), hay \\(b = 1\\). Khi đó, \\(y = ax + 1\\).\nVì đồ thị hàm số \\(y = ax + 1\\) đi qua điểm M (1; 9) nên \\(9 = a.1 + 1\\), suy ra \\(a = 8\\)\nKhi đó, hàm số cần tìm là: \\(y = 8x + 1\\)\nc) Vì đồ thị hàm số \\(y = ax + b\\) đi qua điểm P (0; 2) nên \\(2 = a.0 + b\\), hay \\(b = 2\\).\nVì đồ thị hàm số \\(y = ax + b\\) đi qua điểm Q (1; 0) nên \\(0 = a.1 + 2\\), suy ra \\(a =  - 2\\)\nKhi đó, hàm số cần tìm là: \\(y =  - 2x + 2\\)"
+    },
+    {
+        "problem": "Cho đồ thị hàm số \\(y = ax\\) đi qua điểm \\(A\\left( {2; - 4} \\right)\\).\na) Xác định hệ số a.\nb) Tìm tọa độ của điểm thuộc đồ thị có hoành độ bằng \\( - 3\\).\nc) Tìm tọa độ của điểm thuộc đồ thị có tung độ bằng \\( - 2\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về hàm số bậc nhất để làm:\na) Thay tọa độ của điểm A vào hàm số để tìm a.\nb) Thay hoành độ của điểm thuộc đồ thị hàm số (tức là \\(x =  - 3\\)) để tìm tung độ của điểm đó.\nc) Thay tung độ của điểm thuộc đồ thị hàm số (tức là \\(y =  - 2\\)) để tìm hoành độ của điểm đó.\nLời giải chi tiết\na) Vì đồ thị hàm số \\(y = ax\\) đi qua điểm \\(A\\left( {2; - 4} \\right)\\) nên \\( - 4 = 2.a\\), suy ra \\(a =  - 2\\)\nKhi đó, hàm số cần tìm là: \\(y =  - 2x\\)\nb) Vì đồ thị hàm số \\(y =  - 2x\\) đi qua điểm có hoành độ bằng \\( - 3\\) nên ta có:\n\\(y = \\left( { - 2} \\right)\\left( { - 3} \\right) = 6\\). Vậy tọa độ điểm cần tìm là: (-3; -6)\nc) Vì đồ thị hàm số \\(y =  - 2x\\) đi qua điểm có tung độ bằng \\( - 2\\) nên ta có:\n\\( - 2 = \\left( { - 2} \\right)x\\), suy ra \\(x = 1\\). Vậy tọa độ điểm cần tìm là: (1; -2)"
+    },
+    {
+        "problem": "a) Tìm tọa độ các điểm M, N, P, Q trong Hình 9.\nb) Em có nhận xét gì về vai trò của tia phân giác của góc xOy so với hai đường thẳng MN, PQ?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức tọa độ của một điểm trong mặt phẳng tọa độ: Ta xác định vị trí của điểm P trong mặt phẳng tọa độ Oxy bằng cách sau: Từ P vẽ các đường vuông góc với các trục tọa độ cắt trục hoành tại điểm a và trục tung tại điểm b. Khi đó cặp số (a; b) gọi là tọa độ của điểm P và kí hiệu P (a; b). Số a gọi là hoành độ và số b gọi là tung độ của điểm P.\nLời giải chi tiết\na) \\(M\\left( {3;2} \\right),{\\rm{ }}N\\left( {2;3} \\right),{\\rm{ }}P\\left( { - 2;0} \\right),{\\rm{ }}Q\\left( {0; - 2} \\right)\\)\nb) Các đoạn thẳng MN và PQ đều nhận tia phân giác của góc xOy làm trục đối xứng."
+    },
+    {
+        "problem": "Cho hàm số \\(y = f\\left( x \\right) = \\frac{1}{4}x\\). Lập bảng giá trị tương ứng của y khi x lần lượt bằng -4; -2; 0; 2; 4a; \\(4a + 4\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức giá trị của hàm số để tính: Cho hàm số \\(y = f\\left( x \\right)\\), nếu ứng với \\(x = a\\) ta có \\(y = f\\left( a \\right)\\) thì \\(f\\left( a \\right)\\) được gọi là giá trị của hàm số \\(y = f\\left( x \\right)\\) tại \\(x = a\\)\nLời giải chi tiết\nx\n-4\n-2\n0\n2\n4a\n\\(4a + 4\\)\n\\(y = f\\left( x \\right) = \\frac{1}{4}x\\)\n-1\n-0,5\n0\n0,5\na\n\\(a + 1\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(y = \\frac{{ - x + 9}}{9}\\). Phát biểu nào sau đây là đúng về đồ thị của hàm số đã cho?\nA. Là một đường thẳng số hệ số b là 9.\nB. Không phải là một đường thẳng.\nC. Cắt trục hoành tại điểm có hoành độ là 9.\nD. Đi qua điểm (19; 1).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức hàm số bậc nhất để tìm câu đúng: Hàm số bậc nhất là hàm số được cho bởi công thức \\(y = ax + b\\) với a, b là các số cho trước và \\(a \\ne 0\\).\n+ Thay giá trị của hoành độ điểm đó vào hàm số để tìm tung độ:\n+ Điểm thuộc trục hoành có tung độ bằng 0.\nLời giải chi tiết\nTa có: \\(y = \\frac{{ - x + 9}}{9} = \\frac{{ - x}}{9} + 1\\) nên đồ thị hàm số \\(y = \\frac{{ - x + 9}}{9}\\) là một đường thẳng có hệ số b bằng 1.\nVới \\(x = 19\\) thay vào hàm số ta có: \\(y = \\frac{{ - 19 + 9}}{9} = \\frac{{ - 10}}{9} \\ne 1\\) nên đường thẳng \\(y = \\frac{{ - x + 9}}{9}\\) không đi qua điểm (19; 1).\nVới \\(x = 9\\) thì \\(y = \\frac{{ - 9 + 9}}{0} = 0\\). Do đó, đồ thị của hàm số \\(y = \\frac{{ - x + 9}}{9}\\) cắt trục hoành tại điểm có hoành độ là 9.\nChọn C"
+    },
+    {
+        "problem": "Hãy xác định hàm số \\(y = ax + b\\) trong mỗi trường hợp sau:\na) Đồ thị của hàm số là đường thẳng đi qua điểm B (-1; 2) và cắt trục tung tại điểm có tung độ bằng 3.\nb) Đồ thị của hàm số là đường thẳng song song với đường thẳng \\(y =  - 3x + 1\\) và cắt trục hoành tại điểm có hoành độ bằng 3.\nc) Đồ thị của hàm số là đường thẳng cắt trục tung tại điểm có tung độ bằng \\( - 6\\) và cắt trục hoành tại điểm có hoành độ bằng 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a, c) Thay tọa độ của các điểm thuộc đồ thị hàm số vào hàm số để tìm a, b.\nb) Sử dụng kiến thức về hai đường thẳng song song để tìm a: Cho hai đường thẳng \\(d:y = ax + b\\) và \\(d':y' = a'x + b'\\), nếu \\(a = a',b \\ne b'\\) thì d và d’ song song với nhau và ngược lại.\nLời giải chi tiết\na) Đồ thị hàm số \\(y = ax + b\\) cắt trục tung tại điểm có tung độ bằng 3 nên điểm đó có hoành độ bằng 0. Khi đó, \\(3 = 0.a + b\\), suy ra \\(b = 3\\). Khi đó, \\(y = ax + 3\\)\nVì đồ thị hàm số \\(y = ax + 3\\) đi qua điểm B (-1; 2) nên \\(2 =  - 1.a + 3\\), suy ra \\(a = 1\\)\nVậy hàm số cần tìm là: \\(y = x + 3\\)\nb) Đồ thị của hàm số là đường thẳng song song với đường thẳng \\(y =  - 3x + 1\\) nên hàm số có dạng: \\(y =  - 3x + b\\left( {b \\ne 1} \\right)\\).\nĐồ thị hàm số \\(y =  - 3x + b\\) cắt trục hoành tại điểm có hoành độ bằng 3 nên điểm đó có tung độ bằng 0. Khi đó, \\(0 = 3.\\left( { - 3} \\right) + b\\), suy ra \\(b = 9\\) (thỏa mãn).\nVậy hàm số cần tìm là: \\(y =  - 3x + 9\\)\nc) Vì đồ thị hàm số cắt trục tung tại điểm có tung độ bằng \\( - 6\\) nên hoành độ điểm đó bằng 0. Khi đó ta có \\( - 6 = a.0 + b\\), suy ra \\(b =  - 6\\). Khi đó ta có: \\(y = ax - 6\\)\nVì đồ thị hàm số \\(y = ax - 6\\) cắt trục hoành tại điểm có hoành độ bằng 2 nên điểm đó có tung độ bằng 0. Khi đó ta có: \\(0 = 2.a - 6\\), suy ra \\(a = 3\\).\nVậy hàm số cần tìm là: \\(y = 3x - 6\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(y = 3x + 6\\).\na) Vẽ đồ thị của hàm số trên mặt phẳng tọa độ Oxy.\nb) Gọi A, B lần lượt là giao điểm của đồ thị hàm số trên với trục Ox, Oy. Xác định tọa độ của A, B và diện tích của tam giác AOB. (Đơn vị đo trên các trục tọa độ là cm.)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về cách vẽ đồ thị hàm số bậc nhất \\(y = ax + b\\left( {a \\ne 0} \\right)\\)\nBước 1: Cho \\(x = 0\\) thì \\(y = b\\), ta được điểm M (0; b) trên Oy.\nCho \\(y = 0\\) thì \\(x = \\frac{{ - b}}{a}\\), ta được điểm \\(N\\left( {\\frac{{ - b}}{a};0} \\right)\\) trên Ox.\nBước 2: Vẽ đường thẳng đi qua hai điểm M và N, ta được đồ thị của hàm số \\(y = ax + b\\).\nLời giải chi tiết\na) Đồ thị hàm số \\(y = 3x + 6\\) đi qua A (0; 6) và B (-2; 0).\n\nb) Ta có: \\(OA = 6;OB = 2\\)\nDiện tích tam giác AOB vuông tại O là:\n\\({S_{AOB}} = \\frac{1}{2}OA.OB = \\frac{1}{2}.6.2 = 6\\left( {c{m^2}} \\right)\\)"
+    },
+    {
+        "problem": "Tìm tọa độ của các điểm A, B, C, D, E và F trong Hình 10.\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức tọa độ của một điểm trong mặt phẳng tọa độ: Ta xác định vị trí của điểm P trong mặt phẳng tọa độ Oxy bằng cách sau: Từ P vẽ các đường vuông góc với các trục tọa độ cắt trục hoành tại điểm a và trục tung tại điểm b. Khi đó cặp số (a; b) gọi là tọa độ của điểm P và kí hiệu P (a; b). Số a gọi là hoành độ và số b gọi là tung độ của điểm P.\nLời giải chi tiết\n\\(A\\left( { - 4;3} \\right),{\\rm{ }}B\\left( {0;3} \\right),{\\rm{ }}C\\left( { - 1;0} \\right),{\\rm{ }}D\\left( { - 3; - 3} \\right),{\\rm{ }}E\\left( {1; - 2} \\right),F\\left( {3;1} \\right)\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(f\\left( x \\right) = a{x^4} - b{x^2} + x + 3\\) (a, b là hằng số). Cho biết \\(f\\left( 2 \\right) = 17.\\) Tính \\(f\\left( { - 2} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức giá trị của hàm số để tính: Cho hàm số \\(y = f\\left( x \\right)\\), nếu ứng với \\(x = a\\) ta có \\(y = f\\left( a \\right)\\) thì \\(f\\left( a \\right)\\) được gọi là giá trị của hàm số \\(y = f\\left( x \\right)\\) tại \\(x = a\\)\nLời giải chi tiết\nTa có: \\(f\\left( 2 \\right) \\) \\( = a{.2^4} - b{.2^2} + 2 + 3 \\) \\( = 16a - 4b + 5\\)\n\\(f\\left( { - 2} \\right) \\) \\( = a.{\\left( { - 2} \\right)^4} - b.{\\left( { - 2} \\right)^2} - 2 + 3 \\) \\( = 16a - 4b + 5 - 4 \\) \\( = f\\left( 2 \\right) - 4\\)\nMà \\(f\\left( 2 \\right) \\) \\( = 17\\) nên \\(f\\left( { - 2} \\right) \\) \\( = 17 - 4 \\) \\( = 13\\)"
+    },
+    {
+        "problem": "Đồ thị của hàm số \\(y = \\frac{x}{4} + 4\\) có dạng giống với đồ thị nào sau đây?\n",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về đồ thị hàm số để tìm dạng của đồ thị hàm số: Đồ thị hàm số \\(y = f\\left( x \\right)\\) trên mặt phẳng tọa độ Oxy là tập hợp tất cả các điểm \\(M\\left( {x;f\\left( x \\right)} \\right)\\).\nLời giải chi tiết\nVới \\(x = 0\\) thì \\(y = 4 > 0\\)\nVới \\(y = 0\\) thì \\(x =  - 1 < 0\\).\nDo đó, đồ thị hàm số có dạng giống đồ thị hàm số phần A.\nChọn A"
+    },
+    {
+        "problem": "Chứng tỏ đồ thị hàm số \\(y = \\left( {m - 1} \\right)x + m - 2\\) luôn đi qua một điểm cố định.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Gọi điểm \\(\\left( {{x_0};{y_0}} \\right)\\) là điểm cố định mà đồ thị hàm số \\(y = f\\left( x \\right)\\) luôn đi qua.\nDo đó, \\({y_0} = f\\left( {{x_0};m} \\right)\\) có nghiệm đúng với mọi m.\nLời giải chi tiết\nGiả sử điểm cố định của đồ thị hàm số \\(y = \\left( {m - 1} \\right)x + m - 2\\) là điểm \\(M\\left( {{x_0};{y_0}} \\right)\\)\nThay \\(x = {x_0}\\) và \\(y = {y_0}\\) vào \\(y = \\left( {m - 1} \\right)x + m - 2\\) ta được:\n\\({y_0} = \\left( {m - 1} \\right){x_0} + m - 2\\)\n\\(m{x_0} - {x_0} + m - 2 - {y_0} = 0\\)\n\\(m\\left( {{x_0} + 1} \\right) - \\left( {{y_0} + {x_0} + 2} \\right) = 0\\) (1)\nĐể (1) luôn đúng với mọi giá trị của m thì \\({x_0} + 1 = 0\\) và \\({y_0} + {x_0} + 2 = 0\\)\nSuy ra: \\({x_0} =  - 1\\) và \\({y_0} =  - 1\\)\nVậy điểm \\(M\\left( { - 1; - 1} \\right)\\) là điểm cố định mà đồ thị hàm số \\(y = \\left( {m - 1} \\right)x + m - 2\\) luôn đi qua."
+    },
+    {
+        "problem": "Trên mặt phẳng tọa độ Oxy, cho tọa độ của các điểm \\(A\\left( {3; - 1} \\right),B\\left( {2;5} \\right),C\\left( {4;1} \\right)\\) và \\(D\\left( { - 4; - 4} \\right)\\). Tìm tọa độ của các điểm A’, B’, C’ và D’ sao cho trục hoành là đường trung trực của AA’, BB’, CC’, DD’.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức tọa độ của một điểm trong mặt phẳng tọa độ: Ta xác định vị trí của điểm P trong mặt phẳng tọa độ Oxy bằng cách sau: Từ P vẽ các đường vuông góc với các trục tọa độ cắt trục hoành tại điểm a và trục tung tại điểm b. Khi đó cặp số (a; b) gọi là tọa độ của điểm P và kí hiệu P (a; b). Số a gọi là hoành độ và số b gọi là tung độ của điểm P.\n+ Để xác định một điểm P có tọa độ là (a; b), ta thực hiện các bước sau:\nLời giải chi tiết\nBiểu diễn các điểm A, B, C, D, A’, B’, C’, D’ thỏa mãn yêu cầu bài toán trên mặt phẳng tọa độ Oxy ta được như hình vẽ bên.\nNhìn vào đồ thị ta ta có: A’ (3; 1); B’ (2; -5); C’ (4; -1); D’ (-4; 4)\n"
+    },
+    {
+        "problem": "Quãng đường d (km) đi được của một ô tô tỉ lệ thuận với thời gian t (giờ) theo công thức \\(d = 50t\\). Tính và lập bảng các giá trị tương ứng của d khi t lần lượt nhận các giá trị 1; 1,5; 2; 3; 4.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức giá trị của hàm số để tính: Cho hàm số \\(y = f\\left( x \\right)\\), nếu ứng với \\(x = a\\) ta có \\(y = f\\left( a \\right)\\) thì \\(f\\left( a \\right)\\) được gọi là giá trị của hàm số \\(y = f\\left( x \\right)\\) tại \\(x = a\\)\nLời giải chi tiết\nt\n1\n1,5\n2\n3\n4\n\\(d = 50t\\)\n50\n75\n100\n150\n200"
+    },
+    {
+        "problem": "Đoạn thẳng trong hình vẽ bên là tập hợp những điểm (x; y) thỏa mãn điều kiện nào dưới đây?\n\nA. \\( - 1 \\le y \\le 3\\) và \\(x = 2\\).\nB. \\( - 1 \\le x \\le 3\\) và \\(y \\le 2\\).\nC. \\( - 1 \\le x \\le 3\\) và \\(y = 2\\).\nD. \\(x \\ge  - 1\\) và \\(y = 2\\).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức về đồ thị hàm số để tìm đáp án đúng: Đồ thị của hàm số \\(y = f\\left( x \\right)\\) trên mặt phẳng tọa độ Oxy là tập hợp tất cả các điểm \\(M\\left( {x;f\\left( x \\right)} \\right)\\)\nLời giải chi tiết\nNhìn vào đồ thị ta thấy cặp số (x; y) thỏa mãn điều kiện: \\( - 1 \\le x \\le 3\\) và \\(y = 2\\)\nChọn C"
+    },
+    {
+        "problem": "Vẽ đường thẳng qua hai điểm A (0; 5) và \\(B\\left( { - 3;5} \\right)\\). Em có nhận xét gì về tung độ của các điểm trên đường thẳng AB?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Sử dụng kiến thức tọa độ của một điểm trong mặt phẳng tọa độ: Ta xác định vị trí của điểm P trong mặt phẳng tọa độ Oxy bằng cách sau: Từ P vẽ các đường vuông góc với các trục tọa độ cắt trục hoành tại điểm a và trục tung tại điểm b. Khi đó cặp số (a; b) gọi là tọa độ của điểm P và kí hiệu P (a; b). Số a gọi là hoành độ và số b gọi là tung độ của điểm P.\n+ Để xác định một điểm P có tọa độ là (a; b), ta thực hiện các bước sau:\nLời giải chi tiết\nCác điểm trên đường thẳng AB đều có tung độ bằng 5 như đồ thị hình vẽ bên.\n"
+    },
+    {
+        "problem": "Cho hàm số \\(y = 5x + 10\\). Giá trị của hàm số tại \\(x = a - 1\\) là:\nA. \\(5a + 5\\)\nB. \\(5a + 15\\)\nC. \\(5a + 3\\)\nD. \\(5a - 5\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức giá trị của hàm số để tính: Cho hàm số \\(y = f\\left( x \\right)\\), nếu ứng với \\(x = a\\) ta có \\(y = f\\left( a \\right)\\) thì \\(f\\left( a \\right)\\) được gọi là giá trị của hàm số \\(y = f\\left( x \\right)\\) tại \\(x = a\\)\nLời giải chi tiết\nVới \\(x = a - 1\\) ta có: \\(y = 5\\left( {a - 1} \\right) + 10 = 5a - 5 + 10 = 5a + 5\\)\nChọn A"
+    },
+    {
+        "problem": "Các điểm \\(A\\left( { - 3;8} \\right),B\\left( { - 2; - 5} \\right),C\\left( {1;0} \\right)\\) và \\(D\\left( {\\frac{1}{2};\\frac{3}{4}} \\right)\\) có thuộc đồ thị của hàm số \\(y = {x^2} - 1\\) hay không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay giá trị của hoành độ điểm đó vào hàm số để tìm tung độ:\n+ Nếu tung độ tìm được bằng tung độ của điểm đó thì điểm đó thuộc đồ thị hàm số.\n+ Nếu tung độ tìm được khác tung độ của điểm đó thì điểm đó không thuộc đồ thị hàm số.\nLời giải chi tiết\nThay \\(x =  - 3\\) vào hàm số \\(y = {x^2} - 1\\) ta có: \\(y = {\\left( { - 3} \\right)^2} - 1 = 8\\). Do đó, điểm \\(A\\left( { - 3;8} \\right)\\) thuộc đồ thị của hàm số \\(y = {x^2} - 1\\)\nThay \\(x =  - 2\\) vào hàm số \\(y = {x^2} - 1\\) ta có: \\(y = {\\left( { - 2} \\right)^2} - 1 = 3 \\ne  - 5\\). Do đó, điểm \\(B\\left( { - 2; - 5} \\right)\\) không thuộc đồ thị của hàm số \\(y = {x^2} - 1\\)\nThay \\(x = 1\\) vào hàm số \\(y = {x^2} - 1\\) ta có: \\(y = {1^2} - 1 = 0\\). Do đó, điểm \\(C\\left( {1;0} \\right)\\) thuộc đồ thị của hàm số \\(y = {x^2} - 1\\)\nThay \\(x = \\frac{1}{2}\\) vào hàm số \\(y = {x^2} - 1\\) ta có: \\(y = {\\left( {\\frac{1}{2}} \\right)^2} - 1 = \\frac{{ - 3}}{4} \\ne \\frac{3}{4}\\). Do đó, điểm \\(D\\left( {\\frac{1}{2};\\frac{3}{4}} \\right)\\) không thuộc đồ thị của hàm số \\(y = {x^2} - 1\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(y = f\\left( x \\right) = 3x - 2\\). Tính f(-5); f(-4); f(0); f(1); f(2); f(a); f(a+1).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng kiến thức giá trị của hàm số để tính: Cho hàm số \\(y = f\\left( x \\right)\\), nếu ứng với \\(x = a\\) ta có \\(y = f\\left( a \\right)\\) thì \\(f\\left( a \\right)\\) được gọi là giá trị của hàm số \\(y = f\\left( x \\right)\\) tại \\(x = a\\)\nLời giải chi tiết\nTa có: \\(f\\left( { - 5} \\right) = 3.\\left( { - 5} \\right) - 2 =  - 17\\); \\(f\\left( { - 4} \\right) = 3.\\left( { - 4} \\right) - 2 =  - 14\\); \\(f\\left( 0 \\right) = 3.\\left( 0 \\right) - 2 =  - 2\\);\n\\(f\\left( 1 \\right) = 3.1 - 2 = 1\\); \\(f\\left( 2 \\right) = 3.2 - 2 = 4\\); \\(f\\left( a \\right) = 3a - 2\\); \\(f\\left( {a + 1} \\right) = 3\\left( {a + 1} \\right) - 2 = 3a + 1\\)"
+    },
+    {
+        "problem": "Cho hàm số \\(y = f\\left( x \\right) = \\frac{2}{3}x + 5\\). Tìm tọa độ giao điểm của đồ thị hàm số đã cho với trục Ox và trục Oy.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Cho \\(x = 0\\) tìm y, từ đó ta tìm được giao điểm của đồ thị hàm số với trục Oy.\n+ Cho \\(y = 0\\) tìm x, từ đó ta tìm được giao điểm của đồ thị hàm số với trục Ox.\nLời giải chi tiết\nVới \\(x = 0\\) thì \\(y = \\frac{2}{3}.0 + 5 = 5\\). Do đó, tọa độ giao điểm của đồ thị hàm số đã cho với trục Oy là (0; 5).\nVới \\(y = 0\\) thì \\(0 = \\frac{2}{3}.x + 5\\), suy ra \\(x = \\frac{{ - 15}}{2}\\). Do đó, tọa độ giao điểm của đồ thị hàm số đã cho với trục Ox là \\(\\left( {\\frac{{ - 15}}{2};0} \\right)\\)."
+    }
+]

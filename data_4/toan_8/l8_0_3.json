@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Bài 2: Hãy chọn câu đúng. Điều kiện xác định của phương trình  là\nA. x ≠ 3\nB. x ≠ 2\nC. x ≠ -3\nD. x ≠ -2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐK: x + 2 ≠ 0 ⇔ x ≠ -2\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Bài 4: Hãy chọn câu đúng. Điều kiện xác định của phương trình  là\nA. x ≠ -1; x ≠ -2\nB. x ≠ ±1\nC. x ≠ 2 và x ≠ ±1\nD. x ≠ -2, x ≠ 1",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải\nĐK: x^{2}  – 1 ≠ 0 ⇔ x^{2}  ≠ 1 ⇔ x ≠ ±1\nĐáp án cần chọn là: B"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Tính:\na) \\(\\frac{4}{5}\\) của 100;\nb) \\(\\frac{1}{4}\\) của -8\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận dạng bài toán là tìm giá trị phân số của một số.\nMuốn tìm \\(\\dfrac{m}{n}\\) của một số a cho trước ta tính \\(a.\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\nLời giải chi tiết\na) \\(\\frac{4}{5}\\) của 100 là: \\(\\frac{4}{5}.100=80\\)\nb) \\(\\frac{1}{4}\\) của -8 là: \\(\\frac{1}{4}.(-8)=-2\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tàu ngầm lớp Kilo 636 trang bị cho Hải quân Việt Nam có thể lặn tối đa tới 300m. Sau 15 phút, tàu có thể lặn được tới độ sâu bằng \\(\\dfrac{2}{5}\\) độ sâu tối đa. Em hãy tính xem lúc đó tàu cách mực nước biển bao nhiêu mét?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhận dạng bài toán là tìm giá trị phân số của một số.\nMuốn tìm \\(\\dfrac{m}{n}\\) của một số a cho trước ta tính \\(a.\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\nLời giải chi tiết\nĐộ sâu bằng \\(\\dfrac{2}{5}\\) độ sâu tối đa là: \\(300.\\dfrac{2}{5} = 120\\left( m \\right)\\).\nVậy lúc đó, tàu cách mực nước biển độ sâu 120 mét."
+    },
+    {
+        "problem": "Tính: a)\\(\\frac{-1}{2}+\\frac{5}{6}+\\frac{1}{3}\\)\nb)\\(\\frac{-3}{8}+\\frac{7}{4}- \\frac{1}{12}\\)\nc)\\(\\frac{3}{5}: (\\frac{1}{4}. \\frac{7}{5})\\)\nd)\\(\\frac{10}{11}+\\frac{4}{11}: 4 - \\frac{1}{8}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện đúng thứ tự thực hiện phép tính trong ngoặc trước --> nhân, chia --> cộng, trừ\nLời giải chi tiết\na)\\(\\frac{-1}{2}+\\frac{5}{6}+\\frac{1}{3}=\\frac{-3}{6}+\\frac{5}{6} +\\frac{2}{6}=\\frac{4}{6}=\\frac{2}{3}\\)\nb)\\(\\frac{-3}{8}+\\frac{7}{4}- \\frac{1}{12}=\\frac{-9}{24}+ \\frac{42}{24} - \\frac{2}{24}=\\frac{31}{24}\\)\nc)\\(\\frac{3}{5}: (\\frac{1}{4}.\\frac{7}{5})=\\frac{3}{5}: \\frac{7}{20}= \\frac{3}{5}. \\frac{20}{7}=\\frac{12}{7}\\)\nd)\\(\\frac{10}{11}+\\frac{4}{11}:4-\\frac{1}{8}=\\frac{10}{11}+ \\frac{4}{11}.\\frac{1}{4}-\\frac{1}{8}=\\frac{10}{11}+ \\frac{1}{11} - \\frac{1}{8}= 1- \\frac{1}{8}=\\frac{7}{8}\\)"
+    },
+    {
+        "problem": "Tính một cách hợp lí\nB=\\(\\frac{5}{13}.\\frac{8}{15} + \\frac{5}{13}.\\frac{26}{15} - \\frac{5}{13}. \\frac{8}{15}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối giữa phép nhân và phép cộng: \\(a.b+ a.c+a.d= a(b+c+d)\\)\nLời giải chi tiết\nB=\\(\\frac{5}{13}.\\frac{8}{15} + \\frac{5}{13}.\\frac{26}{15} - \\frac{5}{13}. \\frac{8}{15}\\)\n\\(=\\frac{5}{13}.(\\frac{8}{15} +\\frac{26}{15} - \\frac{8}{15})\\)\n\\(=\\frac{5}{13}.\\frac{26}{15}\\)\n\\(=\\frac{2}{3}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau:\nB=\\(\\frac{1}{3}.b+ \\frac{2}{9}.b – b: \\frac{9}{4}\\) với \\(b=\\frac{9}{10}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt b làm thừa số chung, thu gọn B rồi thay \\(b=\\frac{9}{10}\\) vào B\nLời giải chi tiết\n\\(B=\\frac{1}{3}.b+\\frac{2}{9}.b– b: \\frac{9}{4}= \\frac{1}{3}.b+\\frac{2}{9}.b – b. \\frac{4}{9}\\)\n\\(=b(\\frac{1}{3}+\\frac{2}{9}-\\frac{4}{9})=b. (\\frac{3}{9}+\\frac{2}{9}-\\frac{4}{9})= b. \\frac{1}{9} \\)\nThay \\(b=\\frac{9}{10}\\) vào B, ta được\nB= \\(b=\\frac{9}{10}. \\frac{1}{9}= \\frac{1}{10}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Để làm một chiếc bánh chưng trong dịp tết Nguyên đán, Vân phải chuẩn bị: gạo nếp, đậu xanh không vỏ, thịt ba chỉ, lá dong và các gia vị khác. Khối lượng đậu xanh bằng \\(\\frac{3}{5}\\) khối lượng gạo nếp và gấp \\(\\frac{3}{2}\\) khối lượng thịt ba chỉ.\nNếu có 150 gam đậu xanh thì cần bao nhiêu gam gạo nếp và bao nhiêu gam thịt ba chỉ?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm 1 số biết \\(\\frac{m}{n}\\) của nó bằng a: Số cần tìm là: a : \\(\\frac{m}{n}\\)\nLời giải chi tiết\nNếu có 150 gam đậu xanh thì cần số gam gạo nếp là:\n150: \\(\\frac{3}{5}\\)= 250(gam)\nNếu có 150 gam đậu xanh thì cần số gam thịt ba chỉ là:\n150: \\(\\frac{3}{2}\\)= 100(gam)\nVậy nếu có 150 gam đậu xanh thì cần 250 gam gạo nếp và 100 gam thịt ba chỉ."
+    },
+    {
+        "problem": "Hà thường đi xe đạp từ nhà đến trường với vận tốc 12 km/h, hết \\(\\frac{1}{5}\\) giờ. Hôm nay, xe đạp bị hỏng nên Hà phải đi bộ đến trường với vận tốc 5 km/h. Hỏi hôm nay Hà đi đến trường mất bao lâu?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* Tính quãng đường từ nhà đến trường: Quãng đường = vận tốc. thời gian\n* Tính thời gian đi học: Thời gian = Quãng đường : vận tốc\nLời giải chi tiết\nQuãng đường từ nhà đến trường là:\n12. \\(\\frac{1}{5}= \\frac{12}{5}\\)(km)\nThời gian Hà đi học hôm nay là:\n\\(\\frac{12}{5}: 5= \\frac{12}{25}\\)( giờ)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Thay số thích hợp vào dấu “?”.\n\\(\\dfrac{{ - 10}}{{16}} = \\dfrac{?}{{56}} = \\dfrac{{ - 20}}{?} = \\dfrac{{50}}{?}\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Hai phân số \\(\\dfrac{a}{b} = \\dfrac{c}{d}\\) thì \\(a.d = b.c\\)\nLời giải chi tiết\n\\(\\dfrac{{ - 10}}{{16}} = \\dfrac{?}{{56}}\\) nên \\((-10).56 = 16. ?\\) . Do đó, dấu “?” thứ nhất là  \\( - 10.56:16 =  - 35\\)\n\\(\\dfrac{{-10}}{{16}} = \\dfrac{{ - 20}}{?}\\) nên \\((-10).? = 16. (-20)\\) . Do đó, dấu “?” thứ hai là \\(16.\\left( { - 20} \\right):\\left( { -10} \\right) = 32\\)\n\\(\\dfrac{{ - 10}}{{16}} = \\dfrac{{50}}{?}\\) nên \\((-10).? = 16. 50\\) . Do đó, dấu “?” thứ ba là \\(16.50:\\left( { - 10} \\right) =  - 80\\)\nVậy \\(\\dfrac{{ - 10}}{{16}} = \\dfrac{{ - 35}}{{56}} = \\dfrac{{ - 20}}{{32}} = \\dfrac{{50}}{{ - 80}}\\)"
+    },
+    {
+        "problem": "Một bác nông dân thu hoạch và mang cà chua ra chợ bán. Bác đã bán được 20 kg, tức là \\(\\dfrac{2}{5}\\) số cà chua. Hỏi bác nông dân đã mang bao nhiêu kilogam cà chua ra chợ bán?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\dfrac{2}{5}\\) của số cà chua mang ra chợ bằng 20kg.\nMuốn tìm 1 số biết \\(\\dfrac{m}{n}\\) của nó bằng b cho trước ta tính \\(b :\\dfrac{m}{n}\\)\\(\\left( {m \\in \\mathbb{N},n \\in \\mathbb{N}*} \\right)\\)\nLời giải chi tiết\nSố cà chua mang ra chợ bán là: \\(20 : \\dfrac{2}{5} = \\dfrac{{20.5}}{2} = 50\\left( {kg} \\right)\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Con người ngủ khoảng 8 giờ mỗi ngày. Nếu trung bình một năm có \\(365\\dfrac{1}{4}\\) ngày, hãy cho biết số ngày ngủ trung bình mỗi năm của con người.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cách 1: Bước 1: Tính số giờ ngủ trong năm\nBước 2: Tính số ngày ngủ trong năm\nCách 2: Bước 1: Tính số giờ ngủ chiếm bao nhiêu phần của 1 ngày.\nBước 2: Số ngày ngủ trong năm= Số ngày trong năm. Số phần ngủ trong 1 ngày\nLời giải chi tiết\nĐổi \\(365\\dfrac{1}{4} = \\dfrac{1461}{4}\\)\nCách 1:\nSố giờ ngủ trong năm của con người là: 8. \\(\\dfrac{1461}{4}\\) = 2922 (giờ)\nSố ngày ngủ trong năm của con người là: 2922 : 24 = \\(121\\dfrac{3}{4}\\) (ngày)\nCách 2:\nMỗi ngày con người ngủ \\(8:24 = \\dfrac{1}{3}\\) ngày.\nSố ngày ngủ trong năm là: \\( \\dfrac{1461}{4}.\\dfrac{1}{3} = \\dfrac{{1461}}{{12}}=121\\dfrac{3}{4}\\) ( ngày)"
+    },
+    {
+        "problem": "Các phân số sau được sắp xếp theo một quy luật, hãy quy đồng các phân số để tìm quy luật, rồi viết hai phân số kế tiếp.\n\\(\\dfrac{1}{8},\\dfrac{1}{{20}},\\dfrac{{ - 1}}{{40}},\\dfrac{{ - 1}}{{10}},...,...\\)\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+ Bước 1: Quy đồng mẫu số các phân số:\nMẫu chung: BCNN(8,20,40,10)\nTìm thừa số phụ.\nLấy tử và mẫu của từng phân số nhân với thừa số phụ tương ứng.\n+ Bước 2: Tìm quy luật\nLời giải chi tiết\nBCNN(8,20,40,10)=40.\n\\(\\begin{array}{l}\\dfrac{1}{8} = \\dfrac{{1.5}}{{8.5}} = \\dfrac{5}{{40}}\\\\\\dfrac{1}{{20}} = \\dfrac{{1.2}}{{20.2}} = \\dfrac{2}{{40}} = \\dfrac{{5 - 3}}{{40}}\\\\\\dfrac{{ - 1}}{{40}} = \\dfrac{{2 - 3}}{{40}}\\\\\\dfrac{{ - 1}}{{10}} = \\dfrac{{ - 1.4}}{{10.4}} = \\dfrac{{ - 4}}{{40}} = \\dfrac{{ - 1 - 3}}{{40}}\\end{array}\\)\nTừ cách phân tích trên, ta thấy phân số tiếp theo có mẫu số là 40 và tử số kém tử số của phân số liền trước 3 đơn vị\nHai phân số tiếp: \\(\\dfrac{{ - 4 - 3}}{{40}} = \\dfrac{{ - 7}}{{40}};\\dfrac{{ - 7 - 3}}{{40}} = \\dfrac{{ - 10}}{{40}} = \\dfrac{{ - 1}}{4}\\)"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Tìm giá trị lớn nhất của biểu thức \\(\\dfrac{4}{{3 + \\sqrt {2 - x} }}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu thức có giá trị lớn nhất khi mẫu số nhỏ nhất.\n\\(\\sqrt {2 - x}  \\ge 0,\\forall x \\le 0\\)\nLời giải chi tiết\nĐiều kiện xác định:\\(2-x \\ge 0 \\Leftrightarrow x \\le 2\\)\nTa thấy biểu thức đã cho có tử và mẫu đều là số dương, tử số là 4 không đổi, do đó biểu thức có giá trị lớn nhất khi mẫu số nhỏ nhất.\nTa có:\n\\(\\begin{array}{l}\\sqrt {2 - x}  \\ge 0,\\forall x \\le 2\\\\ \\Rightarrow 3 + \\sqrt {2 - x}  \\ge 3,\\forall x \\le 2\\\\ \\Rightarrow \\dfrac{4}{{3 + \\sqrt {2 - x} }} \\le \\dfrac{4}{3}\\end{array}\\)\nVậy biểu thức đã cho có giá trị lớn nhất là \\(\\dfrac{4}{3}\\)\nDấu “=” xảy ra khi \\(2 - x = 0 \\Rightarrow x = 2\\left( {tm} \\right)\\)"
+    },
+    {
+        "problem": "Chứng minh rằng \\(\\left| x \\right| + \\left| {x - 2} \\right| + \\left| {x - 4} \\right| \\ge 4\\) đúng với mọi số thực x.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất \\(\\left| {a + b} \\right| \\le \\left| a \\right| + \\left| b \\right|\\) (Bài tập 2.36)\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}\\left\\{ \\begin{array}{l}\\left| {x - 2} \\right| \\ge 0\\\\\\left| x \\right| + \\left| {x - 4} \\right| = \\left| x \\right| + \\left| {4 - x} \\right| \\ge \\left| {x + 4 - x} \\right| \\ge 4\\end{array} \\right.\\\\ \\Rightarrow \\left| {x - 2} \\right| + \\left| x \\right| + \\left| {x - 4} \\right| \\ge 4\\end{array}\\)"
+    },
+    {
+        "problem": "So sánh \\(a = 0,\\left( {12} \\right)\\) và \\(b = 0,1\\left( {21} \\right)\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(a = 0,\\left( {12} \\right) \\Rightarrow 100a = 12,\\left( {12} \\right)\\)\nTính 0,(21) dưới dạng phân số\nLời giải chi tiết\n\\(a = 0,\\left( {12} \\right) \\Rightarrow 100a = 12,\\left( {12} \\right) \\Rightarrow 100a = 12 + a \\Rightarrow 99a = 12 \\Rightarrow a = \\dfrac{{12}}{{99}}\\)\n\\(b = 0,1\\left( {21} \\right) = 0,1 + 0,0\\left( {21} \\right) = \\dfrac{1}{{10}} + \\dfrac{1}{{10}}.0,\\left( {21} \\right)\\)\nĐặt \\(x = 0,\\left( {21} \\right) \\Rightarrow 100x = 21,\\left( {21} \\right) \\Rightarrow 100x = 21 + x \\Rightarrow 99x = 21 \\Rightarrow x = \\dfrac{{21}}{{99}}\\)\n\\( \\Rightarrow b = \\dfrac{1}{{10}} + \\dfrac{1}{{10}}.\\dfrac{{21}}{{99}} = \\dfrac{1}{{10}}.\\left( {1 + \\dfrac{{21}}{{99}}} \\right) = \\dfrac{1}{{10}}.\\dfrac{{120}}{{99}} = \\dfrac{{12}}{{99}}\\)\nVậy \\(a = b\\)"
+    },
+    {
+        "problem": "Tìm số tự nhiên n nhỏ hơn 45 sao cho \\(x = \\dfrac{{\\sqrt n  - 1}}{2}\\) là số nguyên.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "-Biến đổi \\(\\sqrt n \\) theo x\n- Biện luận với n < 45 thì x như thế nào?\nLời giải chi tiết\nTa có:\n\\(x = \\dfrac{{\\sqrt n  - 1}}{2} \\Rightarrow 2x = \\sqrt n  - 1 \\Rightarrow \\sqrt n  = 2x + 1\\)\nNếu \\(x = \\dfrac{{\\sqrt n  - 1}}{2}\\) là số nguyên thì \\(\\sqrt n  = 2x + 1\\)là số tự nhiên lẻ.\nNếu \\(n < 45\\) thì \\(\\sqrt n  < \\sqrt {45}  \\Rightarrow \\sqrt n  < \\sqrt {49}  \\Rightarrow n < 7 \\Rightarrow 2x + 1\\) là số tự nhiên lẻ nhỏ hơn 7\n\\(\\begin{array}{l} \\Rightarrow 2x + 1 \\in \\left\\{ {1;3;5} \\right\\}\\\\ \\Rightarrow \\sqrt n  \\in \\left\\{ {1;3;5} \\right\\}\\\\ \\Rightarrow n \\in \\left\\{ {1;9;25} \\right\\}\\end{array}\\)"
+    },
+    {
+        "problem": "Tích của một số vô tỉ với một số nguyên dương là số hữu tỉ hay vô tỉ? Hãy giải thích tại sao có vô số số vô tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Phương pháp phản chứng\n- Giả sử x là một số vô tỉ và n là một số nguyên dương\n- Nếu tích nx là số hữu tỉ, dùng pp phản chứng để suy ra x hữu tỉ (trái giả thiết)\nLời giải chi tiết\nGiả sử x là một số vô tỉ và n là một số nguyên dương.\nNếu tích nx là số hữu tỉ thì \\(x = \\dfrac{{nx}}{x}\\)là số hữu tỉ (thương của hai số hữu tỉ là một số hữu tỉ) (trái giả thiết x là số vô tỉ)\nVì vậy nx là số vô tỉ.\nNhư vậy \\(\\sqrt 2 ;2\\sqrt 2 ;3\\sqrt 2 ;...\\)đều là số vô tỉ. Do đó có vô số số vô tỉ."
+    },
+    {
+        "problem": "Tìm giá trị nhỏ nhất của biểu thức \\(A = 2 + 3\\sqrt {{x^2} + 1} \\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xuất phát từ \\({x^2} \\ge 0,\\forall x\\)\nLời giải chi tiết\nTa có:\n\\(\\begin{array}{l}{x^2} \\ge 0,\\forall x\\\\ \\Rightarrow {x^2} + 1 \\ge 1,\\forall x\\\\ \\Rightarrow \\sqrt {{x^2} + 1}  \\ge \\sqrt 1  = 1,\\forall x\\\\ \\Rightarrow A = 2 + 3\\sqrt {{x^2} + 1}  \\ge 2 + 3 = 5,\\forall x\\end{array}\\)\nVậy giá trị nhỏ nhất bằng 5\nDấu “=” xảy ra khi x = 0"
+    },
+    {
+        "problem": "Trong các kết luận sau đây, kết luận nào đúng, kết luận nào sai?\na) Tổng của hai số vô tỉ là một số vô tỉ.\nb) Tổng của hai số vô tỉ dương là một số vô tỉ.\nc) Tổng của hai số vô tỉ âm là một số vô tỉ.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy ví dụ chứng tỏ kết luận sai.\nLời giải chi tiết\nCả 3 kết luận trên đều sai, chẳng hạn\na) Ta có: \\(\\sqrt 2 \\) và \\( - \\sqrt 2  - 5\\) là hai số vô tỉ có tổng bằng -5 là số hữu tỉ.\nb) Ta có: \\(\\sqrt 3 \\) và \\(9 - \\sqrt 3 \\) là hai số vô tỉ dương, có tổng bằng 9 là số hữu tỉ.\nc) Ta có: \\( - \\sqrt 5 \\) và \\(\\sqrt 5  - 8\\) là hai số vô tỉ âm, có tổng bằng -8 là số hữu tỉ"
+    },
+    {
+        "problem": "Tìm giá trị nhỏ nhất của biểu thức \\(B = \\left| {x - 1} \\right| + \\left| {x - 3} \\right|\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét các điểm biểu diễn số thực x trên trục số.\n-Khi x nằm ngoài đoạn 1 và 3\n-Khi x nằm trong đoạn 1 và 3\nLời giải chi tiết\nXét các điểm biểu diễn số thực x trên trục số.\nBiểu thức đã cho đúng bằng tổng các khoảng cách từ x tới hai điểm 1 và 3\n-Nếu x nằm ngoài đoạn giữa 1 và 3 thì tổng khoảng cách trên lớn hơn khoảng cách giữa 1 và 3\n-Nếu x nằm trong đoạn giữa 1 và 3 thì tổng khoảng cách nói trên đúng bằng khoảng cách giữa 1 và 3\nVì vậy biểu thức B có giá trị nhỏ nhất là 2, đạt được khi \\(1 \\le x \\le 3\\)"
+    },
+    {
+        "problem": "Cho một hình vuông có cạnh bằng 5 đơn vị và cho 76 điểm nằm bên trong hình vuông đó. Chứng tỏ rằng có một hình tròn với bán kính bằng \\(\\dfrac{3}{4}\\) đơn vị chứa trọn 4 trong số 76 điểm đã cho.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Chia hình vuông đã cho thành 25 hình vuông nhỏ có cạnh bằng 1\n- Biện luận có 1 hình vuông nhỏ chứa 4 điểm.\nLời giải chi tiết\nChia hình vuông đã cho thành 25 hình vuông nhỏ có cạnh bằng 1. Nếu trong mỗi hình vuông nhỏ chỉ có không quá ba điểm (trong số các điểm đã cho) thì trong hình vuông lớn có không quá 25 . 3 = 75 (điểm) (trái giả thiết trong hình vuông lớn có 76 điểm.)\nNhư vậy, tồn tại một hình vuông nhỏ (cạnh bằng 1) chứa bốn điểm (trong các điểm đã cho). Hình tròn với đường kính là đường chéo của hình vuông nhỏ này chứa toàn bộ hình vuông nhỏ và có bán kính \\(\\dfrac{{\\sqrt 2 }}{2} < \\dfrac{3}{4}\\)."
+    },
+    {
+        "problem": "Hãy giải thích tại sao \\(\\left| {x + y} \\right| \\le \\left| x \\right| + \\left| y \\right|\\) với mọi số thực x, y.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\left| {x + y} \\right|\\)=x+y nếu \\(x + y \\ge 0\\)\n\\(\\left| {x + y} \\right|\\)=- (x+y) nếu \\(x + y < 0\\)\nSử dụng tính chất \\(a \\le \\left| a \\right|,\\forall a\\)\nLời giải chi tiết\n+) Trường hợp 1: Nếu \\(x + y \\ge 0\\) thì \\(\\left| {x + y} \\right| = x + y \\le \\left| x \\right| + \\left| y \\right|\\) (vì \\(x \\le \\left| x \\right|, y \\le |y|\\) với mọi số thực x,y).\n+) Trường hợp 2: Nếu \\(x + y < 0\\) thì \\(\\left| {x + y} \\right| =  - x - y \\le \\left| { - x} \\right| + \\left| { - y} \\right| = \\left| x \\right| + \\left| y \\right|\\) (vì \\(-x \\le \\left|-x \\right|, -y \\le |-y|\\) với mọi số thực x,y).\nVậy với mọi \\(x,y \\in \\mathbb{R}\\), ta luôn có \\(\\left| {x + y} \\right| \\le \\left| x \\right| + \\left| y \\right|\\)"
+    }
+]

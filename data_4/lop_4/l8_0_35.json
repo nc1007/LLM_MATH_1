@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Câu 3 :  Biểu đồ dưới đây nói về số tam giác ba bạn cắt được:\nSỐ TAM GIÁC BA BẠN CẮT ĐƯỢC \nQuan sát biểu đồ và cho biết bạn nào cắt được nhiều tam giác màu vàng nhất.\nA.\tLan\nB.\tHồng\nC.\tHà \nD.\tBa bạn cắt bằng nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát biểu đồ ta thấy Lan cắt được 4 tam giác màu vàng, \nHồng cắt được 6 tam giác màu vàng, Hà cắt được 3 tam giác màu vàng.\n\tMà 3<4<6nên Hồng cắt được nhiều tam giác nhất."
+    },
+    {
+        "problem": "Câu 4 :  Biểu đồ dưới đây nói về các môn thể thao khối lớp Bốn tham gia:\nHỏi lớp 4B tham gia mấy môn thể thao, gồm những môn nào?\nA.\t2 môn, đó là chạy, bóng đá\nB.\t3 môn, đó là bóng đá, bóng rổ, bơi\nC.\t3 môn, đó là chạy, bóng đá, bơi\nD.\t3 môn, đó là chạy, bóng rổ, bơi",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhìn vào biểu đồ ta thấy lớp 4B tham gia 3 môn thể thao, đó là bóng đá, bóng rổ, bơi."
+    },
+    {
+        "problem": "Câu 5 :  Biểu đồ dưới đây nói về các con vật nuôi của bốn nhà: \nCÁC CON VẬT NUÔI CỦA BỐN NHÀ\nNhững nhà đều đang nuôi trâu là:\nA.\tNhà Xuân, nhà Hạ, nhà Thu\nB.\tNhà Hạ, nhà Đông\nC.\tNhà Xuân, nhà Hạ, nhà Thu, nhà Đông\nD.\tNhà Xuân, nhà Hạ, nhà Đông",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhìn vào biểu đồ ta thấy: \nNhà Xuân nuôi 2 con chó, 2 con trâu và 2 con bò.\nNhà Hạ nuôi 1 con trâu và 1 con bò và 5 con gà.\nNhà nuôi 1 con bò và 2 con chó.\nNhà Đông nuôi 3 con chó, 1 con trâu và 3 con gà.\nDo đó có ba nhà đang cùng nuôi trâu là nhà Xuân, nhà Hạ và nhà Đông."
+    },
+    {
+        "problem": "Câu 6 :  Cho biểu đồ sau:  \nQuan sát biểu đồ và cho biết nhà ai nuôi nhiều bò nhất?\nA.\tNhà Tí\nB.\tNhà Sửu\nC.\tNhà Dần\nD.\tCả ba nhà nuôi số trâu bằng nhau",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu đồ đã cho nói về số con trâu, con bò ba nhà đang nuôi.\nNhìn vào biểu đồ ta thấy: nhà Tí và nhà Dần đều đang nuôi 1 con bò, nhà Sửu nuôi 3 con bò.\nDo đó nhà Sửu nuôi nhiều bò nhất."
+    },
+    {
+        "problem": "Câu 7 :  Biểu đồ dưới đây nói về số chiếc áo bốn tổ công nhân may được trong một tháng: \nQuan sát biểu đồ trên và cho biết trong một tháng tổ 2 may nhiều hơn tổ 4 bao nhiêu chiếc áo?\nA.\t180 chiếc áo \nB.\t145 chiếc áo\nC.\t870 chiếc áo\nD.\t75 chiếc áo",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu đồ trên nói về số chiếc áo bốn tổ công nhân may được trong một tháng.\nNhìn vào biểu đồ ta thấy:\nTổ 2 nằm ở cột thứ hai, có số trên đầu cột là 525. \nDo đó  trong 1 tháng tổ 2 may được 525 chiếc áo.\nTổ 4 nằm ở cột thứ bốn, có số chỉ trên đầu cột là 345. \nDo đó  trong 1 tháng tổ 4 may được 345 chiếc áo.\nTrong một tháng tổ 2 may được nhiều hơn tổ 4 số chiếc áo là:\n                    525−345=180 (chiếc áo)"
+    },
+    {
+        "problem": "Câu 9 :  Biểu đồ dưới đây nói về số vải xanh và vải hồng đã bán trong tháng 6:  \nTổng số vải của tuần 2 và tuần 4 nhiều hơn tổng số vải của tuần 1 và tuần 3 số mét là:\nA.\t3m\nB.\t75m\nC.\t225m\nD.\t375m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nhìn vào biểu đồ ta thấy :\n\tTuần 1 bán được 5 tấm vải gồm 2 tấm vải xanh và 5 tấm vải hồng. Mà mỗi tấm vải chỉ 75m vải. \nDo đó tuần 1 người ta đã bán được số mét vải là:\n                         75×5=375(m)\nTuần 2 bán được 6 tấm vải gồm 3 tấm vải xanh và 3 tấm vải hồng. \nDo đó tuần 2 người ta đã bán được số mét vải là:\n                         75×6=450(m)\nTuần 3 bán được 4 tấm vải gồm 3 tấm vải xanh và 1 tấm vải hồng. \nDo đó tuần 1 người ta đã bán được số mét vải là:\n                         75×4=300(m)\n\tTuần 4 bán được 6 tấm vải gồm 2 tấm vải xanh và 4 tấm vải hồng. \nDo đó tuần 4 người ta đã bán được số mét vải là:\n                        75×6=450(m)\nTuần 2 và tuần 4 bán được số mét vải là:\n                        450+450=900(m)\nTuần 1 và tuần 3 bán được số mét vải là:\n                         375+300=675(m)\nTổng số vải của tuần 2 và tuần 4 nhiều hơn tổng số vải của tuần 1 và tuần 3 số mét là\n                         900−675=225(m)\n                                                Đáp số: 225m.\n\nTuần 1 bán được 5 tấm vải gồm 2 tấm vải xanh và 5 tấm vải hồng. Mà mỗi tấm vải chỉ 75m vải. \nDo đó tuần 1 người ta đã bán được số mét vải là:\n                         75×5=375(m)\nTuần 2 bán được 6 tấm vải gồm 3 tấm vải xanh và 3 tấm vải hồng. \nDo đó tuần 2 người ta đã bán được số mét vải là:\n                         75×6=450(m)\nTuần 3 bán được 4 tấm vải gồm 3 tấm vải xanh và 1 tấm vải hồng. \nDo đó tuần 1 người ta đã bán được số mét vải là:\n                         75×4=300(m)\n\tTuần 4 bán được 6 tấm vải gồm 2 tấm vải xanh và 4 tấm vải hồng. \nDo đó tuần 4 người ta đã bán được số mét vải là:\n                        75×6=450(m)\nTuần 2 và tuần 4 bán được số mét vải là:\n                        450+450=900(m)\nTuần 1 và tuần 3 bán được số mét vải là:\n                         375+300=675(m)\nTổng số vải của tuần 2 và tuần 4 nhiều hơn tổng số vải của tuần 1 và tuần 3 số mét là\n                         900−675=225(m)\n                                                Đáp số: 225m."
+    },
+    {
+        "problem": "Câu 11 :  Cho biểu đồ như bên dưới:  \nNhìn vào biểu đồ trên hãy sắp xếp các nhà máy theo số sản phẩm mà từng nhà máy sản xuất được theo thứ tự từ bé đến lớn.\nA.\tNhà máy B, nhà máy C, nhà máy D, nhà máy A\nB.\tNhà máy D, nhà máy A, nhà máy C, nhà máy B\nC.\tNhà máy B, nhà máy A, nhà máy C, nhà máy D\nD.\tNhà máy B, nhà máy C, nhà máy A, nhà máy D",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Biểu đồ trên nói số sản phẩm mà từng nhà máy sản xuất được trong ba tháng.\nNhìn vào biểu đồ ta thấy:\nNhà máy A nằm ở cột thứ nhất, có số ghi trên đỉnh cột là 555 nên nhà máy A sản xuất được 555 sản phẩm.\nNhà máy B nằm ở cột thứ hai, có số ghi trên đỉnh cột là 390 nên nhà máy B sản xuất được 390 sản phẩm.\nNhà máy C nằm ở cột thứ ba, có số ghi trên đỉnh cột là 456 nên nhà máy C sản xuất được 456 sản phẩm.\nNhà máy D nằm ở cột thứ tư, có số ghi trên đỉnh cột là 608 nên nhà máy D sản xuất được 608 sản phẩm.\nMà 390<456<555<608nên ta sắp xếp các nhà máy theo thứ tự sản xuất được số sản phẩm từ bé đến lớn như sau: \nnhà máy B, nhà máy C, nhà máy A, nhà máy D."
+    }
+]

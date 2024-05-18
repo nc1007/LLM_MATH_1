@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Trò chơi “Đua viết số cuối cùng”\nBình và Minh chơi trò chơi “đua viết số cuối cùng”. Hai bạn thi viết các số theo luật như sau:\nNgười chơi thứ nhất sẽ viết một số tự nhiên không lớn hơn 3. Sau đó đến lượt người thứ hai viết rồi quay lại người thứ nhất và cứ thế tiếp tục, ... sao cho kể từ sau số viết đầu tiên, mỗi bạn viết một số lớn hơn số bạn mình vừa viết nhưng không lớn hơn quá 3 đơn vị. Ai viết được số 20 trước thì người đó thắng. Sau một số lần chơi, Minh thấy Bình luôn thắng. Minh thắc mắc: “Sao lúc nào cậu cũng thắng tớ thế?”. Bình cười: “Không phải lúc nào tớ cũng thắng được cậu đâu”.\na) Bình đã chơi như thế nào để thắng được Minh? Minh có thể thắng được Bình khi nào?\nb) Hãy chơi cùng bạn trò chơi trên. Em hãy đề xuất một luật chơi mới cho trò chơi trên rồi chơi cùng các bạn.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng lý thuyết ước và bội.\nNgười thắng là người viết được số 20 trước nên nếu đảm bảo viết được số 16, 12, 8, 4 trước thì người đó thắng.\nLời giải chi tiết\na)*Bình đã chơi như sau:\n+) TH1: Minh viết trước\n=> Bình luôn viết các số là bội của 4\n+) TH2: Minh viết sau\n=> Bình viết số 0 đầu tiên và các số sau là bội của 4\n*Minh có thể thắng Bình khi Minh biết quy luật và Minh đi trước\nb) Đề xuất luật chơi mới:\nNgười chơi thứ nhất sẽ viết một số tự nhiên không lớn hơn 3. Sau đó đến lượt người thứ hai viết rồi quay lại người thứ nhất và cứ thế tiếp tục, ... sao cho kể từ sau số viết đầu tiên, mỗi bạn viết một số lớn hơn số bạn mình vừa viết nhưng không lớn hơn quá 3 đơn vị. Ai viết được số 25 trước thì người đó thắng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Theo dương lịch, một năm thường có 365 ngày, riêng năm nhuận có thêm 1 ngày và ngày đó được cố định là ngày 29 tháng Hai. Thông thường, năm nhuận có số năm là bội của 4. Các năm 2044, 2086 có phải năm nhuận không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Kiểm tra 2044, 2086 có là bội của 4 hay không\nLời giải chi tiết\n2044 là bội của 4 nên năm 2044 là năm nhuận\n2086 không là bội của 4 nên năm 2086 không phải năm nhuận"
+    },
+    {
+        "problem": "a) Tìm tất cả các ước của các số từ 1 đến 10.\nb) Sắp xếp các số từ 1 đến 10 thành ba nhóm:\n- Nhóm 1 bao gồm các số chỉ có một ước.\n- Nhóm 2 bao gồm các số chỉ có hai ước khác nhau.\n- Nhóm 3 bao gồm các số có nhiều hơn hai ước khác nhau.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Tìm các tập hợp ước của các số 1; 2; 3;…;10.\nb) Đếm số ước của các sô\nLời giải chi tiết\nƯ(1) = {1}; Ư(2) = {1; 2}; Ư(3) = {1; 3}; Ư(4) = {1; 2; 4}; Ư(5) = {1; 5}; Ư(6) = {1; 2; 3; 6}\nƯ(7) = {1; 7}; Ư(8) = {1; 2; 4; 8}; Ư(9) = {1; 3; 9}; Ư(10) = {1; 2; 5; 10}\nb)\nNhóm 1: 1\nNhóm 2: 2;3;5;7\nNhóm 3: 4;6;8;9;10"
+    },
+    {
+        "problem": "a) Trong các số 11; 12; 25, số nào là số nguyên tố, số nào là hợp số? Vì sao?\nb) Lan nói rằng: “Nếu một số tự nhiên không là số nguyên tố thì nó phải là hợp số. Em có đồng ý với Lan không? Vì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\n- Hợp số là số tự nhiên lớn hơn 1 có nhiều hơn hai ước.\nLời giải chi tiết\nTa có Ư(11) = {1; 11}; Ư(12) = {1; 2; 3; 4; 6; 12}; Ư(25) = {1; 5; 25}\n=> Số 11 là số nguyên tố vì 11  chỉ có hai ước là 1 và chính nó.Số 12 và 25 là hợp số vì chúng có nhiều hơn 2 ước.\nb) Em không đồng ý với Lan vì số 0 và số 1 không là số nguyên tố cũng không là hợp số.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mỗi số sau là số nguyên tố hay hợp số? Giải thích.\na) 213;\nb) 245;\nc) 3737;\nd) 67.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\n- Hợp số là số tự nhiên lớn hơn 1 có nhiều hơn hai ước.\nLời giải chi tiết\na) Ta thấy 213 chia hết cho 3 => 213 có nhiều hơn hai ước => 213 là hợp số\nb) Ta thấy 245 chia hết cho 5 => 245 có nhiều hơn hai ước => 245 là hợp số\nc) Ta thấy 3737 chia hết cho 37 => 3737 có nhiều hơn hai ước => 3737 là hợp số\nd) Số 67 là số nguyên tố vì chỉ có 2 ước là 1 và chính nó\nLoigiaihay.com"
+    },
+    {
+        "problem": "Lớp của bạn Hoàng có 37 học sinh. Trong một lần thi đồng diễn thể dục, các bạn lớp Hoàng muốn xếp thành các hàng có cùng số bạn để được một khối hình chữ nhật có ít nhất là hai hàng. Hỏi các bạn có thực hiện được không? Em hãy giải thích.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét các ước của 37\nLời giải chi tiết\nDo 37 chỉ có hai ước là 1 và chính nó nên không thể xếp thành các hàng có cùng số bạn để được một khối hình chữ nhật có ít nhất là hai hàng."
+    },
+    {
+        "problem": "Hãy cho ví dụ về :\na) Hai số tự nhiên liên tiếp đều là số nguyên tố.\nb) Ba số lẻ liên tiếp đều là số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\nLời giải chi tiết\na) Hai số tự nhiên liên tiếp là số nguyên tố là 2 và 3.\nb) Ba số lẻ liên tiếp đều là số nguyên tố: 3; 5; 7\nLoigiaihay.com"
+    },
+    {
+        "problem": "Mỗi khẳng định sau đúng hay sai?\na) Tích của hai số nguyên tố luôn là một số lẻ.\nb) Tích của hai số nguyên tố có thể là một số chẵn.\nc) Tích của hai số nguyên tố có thể là một số nguyên tố.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.\nLời giải chi tiết\na) Sai. Ví dụ: 2 và 5 là hai số nguyên tố nhưng 2.5=10 là số chẵn\nb) Đúng. Vì tích của số nguyên tố 2 và 1 số khác sẽ là số chẵn\nc) Sai. Vì tích của 2 số nguyên tố a và b tạo thành là một số ab có 4 ước là 1; a; b và ab."
+    },
+    {
+        "problem": "Cho số a = 23.32.7. Trong các số 4, 7, 9, 21, 24, 34, 49, số nào là ước của a?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát số a khi đã phân tích ra thừa số nguyên tố để liệt kê các ước.\nLời giải chi tiết\nCác số là ước của a là: 4; 7; 9; 21; 24."
+    },
+    {
+        "problem": "Bình dùng một khay hình vuông cạnh 60 cm để xếp bánh chưng. Mỗi chiếc bánh chưng hình vuông có cạnh 15 cm. Bình có thể dùng những chiếc bánh chưng để xếp vừa khít vào khay này không? Giải thích.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét xem 60 có chia hết cho 15 hay không? Nếu chia hết thì có thể xếp vừa khít vào khay.\nLời giải chi tiết\nDo 60 chia hết cho 15 nên Bình có thể dùng những chiếc bánh chưng để xếp vừa khít vào khay."
+    },
+    {
+        "problem": "Dùng bảng các số nguyên tố ở cuối chương này (trang 48), em hãy tìm các số nguyên tố trong các số sau:  113; 143; 217;  529.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Quan sát bảng số nguyên tố ở trang 47 và tìm các số.\nLời giải chi tiết\nXem bảng các số nguyên tố ở cuối sách, ta được số nguyên tố trong các số trên là 113.\nLoigiaihay.com"
+    }
+]

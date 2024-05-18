@@ -1,0 +1,104 @@
+[
+    {
+        "problem": "Bạn Hiếu đọc được 36 trang của một cuốn truyện. Hiếu nói rằng mình đã đọc được \\(\\frac{3}{5}\\) số trang cuốn truyện. Tìm số trang của cuốn truyện.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số trang bạn Hiếu đọc được tương ứng với \\(\\frac{3}{5}\\) Số trang của cuốn truyện\nLời giải chi tiết\nSố trang của cuốn truyện là:\n\\(36:\\;\\frac{3}{5}\\; = 36. \\frac{5}{3}=60\\)(trang)\nĐáp số: 60 trang"
+    },
+    {
+        "problem": "Một hộp đựng bi gồm có hai loại bi xanh và bi đỏ, trong đó số bi xanh là 10 viên và bằng \\(\\frac{2}{3}\\) số bi đỏ. Hỏi hộp có bao nhiêu viên bi?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính số viên bi đỏ = số bi xanh : \\(\\frac{2}{3}\\)\n- Số bi trong hộp = Số bi xanh + số bi đỏ\nLời giải chi tiết\nHộp có số viên bi đỏ là:\n\\(10{\\rm{ }}:\\;\\frac{2}{3} = 15\\) (viên)\nHộp có số viên bi là:\n\\(15{\\rm{ }} + 10{\\rm{ }} = {\\rm{ }}25\\) ( viên)\nĐáp số: 25 viên\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một mảnh vườn có diện tích 240 m, được trồng hai loại hoa là hoa cúc và hoa hồng. Phần diện tích trồng hoa cúc chiếm \\(\\frac{3}{4}\\) diện tích cả vườn. Hỏi diện tích trồng hoa hồng là bao nhiêu mét vuông?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Diện tích trồng hoa cúc = Diện tích mảnh vườn . \\(\\frac{3}{5}\\)\nDiện tích trồng hoa hồng = Diện tích mảnh vườn – Diện tích trồng hoa cúc.\nLời giải chi tiết\nDiện tích trồng hoa cúc là:\n\\(240.\\frac{3}{5}\\; = {\\rm{ }}144\\;{m^2}\\)\nDiện tích trồng hoa hồng là:\n\\(240 - 144{\\rm{ }} = {\\rm{ }}96\\;{m^2}\\)\nĐáp số: \\(96\\,{m^2}\\)."
+    },
+    {
+        "problem": "Bạn Thanh rót sữa từ một hộp giấy đựng đầy sữa vào cốc được 180 ml để uống. Bạn Thanh ước tính sữa trong hộp còn \\(\\frac{4}{5}\\) dung tích của hộp. Tính dung tích hộp sữa.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính lượng sữa đã rót chiếm bao nhiêu phần dung tích hộp.\n- Muốn tìm một số khi biết giá trị phân số \\(\\frac{m}{n}\\) của nó là b, ta tính \\(b:\\frac{m}{n}\\).\nLời giải chi tiết\nCoi dung tích hộp sữa là 1.\nVì sữa trong hộp còn \\(\\frac{4}{5}\\) dung tích của hộp nên 180 ml sữa đã rót chiếm:\n\\(\\;1 - \\frac{4}{5}\\; = \\;\\frac{1}{5}\\) dung tích.\nDung tích hộp sữa là \\(180:\\frac{1}{5}\\; = 900\\) ml\nĐáp số: 900 ml\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một bể nuôi cá cảnh dạng khối hộp chữ nhật, có kích thước 30 cm x 40 cm và chiều cao 20cm. Lượng nước trong bể cao bằng \\(\\frac{3}{4}\\) chiều cao của bể. Tính số lít nước ở bể đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Thể tích bể = Chiều dài . Chiều rộng . Chiều cao\n- Muốn tìm giá trị phân số \\(\\frac{m}{n}\\) của số a, ta tính \\(\\frac{m}{n}.a\\)\nLời giải chi tiết\nThể tích của bể là:\n\\(30{\\rm{ }}{\\rm{. }}40{\\rm{ }}{\\rm{. }}20 = 24\\,000\\;\\,c{m^2}\\)\nSố lít nước ở bể là:\n\\(\\frac{3}{4}.24000\\; = 18{\\rm{ }}000\\;c{m^3}\\) = 18 lít\nĐáp số: 18 lít\nLoigiaihay.com"
+    },
+    {
+        "problem": "Một bác nông dân vừa thu hoạch 30 kg cà chua và 12 kg đậu đũa.\na) Bác đem \\(\\frac{4}{5}\\) ở số cà chua đó đi bán, giá mỗi ki-lô-gam cà chua là 12 500 đồng. Hỏi bác nông dân nhận được bao nhiêu tiền?\nb) Số đậu đũa bác vừa thu hoạch chỉ bằng \\(\\frac{3}{4}\\) số đậu đũa hiện có trong vườn. Nếu bác thu hoạch hết tất cả thì được bao nhiêu ki-lô-gam đậu đũa?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Muốn tìm giá trị phân số \\(\\frac{m}{n}\\) của số a, ta tính \\(a.\\frac{m}{n}\\)\n- Muốn tìm một số khi biết giá trị phân số \\(\\frac{m}{n}\\) của nó là b, ta tính \\(b:\\frac{m}{n}\\).\nLời giải chi tiết\na) Bác nông dân nhận được số tiền bán cà chua là:\n\\(30.\\;\\frac{4}{5}.{\\rm{ }}12{\\rm{ }}500{\\rm{ }} = {\\rm{ }}300\\,000\\) (đồng)\nb) Nếu bác thu hoạch hết tất cả thì được số ki-lô-gam đậu đũa là:\n\\(12:\\;\\frac{3}{4}\\; = 16\\) (kg)\nĐáp số: a) 300 000 đồng\nb) 16 kg"
+    },
+    {
+        "problem": "Viết phân số \\(\\frac{{11}}{2}\\)  ở dưới dạng hỗn số và cho biết phần số nguyên, phần phân số.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lấy 11 chia 2, thương là phần số nguyên, số dư chia 2 là phần phân số.\nLời giải chi tiết\nTa có 11 chia 2 bằng 5 dư 1 nên \\(\\frac{{11}}{2} = 5\\frac{1}{2}\\)\nPhần số nguyên: 5\nPhần phân số: \\(\\frac{1}{2}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức \\(\\left( {\\frac{5}{{ - 4}} + 3\\frac{1}{3}} \\right):\\frac{{10}}{9}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi hỗn số ra phân số: \\(q\\frac{r}{b} = \\frac{{q.b + r}}{b}\\)\nThực hiện phép tính trong ngoặc trước.\nLời giải chi tiết\n\\(\\begin{array}{l}\\left( {\\frac{5}{{ - 4}} + 3\\frac{1}{3}} \\right):\\frac{{10}}{9}\\\\ = \\left( {\\frac{{ - 5}}{4} + \\frac{{10}}{3}} \\right):\\frac{{10}}{9}\\\\ = \\left( {\\frac{{ - 5.3}}{{4.3}} + \\frac{{10.4}}{{3.4}}} \\right):\\frac{{10}}{9}\\\\ = \\left( {\\frac{{ - 15}}{{12}} + \\frac{{40}}{{12}}} \\right):\\frac{{10}}{9}\\\\ = \\frac{{25}}{{12}}.\\frac{9}{{10}}\\\\ = \\frac{{15}}{8}\\end{array}\\)\\(\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Sắp xếp các khối lượng sau theo thứ tự từ lớn đến nhỏ:\n\\(3\\frac{3}{4}\\) tạ;   \\(\\frac{{377}}{{100}}\\) tạ;  \\(\\frac{7}{2}\\) tạ;  \\(3\\frac{{45}}{{100}}\\) tạ;  \\(365\\)kg.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi các khối lượng ra cùng đơn vị.\nLời giải chi tiết\nTa có:\n\\(3\\frac{3}{4}\\) tạ =\\(\\frac{{3.4+3}}{4}\\) tạ = \\(\\frac{{15}}{4}\\) tạ = \\(\\frac{{375}}{{100}}\\) tạ.\n\\(\\frac{7}{2}\\) tạ = \\(\\frac{{350}}{{100}}\\) tạ\n\\(3\\frac{{45}}{{100}}\\) tạ = \\(\\frac{{345}}{{100}}\\) tạ\n\\(365\\)kg = \\(\\frac{{365}}{{100}}\\) tạ\n=> Các khối lượng theo thứ tự từ lớn đến nhỏ là:\n\\(\\frac{{377}}{{100}}\\) tạ ; \\(3\\frac{3}{4}\\) tạ;  \\(365\\)kg; \\(\\frac{7}{2}\\) tạ; \\(3\\frac{{45}}{{100}}\\) tạ.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Dùng phân số hoặc hỗn số để viết các đại lượng diện tích dưới đây theo mét vuông\na) \\(125\\,d{m^2}\\)         b) \\(218\\,c{m^2}\\)\nc) \\(240\\,d{m^2}\\)         d) \\(34\\,c{m^2}\\)\nNếu viết chúng theo đề-xi-mét vuông thì sao?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(1c{m^2} = \\frac{1}{{100}}\\,d{m^2}\\)\n\\(1c{m^2} = \\frac{1}{{10000}}\\,{m^2}\\)\nLời giải chi tiết\na) \\(\\frac{{125}}{{100}}\\,{m^2}=\\frac{{5}}{{4}}\\,{m^2}=1\\frac{{1}}{{4}}\\,{m^2}\\)\nb) \\(\\frac{{218}}{{10000}}\\,{m^2}=\\frac{{109}}{{5000}}\\,{m^2}\\)\nc) \\(\\frac{{240}}{{100}}\\,{m^2}=\\frac{{12}}{{5}}\\,{m^2}=2\\frac{{40}}{{100}}\\,{m^2}\\)\nd) \\(\\frac{{34}}{{10000}}\\,{m^2}=\\frac{{17}}{{5000}}\\,{m^2}\\)\nNếu viết chúng theo đề-xi-mét vuông:\na) \\(\\frac{{125}}{1}\\,d{m^2}\\)\nb) \\(\\frac{{218}}{{100}}\\,{dm^2}=\\frac{{109}}{{50}}\\,{dm^2}=2\\frac{{9}}{{50}}\\,d{m^2}\\)\nc) \\(\\frac{{240}}{1}\\,d{m^2}\\)\nd) \\(\\frac{{34}}{{100}}\\,\\,d{m^2}=\\frac{{17}}{{50}}\\,{dm^2}\\)"
+    },
+    {
+        "problem": "Hai xe ô tô cùng đi được quãng đường 100 km, xe taxi chạy trong \\(1\\frac{1}{5}\\) giờ và xe tải chạy trong 70 phút. So sánh vận tốc hai xe.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi thời gian ra giờ.\n- Tính vận mỗi xe = Quãng đường : thời gian mỗi xe đi\n=> So sánh hỗn số => So sánh được vận tốc hai xe.\nLời giải chi tiết\nĐổi 70 phút = \\(\\frac{7}{6}\\) giờ\nVận tốc của xe taxi là:\n100 : \\(1\\frac{1}{5}\\)  = 100 : \\(\\frac{6}{5}\\) = \\(\\frac{{250}}{3}\\) = \\(83\\frac{1}{3}\\) (km/h)\nVận tốc của xe tải là:\n100 : \\(\\frac{7}{6}\\) = \\(\\frac{{600}}{7}\\) = \\(85\\frac{5}{7}\\) (km/h)\nTa có: \\(85\\frac{5}{7}\\) > \\(83\\frac{1}{3}\\) nên vận tốc của xe tải lớn hơn."
+    },
+    {
+        "problem": "Tìm hiểu về Quốc kì Việt Nam\n- Em hãy dùng phân số để biểu thị chiều rộng qua chiều dài của Quốc kì.\n- Không dùng bất cứ dụng cụ nào, hãy kiểm tra lá cờ của lớp em có phù hợp với quy định “ chiều rộng bằng hai phần ba chiều dài” hay không. Trình bày cách làm của em.\n- Lá cờ trên cột cờ Lũng Cú ( Hà Giang) có diện tích 54 m2 (tượng trưng cho 54 dân tộc của Việt Nam). Tính chiều dài và chiều rộng của lá cờ này.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Nếu a = k.b thì \\(\\frac{a}{b}\\) = k\nLời giải chi tiết\n- Chiều rộng = \\(\\frac{2}{3}\\)chiều dài\n- Gập đôi chiều rộng của lá cờ, rồi gập 3 chiều dài của lá cờ. Nếu thu được hình vuông thì lá cờ phù hợp quy định\n- Gọi chiều dài và chiều rộng của lá cờ trên cột cờ Lũng Cú lần lượt là a, b(m) (a,b > 0)\nTa được: a.b = 54\nb = \\(\\frac{2}{3}\\)a (Do lá cờ này đạt chuẩn)\nNên a. \\(\\frac{2}{3}\\)a = 54\n\\( \\Rightarrow \\) a2 = 54 : \\(\\frac{2}{3}\\)= 54. \\(\\frac{3}{2}\\)= 81\n\\( \\Rightarrow \\)a = 9 (do a > 0)\nb = \\(\\frac{2}{3}\\).9 = 6\nVậy chiều dài, chiều rộng của lá cờ này lần lượt là: 9m, 6m."
+    },
+    {
+        "problem": "Sử dụng phân số trong thực tế\n- Nêu một vài ví dụ về cách sử dụng phân số trong thực tiễn đời sống.\n- Hãy phát hiện những phân số từ các hình thực tế có trong lớp học, trường học như bảng, bàn học, cửa sổ,… Từ đó đưa ra những nhận xét về các phân số mà em phát hiện được.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Những sự vật có liên quan đến tỉ số\nLời giải chi tiết\n- Một số cách sử dụng phân số trong thực tiễn đời sống:\n+ Biểu diễn tỉ số của các số đo\n+ Biểu diễn số phần của công việc\n- Những nhận xét về các phân số mà em phát hiện được:\n+ Chiều rộng của chiếc bàn bằng \\(\\frac{a}{b}\\) chiều dài của chiếc bàn\n+ Chiều dài chiếc bàn bằng \\(\\frac{m}{n}\\) chiều dài lớp học"
+    },
+    {
+        "problem": "Sắp xếp các số sau theo thứ tự từ bé đến lớn:\n\\(3\\frac{5}{6};\\,\\frac{{ - 9}}{4};\\,\\frac{{ - 25}}{{ - 6}};\\,3\\)\nHãy giải thích cho bạn cùng học cách sắp xếp đó.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "So sánh các số dương từ đó sắp xếp các số theo thứ tự từ bé đến lớn.\nLời giải chi tiết\nTa có: \\(\\frac{{ - 25}}{{ - 6}} = \\frac{{25}}{6} = 4\\frac{1}{6}\\)\nNên : \\(3 < 3\\frac{5}{6} < 4\\frac{1}{6}\\)\nSuy ra các sắp xếp các số theo thứ tự từ bé đến lớn \\(\\frac{{ - 9}}{4} < 3 < 3\\frac{5}{6} < 4\\frac{1}{6}\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức\n\\(A = \\frac{{ - 2}}{3} - \\left( {\\frac{m}{n} + \\frac{{ - 5}}{2}} \\right).\\frac{{ - 5}}{8}\\) nếu \\(\\frac{m}{n}\\) nhận giá trị là:\na) \\(\\frac{{ - 5}}{6};\\)     b) \\(\\frac{5}{2}\\);       c) \\(\\frac{2}{{ - 5}}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính theo thứ tự: ( ) => Phép nhân => Phép trừ.\nLời giải chi tiết\na) Với \\(\\frac{m}{n} = \\frac{{ - 5}}{6}\\), giá trị của biểu thức là:\n\\(\\begin{array}{l}A = \\frac{{ - 2}}{3} - \\left( {\\frac{{ - 5}}{6} + \\frac{{ - 5}}{2}} \\right).\\frac{{ - 5}}{8}\\\\A = \\frac{{ - 2}}{3} - \\frac{{-20}}{6}.\\frac{{ - 5}}{8}\\\\A = \\frac{{ - 2}}{3} - \\frac{{ 25}}{{12}}\\\\A = \\frac{{ - 33}}{{12}}\\end{array}\\)\nb) Với \\(\\frac{m}{n} = \\frac{5}{2}\\) , giá trị của biểu thức là:\n\\(\\begin{array}{l}A = \\frac{{ - 2}}{3} - \\left( {\\frac{5}{2} + \\frac{{ - 5}}{2}} \\right).\\frac{{ - 5}}{8}\\\\A = \\frac{{ - 2}}{3} - 0.\\frac{{ - 5}}{8} = \\frac{{ - 2}}{3}\\end{array}\\)\nc) Với \\(\\frac{m}{n} = \\frac{2}{{ - 5}}\\) , giá trị của biểu thức là:\n\\(\\begin{array}{l}A = \\frac{-2}{3} - \\left( {\\frac{2}{{ - 5}} + \\frac{{ - 5}}{2}} \\right).\\frac{{ - 5}}{8}\\\\A = \\frac{-2}{3} - \\left( {\\frac{{ - 4}}{{10}} + \\frac{{ - 25}}{{10}}} \\right).\\frac{{ - 5}}{8}\\\\A = \\frac{-2}{3} - \\frac{{ - 29}}{{10}}.\\frac{{ - 5}}{8}\\\\A = \\frac{-2}{3} - \\frac{{29}}{{16}}\\\\A = \\frac{{-32}}{{48}} - \\frac{{87}}{{48}}\\\\A = \\frac{{ - 119}}{{48}}\\end{array}\\)."
+    },
+    {
+        "problem": "Tính giá trị các biểu thức sau theo cách có dùng tính chất phép tính phân số:\na) \\(\\frac{2}{3} + \\frac{{ - 2}}{5} + \\frac{{ - 5}}{6} - \\frac{{13}}{{10}};\\)\nb) \\(\\frac{{ - 3}}{7}.\\frac{{ - 1}}{9} + \\frac{7}{{ - 18}}.\\frac{{ - 3}}{7} + \\frac{5}{6}.\\frac{{ - 3}}{7}\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Dùng tính chất giao hoán và phân phối của phép nhân với phép cộng.\nLời giải chi tiết\na)\n\\(\\begin{array}{l}\\frac{2}{3} + \\frac{{ - 2}}{5} + \\frac{{ - 5}}{6} - \\frac{{13}}{{10}}\\\\ = \\frac{2}{3} + \\frac{{ - 5}}{6} + \\frac{{ - 2}}{5} - \\frac{{13}}{{10}}\\\\ = \\left( {\\frac{2}{3} + \\frac{{ - 5}}{6}} \\right) + \\left( {\\frac{{ - 2}}{5} - \\frac{{13}}{{10}}} \\right)\\\\ = \\left( {\\frac{4}{6} + \\frac{{ - 5}}{6}} \\right) + \\left( {\\frac{{ - 4}}{{10}} - \\frac{{13}}{{10}}} \\right)\\\\ = \\frac{{ - 1}}{6} + \\frac{{ - 17}}{{10}}\\\\ = \\frac{{ - 5}}{{30}} + \\frac{{ - 51}}{{30}}\\\\ = \\frac{{ - 56}}{{30}}\\\\ = \\frac{{ - 28}}{{15}}\\end{array}\\)\nb)\n\\(\\begin{array}{l}\\frac{{ - 3}}{7}.\\frac{{ - 1}}{9} + \\frac{7}{{ - 18}}.\\frac{{ - 3}}{7} + \\frac{5}{6}.\\frac{{ - 3}}{7}\\\\ = \\frac{{ - 3}}{7}.\\left( {\\frac{{ - 1}}{9} + \\frac{7}{{ - 18}} + \\frac{5}{6}} \\right)\\\\ = \\frac{{ - 3}}{7}.\\left( {\\frac{{ - 2}}{{18}} + \\frac{{ - 7}}{{18}} + \\frac{{15}}{{18}}} \\right)\\\\ = \\frac{{ - 3}}{7}.\\frac{{ 6}}{{18}}\\\\ = \\frac{-1}{7}\\end{array}\\)."
+    },
+    {
+        "problem": "Ba nhóm thanh niên tình nguyện nhận nhiệm vụ thu nhặt rác cho một đoạn mương thoát nước. Ba nhóm thống nhất phân công: nhóm thứ nhất phụ trách \\(\\frac{1}{3}\\) đoạn mương nhóm thứ hai phụ trách \\(\\frac{2}{5}\\) đoạn mương phần còn lại do nhóm thứ ba phụ trách, biết đoạn mương mà nhóm thứ ba phụ trách dài 16 mét. Hỏi đoạn mương thoát nước đó dài bao nhiêu mét?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "- Tính phần mương nhóm thứ ba phụ trách\n=> Độ dài đoạn mương thoát nước.\nLời giải chi tiết\nNhóm thứ ba phụ trách phần mương là:\n1 - \\(\\frac{1}{3}\\) - \\(\\frac{2}{5}\\) = \\(\\frac{4}{{15}}\\)\nĐoạn mương thoát nước dài số mét là:\n16 : \\(\\frac{4}{{15}}\\) = 60 ( mét)\nĐáp số: 60 mét"
+    }
+]

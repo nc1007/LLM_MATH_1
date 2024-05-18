@@ -1,0 +1,140 @@
+[
+    {
+        "problem": "Câu 1. Tích của hai số nguyên âm là số thế nào?\nA. là số nguyên âm\nB. là số nguyên dương\nC. là số 0\nD. vừa là số nguyên âm vừa là số nguyên dương",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSau bài này ta sẽ biết được là:\nTích của hai số nguyên âm sẽ là một số nguyên dương.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2. Thực hiện phép tính sau: (-5).4\nA. – 20\nB. 20\nC. 10\nD. -10",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải (-5).4 = -(5.4) = - 20\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Phép nhân có tính chất gì:\nA. Tính chất giao hoán\nB. Tính chất kết hợp\nC. Tính chất phân phối của phép nhân với phép cộng\nD. Cả ba tính chất trên",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Phép nhân có cả ba tính chất: giao hoán, kết hợp và phân phối của phép nhân với phép cộng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Tích của một số nguyên a bất kì với số 0 có kết quả là:\nA. a\nB. 1\nC. 0\nD. a^{2}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có: a.0 = 0\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Tích của các số nguyên âm có số thừa số là số lẻ thì:\nA. là số lẻ\nB. là số chẵn\nC. là số dương\nD. là số âm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tích của các số nguyên âm có số thừa số là số lẻ thì mang dấu âm.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 6. Tích của các số nguyên âm có số thừa số là số chẵn thì:\nA. là số lẻ\nB. là số chẵn\nC. là số dương\nD. là số âm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Tích của các số nguyên âm có số thừa số là số chẵn thì có dấu dương.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Cho tích 213.3 = 639. Từ đó suy ra nhanh kết quả của các tích sau: (- 213).3; \nA. -639\nB. 639\nC. 1 278\nD. -1 278",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: 213.3 = 639\nTừ đó suy ra: \n(- 213).3 = - 639\nĐáp án: A"
+    },
+    {
+        "problem": "II. Thông hiểu\nCâu 1. Một xí nghiệp may gia công có chế độ thưởng và phạt như sau: Một sản phẩm tốt được thưởng 50 000 đồng, một sản phẩm có lỗi bị phạt 40 000 đồng. Chị Mai làm được 20 sản phẩm tốt và 4 sản phẩm bị lỗi. Chị Mai nhận được bao nhiêu tiền?\nA. 84 000 đồng\nB. 1 000 000 đồng\nC. -160 000 đồng\nD. 840 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nChị Mai nhận được số tiền là: \n20. (+50 000) + 4. (-40 000) = 1 000 000 + (- 160 000) = 840 000 (đồng)\nVậy chị Mai nhận được 840 000 đồng.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 2. Tính tổng hai tích sau: a = (-2).(-3) và c = (+3).(+2);      \nA. a + c = 6\nB. a + c = 12\nC. a + c = -12\nD. a + c = -6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \na = (-2).(-3) = 2.3 = 6;\nc = (+3).(+2) = 3.2 = 6;\nsuy ra a + c = 6 + 6 = 12\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. P là tích của 8 số nguyên khác 0 trong đó có đúng 4 số dương. Q là tích của 6 số nguyên khác 0 trong đó có duy nhất một số dương. Hãy cho biết P và Q là số dương hay số âm. \nA. P dương, Q âm\nB. P âm, Q dương\nC. P, Q đều âm\nD. P, Q đều dương",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nP là tích của 8 số nguyên khác 0 và có đúng 4 số dương nên 4 số còn lại nguyên âm. \nMà tích của 4 số nguyên dương là một số nguyên dương, tích của 4 số nguyên âm còn lại cùng là một số nguyên dương. Do đó P dương.\nQ là tích của 6 số nguyên khác 0 trong đó có duy nhất một số dương nên 5 số còn lại là số nguyên âm và tích của 5 số nguyên âm cũng là một số nguyên âm. Do đó Q âm.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Thực hiện phép tính: (-2).29 + (-2).(-99) + (-2).(-30).\nA. 199\nB. 299\nC. 200\nD. -199",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-2).29 + (-2).(-99) + (-2).(-30).\n= (-2).[29 + (-99) + (-30)]         \n= (-2).[(-70) + (-30)]\n= (-2).(-100)\n= 2 . 100\n= 200.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 5. Tính:  (-8).(-6)(-125);  \nA. 480\nB. - 4 800\nC. - 6 000    \nD. -1 200",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải (-8).(-6)(-125) = [(-8).(-125)].(-6) = 1 000.(-6) = -6 000;\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 6. Không thực hiện phép tính, hãy so sánh: (+4).(-8) với 0; \nA. (+4).(-8) ≥ 0  \nB. (+4).(-8) > 0\nC. (+4).(-8) = 0\nD. (+4).(-8) < 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Vì (+4).(- 8) ra kết quả mang dấu âm. Do đó (+4).(- 8) < 0.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 7. Thực hiện phép tính: (- 3).(- 2).(- 5). 4;                                             \nA. 150\nB. 120\nC. -120\nD. -150",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải (- 3).(- 2) .(- 5) .4 = [(-3).4)].[(-2).(-5)] = (-12).10 =  -120.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 8. Một kho lạnh đang ở nhiệt độ , một công nhân cần đặt chế độ làm cho nhiệt độ của kho trung bình cứ mỗi phút giảm đi. Hỏi sau 5 phút nữa nhiệt độ trong kho là bao nhiêu?\nA. 2^{0} C\nB. 10^{0} C\nC. – 10^{0} C\nD. – 2^{0} C",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCứ mỗi phút giảm \nSau 5 phút nhiệt độ giảm: 5.2 = 10^{0} C\nVậy: Sau 5 phút nữa nhiệt độ trong kho là: 8 – 10 = -2^{0} C.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu  9. Tính giá trị của biểu thức trong mỗi trường hợp sau: 19x với x = - 7;\nA. 124\nB. -124\nC. 133\nD. - 133",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nThay x = -7 vào 19x, ta được:\n19.(-7) = -133.\nVậy với x = -7 thì giá trị biểu thức là -133.\nĐáp án: D"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Thực hiện phép tính: (-8).(-8).(-8).(-8) – 8^{4}  + 10^{5} .\nA. 2.8^{4} \nB. 8^{4}  + 10\nC. 0\nD. 10^{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-8).(-8).(-8).(-8) – 8^{4}  + 10^{5} \n= 8^{4}  – 8^{4}  + 10^{5} \n= 0 + 10^{5} \n= 10^{5} .\nĐáp án: D"
+    },
+    {
+        "problem": "Câu  2. Tính giá trị của biểu thức trong trường hợp sau:\n(- 2021)abc + ab với a = -21, b = -11 và c = 0.\nA. 0\nB. 231\nC. – 2021\nD. 221",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nThay a = -21, b = -11 và c = 0 vào biểu thức (- 2021)abc + ab, ta được:\n(- 2021)(-21).(-11).0 + (-21).(-11)\n= 0 + 231\n= 231.\nVậy với a = -21, b = -11 và c = 0 thì giá trị biểu thức là 231.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 3. Tính một cách hợp lí: 121.(-63) + 63.(-53) – 63.26.\nA. -12 000\nB. 12 000\nC. 12 600\nD. – 12 600",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n121.(-63) + 63.(-53) – 63.26\n= 121.(-63) + (-63).53 + (-63).26\n= (-63).(121 + 53 + 26)\n= (-63).200\n= -12 600.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 4. Báo cáo kinh doanh trong 6 tháng đầu năm của công ty Bình An được thống kê như sau:\nTháng\nLợi nhuận (triệu đồng)\nTháng 1\n50\nTháng 2\n-10\nTháng 3\n50\nTháng 4\n40\nTháng 5\n-20\nTháng 6\n-10\nSau 6 tháng đầu năm, công ty Bình An kinh doanh lãi hay lỗ với số tiền là bao nhiêu?\nA. 50 (triệu đồng)\nB. 100 (triệu đồng)\nC. 150 (triệu đồng)\nD. -50 (triệu đồng)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố tiền của công ty Bình An thu được sau 6 tháng đầu năm là:\n50 + (-10) + 50 + 40 + (-20) + (-10) = 100 (triệu đồng)\nVậy sau 6 tháng đầu năm, công tu Bình An kinh doanh lãi 100 triệu đồng.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 5. So sánh hai biểu thức sau:\nP = (8 765 – 5 678).[5 678 – 9 765 + (-12)] và Q = 4 342.\nA. P > Q\nB. P < Q\nC. P = Q\nD. P ≤ Q",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 8 765 – 5 678 > 0, 5 678 – 9 765 + (-12) < 0.\nDo đó (8 765 – 5 678).[5 678 – 9 765 + (-12)] < 0 mà 4 342 > 0.\nVậy (8 765 – 5 678).[5 678 – 9 765 + (-12)] < 4 342 hay P < Q.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 6. Cho hai số nguyên x, y (x ≠ 0, y ≠ 0, x > y, x ≠ -y).\nGọi m = x^{2} .y^{2} .(x – y).(x + y)^{4} . Khẳng định nào sau đây đúng về giá trị của m?\nA. m là số nguyên âm\nB. m là số nguyên dương\nC. m = 0\nD. m là một số nguyên âm nhỏ hơn -1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì x > y nên x – y > 0.\nTa có x^{2}  ≥ 0 với mọi x mà x ≠ 0 nên x^{2}  > 0.\nTa có y^{2}  ≥ 0 với mọi x mà y ≠ 0 nên y^{2}  > 0.\nTa lại có x ≠ - y nên x + y ≠ 0 suy ra (x + y)^{4}  > 0.\nDo đó m = x^{2} .y^{2} .(x – y).(x + y)^{4}  > 0.\nVậy m là một số nguyên dương.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 7. Tìm số nguyên x thỏa mãn: (x – 6).(x – 3) = 0;                         \nA. x = 6\nB. x = 3\nC. x = -6, x = -3\nD. x = 6, x = 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(x – 6).(x – 3) = 0\nTH1: x – 6 = 0\nx = 6.\nTH2: x – 3 = 0\nx = 3\nVậy x = 6 hoặc x = 3.               \nĐáp án: D"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "problem": "Mỗi số sau có bao nhiêu chữ số? Chỉ ra chữ số hàng đơn vị, hàng chục, hàng trăm, …của mỗi số đó.\n2 023;  5 427 198 653",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đếm số chữ số sau đó chỉ ra chữ số hàng đơn vị, hàng chục, hàng trăm, …của mỗi số đó.\nLời giải chi tiết\nSố 2 023 có bốn chữ số trong đó:\nChữ số hàng đơn vị là: 3\nChữ số hàng chục là: 2\nChữ số hàng trăm là: 0\nChữ số hàng nghìn là: 2\nSố 5 427 198 653 có mười chữ số trong đó:\nChữ số hàng đơn vị là: 3\nChữ số hàng chục là: 5\nChữ số hàng trăm là: 6\nChữ số hàng nghìn là: 8\nChữ số hàng chục nghìn là: 9\nChữ số hàng trăm nghìn là: 1\nChữ số hàng triệu là: 7\nChữ số hàng chục triệu là: 2\nChữ số hàng trăm triệu là: 4\nChữ số hàng tỉ là: 5"
+    },
+    {
+        "problem": "a) Dựa theo cách biểu diễn trên, hãy biểu diễn các số 345 và 2 021.\nb) Đọc số 96 208 984. Số này có mấy chữ số? Số triệu, số trăm là bao nhiêu?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Biểu diễn các số theo mẫu:\n\\(\\overline {abc} \\) = a x 100 + b x 10 + c\n\\(\\overline {abcd} \\)= a x 1000 + b x 100 + c x 10 + d\nb) Chữ số hàng trăm là chữ số thứ ba từ phải qua trái, chữ số hàng triệu là chữ số thứ 7 từ phải qua trái.\nLời giải chi tiết\na) 345 = 3 x 100 + 4 x 10 + 5 = 300 + 40 + 5\n2 021 = 2 x 1000 + 0 x 100 + 2 x 10 + 1 = 2000 + 20 + 1\nb) 96 208 984 đọc là: Chín mươi sáu triệu hai trăm linh tám nghìn chín trăm tám mươi tư.\nSố này có 8 chữ số\nSố này có số triệu là 96 và số trăm là 962089."
+    },
+    {
+        "problem": "Trong các khẳng định sau, khẳng định nào là đúng, khẳng định nào là sai?\na) 1 999 > 2 003\nb) 100 000 là số tự nhiên lớn nhất;\nc) 5 \\( \\le \\) 5\nd) Số 1 là số tự nhiên nhỏ nhất.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Xét từng khẳng định rồi rút ra tính đúng sai\nLời giải chi tiết\na) Sai vì 1999 < 2003\nb) Sai vì không có số tự nhiên lớn nhất\nc) Đúng\nd) Sai vì 0 là số tự nhiên nhỏ nhất\nLoigiaihay.com"
+    },
+    {
+        "problem": "Biểu diễn các số 1 983; 2 756; 2 053 theo mẫu 1 983 = 1 x 1 000 + 9 x 100 + 8 x 10 + 3.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "\\(\\overline {abcd} \\)= a x 1000 + b x 100 + c x 10 + d\nLời giải chi tiết\n2 756 = 2 x 1000 + 7 x 100 + 5 x 10 + 6\n2 053 = 2 x 1000 + 0 x 100 + 5 x 10 + 3"
+    },
+    {
+        "problem": "An có 100 000 đồng để mua đồ dùng học tập. An đã mua 5 quyển vở, 6 cái bút bi và 2 cái bút chì. Biết rằng mỗi quyển vở có giá 6 000 đồng, mỗi cái bút bi hoặc bút chì có giá 5 000 đồng. Hỏi An còn lại bao nhiêu tiền?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng số tiền An mua vở, mua bút bi và mua bút chì sau đó tính số tiền còn lại bằng cách lấy số tiền ban đầu trừ đi tổng số tiền vừa tính được.\nLời giải chi tiết\nAn mua 5 quyển vở, 6 cái bút bi và 2 cái bút chì hết:\n5 x 6000 + 6 x 5000 + 2 x 5000 = 70 000 (đồng)\nAn còn lại: 100 000 – 70 000 = 30 000 (đồng)\nVậy An còn lại 30 000 đồng"
+    },
+    {
+        "problem": "Kiểm tra lại kết quả mỗi phép tính sau và chỉ ra trong mỗi phép tính đó số nào được gọi là số hạng, là tổng, là thừa số, là tích.\n1 890 + 72 645 = 74 535\n363 x 2018 = 732 534",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đặt tính rồi tính để kiểm tra kết quả rồi chỉ ra trong mỗi phép tính đó số nào được gọi là số hạng, là tổng, là thừa số, là tích.\nLời giải chi tiết\nPhép tính: 1 890 + 72 645 = 74 535 đúng, có số hạng là: 1 890 và 72 645, tổng là 74 535.\nPhép tính: 363 x 2018 = 732 534 đúng, có thừa số là: 363 và 2018, tích là 732 534."
+    },
+    {
+        "problem": "Hãy so sánh kết quả của các phép tính:\na) 17 + 23 và 23 + 17\nb) (12 + 28) + 10 và 12 + (28 + 10)\nc) 17.23 và 23.17\nd) (5.6).3 và 5.(6.3)\ne) 23.(43+17) và 23.43 + 23.17",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thực hiện phép tính rồi so sánh kết quả các phép tính\nLời giải chi tiết\na) 17 + 23 = 40;   23 + 17 = 40\n=> 17 + 23 = 23 + 17\nb) (12 + 28) + 10 = 40 + 10 = 50\n12 + (28 + 10) = 12 + 38 = 50\n=> (12 + 28) + 10 = 12 + (28 + 10)\nc) 17.23 = 391;  23.17 = 391\n=> 17.23 = 23.17\nd) (5.6).3 = 30.3 = 90;  5.(6.3) = 5. 18 = 90\ne) 23.(43+17) = 23. 60 = 1380\n23.43 + 23.17 = 989 + 391 = 1380\n=> 23.(43+17) = 23.43 + 23.17"
+    },
+    {
+        "problem": "Có thể thực hiện phép tính sau như thế nào cho hợp lí?\nT = 11.(1 + 3 + 7 + 9) + 89.(1 + 3 + 7 + 9)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng tính chất kết hợp và tính chất phân phối của phép nhân đối với phép cộng\nLời giải chi tiết\nCách 1:\nT = 11. [(1 + 9) + (3 + 7)] + 89. [(1 + 9) + (3 + 7)]\nT = 11. (10 + 10) + 89 .(10 + 10)\nT = 11. 20 + 89 . 20\nT = 20 . (11 + 89)\nT = 20 . 100\nT = 2000\nCách 2:\nT = 11 . (1 + 3 + 7 + 9) + 89 . (1 + 3 + 7 + 9)\nT = (1 + 3 + 7 + 9) . (11 + 89)\nT = 20 . 100\nT = 2000"
+    },
+    {
+        "problem": "Có thể tính nhanh tích của một số với 9 hoặc 99 như sau:\n\\(\\begin{array}{l}67.9 = 67.\\left( {10 - 1} \\right) = 670 - 67 = 603\\\\346.99 = 346.\\left( {100 - 1} \\right) = 34600 - 346 = 34254\\end{array}\\)\nTính:  a) 1 234.9; b) 1 234.99",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tách 9 và 99 sau đó thực hiện phép tính theo mẫu\nLời giải chi tiết\n\\(\\begin{array}{l}a) 1234.9 = 1234.\\left( {10 - 1} \\right) \\\\= 12340 - 1234 = 11106\\\\b) 1234.99 = 1234.\\left( {100 - 1} \\right)\\\\ = 123400 - 1234 = 122166\\end{array}\\)"
+    },
+    {
+        "problem": "Nhóm bạn Lan dự định thực hiện một kế hoạch nhỏ với số tiền cần có là 200 000 đồng. Hiện tại các bạn đang có 80 000 đồng. Các bạn thực hiện gây quỹ thêm bằng cách thu lượm và bán giấy vụn, mỗi tháng được 20 000 đồng.\na) Số tiền các bạn còn thiếu là bao nhiêu?\nb) Số tiền còn thiếu cần phải thực hiện gây quỹ trong mấy tháng?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số tiền còn thiếu = Số tiền cần có – Số tiền đang có\nb) Số tháng = Số tiền còn thiếu: 20 000\nLời giải chi tiết\na) Số tiền nhóm bạn còn thiếu là:\n200 000 – 80 000 = 120 000(đồng)b) Số tiền còn thiếu cần phải thực hiện trong khoảng thời gian:\n120 000 : 20 000 = 6 (tháng)"
+    },
+    {
+        "problem": "Năm nay An 12 tuổi, mẹ An 36 tuổi.\na) Hỏi bao nhiêu năm nữa thì số tuổi của An bằng số tuổi của mẹ hiện nay?\nb) Năm nay số tuổi của mẹ An gấp mấy lần số tuổi của An?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "a) Số năm bằng số tuổi chênh lệch\nb) Tuổi mẹ An gấp tuổi của An = Tuổi mẹ : Tuổi An\nLời giải chi tiết\na) Tuổi của An bằng số tuổi của mẹ hiện nay sau:\n36 – 12 = 24 (năm)\nb) Năm nay,tuổi mẹ gấp tuổi An: 36 : 12 = 3 (lần)\nLoigiaihay.com"
+    }
+]

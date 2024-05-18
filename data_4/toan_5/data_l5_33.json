@@ -1,0 +1,38 @@
+[
+    {
+        "problem": "Câu 1: Tìm y biết: 45 : y = 2,5\nA.\ty = 18\nB.\ty = 42,5\nC.\ty = 47,5\nD.\ty = 112,5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n45 : y = 2,5\ny = 45 : 2,5\ny = 18 \nVậy y = 18."
+    },
+    {
+        "problem": "Câu 2: Phép chia nào sau đây có thương nhỏ nhất?\nA.\t27 : 0,25\nB.\t63 : 1,8\nC.\t243 : 4,5\nD.\t90 : 3,6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có:\n27 : 0,25 = 108\n63 : 1,8 = 35\n243 : 4,5 = 54\n90 : 3,6 = 25\nMà 25 < 35 < 54 < 108\nVậy phép tính có thương nhỏ nhất là 90 : 3,6."
+    },
+    {
+        "problem": "Câu 3: Có một tấm vải dài 35m. Người ta đem cắt thành các mảnh vải nhỏ, mỗi mảnh vải dài 1,25m. Hỏi người ta cắt được bao nhiêu mảnh vải nhỏ?\nA.\t26 mảnh\nB.\t27 mảnh\nC.\t28 mảnh\nD.\t29 mảnh",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Người ta cắt được số mảnh vải nhỏ là:\n35 : 1,25 = 28 (mảnh vải)\nĐáp số: 28 mảnh vải."
+    },
+    {
+        "problem": "Câu 4: Cân nặng cua dê đen là 65kg. Cân nặng của dê trắng là 16,25kg. Hỏi cân nặng của dê đen gấp mấy lần cân nặng của dê trắng?\nA.\t3 lần\nB.\t3,5 lần\nC.\t4 lần\nD.\t4,5 lần",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Cân nặng của dê đen nặng gấp cân nặng của dê trắng số lần là:\n65 : 16,25 = 4 (lần)\nĐáp số: 4 lần."
+    },
+    {
+        "problem": "Câu 5: Chọn dấu thích hợp điền vào chỗ chấm:\n486 : 36 … 378 : 2,8\nA.\t>\nB.\t< \nC.\t=",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Ta có: 486 : 3,6 = 135;\t378 : 2,8 = 135\nMà 135 = 135\nDo đó 486 : 3,6 = 378 : 2,8."
+    },
+    {
+        "problem": "Câu 6: Muốn chia một số tự nhiên co 0,1; 0,01; 0,001;… ta chỉ việc thêm vào bên phải của số tự nhiên của số tự nhiên đó một, hai, ba,… chữ số 0. Đúng hay sai?\nA.\tĐúng\nB.\tSai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn chia một số tự nhiên cho 0,1; 0,01; 0,001;... ta chỉ việc thêm vào bên phải của số tự nhiên đó một, hai, ba, … chữ số 0. \nVậy phát biểu trên là đúng."
+    }
+]

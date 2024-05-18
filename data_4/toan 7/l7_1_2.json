@@ -1,0 +1,92 @@
+[
+    {
+        "problem": "B. n^{x} ;\nC. n.x;\nD. x^{n.x} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nLũy thừa bậc n của một số hữu tỉ x, kí hiệu x^{n}  với n ∈ ℕ∗ ."
+    },
+    {
+        "problem": "Câu 2. Giá trị của x^{1}  bằng bao nhiêu?\nA. 1;\nB. 0;\nC. x;\nD. 2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có: x^{n}  là tích của n thừa số x nên quy ước x^{1 } = x."
+    },
+    {
+        "problem": "Câu 3. Tích (− 3) . (− 3) . (− 3) . (− 3) viết dưới dạng lũy thừa là:\nA. 3^{4} ;\nB. (− 3)^{4} ; \nC. 4^{3} ;\nD. 4^{(} ^{<span>−</span>} ^{<span>3)</span>} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nDạng lũy thừa của (− 3) . (− 3) . (− 3) . (− 3) viết là (− 3)^{4} ."
+    },
+    {
+        "problem": "Câu 4. Giá trị của −\\frac{2}{3}3 bằng:\nA.\\frac{8}{27}; \nB.\\frac{8}{9}; \nC. −\\frac{8}{9}; \nD. −\\frac{8}{27}.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D.\nTa có:−\\frac{2}{3}3−\\frac{2}{3}.−\\frac{2}{3}−\\frac{2}{3}\n\\frac{−2.−2.−2}{3.3.3}\\frac{−8}{27}=−\\frac{8}{27}"
+    },
+    {
+        "problem": "Câu 5. So sánh \\frac{−22}{92} và \\frac{−}{9}2. \nA.\\frac{−2}{92}\\frac{−}{9}2; \nB.\\frac{−2}{92}\\frac{−}{9}2; \nC.\\frac{−2}{92}\\frac{−}{9}2; \nD.\\frac{−2}{92}≤\\frac{−}{9}2.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C\nTa có:\\frac{−}{9}2\\frac{−}{9}.\\frac{−}{9}=\\frac{−−}{9}\\frac{−2}{92}. \nVậy \\frac{−2}{92}\\frac{−}{9}2."
+    },
+    {
+        "problem": "Câu 6. Chọn phát biểu đúng nhất:\nA. Khi chia hai lũy thừa cùng cơ số, ta giữ nguyên cơ số và lấy số mũ của lũy thừa bị chia trừ đi số mũ của lũy thừa chia;\nB. Khi chia hai lũy thừa cùng cơ số (khác 0), ta giữ nguyên cơ số và lấy số mũ của lũy thừa bị chia trừ đi số mũ của lũy thừa chia;\nC. Khi chia hai lũy thừa cùng cơ số (khác 0), ta giữ nguyên cơ số và lấy số mũ của lũy thừa bị chia cộng với số mũ của lũy thừa chia;\nD. Khi chia hai lũy thừa cùng cơ số, ta giữ nguyên cơ số và lấy số mũ của lũy thừa bị chia cộng với số mũ của lũy thừa chia.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nKhi chia hai lũy thừa cùng cơ số (khác 0), ta giữ nguyên cơ số và lấy số mũ của lũy thừa bị chia trừ đi số mũ của lũy thừa chia:\nx^{m}  : x^{n}  = x^{m – n}  (x ≠ 0; m ≥ n; m, n ∈ ℕ )."
+    },
+    {
+        "problem": "Câu 7. 64 là lũy thừa của số tự nhiên nào và có số mũ bằng bao nhiêu?\nA. Lũy thừa của cơ số 3 và số mũ bằng 5;\nB. Lũy thừa của cơ số 2 và số mũ bằng 6; \nC. Lũy thừa của cơ số 3 và số mũ bằng 4;\nD. Lũy thừa của cơ số 2 và số mũ bằng 5.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B.\nTa có: \nLũy thừa của cơ số 3 và số mũ bằng 5 là:\n3^{5}  = 3 . 3 . 3 . 3 . 3 = 243;\nLũy thừa của 2 và số mũ bằng 6 là:\n2^{6}  = 2 . 2 . 2 . 2 . 2 . 2 = 64;\nLũy thừa của 3 và số mũ bằng 4 là:\n3^{4}  = 3 . 3 . 3 . 3 = 81;\nLũy thừa của 2 và số mũ bằng 5 là:\n2^{5}  = 2 . 2 . 2 . 2 . 2 = 32.\nVậy 64 là lũy thừa của cơ số là 2 và số mũ bằng 6."
+    },
+    {
+        "problem": "Câu 8. Kết quả của phép tính \\frac{1}{5}6\\frac{1}{5}2 là:\nA.\\frac{1}{5}3; \nB.\\frac{1}{5}8; \nC.\\frac{1}{5}4; \nD.\\frac{1}{5}12.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTheo quy tắc chia hai lũy thừa cùng cơ số, ta có: \\frac{1}{5}6\\frac{1}{5}2\\frac{1}{5}6−\\frac{1}{5}4."
+    },
+    {
+        "problem": "Câu 9. 2^{8}  là kết quả của phép tính:\nA. 2^{4}  . 2^{4} ; \nB. 2^{2}  . 2^{4} ; \nC. 2^{1}  . 2^{8} ; \nD. 2^{3}  . 2^{4} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTheo quy tắc nhân hai lũy thừa cùng cơ số, ta có:\n2^{4}  . 2^{4}  = 2^{4 + 4}  = 2^{8} ; \n2^{2}  . 2^{4}  = 2^{2 + 4}  = 2^{6} ; \n2^{1}  . 2^{8}  = 2^{1 + 8}  = 2^{9} ; \n2^{3}  . 2^{4}  = 2^{3 + 4}  = 2^{7} . \nVậy 2^{8}  là kết quả của phép tính 2^{4}  . 2^{4}"
+    },
+    {
+        "problem": "Câu 10. Tìm x, biết: x . (3,7)^{2}  = (3,7)^{7} . \nA. x = (3,7)^{14} ; \nB. x = (3,7)^{9} ; \nC. x = (3,7)^{5} ; \nD. x = (3,7)^{6} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nTa có: x . (3,7)^{2}  = (3,7)^{7}  \nx = (3,7)^{7}  : (3,7)^{2} \nx = (3,7)^{7 } ^{<span>−</span>} ^{<span> 2</span>} \nx = (3,7)^{5} .\nVậy x = (3,7)^{5} ."
+    },
+    {
+        "problem": "Câu 11. Điền từ thích hợp vào dấu “…”: Khi tính lũy thừa của một lũy thừa, ta giữ nguyên cơ số và … hai số mũ.\nA. Nhân;\nB. Cộng;\nC. Trừ;\nD. Chia.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nKhi tính lũy thừa của một lũy thừa, ta giữ nguyên cơ số và nhân hai số mũ:\n(x^{m} )^{n}  = x^{m.n}  m,n∈ℕ"
+    },
+    {
+        "problem": "Câu 12. Cho x là số hữu tỉ, x^{15}  biểu diễn dưới dạng lũy thừa của x^{3}  được viết là:\nA. (x^{3} )^{6} ; \nB. (x^{3} )^{12} ; \nC. (x^{3} )^{5} ; \nD. (x^{3} )^{15} .",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: C.\nKhi tính lũy thừa của một lũy thừa, ta giữ nguyên cơ số và nhân hai số mũ.\nDo đó, để x^{15}  biểu diễn dưới dạng lũy thừa của x^{3}  ta phân tích 15 thành 3 nhân với một số. \nMà 15 = 3 . 5; suy ra x^{15}  = x^{3 . 5}  = (x^{3} )^{5} . \nVậy x^{15}  biểu diễn dưới dạng lũy thừa của x^{3}  được viết là: (x^{3} )^{5} ."
+    },
+    {
+        "problem": "Câu 13. Tìm x sao cho (− 5)^{x}  = ((− 5)^{3} )^{4} . \nA. x = 12;\nB. x = 7;\nC. x = 6;\nD. x = 1.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: A.\nTa có: −34−3−12.\nVậy x = 12."
+    },
+    {
+        "problem": "Câu 14. Một chiếc mâm đồng có bán kính r = 19,5 cm và một chiếc đĩa đồng có bán kính R = 6,5 cm. Hỏi diện tích của chiếc mâm gấp bao nhiêu lần diện tích chiếc đĩa?\nA. 3 lần;\nB. 9 lần;\nC. 5 lần;\nD. 8 lần.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: B\nCông thức tính diện tích hình tròn có bán kính R là: S = π . R^{2} .\nDiện tích bề mặt chiếc mâm là:\nπ . r^{2}  = π . 19,5^{2}  = π . \\frac{39}{2}2 = π . \\frac{1521}{4} (cm^{2} );\nDiện tích bề mặt chiếc đĩa là:\n π . R^{2}  = π . 6,5^{2}  = π . \\frac{13}{2}2 = π . \\frac{169}{4} (cm^{2} );\nDiện tích của chiếc mâm gấp diện tích chiếc đĩa số lần là:\n \\frac{π\\frac{1521}{4}}{π\\frac{169}{4}}\\frac{1521}{4}\\frac{4}{169}\\frac{1521}{169} (lần).\nVậy diện tích chiếc mâm gấp 9 lần diện tích chiếc đĩa."
+    },
+    {
+        "problem": "Câu 15. Trong chân không, vận tốc ánh sáng là 299 792 458 m/s; với các tính toán không cần độ chính xác cao ta có thể coi vận tốc ánh sáng là 3.10^{8}  m/s. Trong một nghiên cứu, ánh sáng từ một ngôi sao đến Trái Đất mất 10 phút 20 giây. Khoảng cách giữa ngôi sao đó đến Trái Đất xấp xỉ bằng bao nhiêu ki-lô-mét?\nA. 1939 . 10^{5 } km;\nB. 1939 . 10^{6}  km;\nC. 1839 . 10^{6}  km;\nD. 1839 . 10^{5}  km.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đáp án đúng là: D\nĐổi 10 phút 13 giây = 613 giây;\nKhoảng cách giữa ngôi sao và Trái Đất là:\n613 . 3 . 10^{8}  = 1839 . 10^{8}  (m) = 1839 . 10^{5}  (km)\nVậy khoảng cách giữa ngôi sao đó đến Trái Đất xấp xỉ bằng 1839 . 10^{5}  km."
+    }
+]

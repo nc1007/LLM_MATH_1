@@ -1,0 +1,62 @@
+[
+    {
+        "problem": "Trong một cuộc bình chọn cầu thủ xuất sắc nhất giải bóng đá của trường. Tân nhận được 120 phiếu bầu, chiếm 60% số phiếu bình chọn. Hỏi có bao nhiêu người đã tham gia bình chọn?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm một số khi biết m% của nó là a, ta tính \\(a:\\dfrac{m}{{100}}\\)\nLời giải chi tiết\n60% số phiếu bình chọn là 120 phiếu nên tổng số người tham gia bình chọn là:\n\\(120:\\dfrac{{60}}{{100}} = 120.\\dfrac{{100}}{{60}} = 200\\) (người)\nĐáp án: 200 người"
+    },
+    {
+        "problem": "Tính:\na) 25% của 8;\nb) 7,5% của 180.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Muốn tìm m% của số a, ta tính \\(a.\\dfrac{m}{{100}}\\)\nLời giải chi tiết\na) 25% của 8 là: \\(8.\\dfrac{{25}}{{100}} = \\dfrac{{8.25}}{{100}} = 2\\)\nb) 7,5% của 180 là: \\(180.\\dfrac{{7,5}}{{100}} = \\dfrac{{180.7,5}}{{100}} = \\dfrac{{1350}}{{100}} = 13,5\\)\nLoigiaihay.com"
+    },
+    {
+        "problem": "Lãi suất tiền gửi kì hạn một năm của một ngân hàng là 7,4%. Bác Đức gửi 150 triệu đồng vào ngân hàng đó. Sau một năm, bác Đức rút cả vốn lẫn lãi thì nhận được bao nhiêu tiền?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính số tiền lãi: Muốn tìm m% của số a, ta tính \\(a.\\dfrac{m}{{100}}\\)\nRút cả vốn lẫn lãi: Tính tổng lãi và số tiền gửi.\nLời giải chi tiết\nSố tiền lãi sau 1 năm là: \\(150.7,4\\%  = \\dfrac{{150.7,4}}{{100}} = 11,1\\) triệu đồng.\nTổng vốn lẫn lãi sau 1 năm là: \\(150 + 11,1 = 161,1\\) triệu đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Giá niêm yết của một chiếc điện thoại di động là 625 nghìn đồng. Trong chương trình khuyến mại, mặt hàng này được giảm giá 10%. Như vậy, khi mua một chiếc điện thoại loại này người mua được giảm bao nhiêu tiền?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm a% của m, ta lấy m.a:100\nLời giải chi tiết\nNgười mua được giảm số tiền: \\(625000.10\\%  = 62500\\) đồng.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Theo Tổng cục Thống kê, năm 1989 cả nước có 914 396 người dân tộc Mường. Sau 30 năm số người Mường đã tăng lên thành 1 452 095 người. Em hãy cho biết trong 30 năm đó, số người Mường ở Việt Nam đã tăng bao nhiêu phần trăm? (làm tròn kết quả tới hàng phần mười).\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính tổng số người đã tăng trong 30 năm.\nSố phần trăm tăng bằng tỉ số phần trăm số người tăng và số người năm 1989.\nLời giải chi tiết\nTổng số người Mường đã tăng trong 30 năm là:\n1 452 095 - 914 396 = 537 699 (người)\nSố người Mường Việt Nam tăng: \\(\\frac{ 537 699}{914396}.100\\%  \\approx 58,8\\% \\)"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức sau:\n7,05 – (a + 3,5 + 0,85) khi a = - 7,2\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Thay a = - 7,2 vào biểu thức\nPhá dấu ngoặc, thực hiện phép tính\nLời giải chi tiết\nThay a = - 7,2 vào 7,05 – (a + 3,5 + 0,85) ta được:\n7,05 – ( - 7,2 + 3,5 + 0,85)\n= 7,05 + 7,2 - 3,5 - 0,85\n= (7,05 - 0,85) + (7,2 - 3,5)\n= 6,2+3,7=9,9"
+    },
+    {
+        "problem": "Theo báo điện tử VINANET (14-2-2020), năm 2019 Việt Nam sản xuất khoảng 201 nghìn tấn hạt tiêu. Như vậy, sản lượng hạt tiêu Việt Nam chiếm khoảng 30% sản lượng hạt tiêu toàn thế giới. Em hãy tính sản lượng hạt tiêu đã sản xuất trên toàn thế giới vào năm 2019.\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm a biết 30% của nó bằng b.\nLời giải chi tiết\nSản lượng hạt tiêu đã sản xuất trên toàn thế giới là:\n\\(201:\\dfrac{30}{100}=670\\) (nghìn tấn)."
+    },
+    {
+        "problem": "Năm 2002, Thumbelina được Tổ chức Kỉ lục Thế giới Guinness chính thức xác nhận là con ngựa thấp nhất thế giới  với chiều cao khoảng 44,5 cm. Còn Big Jake trở nên nổi tiếng vào năm 2010 khi được Tổ chức Kỉ lục Thế giới Guinness trao danh hiệu là con ngựa cao nhất thế giới, nó cao gấp khoảng 4,72 lần con ngựa Thumbelina. Hỏi chiều cao của con Big Jake là bao nhiêu?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Chiều cao của Big Jake bằng chiều cao của Thumbelina nhân với 4,72.\nLời giải chi tiết\nChiều cao của con Big Jake là:\n44,5.4,72=210,04 (cm)\nLàm tròn kết quả đến hàng đơn vị được 210 cm."
+    },
+    {
+        "problem": "Nhân dịp Việt đạt danh hiệu học sinh giỏi, Việt được mẹ mua cho một con robot (rô-bốt). Giá niêm yết của con robot là 300 000 đồng nhưng hôm nay được khuyến mại giảm giá 15%. Vậy mẹ Việt phải trả bao nhiêu tiền để mua con robot đó?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Số tiền mua robot = giá niêm yết - số tiền được giảm\nSố tiền được giảm = giá niêm yết . \\(\\dfrac{15}{100}\\)\nLời giải chi tiết\nMẹ Việt phải trả số tiền để mua con robot đó là:\n\\(300 000 - (300 000.\\dfrac{15}{100}) = 255 000\\) (đồng)"
+    },
+    {
+        "problem": "Cầu Bạch Đằng nối thành phố Hải Phòng và tỉnh Quảng Ninh được khánh thành ngày 1-9-2018. Đây là một trong những cây cầu lớn nhất Việt Nam, đúng thứ ba trong số bảy cây cầu dây văng có nhiều nhịp nhất thế giới và là cây cầu dây văng thứ hai của Việt Nam được thiết kế, thi công hoàn toàn bởi kĩ sư, công nhân người Việt Nam. Cầu có tổng chiều dài khoảng 5,4 km, vượt qua ngã ba sông Bạch Đằng, sông Cầm. Nếu vẽ trên bản đồ tỉ lệ xích 1: 100 000 thì cầu Bạch Đằng dài bao nhiêu xentimét?\nVideo hướng dẫn giải",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Đổi đơn vị về cm.\nĐộ dài trên bản đồ = tỉ lệ xích. độ dài trên thực tế.\nLời giải chi tiết\nĐổi 5,4 km=540 000 cm\nNếu vẽ trên bản đồ tỉ lệ xích 1: 100 000 thì cầu Bạch Đằng dài số xentimet là:\n540 000 . (1: 100 000) =5,4 cm."
+    }
+]

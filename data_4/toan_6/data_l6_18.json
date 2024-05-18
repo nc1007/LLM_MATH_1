@@ -1,0 +1,98 @@
+[
+    {
+        "problem": "Câu 1. Tìm thương của phép chia sau: 64: (-8); \nA. 8\nB. – 8\nC. 6\nD. -6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Ta có 64:(-8) = -8.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 2.   -10 là gì của 2?\nA. -10 là bội của 2\nB. -10 là ước của 2\nC. Cả A và B đều đúng\nD. Cả A và B đều sai",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải Vì (-10): 2 = -5 nên -10 chia hết cho 2, do đó -10 là một bội của 2.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 3. Tìm tập các ước nguyên của 5\nA. Ư(5) =  {1; 5}\nB. Ư(5) = {-1; -5}\nC. Ư(5) = {0; 5; 10; …}\nD. Ư(5) = {1; -1; 5; -5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nCác ước nguyên dương của 5 là 1; 5.\nDo đó các ước nguyên âm của 5 là -1; -5\nVậy Ư(5) = {-5; -1; 1; 5}.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 3. Thực hiện phép tính: (-132).(-98):11\nA. 1 176\nB. 176\nC. 16 116\nD. 1 616",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(-132).(-98):11\n= 12 936:11\n= 1 176.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Kết quả của phép tính: [(-9).(-9).(-9) + 9^{3} ]:8^{10} .\nA. là một số nguyên âm\nB. là một số nguyên dương\nC. 1\nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n[(-9).(-9).(-9) + 9^{3} ]:8^{10} \n= [-9^{3}  + 9^{3} ]:8^{10} \n= 0: 8^{10} \n= 0.\nĐáp án: D"
+    },
+    {
+        "problem": "Câu 5. Tìm số nguyên x, biết: (- 24).x = - 120;                                       \nA. x = 5 \nB. x = -5\nC. x = 2\nD. x = -2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(- 24).x = - 120\nx = (- 120):(- 24) \nx = 5\nVậy x = 5.\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 6. Tìm ba bội của 5.\nA. 3 bội của 5 là: 0; 10; 42\nB. 3 bội của 5 là: -15; 25; 65\nC. 3 bội của 5 là: 26; 5; 45\nD. 3 bội của 5 là: -20; -115; 98",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa nhân 5 với các số tự niên …; -2; -1; 0; 1; 2; 3; …\nSuy ra B(5) = {…; -10; -5; 0; 5; 25;…}.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 8. So sánh hai biểu thức sau: X = (9 876 – 6 789).(9 876 + 6 789) và Y = – 134.\nA. X < Y\nB. X > Y\nC. X = Y\nD. X < Y < 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: (9 876 – 6 789).(9 876 + 6 789) > 0 mà – 134 < 0 nên (9 876 – 6 789).(9 876 + 6 789) > -134.\nVậy (9 876 – 6 789).(9 876 + 6 789) > -134 hay X  > Y.\nĐáp án: B"
+    },
+    {
+        "problem": "Câu 9. Tìm các số nguyên x, biết: 100 : (x – 7) = 1\nA. x = 7\nB. x = 93\nC. x = 107\nD. x = -7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n100 : (x – 7) = 1\nx – 7 = 100:1\nx – 7 = 100\nx = 100 + 7\nx = 107.\nVậy x = 107.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 10. Tìm các số nguyên x, biết: (5x – 10) : (77x^{2}  + 1) = 0.\nA. x = 2\nB. x = 0\nC. x = 2 và x = 0\nD. x = -2",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \n(5x – 10) : (77x^{2}  + 1) = 0\nTH1: 5x – 10 = 0\n5x = 10\nx = 10:5\nx = 2.\nTH2: 77x^{2}  + 1 = 0 \n77x^{2}  = -1 (vô lí).\nVậy x = 2.\nĐáp án: A"
+    },
+    {
+        "problem": "III. Vận dụng\nCâu 1. Chỉ số đồng hồ đo nước sinh hoạt cuối các tháng 9, 10, 11, 12 của năm 2020 ở nhà bác Long được thống kê trong bảng sau:\nThời điểm\nCuối tháng 9\nCuối tháng 10\nCuối tháng 11\nCuối tháng 12\nChỉ số đồng hồ đo nước (m^{3} )\n22\n26\n31\n37\nBiết số tiền nước phải trả cho mỗi m^{3}  là không đổi và tổng số tiền mà bác Long phải trả trong quý IV là 90 000 đồng. Tính số tiền nước mà bác Long phải trả của tháng 10 và thàng 11 năm 2020.\nA. 24 000 đồng\nB. 30 000 đồng\nC. 24 000 đồng và 30 000 đồng\nD. 30 000 đồng và 24 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nMột năm có 12 tháng được chia làm 4 quý, trong đó:\nQuý I gồm tháng 1, tháng 2, tháng 3;\nQuý II gồm tháng 4, tháng 5, tháng 6;\nQuý III gồm tháng 7, tháng 8, tháng 9;\nQuý IV gồm tháng 10, tháng 11, tháng 12.\nSố m^{3}  nước của nhà bác Long đã sử dụng trong ba tháng cuối năm (hay trong quý IV) là: \n37 – 22 = 15 (số).\nMỗi m^{3}  nước có giá tiền là: 90 000:15 = 6 000 (m^{3} ).\nSố m^{3 } nước bác Long đã sử dụng trong tháng 10 là: 26 – 22 = 4 (m^{3} ).\nSố tiền nước mà bác Long phải trả của tháng 10 năm 2020 là:\n4.6 000 = 24 000 (đồng).\nSố m^{3 } nước bác Long đã sử dụng trong tháng 11 là: 31 – 26 = 5 (m^{3} ).\nSố tiền nước mà bác Long phải trả của tháng 11 năm 2020 là:\n5.6 000 = 30 000 (đồng).\nVậy số tiền nước mà bác Long phải trả của tháng 10 và tháng 11 năm 2020 lần lượt là 24 000 đồng và 30 000 đồng.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 2. Tìm hai số nguyên khác nhau a và b thỏa mãn a ⋮ b và b ⋮ a.\nA. a và b là hai số nguyên dương bằng nhau\nB. a và b là hai số nguyên âm bằng nhau\nC. a và b là hai số nguyên đối nhau\nD. a và b bằng 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nVì  a ⋮ b và b ⋮ a. \nVì a chia hết cho b nên a là bội của b mà b cũng chia hết cho a nên b là bội của a.\nSuy ra a = b hoặc a = -b (a, b ≠ 0)\nMà a và b là hai số nguyên khác nhau  nên a = - b hay a và b là số đối của nhau.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 3. Sau một quý kinh doanh, bác Ba lãi được 60 triệu đồng, còn chú Tư lại lỗ 12 triệu đồng. Em hãy tính xem bình quân trong một tháng mỗi người lãi hay lỗ bao nhiêu tiền?\nA. Bác Ba lãi 20 triệu đồng, bác Tư lỗ 4 triệu đồng\nB. Bác Ba lãi 60 triệu đồng, bác Tư lỗ 12 triệu đồng\nC. Bác Ba lãi 30 triệu đồng, bác Tư lỗ 6 triệu đồng\nD. Bác Ba lãi 10 triệu đồng, bác Tư lỗ 2 triệu đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có: Một quý sẽ gồm có 3 tháng.\nTrong một tháng số tiền lãi của bác Ba: 60:3 = 20 (triệu đồng)\nTrong một tháng số tiền lỗ của bác Tư: 12:3 = 4 (triệu đồng)\nVậy bình quân trong một tháng số tiền lãi/lỗ của mỗi người là:\nBác Ba lãi: 20 triệu đồng (Có 20 triệu đồng).\nBác Tư lỗ: 4 triệu đồng (Có - 4 triệu đồng).\nĐáp án: A"
+    },
+    {
+        "problem": "Câu 4. Một công ty cơ khí sản xuất đồ dùng dân dụng đã đề xuất chế độ thưởng phạt như bảng sau:\nLoại sản phẩm\nMức thưởng/phạt cho 1 sản phẩm\nA\nThưởng 100 000 đồng\nB\nThưởng 50 000 đồng\nC\nPhạt 30 000 đồng\nD\nPhạt 70 000 đồng\nBác Toàn làm được 40 sản phẩm loại A, 35 sản phẩm loại B, 15 sản phẩm loại C và 10 sản phẩm loại D. Vậy bác Toàn được thưởng hay phạt trung bình bao nhiêu tiền trên mỗi sản phẩm.\nA. 4 600 000 đồng\nB. 4 600 đồng\nC. 46 000 đồng\nD. 460 000 đồng",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nSố tiền bác Toàn được nhận là: 40.100 000 + 35.50 000 – 15.30 000 – 10.70 000\n= 4 000 000 + 1 750 000 – 450 000 – 700 000 = 4 600 000 (đồng).\nTổng số sản phẩm bác Toàn làm được là: 40 + 35 + 15 + 10 = 100 (sản phẩm).\nDo đó bác Toàn được thưởng trung bình mỗi sản phẩm là: \n4 600 000:100 = 46 000 (đồng).\nVậy bác Toàn được thưởng trung bình 46 000 đồng trên mỗi sản phẩm.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 7. Tìm các số nguyên dương x, sao cho: x chia hết cho 18\nA. x ∈ {1; 2; 3; 6; 9; 18} \nB. x ∈ {0; 18; 36; 54; …}\nC. x ∈ {18; 36; 54; …}\nD. x ∈ {…; -36; -18; 0; 18; 36; 54; …}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nb) Vì x chia hết cho 18 nên x thuộc tập B(18) = {…; -36; -18; 0; 18; 36; 54; …}.\nMà x là số nguyên dương nên x ∈ {18; 36; 54; …}\nVậy x ∈ {18; 36; 54; …}.\nĐáp án: C"
+    },
+    {
+        "problem": "Câu 8. Tìm các số nguyên x, sao cho: 2x – 3 là bội của x + 1\nA. x = 0\nB. x ∈ {0; -2; 4; -6} \nC. x ∈ {0; -2; 4} \nD. x ∈ {4; -6}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Lời giải \nTa có 2x – 3 = 2x + 2 – 5 = 2(x + 1) – 5 \nVì 2x – 3 là bội của x + 1 nên 2x – 3 chia hết cho x + 1. Mà 2(x + 1) chia hết cho x + 1 nên 5 phải chia hết cho x + 1 hay x + 1 thuộc Ư(5) = {1; -1; 5; -5}.\nSuy ra x ∈ {0; -2; 4; -6}.\nVậy x ∈ {0; -2; 4; -6}.\nĐáp án: B"
+    }
+]

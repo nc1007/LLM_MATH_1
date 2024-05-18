@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "+Số nguyên có phần dấu là – và phần số tự nhiên là k thì là số -k\n+Số đối của –k là k\nLời giải chi tiết\n+) Vì số nguyên a có phần dấu là \"-\" và phần số tự nhiên là 27 nên a = - 27\n+) Số đối của – 27 là 27.\nVậy a = -27, số đối của a là 27."
+    },
+    {
+        "problem": "Hãy sắp xếp các số a, b, c, d theo thứ tự tăng dần, nếu:",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tính các số a,b,c,d rồi so sánh\n+Nếu a< b thì –a > -b\nLời giải chi tiết\nTa có:\na = 32 + (-28) = 32 – 28 = 4\nb = (-7) – 5 = - 7 – 5 = - (7 + 5) = - 12\nc = (-12). (-5) = 12. 5 = 60\nd = (-28): 7 = - (28: 7) = -4\nVì 12 > 4 nên -12 < -4 mà – 4 < 4 < 60 nên -12 < -4 < 4 < 60 hay b < d < a < c.\nVậy sắp xếp theo thứ tự tăng dần là: b; d; a; c.\nLời giải hay"
+    },
+    {
+        "problem": "Tính giá trị của biểu thức; tìm cách tính hợp lí:\na) 21. 23 – 3. 7. (-17);",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng tính chất phân phối của phép nhân đối với phép cộng a.b + a.c=a. (b+c)\nLời giải chi tiết\na) 21. 23 – 3. 7. (-17) = 21. 23 – 21. (-17) = 21. [23 – (-17)] = 21. (23 + 17) = 21. 40\n= 21. 4. 10 = (21. 4). 10 = 84. 10 = 840.\nb) 42. 3 – 7. [(-34) + 18] = 7. 6. 3 – 7. [(-34) + 18] = 7. 18 – 7. [(-34) + 18]\n= 7. [18 - (- 34) – 18] = 7. [(18 – 18) + 34] = 7. (0 + 34) = 7. 34 = 238."
+    },
+    {
+        "problem": "Tính giá trị của biểu thức; tìm cách tính hợp lí:\na) 71. 64 + 32. (-7) – 13. 32;",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "* a.b + a.c=a. (b+c)\nLời giải chi tiết\na) 71. 64 + 32. (-7) – 13. 32\n= 71. 2. 32 + 32. (-7) – 13. 32\n= 32. [71. 2 + (-7) – 13]\n= 32. (142 – 7 – 13)\n= 32. (135 – 13)\n= 32. 122\n= 3 904.\nb) 13. (23 – 17) – 13. (23 + 17)\n= 13. 23 – 13. 17 – 13. 23 – 13. 17\n= (13. 23 – 13. 23) – (13. 17 + 13. 17)\n= 0 – 2. (13. 17)\n= 0 – 2. 221\n= 0 – 442\n= -442.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tích bằng 0 khi chứa thừa số bằng 0\nLời giải chi tiết\n(38 – x). (x + 25) = 0\nSuy ra 38 – x = 0 hoặc x + 25 = 0\n*Trường hợp 1:\n38 – x = 0\nx = 38 – 0\nx = 38\n*Trường hợp 2:\nx + 25 = 0\nx = 0 – 25\nx = -25\nVậy \\(x \\in \\{ 38; - 25\\} \\)\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Tìm các bội dương của 6, suy ra các bội của 6. Tìm các số thỏa mãn điều kiện\nLời giải chi tiết\nNhân 6 lần lượt với 1; 2; 3; 4; … ta được các bội dương của 6 là: 6; 12; 18; 24; …\nDo đó các bội của 6 là: …; - 24; -18; -12; -6; 0; 6; 12; 18; 24; …\nCác bội của 6 lớn hơn -19 và nhỏ hơn 19 là: -18; -12; -6; 0; 6; 12; 18\nVậy các bội của 6 lớn hơn -19 và nhỏ hơn 19 là -18; -12; -6; 0; 6; 12; 18.\nLời giải hay"
+    },
+    {
+        "problem": "",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "*Các bước tìm ƯCLN của hai hay nhiều số lớn hơn 1:\n- Phân tích mỗi số ra thừa số nguyên tố\n- Chọn ra các thừa số nguyên tố chung\n- Lập tích các thừa số đã chọn, mỗi thừa số lấy với số mũ nhỏ nhất. Tích đó là ƯCLN phải tìm.\n*Ước của ƯCLN là ước chung\nLời giải chi tiết\nTa đi tìm các ước chung nguyên dương của 36 và 42.\nTa có: 36 = 22.32;       42 = 2. 3. 7\nƯCLN(36, 42) = 2. 3 = 6\nƯC(36, 42) = Ư(6) = {1; 2; 3; 6}\nDo đó tất cả các ước chung của hai số 36 và 42 là: -6; -3; -2; -1; 1; 2; 3; 6\nVậy tất cả các ước chung của hai số 36 và 42 là: ±1; ±2; ±3; ±6.\nLời giải hay"
+    }
+]

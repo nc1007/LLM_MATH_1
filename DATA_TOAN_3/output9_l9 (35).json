@@ -1,0 +1,44 @@
+[
+    {
+        "problem": "Nếu chiều cao và bán kính đáy của một hình nón đều tăng lên và bằng \\(\\displaystyle {5 \\over 4}\\) so với các kích thước tương ứng ban đầu thì trong các tỉ số sau đây, tỉ số nào là tỉ số giữa thể tích của hình nón mới với thể tích của hình nón ban đầu?\n(A) \\(\\displaystyle {5 \\over 4};\\)                                        (B) \\(\\displaystyle {{15} \\over {12}};\\)\n(C) \\(\\displaystyle {{25} \\over {16}};\\)                                      (D) \\(\\displaystyle {{125} \\over {64}}.\\)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Thể tích hình nón: \\(\\displaystyle V = {1 \\over 3}\\pi {r^2}h\\).\n(\\(r\\) là bán kính đường tròn đáy, \\(h\\) là chiều cao).\nLời giải chi tiết\nGọi bán kính đáy hình nón ban đầu là \\(r\\), độ dài đường cao là \\(h\\).\nThể tích hình nón ban đầu là: \\(V =\\displaystyle {1 \\over 3}\\pi {r^2}.h\\)\nThể tích nón mới khi bán kính và chiều cao tăng là:\n\\(\\displaystyle {V_1} = \\pi {\\left( {{5 \\over 4}r} \\right)^2}.{5 \\over 4}h = \\pi {r^2}.h.{\\left( {{5 \\over 4}} \\right)^3}\\)\n\\(\\dfrac{{{V_1}}}{V} = \\dfrac{{\\dfrac{1}{3}\\pi {r^2}h.{{\\left( {\\dfrac{5}{4}} \\right)}^3}}}{{\\dfrac{1}{3}\\pi {r^2}h}} = {\\left( {\\dfrac{5}{4}} \\right)^3}\\)\\(\\,= \\dfrac{{125}}{{64}}\\)\nChọn (D).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Trong các hình sau đây, hình nào có diện tích lớn nhất?\n(A) Hình tròn có bán kính \\(2cm\\).\n(B) Hình vuông có độ dài cạnh \\(3,5cm\\).\n(C) Tam giác với độ dài các cạnh là \\(3cm, 4cm, 5cm\\).\n(D) Nửa mặt cầu bán kính \\(4cm\\).\nHãy chọn kết quả đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Diện tích hình tròn bán kính \\(r\\) là: \\(S = \\pi {r^2}\\).\n- Diện tích hình vuông cạnh \\(a\\) là \\(S = {a^2}\\).\n- Diện tích tam giác vuông bằng nửa tích hai cạnh góc vuông.\n- Diện tích mặt cầu bán kính \\(r\\) là: \\(S = 4\\pi {r^2}.\\)\nLời giải chi tiết\n(A) Hình tròn có bán kính \\(2cm\\) có diện tích là: \\(S =\\pi {r^2} = \\pi {.2^2}= 4\\pi\\; (c{m^2})\\)\n(B) Hình vuông có cạnh bằng \\(3,5 cm\\) có diện tích là: \\(S=a^2=3,5^2 = 12,25 \\;(c{m^2})\\)\n(C) Ta có: \\({3^2} + {4^2} = {5^2}\\) do đó tam giác có độ dài các cạnh \\(3cm, 4cm, 5cm\\) là tam giác vuông.\nDiện tích tam giác đó là:\n\\(\\displaystyle S = {1 \\over 2}.3.4 = 6\\; (c{m^2})\\)\n(D) Diện tích nửa mặt cầu bán kính \\(4 cm\\) là:\n\\(S \\displaystyle  =\\frac{1}{2}.4\\pi {r^2} = \\frac{1}{2}.4\\pi {.4^2} =  32\\pi\\; (c{m^2})\\).\nVậy trong các hình trên thì nửa mặt cầu bán kính 4cm có diện tích lớn nhất\nChọn D.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Hai hình cầu \\(A\\) và \\(B\\) có các bán kính tương ứng là \\(x\\) và \\(2x\\; (cm)\\).\nTỉ số các thể tích của \\(2\\) hình cầu này là:\n(A) \\(1: 2\\)            (B) \\(1: 4\\)         (C) \\(1: 8\\)\n(D) Một kết quả khác.\nHãy chọn kết quả đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Áp dụng công thức:\nThể tích hình cầu bán kính \\(R\\) : \\(\\displaystyle V ={4 \\over 3}\\pi {R^3}\\).\nLời giải chi tiết\nHình cầu \\(A\\) có bán kính \\(r = x\\) có thể tích là: \\(\\displaystyle {V_1} = {4 \\over 3}\\pi {x^3}\\left( {c{m^3}} \\right)\\)\nHình cầu \\(B\\) có bán kính \\(r = 2x\\) có thể tích là: \\(\\displaystyle {V_2} = {4 \\over 3}\\pi {\\left( {2x} \\right)^3} = {{32} \\over 3}\\pi {x^3}\\left( {c{m^3}} \\right)\\)\n\\(\\displaystyle {V_1}:{V_2} = {4 \\over 3}:{{32} \\over 3} = {4 \\over 3}.{3 \\over {32}} = {1 \\over 8}\\)\nChọn (C).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chọn dưa hấu.\nVới hai quả dưa hấu (xem như là 2 hình cầu) một to và một nhỏ, tỉ số các đường kính của chúng là \\(5: 4\\), nhưng giá của quả to gấp rưỡi giá của quả nhỏ. Bạn chọn mua quả nào lợi hơn? (xem “chất lượng” của chúng là như nhau).",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng: Thể tích hình cầu bán kính \\(r\\) là: \\(\\displaystyle V ={4 \\over 3}\\pi {r^3}\\).\nLời giải chi tiết\nGọi bán kính quả nhỏ là \\(r\\) thì bán kính quả lớn là \\(\\displaystyle {5 \\over 4}r\\).\nThể tích quả nhỏ là: \\(\\displaystyle V = {4 \\over 3}\\pi {r^3}\\);\nThể tích quả to là: \\(\\displaystyle V = {4 \\over 3}\\pi {\\left( {{5 \\over 4}r} \\right)^3}\\)\nTỉ số \\(2\\) thể tích là: \\(\\displaystyle {4 \\over 3}\\pi {r^3}{\\left( {{5 \\over 4}} \\right)^3}:{4 \\over 3}\\pi {r^3} = {\\left( {{5 \\over 4}} \\right)^3} = {{125} \\over {64}}\\)\nMua quả to lợi hơn vì thể tích gần gấp đôi mà giá tiền chỉ gấp rưỡi.\nLoigiaihay.com"
+    },
+    {
+        "problem": "Đổ đầy nước vào một dụng cụ để đong có dạng hình nón, sau đó đổ hết lượng nước đó vào một hình trụ có bán kính đáy của hình nón và chiều cao bằng chiều cao của hình nón. Việc làm này lặp lại cho đến khi hình trụ đó đầy nước thì số lần múc đầy vào hình nón là:\n(A) \\(1\\)                                  (C) \\(3\\)\n(B) \\(2\\)                                  (D) \\(4\\)\nHãy chọn kết quả đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Thể tích hình nón có bán kính đáy \\(r\\), chiều cao \\(h\\) là: \\(V = \\dfrac{1}{3}\\pi {r^2}h\\).\n- Thể tích hình trụ có bán kính đáy \\(r\\), chiều cao \\(h\\)  là: \\(\\displaystyle V =\\pi {r^2}h \\).\nLời giải chi tiết\nGiả sử hình trụ và hình nón có cùng bán kính \\(r\\) và chiều cao \\(h\\).\nThể tích hình trụ là: \\(V = \\pi {r^2}.h\\)\nThể tích hình nón là: \\(\\displaystyle V '= {1 \\over 3}\\pi {r^2}.h\\)\n\\( \\Rightarrow V = 3V'\\).\nVậy phải múc \\(3\\) lần.\nChọn (C).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Với một cái thước dây, liệu có thể xác định được thể tích của một vật thể có dạng hình cầu hay không?",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Độ dài đường tròn lớn của hình cầu bán kính \\(r\\) là \\(C = 2\\pi r\\).\n- Thể tích hình cầu bán kính \\(r\\) là \\(V = \\dfrac{4}{3}\\pi {r^3}\\).\nLời giải chi tiết\nDùng thước dây tạo ra đường tròn đặt vừa khít hình cầu, ta có độ dài của đường tròn lớn là \\(C \\).\nBán kính của hình cầu là: \\(\\displaystyle  r = {C \\over {2\\pi }}\\).\nThể tích hình cầu là: \\(\\displaystyle V = {4 \\over 3}\\pi. {\\left( {{C \\over {2\\pi }}} \\right)^3} = {4 \\over 3}\\pi .{{{C^3}} \\over {8{\\pi ^3}}} = {{{C^3}} \\over {6{\\pi ^2}}}\\).\nLoigiaihay.com"
+    },
+    {
+        "problem": "Chiều cao của một hình trụ gấp ba lần bán kính đáy của nó.\nTỉ số của thể tích hình trụ này và thể tích của hình cầu có bán kính bằng bán kính đáy của hình trụ là:\n(A) \\(\\displaystyle {4 \\over 3}\\)                                (C) \\(\\displaystyle {3 \\over 1}\\)\n(B) \\(\\displaystyle {9 \\over 4}\\)                                (D) \\(\\displaystyle {4 \\over 9}\\)\nHãy chọn kết quả đúng.",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Sử dụng:\n- Thể tích hình trụ có bán kính đáy \\(r\\), chiều cao \\(h\\) là: \\(V = \\pi {r^2}h\\).\n- Thể tích hình cầu bán kính \\(r\\) là: \\(\\displaystyle V ={4 \\over 3}\\pi {r^3}\\).\nLời giải chi tiết\nVì chiều cao của một hình trụ gấp ba lần bán kính đáy của nó nên nếu bán kính đáy hình trụ là \\(r\\) thì chiều cao hình trụ là \\(h=3r\\)\nThể tích của hình trụ là: \\({V_1} = \\pi {r^2}.h = \\pi {r^2}.3r = 3\\pi {r^3}\\)\nThể tích của hình cầu là: \\(\\displaystyle {V_2} = {4 \\over 3}\\pi {r^3}\\)\nTa có \\(\\dfrac{{{V_1}}}{{{V_2}}} = \\dfrac{9}{4}\\)\nChọn (B).\nLoigiaihay.com"
+    }
+]

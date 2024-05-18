@@ -1,0 +1,176 @@
+[
+    {
+        "problem": "A. x∈Ư(a) và x∈B(b)\nB. x⊂Ư(a)và x⊂Ư(b)\nC. x∈Ư(a) vàx∈Ư(b)\nD. x∉Ư(a) và x∉Ư(b)",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố x là ước chung của a, b nếu x vừa là ước của a vừa là ước của b.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 2. 8 là ước chung của\nA. 12 và 32\nB. 24 và 56\nC. 14 và 48\nD. 18 và 24",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n24:8 = 3;\n56:8 = 7\n=> 8 là ước chung của 24 và 56.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 3. Tìm ƯCLN(18; 60)\nA. 6 \nB. 30 \nC. 12 \nD. 18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: \n18 = 2.3^{2} ; 60 = 2^{2} .3.5\nNên ƯCLN(18;60) = 2.3 = 6\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Cho ƯCLN(a, b) = 80, ước chung của a và b có thể là:\nA. 20\nB. 160\nC. 30\nD. 50",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 20 là một ước của 80 nên 20 là một ước chung của a và b.\nVậy 20 là số cần tìm.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 6. Sau khi phân tích 45, 150 ra các thừa số nguyên tố. Tất cả các thừa số chung của hai số này là:\nA. 2 và 3\nB. 2 và 5\nC. 3 và 5\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n45 = 3^{2} .5có hai thừa số nguyên tố là 3 và 5\n150 = 2.3.5^{2}  có 3 thừa số nguyên tố là 2, 3 và 5.\nCác thừa số chung là 3 và 5.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 7. Sau khi phân tích 45, 150 ra các thừa số nguyên tố được 45 = 3^{2} .5 và\n150 = 2.3.5^{2}  . Số mũ nhỏ nhất của thừa số chung 3 là\nA. 1\nB. 2\nC. 3\nD. 0",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n45 = 3^{2} .5 nên số mũ của 3 là 2\n150 = 2.3.5^{2}  nên số mũ của 3 là 1\nSố nhỏ nhất là 1 nên số mũ nhỏ nhất của thừa số chung 3 khi phân tích 45 và 150 ra tích các thừa số nguyên tố là 1.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Phân số \\frac{16}{10} được rút gọn về phân số tối giản là:\nA. \\frac{16}{10}\nB. \\frac{8}{5}\nC. 2\nD.\\frac{4}{5}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nƯC(15; 10) = 2. Ta chia cả tử và mẫu của \\frac{16}{10} cho 2 được:\\frac{16}{10}=\\frac{16:2}{10:2}=\\frac{8}{5}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Tìm ước chung của 9 và 15.\nA. {1;3}\nB. {0;3} \nC. {1;5}\nD. {1;3;9}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Ta có:\nƯ(9) = {1,3,9} và Ư(15) = {1,3,5,15}\nVậy ƯC(9,15) = Ư(9)∩ Ư(15) = {1,3}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 10. Viết các tập hợp Ư(6); Ư(20); ƯC(6,20).\nA. Ư(6) = {1, 2, 3, 6}; Ư(20) = {1, 2, 4, 5, 10, 20}; ƯC(6,20) = {1, 2}\nB. Ư(6) = {1,2,3,6}; Ư(20) = {1,2,4,5,20}; ƯC(6,20) = {1,2}\nC. Ư(6) = {1,2,3}; Ư(20) = {1,2,4,5,10,20}; ƯC(6,20) = {1,2}\nD. Ư(6) = {1,2,4,6}; Ư(20) = {1,2,4,20}; ƯC(6,20) = {1,2,4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\nƯ(6) ={1,2,3,6} và Ư(20) ={1,2,4,5,10,20}\nVậy ƯC(6,20) ={1,2}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 11. Giao của tập của hai tập hợpA={toán, văn, thể dục, ca nhạc} và \nB={mỹ thuật, toán, văn, giáo dục công dân}\nA. C={toán, văn, thể dục}\nB. C={toán, văn}\nC. C={toán, văn, thể dục, ca nhạc}\nD. C={toán, thể dục, giáo dục công dân}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi C=A∩B\nVậy C={toán, văn}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Dạng 2. Các dạng toán về ước chung, ước chung lớn nhất\nCâu 1. Tìm ước chung của 9 và 15.\nA. {1;3}\nB. {0;3}\nC. {1;5} \nD. {1;3;9}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n- Ta có:\nƯ(9) ={1,3,9} và Ư(15) ={1,3,5,15}\nVậy ƯC(9,15) = Ư(9)∩ Ư(15) = {1,3}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 2. Viết các tập hợp Ư(6); Ư(20); ƯC(6,20).\nA. Ư(6) ={1,2,3,6}; Ư(20) ={1,2,4,5,10,20}; ƯC(6,20) ={1,2}\nB. Ư(6) ={1,2,3,6}; Ư(20) ={1,2,4,5,20}; ƯC(6,20) ={1,2}\nC. Ư(6) ={1,2,3}; Ư(20) ={1,2,4,5,10,20}; ƯC(6,20) ={1,2}\nD. Ư(6) ={1,2,4,6}; Ư(20) ={1,2,4,20}; ƯC(6,20) ={1,2,4}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có:\nƯ(6) ={1,2,3,6} và Ư(20) ={1,2,4,5,10,20}\nVậy ƯC(6,20) ={1,2}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 3. Giao của tập của hai tập hợpA={toán, văn, thể dục, ca nhạc} và\nB={mỹ thuật, toán, văn, giáo dục công dân}}.\nA. C = {toán, văn, thể dục}\nB. C = {toán, văn}\nC. C = {toán, văn, thể dục, ca nhạc}\nD. C = {toán, thể dục, giáo dục công dân}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi C=A∩B\nVậy C={toán, văn}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 4. ƯCLN của a và b là:\nA. Bằng b nếu a chia hết cho b\nB. Bằng a nếu a chia hết cho b\nC. Là ước chung nhỏ nhất của a và b\nD. Là hiệu của 2 số a và b",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nNếu a chia hết cho b thì b là ước của a.\nMà b cũng là ước của b nên b∈ƯC(a; b)\nHơn nữa bb là ước lớn nhất của b nên ƯCLN(a,b) = b\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 5. Tìm ƯCLN của 15, 45 và 225.\nA. 18\nB. 3\nC. 15\nD. 5",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: 15 = 3.5; 45 = 3^{2} .5;225 = 5^{2} .3^{2} \nNên ƯCLN(15; 45; 225) = 3.5 = 15.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 6. Cho a = 3^{2} .5.7; b = 2^{4} .3.7. Tìm ƯCLN của a và b.\nA. ƯCLN(a,b) = 3.7\nB. ƯCLN(a,b) = 3^{2} .7^{2} \nC. ƯCLN(a,b) = 2^{4} .5\nD. ƯCLN(a,b) = 2^{4} .3^{2} .5.7",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có a=32.5.7;b=24.3.7\na = 3^{2} .5.7; b = 2^{4} .3.7 nên ƯCLN(a,b) = 3.7\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 7. Chọn khẳng định đúng:\nA. Mọi số tự nhiên đều có ước chung với nhau. \nB. Mọi số tự nhiên đều có ước là 0 \nC. Số nguyên tố chỉ có đúng 1 ước là chính nó.\nD. Hai số nguyên tố khác nhau thì không có ước chung",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nA. Đáp án này đúng vì mọi số tự nhiên đều có ước chung là 1\nB. Đáp án này sai, vì 0 không là ước của 1 số nào cả.\nC. Đáp án này sai, vì số nguyên tố có 2 ước là 1 và chính nó.\nD. Đáp án này sai, vì 2 số nguyên tố có ước chung là 1.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 8. Phân số \\frac{4}{9} bằng mấy phân số trong các phân số sau: \\frac{48}{108};\\frac{80}{180};\\frac{60}{130};\\frac{135}{270}?\nA. 1\nB. 2\nC. 3\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nƯCLN(48,108)=12 ⇒\\frac{48}{108}=\\frac{4}{9}\nƯCLN(80,180)=20 ⇒\\frac{80}{180}=\\frac{4}{9}\nƯCLN(60,130)=10 ⇒\\frac{60}{130}=\\frac{6}{13}\nƯCLN(135,270)=135 ⇒\\frac{135}{270}=\\frac{1}{2}\nPhân số \\frac{4}{9}bằng các phân số \\frac{48}{108};\\frac{80}{180}\nVậy có 2 phân số bằng \\frac{4}{9}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 9. Tìm số tự nhiên lớn nhất biết 18⋮x và 32⋮x.\nA. 4\nB. 2\nC. 3\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 18⋮x ⇒ x∈ Ư(18); 32⋮x ⇒ x∈ Ư(32) suy ra x∈ ƯC(18;32)\nMà x lớn nhất nên x = ƯCLN(18;32)\nTa có 18=2.3^{2} ; 32=2^{5} nên ƯCLN(18;32) =2\nHay x = 2.\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 10. Tìm các ước chung của 18;30;42.\nA. {2;3;6} \nB. {1;2;3;6} \nC. {1;2;3}\nD. {1;2;3;6;9}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) Ư(18) ={1;2;3;6;9;18}\n+) Ư(30) ={1;2;3;5;6;10;15;30}\n+) Ư(42) ={1;2;3;6;7;12;14;21;42}\nNên ƯC(18;30;42) ={1;2;3;6}\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 11. Tìm x biết 120 ⋮ x; 200⋮ x và x < 40\nA. x∈{1;2;4;5;8;10;20}\nB. x∈{2;5;10;20;40} \nC. x∈{1;2;5;10;20;40} \nD. x∈{2;5;10;20}",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \n+) Vì 120⋮x nên x∈Ư(120)={1;2;3;4;5;6;8;10;12;15;20;24;30;40;60;120}\n+) Vì 200⋮x nênx∈Ư(200)={1;2;4;5;8;10;20;25;40;50;100;200}\nNên x∈ƯC(120; 200) ={1;2;4;5;8;10;20;40}\nmà x < 40 nên x∈{1;2;4;5;8;10;20}\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 12. Tìm x lớn nhất biết x+220 và x+180 đều chia hết cho x.\nA. 15\nB. 10\nC. 20\nD. 18",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nVì x+220 và x+180 đều là bội của xx nên (x+220)⋮x và (x+180)⋮xVì x⋮x ⇒ 220⋮xvà 180⋮x⇒ x∈ ƯC(220;180)Vì x lớn nhất ⇒ x∈ƯCLN(220;180)\n220 = 2^{2} .5.11 ; 180 = 2^{2} .3^{2} .5⇒ x = ƯCLN(220;180) = 2^{2} .5 = 20\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 13. Một căn phòng hình chữ nhật dài 680cm, rộng480cm. Người ta muốn lát kín căn phòng đó bằng gạch hình vuông mà không có viên gạch nào bị cắt xén. Hỏi viên gạch có độ dài lớn nhất là bao nhiêu? \nA. 5cm\nB. 10cm\nC. 20cm\nD. 40cm",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: Gọi chiều dài viên gạch là x.Để lát kín căn phòng mà không có có viên gạch nào bị cắt xén thì x phải là ước của chiều dài và chiều rộng căn phòng Hay 680⋮x và 480⋮x⇒ x∈ ƯC(680; 480)Để x là lớn nhất ⇒ x = ƯCLN(680; 480)Ta có: \n680 = 2^{3} .5.17; \n480 = 2^{5} .3.5⇒ x = ƯCLN(680;480) = 2^{3} .5 = 40Vậy để lát kín căn phòng mà không có viên gạch nào bị cắt xén thì độ dài cạnh viên gạch lớn nhất là 4040 cm.cm.\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 14. Một khu đất hình chữ nhật có chiều dài 60m, rộng 24m. Người ta chia thành những thửa đất hình vuông bằng nhau, để mỗi thửa đất đó có diện tích lớn nhất thì độ dài cạnh mỗi thửa đất đó là bao nhiêu? \nA. 8m\nB. 24m\nC. 12m\nD. 6m",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nGọi cạnh mỗi thửa đất hình vuông chia được là x(m)Để diện tích các thửa đất đó là lớn nhất thì x phải lớn nhất Vì các thửa đất đó được chia ra từ đám đất hình chữ nhật ban đầu có chiều dài 60m và 24m Nên xx phải là ước của 60 và 24 Hay x∈ƯC(6024)Vì x là lớn nhất nên x= ƯCLN(60;24)Ta có: \n60 = 2^{2} .3.5;\n24 = 2^{3} .3 ⇒ x = ƯCLN(60; 24) = 2^{2} .3 =12.Vậy mỗi thửa đất hình vuông đó có độ dài cạnh lớn nhất là 12m.\nĐáp án cần chọn là: C"
+    },
+    {
+        "problem": "Câu 15. Hoa có 48 viên bi đỏ, 30 viên bi xanh và 60 viên bi vàng. Hoa muốn chia đều số bi vào các túi, sao cho mỗi túi có đủ 3 loại bi. Hỏi Hoa có thể chia vào nhiều nhất bao nhiêu túi mà mỗi túi có số bi mỗi màu bằng nhau.\nA. 6\nB. 8\nC. 4\nD.1212",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: Gọi số túi mà Hoa chia được là x(túi) Vì số bi mỗi màu ở mỗi túi cũng bằng nhau nên 48⋮x ; 30⋮x và 60⋮x⇒x∈ ƯC(48; 30; 60)Vì x là lớn nhất nên x = ƯCLN(48; 30; 60)Ta có: \n48 = 2^{4} .3; \n30 = 2.3.5\n60 = 2^{2} .3.5⇒x = ƯCLN(48; 30; 60) = 2.3 = 6Vậy Hoa chia được nhiều nhất là 66 túi mà mỗi túi có số bi mỗi màu bằng nhau.\nĐáp án cần chọn là: A"
+    },
+    {
+        "problem": "Câu 16. Chọn câu đúng.\nA. ƯCLN(44;56)= ƯCLN(48;72) \nB. ƯCLN(44;56) < ƯCLN(48;72)\nC. ƯCLN(44;56) > ƯCLN(48;72)\nD. ƯCLN(44;56) = 1; ƯCLN(48;72) = 3",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có 44 = 2^{2} .11; 56 = 2^{3} .7 nên ƯCLN (44;56) = 2^{2 } = 4.\nLại có48 = 2^{4} .3; 72 = 2^{3} .3^{2}  nên ƯCLN(48;72) = 2^{3} .3 = 24.\nNên ƯCLN(44; 56) <ƯCLN(48; 72)\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 17. Tìm xlớn nhất biết x+160 và x+300 đều là bội của x?\nA. 18\nB. 20\nC. 10\nD. 4",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: Vì x+160 và x+300 đều là bội của xnên (x+160)⋮x và (x+300)⋮xVì x⋮x ⇒160⋮x và 300⋮x⇒ x∈ ƯC(160;300)Vì x lớn nhất ⇒ x = ƯCLN(160; 300)160 = 2^{5} .5 và 300 = 2^{2} .3.5^{2} ⇒ x = ƯCLN(160;300) = 2^{2} .5 = 20\nĐáp án cần chọn là: B"
+    },
+    {
+        "problem": "Câu 18. Một lớp học có 18 nam và 24 nữ được chia đều vào các nhóm sao cho số nam trong các nhóm bằng nhau và số nữ trong các nhóm bằng nhau. Hỏi chia được nhiều nhất bao nhiêu nhóm?\nA. 24\nB. 18\nC. 12\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nTa có: Gọi số nhóm chia được là x (nhóm) Vì có 18 nam mà số nam ở mỗi nhóm bằng nhau nên 18⋮xVì có 24nữ mà số nữ ở mỗi nhóm bằng nhau nên 24⋮x⇒x∈ƯC(18;24)Vì xlà lớn nhất nên x= ƯCLN(18;24)\nTa có: 18 = 2.3^{2}  ; 24 = 2^{3} .3⇒ x = ƯCLN(18;24) = 2.3 = 6\nVậy chia được nhiều nhất là 6nhóm .\nĐáp án cần chọn là: D"
+    },
+    {
+        "problem": "Câu 19. Lớp 6A có 40 học sinh, lớp 6B có 48 học sinh, lớp 6C có 32 học sinh. Ba lớp cùng xếp thành hàng như nhau và không lớp nào lẻ hàng. Tính số hàng dọc nhiều nhất mỗi lớp có thể xếp được?\nA. 4\nB. 12\nC. 8\nD. 6",
+        "level": "Level 5",
+        "type": "Algebra",
+        "solution": "Trả lời: \nSố hàng dọc nhiều nhất có thể xếp được là ước chung lớn nhất của 40; 48 và 32.\nTa có \n40 = 2^{3} .5; \n48 = 2^{4} .3; 32 = 2^{5} .\nƯCLN(40; 48; 32) = 2^{3 } = 8\nVậy số hàng dọc nhiều nhất mỗi lớp xếp được là 8 hàng.\nĐáp án cần chọn là: C"
+    }
+]
